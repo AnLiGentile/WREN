@@ -2,15 +2,15 @@
 
 ## Table of contents ##
 
-- [Introduction](#intro) 
+- [Introduction](#introduction) 
 - [Workflow](#Workflow)
-- [Page pre-processing](#Page pre-processing)
-- [Candidate patterns for entity attributes](#Candidate patterns for entity attributes)
-- [Boilerplate removal](#Boilerplate removal)
-- [Pattern ranking](#Pattern ranking)
+- [Page pre-processing](#page-pre-processing)
+- [Candidate patterns for entity attributes](#andidate-patterns-for-entity-attributes)
+- [Boilerplate removal](#boilerplate-removal)
+- [Pattern ranking](#pattern-ranking)
 
 
-### Introduction [intro]###
+### Introduction ###
 
 ### Workflow ###
 
