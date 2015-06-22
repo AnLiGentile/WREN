@@ -2,7 +2,7 @@
 
 ## Table of contents ##
 
-- [Introduction](#Introduction) 
+- [Introduction](#intro) 
 - [Workflow](#Workflow)
 - [Page pre-processing](#Page pre-processing)
 - [Candidate patterns for entity attributes](#Candidate patterns for entity attributes)
@@ -10,7 +10,7 @@
 - [Pattern ranking](#Pattern ranking)
 
 
-### Introduction ###
+### Introduction [intro]###
 
 ### Workflow ###
 
