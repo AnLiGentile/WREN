@@ -1,4 +1,4 @@
 
 ### Datasets ###
 
-This folder contains evaluation [datasets](./resources/datasets) with the relative groundtruth
+This folder contains evaluation datasets with the relative groundtruth
