@@ -82,13 +82,6 @@ public class LoadGS {
 				if (id.endsWith(".htm"))
 					id = id.substring(0, id.lastIndexOf(".htm"));
 
-				// TODO patch to read Isabelle's results on SIGIR dataset, as
-				// the file names have been alternated in her results
-				// only use it for SIGIR dataset, take it out for priority_2
-				// datasets and others
-				// if (id.contains("_"))
-				// id = id.substring(0,id.lastIndexOf("_"));
-
 				this.values.put(id.toLowerCase(), values);
 			}
 			// this.values.put(id, values);}
@@ -113,50 +106,10 @@ public class LoadGS {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// LoadGS fileExt = new
-		// LoadGS("/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/groundtruth/book/book-amazon-title.txt");
-		// LoadGS fileExt = new
-		// LoadGS("/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/groundtruth/book/book-borders-author.txt");
-		// LoadGS fileExt = new
-		// LoadGS("/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/groundtruth/camera/camera-onsale-model.txt");
 		LoadGS fileExt = new LoadGS(
-				"/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/groundtruth/nbaplayer/nbaplayer-usatoday-weight.txt");
-
-		// for (String s :fileExt.getValues().values()){
-		// System.out.println(s);
-		// }
-
-		// for (Entry<String, Set<String>> s :fileExt.getValues().entrySet()){
-		// System.out.println(s.getKey() +" "+s.getValue().size());
-		// if (s.getValue().size()>0)
-		// System.out.println(s.getValue());
-		//
-		// }
+				"./resources/datasets/swde-17477/groundtruth/nbaplayer/nbaplayer-espn-weight.txt");
 
 		System.out.println(fileExt.getAllDifferentAnnotations());
-		/*
-		 * 
-		 * HashTagEntropy ss = new HashTagEntropy(args[0]);
-		 * 
-		 * 
-		 * File d = new File("/Users/annalisa/SOLR/simon-solr-3.4/data/index");
-		 * if (d.isDirectory()) { Directory directory; try { directory =
-		 * FSDirectory.open(d); List<String> tt =
-		 * ss.computeTopTermOnGlobalIndex(directory);
-		 * 
-		 * 
-		 * System.out.println(tt);
-		 * 
-		 * BufferedWriter outH = new BufferedWriter(new
-		 * FileWriter("./out/stopword.txt"));
-		 * 
-		 * for (String t:tt) { outH.write(t); outH.newLine(); } outH.close(); }
-		 * catch (IOException e) { // TODO Auto-generated catch block
-		 * e.printStackTrace(); } catch (Exception e) { // TODO Auto-generated
-		 * catch block e.printStackTrace(); }
-		 * 
-		 * }
-		 */
 
 	}
 

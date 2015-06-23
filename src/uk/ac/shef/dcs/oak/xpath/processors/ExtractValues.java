@@ -195,57 +195,7 @@ public class ExtractValues {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// String testSET =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/TESTSET/film_all/film-imdb-5747";
-		// String testSET =
-		// "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/RAW/priority_1/film-imdb-5755";
 
-		// String testSET = args[0];//"./film-imdb-15";
-		// String domain = args[1];//"film";
-		// String website = args[2];// "imdb";
-		// String inFolder = args[3];// "./temp/rPNoBoilerp/film/";
-		// String outFolder = args[4];// "./newScoreMultiple/film/";
-		// String gazFolder = args[5];//
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/gaz_cardinality/film/";
-
-		// String testSET = "./film-imdb-15";
-		// String domain = "film";
-		// String website = "imdb";
-		// String inFolder = "./temp/rPNoBoilerp/film/";
-		// String outFolder = "./newScoreMultiple/film/";
-		// String gazFolder =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/gaz_cardinality/film/";
-
-		// String testSET =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/testSET/book/book-abebooks-2000";
-		// String domain = "book";
-		// String website = "abebooks";
-		// String inFolder =
-		// "./tempSIGIR5/rPNoBoilerp/book/book-abebooks-2000/";
-		// String outFolder = "./SIGIR7results/book/book-abebooks-2000/";
-		// String gazFolder =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/ISWCgazDBPEDIAonly_cardinality/book/";
-
-		// String testS =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/testSET/book/";
-
-		// TODO SIGIR dataset
-		// String domain = "book";
-		// String testS = "./pagexpath/SIGIR/"+domain+File.separator;
-		//
-		// String inF = "./tempSIGIR8/rPNoBoilerp/"+domain+File.separator;
-		// String outFolder = "./SIGIR10/WI/"+domain+File.separator;
-		// String gazFolder =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/ISWCgazDBPEDIAonly_cardinality/"+domain+File.separator;
-
-		// String domain = "book";
-		// String testS = "./pagexpath/"+domain+File.separator;
-		//
-		// String inF = "./temp/rPNoBoilerp/"+domain+File.separator;
-		// String outFolder = "./ISWC/WI/"+domain+File.separator;
-		// String gazFolder =
-		// "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/ISWCgazDBPEDIAonly_cardinality/"+domain+File.separator;
-		//
 		String domain = "film";
 		String testS = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/DATASET/ISWCpaperXPATHpages/ISWC/"
 				+ domain + File.separator;

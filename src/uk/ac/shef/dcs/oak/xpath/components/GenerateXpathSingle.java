@@ -40,6 +40,10 @@ import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
 import uk.ac.shef.wit.ie.wrapper.html.xpath.DOMUtil;
 
+/**
+ * @author annalisa
+ *
+ */
 public class GenerateXpathSingle extends Thread {
 
 	private static Logger l4j = Logger.getLogger(GenerateXpathSingle.class);

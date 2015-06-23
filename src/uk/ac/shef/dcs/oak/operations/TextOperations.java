@@ -14,8 +14,7 @@ import org.apache.any23.util.FileUtils;
 import org.apache.commons.lang.StringEscapeUtils;
 
 /**
- * @author annalisa
- * Class which provides basic text normalization operators.
+ * @author annalisa Class which provides basic text normalization operators.
  * 
  */
 
@@ -29,7 +28,6 @@ public class TextOperations {
 		}
 		return null;
 	}
-
 
 	public static String normalizeString(String r) {
 		r = StringEscapeUtils.unescapeHtml(r);

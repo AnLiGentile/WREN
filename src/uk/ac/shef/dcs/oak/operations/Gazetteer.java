@@ -18,8 +18,7 @@ import org.apache.log4j.Logger;
 import uk.ac.shef.dcs.oak.xpath.scorer.LoadGS;
 
 /**
- * @author annalisa
- * Class to load a Gazeteer from a text file.
+ * @author annalisa Class to load a Gazeteer from a text file.
  */
 public class Gazetteer implements Serializable {
 	private static Logger l4j = Logger.getLogger("Gazeteer");
@@ -30,7 +29,6 @@ public class Gazetteer implements Serializable {
 		return words;
 	}
 
-	
 	public Gazetteer(String wordFilePath) {
 		super();
 		this.words = new HashSet<String>();
@@ -62,19 +60,19 @@ public class Gazetteer implements Serializable {
 
 	/**
 	 * @param args
-	 * Example code that prints statistics about gazetteers and gold standard answers
+	 *            Example code that prints statistics about gazetteers and gold
+	 *            standard answers
 	 */
 	public static void main(String[] args) {
-		
-//		String gazetteer = args[0];
-//		String goldStandardFile = args[1]; 
-//		String testSetPath = args[2]; 
-//		String tempPathForCopyingSubsetOfTest = args[3]; 
-		
+
+		// String gazetteer = args[0];
+		// String goldStandardFile = args[1];
+		// String testSetPath = args[2];
+		// String tempPathForCopyingSubsetOfTest = args[3];
+
 		String gazetteer = "./resources/gazetteers/book/title.txt";
 		String goldStandardFile = "./resources/datasets/swde-17477/groundtruth/book/book-amazon-title.txt";
 
-		
 		Gazetteer fileExt = new Gazetteer(gazetteer);
 		Set<String> all = new HashSet<String>();
 		Set<String> correct = new HashSet<String>();
@@ -99,32 +97,32 @@ public class Gazetteer implements Serializable {
 		System.out.println("intersection size " + inters.size());
 		System.out.println(inters);
 
-		
 		// the following code is only to demostrate copying facility
-		
-/*		String testSetPath = "./resources/datasets/swde-17477/testSET/book/book-amazon-2000/";
-		String tempPathForCopyingSubsetOfTest = "./resources/temp/datasets/swde-17477/testSET/book/book-amazon(correct)/";
 
-		new File(tempPathForCopyingSubsetOfTest).mkdirs();		
-		System.out.println("**** pages to use *****");
+		/*
+		 * String testSetPath =
+		 * "./resources/datasets/swde-17477/testSET/book/book-amazon-2000/";
+		 * String tempPathForCopyingSubsetOfTest =
+		 * "./resources/temp/datasets/swde-17477/testSET/book/book-amazon(correct)/"
+		 * ;
+		 * 
+		 * new File(tempPathForCopyingSubsetOfTest).mkdirs();
+		 * System.out.println("**** pages to use *****");
+		 * 
+		 * 
+		 * for (Entry<String, Set<String>> s : fileGs.getValues().entrySet()) {
+		 * String firstRes = ""; if (!s.getValue().isEmpty()) firstRes =
+		 * s.getValue().iterator().next(); if (all.contains(firstRes)) { String
+		 * in = testSetPath + s.getKey() + ".htm"; String out =
+		 * tempPathForCopyingSubsetOfTest + s.getKey() + ".htm";
+		 * 
+		 * System.out.println("copying " + in + " to " + out);
+		 * 
+		 * Gazetteer.copyFile(in, out);
+		 * 
+		 * } } System.out.println("**** end pages to use *****");
+		 */
 
-
-		for (Entry<String, Set<String>> s : fileGs.getValues().entrySet()) {
-			String firstRes = "";
-			if (!s.getValue().isEmpty())
-				firstRes = s.getValue().iterator().next();
-			if (all.contains(firstRes)) {
-				String in = testSetPath + s.getKey() + ".htm";
-				String out = tempPathForCopyingSubsetOfTest + s.getKey() + ".htm";
-
-				System.out.println("copying " + in + " to " + out);
-
-				Gazetteer.copyFile(in, out);
-
-			}
-		}
-		System.out.println("**** end pages to use *****");*/
-		
 	}
 
 	public static void copyFile(String in, String out) {

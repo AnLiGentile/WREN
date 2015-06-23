@@ -4,8 +4,8 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- * @author annalisa
- * Class which provides minimal operators for Sets: intersection, union and difference.
+ * @author annalisa Class which provides minimal operators for Sets:
+ *         intersection, union and difference.
  * 
  */
 public class SetOperations {

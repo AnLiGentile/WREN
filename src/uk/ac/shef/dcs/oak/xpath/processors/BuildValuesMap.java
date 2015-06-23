@@ -31,7 +31,9 @@ public class BuildValuesMap {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String infile = "./tempSIGIR8/rPNoBoilerp/film/movie-amctv-2000/title";
+		
+		
+		String infile = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/DATASET/ISWCpaperTEMPxpath/tempSIGIR8/rPNoBoilerp/film/movie-amctv-2000/title";
 		SortedMap<String, Double> x = rankXpath(infile, 5);
 
 		System.out.println("**************************");

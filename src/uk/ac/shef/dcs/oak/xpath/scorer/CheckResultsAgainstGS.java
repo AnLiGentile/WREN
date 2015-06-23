@@ -21,10 +21,12 @@ public class CheckResultsAgainstGS {
 	// TODO this are just for testing purposes
 	// add read from main args[]
 	private static String experimentName = "testExperiment";
-	// this folder contains as many subfolder as many strategies have been tested 
-	private static String annotationFolder = "./annotations/testExperiment";
+	// this folder contains as many subfolder as many strategies have been
+	// tested
+	private static String annotationFolder = "./extractionResults/testExperiment";
 	private static String gtFolder = "./resources/datasets/swde-17477/groundtruth";
-	private static String resMultiple = "./experimentResults/"+experimentName+File.separator;
+	private static String resMultiple = "./experimentResults/" + experimentName
+			+ File.separator;
 
 	private static String gazFolderCard = "./resources/gazetteers/gazWithCardinality/";
 

@@ -13,6 +13,10 @@ import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 
+/**
+ * @author annalisa
+ *
+ */
 public class RemoveBoilerplateFromPages {
 
 	/**

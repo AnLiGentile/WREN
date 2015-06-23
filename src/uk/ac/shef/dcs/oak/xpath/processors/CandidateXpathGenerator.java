@@ -11,14 +11,19 @@ import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 
+/**
+ * @author annalisa
+ * This class reads pages represented as a set of <xpath-value> pairs (as produced by ReducePagesToXpath.generateStructure method)
+ * and select the subset of <xpath-value> pairs where the value matches a given gazetteer
+ */
 public class CandidateXpathGenerator {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String infile = "./pagexpath";
-		String gaz = "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/gaz/film/title.txt";
+		String infile = "./pagexpath/testExperiment/book/book-booksamillion-2000";
+		String gaz = "./resources/gazetteers/gazWithCardinality/book/title.txt";
 
 		generateCandidatedAnnotations(infile, gaz, "./reducedPages");
 	}

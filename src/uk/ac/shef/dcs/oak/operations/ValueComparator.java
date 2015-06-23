@@ -4,8 +4,7 @@ import java.util.Comparator;
 import java.util.Map;
 
 /**
- * @author annalisa
- * ValueComparator for Map<String, Double>.
+ * @author annalisa ValueComparator for Map<String, Double>.
  * 
  */
 public class ValueComparator implements Comparator<String> {

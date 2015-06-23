@@ -43,6 +43,11 @@ import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
 import uk.ac.shef.wit.ie.wrapper.html.xpath.DOMUtil;
 
+/**
+ * @author annalisa
+ * This class provides method to represent HTML pages as a set of xpath-value pairs
+ * In the current implementation only text nodes are retained
+ */
 public class ReducePagesToXpath {
 
 	private static Logger l4j = Logger.getLogger(ReducePagesToXpath.class);
@@ -340,28 +345,6 @@ public class ReducePagesToXpath {
 
 	}
 
-	// public static void printXpath(String strategyName,
-	// SortedMap<String, Double> res, String experimentFolder,
-	// String domain, String website, String attribute, int size) {
-	//
-	// String resFolder = "";
-	//
-	// resFolder = experimentFolder + File.separator + "xpath_results_"
-	// + strategyName + File.separator + domain;
-	// File resultsFolder = new File(resFolder);
-	//
-	// if (!resultsFolder.exists())
-	// resultsFolder.mkdirs();
-	//
-	// if (res.isEmpty()) {
-	// System.out
-	// .println("no results for " + domain + website + attribute);
-	// } else {
-	// printResXpath(res, resultsFolder + File.separator + domain + "-"
-	// + website + "-" + attribute + ".txt", size);
-	// }
-	//
-	// }
 
 	/**
 	 * private method to print a single file
@@ -449,47 +432,14 @@ public class ReducePagesToXpath {
 
 	/**
 	 * @param args
+	 * 
+	 * This main demonstrates the conversion of HTML pages to a set of <xpath-value> pairs for all text nodes in the page
 	 */
 	public static void main(String[] args) {
 
-		// String domain =
-		// "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/RAW/priority_2/music/music-reverbnation-1216";
-		// String resFolder = "./pagexpath/music/";
+		String domain = "./resources/datasets/swde-17477/testset/book";
 
-		// String domain =
-		// "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/RAW/priority_1/film-imdb-5755";
-		// String resFolder = "./pagexpath/film/";
-
-		// String domain =
-		// "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/RAW/priority_2/book/book-goodreads-3000";
-		// String domain = "./parsedPages/book";
-		// String resFolder = "./pagexpath/book/";
-
-		// String gazFolder = args[1];
-		//
-		//
-		// String resFolder = args[2];
-		//
-		// String attribute = args[1].substring(
-		// args[1].lastIndexOf(File.separator) + 1,
-		// args[1].lastIndexOf(".txt"));
-		//
-		// int repetitions = 15;
-		//
-		// ShinglePagesXpath.genereteXpath(domain, gazFolder, resFolder,
-		// attribute, repetitions);
-		// ReducePagesToXpath.genereteXpath(domain);
-
-		// String domain = "./parsedPages/music";
-		// String resFolder = "./pagexpath/music/";
-		// ReducePagesToXpath.generateStructure(domain, resFolder);
-
-		// String domain =
-		// "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/RAW/ISWCpaperParsedPages/book";
-		// String resFolder = "./pagexpath/SIGIR/book/";
-
-		String domain = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/RAW/ISWCpaperParsedPages/film";
-		String resFolder = "./pagexpath/SIGIR/film/";
+		String resFolder = "./pagexpath/testExperiment/book/";
 
 		File d = new File(domain);
 		for (File f : d.listFiles()) {
