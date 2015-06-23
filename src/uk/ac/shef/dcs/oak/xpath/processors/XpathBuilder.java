@@ -23,7 +23,7 @@ public class XpathBuilder {
 
 		
 
-		String inFolder = "./pagexpath/testExperiment/"+domain+File.separator+website; // html pages represented as a set of
+		String inFolder = "./temp/pagexpath/testExperiment/"+domain+File.separator+website; // html pages represented as a set of
 											// xpath-value
 		
 		String gazFolder = "./resources/gazetteers/gazWithCardinality/"+domain;
