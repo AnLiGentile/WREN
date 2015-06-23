@@ -31,6 +31,8 @@ The folder [resources](./resources) contains:
 - evaluation [datasets](./resources/datasets) with the relative groundtruth
 - the [temp](./temp) folder is the default location where the method creates intermediate representations of pages.
 
+The folder [experimentResults](./experimentResults) is the default location where the method saves experimental results.
+
 ### Workflow ###
 
 ### Page pre-processing ###
