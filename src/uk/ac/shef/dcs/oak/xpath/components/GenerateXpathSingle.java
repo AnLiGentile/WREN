@@ -11,20 +11,14 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.Random;
 import java.util.Set;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
-import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathExpressionException;
-import javax.xml.xpath.XPathFactory;
 
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
@@ -34,11 +28,11 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import uk.ac.shef.oak.any23.xpath.HtmlDocument;
 import uk.ac.shef.dcs.oak.operations.SetOperations;
 import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
-import uk.ac.shef.wit.ie.wrapper.html.xpath.DOMUtil;
+import uk.ac.shef.dcs.oak.util.DOMUtil;
+import uk.ac.shef.dcs.oak.util.HtmlDocument;
 
 /**
  * @author annalisa

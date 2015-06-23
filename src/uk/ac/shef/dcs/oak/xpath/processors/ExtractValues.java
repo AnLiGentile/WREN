@@ -6,8 +6,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Collection;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -19,19 +17,17 @@ import java.util.TreeMap;
 
 import javax.xml.xpath.XPathExpressionException;
 
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.math3.stat.StatUtils;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
-import uk.ac.shef.dcs.oak.lodie.table.interpreter.misc.DataTypeClassifier;
-import uk.ac.shef.dcs.oak.lodie.table.interpreter.misc.DataTypeClassifier.DataType;
 import uk.ac.shef.dcs.oak.operations.SetOperations;
 import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
+import uk.ac.shef.dcs.oak.util.DOMUtil;
+import uk.ac.shef.dcs.oak.util.DataTypeClassifier;
+import uk.ac.shef.dcs.oak.util.DataTypeClassifier.DataType;
+import uk.ac.shef.dcs.oak.util.HtmlDocument;
 import uk.ac.shef.dcs.oak.xpath.components.GenerateXpath;
-import uk.ac.shef.oak.any23.xpath.HtmlDocument;
-import uk.ac.shef.wit.ie.wrapper.html.xpath.DOMUtil;
 
 //import uk.ac.shef.oak.xpath.collectiveExperiment.ValueComparator;
 
@@ -194,68 +190,68 @@ public class ExtractValues {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
-
-		String domain = "film";
-		String testS = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/DATASET/ISWCpaperXPATHpages/ISWC/"
-				+ domain + File.separator;
-
-		String inF = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/DATASET/ISWCpaperTEMPxpath/ISWC/rPNoBoilerp/"
-				+ domain + File.separator;
-		String outFolder = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/COMPUTEDfinal/ISWC/WI/"
-				+ domain + File.separator;
-		// this is only needed to check the cardinality of the attributes
-		String gazFolder = "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/ISWCgazDBPEDIAonly_cardinality/"
-				+ domain + File.separator;
-
-		File inf = new File(inF);
-
-		for (File f : inf.listFiles()) {
-			if (f.isDirectory()) {
-				String testSET = testS + f.getName();
-				String website = f.getName().split("-")[1];
-				String inFolder = inF + f.getName();
-				// String outFolder = outF+f.getName();
-
-				// in xpath the key is the attribute, values are all possible
-				// xpaths
-				Map<String, Set<String>> xpath = new HashMap<String, Set<String>>();
-
-				File gf = new File(inFolder);
-
-				xpath = extractWith2templates(inFolder, gf, gazFolder);
-
-				// *****
-				// pretty print, nothing else
-				for (Entry<String, Set<String>> x : xpath.entrySet()) {
-					System.out.println(x.getKey() + " " + x.getValue().size());
-					for (String s : x.getValue()) {
-						System.out.println(s);
-
-					}
-				}
-				// *****
-
-				try {
-					// Map<String, Map<String, Set<String>>> res =
-					// extractValues(testSET, xpath, gazFolder);
-					Map<String, Map<String, Set<String>>> res = extractValuesFromCache(
-							testSET, xpath, gazFolder);
-
-					// print results
-					if (res != null) {
-						for (String attribute : res.keySet()) {
-							printAnnotations(outFolder, res.get(attribute),
-									domain, website, attribute);
-						}
-					}
-				} catch (XPathExpressionException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-			}
-		}
-	}
+//	public static void main(String[] args) {
+//
+//		String domain = "film";
+//		String testS = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/DATASET/ISWCpaperXPATHpages/ISWC/"
+//				+ domain + File.separator;
+//
+//		String inF = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/DATASET/ISWCpaperTEMPxpath/ISWC/rPNoBoilerp/"
+//				+ domain + File.separator;
+//		String outFolder = "/Users/annalisa/Documents/LODIEws/LODIE_data/ISWCdataset/COMPUTEDfinal/ISWC/WI/"
+//				+ domain + File.separator;
+//		// this is only needed to check the cardinality of the attributes
+//		String gazFolder = "/Users/annalisa/Documents/CORPORAandDATASETS/ISWCdataset/ISWCgazDBPEDIAonly_cardinality/"
+//				+ domain + File.separator;
+//
+//		File inf = new File(inF);
+//
+//		for (File f : inf.listFiles()) {
+//			if (f.isDirectory()) {
+//				String testSET = testS + f.getName();
+//				String website = f.getName().split("-")[1];
+//				String inFolder = inF + f.getName();
+//				// String outFolder = outF+f.getName();
+//
+//				// in xpath the key is the attribute, values are all possible
+//				// xpaths
+//				Map<String, Set<String>> xpath = new HashMap<String, Set<String>>();
+//
+//				File gf = new File(inFolder);
+//
+//				xpath = extractWith2templates(inFolder, gf, gazFolder);
+//
+//				// *****
+//				// pretty print, nothing else
+//				for (Entry<String, Set<String>> x : xpath.entrySet()) {
+//					System.out.println(x.getKey() + " " + x.getValue().size());
+//					for (String s : x.getValue()) {
+//						System.out.println(s);
+//
+//					}
+//				}
+//				// *****
+//
+//				try {
+//					// Map<String, Map<String, Set<String>>> res =
+//					// extractValues(testSET, xpath, gazFolder);
+//					Map<String, Map<String, Set<String>>> res = extractValuesFromCache(
+//							testSET, xpath, gazFolder);
+//
+//					// print results
+//					if (res != null) {
+//						for (String attribute : res.keySet()) {
+//							printAnnotations(outFolder, res.get(attribute),
+//									domain, website, attribute);
+//						}
+//					}
+//				} catch (XPathExpressionException e) {
+//					// TODO Auto-generated catch block
+//					e.printStackTrace();
+//				}
+//			}
+//		}
+//	}
 
 	/**
 	 * 
@@ -792,11 +788,13 @@ public class ExtractValues {
 
 	}
 
+	
 	public static SortedMap<String, Double> decideWinningXpath(
 			Map<String, Map<String, Set<String>>> candidates, Set<String> gaz,
 			int referenceGazettersCardinality, int totalPages) {
 
 		SortedMap<String, Double> xpathScore = new TreeMap<String, Double>();
+		
 		// Map<String,Set<String>> relaxed = new HashMap<String,Set<String>>();
 
 		System.out.println("datatype for gazetter");
@@ -881,6 +879,7 @@ public class ExtractValues {
 
 		if (xpathScore.isEmpty())
 			return null;
+			
 		return xpathScore;
 
 	}

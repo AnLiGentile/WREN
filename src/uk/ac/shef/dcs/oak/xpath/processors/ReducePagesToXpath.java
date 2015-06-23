@@ -37,11 +37,11 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import uk.ac.shef.oak.any23.xpath.HtmlDocument;
+import uk.ac.shef.dcs.oak.util.DOMUtil;
+import uk.ac.shef.dcs.oak.util.HtmlDocument;
 import uk.ac.shef.dcs.oak.operations.SetOperations;
 import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
-import uk.ac.shef.wit.ie.wrapper.html.xpath.DOMUtil;
 
 /**
  * @author annalisa
