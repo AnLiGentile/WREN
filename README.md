@@ -2,15 +2,24 @@
 
 ## Table of contents ##
 
-- [Introduction]
-- [Resources]
-- [Workflow]
-- [Page pre-processing]
-- [Candidate patterns for entity attributes]
-- [Boilerplate removal]
-- [Pattern ranking]
+- [Introduction](#introduction)
+- [Resources](#resources)
+- [Workflow](#workflow)
+- [Page pre-processing](#page-pre-processing)
+- [Candidate patterns for entity attributes](#candidate-patterns-for-entity-attributes)
+- [Boilerplate removal](#boilerplate-removal)
+- [Pattern ranking](#pattern-ranking)
 
 ### Introduction ###
+
+This projects provides methods to learn website wrappers.
+The assumptions are:
+- we have a given Knowledge base K (e.g. DBpedia)
+- we want to extract instances of a particular concept C and its attributes (as defined in K)
+- there is a fixed domain D (e.g. Book) D ={d_1 … d_n} where each d_i is a set of homogeneous *entity-centric* webpages i.e.:
+-- each webpage in d_i belongs to the same website (and share a common template)
+-- each webpage in d_i describes one entity e of type C
+
 
 A very short presentation can be found [here](http://www.slideshare.net/AnnaGentile/mining-entities-from-the-web) 
 
