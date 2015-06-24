@@ -1,104 +1,105 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>sl</groupId>
-    <artifactId>LODIE_WI</artifactId>
-  
-  <version>1.0</version>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>sl</groupId>
+	<artifactId>LODIE_WI</artifactId>
 
-  
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <lucene.version>4.0.0</lucene.version>
-        
-    </properties>
+	<version>1.0</version>
 
 
-    <build>
-        <sourceDirectory>src</sourceDirectory>
-        <plugins>
-            <plugin>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>2.3.2</version>
-                <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
-                    <encoding>UTF-8</encoding>
-                </configuration>
-            </plugin>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<lucene.version>4.0.0</lucene.version>
+
+	</properties>
 
 
-            <plugin>
-                <artifactId>maven-assembly-plugin</artifactId>
-                <version>2.2.1</version>
-                <configuration>
-                    <descriptorRefs>
-                        <descriptorRef>jar-with-dependencies</descriptorRef>
-                    </descriptorRefs>
-                    <archive>
-                        <manifest>
-                            <mainClass>uk.ac.shef.dcs.oak.xpath.score.GenerateXpath</mainClass>                         
-                            <!--mainClass>uk.ac.shef.dcs.oak.xpath.clustering.ExtractValues</mainClass-->                                                     
-                        </manifest>
-                    </archive>
-                </configuration>
-                <executions>
-                    <execution>
-                        <id>make-assembly</id>
-                        <!-- this is used for inheritance merges -->
-                        <phase>package</phase>
-                        <!-- append to the packaging phase. -->
-                        <goals>
-                            <goal>single</goal>
-                            <!-- goals == mojos -->
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
 
 
-        </plugins>
-    </build>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.2.1</version>
+				<configuration>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+					<archive>
+						<manifest>
+							<mainClass>uk.ac.shef.dcs.oak.xpath.components.GenerateXpath</mainClass>
+							<!--mainClass>uk.ac.shef.dcs.oak.xpath.processors.ExtractValues</mainClass -->
+						</manifest>
+					</archive>
+				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id>
+						<!-- this is used for inheritance merges -->
+						<phase>package</phase>
+						<!-- append to the packaging phase. -->
+						<goals>
+							<goal>single</goal>
+							<!-- goals == mojos -->
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			
+		</plugins>
+	</build>
 
 
-    <dependencies>
+	<dependencies>
 
+		<!-- Logging -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
 
+		<!-- Apache commons -->
 
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-math3</artifactId>
+			<version>3.2</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
 
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
-        </dependency>
+		<!-- Any23 -->
 
+		<dependency>
+			<groupId>org.apache.any23</groupId>
+			<artifactId>apache-any23-core</artifactId>
+			<version>1.1</version>
+		</dependency>
+		
+		<!-- htmlunit -->
+		
+		<dependency>
+			<groupId>net.sourceforge.htmlunit</groupId>
+			<artifactId>htmlunit</artifactId>
+			<version>2.8</version>
+		</dependency>
 
-            <dependency>
-	<groupId>org.apache.any23</groupId>
-	<artifactId>apache-any23-core</artifactId>
-	<version>1.1</version>
-</dependency>
-
-<dependency>
-	<groupId>org.apache.commons</groupId>
-	<artifactId>commons-lang3</artifactId>
-	<version>3.4</version>
-</dependency>
-
-<dependency>
-	<groupId>net.sourceforge.htmlunit</groupId>
-	<artifactId>htmlunit</artifactId>
-	<version>2.8</version>
-</dependency>
-
-
-<dependency>
-	<groupId>org.apache.commons</groupId>
-	<artifactId>commons-math3</artifactId>
-	<version>3.2</version>
-</dependency>
-           
-
-    </dependencies>
+	</dependencies>
 
 </project>
