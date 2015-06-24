@@ -2,14 +2,14 @@
 
 ## Table of contents ##
 
-- [Introduction](#introduction)
-- [Resources](#resources)
-- [Workflow](#workflow)
--- [Input](#input)
--- [Page pre-processing](#page-pre-processing)
--- [Candidate patterns for entity attributes](#candidate-patterns-for-entity-attributes)
--- [Boilerplate removal](#boilerplate-removal)
--- [Pattern ranking](#pattern-ranking)
+* [Introduction](#introduction)
+* [Resources](#resources)
+* [Workflow](#workflow)
+⋅⋅* [Input](#input)
+⋅⋅* [Page pre-processing](#page-pre-processing)
+⋅⋅* [Candidate patterns for entity attributes](#candidate-patterns-for-entity-attributes)
+⋅⋅* [Boilerplate removal](#boilerplate-removal)
+⋅⋅* [Pattern ranking](#pattern-ranking)
 
 ### Introduction ###
 
@@ -18,7 +18,7 @@ The assumptions are:
 - we have a given Knowledge base K (e.g. DBpedia)
 - we want to extract instances of a particular concept C and its attributes (as defined in K)
 - there is a fixed domain D (e.g. Book) D ={d<sub>1</sub> … d<sub>n</sub>} where each d<sub>i</sub> is a set of homogeneous *entity-centric* webpages i.e.:
--- each webpage in d<sub>i</sub> belongs to the same website (and share a common template)
+. each webpage in d<sub>i</sub> belongs to the same website (and share a common template)
 -- each webpage in d<sub>i</sub> describes one entity e of type C
 
 The method takes as input a set of homogeneous *entity-centric* webpages d<sub>i</sub> describing entities of type C; for each attribute to extract the method takes as input a gazetteer with possible values for the attribute, obtained from K.
