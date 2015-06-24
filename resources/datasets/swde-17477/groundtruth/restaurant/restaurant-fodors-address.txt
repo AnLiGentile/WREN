@@ -1,0 +1,2002 @@
+﻿restaurant	fodors	address
+2000	2000	2000	1980
+0000	1	2477 Arctic Blvd., Downtown, Anchorage, AK, 99503 |
+0001	1	555 W. Northern Lights Blvd., Midtown, Anchorage, AK, 99503 |
+0002	1	Crow Creek Rd., Girdwood, AK, 99587 |
+0003	1	737 W. 5th Ave., Downtown, Anchorage, AK, 99501 |
+0004	1	6700 Jewel Lake Rd., South Anchorage, Anchorage, AK, 99502 |
+0005	1	7305 Old Seward Hwy., South Anchorage, Anchorage, AK, 99518 |
+0006	1	900 W. 13th Ave., Downtown, Anchorage, AK, 99501 |
+0007	1	328 G St., Downtown, Anchorage, AK, 99501 |
+0008	1	Mi 229.7, Parks Hwy., Denali National Park, AK, 99755
+0009	1	4001 Geist Rd., Suite 2, University West, Fairbanks, AK, 99709
+0010	1	Mi 1 Otto Lake Rd., off Mi 247 Parks Hwy., Denali National Park, AK, 99743
+0011	1	706 2nd Ave., Downtown, Fairbanks, AK, 99701 |
+0012	1	Mi 1, 313.1, Alaska Hwy., Tok, AK, 99780
+0013	1	3702 Cameron St., Fairbanks, AK, 99709 |
+0014	1	Mi 248.7 Parks Hwy., Denali National Park, AK, 99743
+0015	1	Mi 10, Old Steese Hwy., Fox, AK, 99712
+0016	1	326 Front St., Ketchikan, AK, 99901 |
+0017	1	306 N. Nordic Dr., Petersburg, AK, 99833 |
+0018	1	3rd Ave. between Main and State Sts., Skagway, AK, 99840 |
+0019	1	1061 Salmon Lane Rd., Juneau, AK, 99811 |
+0020	1	13 Sing Lee Alley, Petersburg, AK, 99833 |
+0021	1	306 N. Nordic Dr., above Coastal Cold Storage, Petersburg, AK, 99833 |
+0022	1	224 4th St., Juneau, AK, 99811 |
+0023	1	4th Ave. between Main and State Sts., Skagway, AK, 99840 |
+0024	1	200 Seward St., Juneau, AK, 99811 |
+0025	1	Mi 49, Parks Hwy. at Pittman St., in the Tesoro Bldg., Wasilla, AK, 99654
+0026	1	4241 Homer Spit Rd., Homer, AK, 99603 |
+0027	1	43187 Kalifornsky Beach Rd., Soldotna, AK, 99669 |
+0028	1	276 Olson Ln., Homer, AK, 99603 |
+0029	1	Harbor Loop, Whittier, AK, 99693
+0030	1	Mi 8.2, E. End Rd., Homer, AK
+0031	1	300 Airport Dr., Valdez, AK, 99686
+0032	1	516 E. Marine Way, Kodiak, AK |
+0033	1	Mi 2.1, Copper River Hwy.99574, Cordova, AK
+0034	1	44619 Sterling Hwy., Sterling, AK, 99669 |
+0035	1	Mi 45, Sterling Hwy., Cooper Landing, AK, 99575
+0036	1	38515 Barbara St., at Mi 82.7, Sterling Hwy., Sterling, AK, 99672
+0037	1	12 Harbor Loop Dr., Whittier, AK, 99693
+0038	1	Harbor Loop, Whittier, AK, 99693
+0039	1	1204 Agvik St., next to Top of the World Hotel, Barrow, AK, 99723 |
+0040	1	320 Tundra St., Bethel, AK, 99559 |
+0041	1	573 W. Deuce of Clubs, Show Low, AZ, 85901 |
+0042	1	845 E. White Mountain Blvd., Lakeside, AZ, 85929 |
+0043	1	391 W. Deuce of Clubs, Show Low, AZ, 85901 |
+0044	1	9 S. Main St., Taylor, AZ, 85939
+0045	1	Grand Canyon Lodge, Bright Angel Point, North Rim, Grand Canyon, AZ, 86052 |
+0046	1	Grand Canyon Lodge, North Rim, Grand Canyon, AZ, 86052 |
+0047	1	Maswik Lodge, Desert View Dr., Grand Canyon Village, AZ, 86023 |
+0048	1	200 Hill St., Jerome, AZ
+0049	1	901 S. Milton Rd., University, Flagstaff, AZ, 86001 |
+0050	1	396 S. Main St., Camp Verde, AZ, 86322 |
+0051	1	126 W. Cottage Ave., Downtown, Flagstaff, AZ, 86001 |
+0052	1	2321 W. AZ 89A, West, Sedona, AZ, 86336
+0053	1	1610 W. AZ 89A, West, Sedona, AZ, 86336
+0054	1	L'Auberge de Sedona, 241 AZ 89A, Uptown, Sedona, AZ, 86336
+0055	1	11425 E. Cornville Rd., Cornville, AZ, 86325 |
+0056	1	201 N. Cortez St., Downtown, Prescott, AZ, 86301 |
+0057	1	130 W. Gurley St., Downtown, Prescott, AZ, 86303 |
+0058	1	234 S. Cortez St., Downtown, Prescott, AZ, 86303 |
+0059	1	250 Jordan Rd., No. 9, Uptown, Sedona, AZ, 86336 |
+0060	1	644 N. Navajo Dr., Page, AZ, 86040 |
+0061	1	125 S. Lake Powell Blvd., Page, AZ, 86040 |
+0062	1	5 mi west of AZ 87 on AZ 264, Second Mesa, AZ, 86403
+0063	1	100 Main St., AZ
+0064	1	Keams Canyon Shopping Center, AZ 264, Keams Canyon, AZ, 86034
+0065	1	Colorado Belle, 2100 S. Casino Dr., Laughlin, NV, 89029 |
+0066	1	401 E. Andy Devine Ave., Kingman, AZ, 86401 |
+0067	1	105 E. Andy Devine Ave., Kingman, AZ, 86401 |
+0068	1	Golden Nugget, 2300 S. Casino Dr., Laughlin, NV, 89029 |
+0069	1	1425 McCulloch Blvd., Lake Havasu City, AZ, 86403 |
+0070	1	7353 E. Scottsdale Mall, Old Town, Scottsdale, AZ, 85251 |
+0071	1	2119 E. Camelback Rd., Town and Country Shopping Center, Central Phoenix, Phoenix, AZ, 85016 |
+0072	1	3821 N. Scottsdale Rd., Old Town, Scottsdale, AZ, 85251 |
+0073	1	410 E. Thunderbird Rd., North Central Phoenix, Phoenix, AZ, 85022 |
+0074	1	6920 E. Cave Creek Rd., Cave Creek, AZ, 85331 |
+0075	1	2051 W. Warner Rd., Chandler, AZ, 85224 |
+0076	1	902 E. Ash St., Globe, AZ, 85501 |
+0077	1	6327 N. 7th St., North Central Phoenix, Phoenix, AZ, 85014 |
+0078	1	Biltmore Fashion Park, 2502 E. Camelback Rd., Camelback Corridor, Phoenix, AZ, 85016 |
+0079	1	4626 N. 16th St., Central Phoenix, Phoenix, AZ, 85016 |
+0080	1	7133 E. Stetson Dr., Old Town, Scottsdale, AZ, 85251 |
+0081	1	1919 W. Chandler Blvd., Chandler, AZ, 85224 |
+0082	1	2611 N. Central Ave., at Virginia, Central Phoenix, Phoenix, AZ, 85004 |
+0083	1	28 S. San Marcos Pl., Chandler, AZ, 85225 |
+0084	1	1940 E. Camelback Rd., Camelback Corridor, Phoenix, AZ, 85016 |
+0085	1	5012 E. Van Buren St., South Phoenix, Phoenix, AZ, 85008 |
+0086	1	6738 E. Cave Creek Rd., Cave Creek, AZ, 85331 |
+0087	1	800 E. Camelback Rd., Central Phoenix, Phoenix, AZ, 85014 |
+0088	1	8646 S. Central Ave., South Phoenix, Phoenix, AZ, 85042 |
+0089	1	534 W. McDowell Rd., Downtown Phoenix, Phoenix, AZ, 85003 |
+0090	1	2108 W. Camelback Rd., West Phoenix, Phoenix, AZ, 85015 |
+0091	1	550 N. Hayden Rd., South Scottsdale, Scottsdale, AZ, 85257 |
+0092	1	705 N. 1st St., Suite 120, Downtown Phoenix, Phoenix, AZ, 85004 |
+0093	1	5009 E. Washington, South Phoenix, Phoenix, AZ, 85034 |
+0094	1	5114 N. 7th St., Central Phoenix, Phoenix, AZ, 85014 |
+0095	1	5736 E. Rancho Manana Blvd., Cave Creek, AZ, 85331 |
+0096	1	15034 N. Scottsdale Rd., Kierland Commons, North Scottsdale, Scottsdale, AZ, 85254 |
+0097	1	2 Copper Queen Plaza, Bisbee, AZ, 85603
+0098	1	319 McKeown Ave., Patagonia, AZ, 85624 |
+0099	1	601 W. 4th St., Benson, AZ, 85602 |
+0100	1	400 W. Naugle Ave., Patagonia, AZ, 85624 |
+0101	1	Arizona Inn, 2200 E. Elm St., University, Tucson, AZ, 85710 |
+0102	1	500 N. 4th Ave., at 6th St., University, Tucson, AZ, 85719 |
+0103	1	621 N. 4th Ave., University, Tucson, AZ, 85719 |
+0104	1	3026 N. Campbell Ave., Central, Tucson, AZ, 85716 |
+0105	1	7053 N. Oracle Rd., Northwest, Tucson, AZ, 85704 |
+0106	1	Hotel Congress, 311 E. Congress St., Downtown, Tucson, AZ, 85701 |
+0107	1	Westward Look Resort, 245 E. Ina Rd., Northwest, Tucson, AZ, 85704 |
+0108	1	4637 E. Broadway Blvd., Central, Tucson, AZ, 85712 |
+0109	1	1813 S. 4th Ave., South, Tucson, AZ, 85701 |
+0110	1	1138 N. Belvedere, Central, Tucson, AZ, 85712 |
+0111	1	6390 E. Grant Rd., Eastside, Tucson, AZ, 85715 |
+0112	1	6 Plaza Rd., Tubac, AZ, 85646 |
+0113	1	4310 N. Campbell Ave., Foothills, Tucson, AZ, 85718 |
+0114	1	7037 N. Oracle Rd., Northwest, Tucson, AZ, 85704 |
+0115	1	2731 E. Broadway Blvd., Central, Tucson, AZ, 85716 |
+0116	1	540 Main St., Napa, CA, 94559 |
+0117	1	4110 Howard La., /Rte. 29, Napa, CA, 94558 |
+0118	1	13670 Arnold Dr., Glen Ellen, CA, 95442 |
+0119	1	121 E. Spain St., Sonoma, CA, 95476 |
+0120	1	452 E. 1st St., Sonoma, CA, 95476 |
+0121	1	1245 Spring St., St. Helena, CA, 94574 |
+0122	1	421 W. 1st St., Sonoma, CA, 95476
+0123	1	Furnace Creek Inn Resort, Hwy. 190, Furnace Creek, CA, 92328 |
+0124	1	Hwy. 190, Stovepipe Wells, CA, 92328 |
+0125	1	Raley's Shopping Center, 930 Tahoe Blvd., Incline Village, NV |
+0126	1	1132 Ski Run Blvd., South Lake Tahoe, CA |
+0127	1	Round Hill Shopping Center, off Hwy. 50, 212 Elks Point Dr., #101, Zephyr Cove, NV |
+0128	1	11197 Brockway Rd., Truckee, CA |
+0129	1	1785 W. Lake Blvd., Tahoe City, CA |
+0130	1	The Village at Squaw Valley, 1985 Squaw Valley Rd., Olympic Valley, CA |
+0131	1	907 Tahoe Blvd., Incline Village, NV |
+0132	1	3330 Lake Tahoe Blvd., Lakeview Plaza, South Lake Tahoe, CA |
+0133	1	8338 N. Lake Blvd., Kings Beach, CA |
+0134	1	1001 Heavenly Village Way, #26, South Lake Tahoe, CA |
+0135	1	7739 N. Lake Blvd., next to Safeway, Kings Beach, CA |
+0136	1	120 Country Club Dr., #29, Incline Village, NV |
+0137	1	2180 Lake Tahoe Blvd., South Lake Tahoe, CA |
+0138	1	1142 Ski Run Blvd., South Lake Tahoe, CA |
+0139	1	901 Tahoe Blvd., Incline Village, NV |
+0140	1	39 Fair Oaks Ave., Pasadena, CA, 91105 |
+0141	1	1155 N. Highland Ave., Hollywood, Los Angeles, CA, 90038 |
+0142	1	225 Santa Monica Blvd., Santa Monica, Los Angeles, CA, 90401 |
+0143	1	12224 Ventura Blvd., Studio City, Los Angeles, CA, 91604 |
+0144	1	11941 Ventura Blvd., Studio City, Los Angeles, CA, 91604 |
+0145	1	6350 Hollywood Blvd., Hollywood, Los Angeles, CA, 90028 |
+0146	1	8720 Sunset Blvd., West Hollywood, Los Angeles, CA, 90069 |
+0147	1	1445 4th St., Santa Monica, Los Angeles, CA, 90401 |
+0148	1	346 S. La Brea Ave., West Hollywood, Los Angeles, CA, 90036 |
+0149	1	4100 Cahuenga Blvd., North Hollywood, Los Angeles, CA, 91602 |
+0150	1	419 N. Fairfax Ave., Fairfax District, Los Angeles, CA, 90036 |
+0151	1	656 N. Virgil Ave., Los Feliz, Los Angeles, CA, 90004 |
+0152	1	10100 Constellation Blvd., Century City, Los Angeles, CA, 90028 |
+0153	1	The Langham, Huntington Hotel &amp; Spa, 1401 S. Oak Knoll Ave., Pasadena, CA, 91106 |
+0154	1	1121 S. Western Ave., Hollywood, Los Angeles, CA, 90006 |
+0155	1	209 World Way, LAX, Los Angeles, CA, 90045 |
+0156	1	133 N. La Cienega Blvd., Beverly Hills, Los Angeles, CA, 90211 |
+0157	1	The London, 1020 N. San Vicente Blvd., West Hollywood, Los Angeles, CA, 90069 |
+0158	1	7360 Beverly Blvd., West Hollywood, Los Angeles, CA, 90036 |
+0159	1	9540 Washington Blvd., Culver City, Los Angeles, CA, 90232 |
+0160	1	9537 Culver Blvd., Culver City, Los Angeles, CA, 90232 |
+0161	1	502 Santa Monica Blvd., Santa Monica, Los Angeles, CA, 90401 |
+0162	1	219 E. Garvey Ave., Monterey Park, Los Angeles, CA, 91755 |
+0163	1	1636 Silver Lake Blvd., Silver Lake, Los Angeles, CA, 90026 |
+0164	1	1031 Abbot Kinney Blvd., Venice, Los Angeles, CA, 90291 |
+0165	1	1602 Ocean Ave., Santa Monica, Los Angeles, CA, 90401 |
+0166	1	8386 Beverly Blvd., West Hollywood, Los Angeles, CA, 90048 |
+0167	1	129 N. La Cienega Blvd., Beverly Hills, Los Angeles, CA, 90211 |
+0168	1	Knott's Berry Farm Marketplace Area, 8039 Beach Blvd., Buena Park, CA, 90620 |
+0169	1	6667 Hollywood Blvd., Hollywood, Los Angeles, CA, 90028 |
+0170	1	Disney's Grand Californian Hotel, 1600 S. Disneyland Dr., CA, 92805 |
+0171	1	330 S. Hope St., Downtown, Los Angeles, CA, 90071 |
+0172	1	3835 Cross Creek Rd., Malibu, Los Angeles, CA, 90265 |
+0173	1	145 N. Atlantic Blvd., Monterey Park, Los Angeles, CA, 91754 |
+0174	1	8338 W. 3rd St., West Hollywood, Los Angeles, CA, 90048 |
+0175	1	933 S. Brand Blvd., Glendale, Los Angeles, CA, 91204 |
+0176	1	510 S. Arroyo Pkwy., Pasadena, CA, 91105 |
+0177	1	11604 San Vicente Blvd., Brentwood, Los Angeles, CA, 90049 |
+0178	1	913 E. California Blvd., Pasadena, Los Angeles, CA, 91106 |
+0179	1	419 Cold Canyon Rd., Calabasas, Los Angeles, CA, 91302 |
+0180	1	176 N. Ca&ntilde;on Dr., Beverly Hills, Los Angeles, CA, 90210 |
+0181	1	50 N. La Cienega Blvd., Beverly Hills, Los Angeles, CA, 90211 |
+0182	1	1978 N. Hillhurst Ave., Los Feliz, Los Angeles, CA, 90027 |
+0183	1	119 W. Green St., Pasadena, Los Angeles, CA, 91105 |
+0184	1	3221 Donald Douglas Loop S, Santa Monica, Los Angeles, CA, 90405 |
+0185	1	3115 Pico Blvd., Santa Monica, Los Angeles, CA, 90405 |
+0186	1	1714 N. Vermont Ave., Los Feliz, Los Angeles, CA, 90027 |
+0187	1	10319 Venice Blvd., West L.A, Los Angeles, CA, 90034 |
+0188	1	2930 Beverly Glen Circle, Bel Air, Los Angeles, CA, 90077 |
+0189	1	11930 San Vicente Blvd., Brentwood, Los Angeles, CA, 90049 |
+0190	1	8117 Sunset Blvd., West Hollywood, Los Angeles, CA, 90046 |
+0191	1	Mission St. and 7th Ave., Carmel, CA |
+0192	1	787 Rio Del Mar Blvd., Aptos, CA |
+0193	1	365 Calle Principal, Monterey, CA |
+0194	1	5th Ave., between San Carlos and Mission Sts., Carmel, CA |
+0195	1	223 17th St., Pacific Grove, CA |
+0196	1	1188 Forest Ave., Pacific Grove, CA |
+0197	1	1996&frac12; Sunset Dr., at Asilomar Blvd., Pacific Grove, CA |
+0198	1	Mission St., between Ocean and 7th Aves., Carmel, CA |
+0199	1	910 Cedar St., Santa Cruz, CA |
+0200	1	208 17th St., Pacific Grove, CA |
+0201	1	489 Alvarado St., Monterey, CA |
+0202	1	170 Forest Ave., Pacific Grove, CA |
+0203	1	1750 Wharf Rd., Capitola, CA |
+0204	1	105 Walnut Ave., Santa Cruz, CA |
+0205	1	16 E. Carmel Valley Rd., Carmel Valley, CA |
+0206	1	350 Ocean Ave., Laguna Beach, CA, 92651 |
+0207	1	2333 E. Coast Hwy., Corona del Mar, CA, 92625 |
+0208	1	3010 Lafayette Rd., Newport Beach, CA, 92663 |
+0209	1	317 Pacific Coast Hwy., Huntington Beach, CA, 92648 |
+0210	1	31631 Camino Capistrano, San Juan Capistrano, CA, 92675 |
+0211	1	21501 Brookhurst St., Huntington Beach, CA, 92646 |
+0212	1	7962 E. Coast Hwy., Crystal Cove Promenade, Corona del Mar, CA, 92657 |
+0213	1	369 E. 17th St., Costa Mesa, CA, 92627 |
+0214	1	31752 Los Rios St., San Juan Capistrano, CA, 92675 |
+0215	1	7862 E. Coast Hwy., Corona del Mar, CA, 92657 |
+0216	1	The Old Pottery Place, 1200 S. Coast Hwy., Laguna Beach, CA, 92651 |
+0217	1	647 W. 19th St., Costa Mesa, CA, 92627 |
+0218	1	73-640 El Paseo, Palm Desert, CA |
+0219	1	72-595 El Paseo, Palm Desert, CA |
+0220	1	140 E. Palm Canyon Dr., Palm Springs, CA |
+0221	1	155 S. Palm Canyon Dr., Palm Springs, CA |
+0222	1	73-890 El Paseo, Palm Desert, CA |
+0223	1	53688 Pioneertown Rd., Pioneertown, CA, 92268 |
+0224	1	134 S. Palm Canyon Dr., Palm Springs, CA |
+0225	1	572 N. Indian Canyon Dr., Palm Springs, CA |
+0226	1	149 S. Indian Canyon Dr., Palm Springs, CA |
+0227	1	226 F St., Davis, CA |
+0228	1	11750 Atwood Rd., off Hwy. 49, near Bel Air Mall, Auburn, CA |
+0229	1	1110 Front St., Sacramento, CA |
+0230	1	110 S. Pine St., Nevada City, CA |
+0231	1	124 Bank St., Grass Valley, CA |
+0232	1	Hotel Del Coronado, 1500 Orange Ave., San Diego, CA, 92118 |
+0233	1	1235 Morena Blvd., Morena District, San Diego, CA, 92110 |
+0234	1	7100 Four Seasons Point, Carlsbad, CA, 92011 |
+0235	1	109 W. F St., Downtown, San Diego, CA, 92101 |
+0236	1	28699 Old Town Front St., Temecula, CA, 92591 |
+0237	1	1421 University Ave., Hillcrest, San Diego, CA, 92103 |
+0238	1	3683 5th Ave., Hillcrest, San Diego, CA, 92103 |
+0239	1	32575 Rancho California Rd., Temecula, CA, 92591 |
+0240	1	721 9th Ave., East Village, San Diego, CA, 92101 |
+0241	1	4698 Convoy St., Kearny Mesa, San Diego, CA, 92111 |
+0242	1	505 Laurel St., Banker's Hill, San Diego, CA, 92101 |
+0243	1	1220 University Ave., Hillcrest, San Diego, CA, 92103 |
+0244	1	2304 San Diego Ave., San Diego, CA, 92110 |
+0245	1	4642 Park Blvd., University Heights, San Diego, CA, 92116 |
+0246	1	2121 Adams Ave., University Heights, San Diego, CA, 92116 |
+0247	1	544 5th Ave., Gaslamp Quarter, San Diego, CA, 92101 |
+0248	1	750 N. Harbor Dr., Embarcadero, San Diego, CA, 92101 |
+0249	1	4474 Mission Blvd., Pacific Beach, San Diego, CA, 92109 |
+0250	1	276 S. Harbor Dr. , Oceanside, CA, 92054 |
+0251	1	2271 1st Ave., Middletown, San Diego, CA, 92101 |
+0252	1	5010 Newport Ave., Ocean Beach, San Diego, CA, 92107 |
+0253	1	1055 5th Ave., Gaslamp Quarter, San Diego, CA, 92101 |
+0254	1	1536 India St., Little Italy, San Diego, CA, 92101 |
+0255	1	4609 Convoy St., Kearny Mesa, San Diego, CA, 92111 |
+0256	1	2224 Main St., Julian, CA, 92036 |
+0257	1	2253 Sunset Cliffs Blvd., Ocean Beach, San Diego, CA, 92107 |
+0258	1	1430 Union St., Little Italy, San Diego, CA, 92101 |
+0259	1	2591 S. Coast Hwy. 101, Encinitas, CA, 92007 |
+0260	1	825 Camino de la Reina N, San Diego, CA, 92108 |
+0261	1	15027 Hwy. 79, Julian, CA, 92036 |
+0262	1	4501 Mission Bay Dr., Pacific Beach, San Diego, CA, 92109 |
+0263	1	2634 Del Mar Heights Rd., Del Mar, CA, 92014 |
+0264	1	3794 30th St., North Park, San Diego, CA, 92104 |
+0265	1	224 5th Ave., Gaslamp Quarter, San Diego, CA, 92101 |
+0266	1	Country Squire Courtyard, 6009 Paseo Delicias, Rancho Santa Fe, CA, 92067 |
+0267	1	Loews Coronado Bay Resort, 4000 Coronado Bay Rd., San Diego, CA, 92118 |
+0268	1	729-733 4th Ave., Gaslamp Quarter, San Diego, CA, 92101 |
+0269	1	Junction Hwys. S6 and S7, Palomar Mountain, CA, 92060 |
+0270	1	777 G St., East Village, San Diego, CA |
+0271	1	400 J St., Gaslamp Quarter, San Diego, CA, 92101 |
+0272	1	1665 India St., Little Italy, San Diego, CA, 92101 |
+0273	1	1202 Kettner Blvd., Downtown, San Diego, CA, 92101 |
+0274	1	4346 Bonita Rd., Chula Vista, San Diego, CA, 91902 |
+0275	1	1030 Torrey Pines Rd., San Diego, CA, 92037 |
+0276	1	875 Prospect St., San Diego, CA, 92037 |
+0277	1	3888 4th Ave., Hillcrest, San Diego, CA, 92103 |
+0278	1	170 6th Ave., Gaslamp Quarter, San Diego, CA, 92101 |
+0279	1	8990 University Center La., La Jolla, San Diego, CA, 92122 |
+0280	1	3663 Voltaire St., Ocean Beach, San Diego, CA, 92106 |
+0281	1	113 W. Grand Ave., Escondido, CA, 92025 |
+0282	1	4355 Hwy. 78, Santa Ysabel, CA, 92070 |
+0283	1	2444 San Diego Ave., San Diego, CA, 92110 |
+0284	1	2355 Chestnut St., Marina, San Francisco, CA, 94101 |
+0285	1	St. Regis Hotel, 689 Mission St., SoMa, San Francisco, CA, 94105 |
+0286	1	2400 Polk St., Russian Hill, San Francisco, CA, 94109 |
+0287	1	607 Larkin St., Van Ness/Polk, San Francisco, CA, 94109 |
+0288	1	1 Mission St., Embarcadero, San Francisco, CA, 94105 |
+0289	1	2351 Mission St., Mission, San Francisco, CA, 94110 |
+0290	1	373 Broadway, North Beach, San Francisco, CA, 94113 |
+0291	1	420 Judah St., Inner Sunset, San Francisco, CA, 94122 |
+0292	1	3560 18th St., at Dearborn St., Mission, San Francisco, CA, 94110 |
+0293	1	649 Jackson St., Chinatown, San Francisco, CA, 94133 |
+0294	1	519 Columbus Ave., North Beach, San Francisco, CA, 94133 |
+0295	1	524 Valencia St., Mission, San Francisco, CA, 94110 |
+0296	1	Japan Center, Kinokuniya Bldg., 1825 Post St., Japantown, San Francisco, CA, 94115 |
+0297	1	Ferry Bldg., Embarcadero at Market St., Embarcadero, San Francisco, CA, 94111 |
+0298	1	1 Market St., Embarcadero, San Francisco, CA, 94105 |
+0299	1	230 California St., Financial District, San Francisco, CA, 94111 |
+0300	1	1015 Battery St., Embarcadero, San Francisco, CA, 94111 |
+0301	1	40 Belden Pl., Financial District, San Francisco, CA, 94104 |
+0302	1	1751 Fulton St., Haight, San Francisco, CA, 94117 |
+0303	1	600 Stockton St., Nob Hil l, San Francisco, CA, 94108 |
+0304	1	2298 Union St., Cow Hollow, San Francisco, CA, 94123 |
+0305	1	545 Mission St., SoMa, San Francisco, CA, 94104 |
+0306	1	1031 Irving St., Inner Sunset, San Francisco, CA, 94122 |
+0307	1	330 Townsend St., SoMa, San Francisco, CA, 94107 |
+0308	1	601 Hayes St., Hayes Valley, San Francisco, CA, 94102 |
+0309	1	3011 Steiner St., Cow Hollow, San Francisco, CA, 94123 |
+0310	1	400 Waller St., Lower Haight, San Francisco, CA, 94117 |
+0311	1	5821 Geary Blvd., Richmond, San Francisco, CA, 94121 |
+0312	1	1300 Fillmore St., Japantown, San Francisco, CA, 94115 |
+0313	1	457 E. Ojai Ave., Ojai, CA |
+0314	1	1202 Pine St., Paso Robles, CA |
+0315	1	3277 Ojai Ave., about 2 mi east of downtown, Ojai, CA |
+0316	1	2350 Railway Ave. , Los Olivos, CA, 93441 |
+0317	1	478 E. Main St., Ventura, CA |
+0318	1	129 E. Anapamu St., Santa Barbara, CA |
+0319	1	204 E. Main St., Ventura, CA |
+0320	1	Hwy. 1, 2&frac12; mi south of Big Sur Station, Big Sur, CA |
+0321	1	17 W. Victoria St., Santa Barbara, CA |
+0322	1	7 W. Carrillo St., Santa Barbara, CA, 93101 |
+0323	1	3687-C Sagunto St., Santa Ynez, CA |
+0324	1	699 Embarcadero, Morro Bay, CA |
+0325	1	11315 Hwy. 1, Point Reyes Station, CA |
+0326	1	845 Main St., Half Moon Bay, CA |
+0327	1	408 Main St., Half Moon Bay, CA |
+0328	1	1919 Bridgeway, Sausalito, CA, 94965 |
+0329	1	5 Main St., Tiburon, CA, 94920 |
+0330	1	4179 Piedmont Ave., Oakland, CA, 94611 |
+0331	1	1200 Bridgeway, Sausalito, CA, 94965 |
+0332	1	777 Bridgeway, Sausalito, CA, 94965 |
+0333	1	38 Main St., Tiburon, CA, 94920 |
+0334	1	3458 Rte. 1, Stinson Beach, CA, 94970 |
+0335	1	107 Caledonia St., Sausalito, CA, 94965 |
+0336	1	80 4th St., Point Reyes Station, CA |
+0337	1	640 W. 16th St., Merced, CA |
+0338	1	225 W. Main St., Visalia, CA |
+0339	1	350 W. Main St., Merced, CA |
+0340	1	821 L St., Modesto, CA |
+0341	1	28 S. School St., Lodi, CA |
+0342	1	7006 N. Cedar Ave., Fresno, CA |
+0343	1	927 11th St., Modesto, CA |
+0344	1	345 W. 5th St., Chico, CA |
+0345	1	259 S. Main St., Red Bluff, CA |
+0346	1	520 Main St., Weaverville, CA |
+0347	1	1013 S. Mt. Shasta Blvd., Mount Shasta, CA |
+0348	1	159 Main St., Chester, CA |
+0349	1	1535 Main St., Susanville, CA |
+0350	1	313 N. Mt. Shasta Blvd., Mount Shasta, CA |
+0351	1	497 Lawrence St., Quincy, CA |
+0352	1	1011 S. Mt. Shasta Blvd., Mount Shasta, CA |
+0353	1	40771 Lakeview Dr., Big Bear Lake, CA |
+0354	1	38392 Oak Glen Rd., Oak Glen, CA |
+0355	1	40701 Village Dr., Big Bear Lake, CA |
+0356	1	1777 Gillette Rd., Pomona, CA |
+0357	1	102 Harvard Ave., Claremont, CA |
+0358	1	35654 Yermo Rd., Yermo, CA |
+0359	1	206 S. Main St., Lone Pine, CA |
+0360	1	1425 McCulloch Blvd., Lake Havasu City, AZ |
+0361	1	14077A Hwy. 128, Boonville, CA |
+0362	1	213 Main St., Point Arena, CA |
+0363	1	3000 N. Hwy. 1, Little River, CA |
+0364	1	Hwy. 120 and U.S. 395, Lee Vining, CA
+0365	1	Yosemite Lodge, about &frac34; mi west of the visitor center, Yosemite Village, CA |
+0366	1	Next to Lodgepole Visitor Center, Sequoia National Park, CA |
+0367	1	Curry Village, Yosemite National Park, CA |
+0368	1	Wolverton Rd., 1&frac12; mi northeast off Generals Hwy. (Rte. 198), Sequoia National Park, CA |
+0369	1	919 Grand Ave., Glenwood Springs, CO |
+0370	1	Timberline Condominiums, 2nd fl., 264 Snowmelt Rd., Snowmass Village, CO |
+0371	1	721 Grand Ave., Glenwood Springs, CO |
+0372	1	730 W. Main St., Aspen, CO |
+0373	1	620 E. Hyman Ave., Aspen, CO |
+0374	1	105 S. Mill St., Aspen, CO |
+0375	1	689 Main St., Carbondale, CO |
+0376	1	300 Puppy Smith St., Aspen, CO |
+0377	1	633 E. Hyman Ave., Aspen, CO |
+0378	1	101 E. Cleveland St., Lafayette, CO |
+0379	1	136 2nd Ave., Niwot, CO |
+0380	1	1138 Flagstaff Rd., Boulder, CO |
+0381	1	1738 Pearl St., Boulder, CO |
+0382	1	401 Main St., Gold Hill, CO |
+0383	1	1468 Pearl St., Boulder, CO |
+0384	1	223 Linden St., Suite 103, Fort Collins, CO |
+0385	1	300 2nd Ave., Niwot, CO |
+0386	1	568 N. Washington St., Central Denver, Denver, CO |
+0387	1	4408 Lowell Blvd., Highland, Denver, CO |
+0388	1	1450 Larimer St., LoDo, Denver, CO |
+0389	1	4900 E. Colfax Ave., East Denver, Denver, CO |
+0390	1	1365 Osage St., Central Denver, Denver, CO |
+0391	1	2500 E. 1st Ave., Cherry Creek, Denver, CO |
+0392	1	2424 Federal Blvd., North Denver, Denver, CO |
+0393	1	1539 17th St., LoDo, Denver, CO |
+0394	1	1040 15th St., Downtown, Denver, CO |
+0395	1	330 E. 6th Ave., Central Denver, Denver, CO |
+0396	1	225 E. 7th Ave., Central Denver, Denver, CO |
+0397	1	1672 Lawrence St., Downtown, Denver, CO |
+0398	1	1310 S. Broadway, South Denver, Denver, CO |
+0399	1	1106 14th St., Downtown, Denver, CO |
+0400	1	1634 18th St., LoDo, Denver, CO |
+0401	1	Far View Lodge, across from the Far View Visitor Center, Mesa Verde National Park, CO
+0402	1	Lodge Casino, 240 Main St., Black Hawk 80422, CO |
+0403	1	1305 Washington Ave., 80401, Golden, CO |
+0404	1	612 Grand Ave., Grand Lake, CO |
+0405	1	470 Prospect Village Dr., Estes Park, CO |
+0406	1	125 Moraine Ave., Estes Park, CO |
+0407	1	338 E. Elkhorn Ave., Estes Park, CO |
+0408	1	342 E. Elkhorn Ave., Estes Park, CO |
+0409	1	430 Prospect Village Dr., Estes Park, CO |
+0410	1	25 Hwy. 105, Palmer Lake, CO
+0411	1	1025 S. 21st St., Colorado Springs, CO |
+0412	1	333 U.S. 24, Buena Vista, CO
+0413	1	1028 Main St., Ca&ntilde;on City, CO |
+0414	1	3504 N. Academy Blvd., Colorado Springs, CO |
+0415	1	1330 Elm Ave., Ca&ntilde;on City, CO |
+0416	1	Main and State Sts., Alamosa, CO |
+0417	1	The Broadmoor South, 1 Lake Circle, Colorado Springs, CO |
+0418	1	57&frac12; 8th St., Steamboat Springs, CO, 80487 |
+0419	1	319 Main St., Grand Junction, CO |
+0420	1	642 Main St., Grand Junction, CO |
+0421	1	North Peak, Keystone, CO
+0422	1	100 Little Dam St., Dillon, CO |
+0423	1	Keystone Ranch Golf Course, 1239 Keystone Ranch Rd., Keystone, CO |
+0424	1	505 S. Main St., Breckenridge, CO |
+0425	1	764 Montezuma Rd., 1 mi off U.S. 6, Keystone, CO |
+0426	1	127 S. Fir St., Telluride, CO |
+0427	1	120 N. Main St., Gunnison, CO |
+0428	1	320 E. Main St., Montrose, CO |
+0429	1	100 S. 4th St., Dolores, CO |
+0430	1	138 N. Main St., Gunnison, CO |
+0431	1	139 N. Main St., Gunnison, CO |
+0432	1	46778 Hwy. 550, Durango, CO |
+0433	1	2nd and Whiterock Sts., Crested Butte, CO |
+0434	1	311&frac12; Elk Ave., Crested Butte, CO |
+0435	1	Larkspur Bowl, Beaver Creek, CO |
+0436	1	278 Hanson Ranch Rd., Vail, CO |
+0437	1	Golden Peak Lodge, 458 Vail Valley Dr., Vail Village, Vail, CO |
+0438	1	131 Main St., Minturn, CO |
+0439	1	0130 Daybreak Ridge, At the Ritz Carlton, Bachelor Gulch, Avon, CO, 81620 |
+0440	1	193 E. Gore Creek Dr., Vail Village, Vail, CO |
+0441	1	Vail Mountain Lodge &amp; Spa, 352 E. Meadow Dr., Vail Village, Vail, CO |
+0442	1	Market Sq., Beaver Creek Village, Beaver Creek, CO |
+0443	1	939 Maple Ave., Hartford, CT, 06114 |
+0444	1	59 Main St., Chester, CT, 06412 |
+0445	1	23 Main St., Chester, CT |
+0446	1	263 Crown St., New Haven, CT, 06510 |
+0447	1	27 Powers Ct., Westport, CT |
+0448	1	61 Lewis St., Greenwich, CT |
+0449	1	Stonehenge Rd. off U.S. 7, Ridgefield, CT
+0450	1	694 Main St. S, Woodbury, CT, 06798 |
+0451	1	118 Woodbury Rd., (Rte. 47), Washington, CT, 06793 |
+0452	1	223 Main St., Lakeville, Salisbury, CT |
+0453	1	25 West St., Litchfield, CT, 06759 |
+0454	1	37 Putnam Rd., Pomfret, CT, 06258 |
+0455	1	2941 Fairview Park Dr., Falls Church, VA, 22042 |
+0456	1	2412 18th St. NW, Adams Morgan, Washington, DC, 20009 |
+0457	1	3128 M St. NW, Georgetown, Washington, DC, 20007 |
+0458	1	1736 Wisconsin Ave. NW, Glover Park, Washington, DC, 20007 |
+0459	1	405 8th St. NW, Chinatown, Washington, DC, 20004
+0460	1	1819 Columbia Rd. NW, Adams Morgan, Washington, DC, 20009 |
+0461	1	401 9th St. NW, Downtown, Washington, DC, 20004 |
+0462	1	1400 Irving St. NW, U Street Corridor, Washington, DC, 20010
+0463	1	1335 Wisconsin Ave. NW, Georgetown, Washington, DC, 20007 |
+0464	1	Ritz-Carlton, 1250 S. Hayes St., Pentagon City, Washington, DC, 22202 |
+0465	1	1706 G St. NW, Downtown, Washington, DC, 20006
+0466	1	303 Pennsylvania Ave. SE, Capitol Hill, Washington, DC, 20009 |
+0467	1	2400 Wisconsin Ave. NW, Glover Park, Washington, DC, 20007 |
+0468	1	3241 M St. NW, Georgetown, Washington, DC, 20007
+0469	1	Middle and Main Sts., Washington, VA, 22747 |
+0470	1	1517 Connecticut Ave. NW, Dupont Circle, Washington, DC, 20036 |
+0471	1	2641 Connecticut Ave. NW, Woodley Park, Washington, DC, 20008 |
+0472	1	1827 M St. NW, Dupont Circle, Washington, DC, 20036 |
+0473	1	2401 Pennsylvania Ave. NW, Foggy Bottom, Washington, DC, 20037 |
+0474	1	2007 14th St. NW, U Street Corridor, Washington, DC, 20009 |
+0475	1	1825 14th St. NW, U Street Corridor, Washington, DC, 20009
+0476	1	3125 M St. NW, Georgetown, Washington, DC, 20007
+0477	1	3057 M St. NW, Georgetown, Washington, DC, 20007 |
+0478	1	1050 Connecticut Ave. NW, Downtown, Washington, DC, 20036 |
+0479	1	2317 Calvert St. NW, Woodley Park, Washington, DC, 20008 |
+0480	1	2132 Florida Ave. NW, Dupont Circle, Washington, DC, 20008 |
+0481	1	Willard InterContinental, 1475 Pennsylvania Ave. NW, Downtown, Washington, DC, 20004 |
+0482	1	1600 K St. NW, Downtown, Washington, DC, 20006 |
+0483	1	1515 14th St. NW, U Street Corridor, Washington, DC, 20005
+0484	1	1650 Wilson Blvd., Suburban Virginia, Washington, DC, 22209
+0485	1	Hotel Tabard Inn, 1739 N St. NW, Dupont Circle, Washington, DC, 20036 |
+0486	1	1776 I St. NW, at 18th St., Downtown, Washington, DC, 20006 |
+0487	1	1190 22nd St. NW, Foggy Bottom, Washington, DC, 20037 |
+0488	1	701 9th St. NW, Chinatown, Washington, DC, 20001 |
+0489	1	800 F St. NW, Chinatown, Washington, DC, 20004 |
+0490	1	2601 E. Atlantic Blvd., Pompano Beach, FL, 33062 |
+0491	1	1818 E. Sunrise Blvd., Fort Lauderdale, FL, 33304 |
+0492	1	1410 E. Las Olas Blvd., Fort Lauderdale, FL, 33301 |
+0493	1	1285 S.W. 40th Ave., U.S. 441, just south of Davie Blvd., Fort Lauderdale, FL, 33317 |
+0494	1	606 N. Ocean Dr., Hollywood, FL, 33019 |
+0495	1	3000 N. Federal Hwy., Fort Lauderdale, FL, 33334 |
+0496	1	128 S. Federal Hwy., Dania Beach, FL, 33004 |
+0497	1	250 State Rd. 84, Fort Lauderdale, FL, 33301 |
+0498	1	3660 S. Ocean Dr., Hollywood, FL, 33019 |
+0499	1	900 State Rd. 84, Fort Lauderdale, FL, 33315 |
+0500	1	Westin Yankee Trader, 321 N. Fort Lauderdale Beach Blvd., Fort Lauderdale, FL, 33304 |
+0501	1	4115 N. Dixie Hwy., Oakland Park, FL, 33334 |
+0502	1	601 N. Fort Lauderdale Beach Blvd., Fort Lauderdale, FL, 33304 |
+0503	1	2500 Griffin Rd., Fort Lauderdale, FL, 33312 |
+0504	1	157 Collins Ave., South Beach, Miami Beach, FL, 33139 |
+0505	1	1700 James Ave., South Beach, Miami Beach, FL, 33139 |
+0506	1	432 Arthur Godfrey Rd., Mid-Beach, Miami Beach, FL, 33149 |
+0507	1	4612 Le Jeune Rd., Coral Gables, FL, 33134 |
+0508	1	4700 W. Flagler St., at N.W. 47th Ave., Coral Gables, FL, 33134 |
+0509	1	100 Collins Ave., South Beach, Miami Beach, FL, 33139 |
+0510	1	800 Ocean Dr., South Beach, Miami Beach, FL, 33139 |
+0511	1	2611 Ponce de Le&oacute;n Blvd., Coral Gables, FL, 33134 |
+0512	1	Brickell Village, 15 S.E. 10th St., Downtown Miami, Miami, FL, 33130 |
+0513	1	525 41st St., Mid-Beach, Miami Beach, FL, 33140 |
+0514	1	17624 Collins Ave., Sunny Isles, FL, 33160 |
+0515	1	433 Washington Ave., South Beach, Miami Beach, FL, 33139 |
+0516	1	3555 S.W. 8th St., between S.W. 35th and S.W. 36th Aves., Little Havana, Miami, FL, 33135 |
+0517	1	95 Cordova St., St. Augustine, FL, 32084 |
+0518	1	303 Atlantic Blvd., FL, 32233 |
+0519	1	1019 Hendricks Ave., Southbank, FL, 32207 |
+0520	1	21 E. Adams St., Downtown, Jacksonville, FL, 32202 |
+0521	1	60 Hypolita St., St. Augustine, FL, 32084 |
+0522	1	992 Beach Blvd., FL, 32250 |
+0523	1	3674 W. International Speedway Blvd., Daytona Beach, FL, 32114 |
+0524	1	1245 W. University Ave., Gainesville, FL, 32601 |
+0525	1	118 N. Atlantic Ave., Cocoa Beach, FL, 32931 |
+0526	1	218 S. Beach St., Daytona Beach, FL, 32114 |
+0527	1	418 E. University Ave., Gainesville, FL, 32601 |
+0528	1	118 Ave. Menendez, St. Augustine, FL, 32084 |
+0529	1	60 Ocean Blvd., FL, 32233 |
+0530	1	The Ritz-Carlton, 4750 Amelia Island Pkwy., Fernandina Beach, FL, 32034 |
+0531	1	8129 Point Meadows Way, Southside, Jacksonville, FL, 32256 |
+0532	1	363 Atlantic Blvd. #1, FL, 32233 |
+0533	1	1076 Hendricks Ave., San Marco, Jacksonville, FL, 32207 |
+0534	1	7786 W. Sand Lake Rd., I-4 Exit 74A, Sand Lake Road Area, Orlando, FL, 32819 |
+0535	1	Fountains Plaza, 7559 W. Sand Lake Rd., I-4 Exit 74A, Orlando, FL, 32819 |
+0536	1	Peabody Orlando, 9801 International Dr., Orlando, FL, 32819 |
+0537	1	252 Park Ave. N, Winter Park, FL, 32789 |
+0538	1	8625 International Dr., Orlando, FL, 32819 |
+0539	1	Dr. Phillips Marketplace, 7600 Dr. Phillips Blvd., Orlando, FL, 32819 |
+0540	1	649 Front St., Celebration, FL, 34747 |
+0541	1	Hyatt Regency, Orlando, FL, 32822 |
+0542	1	629 E. Central Blvd., Thornton Park, Orlando, FL, 32801 |
+0543	1	2401 Edgewater Dr., College Park, Orlando, FL, 32804 |
+0544	1	4800 S. Orange Ave., South-Central Orlando, Orlando, FL |
+0545	1	250 S. Park Ave., Winter Park, FL, 32789 |
+0546	1	7525 W. Sand Lake Rd., I-4 Exit 74A, Orlando, FL, 32819 |
+0547	1	1234 N. Orange Ave., Winter Park, Winter Park, FL, 32804 |
+0548	1	7468 W. Sand Lake Rd., I-4 Exit 75A, Orlando, FL, 32819 |
+0549	1	671 Front St., Suite 100, Celebration, FL, 34747 |
+0550	1	9101 International Dr., Pointe Orlando, Orlando, FL, 32819 |
+0551	1	7488 W. Sand Lake Rd., I-4 Exit 75A, Orlando, FL, 32819 |
+0552	1	313&frac12; Worth Ave., Palm Beach, FL, 33480 |
+0553	1	804 E. Atlantic Ave., Delray Beach, FL, 33483 |
+0554	1	1606 N. Indian River Dr., Sebastian, FL, 32958 |
+0555	1	132 N. County Rd., Palm Beach, FL, 33480 |
+0556	1	3945 N.E. Indian River Dr., Jensen Beach, FL, 34957 |
+0557	1	514 N. Dixie Hwy., Stuart, FL, 34994 |
+0558	1	103 South U.S. 1, Jupiter, FL, 33477 |
+0559	1	314 S. County Rd., Palm Beach, FL, 33480 |
+0560	1	6801 S. Dixie Hwy., West Palm Beach, FL, 33405 |
+0561	1	CityPlace, 600 S. Rosemary Ave., West Palm Beach, FL, 33401 |
+0562	1	249 E. Palmetto Park Rd., Boca Raton, FL, 33432 |
+0563	1	4560 PGA Blvd., Palm Beach Gardens, FL, 33418 |
+0564	1	233 Lantana Rd., Lantana, FL, 33462 |
+0565	1	221 Worth Ave., Palm Beach, FL, 33480 |
+0566	1	Mizner Park, 351 Plaza Real, Boca Raton, FL, 33432 |
+0567	1	5250 Town Center Circle, Boca Raton, FL, 33486 |
+0568	1	935 N. Krome Ave., Florida City, FL, 33034 |
+0569	1	404 S.E. 1st Ave., Florida City, FL, 33034 |
+0570	1	Chokoloskee Mall, Everglades City, FL, 34138 |
+0571	1	32 N.W. 1st St., across from the Krome Ave. bandstand, Homestead, FL, 33030 |
+0572	1	199 W. Palm Dr., Florida City, FL, 33034 |
+0573	1	97800 U.S. 1, (MM 97.8 median), Key Largo, FL, 33037 |
+0574	1	900 Catherine St., Key West, FL, 33040 |
+0575	1	102341 U.S. 1, (MM 102.4 OS), Key Largo, FL, 33037 |
+0576	1	30150 U.S. 1, (MM 30.2 OS), Big Pine Key, FL, 33043 |
+0577	1	81219 U.S. 1, (MM 81.2 OS), Upper Matecumbe Key, Islamorada, FL, 33036 |
+0578	1	Lands End Village at Historic Seaport, 231 Margaret St., Key West, FL, 33040 |
+0579	1	6350 U.S. 1, (MM 50.5), Marathon, FL, 33050 |
+0580	1	81701 U.S. 1, (MM 82 OS), Upper Matecumbe Key, Islamorada, FL, 33036 |
+0581	1	5 Key Lime Sq., east of intersection of Southard and Duval Sts., Key West, FL, 33040 |
+0582	1	900 Southard St., Key West, FL, 33040 |
+0583	1	99336 U.S. 1, (MM 99.5 BS), Key Largo, FL, 33037 |
+0584	1	MM 30 BS, turn west on Wilder Rd., right on Poinciana Rd., right on Avenue B, right on Watson Blvd., N. Watson Blvd., Big Pine Key, FL, 33043 |
+0585	1	1007 Simonton St., Key West, FL, 33040 |
+0586	1	632 Olivia St., Key West, FL, 33040 |
+0587	1	231 Margaret St., Key West, FL, 33040 |
+0588	1	80939 U.S. 1, (MM 81 OS), Upper Matecumbe Key, Islamorada, FL, 33036 |
+0589	1	475 Seagate Dr., Naples Grande Resort, Naples, FL, 34103 |
+0590	1	4271 Pine Island Rd., Matlacha, FL, 33993 |
+0591	1	20351 Summerlin Rd., Fort Myers, FL, 33908 |
+0592	1	13499 S. Cleveland Ave., Fort Myers, FL, 33907 |
+0593	1	15001 Captiva Dr., Captiva, FL, 33924 |
+0594	1	12901 McGregor Blvd., Fort Myers, FL, 33919 |
+0595	1	416 Crescent St., Estero Island, FL, 33931 |
+0596	1	1490 5th Ave. S, Naples, FL, 34102 |
+0597	1	630-1 Tarpon Bay Rd., Sanibel, FL, 33957 |
+0598	1	1001 Estero Blvd., Estero Island, FL, 33931 |
+0599	1	5848 Cape Harbour Dr., at the Marina at Cape Harbour, off Chiquita Blvd., Cape Coral, FL, 33914 |
+0600	1	Marco Beach Ocean Resort, 480 S. Collier Blvd., Marco Island, FL, 34145 |
+0601	1	4521 Del Prado Blvd., Cape Coral, FL, 33904 |
+0602	1	1030 Miracle Strip Pkwy. SE, Fort Walton Beach, FL, 32548 |
+0603	1	3000 Thomas Dr., Panama City Beach, FL, 32408 |
+0604	1	17290 Front Beach Rd., Panama City Beach, FL, 32410 |
+0605	1	125 Water St., Apalachicola, FL, 32320 |
+0606	1	5551 N. Lagoon Dr., Panama City Beach, FL, 32408 |
+0607	1	1026 N. Monroe St., Tallahassee, FL, 32303 |
+0608	1	27 S. Palafox, Pensacola, FL, 32502 |
+0609	1	201 S. Jefferson St., Pensacola, FL, 32502 |
+0610	1	24 Miracle Strip Pkwy. SE, Fort Walton Beach, FL, 32548 |
+0611	1	1413 S. Howard Ave., Hyde Park, Tampa, FL, 33606 |
+0612	1	1287 1st St., Sarasota, FL, 34236 |
+0613	1	431 St. Armands Circle, Lido Key, FL, 34236 |
+0614	1	5540 Gulf of Mexico Dr., Longboat Key, FL, 34228 |
+0615	1	807 Gulf Way, St. Pete Beach, FL, 33706 |
+0616	1	247 Central Ave., St. Petersburg, FL, 33701 |
+0617	1	19325 Gulf Blvd., St. Petersburg, FL, 33785 |
+0618	1	141 2nd Ave. N, BayWalk, St. Petersburg, FL, 33701 |
+0619	1	Westfield Shoppingtown-Southgate, 3501 S. Tamiami Trail, Sarasota, FL, 34239 |
+0620	1	3434 Bahia Vista, Sarasota, FL, 34239 |
+0621	1	5601 Universal Blvd., Universal Orlando, FL, 32819 |
+0622	1	6000 Universal Blvd., CityWalk, Universal Orlando, FL, 32819 |
+0623	1	6300 Hollywood Way, Universal Orlando, FL, 32819 |
+0624	1	Wilderness Lodge, WDW Resorts, Walt Disney World, FL, 32830 |
+0625	1	Disney's Animal Kingdom Lodge, WDW Resorts, Walt Disney World, FL, 32830 |
+0626	1	Contemporary Resort, WDW Resorts, Walt Disney World, FL, 32830 |
+0627	1	Grand Floridian, WDW Resorts, Walt Disney World, FL, 32830 |
+0628	1	West Side, Downtown Disney, Walt Disney World, FL, 32830 |
+0629	1	490 E. Paces Ferry Rd., Buckhead, Atlanta, GA, 30305 |
+0630	1	573 N. Highland Ave., Inman Park, Atlanta, GA, 30307 |
+0631	1	100 Rue Charlemagne, Braselton, GA, 30517 |
+0632	1	4199 Paces Ferry Rd. NW, Buckhead, Atlanta, GA, 30339 |
+0633	1	50 Hurt Plaza, Downtown, Atlanta, GA, 30303 |
+0634	1	1879 Cheshire Bridge Rd., Buckhead, Atlanta, GA, 30329 |
+0635	1	565 Peachtree St., Midtown, Atlanta, GA, 30308 |
+0636	1	488 Flat Shoals Ave., East Atlanta Village, East Atlanta, Atlanta, GA, 30316 |
+0637	1	764 Miami Circle, Buckhead, Atlanta, GA, 30324 |
+0638	1	1655 McLendon Ave., Candler Park, Atlanta, GA, 30307 |
+0639	1	4320 Powers Ferry Rd., Buckhead, Atlanta, GA, 30342 |
+0640	1	1198 Howell Mill Rd., Suite 18, West Midtown, Atlanta, GA, 30318 |
+0641	1	2637 Peachtree Rd., Buckhead, Atlanta, GA, 30305 |
+0642	1	265 Ponce de Leon Ave., Midtown, Atlanta, GA, 30308 |
+0643	1	313 N. Highland Ave., Inman Park, Atlanta, GA, 30307 |
+0644	1	793 Juniper St., NE, Midtown, Atlanta, GA |
+0645	1	Clock Tower Place, 408 S. Atlanta St., Roswell, GA, 30075 |
+0646	1	1197 Peachtree St., Midtown, Atlanta, GA, 30361 |
+0647	1	Killian Hills Crossing shopping center, 4760 Lawrenceville Hwy., Lilburn, GA, 30047 |
+0648	1	41 14th St., Midtown, Atlanta, GA, 30309 |
+0649	1	4000 Summit Blvd., Dunwoody, GA, 30319 |
+0650	1	187 10th St., Midtown, Atlanta, GA, 30309 |
+0651	1	199 Prince Ave., Athens, GA, 30601 |
+0652	1	279 E. Broad St., Athens, GA, 30601 |
+0653	1	108 E. Washington St., Madison, GA, 30650 |
+0654	1	1789 Bear Gap Rd., Clarkesville, GA, 30523 |
+0655	1	657 E. Main St., Blue Ridge, Blue Ridge, GA, 30513 |
+0656	1	514 Martin Luther King Jr. Blvd., Historic District, Savannah, GA, 31401 |
+0657	1	105 E. 37th St., Historic District, Savannah, GA, 31401 |
+0658	1	102 W. Congress St., Historic District, Savannah, GA, 31401 |
+0659	1	321 Jefferson St., Historic District, Savannah, GA, 31401 |
+0660	1	113 E. Jackson St., Thomasville, GA, 31792 |
+0661	1	1800 Smith Ave. , Thomasville, GA, 31792 |
+0662	1	375 Riverview Dr., Jekyll Island Club Hotel, Jekyll Island, GA |
+0663	1	Jekyll Island Club, 371 Riverview Dr., Jekyll Island, GA |
+0664	1	250 Ricefield Way, Sapelo Island, GA |
+0665	1	103 S. 2nd St., Folkston, GA, 31537 |
+0666	1	Jekyll Island Club Wharf, Jekyll Island, GA |
+0667	1	1 Harbor Point Rd., Jekyll Harbor Marina, Jekyll Island, GA, 31527 |
+0668	1	Kealakekua Ranch Center, HI |
+0669	1	Kona Coast Shopping Center, 74-5588 Palani Rd., Kailua-Kona, HI |
+0670	1	106 Keawe St., Hilo, HI |
+0671	1	217 Wainuenue Ave., Hilo, HI |
+0672	1	Fairmont Orchid Hawaii, 1 N. Kaniku Dr., Kohala Coast, HI, 96743 |
+0673	1	75-5776 Alii Dr., Kailua-Kona, HI |
+0674	1	969 Kilauea Ave., Hilo, HI |
+0675	1	Kawaihae Harbor Center, Hwy. 270, Kawaihae, HI |
+0676	1	Hapuna Beach Prince Hotel, 62-100 Kaunaoa Dr., Kohala Coast, HI |
+0677	1	83-5799 Mamalahoa Hwy., HI |
+0678	1	75-5683 Alii Dr., Kailua-Kona, HI |
+0679	1	King's Shops at Waikoloa Village, 250 Waikoloa Beach Dr., Kohala Coast, HI |
+0680	1	Fairmont Orchid Hawaii, 1 N. Kaniku Dr., Kohala Coast, HI |
+0681	1	64-957 Mamalahoa Hwy. (Hwy. 11), Waimea, HI |
+0682	1	78-128 Ehukai St., Kailua-Kona, HI |
+0683	1	Kawaihae Harbor, Hwy. 270, Kawaihae, HI |
+0684	1	Hwy. 11, &frac12; mi south of Kainaliu, Honaunau, HI |
+0685	1	Main St., Pahoa, Hilo, HI |
+0686	1	Opelo Plaza, 65-1227 Opelo Rd., Waimea, HI |
+0687	1	King's Shops at Waikoloa Village, 250 Waikoloa Beach Dr., Kohala Coast, HI |
+0688	1	Crossroads Shopping Center, 75-1129 Henry St., Kailua-Kona, HI |
+0689	1	Four Seasons Resort Hualalai, 100 Kaupulehu Dr., 96740, North Kona Coast, HI |
+0690	1	75-5719 Alii Dr., Kailua-Kona, HI |
+0691	1	Keauhou Shopping Center, 78-6740 Makolea St., Kailua-Kona, HI |
+0692	1	336 Kamehameha Ave., Hilo, HI |
+0693	1	King's Shops at Waikoloa Village, 250 Waikoloa Beach Dr., Kohala Coast, HI |
+0694	1	1790 Kalanianaole Ave., Hilo, HI |
+0695	1	65-1158 Mamalahoa Hwy., in the Waimea Shopping Center, Waimea, HI |
+0696	1	55-3435 Akoni Pule Hwy., Hawi, HI |
+0697	1	19-4084 Old Volcano Rd., Volcano, HI |
+0698	1	Hilo Bay Hotel, 87 Banyan Dr., Hilo, HI |
+0699	1	3660 Waialae Ave., Kaimuki, HI |
+0700	1	Ala Moana Hotel, top fl., 410 Atkinson Dr., Ala Moana, HI |
+0701	1	1646 B Kona St., Ala Moana, HI |
+0702	1	Macy's, Ala Moana Center, 1450 Ala Moana Blvd., Ala Moana, HI |
+0703	1	4210 Wailae Ave., Kahala, HI |
+0704	1	30 Aulike St., Kailua, Kailua, HI |
+0705	1	3565 Waialae Ave., Kaimuki, HI |
+0706	1	2239 S. King St., Moiliili, HI |
+0707	1	315 Uluniu, Kailua, HI |
+0708	1	99-016 Kamehameha Hwy., Aiea, HI |
+0709	1	Hawaii State Art Museum, 250 Hotel St., Downtown Honolulu, HI |
+0710	1	Ward Centre, 1200 Ala Moana Blvd., Kakaako, HI |
+0711	1	Market City Shopping Center, rear, lower level, 2919 Kapiolani Blvd., Kaimuki, HI |
+0712	1	4614 Kilauea Ave., Kahala, HI |
+0713	1	Ward Warehouse, 2nd level, 1050 Ala Moana Blvd., Kakaako, HI |
+0714	1	3045 Monsarrat Ave., Diamond Head, HI |
+0715	1	Chinese Cultural Plaza, 100 N. Beretania St., Chinatown, HI |
+0716	1	65 N. Pauahi St., Chinatown, HI |
+0717	1	Colony Surf, 2895 Kalakaua Ave., Waikiki, HI |
+0718	1	Waikiki Beach Walk, 226 Lewers St., Suite 130, Waikiki, HI |
+0719	1	Waikiki Gateway Hotel, 2070 Kalakaua Ave., Waikiki, HI |
+0720	1	1133 N. Nimitz Hwy., Pier 38, Downtown, HI |
+0721	1	3196 Waialae Ave., Kaimuki, HI |
+0722	1	Hawaii Parc Hotel, 2233 Helumoa Rd., Waikiki, HI |
+0723	1	Halekulani, 2199 Kalia Rd., Waikiki, HI |
+0724	1	Honolulu Academy of Arts, 900 S. Beretania St., Downtown Honolulu, HI |
+0725	1	449 Kapahulu Ave., Kapahulu, HI |
+0726	1	Renaissance Ilikai Waikiki Hotel, 1777 Ala Moana, top fl., Waikiki, HI |
+0727	1	1910 Ala Moana Blvd., Waikiki, HI |
+0728	1	59-024 Kamehameha Hwy., Haleiwa, HI |
+0729	1	134 Kapahulu Ave., Waikiki, HI |
+0730	1	ResortQuest Waikiki Beach Hotel, 2570 Kalakaua Ave., Waikiki, HI |
+0731	1	1007 River St., Chinatown, HI |
+0732	1	1910 Ala Moana Blvd., Waikiki, HI |
+0733	1	3435 Waialae Ave., Kaimuki, HI |
+0734	1	5022 Lawai Rd., Koloa, HI |
+0735	1	796 Kuhio Hwy., Kapaa, HI |
+0736	1	4201 Rice St., Lihue, HI |
+0737	1	Kauai Marriott Resort &amp; Beach Club, 3610 Rice St., Lihue, HI |
+0738	1	9400 Kaumualii Hwy., Waimea, HI |
+0739	1	2956 Kress St., Lihue, HI |
+0740	1	Wailua Shopping Plaza, 369 Kuhio Hwy., Kapaa, HI |
+0741	1	5408 Koloa Rd., Koloa, HI |
+0742	1	Kiahuna Plantation, 2253 Poipu Rd., Koloa, HI |
+0743	1	Poipu Shopping Village, 2360 Kiahuna Plantation Dr., Koloa, HI |
+0744	1	5-5075A Kuhio Hwy., Hanalei, HI |
+0745	1	4-1546 Kuhio Hwy., Kapaa, HI |
+0746	1	9852 Kaumualii Hwy., Waimea, HI |
+0747	1	Four Seasons Resort Lodge at Koele, 1 Keomuku Hwy., Lanai City, HI
+0748	1	1237 Lower Main, Wailuku, HI, 96793 |
+0749	1	2439 S. Kihei Rd., Kihei, HI, 96753 |
+0750	1	1188 Makawao Ave., Makawao, HI, 96768 |
+0751	1	Old Lahaina Center, 170 Papalaua Ave., Lahaina, HI, 96761 |
+0752	1	Four Seasons Resort Maui at Wailea, 3900 Wailea Alanui Dr., Wailea, HI, 96753 |
+0753	1	149 Hana Hwy., Paia, HI, 96779 |
+0754	1	Napili Shores Resort, 5315 Lower Honoapiilani Hwy., Napili, HI, 96761 |
+0755	1	Grand Wailea Resort Hotel &amp; Spa, 3850 Wailea Alanui Dr., Wailea, HI, 96753 |
+0756	1	120 Hana Hwy., Paia, HI, 96708 |
+0757	1	131 Wailea Ike Pl., Wailea, HI, 96753 |
+0758	1	Fairmont Kea Lani, 4100 Wailea Alanui Dr., Wailea, HI, 96753 |
+0759	1	275 Kaahumanu Ave., Kahului, HI, 96732 |
+0760	1	180 Dickenson St., Lahaina, HI, 96761 |
+0761	1	3612 Baldwin Ave., Makawao, HI, 96768 |
+0762	1	444 Hana Hwy., Kahului, HI, 96732 |
+0763	1	3 Baldwin Ave., Paia, HI, 96779 |
+0764	1	Fairmont Kea Lani, 4100 Wailea Alanui Dr., Wailea, HI, 96753 |
+0765	1	Westin Maui Resort &amp; Spa, 2365 Kaanapali Pkwy., Kaanapali, HI, 96761 |
+0766	1	505 Front St., Lahaina, HI, 96761 |
+0767	1	600 Office Rd., Kapalua, HI, 96761 |
+0768	1	5900 Lower Honoapiilani Hwy., Napili, HI, 96761 |
+0769	1	192 Maalaea Rd., Maalaea, HI, 96793 |
+0770	1	In Kukui Mall, 1819 S. Kihei Rd., Kihei, HI, 96753 |
+0771	1	50 Hauoli St., Maalaea, HI, 96793 |
+0772	1	79 Ala Malama St., Kaunakakai, HI, 96748 |
+0773	1	145 Puali St., Kaunakakai, HI, 96748 |
+0774	1	422 E. 75th St., Chicago, IL, 60619 |
+0775	1	615 W. Randolph St., Chicago, IL, 60661 |
+0776	1	430 N. Michigan Ave., lower level, Chicago, IL, 60611 |
+0777	1	59 W. Hubbard St., Chicago, IL, 60654 |
+0778	1	739 N. LaSalle St., Chicago, IL, 60654 |
+0779	1	4729 N. Lincoln Ave., Chicago, IL, 60625 |
+0780	1	816 W. Armitage Ave., Chicago, IL, 60614 |
+0781	1	4732 N. Lincoln Ave., Chicago, IL, 60625 |
+0782	1	535 N. Wells St., Chicago, IL, 60654 |
+0783	1	546 N. Wells St., Chicago, IL, 60610 |
+0784	1	814 W. Randolph St., Chicago, IL, 60607 |
+0785	1	440 S. LaSalle St., Chicago, IL, 60605 |
+0786	1	445 N. Clark St., Chicago, IL, 60610 |
+0787	1	500 N. Franklin St., Chicago, IL, 60654 |
+0788	1	1460 W. Chicago Ave., Chicago, IL, 60642 |
+0789	1	111 N. Wabash Ave., Chicago, IL, 60602 |
+0790	1	3324 N. California Ave., Chicago, IL, 60618 |
+0791	1	1747 N. Damen Ave., Bucktown, Chicago, IL, 60647 |
+0792	1	1235 W. Randolph St., Chicago, IL, 60607 |
+0793	1	20 W. Kinzie St., Chicago, IL, 60610 |
+0794	1	2300 N. Lincoln Park W., Lincoln Park, Chicago, IL, 60614 |
+0795	1	111 N. Carpenter St., Chicago, IL, 60607 |
+0796	1	2172 S. Archer Ave., Chicago, IL, 60616 |
+0797	1	1958 N. Damen Ave., Chicago, IL, 60647 |
+0798	1	833 W. Randolph St., Chicago, IL, 60607 |
+0799	1	638 S. Michigan Ave. , Chicago, IL, 60647 |
+0800	1	868 N. Franklin St., Chicago, IL, 60610 |
+0801	1	65 E. Wacker Pl., Chicago, IL, 60601 |
+0802	1	945 W. Fulton Market , Chicago, IL, 60607 |
+0803	1	325 W. Huron St., Chicago, IL, 60654 |
+0804	1	2610 N. Cannon Dr., Chicago, IL, 60614 |
+0805	1	1301 S. Wabash Ave., Chicago, IL, 60605 |
+0806	1	619 N. Wabash Ave., Chicago, IL, 60611 |
+0807	1	1252 N. Wells St., Chicago, IL, 60610 |
+0808	1	410 W. Huron St., Chicago, IL, 60654 |
+0809	1	John Hancock Center, 875 N. Michigan Ave., Chicago, IL, 60611 |
+0810	1	3800 N. Pulaski Rd., Far North Side, Chicago, IL, 60641 |
+0811	1	1769 W. Sunnyside Ave., Chicago, IL, 60640 |
+0812	1	2147 W. Roscoe St., Chicago, IL, 60618 |
+0813	1	1655 N. Sedgwick St., Chicago, IL, 60614 |
+0814	1	3053 N. California Ave. , Chicago, IL, 60618 |
+0815	1	10 W. Hubbard St., Chicago, IL, 60610 |
+0816	1	838 W. Randolph St., Chicago, IL, 60607 |
+0817	1	1329 W. Chicago Ave., Chicago, IL, 60622 |
+0818	1	3257 N. Halsted St., Chicago, IL, 60657 |
+0819	1	1147 Bardstown Rd., Louisville, KY |
+0820	1	214 N. Carrollton Ave., Mid-City, New Orleans, LA, 70119 |
+0821	1	6100 Annunciation St., Uptown, New Orleans, LA, 70115 |
+0822	1	2505 Whitney Ave., Gretna, LA, 70056 |
+0823	1	1403 Washington Ave., Garden District, New Orleans, LA, 70130 |
+0824	1	428 Jefferson Hwy., Jefferson, LA, 70121 |
+0825	1	629 U.S. 190, Covington, LA, 70433 |
+0826	1	81 French Market Pl., French Quarter, New Orleans, LA, 70116 |
+0827	1	45 French Market Pl., (another entrance at 1136 Decatur St.), French Quarter, New Orleans, LA, 70116 |
+0828	1	321 Arabella St., Uptown, New Orleans, LA, 70115 |
+0829	1	209 Bourbon St., French Quarter, New Orleans, LA, 70130 |
+0830	1	808 Bienville St., French Quarter, New Orleans, LA, 70112 |
+0831	1	701 St. Charles Ave., CBD, New Orleans, LA, 70130 |
+0832	1	8324 Oak St., Uptown, New Orleans, LA, 70118 |
+0833	1	1410 Robert St., Uptown, New Orleans, LA, 70115 |
+0834	1	4238 Magazine St., Uptown, New Orleans, LA, 70115 |
+0835	1	3637 Magazine St., Uptown, New Orleans, LA, 70130 |
+0836	1	201 Royal St., French Quarter, New Orleans, LA, 70130 |
+0837	1	801 Chartres St., French Quarter, New Orleans, LA, 70116 |
+0838	1	8132 Hampson St., Uptown, New Orleans, LA, 70118 |
+0839	1	538 Hagan Ave., Mid-City, New Orleans, LA, 70119 |
+0840	1	542 Frenchmen St., Faubourg Marigny, New Orleans, LA, 70116 |
+0841	1	900 City Park Ave., Mid-City, New Orleans, LA, 70119 |
+0842	1	800 S. Peters St., Warehouse District, New Orleans, LA, 70130 |
+0843	1	746 Tchoupitoulas St., Warehouse District, New Orleans, LA, 70130 |
+0844	1	1001 Toulouse St., French Quarter, New Orleans, LA, 70112 |
+0845	1	1041 Dumaine St., French Quarter, New Orleans, LA, 70116 |
+0846	1	5404 Rte. 44, at the corner of Rte. 22, Burnside, LA, 70738 |
+0847	1	140 E. Bridge St., Breaux Bridge, LA, 70157 |
+0848	1	7747 U.S. 61, at the Myrtles Plantation, St. Francisville, LA, 70775
+0849	1	8212 Maurice Ave., (Rte. 167), Maurice, LA, 70555 |
+0850	1	631 Jefferson St., Lafayette, LA, 70501 |
+0851	1	3480 U.S. I-49 N, Lafayette, LA, 70507
+0852	1	1900 W. Pinhook Rd., Lafayette, LA, 70508 |
+0853	1	412 Jefferson St., Lafayette, LA, 70501 |
+0854	1	Rte. 198 south of junction of Rtes. 198 and 233, Mount Desert, ME |
+0855	1	3 Old Firehouse La., Northeast Harbor, ME |
+0856	1	Rte. 3, Otter Creek, ME |
+0857	1	326 Main St., Southwest Harbor, ME |
+0858	1	119 Main St. (upstairs), Bar Harbor, ME |
+0859	1	19 Main St., Bar Harbor, ME |
+0860	1	191 Main St., Bar Harbor, ME |
+0861	1	340 Main St., Southwest Harbor, ME |
+0862	1	McMullin Ave., Bass Harbor, ME |
+0863	1	Corner of Rte. 15 and Airport Rd., Stonington, ME
+0864	1	Anchor Inn Rd. off Rte. 32, Round Pond, ME
+0865	1	42 Bath Rd., Brunswick, ME |
+0866	1	515 Basin Point Rd., South Harpswell, ME |
+0867	1	2 Elm St., Damariscotta, ME |
+0868	1	160 Centre St., Bath, ME |
+0869	1	14 Wharf St., Boothbay Harbor, ME |
+0870	1	38 Fuller Rd., Spruce Head, ME |
+0871	1	1885 U.S. 1, Waldoboro, ME
+0872	1	41 Water St., Wiscasset, ME |
+0873	1	88 Main St., Damariscotta, ME |
+0874	1	212 Maine St., Brunswick, ME |
+0875	1	1 Main St., Topsham, ME |
+0876	1	128 Front St., Bath, ME |
+0877	1	15 Lambard St., Bath, ME |
+0878	1	149 Maine St., Brunswick, ME |
+0879	1	421 Main St., Rockland, ME |
+0880	1	Bayview Landing, Camden, ME
+0881	1	20 Beaver St., Belfast, ME |
+0882	1	2532 Atlantic Hwy., (U.S. 1), Lincolnville Beach, ME |
+0883	1	155 High St., Belfast, ME |
+0884	1	30 Main St., Belfast, ME |
+0885	1	51 Bayview St., a little south of downtown, Camden, ME |
+0886	1	1 Commercial St., Rockland, ME |
+0887	1	193 Searsport Ave. (U.S. 1), between Belfast and Searsport, Belfast, ME |
+0888	1	220 Warrenton St., off U.S. 1, Rockport, ME |
+0889	1	957 Union St., Bangor, ME |
+0890	1	200 E. Main St. (U.S. 1), Searsport, ME |
+0891	1	175 Exchange St., Bangor, ME |
+0892	1	1 Main St., Public Landing, at base of Main St., Belfast, ME |
+0893	1	2531 Atlantic Hwy. (U.S. 1), Lincolnville, ME |
+0894	1	335 Main St., Ogunquit, ME |
+0895	1	Harris Island Rd. just off Rte. 103, York Harbor, ME
+0896	1	5 Axholme Rd., York Village, ME
+0897	1	27 Western Ave., Kennebunk, ME |
+0898	1	Stage Neck Rd., York Harbor, ME
+0899	1	55 W. Grand Ave., Old Orchard Beach, ME |
+0900	1	25 E. Grand Ave., Old Orchard Beach, ME |
+0901	1	117 Pond Rd., South Berwick, ME |
+0902	1	2265 U.S. 1., Wells, ME
+0903	1	37 Beach Ave., Kennebunk, ME |
+0904	1	92 Commercial St., Portland, ME |
+0905	1	On pier, end of Main St., South Freeport, ME |
+0906	1	225 Two Lights Rd., ME |
+0907	1	17 Main St., Milbridge, ME |
+0908	1	3 E. Main St., Machias, ME |
+0909	1	167 Water St., Eastport, ME |
+0910	1	9 Chandler St., Calais, ME |
+0911	1	170 Main St., Lubec, ME |
+0912	1	50 West St., 1 block from visitor center, Annapolis, MD |
+0913	1	58 W. Biddle St., Mount Vernon, Baltimore, MD, 21201 |
+0914	1	32 Market Pl., Inner Harbor, Baltimore, MD, 21202 |
+0915	1	1114 Hollins St., Washington Village, Baltimore, MD, 21223 |
+0916	1	1032 Light St., Federal Hill, Baltimore, MD, 21230 |
+0917	1	1621 Aliceanna St., Fells Point, Baltimore, MD, 21231 |
+0918	1	924 N. Charles St., Mount Vernon, Baltimore, MD, 21201 |
+0919	1	822 Lancaster St., Inner Harbor, Baltimore, MD, 21202 |
+0920	1	10 Art Museum Dr., Charles Village, Baltimore, MD, 21218 |
+0921	1	806 N. Charles St., Mount Vernon, Baltimore, MD, 21201 |
+0922	1	248 Albemarle St., Little Italy, Baltimore, MD, 21202 |
+0923	1	1708 Aliceanna St., Fells Point, Baltimore, MD, 21231 |
+0924	1	1727 E. Pratt St., Fells Point, Baltimore, MD, 21231 |
+0925	1	930 N. Charles St., Mount Vernon, Baltimore, MD, 21201 |
+0926	1	413 S. High St., Little Italy, Baltimore, MD, 21202 |
+0927	1	1711 N. Charles St., Station North Arts District, Baltimore, MD, 21201 |
+0928	1	830 Memorial Dr., Oakland, MD, 21550 |
+0929	1	103 Frederick Rd., Thurmont, MD, 21788 |
+0930	1	6 East St., Frederick, MD, 21701
+0931	1	145 Bumble Bee Rd., just off Rte. 219, Grantsville, MD, 21520 |
+0932	1	5018 Old National Pike, Braddock Heights, MD, 21703 |
+0933	1	51 S. Market St. , Frederick, MD, 21701 |
+0934	1	8 Main St., New Market, MD, 21774
+0935	1	6132 Old National Pike, Boonsboro, MD, 21713 |
+0936	1	18 Valley St., Cumberland, MD, 21502 |
+0937	1	7945 Norfolk Ave., Bethesda, MD, 20814 |
+0938	1	10417 Armory Ave., Kensington, MD, 20895 |
+0939	1	921-J Ellsworth Dr., Silver Spring, MD, 20910 |
+0940	1	10710 Falls Rd., Potomac, MD, 20854 |
+0941	1	10801 MacArthur Blvd., Potomac, MD, 20854 |
+0942	1	8012 Georgia Ave., Silver Spring, MD, 20910 |
+0943	1	4828 Bethesda Ave., Bethesda, MD, 20814 |
+0944	1	7731 Woodmont Ave., Bethesda, MD, 20814 |
+0945	1	11 Bohemia Ave., Chesapeake City, MD, 21915 |
+0946	1	236 Cannon St., Chestertown, MD, 21620 |
+0947	1	870 High St., Chestertown, MD |
+0948	1	End of Mill St., at harbor, St. Michaels, MD, 21663
+0949	1	203 High St., Chestertown, MD, 21620 |
+0950	1	25 Goldsborough St., Easton, MD, 21601 |
+0951	1	12 Broad St., Historic District, Berlin, MD, 21811 |
+0952	1	28 S. Harrison St., Easton, MD, 21601 |
+0953	1	42 E. Dover St., Easton, MD, 21601 |
+0954	1	108 S. Cross St., Chestertown, MD, 21620 |
+0955	1	8 N. Washington St., Easton, MD, 21601 |
+0956	1	12924 Sunset Ave, West Ocean City, MD, 21842
+0957	1	112 Commerce St., Cambridge, MD |
+0958	1	125 Mulberry St., St. Michaels, MD, 21663 |
+0959	1	286 Main St., Great Barrington, MA |
+0960	1	47 Railroad St., Great Barrington, MA |
+0961	1	3 Center St. , West Stockbridge, MA, 02166 |
+0962	1	1245 Cambridge St., Cambridge, MA, 02139 |
+0963	1	284 Armory St., Sam Adams Brewery complex, Jamaica Plain, Boston, MA, 02130 |
+0964	1	1 Kendall Sq., Cambridge, MA, 02139 |
+0965	1	359 Newbury St., Back Bay, Boston, MA, 02115 |
+0966	1	33 North Sq., North End, Boston, MA, 02113 |
+0967	1	40 Brattle St., Cambridge, MA, 02138 |
+0968	1	323 Hanover St., North End, Boston, MA, 02113 |
+0969	1	75 Arlington St., Back Bay, Boston, MA, 02116 |
+0970	1	340 Faneuil Hall Market Pl., North Market Bldg., Boston, MA, 02109 |
+0971	1	528 Commonwealth Ave., Kenmore Sq., Boston, MA, 02215 |
+0972	1	2067 Massachusetts Ave., Cambridge, MA, 02140 |
+0973	1	900 Beacon St., Boston, MA, 02215 |
+0974	1	1595 Washington St., South End, Boston, MA, 02118 |
+0975	1	344 Huron Ave., Cambridge, MA, 02138 |
+0976	1	16 Hudson St., Chinatown, Boston, MA, 02111 |
+0977	1	143 1st St., Cambridge, MA, 02142 |
+0978	1	774 Boylston St., 2nd fl., Back Bay, Boston, MA, 02199 |
+0979	1	97 Mt. Vernon St., Beacon Hill, Boston, MA, 02108 |
+0980	1	255 State St., Waterfront, Boston, MA, 02109 |
+0981	1	129 South St., Downtown, Boston, MA, 02111 |
+0982	1	242 Harvard St., Brookline, MA, 02446 |
+0983	1	253 Hanover St., 2nd fl., North End, Boston, MA, 02113 |
+0984	1	14 Harvard St., Brookline, MA, 02445 |
+0985	1	Boston Harbor Hotel at Rowes Wharf, 70 Rowes Wharf, Waterfront, Boston, MA, 02110 |
+0986	1	1145 Washington St., South End, Boston, MA, 02118 |
+0987	1	10 City Sq., Charlestown, Boston, MA, 02129 |
+0988	1	75 Charles St. S, Theater District, Boston, MA, 02116 |
+0989	1	319 Hanover St., North End, Boston, MA, 02113 |
+0990	1	1648 Beacon St., Brookline, MA, 02445 |
+0991	1	1353 Beacon St., Brookline, MA, 02446 |
+0992	1	69 Bromfield St., Downtown, Boston, MA, 02108 |
+0993	1	1357 Washington St., South End, Boston, MA, 02118 |
+0994	1	79 Park Plaza, Back Bay, Boston, MA, 02116 |
+0995	1	335 Harvard St., Brookline, MA, 02446 |
+0996	1	43 Main St. (Rte. 6A), Yarmouth Port, MA |
+0997	1	267 Coggeshall St., near intersection of I-195 and Rte. 18, New Bedford, MA |
+0998	1	23V Whites Path, Union Station Plaza, South Yarmouth, MA |
+0999	1	680 Main St., West End, Hyannis, MA |
+1000	1	1993 Main St. (Rte. 6A), Brewster, MA |
+1001	1	183 Commercial St., Provincetown, MA |
+1002	1	4 Depot Rd., Harwich, MA |
+1003	1	323 Orleans Rd. (Rte. 28), North Chatham, Chatham, MA |
+1004	1	206-208 Commercial St., Provincetown, MA |
+1005	1	1 Shipyard La., at Kingman Yacht Center, Cataumet, MA |
+1006	1	4 Kiley Ct., Provincetown, MA |
+1007	1	8 Upper County Rd., Dennisport, MA |
+1008	1	173 Water St., Town Wharf, Plymouth, MA |
+1009	1	4295 U.S. 6, Eastham, MA |
+1010	1	539 Commercial St., Provincetown, MA |
+1011	1	554 U.S. 6, South Wellfleet, MA |
+1012	1	U.S. 6, North Eastham, MA |
+1013	1	98 Town Neck Rd., Sandwich, MA |
+1014	1	2689 Main St., (Rte. 6A), Brewster, MA |
+1015	1	Corner of Rtes. 134 and 28, West Dennis, MA |
+1016	1	3668 Main St. (Rte. 6A), East Brewster, Brewster, MA |
+1017	1	Town Wharf, Plymouth, MA |
+1018	1	321 Commercial St., Provincetown, MA |
+1019	1	Wellfleet Town Pier, Wellfleet Harbor, Wellfleet, MA |
+1020	1	1077 Main St., West Chatham, Chatham, MA |
+1021	1	U.S. 6 near Truro border, Wellfleet, MA |
+1022	1	275 Mill Way, Barnstable, MA |
+1023	1	95 Shore Dr., The Country Club of New Seabury, Mashpee, MA |
+1024	1	541 Main St. (Rte. 28), Harwich, MA |
+1025	1	303 Commercial St., Provincetown, MA |
+1026	1	299 Commercial St., Provincetown, MA |
+1027	1	164 Main St. (Rte. 28), Falmouth Center, Falmouth, MA |
+1028	1	15 Commercial St., Provincetown, MA |
+1029	1	4631 Falmouth Rd. (Rte. 28), Cotuit, MA |
+1030	1	586 Main St., Downtown Hyannis, Hyannis, MA |
+1031	1	950 Iyanough Rd., (Rte. 132), Hyannis, MA |
+1032	1	799 Main St. (Rte. 6A), Dennis Village, MA |
+1033	1	11A Steeple St., Mashpee Commons, Mashpee, MA |
+1034	1	39 Cranberry Hwy., (Rte. 6A), Orleans, MA |
+1035	1	152 S. Shore Dr., South Yarmouth, MA |
+1036	1	5 Lower County Rd., Dennisport, MA |
+1037	1	104 Shore Rd., (Rte. 6A), North Truro, MA |
+1038	1	595 Main St., Chatham, MA |
+1039	1	3261 Main St. (Rte. 6A), Barnstable, MA |
+1040	1	Off U.S. 6, Truro, MA |
+1041	1	752 Main St., Osterville, MA, 02655 |
+1042	1	316 Main St., Downtown Wellfleet, Wellfleet, MA |
+1043	1	Town Wharf, Plymouth, MA |
+1044	1	71 Main St., Edgartown, MA |
+1045	1	39 Beach Rd., Vineyard Haven, MA |
+1046	1	32 Beach St., Vineyard Haven, MA |
+1047	1	20 Beach St. Ext., Vineyard Haven, MA |
+1048	1	At end of North Rd., Menemsha, MA |
+1049	1	32 Kennebec Ave., Oak Bluffs, MA |
+1050	1	21 Federal St., Nantucket Town, MA |
+1051	1	41 Main St., Nantucket Town, MA |
+1052	1	29 Centre St., Nantucket Town, MA |
+1053	1	40 Main St., Nantucket Town, MA |
+1054	1	24 Broad St., Nantucket Town, MA |
+1055	1	45 Sparks Ave., Nantucket Town, MA |
+1056	1	14 Old South Wharf, Nantucket Town, MA |
+1057	1	1 N. Union St., Nantucket Town, MA |
+1058	1	6 Harbor Sq., Straight Wharf, Nantucket Town, MA |
+1059	1	267 Coggeshall St., near intersection of I-195 and Hwy. 18, New Bedford, MA, 02740 |
+1060	1	15 Dock Sq., Rockport, MA, 01966 |
+1061	1	81 Front St., Marblehead, MA, 01945 |
+1062	1	24 Walden St., Concord, MA, 01742 |
+1063	1	121 Main St., (Rte. 133), Essex, MA, 01929 |
+1064	1	19 Strong Ave., Northampton, MA, 01060 |
+1065	1	1060 Main St., Springfield, MA |
+1066	1	72 Main St., Northfield, VT
+1067	1	700 Town Center Dr., Dearborn, MI, 48126 |
+1068	1	2800 W. Big Beaver Rd., Troy, MI, 48084 |
+1069	1	39560 Woodward Ave., Bloomfield Hills, MI, 48304 |
+1070	1	2000 Town Center, Suite 98, Southfield, MI, 48075 |
+1071	1	565 E. Larned, Detroit, MI, 48226 |
+1072	1	72 W. Maple Rd., Troy, MI, 48084 |
+1073	1	300 River Pl., Detroit, MI, 48207 |
+1074	1	Townsend Hotel, 100 Townsend St., Birmingham, MI |
+1075	1	112 N. 3rd St., Minneapolis, MN |
+1076	1	Chambers Hotel, 901 Hennepin Ave., Minneapolis, MN |
+1077	1	2916 Hennepin Ave. S, Minneapolis, MN |
+1078	1	900 Hennepin Ave., Minneapolis, MN |
+1079	1	1100 Nicollet Mall, Minneapolis, MN |
+1080	1	1310 Carondelet Dr., Kansas City, MO |
+1081	1	1600 Gennessee St., West Bottoms, Kansas City, MO |
+1082	1	4749 Pennsylvania, Country Club Plaza, Kansas City, MO |
+1083	1	405 N. Euclid Ave., Central West End, St. Louis, MO |
+1084	1	343 S. Kirkwood, Kirkwood, St. Louis, MO |
+1085	1	8501 Delmar Blvd., University City, MO |
+1086	1	1 Metropolitan Square, Downtown, St. Louis, MO |
+1087	1	222 S. Bemiston, Clayton, St. Louis, MO |
+1088	1	410 Market St., Downtown, St. Louis, MO |
+1089	1	1800 Smelter Ave., Black Eagle, MT |
+1090	1	202 2nd Ave. S, Great Falls, MT |
+1091	1	3725 2nd Ave. N, Great Falls, MT |
+1092	1	1502 Rehberg La., at Grand Ave., Billings, MT |
+1093	1	404 N. 30th St., Billings, MT |
+1094	1	1500 10th Ave. S, Great Falls, MT |
+1095	1	213 3rd Ave., Havre, MT |
+1096	1	Trail's Inn Bar and Comedy Club, 607 Main St., Miles City, MT |
+1097	1	U.S. Hwy. 89, St. Mary, MT, 59417 |
+1098	1	108 E. 6th Ave., Helena, MT |
+1099	1	11 S. Broadway, Red Lodge, MT, 59068 |
+1100	1	116 S. Broadway, Red Lodge, MT, 59068 |
+1101	1	302 E. Broadway, Butte, MT |
+1102	1	47995 Gallatin Rd., U.S. 191, Big Sky, MT, 59716
+1103	1	212 S. Park Ave., Helena, MT |
+1104	1	47 Geyser St., 1&frac12; mi north of Ennis on Hwy. 287, Ennis, MT
+1105	1	12775 Bannack Rd., ; south on I-15, Exit 44, on Hwy. 324 12 mi to Bannack turnoff, right 2 mi ahead on right, Dillon, MT |
+1106	1	Transportation from Helena to ranch, 8 mi southwest of town, is included in price, Helena, MT
+1107	1	611 E. Main St., Bozeman, MT, 59715 |
+1108	1	315 E. Commercial St., Anaconda, MT |
+1109	1	611 E. Front St., Butte, MT |
+1110	1	443 E. Main St., Bozeman, MT, 59715 |
+1111	1	Hwy. 2 E, Columbia Falls, MT
+1112	1	190 S. 3rd W, Missoula, MT |
+1113	1	121 Main St., Kalispell, MT |
+1114	1	3954 U.S. 93 N, Stevensville, MT
+1115	1	408 Bridge St., Bigfork, MT |
+1116	1	Hwy. 83, downtown Seeley Lake, Seeley Lake, MT
+1117	1	69286 U.S. Hwy. 93, Charlo, MT, 59824
+1118	1	235 1st St., Whitefish, MT |
+1119	1	215 Marcus St., Hamilton, MT |
+1120	1	1705 Wisconsin Ave., Whitefish, MT |
+1121	1	28 Lupfer, Whitefish, MT |
+1122	1	163 2nd St. S, Hamilton, MT |
+1123	1	422 N. Higgins Ave., Missoula, MT |
+1124	1	115&frac12; S. 4th W, Missoula, MT |
+1125	1	1200 U.S. 93 N, Whitefish, MT
+1126	1	451 N. Higgins Ave., Missoula, MT |
+1127	1	10820 W. Charleston Blvd., Summerlin, Las Vegas, NV |
+1128	1	The Palms, 4321 W. Flamingo Rd., West Side, Las Vegas, NV |
+1129	1	Forum Shops at Caesars, 3500 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1130	1	Venetian Resort-Hotel-Casino, 3355 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1131	1	Mandalay Bay Resort &amp; Casino, 3950 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1132	1	Treasure Island Hotel, 3300 Las Vegas Blvd. S, North Strip, Las Vegas, NV |
+1133	1	The Forum Shops at Caesars, 3500 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1134	1	Wynn Las Vegas, 3131 Las Vegas Blvd. S, North Strip, Las Vegas, NV |
+1135	1	Wynn Las Vegas, 3131 Las Vegas Blvd. S, North Strip, Las Vegas, NV |
+1136	1	2000 Fashion Show Drive, (inside the Trump International Hotel)., Las Vegas, NV, 89109 |
+1137	1	910 Las Vegas Blvd. S, Downtown, Las Vegas, NV |
+1138	1	MGM Grand Hotel and Casino, 3799 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1139	1	Renaissance Las Vegas, 3400 Paradise Rd., Paradise Road, Las Vegas, NV |
+1140	1	MGM Grand Hotel and Casino, 3799 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1141	1	3900 Paradise Rd., Paradise Road, Las Vegas, NV |
+1142	1	Bellagio Las Vegas, 3600 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1143	1	Mandalay Bay Resort &amp; Casino, 3950 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1144	1	Rio All-Suite Hotel &amp; Casino, 3700 W. Flamingo Rd., West Side, Las Vegas, NV |
+1145	1	2910 Lake East Dr., West Side, Las Vegas, NV |
+1146	1	308 W. Sahara Ave., West Side, Las Vegas, NV, 89102 |
+1147	1	3987 Paradise Rd., Paradise Road, Las Vegas, NV |
+1148	1	1050 S. Rampart St., Summerlin, Las Vegas, NV |
+1149	1	2218 Paradise Rd., Paradise Road, Las Vegas, NV |
+1150	1	Treasure Island Las Vegas (TI), 3300 Las Vegas Blvd. S, North Strip, Las Vegas, NV |
+1151	1	3667 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1152	1	Golden Nugget Hotel and Casino, 129 E. Fremont St., Downtown, Las Vegas, NV, 89101 |
+1153	1	2655 E. Desert Inn Rd., East Side, Las Vegas, NV |
+1154	1	953 E. Sahara Ave., East Side, Las Vegas, NV |
+1155	1	4750 W. Sahara Ave., West Side, Las Vegas, NV, 89102 |
+1156	1	335 Hughes Center Dr., Paradise Road, Las Vegas, NV |
+1157	1	Hard Rock Hotel and Casino, 4455 Paradise Rd., Paradise Road, Las Vegas, NV, 89109 |
+1158	1	The Palms, 4321 W. Flamingo Rd., West Side, Las Vegas, NV |
+1159	1	Wynn Las Vegas, 3131 Las Vegas Blvd. S, North Strip, Las Vegas, NV |
+1160	1	Bellagio Las Vegas, 3600 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1161	1	Bellagio Las Vegas, 3600 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1162	1	3570 Las Vegas Blvd., Caesars Palace, Center Strip, Las Vegas, NV |
+1163	1	MGM Grand Hotel and Casino, 3799 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1164	1	Venetian Resort-Hotel-Casino, 3355 Las Vegas Blvd. S, Center Strip, Las Vegas, NV, 89101 |
+1165	1	Bellagio Las Vegas, 3600 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1166	1	Main Street Station, 200 N. Main St., Downtown, Las Vegas, NV, 89101 |
+1167	1	Fashion Show Mall, 3200 Las Vegas Blvd. S, North Strip, Las Vegas, NV |
+1168	1	Caesars Palace, 3570 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1169	1	Mandalay Bay Resort &amp; Casino, 3950 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1170	1	Fremont Hotel and Casino, 200 E. Fremont St., Downtown, Las Vegas, NV, 89101 |
+1171	1	Bellagio Las Vegas, 3600 Las Vegas Blvd. S, Center Strip, Las Vegas, NV |
+1172	1	Palms Place Hotel &amp; Spa, 4381 W. Flamingo Rd., West Side, Las Vegas, NV, 89103 |
+1173	1	Forum Shops at Caesars, 3500 Las Vegas Blvd. S, Center Strip, Las Vegas, NV, 89109 |
+1174	1	Circus Circus, 2880 Las Vegas Blvd. S, North Strip, Las Vegas, NV, 89109 |
+1175	1	3460 E. Sunset Rd., Las Vegas, NV |
+1176	1	Four Seasons Hotel, 3960 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1177	1	6182 W. Flamingo Rd., West Side, Las Vegas, NV |
+1178	1	MGM Grand Hotel and Casino, 3799 Las Vegas Blvd. S, South Strip, Las Vegas, NV |
+1179	1	3900 Paradise Rd., Paradise Road, Las Vegas, NV, 89109 |
+1180	1	27 S. Main St., Hanover, NH |
+1181	1	40 Andover Rd., Rtes. 11 and 114 , New London, NH |
+1182	1	11 S. Main St., Hanover, NH |
+1183	1	775 S. Main St., Wolfeboro, NH |
+1184	1	Church Landing, Meredith, NH |
+1185	1	U.S. 3 and Shepard Hill Rd., Holderness, NH |
+1186	1	19 Bay St., Wolfeboro, NH |
+1187	1	2263 Ocean Blvd., Rye, NH |
+1188	1	21 Congress St., Portsmouth, NH |
+1189	1	103 Congress St., Portsmouth, NH |
+1190	1	37 Bow St., Portsmouth, NH |
+1191	1	9 School St., Peterborough, NH |
+1192	1	75 Arms Park Dr., Manchester, NH |
+1193	1	10 Central Sq., Keene, NH, 03431 |
+1194	1	61 Lowell St., Manchester, NH, 03101 |
+1195	1	47 Main St., Walpole, NH, 03608 |
+1196	1	194 Main St., Nashua, NH |
+1197	1	Rte. 16, &frac14; mi north of North Conway Village, North Conway, NH |
+1198	1	U.S. 302, Glen, NH, 03838 |
+1199	1	116 Rte. 117, Franconia, NH |
+1200	1	42 Thorn Hill Rd., Jackson, NH, 03846 |
+1201	1	U.S. 3, North Woodstock, NH, 03262 |
+1202	1	2400 Arctic Ave., Atlantic City, NJ |
+1203	1	1 Sunset Blvd., West Cape May, NJ |
+1204	1	2405 Atlantic Ave., Atlantic City, NJ |
+1205	1	29 S. Albany Ave., Atlantic City, NJ |
+1206	1	Fisherman's Wharf, on Shillenger Landing Rd., Cape May, NJ |
+1207	1	1926 Atlantic Ave., Atlantic City, NJ |
+1208	1	1700 W. Riverside Dr., Atlantic City, NJ |
+1209	1	1323 3rd Ave., Spring Lake, NJ |
+1210	1	727 Beach Ave., Cape May, NJ |
+1211	1	1405 Central Ave. NE, University of New Mexico, Albuquerque, NM, 87106 |
+1212	1	3015 Central Ave. NE, Nob Hill, Albuquerque, NM |
+1213	1	1815 Central Ave. NW, Old Town, Albuquerque, NM, 87104 |
+1214	1	218 Gold Ave. SW, Downtown, Albuquerque, NM, 87102 |
+1215	1	2711 Fourth St. NW, 2 blocks north of Menaul Blvd. NW, North Valley, Albuquerque, NM |
+1216	1	2846 NM 14, Madrid, NM, 87010 |
+1217	1	321 Rio Grande Blvd. NW, Old Town, Albuquerque, NM, 87104 |
+1218	1	4541 Corrales Rd., Corrales, NM, 87048 |
+1219	1	288 Prairie Star Rd., Santa Ana Pueblo, Bernalillo, NM |
+1220	1	801 Yale Blvd. SE, University of New Mexico, Albuquerque, NM, 87106 |
+1221	1	Albuquerque Hilton, 1901 University Blvd. NE, Albuquerque, NM, 87102 |
+1222	1	925 Camino del Pueblo, Bernalillo, NM |
+1223	1	2031 Mountain Rd. NW, Old Town, Albuquerque, NM, 87104 |
+1224	1	901 Rio Grande Blvd., Old Town, Albuquerque, NM, 87104 |
+1225	1	110 Central Ave. SW, Downtown, Albuquerque, NM, 87102 |
+1226	1	5721 Menaul Blvd. NE, on the north side, west of San Pedro NE, between Cardenas and Valencia Rds. NE, Uptown, Albuquerque, NM |
+1227	1	206 W. Main St., Artesia, NM |
+1228	1	701 S. Canal St., Carlsbad, NM |
+1229	1	134 N. 2nd St., Raton, NM, 87740 |
+1230	1	218 W. Main St., 87401, Farmington, NM |
+1231	1	1400 E. Historic Rte. 66, Gallup, NM |
+1232	1	1201 W. Historic Rte. 66, Gallup, NM |
+1233	1	525 E. Broadway, Farmington, NM, 87401 |
+1234	1	401 N.E. Aztec Blvd. (NM 516), Aztec, NM, 87410
+1235	1	122 N. Main Ave. (U.S. 550), across from Aztec Museum, Aztec, NM, 87410 |
+1236	1	506 W. Broadway, (U.S. 64), just west of U.S. 550, NM, 87413 |
+1237	1	Old Las Vegas Hwy., 4&frac12; mi south of Old Pecos Trail exit off I-25, Santa Fe, NM, 87505 |
+1238	1	402 N. Guadalupe St., near Santa Fe Plaza, Santa Fe, NM, 87501 |
+1239	1	653 Canyon Rd., Santa Fe, NM, 87501 |
+1240	1	808 Canyon Rd., Santa Fe, NM, 87501 |
+1241	1	213 Washington Ave., Santa Fe, NM, 87501 |
+1242	1	603 Santa Cruz Rd., NM 76 just east of NM 68, Espa&ntilde;ola, NM, 87532 |
+1243	1	2663 U.S. 64/84, on south end of town, Chama, NM, 87520 |
+1244	1	NM 68, Embudo, NM, 87531 |
+1245	1	U.S. 285/84, Exit 176, just north of Camel Rock Casino, 5 mi north of Santa Fe Opera, Santa Fe, NM, 87501 |
+1246	1	Off CR 98, behind Santuario de Chimay&oacute;, Chimay&oacute;, NM, 87522 |
+1247	1	537 W. Cordova St., Santa Fe, NM, 87505 |
+1248	1	237 E. DeVargas St., Santa Fe, NM, 87501 |
+1249	1	1494 Cerrillos Rd., Santa Fe, NM, 87505 |
+1250	1	406 Old Santa Fe Trail, Santa Fe, NM, 87501 |
+1251	1	54 Lincoln Ave., Santa Fe, NM, 87501 |
+1252	1	530 S. Guadalupe St., Santa Fe, NM, 87501 |
+1253	1	113&frac12; E. Palace Ave., Santa Fe, NM, 87501 |
+1254	1	321 Johnson St., near Santa Fe Plaza, Santa Fe, NM, 87501 |
+1255	1	15046 NM 75, Pe&ntilde;asco, NM, 87553 |
+1256	1	210 W. San Francisco St., Santa Fe, NM, 87501 |
+1257	1	115 Hickox St., Santa Fe, NM, 87505 |
+1258	1	2547 Sudderth Dr., Ruidoso, NM, 88346 |
+1259	1	306 Burro Ave., Cloudcroft, NM, 88317 |
+1260	1	Pine Stump Mall, 300 Burro Ave., Cloudcroft, NM, 88317 |
+1261	1	2717 Sudderth Dr., Ruidoso, NM, 88345 |
+1262	1	1126 W. 1st St., across from airplane display next to Eastern New Mexico University, Portales, NM, 88130 |
+1263	1	109 W. 12th St., Roswell, NM |
+1264	1	106 N. Texas St., Silver City, NM |
+1265	1	4850 Av. Triunfo de la Rep&uacute;blica, Ciudad Ju&aacute;rez
+1266	1	103 S. Bullard St., Silver City, NM, 88061 |
+1267	1	230 Garfield St., Socorro, NM, 87801 |
+1268	1	2410 Calle de San Albino, Old Mesilla, NM, 88046
+1269	1	400 N. Broadway, Truth or Consequences, NM |
+1270	1	109 Main St., (NM 60), Magdalena, NM, 87825 |
+1271	1	U.S. 60, Pie Town, NM, 87827
+1272	1	1551 E. Amador, Las Cruces, NM, 88001 |
+1273	1	1012 N. California St., Socorro, NM, 87801 |
+1274	1	489 NM 150, Taos Ski Valley Rd., Arroyo Seco, NM, 87514 |
+1275	1	Historic Taos Inn, 125 Paseo del Pueblo Norte, Taos, NM, 87571 |
+1276	1	812B Paseo del Pueblo Norte, Taos, NM |
+1277	1	480 State Road 150, Arroyo Seco, Taos, NM, 87514 |
+1278	1	103 E. Plaza, Taos, NM, 87571 |
+1279	1	Rte. 5, Little Falls, NY, 13365
+1280	1	417-419 River St., Troy, NY, 12180 |
+1281	1	4479 Rte. 30, Amsterdam, NY, 12010 |
+1282	1	85 4th St., Troy, NY, 12180 |
+1283	1	7900 Turin Rd., Rome, NY, 13440 |
+1284	1	30&frac12; Caroline St., Saratoga Springs, NY, 12866 |
+1285	1	440 Broadway, Saratoga Springs, NY, 12866 |
+1286	1	36 Main St., Southampton, NY, 11968 |
+1287	1	1742 Sag Harbor Tpke., Sag Harbor, NY
+1288	1	8 W. Water St., Sag Harbor, NY, 11936
+1289	1	1032 W. Beech St., Long Beach, NY, 11561
+1290	1	Montauk Harbor near the town dock, Montauk, NY, 11954 |
+1291	1	205 Main St., Port Washington, NY, 11050
+1292	1	27 Front St., Greenport, NY, 11944 |
+1293	1	631 E. Park Ave., Long Beach, NY, 11561
+1294	1	97-99 Main St., Southampton, NY, 11968 |
+1295	1	869 Montauk Hwy. , Water Mill, NY
+1296	1	Houser's Hotel, Bay Walk, Ocean Beach, Fire Island, NY, 11770 |
+1297	1	Main Rd., Jamesport, NY, 11947 |
+1298	1	9 S. Edison St., Montauk, NY, 11954 |
+1299	1	234 Hillside Ave., Williston Park, NY, 11596
+1300	1	Main St. and Long Island Ave., Sag Harbor, NY, 11963 |
+1301	1	1980 Montauk Hwy., Amagansett, NY, 11930 |
+1302	1	177 Meeting House Creek Rd., Aquebogue, NY, 11931 |
+1303	1	Water Mill Sq., 670 Montauk Hwy., Water Mill, NY, 11976 |
+1304	1	100 Montauk Hwy., East Hampton, NY, 11937 |
+1305	1	730 Franklin Ave., Garden City, NY, 11530
+1306	1	164 Hicksville Rd., Bethpage, NY, 11714
+1307	1	111 W. Broadway, Port Jefferson, NY, 11777
+1308	1	255 Northern Blvd., Great Neck, NY, 11021
+1309	1	2468 Main St., Bridgehampton, NY, 11932
+1310	1	59 Montauk Hwy., Westhampton Beach, NY, 11942 |
+1311	1	268 Elm St., Southampton, NY, 11968
+1312	1	126 7th St., Garden City, NY, 11530
+1313	1	40 Bowden Sq., Southampton, NY, 11969
+1314	1	15 Grand Ave., Shelter Island Heights, NY, 11965
+1315	1	231 Dune Rd., Westhampton Beach, NY, 11978 |
+1316	1	1 Dock Walk, Cherry Grove, Fire Island, NY, 11782 |
+1317	1	221 Pantigo Rd., East Hampton, NY, 11937 |
+1318	1	86 S. Tyson Ave., Floral Park, NY, 11001
+1319	1	106 W. Houston St., near Thompson St., Greenwich Village, New York, NY, 10012-2529 |
+1320	1	110 Waverly Pl., between MacDougal St. and 6th Ave., Greenwich Village, New York, NY, 10011-9102 |
+1321	1	80 Spring St., between Broadway and Crosby St., SoHo, New York, NY, 10012-3907 |
+1322	1	775 Washington St., between Jane and W. 12th Sts., West Village, New York, NY, 10014-1748 |
+1323	1	355 W. 46th St., between 8th and 9th Aves., Midtown West, New York, NY, 10036-3810 |
+1324	1	106 E. 57th St., between Lexington and Park Aves., Midtown East, New York, NY, 10022-2601 |
+1325	1	97 Sullivan St., between Prince and Spring Sts., SoHo, New York, NY, 10012-3663 |
+1326	1	29-19 24th Ave., between 29th and 31st Sts., Astoria, NY, 11102 |
+1327	1	53 W. 19th St., between 5th and 6th Aves., Flatiron District, New York, NY, 10011-4202 |
+1328	1	120 Hudson St., at N. Moore St., TriBeCa, New York, NY, 10013-2317 |
+1329	1	75 9th Ave., between 15th and 16th Sts., Chelsea, New York, NY, 10011-7006 |
+1330	1	118 W. 57th St., between 6th and 7th Aves., Midtown West, New York, NY, 10019-3318 |
+1331	1	200 W. 70th St., between Amsterdam and West End Aves., Upper West Side, New York, NY, 10123-4323 |
+1332	1	45 Tudor City Pl., between 42nd and 43rd Sts., Midtown East, New York, NY, 10017 |
+1333	1	900 Broadway, between 19th and 20th Sts., Flatiron District, New York, NY, 10003-1210 |
+1334	1	55 W. 44th St., between 5th and 6th Aves., Midtown West, New York, NY, 10036-6609 |
+1335	1	85 10th Ave., between 15th and 16th Sts., Meatpacking District, New York, NY, 10004-2436 |
+1336	1	37-33 74th St., between Roosevelt and 37th Aves., Jackson Heights, Jackson Heights, NY, 11372 |
+1337	1	56 Beaver St., at William St., Lower Manhattan, New York, NY, 10004-2436 |
+1338	1	103 W. 77th St., at Columbus Ave., Upper West Side, New York, NY, 10024-6909 |
+1339	1	432 Union Ave., between Metropolitan Ave. and Devoe St., Williamsburg, Brooklyn, NY, 11211 |
+1340	1	174 5th Ave., between E. 22nd and E. 23rd Sts., Flatiron District, New York, NY, 10010-5913 |
+1341	1	62 Stone St., between Mill La. and Hanover Sq., Lower Manhattan, New York, NY, 10004-2604 |
+1342	1	5 Front St., near Cadman Plaza W, DUMBO, Brooklyn, NY, 11201 |
+1343	1	31 Great Jones St., between Lafayette St. and Bowery, East Village, New York, NY, 10012-1178 |
+1344	1	337 E. 10th St., between Aves. A and B, East Village, New York, NY, 10009-5034 |
+1345	1	28 Bowery, at Bayard St., Chinatown, New York, NY, 10013-5100 |
+1346	1	19 Old Fulton St., between Front and Water Sts., DUMBO, Brooklyn, NY, 11201 |
+1347	1	288 Smith St., Carroll Gardens, Brooklyn, NY, 11231 |
+1348	1	1 Hanover Sq., between Stone and Pearl Sts., Financial District, New York, NY, 10004-2713 |
+1349	1	30 W. 26th St., between Broadway and 6th Ave., Flatiron District, New York, NY, 10010-2011 |
+1350	1	47 Bond St., between Bowery and Lafayette St., East Village, New York, NY, 10012-2450 |
+1351	1	116 E/ 16th St., between Union Square E and Irving Pl., Gramercy Park, New York, NY, 10003-2112 |
+1352	1	1 Central Park W, at W. 59th St., Upper West Side, New York, NY, 10023-7703 |
+1353	1	9 Pell St., between the Bowery and Mott St., Chinatown, New York, NY, 10013-5134 |
+1354	1	78 Rivington St., at Allen St., Lower East Side, New York, NY, 10002-2112 |
+1355	1	156 Chambers St., near Greenwich St., TriBeCa, New York, NY, 10007-1267 |
+1356	1	151 E. 58th St., at Lexington Ave., Midtown East, New York, NY, 10022-1287 |
+1357	1	142 Mercer St., at Prince St., SoHo, New York, NY, 10012-3806 |
+1358	1	2342 Arthur Ave., Belmont, Bronx, NY, 10458 |
+1359	1	1191 1st Ave., between E. 64th and E. 65th Sts., Upper East Side, New York, NY, 10065-7108 |
+1360	1	468 W. 47th St., near 10th Ave., Midtown West, New York, NY, 10036-2375 |
+1361	1	525 Hudson St., near Charles St., West Village, New York, NY, 10014-2607 |
+1362	1	207 2nd Ave., at 13th St., East Village, New York, NY, 10003-5797 |
+1363	1	145 West Broadway, between Duane and Thomas Sts., TriBeCa, New York, NY, 10013-3373 |
+1364	1	Grand Central Station, dining concourse, E. 42nd St. at Vanderbilt Ave., Midtown East, New York, NY, 10017-3804 |
+1365	1	176 Perry St., at West St. , West Village, New York, NY, 10014-2384 |
+1366	1	178 Broadway, at Driggs Ave., Williamsburg, Brooklyn, NY, 11211 |
+1367	1	210 Elizabeth St., between Prince and Spring Sts., NoLita, New York, NY, 10012-4213 |
+1368	1	208 W. 23rd St., between 7th and 8th Aves., Chelsea, New York, NY, 10011-2306 |
+1369	1	165 Allen St., between Rivington and Stanton Sts., Lower East Side, New York, NY, 10002-2147 |
+1370	1	1 Water St., near Old Fulton St., DUMBO, Brooklyn, NY, 11201 |
+1371	1	603 Crescent Ave., at Arthur Ave., Belmont, Bronx, NY, 10458 |
+1372	1	70 Prince St., at Crosby St., SoHo, New York, NY, 10012-3306 |
+1373	1	131 Rivington St., at Norfolk St., Lower East Side, New York, NY, 10002-2402 |
+1374	1	155 E. 55th St., between Lexington and 3rd Aves., Midtown East, New York, NY, 10022-4038 |
+1375	1	204 E. 43rd St., between 2nd and 3rd Aves., Midtown East, New York, NY, 10017-4713 |
+1376	1	72 W. 69th St., between Columbus Ave. and Central Park W, Upper West Side, New York, NY, 10023-5212 |
+1377	1	205 10th Ave., between 22nd and 23rd Sts., Chelsea, New York, NY, 10011-4719 |
+1378	1	1 E. 15th St., between 5th Ave. and Union Sq. W, Union Square, New York, NY, 10003 |
+1379	1	386 3rd Ave., between E. 27th and E. 28th Sts., Murray Hill, New York, NY, 10016-9007 |
+1380	1	21 E. 16th St., between 5th Ave. and Union Sq. W, Union Square, New York, NY, 10003-3104 |
+1381	1	342 E. 11th St., near 1st Ave., East Village, New York, NY, 10003-7417 |
+1382	1	675 Hudson St., at W. 14th St., Meatpacking District, New York, NY, 10014-1231 |
+1383	1	344 W. 11th St., at Washington St., Greenwich Village, New York, NY, 10014-2391 |
+1384	1	148 Mercer St., between Prince and W. Houston Sts., SoHo, New York, NY, 10012-3256 |
+1385	1	1047 Main St., Buffalo, NY, 14209 |
+1386	1	146 N. Union St., Olean, NY, 14760 |
+1387	1	4958 Main St., Bemus Point, NY, 14712 |
+1388	1	425 Center St., Lewiston, NY, 14092
+1389	1	810 Center St., Lewiston, NY, 14092 |
+1390	1	1104 Elmwood Ave., Buffalo, NY, 14222 |
+1391	1	2220 Pine Ave., /U.S. 62A, Niagara Falls, NY, 14301 |
+1392	1	15 Washington St., Ellicottville, NY, 14731 |
+1393	1	1375 Delaware Ave., Buffalo, NY, 14209
+1394	1	120 S. Union St., Olean, NY, 14760
+1395	1	115 W. Lake Rd./Rte. 394, Mayville, NY, 14757
+1396	1	6645 S. Portage Rd., 3 mi east of Westfield town center, Westfield, NY, 14787
+1397	1	260 Main St., North Creek, NY, 12853
+1398	1	126 State St., Clayton, NY, 13624 |
+1399	1	2384 Saranac Ave., High Peaks Resort, Main St. and Mirror Lake, Lake Placid, NY, 12946
+1400	1	3873 State Rte. 9L, Lake George, NY, 12845 |
+1401	1	18187 Reed Point Rd., Fisher's Landing, NY, 13641
+1402	1	1633 Glasco Tpke., Woodstock, NY |
+1403	1	Rte. 296, Windham, NY
+1404	1	602 Main St., /Rte. 23A, Tannersville, NY
+1405	1	7159 Rte. 28, Shandaken, NY |
+1406	1	19 Lower Main St., Callicoon, NY |
+1407	1	5 Rte. 52 E, Liberty, NY |
+1408	1	Main St., Pine Hill, NY
+1409	1	143 Main St., Pine Hill, NY |
+1410	1	53 Main St., Delhi, NY |
+1411	1	251 Bridge St., Narrowsburg, NY
+1412	1	Old Rte. 17, Roscoe, NY, 12776
+1413	1	204 N. Main St., Naples, NY, 14512 |
+1414	1	8843 Greyton H. Taylor Memorial Dr., Hammondsport, NY, 14840 |
+1415	1	3610 Pre-Emption Rd., (Rte. 5/U.S. 20), Geneva, NY, 14456 |
+1416	1	205 E. Main St., Waterloo, NY, 13165 |
+1417	1	2574 Macedon Rd., at N. Main St., Canandaigua, NY, 14424 |
+1418	1	1300 Rte. 14A, Penn Yan, NY, 14527
+1419	1	197 Park Ave., Rochester, NY, 14607 |
+1420	1	13780A W. Lake Rd., Hammondsport, NY, 14840
+1421	1	4699 Lake Ave., Rochester, NY, 14612 |
+1422	1	204 W. Fayette St., Syracuse, NY, 13202 |
+1423	1	4432 W. Lake Rd./Rte. 14, Geneva, NY, 14456
+1424	1	841 W. Genesee St., Skaneateles, NY, 13152 |
+1425	1	965 Edgemere Dr., Greece, NY, 14612 |
+1426	1	9068A Snug Harbor Dr., Hammondsport, NY, 14840
+1427	1	216 E. State St., Ithaca, NY, 14850
+1428	1	Culinary Institute of America, 1946 Campus Dr., Hyde Park, NY, 12538 |
+1429	1	1-3 Collegeview Ave., Poughkeepsie, NY, 12603 |
+1430	1	175 Katonah Ave., Katonah, NY |
+1431	1	45 E. Market St., Rhinebeck, NY, 12572 |
+1432	1	138 South Ave., Poughkeepsie, NY, 12601 |
+1433	1	6384 Mill St., Rhinebeck, NY, 12572 |
+1434	1	1315 Rte. 213, High Falls, NY, 12440
+1435	1	Culinary Institute of America, 1946 Campus Dr., Hyde Park, NY, 12538 |
+1436	1	506 Piermont Ave., Piermont, NY, 10968 |
+1437	1	6422 Montgomery St., Rhinebeck, NY, 12572 |
+1438	1	743 Rte. 28, 3 mi west of traffic circle, Kingston, NY, 12401 |
+1439	1	134 Main St., Nyack, NY, 10960 |
+1440	1	4076 Albany Post Rd., /U.S. 9, Hyde Park, NY, 12538 |
+1441	1	93 Main St., Nyack, NY, 10960 |
+1442	1	8 E. Market St., Rhinebeck, NY, 12572 |
+1443	1	55 Broadway, Tivoli, NY, 12583
+1444	1	537 Warren St., Hudson, NY, 12534 |
+1445	1	3266 Franklin Ave., Millbrook, NY, 12545 |
+1446	1	742 Warren St., Hudson, NY, 12534 |
+1447	1	1411 Rte. 212, Saugerties, NY, 12477 |
+1448	1	54 Main St., Chatham, NY, 12037 |
+1449	1	200 Ash St., Piermont, NY, 10968 |
+1450	1	448 Main St., Beacon, NY, 12508 |
+1451	1	252 Main St., Cornwall, NY, 12518 |
+1452	1	321 Warren St., Hudson, NY, 12534 |
+1453	1	117 N. Rte. 303, Congers, NY, 10920 |
+1454	1	The Garrison, 2015 Rte. 9, at Snake Hill Rd., Garrison, NY, 10524 |
+1455	1	110 Main St., Nyack, NY, 10960 |
+1456	1	300 East Blvd., SouthPark, Charlotte, NC |
+1457	1	1st St. at Cloverdale Ave., Downtown, Winston-Salem, NC, 27103 |
+1458	1	4429 Central Ave., East Charlotte/Merchandise Mart, Charlotte, NC, 28205 |
+1459	1	118 W. 5th St., Uptown, Charlotte, NC, 28202 |
+1460	1	Oak Hollow Mall, 914 Mall Loop Rd. , High Point, NC, 27262 |
+1461	1	U.S. 1, Southern Pines, NC, 28387 |
+1462	1	Brennan Station Shopping Center, 8111 Creedmoor Rd., North Hills, Raleigh, NC, 27613 |
+1463	1	214 N. College St., Uptown, Charlotte, NC, 28202 |
+1464	1	117 E. Franklin St., University, Chapel Hill, NC, 27514 |
+1465	1	4109-A Spring Garden St., Downtown, Greensboro, NC, 27407 |
+1466	1	134 N.W. Broad St., Southern Pines, NC, 28387 |
+1467	1	202 K Ave., Kure Beach, NC, 28449 |
+1468	1	1240 Duck Rd., Duck, NC, 27948 |
+1469	1	215 Princess St., Wilmington, NC, 28401 |
+1470	1	105 S. 7th St., Morehead City, NC, 28557 |
+1471	1	335 Middle St., New Bern, NC, 28560 |
+1472	1	425 Front St., Beaufort, NC, 28516 |
+1473	1	5410 Oleander Dr., Midtown, Wilmington, NC, 28403 |
+1474	1	408 Queen Elizabeth Ave., Manteo, NC, 27954 |
+1475	1	U.S. 158, MM 16.5, 7114 S. Virginia Dare Trail, Nags Head, NC, 27959 |
+1476	1	208 Pollock St., New Bern, NC, 28560 |
+1477	1	Nags Head-Manteo Causeway, MM 16.5, 7340 S. Virginia Dare Trail, Nags Head, NC, 27959 |
+1478	1	111 S. Howe St., Southport, NC, 28461 |
+1479	1	8960 U.S. 321, Bypass, Blowing Rock, NC, 28605 |
+1480	1	7328 S. Broad St., Brevard, NC, 28712 |
+1481	1	18 Brook St., Biltmore Village, Asheville, NC, 28803 |
+1482	1	40 Wall St., Downtown, Asheville, NC, 28801 |
+1483	1	445 Main St., Highlands, NC, 28741 |
+1484	1	28 Hendersonville Rd., Biltmore Village, Asheville, NC, 28803 |
+1485	1	12 College St., Downtown, Asheville, NC, 28801 |
+1486	1	3046 Madison Rd., Oakley, Cincinnati, OH |
+1487	1	210 E. 8th St., Downtown, Cincinnati, OH |
+1488	1	302 E. University Ave., Clifton, Cincinnati, OH |
+1489	1	1637 Vine St., Over-the-Rhine, Cincinnati, OH |
+1490	1	8905 Lake Ave., West Side, Cleveland, OH |
+1491	1	6125 St. Clair Ave., Downtown, Cleveland, OH |
+1492	1	2516 Market Ave., Ohio City, Cleveland, OH |
+1493	1	123 W. Prospect Ave., Downtown, Cleveland, OH |
+1494	1	55 Public Sq., Downtown, Cleveland, OH |
+1495	1	2179 Lee Rd., Cleveland Heights, OH |
+1496	1	3456 W. 117th St., West Side, Cleveland, OH |
+1497	1	1352 W. 6th St., Warehouse District, Cleveland, OH |
+1498	1	1835 Fulton Rd., Ohio City, Cleveland, OH |
+1499	1	10031 Detroit Ave., Cudell/Edgewater, Cleveland, OH |
+1500	1	2111 W. Henderson Rd., Upper Arlington, Columbus, OH |
+1501	1	1615 Old Henderson Rd., Upper Arlington, Columbus, OH |
+1502	1	475 S. 3rd St., German Village, Columbus, OH |
+1503	1	772 N. High St., Short North, Columbus, OH |
+1504	1	45 N. 3rd St., Downtown, Columbus, OH |
+1505	1	75 E. State St., at High St., Downtown, Columbus, OH |
+1506	1	1092 Bethel Rd., Columbus, OH |
+1507	1	649 High St., Worthington, OH |
+1508	1	237 S.W. 4th St., Madras, OR, 97741 |
+1509	1	13300 U.S. Hwy. 20, Sisters, OR, 97759
+1510	1	200 Detroit Ave., Detroit, OR, 97342 |
+1511	1	495 N.E. O'Neil Way, Redmond, OR, 97756
+1512	1	250 W. Cascade St., Sisters, OR, 97759 |
+1513	1	1044 N.W. Bond St., Bend, OR, 97701 |
+1514	1	403 E. Hood Ave., Sisters, OR, 97759 |
+1515	1	1114 N.W. College Way, #104, Bend, OR, 97701
+1516	1	Crater Lake Lodge, 97604, Rim Village, OR
+1517	1	At Hotel Diamond, 10 Main St., Diamond, OR
+1518	1	215 W. Burnside St., Old Town, Portland, OR, 97209 |
+1519	1	132 S.W. 3rd Ave., Downtown, Portland, OR, 97204 |
+1520	1	215 S.E. 9th Ave., Portland, OR, 97214 |
+1521	1	400 S.W. Broadway, Downtown, Portland, OR, 97205 |
+1522	1	2508 S.E. Clinton St., Portland, OR |
+1523	1	1752 S.E. Hawthorne Blvd., Hawthorne District, Portland, OR, 97214 |
+1524	1	1932 N.E. Broadway, Broadway District, Portland, OR, 97232 |
+1525	1	5519 NE 30th St., Portland, OR, 97211 |
+1526	1	319 S.W. Broadway, Downtown, Portland, OR, 97205 |
+1527	1	301 N.W. 4th Ave., Chinatown, Portland, OR, 97209 |
+1528	1	Heathman Hotel, 1001 S.W. Broadway, Downtown, Portland, OR, 97205 |
+1529	1	721 N.W. 9th Ave., Pearl District, Portland, OR, 97209 |
+1530	1	1987 N.W. Kearney St., Portland, OR, 97205 |
+1531	1	112 S.W. 2nd Ave., Portland, OR, 97204 |
+1532	1	338 N.W. 21st Ave., Portland, OR, 97209 |
+1533	1	304 S.E. 28th Ave., Portland, OR, 97214 |
+1534	1	3450 S.E. Belmont St., Portland, OR, 97214 |
+1535	1	1705 N.E. Couch St., Portland, OR, 97232 |
+1536	1	706 N.W. 21st Ave., Nob Hill, Portland, OR, 97209 |
+1537	1	2730 N.W. 31st Ave., off N.W. Yeon St., Portland, OR, 97210 |
+1538	1	816 N. Russell St., Portland, OR, 97227 |
+1539	1	200 S.W. Market St., Portland, OR, 97201 |
+1540	1	555 N.W. 12th Ave., Pearl District, Portland, OR, 97209 |
+1541	1	1204 N.W. 21st Ave., Nob Hill, Portland, OR, 97209 |
+1542	1	701 N.W. 23rd Ave., Nob Hill, Portland, OR, 97210 |
+1543	1	1506 N.W. 23rd Ave., Portland, OR, 97210 |
+1544	1	102 N.W. 9th Ave., Pearl District, Portland, OR, 97209 |
+1545	1	705 S.W. Alder St., Downtown, Portland, OR, 97205 |
+1546	1	852 S.W. 21st Ave., one block south of Burnside, close to Nob Hill, Portland, OR, 97205 |
+1547	1	503 S.W. Alder St., Downtown, Portland, OR, 97204 |
+1548	1	210 S.W. Morrison St., Portland, OR, 97204 |
+1549	1	1700 N. Killingsworth St., Portland, OR, 97217 |
+1550	1	325 N.E. Russell St., off N.E. Martin Luther King Jr. Blvd., Portland, OR, 97212 |
+1551	1	2500 S.E. Clinton, Portland, OR, 97202 |
+1552	1	1012 N.W. Glisan St., Pearl District, Portland, OR, 97209 |
+1553	1	901 S.W. Salmon St., Downtown, Portland, OR, 97205 |
+1554	1	2335 N.W. Thurman St., Portland, OR, 97210 |
+1555	1	1429 S.E. 37th Ave., Hawthorne District, Portland, OR, 97214 |
+1556	1	6320 S.W. Capitol Hwy., Portland, OR, 97239 |
+1557	1	400 S.W. Broadway, Downtown, Portland, OR, 97205 |
+1558	1	2411 S.E. Belmont St., near Hawthorne District, Portland, OR, 97214 |
+1559	1	175 E. California St., Jacksonville, OR |
+1560	1	3927 S. 6th St., Klamath Falls, OR, 97603 |
+1561	1	147 N. Front St. , Medford, OR, 97501 |
+1562	1	88611 E. Government Camp Loop , Government Camp, OR, 97028 |
+1563	1	Exit 31 off I-84, 50000 Historic Columbia River Hwy., Bridal Veil, OR, 97010 |
+1564	1	1252 E. Cascade Dr., North Bonneville, WA, WA, 98639
+1565	1	408 E. 2nd St., The Dalles, OR, 97058 |
+1566	1	5911 S.W. U.S. 101, about 5 mi south of Lincoln City, Lincoln City, OR
+1567	1	263 N. Hemlock St., Cannon Beach, OR |
+1568	1	100 W. Commercial St., Coos Bay, OR |
+1569	1	20 Basin St., Astoria, OR |
+1570	1	604 Broadway, Seaside, OR |
+1571	1	1110 N.W. 1st Ct., Lincoln City, OR
+1572	1	1695 Beach Loop Rd., Bandon, OR
+1573	1	1436 Bay St., Florence, OR |
+1574	1	94257 N. Bank Rogue, Gold Beach, OR |
+1575	1	1235 South Hemlock , Cannon Beach, OR, 97110 |
+1576	1	267 N.W. Cliff St., from U.S. 101 head west on 3rd St., Newport, OR |
+1577	1	12386 S.W. Main St., Tigard, OR, 97223 |
+1578	1	180 High St., Salem, OR
+1579	1	521 N.E. 3rd St., McMinnville, OR |
+1580	1	454 Willamette St., Eugene, OR |
+1581	1	760 Hwy. 99W, OR, 97115 |
+1582	1	2692 Willamette St., Eugene, OR |
+1583	1	1251 River Rd., PA, 18977
+1584	1	23 Bridge St., Lambertville, NJ, 08530
+1585	1	1 Rittenhouse Cir., New Hope, PA, 18938
+1586	1	14 E. Ferry St., New Hope, PA, 18938
+1587	1	U.S. 202 and Street Rd., Lahaska, PA, 18931
+1588	1	11&frac12; Church St., Lambertville, NJ, 08530
+1589	1	3029 Old Philadelphia Pike, Rte. 340, Bird-in-Hand, PA, 17505
+1590	1	2760 Old Philadelphia Pike, Rte. 340, Bird-in-Hand, PA, 17505
+1591	1	102 N. Market St., Mount Joy, PA, 17552
+1592	1	Rte. 896, &frac12; mi north of U.S. 30, Bird-in-Hand, PA, 17576
+1593	1	33-35 N. Market St., Lancaster, PA, 17603
+1594	1	3121 Old Philadelphia Pike, Rte. 340, between Bird-in-Hand and Intercourse, Bird-in-Hand, PA, 17505
+1595	1	26-1147 Lititz Pike, Lancaster, PA, 17601
+1596	1	624 S. 6th St., South Street, Philadelphia, PA, 19147 |
+1597	1	120 Lombard St., South Street, Philadelphia, PA, 19147 |
+1598	1	325 Chestnut St., Old City, Philadelphia, PA, 19106 |
+1599	1	1117 S. 11th St., South Philadelphia, Philadelphia, PA, 19147 |
+1600	1	8134 Ardleigh, Chestnut Hill, PA, 19118
+1601	1	1338 Chestnut St., at Broad St., Center City West, Philadelphia, PA, 19107 |
+1602	1	138 S. 2nd St., Old City, Philadelphia, PA, 19106 |
+1603	1	1801 Chestnut St., Center City West, Philadelphia, PA, 19103 |
+1604	1	10 S. 2nd St., Old City, Philadelphia, PA, 19106 |
+1605	1	1219 S. 9th St., South Philadelphia, Philadelphia, PA, 19147
+1606	1	615 S. 3rd St., South Street, Philadelphia, PA, 19147 |
+1607	1	1436 South St., Center City West, Philadelphia, PA, 19146
+1608	1	824 S. 8th St., Bella Vista, Philadelphia, PA, 19147
+1609	1	130 N. 3rd St., Old City, Philadelphia, PA, 19106 |
+1610	1	501 S. 45th St., West Philadelphia, Philadelphia, PA, 19104 |
+1611	1	1141-43 Pine St., Center City East, Philadelphia, PA, 19107
+1612	1	264 S. 16th St., Center City West, Philadelphia, PA, 19146 |
+1613	1	26th St. and Benjamin Franklin Pkwy., Benjamin Franklin Parkway, Philadelphia, PA, 19130 |
+1614	1	234 N. 9th St., Chinatown, Philadelphia, PA, 19107 |
+1615	1	640 N. Broad St., Center City West/North Philadelphia, Philadelphia, PA, 19130
+1616	1	3636 Sansom St., University City, Philadelphia, PA, 19104 |
+1617	1	Warwick Hotel, 1701 Locust St., Center City West, Philadelphia, PA, 19103 |
+1618	1	1946 Lombard St., Center City West, Philadelphia, PA, 19146
+1619	1	750 S. 7th St., South Philadelphia, Philadelphia, PA, 19147 |
+1620	1	253 S. 20th St., Rittenhouse Square, Philadelphia, PA, 19103
+1621	1	901 N. 2nd St., Northern Liberties, Philadelphia, PA, 19123 |
+1622	1	114 S. 20th St., Rittenhouse Square, Philadelphia, PA, 19103 |
+1623	1	717 Chestnut St., Historic Area, Philadelphia, PA, 19106
+1624	1	1312 Spruce St., Center City East, Philadelphia, PA, 19107 |
+1625	1	221 N. 11th St., Chinatown, Philadelphia, PA, 19107 |
+1626	1	200 S. Broad St., Center City West, Philadelphia, PA, 19102 |
+1627	1	237 St. James Place, Old City, Philadelphia, PA, 19106 |
+1628	1	51 S. 12th St., South Side, Pittsburgh, PA |
+1629	1	2104 Murray Ave., Pittsburgh, PA |
+1630	1	3412 William Penn Hwy., Monroeville, Pittsburgh, PA |
+1631	1	207 Atwood St., Pittsburgh, PA |
+1632	1	1230 Grandview Ave., Pittsburgh, PA |
+1633	1	537 Suismon St., Pittsburgh, PA |
+1634	1	1411 Grandview Ave., Pittsburgh, PA |
+1635	1	401 Hastings St., Pittsburgh, PA |
+1636	1	322 S. High St., West Chester, PA, 19380
+1637	1	Inn at Montchanin Village, Rte. 100 and Kirk Rd., Montchanin, DE, 19710
+1638	1	High St., Block Island, RI |
+1639	1	457 Chapel St., Block Island, RI |
+1640	1	Ferry Landing, Block Island, RI |
+1641	1	Bowen's Wharf, Newport, RI |
+1642	1	599 Thames St., Newport, RI, 02840 |
+1643	1	Bannister's Wharf, Newport, RI, 02840 |
+1644	1	267 Thames St., Bristol, 02809, Bristol, RI |
+1645	1	41 Bowen's Wharf, Newport, RI |
+1646	1	31 State St., Bristol, RI |
+1647	1	527 Thames St., Newport, RI, 02840 |
+1648	1	150 Broadway, Newport, RI |
+1649	1	141 Atwells Ave., Federal Hill, Providence, RI, 02903 |
+1650	1	311 Westminster St., Downtown, Providence, RI |
+1651	1	101 N. Main St., Downtown, Providence, RI |
+1652	1	959 Hope St., East Side, Providence, RI |
+1653	1	99 Hope St., East Side, Providence, RI, 02906 |
+1654	1	1240 Ocean Rd., Point Judith, Narragansett, RI |
+1655	1	Market Sq. and S. Main St., Woonsocket, RI |
+1656	1	171 E. Bay St., Market area, Charleston, SC, 29401 |
+1657	1	96 S. Market St., Market area, Charleston, SC, 29401 |
+1658	1	10 Exchange St., South of Broad, Charleston, SC, 29401 |
+1659	1	125A Wappoo Creek Dr., James Island, SC, 29412 |
+1660	1	149 Wentworth St., Lower King, Charleston, SC, 29401 |
+1661	1	440-442 King St., Upper King, Charleston, SC, 29401 |
+1662	1	199 E. Bay St., Market area, Charleston, SC, 29401 |
+1663	1	Planters Inn, 112 N. Market St., Market area, Charleston, SC, 29401 |
+1664	1	182 E. Bay St., Market area, Charleston, SC, 29401 |
+1665	1	901 Island Park Dr., Daniel Island, Charleston, SC, 29492 |
+1666	1	412 King St., Upper King, Charleston, SC, 29401 |
+1667	1	Orleans Plaza, 37 New Orleans Rd., Ste. L, South End, Hilton Head Island, SC, 29928 |
+1668	1	2410 Rte. 174, Edisto Island, SC, 29438 |
+1669	1	1929 Sea Island Pkwy., 18 mi southeast of Beaufort, St. Helena, SC, 29920 |
+1670	1	3979 U.S. 17 Business, Murrells Inlet, SC, 29576 |
+1671	1	7726 N. Kings Hwy., North End, Myrtle Beach, SC, 29572 |
+1672	1	3751 Grissom Pkwy., Central Myrtle Beach, Myrtle Beach, SC, 29577 |
+1673	1	10880 Ocean Hwy. #21 , at the Hammock Shops Village, Pawleys Island, SC, 29585 |
+1674	1	9305 Ocean Hwy., Pawleys Island, SC, 29585 |
+1675	1	501 Hwy. 17 N, North Myrtle Beach, SC, 29582 |
+1676	1	3000 N. Ocean Blvd., The Strip, Myrtle Beach, SC, 29577 |
+1677	1	703 Front St. , Georgetown, SC, 29440 |
+1678	1	9706 N. Kings Hwy., Myrtle Beach, SC, 29572 |
+1679	1	1818 Augusta St., Greenville, SC, 29605 |
+1680	1	2013 Greene St., Five Points, Columbia, SC, 29205 |
+1681	1	2601 Devine St., Shandon, Columbia, SC, 29205 |
+1682	1	116 Laurens St. , Aiken, SC, 29801
+1683	1	207 S. Main St., Greenville, SC, 29601 |
+1684	1	Hwy. 44, 6&frac12; mi west of town, Rapid City, SD |
+1685	1	2421 W. Main St., Rapid City, SD |
+1686	1	317 N. Main St., Pinch District, Memphis, TN |
+1687	1	912 Ridge Lake Blvd., Memphis, TN, 38120 |
+1688	1	342 U.S. 70, Mason, TN, 38049 |
+1689	1	5259 Poplar Ave., East Memphis, Memphis, TN |
+1690	1	1044 S. Yates Rd., East Memphis, Memphis, TN |
+1691	1	2146 Monroe Ave., Midtown, Memphis, TN |
+1692	1	2855 Poplar Ave., Memphis, TN, 38111 |
+1693	1	928 S. Cooper St., Cooper-Young District, Memphis, TN, 38104 |
+1694	1	911 20th Ave. S, Nashville, TN |
+1695	1	231 6th Ave. N, Nashville, TN |
+1696	1	2210 Crestmoor Rd., Nashville, TN |
+1697	1	115 27th Ave. N, Nashville, TN, 37203 |
+1698	1	1239 6th Ave. N, Nashville, TN |
+1699	1	1400 Murfreesboro Rd., Nashville, TN, 37217 |
+1700	1	160 2nd Ave. N, Nashville, TN, 37201 |
+1701	1	1796 21st Ave. S, Nashville, TN |
+1702	1	901 2nd Ave. N, Nashville, TN |
+1703	1	6500 W. Bee Cave Rd., West Lake, Austin, TX |
+1704	1	The Domain shopping center, 11506 Century Oaks Terrace, 78758, North Austin, Austin, TX |
+1705	1	401 W. 2nd St., 78701, Second Street &amp; Warehouse District, Austin, TX |
+1706	1	1900 Rio Grande St., University of Texas, Austin, TX |
+1707	1	2613 S. Lamar Blvd., South Austin, Austin, TX |
+1708	1	512 W. 29th St., University of Texas, Austin, TX |
+1709	1	11570 Research Blvd., Northwest Austin, Austin, TX |
+1710	1	6416 N. Lamar Blvd., North Austin, Austin, TX |
+1711	1	98 San Jacinto Blvd., Downtown &amp; the Capitol Area, Austin, TX |
+1712	1	Lajitas Resort, off Rte. 170, 25 mi west of park entrance, Lajitas, TX
+1713	1	7 mi southwest of Chisos Basin Junction and 9 mi southwest of Panther Junction, Big Bend National Park, TX
+1714	1	4714 Maple Ave., Uptown/Medical District, Dallas, TX |
+1715	1	5450 W. Lovers La., Suite 225, Inwood Village, Dallas, TX, 75209 |
+1716	1	2800 Routh St., Uptown, Dallas, TX |
+1717	1	3715 Greenville Ave., Lower Greenville, Dallas, TX |
+1718	1	2917 Fairmount St., Uptown, Dallas, TX, 75201 |
+1719	1	2406 N. Main St., Stockyards, Fort Worth, TX, 76106 |
+1720	1	2914 Main St., Deep Ellum, Dallas, TX |
+1721	1	3008 Maple Ave., Uptown, Dallas, TX |
+1722	1	3090 Olive St., Victory Park, Dallas, TX, 75219 |
+1723	1	4713 Camp Bowie Blvd., West Side, Fort Worth, TX |
+1724	1	310 Houston St., Sundance Square, Fort Worth, TX |
+1725	1	1701 N. Market St., Ste. 102, West End, Dallas, TX |
+1726	1	2615 Commerce St., Deep Ellum, Dallas, TX |
+1727	1	6047 Lewis St., Lakewood, Dallas, TX |
+1728	1	4514 Travis St., Suite 122, Uptown, Dallas, TX |
+1729	1	1618 Main St., Downtown Dallas, Dallas, TX |
+1730	1	1411 North St., Nacogdoches, TX |
+1731	1	1004 N. 14th St., Huntsville, TX |
+1732	1	117 E. Austin St., Jefferson, TX |
+1733	1	2630 Westheimer Rd., at Kirby Dr., River Oaks, Houston, TX |
+1734	1	701 Texas Ave., Downtown, Houston, TX, 77002 |
+1735	1	1728 Post Oak Blvd., Uptown/Galleria, Houston, TX, 77056 |
+1736	1	5555 Washington Ave., West Side/Memorial Park, Houston, TX |
+1737	1	2706 Westheimer Rd., River Oaks, Houston, TX |
+1738	1	3412 W. Lamar St., Montrose, Houston, TX |
+1739	1	3011 Smith St., Downtown, Houston, TX, 77006 |
+1740	1	500 Westheimer Rd., Montrose, Houston, TX |
+1741	1	3900 Seawall Blvd., Galveston, TX |
+1742	1	5109 Kirby Dr., West University, Houston, TX |
+1743	1	322 Westheimer Rd., Montrose, Houston, TX, 77006 |
+1744	1	2300 Ship's Mechanic Row, Galveston, TX |
+1745	1	628 14th St., Galveston, TX |
+1746	1	1226 Westheimer Rd., Montrose, Houston, TX |
+1747	1	2704 Navigation Blvd., East End, Houston, TX |
+1748	1	250 W. 19th St., Heights, Houston, TX |
+1749	1	507 Westheimer Rd., Montrose, Houston, TX |
+1750	1	10505 Katy Fwy., West Side/, Memorial Park, Houston, TX |
+1751	1	Hotel ICON, 220 Main St., Downtown, Houston, TX, 77002 |
+1752	1	814 Water St., Waxahachie, TX, 75165 |
+1753	1	1915 Dutton Ave., Waco, TX |
+1754	1	1925 Speight Ave., Waco, TX |
+1755	1	725 Austin Ave., Waco, TX |
+1756	1	1815 N. 18th St., Waco, TX |
+1757	1	702 E. Central Ave., Waco, TX
+1758	1	146 E. Houston St. (N. Saint Mary's St.), River Walk, San Antonio, TX |
+1759	1	8539 Fredericksburg Rd., Northwest, San Antonio, TX |
+1760	1	Hyatt Regency Hill Country Resort &amp; Spa, 9800 Hyatt Resort Dr., Outskirts, San Antonio, TX |
+1761	1	203 S. Saint Mary's St. (W. Market St.), River Walk, San Antonio, TX |
+1762	1	4200 Broadway St., Alamo Heights, San Antonio, TX |
+1763	1	1900 Blanco Rd., North, San Antonio, TX |
+1764	1	3920 Harry Wurzbach Rd., North, San Antonio, TX |
+1765	1	515 Villita St., River Walk, San Antonio, TX |
+1766	1	Westin La Cantera Resort, 16641 La Cantera Pkwy., Northwest, San Antonio, TX |
+1767	1	800 South Alamo St., King William, San Antonio, TX |
+1768	1	2427 Vance Jackson Rd., Northwest, San Antonio, TX |
+1769	1	Historic Exchange Building, 152 E. Pecan St., Downtown, San Antonio, TX |
+1770	1	13444 West Ave., Ste. 300, North, San Antonio, TX |
+1771	1	Cambridge Shopping Center, 5800 Broadway St., Alamo Heights, San Antonio, TX |
+1772	1	110 E. Crockett St., River Walk, San Antonio, TX |
+1773	1	1170 E. Commerce St., Downtown, San Antonio, TX |
+1774	1	223 Losoya St., River Walk, San Antonio, TX |
+1775	1	1 Padre Blvd., next to Sea Ranch, South Padre Island, TX |
+1776	1	13313 South Padre Island Dr. (S.P.I.D.), Corpus Christi, TX |
+1777	1	109 W. Main, Llano, TX |
+1778	1	203 E. San Antonio, Fredericksburg, TX |
+1779	1	323 E. Main St, Fredericksburg, TX |
+1780	1	601 Bessemer Ave., Llano, TX |
+1781	1	1004 Front St., Comfort, TX, 78013 |
+1782	1	245 E. Main St., Fredericksburg, TX |
+1783	1	905 W. Main St., Fredericksburg, TX |
+1784	1	1287 Gruene Rd., Gruene, TX
+1785	1	907 13th St., at the corner of Sycamore, Bandera, TX |
+1786	1	1324 E. Common St, New Braunfels, TX |
+1787	1	232 W. Main St, Fredericksburg, TX |
+1788	1	10661 U.S. Hwy 87, Fredericksburg, TX
+1789	1	303 W. San Antonio St., New Braunfels, TX |
+1790	1	14004 RR 12, Wimberley, TX |
+1791	1	607 S. Washington St., Fredericksburg, TX |
+1792	1	210 S. Adams St., Fredericksburg, TX |
+1793	1	829 FM 289, via the Welfare exit (#533) off I-10 W, Boerne, TX |
+1794	1	249 Main St., Fredericksburg, TX
+1795	1	700 1st St., Marble Falls, TX |
+1796	1	900 RR 620 S., Austin, TX |
+1797	1	7701 E. I-40, Amarillo, TX |
+1798	1	1701 5th Ave., Canyon, TX |
+1799	1	2201 S. Ross Ave., Amarillo, TX |
+1800	1	209 W. Holland Ave., Alpine, TX |
+1801	1	100 E. San Antonio St., Marfa, TX |
+1802	1	1901 Knickerbocker Rd., San Angelo, TX |
+1803	1	20 N. Hwy. 12, Boulder, UT |
+1804	1	148 S. Main St. , Helper, UT |
+1805	1	25 S. Vernal Ave., Vernal, UT |
+1806	1	550 E. Main St. , Vernal, UT |
+1807	1	19 S. Carbon Ave. , Price, UT |
+1808	1	87 W. Main St. , Price, UT |
+1809	1	84 S. Carbon Ave., Price, UT, 84501 |
+1810	1	434 E. Main St. , Price, UT |
+1811	1	115 W. Main St., Green River, UT |
+1812	1	1393 N. U.S. 191, Moab, UT
+1813	1	60 N. 100 West St., Moab, UT |
+1814	1	690 N. Main St., Logan, UT |
+1815	1	258 25th St., Ogden, UT |
+1816	1	306 N. Main St., Brigham City, UT |
+1817	1	253 25th St., Ogden, UT |
+1818	1	7350 E. 200 South St., 17 mi from Ogden via Rte. 39, Huntsville, UT |
+1819	1	382 4th Ave., Salt Lake City, UT |
+1820	1	48 Market St., Downtown, Salt Lake City, UT |
+1821	1	260 S. 1300 East St., University of Utah, Salt Lake City, UT |
+1822	1	54 Market St., Downtown, Salt Lake City, UT |
+1823	1	173 W. Broadway, Downtown, Salt Lake City, UT, 84101 |
+1824	1	151 S. 500 East St., Downtown, Salt Lake City, UT |
+1825	1	3698 E. Fort Union Blvd., Cottonwood, Salt Lake City, UT |
+1826	1	736 W. North Temple, Salt Lake City, UT, Downtown |
+1827	1	254 S. 200 West St., Downtown, Salt Lake City, UT |
+1828	1	308 W. 300 South St., Downtown, Salt Lake City, UT |
+1829	1	223 Hunter Ridge Rd. (Rte. 143), Brian Head, UT |
+1830	1	310 W. Main St., Escalante, UT |
+1831	1	332 N. 300 West St., Kanab, UT |
+1832	1	UT Rte. 14, 5 mi east of town in Cedar Canyon, Cedar City, UT |
+1833	1	95 Zion Park Blvd., Springdale, UT |
+1834	1	428 Zion Park Blvd., Springdale, UT |
+1835	1	1890 Bonanza Dr., Park City, UT |
+1836	1	7700 Stein Way, Deer Valley, UT |
+1837	1	45 E. Center St., Provo, UT |
+1838	1	1821 Sidewinder Dr., Park City, UT |
+1839	1	Rte. 210, across from Alta Lodge, Alta, UT |
+1840	1	Snowbird Plaza Center, Hwy. 210, Snowbird, UT |
+1841	1	380 E. Main St., Midway, UT |
+1842	1	Sundance Resort, N. Fork Provo Canyon, Sundance, UT |
+1843	1	Meet at The Forum of The Canyons Resort, Park City, UT |
+1844	1	1250 Iron Horse Dr., Park City, UT |
+1845	1	Zion Canyon Scenic Dr., 3&frac14; mi north of Canyon Junction, Zion National Park, UT |
+1846	1	442 Woodstock Rd., in Gallery Pl., Woodstock, VT |
+1847	1	Rte. 106, 12 mi south of Woodstock, Reading, VT |
+1848	1	61 Central Woodstock, upstairs, Woodstock, VT, 05091 |
+1849	1	115 St. Paul St., Burlington, VT |
+1850	1	98 Mill St., St. Johnsbury, VT |
+1851	1	311 Mountain Rd., Stowe, VT |
+1852	1	294 Mountain Rd., Stowe, VT |
+1853	1	123 Church St., Burlington, VT |
+1854	1	Rte. 114, East Burke, VT |
+1855	1	Main St., 10 mi east of Montpelier, Plainfield, VT |
+1856	1	5371 Rte. 7, 5 mi north of Vergennes, Ferrisburg, VT |
+1857	1	Rte. 7A, 3&frac12; mi north of Manchester, East Dorset, VT |
+1858	1	Dorset Green at Rte. 30, Dorset, VT |
+1859	1	Rte. 103, Mount Holly, VT |
+1860	1	10 Toll Gate Rd., Manchester, VT |
+1861	1	132 Elliot St., Brattleboro, VT, 05301 |
+1862	1	3732 Rte. 30/100, Jamaica, Stratton, VT, 05343 |
+1863	1	1418 Emmet St., Downtown, Charlottesville, VA, 22902 |
+1864	1	100 Old Church St., Low Moor, VA, 24457 |
+1865	1	5794 3 Notched Rd., at Rte. 240, Crozet, VA, 22932 |
+1866	1	Rte. 340, White Post, Winchester, VA, 22663 |
+1867	1	316 E. Main St., Salem, VA, 24153 |
+1868	1	101 W. Nelson St., Lexington, VA, 24450 |
+1869	1	105 W. Beverly St., Staunton, VA |
+1870	1	8332 Leesburg Pike, Tysons Corner, VA, 22102
+1871	1	138 N. Royal St., Alexandria, VA, 22314 |
+1872	1	121 King St., Alexandria, VA, 22314 |
+1873	1	11 N. King St., Leesburg, VA, 20175 |
+1874	1	7 Bollingbrook St., Petersburg, VA, 23803 |
+1875	1	1719-21 E. Franklin St., Richmond, VA, 23223 |
+1876	1	Jefferson Hotel, 101 W. Franklin St., Richmond, VA, 23220 |
+1877	1	7452 East Side Dr., Chincoteague, VA
+1878	1	10900 Warwick Blvd., U.S. 60, Newport News, VA |
+1879	1	700 Jordan Point Rd., Hopewell, VA |
+1880	1	501 N. Birdneck Rd., Virginia Beach, VA, 23451 |
+1881	1	Old Hampton La. at History Museum Way, Hampton, VA |
+1882	1	9220 John Tyler Memorial Hwy., Charles City, VA |
+1883	1	1211 Jamestown Rd., Colonial Williamsburg, VA |
+1884	1	Merchants Sq., 403 Duke of Gloucester St., Colonial Williamsburg, VA |
+1885	1	550 Columbia Point Dr., Richland, WA, 99352 |
+1886	1	2525 N. 20th St., Pasco, WA, 99301 |
+1887	1	245 Basin St. NW, Ephrata, WA |
+1888	1	1129 S. 2nd Ave., Walla Walla, WA |
+1889	1	125 S. Wall St., Spokane, WA, 99201 |
+1890	1	316 Spokane Way, Grand Coulee, WA, 99133 |
+1891	1	1500 W. 1st Ave., Ritzville, WA |
+1892	1	512 River Dr., Coulee Dam, WA, 99116 |
+1893	1	214 N. Howard St., Spokane, WA, 99201 |
+1894	1	Longmire, WA
+1895	1	1304 12th St., Bellingham, WA |
+1896	1	105 N.W. Coveland St., Coupeville, WA |
+1897	1	505 S. 1st St., La Conner, WA |
+1898	1	901 Grace St. NW, Coupeville, WA |
+1899	1	Pier 61, Anacortes, WA
+1900	1	2305 Eastlake Ave. E, Eastlake, Seattle, WA |
+1901	1	407 Olive Way, Downtown, Seattle, WA |
+1902	1	214 Broadway E, Capitol Hill, Seattle, WA |
+1903	1	2576 Aurora Ave. N, Queen Anne, Seattle, WA |
+1904	1	1531 14th Ave., Capitol Hill, Seattle, WA, 98122 |
+1905	1	4549 University Way NE, University District, Seattle, WA |
+1906	1	1520 1st Ave., Downtown, Seattle, WA |
+1907	1	1423 34th Ave., Madrona, Seattle, WA |
+1908	1	2001 4th Ave., Downtown, Seattle, WA, 98101 |
+1909	1	115 Broadway E, Capitol Hill, Seattle, WA |
+1910	1	1514 E. Olive Way, Capitol Hill, Seattle, WA |
+1911	1	607 N. 35th St., Fremont, Seattle, WA |
+1912	1	2505 1st Ave., Belltown, Seattle, WA |
+1913	1	2020 Western Ave., Belltown, Seattle, WA, 98121 |
+1914	1	2234 1st Ave., Belltown, Seattle, WA |
+1915	1	2701 E. Madison St., Madison Park, Seattle, WA |
+1916	1	5425 Russell Ave. NW, Ballard, Seattle, WA |
+1917	1	628 S. Weller St., International District, Seattle, WA |
+1918	1	401 NE Northlake Way, Wallingford, Seattle, WA |
+1919	1	424 7th Ave. S, International District, Seattle, WA |
+1920	1	7302 15th Ave, N.W., Ballard, Seattle, WA |
+1921	1	212 12th Ave. S, International District, Seattle, WA |
+1922	1	1612 N. 45th St., Wallingford, Seattle, WA |
+1923	1	722 4th Ave., Downtown, Seattle, WA |
+1924	1	615 19th Ave. E, Capitol Hill, Seattle, WA |
+1925	1	6804 E. Greenlake Way N, Green Lake, Seattle, WA |
+1926	1	4225 Fremont Ave. N, Fremont, Seattle, WA |
+1927	1	1919 Post Alley, Downtown, Seattle, WA, 98101 |
+1928	1	2808 E. Madison St., Madison Valley, Seattle, WA, 98112 |
+1929	1	1048 S. Jackson St., International District, Seattle, WA |
+1930	1	In Edgewater Hotel, 2411 Alaskan Way, Pier 67, Belltown, Seattle, WA |
+1931	1	610 S. Jackson St., International District, Seattle, WA |
+1932	1	205 Lake St. S, Kirkland, WA |
+1933	1	1514 Pike Pl., Downtown, Seattle, WA |
+1934	1	704 NW 65th St., Ballard, Seattle, WA |
+1935	1	220 Kirkland Ave., Kirkland, WA |
+1936	1	4411 Stone Way N, Wallingford, Seattle, WA |
+1937	1	600 5th Ave. S, International District, Seattle, WA |
+1938	1	8827 N. Harborview Dr., Gig Harbor, WA |
+1939	1	101 Winslow Way E, Bainbridge Island, WA, 98110 |
+1940	1	481 Madison Ave. E, Bainbridge Island, WA, 98110
+1941	1	504 5th Ave. S, Edmonds, WA |
+1942	1	Rhodes Bldg., 950 Broadway, Tacoma, WA |
+1943	1	504 E. Main Ave., Puyallup, WA |
+1944	1	101 W. N. Bend Way, North Bend, WA
+1945	1	18924 Front St., Poulsbo, WA |
+1946	1	4116 Harborview Dr., Gig Harbor, WA |
+1947	1	19472-B 7th Ave. NE, Poulsbo, WA, 98370 |
+1948	1	9226 Bayshore Dr. NW, Silverdale, WA |
+1949	1	Hwy. 103 and 42nd Pl., Seaview, WA, 98644
+1950	1	900 Pacific Hwy. S, Ilwaco, WA
+1951	1	131 E. Chance a la Mer Blvd., Ocean Shores, WA |
+1952	1	1345 S. Sequim Ave., Sequim, WA |
+1953	1	256861 U.S. 101, Port Angeles, WA
+1954	1	292 W. Bell St., Sequim, WA, 98382 |
+1955	1	634 Water St., Port Townsend, WA, 98368 |
+1956	1	1471 Bay View Ave., Neah Bay, WA
+1957	1	Lopez Village, WA
+1958	1	50 Duck Soup La., San Juan Island, WA |
+1959	1	22 N. 1st St., Yakima, WA |
+1960	1	612 E. Edison Ave., Sunnyside, WA |
+1961	1	1013 N. 1st St., Yakima, WA |
+1962	1	311 N. Pearl St., Ellensburg, WA |
+1963	1	1107 N. Old World 3rd St., Milwaukee, WI |
+1964	1	700 W. Lexington, Glendale, WI |
+1965	1	2265 S. Howell Ave., Milwaukee, WI |
+1966	1	316 N. Milwaukee St., Milwaukee, WI |
+1967	1	1030 N. Water St., Milwaukee, WI |
+1968	1	500 N. Water St., Milwaukee, WI |
+1969	1	320 E. Mason St., Milwaukee, WI |
+1970	1	625 S. 5th St., Milwaukee, WI |
+1971	1	1547 N. Jackson St., Milwaukee, WI |
+1972	1	2414 S. St. Clair St., Milwaukee, WI |
+1973	1	120 E. Riverside Ave., 2 mi northeast of Encampment, Riverside, WY |
+1974	1	909 Front St., Evanston, WY |
+1975	1	20 N. Penland St., Baggs, WY |
+1976	1	211 E. Flaming Gorge Way, Green River, WY |
+1977	1	1601 Harrison Dr., Evanston, WY |
+1978	1	1172 W. Flaming Gorge Way, Green River, WY |
+1979	1	401 Cedar St., Rawlins, WY
+1980	1	203 Cleveland St., Sundance, WY |
+1981	1	675 E. Hart St., Buffalo, WY |
+1982	1	1550 Sheridan Ave., Cody, WY |
+1983	1	1385 Sheridan Ave., Cody, WY |
+1984	1	1620 E. Cleveland St., Sundance, WY |
+1985	1	628 Richards St., Douglas, WY |
+1986	1	1 E. Alger St., Sheridan, WY |
+1987	1	241 S. Center St., Casper, WY |
+1988	1	100 E. Main St., Atlantic City, WY |
+1989	1	72 S. Glenwood, Jackson, WY |
+1990	1	115 E. Ramshorn Ave., Dubois, WY |
+1991	1	135 E. Broadway, Jackson, WY |
+1992	1	3295 Village Dr., Teton Village, WY |
+1993	1	150 W. Main St., Atlantic City, WY |
+1994	1	119 E. Ramshorn Ave., Dubois, WY |
+1995	1	84 E. Broadway, Jackson, WY, 83001 |
+1996	1	117 W. Pine St., Pinedale, WY |
+1997	1	173 S. Main St., 10 mi east of Lander, Hudson, WY, 82515
+1998	1	Grant Village, Yellowstone National Park, WY |
+1999	1	Mammoth Hot Springs, Yellowstone National Park, WY |

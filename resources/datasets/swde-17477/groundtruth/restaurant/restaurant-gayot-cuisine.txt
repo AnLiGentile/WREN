@@ -1,0 +1,2002 @@
+﻿restaurant	gayot	cuisine
+2000	2000	3331	155
+0000	1	Bagels
+0001	1	Fondue
+0002	2	Middle Eastern	Persian
+0003	3	Bakery	Café	Bagels
+0004	2	Pizza	Italian
+0005	1	Diner
+0006	1	Colombian
+0007	2	American	Bar
+0008	1	Contemporary
+0009	1	Mexican
+0010	3	Caribbean	Latin American	Seafood
+0011	1	Ethiopian
+0012	1	American
+0013	1	Mediterranean
+0014	3	Diner	Breakfast	Pancakes
+0015	2	American	Bar
+0016	2	Tex-Mex	Taqueria
+0017	2	Mexican	California
+0018	3	Mexican	Taqueria	California
+0019	1	Thai
+0020	1	Indian
+0021	2	Pizza	American
+0022	1	Japanese
+0023	1	Pizza
+0024	2	Italian	Pizza
+0025	1	Italian
+0026	2	French	Bistro
+0027	2	American	Bar
+0028	2	Bagels	Sandwiches
+0029	2	Sushi	Japanese
+0030	2	Pizza	American
+0031	1	Contemporary
+0032	3	Cape Verdean	Portuguese	African
+0033	1	Contemporary
+0034	1	Seafood
+0035	3	Burgers	Healthy	Organic
+0036	2	Burgers	American
+0037	2	Irish	Pub
+0038	1	Indian
+0039	3	French	California	Breakfast
+0040	3	Vegetarian	California	Healthy
+0041	3	American	Mediterranean	Contemporary
+0042	3	Mexican	Latin American	Taqueria
+0043	3	Spanish	Tapas	Small Plates
+0044	1	Philly Steak Sandwiches
+0045	3	Caribbean	Latin American	Seafood
+0046	3	Tapas	Eclectic	Small Plates
+0047	2	Irish	American
+0048	1	Pizza
+0049	2	Deli	Breakfast
+0050	3	Contemporary	American	Breakfast
+0051	1	Persian
+0052	2	French	Provençal
+0053	2	European	Contemporary
+0054	2	Italian	Pizza
+0055	3	American	Ice Cream	Breakfast
+0056	1	Steakhouse
+0057	1	Steakhouse
+0058	1	Barbecue
+0059	2	Pizza	American
+0060	3	Spanish	Tapas	Small Plates
+0061	1	American
+0062	1	Contemporary
+0063	1	Italian
+0064	1	European
+0065	1	Italian
+0066	2	French	Contemporary
+0067	1	Contemporary
+0068	2	Seafood	Contemporary
+0069	1	American
+0070	1	Southwestern
+0071	1	Contemporary
+0072	3	California	Contemporary	Breakfast
+0073	2	Steakhouse	Seafood
+0074	2	American	Continental
+0075	2	Breakfast	Pancakes
+0076	1	Thai
+0077	2	Deli	Breakfast
+0078	1	Seafood
+0079	2	Contemporary	Seafood
+0080	1	Seafood
+0081	1	Continental
+0082	1	Burgers
+0083	1	Italian
+0084	3	Steakhouse	Seafood	Contemporary
+0085	1	American
+0086	2	Contemporary	Eclectic
+0087	1	Italian
+0088	2	Pizza	Italian
+0089	1	Ethiopian
+0090	2	Japanese	Sushi
+0091	2	Italian	Pizza
+0092	3	American	Gourmet Bar Food	Bar
+0093	1	Steakhouse
+0094	2	Seafood	American
+0095	2	Seafood	Steakhouse
+0096	2	Italian	Seafood
+0097	1	Italian
+0098	1	American
+0099	3	Chinese	Vietnamese	Sushi
+0100	1	Vietnamese
+0101	3	Brewpub	Steakhouse	Seafood
+0102	1	Middle Eastern
+0103	1	Italian
+0104	2	Italian	Steakhouse
+0105	2	British	American
+0106	1	Vegetarian
+0107	1	Pan-Asian
+0108	2	Barbecue	Southern
+0109	1	Chinese
+0110	1	Thai
+0111	1	Italian
+0112	1	Italian
+0113	2	Breakfast	Pancakes
+0114	2	Japanese	Sushi
+0115	2	Korean	Japanese
+0116	1	Greek
+0117	1	Asian
+0118	1	Italian
+0119	1	American
+0120	1	Fusion
+0121	2	American	Continental
+0122	1	Bagels
+0123	1	Coffeehouse
+0124	1	Contemporary
+0125	1	Italian
+0126	1	Pizza
+0127	3	French	California	Bistro
+0128	1	British
+0129	2	American	California
+0130	1	American
+0131	2	Thai	Sushi
+0132	1	Italian
+0133	1	Pan-Asian
+0134	1	Bagels
+0135	1	Italian
+0136	1	American
+0137	1	Italian
+0138	1	Italian
+0139	2	French	Contemporary
+0140	1	Mexican
+0141	3	Deli	Sandwiches	American
+0142	1	Pizza
+0143	1	American
+0144	1	English
+0145	2	Seafood	Steakhouse
+0146	2	American	Deli
+0147	1	American
+0148	1	American
+0149	1	Barbecue
+0150	2	Coffee Shop	Breakfast
+0151	1	Coffeehouse
+0152	1	American
+0153	1	Bagels
+0154	1	Italian
+0155	1	Coffeehouse
+0156	1	Coffeehouse
+0157	1	Italian
+0158	1	Bagels
+0159	1	American
+0160	1	Barbecue
+0161	1	Southern
+0162	2	Pizza	Italian
+0163	1	Italian
+0164	2	American	Grill
+0165	2	Bakery	Café
+0166	2	New American	Steakhouse
+0167	2	Bakery	Café
+0168	2	Contemporary	American
+0169	2	French	Bistro
+0170	3	Bakery	Breakfast	Coffeehouse
+0171	1	American
+0172	1	Seafood
+0173	2	Pizza	Italian
+0174	1	Italian
+0175	1	Contemporary
+0176	1	American
+0177	2	Pizza	Deli
+0178	2	Brazilian	Steakhouse
+0179	2	Pizza	Sandwiches
+0180	1	Barbecue
+0181	2	Pizza	Italian
+0182	1	Modern American
+0183	1	Italian
+0184	1	Contemporary
+0185	2	Pizza	Italian
+0186	1	American Regional
+0187	3	Greek	Italian	Pizza
+0188	2	Mexican	Tex-Mex
+0189	1	Vietnamese
+0190	2	Creole	Cajun
+0191	2	American	Burgers
+0192	2	Italian	Pizza
+0193	3	Tea Room	Sandwiches	Bakery
+0194	3	Contemporary	American	Small Plates
+0195	3	Desserts	New American	Small Plates
+0196	1	Eastern European
+0197	2	Pizza	Sandwiches
+0198	1	Burgers
+0199	2	Bakery	Café
+0200	1	Mexican
+0201	1	Chinese
+0202	1	American
+0203	1	American
+0204	1	Italian
+0205	1	Steakhouse
+0206	1	Italian
+0207	1	Steakhouse
+0208	2	American	Gourmet Bar Food
+0209	3	Sushi	Pan-Asian	Gourmet Bar Food
+0210	1	Seafood
+0211	1	Contemporary
+0212	1	American
+0213	1	Contemporary
+0214	1	Seafood
+0215	1	Italian
+0216	3	International	Seafood	Steakhouse
+0217	1	Seafood
+0218	1	Italian
+0219	3	Coffee Shop	Breakfast	Pancakes
+0220	2	Contemporary	California
+0221	2	New American	Seafood
+0222	2	Deli	German
+0223	3	Pizza	Italian	American
+0224	1	Seafood
+0225	1	Steakhouse
+0226	1	California
+0227	1	Bakery
+0228	3	French	Bistro	Deli
+0229	1	Contemporary
+0230	1	Seafood
+0231	1	Modern American
+0232	2	American	Continental
+0233	1	Italian
+0234	1	South American
+0235	1	Italian
+0236	2	American	Contemporary
+0237	3	Bakery	American	Breakfast
+0238	2	American	Seafood
+0239	2	American	Contemporary
+0240	1	Italian
+0241	1	Chinese
+0242	1	French
+0243	1	Seafood
+0244	1	Seafood
+0245	2	American	Bar
+0246	1	Italian
+0247	1	Seafood
+0248	2	New American	Small Plates
+0249	3	Seafood	Italian	Contemporary
+0250	1	Contemporary
+0251	1	Italian
+0252	2	American	Seafood
+0253	3	Seafood	New American	Pub
+0254	2	Pizza	Italian
+0255	3	New American	International	Sushi
+0256	3	French	Contemporary	American
+0257	2	American	Grill
+0258	2	Italian	Mediterranean
+0259	2	Mediterranean	Seafood
+0260	2	New American	Small Plates
+0261	1	Modern American
+0262	1	Modern American
+0263	2	American	Grill
+0264	1	Barbecue
+0265	1	American
+0266	2	Modern American	Nuevo Latino
+0267	1	Chinese
+0268	1	Seafood
+0269	2	Mediterranean	Contemporary
+0270	1	Italian
+0271	1	American
+0272	2	New Mexican	Breakfast
+0273	3	American	Bakery	Coffeehouse
+0274	1	Indian
+0275	1	Indian
+0276	3	Mexican	American	Breakfast
+0277	2	Coffee Shop	Café
+0278	3	Spanish	Tapas	Small Plates
+0279	1	Contemporary
+0280	3	Café	Sandwiches	Breakfast
+0281	1	Southwestern
+0282	3	Mexican	American	Burgers
+0283	2	Contemporary	Breakfast
+0284	1	Brewpub
+0285	2	American	Fusion
+0286	2	Japanese	Sushi
+0287	1	Thai
+0288	2	Burgers	American
+0289	2	French	Café
+0290	1	French
+0291	1	French
+0292	3	Contemporary	Tapas	Small Plates
+0293	1	Seafood
+0294	2	French	Contemporary
+0295	1	Barbecue
+0296	1	Italian
+0297	2	Seafood	Italian
+0298	3	Bakery	Café	Irish
+0299	3	African	Senegalese	Eclectic
+0300	1	Mexican
+0301	1	Café
+0302	1	Barbecue
+0303	1	Mexican
+0304	1	Indian
+0305	1	Continental
+0306	2	Continental	Contemporary
+0307	1	American
+0308	1	Italian
+0309	2	Chicken	Guatemalan
+0310	2	American	Italian
+0311	1	American
+0312	2	Contemporary	Eclectic
+0313	1	Seafood
+0314	1	American
+0315	3	French	English	Gastropub
+0316	1	Chinese
+0317	1	Korean
+0318	2	Mediterranean	Greek
+0319	1	Pizza
+0320	1	Chinese
+0321	2	American	Mediterranean
+0322	2	American	Contemporary
+0323	2	Chicken	Guatemalan
+0324	1	American
+0325	2	French	Bistro
+0326	1	Indian
+0327	1	Portuguese
+0328	2	Fusion	Eclectic
+0329	1	Pizza
+0330	1	New American
+0331	1	Seafood
+0332	2	Breakfast	American
+0333	3	Continental	French	Italian
+0334	2	Middle Eastern	Mediterranean
+0335	3	Afghan	Middle Eastern	American
+0336	1	Seafood
+0337	1	Frozen Yogurt
+0338	1	Italian
+0339	3	Italian	Wine Bar	Pizza
+0340	2	Italian	Pizza
+0341	1	Afghan
+0342	2	American	Pub
+0343	1	Southwestern
+0344	2	Chicken	Guatemalan
+0345	1	Seafood
+0346	3	German	Czech	European
+0347	3	Indian	Thai	Asian
+0348	1	Steakhouse
+0349	1	Seafood
+0350	1	French
+0351	2	Seafood	Barbecue
+0352	2	American	French
+0353	1	American
+0354	3	Japanese	Sushi	Small Plates
+0355	3	Italian	Pizza	Pub
+0356	2	American	Bar
+0357	2	American	Contemporary
+0358	1	Caribbean
+0359	2	Italian	American
+0360	1	Continental
+0361	1	Chinese
+0362	2	American	Asian
+0363	1	Japanese
+0364	1	Indian
+0365	1	Cuban
+0366	2	Ice Cream	Desserts
+0367	1	Italian
+0368	1	California
+0369	1	Italian
+0370	1	Barbecue
+0371	2	Steakhouse	American
+0372	1	Brazilian
+0373	1	Barbecue
+0374	1	Steakhouse
+0375	2	Southern	Sandwiches
+0376	3	American	Eclectic	Steakhouse
+0377	1	Seafood
+0378	1	Contemporary
+0379	2	Contemporary	Southern
+0380	2	Tapas	Sandwiches
+0381	1	Italian
+0382	2	French	Bistro
+0383	2	Southwestern	Seafood
+0384	2	Southern	Diner
+0385	2	Deli	Italian
+0386	1	Ice Cream
+0387	3	Contemporary	Southern	Seafood
+0388	1	Cuban
+0389	2	French	Brasserie
+0390	2	Middle Eastern	Lebanese
+0391	2	Mexican	Southwest
+0392	2	Modern American	French
+0393	1	Italian
+0394	3	American	Brasserie	Bar
+0395	1	Deli
+0396	1	Chinese
+0397	1	American
+0398	3	Sushi	Asian	Japanese
+0399	2	American	Irish
+0400	2	French	Contemporary
+0401	2	Ice Cream	Bakery
+0402	2	French	Italian
+0403	2	Seafood	Contemporary
+0404	2	American	Steakhouse
+0405	3	Italian	Bistro	Bar
+0406	2	American	Breakfast
+0407	2	American	Gastropub
+0408	2	Greek	Indian
+0409	1	Eclectic
+0410	2	American	Diner
+0411	2	American	Diner
+0412	1	Mexican
+0413	1	American
+0414	2	Steakhouse	Wine Bar
+0415	2	Steakhouse	Seafood
+0416	2	Burgers	Ribs
+0417	1	Seafood
+0418	3	Wine Bar	Tapas	Small Plates
+0419	1	Steakhouse
+0420	3	Korean	Barbecue	California
+0421	3	Ethiopian	Southern	Soul Food
+0422	2	Sushi	Japanese
+0423	2	Irish	Pub
+0424	1	Steakhouse
+0425	1	American
+0426	1	Eclectic
+0427	2	Steakhouse	Seafood
+0428	1	Italian
+0429	3	Italian	Mediterranean	California
+0430	1	American
+0431	2	French	Bistro
+0432	1	Italian
+0433	2	Italian	Pizza
+0434	2	Indian	Japanese
+0435	2	Steakhouse	Seafood
+0436	3	American	French	Italian
+0437	3	American	Eclectic	Mediterranean
+0438	1	Contemporary
+0439	2	Steakhouse	Seafood
+0440	2	Chinese	Seafood
+0441	1	Indian
+0442	1	Seafood
+0443	1	Wine Bar
+0444	2	Steakhouse	Seafood
+0445	2	Irish	American
+0446	1	California
+0447	1	Pacific Northwest
+0448	1	Italian
+0449	1	Cajun
+0450	2	Middle Eastern	Lebanese
+0451	1	Italian
+0452	2	Southern	Soul Food
+0453	1	Steakhouse
+0454	2	Philly Steak Sandwiches	Hoagies
+0455	1	Tex-Mex
+0456	2	California	Contemporary
+0457	1	Italian
+0458	2	Brewpub	American
+0459	2	Italian	Contemporary
+0460	2	Philly Steak Sandwiches	Hoagies
+0461	2	Seafood	Steakhouse
+0462	2	Steakhouse	American
+0463	2	American	Mediterranean
+0464	1	Contemporary
+0465	1	Italian
+0466	1	California
+0467	3	Contemporary	American	Bistro
+0468	1	Steakhouse
+0469	2	American	Italian
+0470	2	Indian	Vegetarian
+0471	1	Seafood
+0472	2	Philly Steak Sandwiches	Hoagies
+0473	3	Coffee Shop	Breakfast	Pancakes
+0474	1	Contemporary
+0475	1	Italian
+0476	2	Irish	Pub
+0477	1	Seafood
+0478	1	Diner
+0479	2	Japanese	Sushi
+0480	2	Philly Steak Sandwiches	Hoagies
+0481	2	Philly Steak Sandwiches	Hoagies
+0482	2	Mediterranean	Middle Eastern
+0483	2	American	International
+0484	1	Ice Cream
+0485	1	Italian
+0486	1	Contemporary
+0487	1	Contemporary
+0488	3	American	Seafood	Steakhouse
+0489	3	Italian	American	Seafood
+0490	2	American	Bistro
+0491	3	Italian	Mediterranean	Seafood
+0492	1	Italian
+0493	1	American
+0494	2	Philly Steak Sandwiches	Hoagies
+0495	2	Steakhouse	Burgers
+0496	2	Philly Steak Sandwiches	Hoagies
+0497	2	Pizza	Italian
+0498	1	Tex-Mex
+0499	2	Thai	Sushi
+0500	2	French	New American
+0501	1	Italian
+0502	1	Mexican
+0503	1	Seafood
+0504	2	American	Organic
+0505	1	Crêpes
+0506	1	Deli
+0507	3	Seafood	American Regional	Fusion
+0508	3	American	Southern	Contemporary
+0509	1	Northern Italian
+0510	2	Contemporary	Southern
+0511	1	Southern
+0512	1	American Regional
+0513	1	Southern
+0514	3	American	Eclectic	Cuban
+0515	2	Barbecue	American
+0516	2	French	Southern
+0517	1	Southern
+0518	3	Contemporary	American	Southern
+0519	3	Coffeehouse	Latin American	Contemporary
+0520	2	French	Bakery
+0521	1	Fondue
+0522	2	American	Bakery
+0523	1	Barbecue
+0524	1	American
+0525	2	American	Tex-Mex
+0526	2	Cajun	Seafood
+0527	1	Italian
+0528	3	Thai	Pan-Asian	Fusion
+0529	1	Barbecue
+0530	3	Global	Eclectic	Small Plates
+0531	2	Steakhouse	Seafood
+0532	2	Italian	Pizza
+0533	2	Italian	Contemporary
+0534	3	American	Bakery	Breakfast
+0535	1	Barbecue
+0536	1	Modern American
+0537	1	Steakhouse
+0538	1	Southwestern
+0539	2	French	Bakery
+0540	1	Café
+0541	1	American
+0542	2	Italian	Pizza
+0543	1	American
+0544	1	Barbecue
+0545	1	Barbecue
+0546	2	Barbecue	Mexican
+0547	1	Tex-Mex
+0548	2	Bakery	Café
+0549	2	American	Southern
+0550	1	Seafood
+0551	1	Pan-Asian
+0552	2	French	Bistro
+0553	2	Cajun	Seafood
+0554	1	Barbecue
+0555	2	American	Grill
+0556	1	Steakhouse
+0557	2	Mexican	Tex-Mex
+0558	2	Mexican	Tex-Mex
+0559	2	Thai	Chinese
+0560	1	Contemporary
+0561	2	American Regional	Contemporary
+0562	1	Seafood
+0563	3	American	Seafood	Italian
+0564	2	American	Sushi
+0565	3	Coffee Shop	Breakfast	Pancakes
+0566	1	American
+0567	2	Pizza	Italian
+0568	3	Dim Sum	Cantonese	Chinese
+0569	1	California
+0570	3	Polynesian	Asian	Chinese
+0571	1	Brewpub
+0572	1	Steakhouse
+0573	1	Mexican
+0574	1	Italian
+0575	2	American	Steakhouse
+0576	1	Modern American
+0577	1	Italian
+0578	2	Pizza	Italian
+0579	2	American	Bistro
+0580	2	Breakfast	Deli
+0581	2	French	Contemporary
+0582	1	Sandwiches
+0583	1	Barbecue
+0584	2	Seafood	Sushi
+0585	1	French
+0586	1	Sandwiches
+0587	2	Steakhouse	Wine Bar
+0588	3	Contemporary	Tapas	Small Plates
+0589	1	American
+0590	2	Steakhouse	Seafood
+0591	2	Italian	Pizza
+0592	2	Pizza	Italian
+0593	1	Deli
+0594	2	Vietnamese	Noodles
+0595	1	Southwestern
+0596	1	American
+0597	1	Chinese
+0598	1	Burgers
+0599	1	Southwestern
+0600	1	Moroccan
+0601	2	Austrian	Italian
+0602	1	Pizza
+0603	2	Caribbean	Latin American
+0604	2	Caribbean	Cuban
+0605	1	Persian
+0606	1	Barbecue
+0607	1	Thai
+0608	2	Bakery	European
+0609	2	Japanese	Sushi
+0610	1	Contemporary
+0611	1	Indian
+0612	2	Contemporary	American
+0613	1	Seafood
+0614	1	Mexican
+0615	1	Seafood
+0616	1	Southwestern
+0617	1	American
+0618	1	Burgers
+0619	1	Southern
+0620	1	Chinese
+0621	1	Indian
+0622	2	Coffeehouse	American
+0623	3	American	Greek	Italian
+0624	3	German	Italian	Asian
+0625	1	Jamaican
+0626	1	American
+0627	1	Indian
+0628	2	Bakery	Bagels
+0629	1	American
+0630	3	Tapas	Mediterranean	Wine Bar
+0631	1	Steakhouse
+0632	3	Hungarian	German	French
+0633	1	Chinese
+0634	1	Mediterranean
+0635	1	Thai
+0636	1	American
+0637	2	Desserts	Confectionary
+0638	3	American	Continental	Italian
+0639	2	Barbecue	Breakfast
+0640	1	Barbecue
+0641	3	French	Brasserie	Seafood
+0642	1	Chinese
+0643	3	Bakery	Café	Bagels
+0644	1	Burmese
+0645	1	Bakery
+0646	1	Lebanese
+0647	2	Mexican	New Mexican
+0648	1	American
+0649	1	American
+0650	1	Bakery
+0651	3	Deli	Jewish	American
+0652	1	American
+0653	2	American	Burgers
+0654	1	Japanese
+0655	1	Italian
+0656	1	American
+0657	2	Tex-Mex	Taqueria
+0658	2	Contemporary	Wine Bar
+0659	1	Modern American
+0660	2	Contemporary	American
+0661	1	Steakhouse
+0662	1	Steakhouse
+0663	3	Italian	French	American
+0664	1	Italian
+0665	2	Seafood	Steakhouse
+0666	1	Italian
+0667	1	Italian
+0668	1	Chinese
+0669	1	Seafood
+0670	2	Contemporary	Small Plates
+0671	3	Mexican	Southwestern	Tapas
+0672	1	Pizza
+0673	1	American
+0674	1	Seafood
+0675	1	Seafood
+0676	2	American	Breakfast
+0677	3	Mediterranean	Small Plates	Tapas
+0678	3	Tibetan	Indian	Nepalese
+0679	2	Pacific Northwest	Sushi
+0680	1	Thai
+0681	2	Sandwiches	Asian
+0682	3	Ice Cream	Desserts	Café
+0683	1	Seafood
+0684	1	Mexican
+0685	2	American	Steakhouse
+0686	2	American Regional	Contemporary
+0687	2	Mexican	Burritos
+0688	2	Steakhouse	Wine Bar
+0689	1	American
+0690	2	American	Wine Bar
+0691	1	Mediterranean
+0692	1	Contemporary
+0693	3	Pub	German	Brewpub
+0694	2	Chinese	Szechuan
+0695	1	Buffet
+0696	3	California	Global	Wine Bar
+0697	1	Continental
+0698	2	Steakhouse	Seafood
+0699	1	French
+0700	2	Japanese	Sushi
+0701	3	Cajun	Creole	Seafood
+0702	3	Southern	Creole	Caribbean
+0703	1	American Regional
+0704	2	French	Contemporary
+0705	3	Greek	Italian	Pizza
+0706	2	French	Mediterranean
+0707	1	Mexican
+0708	2	Seafood	Steakhouse
+0709	3	Cuban	Spanish	Latin American
+0710	3	Contemporary	Small Plates	Tapas
+0711	2	Italian	Modern American
+0712	2	Southwestern	American
+0713	2	American	Southwestern
+0714	3	Hawaii Regional	Fusion	Sushi
+0715	1	Steakhouse
+0716	3	Coffee Shop	Ice Cream	American
+0717	2	Tapas	Small Plates
+0718	2	Israeli	Middle Eastern
+0719	3	Tea Room	Chinese	Asian
+0720	1	Eclectic
+0721	2	California	Steakhouse
+0722	1	Coffeehouse
+0723	1	Coffeehouse
+0724	1	Sushi
+0725	1	Mexican
+0726	2	French	Eclectic
+0727	3	Continental	French	German
+0728	1	Italian
+0729	2	Mediterranean	Seafood
+0730	3	Contemporary	Modern American	California
+0731	2	Diner	American
+0732	3	Vegetarian	Healthy	Raw Food
+0733	1	Italian
+0734	1	American
+0735	3	Sushi	Japanese	Small Plates
+0736	3	Healthy	Vegetarian	Breakfast
+0737	2	Café	Healthy
+0738	3	Café	Sandwiches	Breakfast
+0739	1	Mexican
+0740	3	Italian	Pizza	Sandwiches
+0741	1	Middle Eastern
+0742	2	Sushi	Japanese
+0743	1	Cuban
+0744	3	Wine Bar	Sandwiches	Sausages
+0745	2	Deli	Italian
+0746	2	Mexican	Bar
+0747	2	French	Café
+0748	1	Mexican
+0749	1	American
+0750	2	Korean	Barbecue
+0751	2	Japanese	Sushi
+0752	3	Italian	Pizza	Small Plates
+0753	3	Sushi	Japanese	Small Plates
+0754	3	Mexican	Southwestern	Latin American
+0755	1	Japanese
+0756	1	Italian
+0757	2	Healthy	Organic
+0758	2	French	Desserts
+0759	3	Global	Contemporary	California
+0760	2	California	Mediterranean
+0761	1	California
+0762	2	Italian	Pizza
+0763	1	Italian
+0764	1	Contemporary
+0765	2	Asian	Fusion
+0766	3	American	Eclectic	Bar
+0767	2	Mediterranean	Eclectic
+0768	1	Mexican
+0769	3	Global	Small Plates	Bar
+0770	2	Ice Cream	Frozen Yogurt
+0771	3	French	Contemporary	Bistro
+0772	1	American
+0773	2	Japanese	Sushi
+0774	2	Korean	Barbecue
+0775	1	California
+0776	2	Barbecue	Brewpub
+0777	1	Italian
+0778	2	Mexican	Breakfast
+0779	2	Japanese	Sushi
+0780	2	Vietnamese	Southeast Asian
+0781	3	Noodles	Asian	California
+0782	2	Vegetarian	California
+0783	2	American	Breakfast
+0784	1	Deli
+0785	1	Italian
+0786	1	Frozen Yogurt
+0787	2	Mexican	Breakfast
+0788	1	Contemporary
+0789	2	Korean	Barbecue
+0790	3	Mediterranean	American	California
+0791	3	Mexican	Bakery	Taqueria
+0792	2	American	Eclectic
+0793	3	Bistro	Fusion	California
+0794	1	Diner
+0795	1	Brazilian
+0796	2	Thai	Asian
+0797	1	Italian
+0798	3	California	French	Bistro
+0799	2	Coffee Shop	Breakfast
+0800	3	Fusion	New American	Asian
+0801	2	Italian	California
+0802	3	Seafood	New American	California
+0803	3	Eclectic	Tapas	Small Plates
+0804	1	American
+0805	1	Fusion
+0806	2	Fusion	Eclectic
+0807	1	Bakery
+0808	1	Mexican
+0809	1	German
+0810	2	Contemporary	Bistro
+0811	1	Seafood
+0812	1	Burgers
+0813	1	American
+0814	2	Diner	Italian
+0815	1	American
+0816	1	Italian
+0817	1	Italian
+0818	1	Italian
+0819	1	Mexican
+0820	3	Italian	American	Breakfast
+0821	3	Asian	Vegetarian	Organic
+0822	2	Café	Breakfast
+0823	3	Asian	Fusion	Small Plates
+0824	2	Italian	International
+0825	3	California	Steakhouse	Tapas
+0826	2	California	French
+0827	1	Chinese
+0828	2	Café	Bakery
+0829	1	Coffeehouse
+0830	3	Bistro	American	California
+0831	2	Italian	Small Plates
+0832	1	Contemporary
+0833	1	Italian
+0834	2	American	Healthy
+0835	1	American
+0836	1	Steakhouse
+0837	1	Brewpub
+0838	2	Brazilian	Seafood
+0839	1	Mexican
+0840	1	Mexican
+0841	2	Steakhouse	Mexican
+0842	1	Steakhouse
+0843	1	Pan-Asian
+0844	1	Italian
+0845	1	Italian
+0846	1	French
+0847	1	Steakhouse
+0848	1	Italian
+0849	2	Contemporary	Coffee Shop
+0850	2	Deli	Sandwiches
+0851	1	American
+0852	2	Cajun	Soul Food
+0853	2	Afghan	Middle Eastern
+0854	2	Coffee Shop	Pancakes
+0855	2	Pizza	Italian
+0856	2	Brazilian	Steakhouse
+0857	2	New World	Caribbean
+0858	2	French	Contemporary
+0859	1	Cuban
+0860	1	Tex-Mex
+0861	1	Contemporary
+0862	2	Japanese	Sushi
+0863	1	French
+0864	1	Italian
+0865	1	American
+0866	2	Latin American	Contemporary
+0867	1	Polynesian
+0868	1	American
+0869	1	Italian
+0870	1	American
+0871	1	Hot Dogs
+0872	1	Ice Cream
+0873	1	Cuban
+0874	1	Vietnamese
+0875	1	Burgers
+0876	1	Cuban
+0877	2	Bagels	Deli
+0878	2	Italian	Contemporary
+0879	1	Ice Cream
+0880	2	Hawaii Regional	Fusion
+0881	1	Steakhouse
+0882	1	Steakhouse
+0883	2	Bakery	Sandwiches
+0884	2	Pizza	Italian
+0885	1	Mexican
+0886	1	Steakhouse
+0887	2	Italian	Steakhouse
+0888	1	American
+0889	2	American	Burgers
+0890	1	Indian
+0891	1	Steakhouse
+0892	1	Spanish
+0893	2	Southern	Breakfast
+0894	1	Italian
+0895	1	Italian
+0896	2	Eclectic	Small Plates
+0897	1	Contemporary
+0898	1	American
+0899	1	Chinese
+0900	2	Japanese	Sushi
+0901	2	American	Mediterranean
+0902	2	French	Bistro
+0903	3	French	Mediterranean	Small Plates
+0904	3	Deli	Bakery	Breakfast
+0905	2	Pizza	Italian
+0906	2	Indian	Vegetarian
+0907	1	Mexican
+0908	2	Pan-Asian	Noodles
+0909	1	Thai
+0910	2	Indian	Vegetarian
+0911	1	Sushi
+0912	1	American
+0913	1	Barbecue
+0914	3	Southern	Southwestern	Caribbean
+0915	2	Bakery	Café
+0916	1	Bakery
+0917	1	Mexican
+0918	2	American	Eclectic
+0919	1	Steakhouse
+0920	1	Italian
+0921	1	Caribbean
+0922	1	Mediterranean
+0923	1	Seafood
+0924	1	Italian
+0925	1	Hawaii Regional
+0926	1	American
+0927	1	Italian
+0928	3	American	Eclectic	Sandwiches
+0929	1	Chinese
+0930	2	Steakhouse	Seafood
+0931	2	Southern	Contemporary
+0932	2	Burgers	Bar
+0933	2	American	Grill
+0934	1	American
+0935	1	American
+0936	1	Italian
+0937	1	Steakhouse
+0938	3	Latin American	Contemporary	Small Plates
+0939	1	Burgers
+0940	2	Creole	Sandwiches
+0941	2	Italian	Creole
+0942	2	Italian	Creole
+0943	1	Eclectic
+0944	2	Italian	Creole
+0945	2	Creole	Seafood
+0946	2	Lebanese	Middle Eastern
+0947	2	Italian	Contemporary
+0948	2	Sandwiches	Burgers
+0949	1	American
+0950	1	Coffeehouse
+0951	1	Contemporary
+0952	3	Spanish	Tapas	Small Plates
+0953	1	French
+0954	2	Mediterranean	Bistro
+0955	2	Barbecue	Ribs
+0956	2	Brewpub	American
+0957	2	Café	Indian
+0958	1	Indian
+0959	1	Peruvian
+0960	2	Tex-Mex	South American
+0961	2	Café	American
+0962	2	Italian	Pizza
+0963	2	Wine Bar	Italian
+0964	3	Italian	Small Plates	Tapas
+0965	2	Burritos	Sandwiches
+0966	2	Burritos	Sandwiches
+0967	2	Brasserie	French
+0968	3	French	Latin American	Contemporary
+0969	1	Pizza
+0970	2	Eclectic	Small Plates
+0971	2	Seafood	Barbecue
+0972	1	Contemporary
+0973	2	Italian	American
+0974	2	American	Seafood
+0975	1	Hot Dogs
+0976	1	Mediterranean
+0977	1	Barbecue
+0978	2	American	Soul Food
+0979	2	American	Bar
+0980	1	Pizza
+0981	1	Pizza
+0982	3	American	Gastropub	Small Plates
+0983	1	Seafood
+0984	2	Armenian	Middle Eastern
+0985	1	American
+0986	2	Greek	Armenian
+0987	2	American	Mexican
+0988	1	Bagels
+0989	1	Contemporary
+0990	1	Pizza
+0991	2	Contemporary	American Regional
+0992	2	Coffee Shop	Breakfast
+0993	1	Chinese
+0994	2	American	Sandwiches
+0995	1	Barbecue
+0996	1	Seafood
+0997	1	Italian
+0998	2	Ice Cream	Sandwiches
+0999	2	Mexican	Burrito
+1000	2	California	Italian
+1001	3	Asian	Fusion	Sushi
+1002	1	Seafood
+1003	1	Pizza
+1004	2	American	Italian
+1005	1	Ice Cream
+1006	2	Deli	Sandwiches
+1007	1	Mexican
+1008	1	Italian
+1009	2	Japanese	Steakhouse
+1010	2	Steakhouse	Latin American
+1011	1	Buffet
+1012	1	Steakhouse
+1013	2	Steakhouse	American
+1014	1	Steakhouse
+1015	2	Seafood	Raw Bar
+1016	1	Italian
+1017	1	Deli
+1018	2	Japanese	Sushi
+1019	1	New American
+1020	2	Mexican	New Mexican
+1021	1	New Mexican
+1022	1	Barbecue
+1023	1	New American
+1024	3	New Mexican	Southwestern	Breakfast
+1025	1	Italian
+1026	1	Indian
+1027	2	Asian	Sushi
+1028	2	Mexican	Contemporary
+1029	2	Mexican	Seafood
+1030	3	Contemporary	European	Mexican
+1031	1	Japanese
+1032	1	Italian
+1033	2	American	Barbecue
+1034	1	French
+1035	1	Indian
+1036	2	Middle Eastern	Lebanese
+1037	3	Portuguese	Seafood	Small Plates
+1038	1	Italian
+1039	2	Barbecue	Sandwiches
+1040	1	Modern American
+1041	1	Steakhouse
+1042	2	Ice Cream	Bakery
+1043	2	Eclectic	Bistro
+1044	2	French	Bistro
+1045	2	Seafood	Steakhouse
+1046	3	Vegetarian	Global	Greek
+1047	2	American	Bistro
+1048	2	Irish	Pub
+1049	1	Italian
+1050	1	American
+1051	1	Japanese
+1052	1	Steakhouse
+1053	2	Pub	Irish
+1054	1	Fondue
+1055	2	Steakhouse	Seafood
+1056	2	Steakhouse	American
+1057	2	American	Mediterranean
+1058	1	Barbecue
+1059	2	Cajun	Southern
+1060	2	Scandinavian	Breakfast
+1061	3	Northwest	French	Italian
+1062	1	Italian
+1063	3	Irish	American	Pub
+1064	2	New American	French
+1065	1	Steakhouse
+1066	2	Steakhouse	Seafood
+1067	3	Caribbean	Contemporary	Small Plates
+1068	3	Bistro	French	American
+1069	1	Italian
+1070	1	Seafood
+1071	1	Steakhouse
+1072	1	Seafood
+1073	1	French
+1074	2	Burgers	American
+1075	1	Eclectic
+1076	2	Italian	Pizza
+1077	2	Southern	Vegetarian
+1078	3	Global	Contemporary	Wine Bar
+1079	1	Seafood
+1080	2	Southwestern	Contemporary
+1081	2	Mexican	Polynesian
+1082	1	Contemporary
+1083	2	Japanese	Sushi
+1084	3	Sandwiches	Bakery	Coffee Shop
+1085	1	Greek
+1086	2	Seafood	American
+1087	2	Italian	Pizza
+1088	1	Italian
+1089	1	Barbecue
+1090	2	Korean	Barbecue
+1091	1	Contemporary
+1092	2	British	Pub
+1093	1	American Regional
+1094	1	American
+1095	1	Creole
+1096	1	Mexican
+1097	1	Tex-Mex
+1098	1	Café
+1099	2	Hawaii Regional	Fusion
+1100	2	American	Continental
+1101	3	Tapas	Spanish	Wine Bar
+1102	1	Sandwiches
+1103	1	Brewpub
+1104	2	American	Seafood
+1105	1	Contemporary
+1106	3	Italian	Sandwiches	Philly Steak Sandwiches
+1107	3	Breakfast	Greek	Coffee Shop
+1108	1	Italian
+1109	2	Bakery	Café
+1110	2	American	French
+1111	2	Southern	American
+1112	1	American
+1113	1	Italian
+1114	1	Mexican
+1115	1	Indian
+1116	1	Persian
+1117	2	American	Noodles
+1118	2	American	Italian
+1119	2	Vietnamese	Noodles
+1120	1	Afghan
+1121	1	Chinese
+1122	2	Japanese	Sushi
+1123	2	Chicken	Guatemalan
+1124	3	American	Healthy	Sandwiches
+1125	1	Persian
+1126	1	Indian
+1127	2	Turkish	Mediterranean
+1128	1	Burgers
+1129	1	Seafood
+1130	1	French
+1131	2	Japanese	Sushi
+1132	1	Steakhouse
+1133	2	American	Italian
+1134	1	Contemporary
+1135	3	American	Ice Cream	Breakfast
+1136	2	Contemporary	Fusion
+1137	1	Barbecue
+1138	1	Thai
+1139	2	American	Noodles
+1140	1	Thai
+1141	1	Coffeehouse
+1142	1	Thai
+1143	1	Japanese
+1144	2	Southwestern	Tex-Mex
+1145	3	American	Global	Southwestern
+1146	2	Sushi	Japanese
+1147	2	Seafood	American
+1148	2	French	Provençal
+1149	2	New American	Small Plates
+1150	1	French
+1151	2	Pub	Burgers
+1152	3	Frozen Custard	Burgers	Hot Dogs
+1153	2	Contemporary	Organic
+1154	1	Barbecue
+1155	2	French	Bistro
+1156	1	Diner
+1157	1	Barbecue
+1158	1	Indian
+1159	3	Coffee Shop	Breakfast	Pancakes
+1160	1	Steakhouse
+1161	2	Mexican	Southwestern
+1162	3	Continental	Contemporary	Breakfast
+1163	1	Spanish
+1164	2	California	Contemporary
+1165	2	Seafood	California
+1166	3	Barbecue	American	Bar
+1167	2	Indian	Vegetarian
+1168	1	Italian
+1169	1	Italian
+1170	2	Italian	Café
+1171	3	Southwestern	Contemporary	Mexican
+1172	3	Café	Breakfast	Mediterranean
+1173	2	Italian	Pizza
+1174	1	Thai
+1175	1	Italian
+1176	2	California	Pan-Asian
+1177	1	Steakhouse
+1178	2	Japanese	Sushi
+1179	1	French
+1180	2	Italian	Mediterranean
+1181	3	Italian	Steakhouse	Seafood
+1182	2	Continental	California
+1183	2	American	Pizza
+1184	1	Brewpub
+1185	2	Mexican	Latin American
+1186	3	Japanese	Asian	Sushi
+1187	3	Seafood	California	Bar
+1188	2	Sushi	Japanese
+1189	3	Italian	California	Breakfast
+1190	3	Italian	Pizza	California
+1191	3	Seafood	American	Pub
+1192	2	Mexican	Small Plates
+1193	3	Caribbean	Creole	Jamaican
+1194	1	Burmese
+1195	2	Singaporean	Southeast Asian
+1196	1	Vietnamese
+1197	1	Noodles
+1198	1	Mexican
+1199	1	Chinese
+1200	2	Mediterranean	California
+1201	2	American	Small Plates
+1202	3	Coffee Shop	Breakfast	Pancakes
+1203	2	Italian	European
+1204	3	American	Diner	Burgers
+1205	1	Italian
+1206	2	California	European
+1207	2	American	Contemporary
+1208	1	Hawaii Regional
+1209	1	Seafood
+1210	1	Mediterranean
+1211	2	Hawaiian	Barbecue
+1212	3	Chicken	American	Deli
+1213	2	American Regional	New American
+1214	2	Mexican	Taqueria
+1215	1	Mexican
+1216	2	Café	California
+1217	2	Cajun	Creole
+1218	1	Healthy
+1219	3	Southern	Barbecue	Soul Food
+1220	2	Modern American	Small Plates
+1221	2	American	Burgers
+1222	2	Brewpub	American
+1223	1	Thai
+1224	1	Moroccan
+1225	1	Steakhouse
+1226	2	California	Pizza
+1227	2	California	Contemporary
+1228	1	Asian
+1229	1	Italian
+1230	2	Peruvian	Ice Cream
+1231	1	Argentinean
+1232	2	American	Mediterranean
+1233	2	French	Bakery
+1234	3	Mediterranean	American	Latin American
+1235	3	French	Bakery	Café
+1236	1	French
+1237	1	Cuban
+1238	1	Caribbean
+1239	1	Seafood
+1240	2	Steakhouse	Seafood
+1241	2	Seafood	Steakhouse
+1242	2	Vietnamese	French
+1243	1	International
+1244	2	Kosher	Vegetarian
+1245	2	Coffeehouse	Bakery
+1246	2	Bistro	American
+1247	1	Seafood
+1248	1	Japanese
+1249	1	Mexican
+1250	1	Ice Cream
+1251	1	Hawaii Regional
+1252	1	Hawaii Regional
+1253	3	Pizza	Deli	Bar
+1254	1	American
+1255	1	Coffeehouse
+1256	1	Coffeehouse
+1257	1	Deli
+1258	2	Gourmet Bar Food	Desserts
+1259	2	French	Bistro
+1260	2	French	Bistro
+1261	2	Sushi	Japanese
+1262	3	Sushi	Japanese	Small Plates
+1263	2	American Regional	Mediterranean
+1264	1	Seafood
+1265	1	Chinese
+1266	1	Contemporary
+1267	1	American
+1268	3	Café	Healthy	Breakfast
+1269	3	Contemporary	French	Organic
+1270	1	American Regional
+1271	1	Diner
+1272	3	Contemporary	American	Seafood
+1273	3	Malaysian	Japanese	Indonesian
+1274	2	American	Italian
+1275	2	Café	Bakery
+1276	1	Italian
+1277	1	Irish
+1278	1	Tex-Mex
+1279	2	Moroccan	Middle Eastern
+1280	2	Chicken	Guatemalan
+1281	1	Indian
+1282	1	Thai
+1283	1	Brewpub
+1284	1	American
+1285	1	Indian
+1286	1	Peruvian
+1287	2	Spanish	Tapas
+1288	1	Lebanese
+1289	1	International
+1290	2	Vegetarian	Pan-Asian
+1291	2	Southwestern	Tex-Mex
+1292	2	Diner	Breakfast
+1293	1	Contemporary
+1294	2	Bakery	Café
+1295	2	Korean	Japanese
+1296	1	Chinese
+1297	2	Barbecue	American
+1298	2	American	Southern
+1299	2	Eclectic	Vegetarian
+1300	1	Eclectic
+1301	1	Soup
+1302	2	French	Italian
+1303	3	Steakhouse	American	Small Plates
+1304	1	Contemporary
+1305	2	American	Ice Cream
+1306	3	Contemporary	American	Steakhouse
+1307	2	Eclectic	Global
+1308	2	Creole	Cajun
+1309	1	Italian
+1310	1	Steakhouse
+1311	1	Buffet
+1312	2	Burgers	American
+1313	2	Contemporary	French
+1314	3	American	Tex-Mex	New Mexican
+1315	1	Vietnamese
+1316	2	Italian	Pizza
+1317	2	Southwestern	Contemporary
+1318	2	Japanese	Sushi
+1319	2	French	Bistro
+1320	2	English	Indian
+1321	1	Peruvian
+1322	1	Mediterranean
+1323	2	Pizza	Italian
+1324	3	Mediterranean	Tapas	Small Plates
+1325	1	Italian
+1326	3	Pan-Asian	Sushi	Small Plates
+1327	3	Fusion	Eclectic	Tapas
+1328	1	Italian
+1329	3	Burgers	Chili	Bar
+1330	2	Italian	Pizza
+1331	1	Italian
+1332	1	Vietnamese
+1333	2	Eclectic	American
+1334	3	Coffee Shop	Deli	Breakfast
+1335	2	German	American
+1336	3	American	Mediterranean	Pizza
+1337	2	Italian	Mediterranean
+1338	1	Italian
+1339	1	Greek
+1340	1	Pizza
+1341	2	Greek	Deli
+1342	1	Chinese
+1343	2	Mediterranean	Small Plates
+1344	3	California	Eclectic	Small Plates
+1345	3	American	Burgers	Bar
+1346	1	California
+1347	2	American	Wine Bar
+1348	1	Middle Eastern
+1349	2	Italian	Bistro
+1350	3	Contemporary	American	European
+1351	3	Nuevo Latino	Tapas	Small Plates
+1352	2	Pan-Asian	Contemporary
+1353	3	California	Eclectic	Small Plates
+1354	1	Indian
+1355	2	Burgers	American
+1356	2	Bistro	Mediterranean
+1357	3	Polynesian	Tapas	Small Plates
+1358	3	American	Coffeehouse	Sandwiches
+1359	3	Southern	Seafood	Diner
+1360	2	Italian	Pizza
+1361	3	Japanese	Sushi	Seafood
+1362	1	American
+1363	1	Italian
+1364	2	Tex-Mex	Taqueria
+1365	2	Contemporary	Burgers
+1366	1	Contemporary
+1367	1	Italian
+1368	2	South American	Steakhouse
+1369	2	Contemporary	Continental
+1370	2	Japanese	Sushi
+1371	1	American
+1372	2	Brewpub	Eclectic
+1373	1	Italian
+1374	1	Steakhouse
+1375	1	Barbecue
+1376	1	Tex-Mex
+1377	1	Thai
+1378	2	Chinese	Dim Sum
+1379	2	American	Burgers
+1380	1	Middle Eastern
+1381	1	Lebanese
+1382	2	Pizza	American
+1383	1	Italian
+1384	2	Japanese	Sushi
+1385	1	Vietnamese
+1386	1	Sushi
+1387	2	Diner	American
+1388	1	Contemporary
+1389	2	Bakery	Café
+1390	2	French	Small Plates
+1391	3	Northwest	Steakhouse	Contemporary
+1392	1	Caribbean
+1393	1	Indian
+1394	3	American	Steakhouse	Seafood
+1395	2	Japanese	Sushi
+1396	2	Japanese	Sushi
+1397	3	Ice Cream	Sandwiches	American
+1398	1	Mexican
+1399	2	Southwestern	American
+1400	1	Contemporary
+1401	1	Contemporary
+1402	3	Japanese	Asian	Sushi
+1403	2	Steakhouse	Seafood
+1404	1	Italian
+1405	3	Healthy	Vegetarian	Breakfast
+1406	3	Asian	Mediterranean	Small Plates
+1407	1	Café
+1408	1	Steakhouse
+1409	2	California	Sushi
+1410	1	Café
+1411	2	Persian	Middle Eastern
+1412	1	American
+1413	1	Italian
+1414	3	Sandwiches	Desserts	Café
+1415	3	Italian	Mexican	Sandwiches
+1416	1	Contemporary
+1417	3	Sushi	Japanese	Small Plates
+1418	3	Southeast Asian	Vietnamese	Thai
+1419	1	Seafood
+1420	1	Eclectic
+1421	3	Southwestern	Pizza	Eclectic
+1422	2	American	Bar
+1423	2	Mediterranean	Bar
+1424	2	Jewish	Deli
+1425	1	Mexican
+1426	1	Mexican
+1427	1	English
+1428	2	French	California
+1429	1	Seafood
+1430	2	Sushi	Japanese
+1431	1	Chinese
+1432	1	Mediterranean
+1433	1	Persian
+1434	2	American	California
+1435	2	French	Bistro
+1436	1	Italian
+1437	2	American	Steakhouse
+1438	1	Contemporary
+1439	2	Seafood	Raw Bar
+1440	1	Vietnamese
+1441	1	Brewpub
+1442	1	Mexican
+1443	1	Mexican
+1444	1	Italian
+1445	1	Coffee Shop
+1446	2	Japanese	Sushi
+1447	3	Coffee Shop	American	Breakfast
+1448	3	Japanese	Fusion	Sushi
+1449	1	Seafood
+1450	1	Middle Eastern
+1451	2	Mexican	Southwestern
+1452	3	Breakfast	American	Mexican
+1453	1	Mexican
+1454	1	Mexican
+1455	2	American	Steakhouse
+1456	2	Middle Eastern	Healthy
+1457	3	Chinese	Asian	Fusion
+1458	1	French
+1459	2	American	Diner
+1460	2	Cuban	Chicken
+1461	1	Italian
+1462	1	American
+1463	1	Latin American
+1464	3	Seafood	Steakhouse	Sushi
+1465	3	Breakfast	Sandwiches	Café
+1466	1	Café
+1467	2	Hawaii Regional	Modern American
+1468	1	Hawaii Regional
+1469	2	Juice Bar	Healthy
+1470	1	Japanese
+1471	2	Continental	French
+1472	1	Hot Dogs
+1473	1	Italian
+1474	1	Cuban
+1475	2	French	Bistro
+1476	1	Pizza
+1477	3	Creole	Mediterranean	Italian
+1478	3	Bar	Wine Bar	Small Plates
+1479	1	Italian
+1480	3	Vietnamese	Chinese	Bakery
+1481	1	Creole
+1482	1	Mexican
+1483	2	Italian	Creole
+1484	3	Pizza	American	Italian
+1485	2	Japanese	Sushi
+1486	1	Seafood
+1487	1	American
+1488	2	Chinese	Bakery
+1489	2	Chinese	Noodles
+1490	1	Greek
+1491	2	American	Pancakes
+1492	1	Contemporary
+1493	3	Contemporary	Small Plates	Bar
+1494	2	French	Contemporary
+1495	2	Italian	Pizza
+1496	1	Pizza
+1497	2	Italian	Steakhouse
+1498	1	Mediterranean
+1499	2	Fusion	Contemporary
+1500	1	Tex-Mex
+1501	2	French	Contemporary
+1502	1	Contemporary
+1503	3	Middle Eastern	Bakery	Café
+1504	1	New American
+1505	1	Indian
+1506	1	Barbecue
+1507	3	Bakery	Café	French
+1508	1	Pizza
+1509	2	American	Breakfast
+1510	1	American
+1511	1	Italian
+1512	1	Japanese
+1513	2	Japanese	Sushi
+1514	2	California	Mexican
+1515	3	Seafood	California	Mediterranean
+1516	1	Barbecue
+1517	2	Café	Bakery
+1518	1	Mexican
+1519	1	Italian
+1520	1	Italian
+1521	3	Chinese	Dim Sum	Seafood
+1522	1	Italian
+1523	1	Italian
+1524	2	American	Bistro
+1525	1	African
+1526	1	Italian
+1527	2	Italian	Pizza
+1528	3	Deli	Middle Eastern	American
+1529	1	Vietnamese
+1530	1	American
+1531	2	Italian	Pizza
+1532	1	Italian
+1533	1	Coffeehouse
+1534	1	Philly Steak Sandwiches
+1535	3	Contemporary	Eclectic	Small Plates
+1536	2	Seafood	Mediterranean
+1537	1	Barbecue
+1538	2	American	Southern
+1539	2	Chicken	Guatemalan
+1540	2	Italian	Contemporary
+1541	1	American
+1542	1	Italian
+1543	3	Seafood	Steakhouse	Raw Bar
+1544	2	Cuban	Tex-Mex
+1545	3	Cuban	Mexican	Sandwiches
+1546	3	Tex-Mex	Mexican	Breakfast
+1547	1	Eclectic
+1548	1	Steakhouse
+1549	3	Tex-Mex	Mexican	Breakfast
+1550	2	Thai	Japanese
+1551	2	Sushi	Japanese
+1552	3	Egyptian	Italian	American
+1553	2	Pacific Northwest	Modern American
+1554	2	Ice Cream	Italian
+1555	2	Breakfast	American
+1556	3	Pizza	American	Mediterranean
+1557	1	Thai
+1558	1	Donuts
+1559	1	Italian
+1560	2	Italian	Small Plates
+1561	2	Bakery	Sandwiches
+1562	1	Italian
+1563	2	California	French
+1564	2	Japanese	Sushi
+1565	3	Provençal	Organic	Breakfast
+1566	1	California
+1567	2	Pizza	California
+1568	1	Italian
+1569	1	Italian
+1570	2	Brazilian	Mediterranean
+1571	1	Mexican
+1572	2	Japanese	Sushi
+1573	3	Mediterranean	Tapas	Small Plates
+1574	1	Greek
+1575	1	Breakfast
+1576	2	Pizza	Italian
+1577	2	Bakery	Desserts
+1578	1	American
+1579	2	American	Bistro
+1580	2	California	Contemporary
+1581	1	French
+1582	1	Italian
+1583	2	Japanese	Sushi
+1584	2	Irish	Pub
+1585	2	American	Breakfast
+1586	1	California
+1587	2	Steakhouse	Breakfast
+1588	2	California	Contemporary
+1589	2	American	Contemporary
+1590	1	Chinese
+1591	1	American
+1592	2	Sushi	Japanese
+1593	2	American	Asian
+1594	1	Italian
+1595	2	Southern	Eclectic
+1596	2	American	Bar Food
+1597	1	Italian
+1598	3	Tapas	Spanish	Mediterranean
+1599	2	Seafood	Raw Bar
+1600	2	Pizza	Italian
+1601	1	Ice Cream
+1602	3	Café	Sandwiches	Wine Bar
+1603	1	Ice Cream
+1604	1	Contemporary
+1605	2	Contemporary	Eclectic
+1606	2	Burgers	Bar
+1607	2	Mediterranean	Contemporary
+1608	2	Contemporary	American
+1609	2	French	California
+1610	1	American
+1611	2	American	Sandwiches
+1612	2	Irish	Pub
+1613	1	Vietnamese
+1614	1	Italian
+1615	1	Sushi
+1616	1	Ice Cream
+1617	2	Bakery	Coffee Shop
+1618	1	Chinese
+1619	2	Hawaii Regional	Seafood
+1620	1	Steakhouse
+1621	3	Creole	Seafood	Bar
+1622	1	Creole
+1623	1	Sandwiches
+1624	1	Contemporary
+1625	1	Israeli
+1626	1	Latin American
+1627	2	Indian	Fusion
+1628	1	Pan-Asian
+1629	3	Brasserie	Contemporary	Small Plates
+1630	2	Italian	Pizza
+1631	2	Bagels	Sandwiches
+1632	3	American	Continental	Small Plates
+1633	1	Ice Cream
+1634	1	Contemporary
+1635	3	Modern American	Wine Bar	Bistro
+1636	1	Chinese
+1637	2	Italian	American
+1638	1	American Regional
+1639	2	American	French
+1640	1	New American
+1641	1	American
+1642	2	Japanese	Brewpub
+1643	3	Fusion	Sushi	Seafood
+1644	1	Contemporary
+1645	1	Italian
+1646	1	Italian
+1647	1	Italian
+1648	1	Italian
+1649	1	Deli
+1650	1	American
+1651	2	American	Eclectic
+1652	2	American	Eclectic
+1653	1	American
+1654	2	Mexican	Taqueria
+1655	1	American
+1656	2	Eastern European	Polish
+1657	2	Italian	Spanish
+1658	2	African	Caribbean
+1659	1	Mexican
+1660	1	Pizza
+1661	2	French	Japanese
+1662	1	Café
+1663	1	Café
+1664	1	Café
+1665	1	Café
+1666	1	Café
+1667	1	Coffeehouse
+1668	2	Italian	Contemporary
+1669	1	American
+1670	1	Ethiopian
+1671	2	Diner	Breakfast
+1672	2	Deli	Jewish
+1673	1	Thai
+1674	3	Steakhouse	Seafood	American
+1675	1	Deli
+1676	1	American
+1677	2	Steakhouse	Brazilian
+1678	3	Deli	Vegetarian	Sandwiches
+1679	2	Japanese	Sushi
+1680	1	Italian
+1681	2	American	Southern
+1682	1	Burgers
+1683	3	Latin American	Mexican	Tex-Mex
+1684	3	Seafood	Steakhouse	Sushi
+1685	1	Mexican
+1686	1	Diner
+1687	2	Mexican	South American
+1688	1	Fusion
+1689	1	Diner
+1690	1	Italian
+1691	1	Seafood
+1692	2	Contemporary	Southwestern
+1693	2	Italian	Contemporary
+1694	2	Mexican	Tex-Mex
+1695	2	American	Eclectic
+1696	1	Tex-Mex
+1697	1	Barbecue
+1698	1	Thai
+1699	1	Diner
+1700	2	Tex-Mex	Taqueria
+1701	1	Thai
+1702	1	Thai
+1703	1	Thai
+1704	1	Burgers
+1705	3	Italian	Tapas	Small Plates
+1706	3	Pan-Asian	Sushi	Small Plates
+1707	1	Mexican
+1708	2	Pub	Irish
+1709	2	Pub	Irish
+1710	3	Pan-Asian	Tapas	Japanese
+1711	3	Mediterranean	French	American
+1712	1	Moroccan
+1713	2	Chinese	Healthy
+1714	1	Caribbean
+1715	1	Chinese
+1716	1	Sandwiches
+1717	3	American	Small Plates	Desserts
+1718	1	Brazilian
+1719	2	American	Contemporary
+1720	1	Contemporary
+1721	1	Chicken
+1722	1	Steakhouse
+1723	2	Japanese	Noodles
+1724	1	Burgers
+1725	1	Sandwiches
+1726	1	Sandwiches
+1727	1	Sandwiches
+1728	1	Sandwiches
+1729	3	Burgers	Hot Dogs	American
+1730	3	Southern	Soul Food	American
+1731	3	Cajun	Creole	Southern
+1732	1	Continental
+1733	3	Dim Sum	Seafood	Chinese
+1734	3	Eclectic	Pan-Asian	Small Plates
+1735	2	Café	American
+1736	1	Fusion
+1737	1	American
+1738	3	Japanese	Robata	Tapas
+1739	1	Diner
+1740	2	California	European
+1741	1	Ice Cream
+1742	2	Italian	Mediterranean
+1743	2	Brewpub	American
+1744	1	American
+1745	1	Contemporary
+1746	2	Cuban	Nuevo Latino
+1747	2	Seafood	Steakhouse
+1748	1	American
+1749	1	Barbecue
+1750	2	Italian	Steakhouse
+1751	1	Pizza
+1752	1	Pizza
+1753	1	Barbecue
+1754	1	Steakhouse
+1755	3	Breakfast	Vegetarian	American
+1756	2	Hawaii Regional	Asian
+1757	1	Hawaii Regional
+1758	2	Italian	Contemporary
+1759	1	Contemporary
+1760	1	Italian
+1761	2	Japanese	Sushi
+1762	1	Bar
+1763	2	French	Mediterranean
+1764	3	Organic	Pizza	Healthy
+1765	2	American	Contemporary
+1766	1	Tunisian
+1767	3	American	Creole	Breakfast
+1768	2	French	Contemporary
+1769	1	Tea Room
+1770	2	Lebanese	Middle Eastern
+1771	1	Steakhouse
+1772	1	Steakhouse
+1773	2	Seafood	Contemporary
+1774	2	Contemporary	Eclectic
+1775	1	American
+1776	1	Modern American
+1777	2	Pan-Asian	Thai
+1778	1	Vietnamese
+1779	1	Thai
+1780	1	Italian
+1781	2	Mexican	Salvadoran
+1782	1	American
+1783	1	Italian
+1784	2	American	Bar
+1785	1	American
+1786	1	Italian
+1787	2	New American	Small Plates
+1788	1	Italian
+1789	3	Crêpes	Sandwiches	Breakfast
+1790	1	American
+1791	2	Bakery	Café
+1792	3	Thai	Asian	Vegetarian
+1793	3	Buffet	International	Breakfast
+1794	2	American	Bar
+1795	3	Chinese	Dim Sum	Seafood
+1796	1	Frozen Yogurt
+1797	1	Italian
+1798	2	Thai	Japanese
+1799	2	American	Contemporary
+1800	1	Ice Cream
+1801	1	Ethiopian
+1802	1	Steakhouse
+1803	1	French
+1804	2	Crêpes	French
+1805	1	Thai
+1806	2	American	Bar
+1807	2	Mediterranean	Contemporary
+1808	2	Café	Breakfast
+1809	1	Philly Steak Sandwiches
+1810	1	American
+1811	2	Chinese	Dim Sum
+1812	1	Vegan
+1813	1	Seafood
+1814	2	French	Bakery
+1815	2	French	Bakery
+1816	1	American
+1817	1	French
+1818	2	Italian	Small Plates
+1819	3	Asian	Contemporary	Dim Sum
+1820	1	Café
+1821	2	Mexican	Tex-Mex
+1822	2	Seafood	Sushi
+1823	2	Indian	Vegetarian
+1824	1	Persian
+1825	1	Contemporary
+1826	2	American	Pacific Rim
+1827	2	Thai	Chinese
+1828	3	Café	Ice Cream	Sandwiches
+1829	2	French	Northwest
+1830	3	Spanish	Tapas	Small Plates
+1831	1	Vietnamese
+1832	2	Japanese	Sushi
+1833	1	American
+1834	1	Latin American
+1835	1	Coffeehouse
+1836	1	Coffeehouse
+1837	3	Armenian	Mediterranean	Chicken
+1838	2	Japanese	Sushi
+1839	1	Thai
+1840	3	Spanish	Tapas	Small Plates
+1841	1	Eclectic
+1842	1	Lounge
+1843	2	French	California
+1844	1	Pizza
+1845	1	Mexican
+1846	2	Pizza	Italian
+1847	1	Frozen Yogurt
+1848	2	French	California
+1849	1	Italian
+1850	3	Café	Coffee Shop	Breakfast
+1851	2	California	Asian
+1852	1	Bakery
+1853	1	Italian
+1854	2	American	Seafood
+1855	2	English	Pub
+1856	3	Contemporary	New American	California
+1857	2	Sushi	Japanese
+1858	1	New American
+1859	2	Mexican	Taqueria
+1860	1	Mexican
+1861	3	Eclectic	New American	Global
+1862	1	Continental
+1863	1	Barbecue
+1864	2	Indian	Vegetarian
+1865	1	Contemporary
+1866	3	French	Steakhouse	Brasserie
+1867	3	American	Sandwiches	Creole
+1868	2	American	Steakhouse
+1869	1	Southwestern
+1870	2	Steakhouse	Modern American
+1871	1	Ethiopian
+1872	1	Argentinean
+1873	2	Pizza	Italian
+1874	3	Creole	Contemporary	Brasserie
+1875	1	Contemporary
+1876	2	Creole	Contemporary
+1877	3	Thai	Contemporary	Pan-Asian
+1878	1	Thai
+1879	1	Thai
+1880	2	Bakery	Italian
+1881	2	Tex-Mex	Southwestern
+1882	3	Bakery	Sandwiches	Latin American
+1883	1	Thai
+1884	2	American	Café
+1885	2	American	Bakery
+1886	3	American	Pizza	Brewpub
+1887	1	Burgers
+1888	1	Burgers
+1889	1	Ice Cream
+1890	3	American	Italian	Contemporary
+1891	1	Italian
+1892	2	Breakfast	American
+1893	1	Steakhouse
+1894	1	Russian
+1895	3	Gastropub	Gourmet Bar Food	Bar
+1896	1	Italian
+1897	2	Eclectic	American
+1898	1	Pizza
+1899	1	Italian
+1900	1	Indonesian
+1901	1	Indian
+1902	1	Indian
+1903	2	Vietnamese	Sandwiches
+1904	2	Eclectic	Wine Bar
+1905	2	Northwest	Latin American
+1906	2	American	Breakfast
+1907	2	Wine Bar	Pacific Northwest
+1908	2	Healthy	Eclectic
+1909	1	American
+1910	1	Philly Steak Sandwiches
+1911	1	Afghan
+1912	1	Indian
+1913	1	Chinese
+1914	1	Contemporary
+1915	1	Tex-Mex
+1916	1	Mexican
+1917	1	Italian
+1918	1	Latin American
+1919	1	Italian
+1920	2	Tex-Mex	Breakfast
+1921	1	Contemporary
+1922	3	Confectionery	Coffee	Ice Cream
+1923	2	Sandwiches	Café
+1924	1	Seafood
+1925	2	Pacific Northwest	Seafood
+1926	2	Southern	Soul Food
+1927	1	Japanese
+1928	2	Italian	Pizza
+1929	1	Italian
+1930	1	Italian
+1931	3	Sandwiches	Coffeehouse	Crêpes
+1932	2	Sushi	Japanese
+1933	2	Japanese	Sushi
+1934	1	Eclectic
+1935	2	Southern	Creole
+1936	3	Latin American	Asian	Healthy
+1937	1	Steakhouse
+1938	1	Chinese
+1939	3	Nuevo Latino	Pacific Rim	Fusion
+1940	1	Pan-Asian
+1941	2	Steakhouse	California
+1942	3	Wine Bar	Tapas	Small Plates
+1943	2	Chinese	Dim Sum
+1944	1	Southern
+1945	1	American
+1946	2	Seafood	Sandwiches
+1947	1	Thai
+1948	1	Cuban
+1949	2	Contemporary	Asian
+1950	2	Wine Bar	Cheese
+1951	1	French
+1952	3	Creole	Deli	Breakfast
+1953	2	Cajun	Creole
+1954	2	Creole	Contemporary
+1955	3	Bakery	Breakfast	Café
+1956	2	Creole	Asian
+1957	2	Chinese	Seafood
+1958	1	Italian
+1959	1	Italian
+1960	2	International	Eclectic
+1961	2	Pizza	Italian
+1962	2	Steakhouse	Seafood
+1963	1	Cuban
+1964	1	Italian
+1965	2	Buffet	French
+1966	2	Deli	Sandwiches
+1967	2	American	Small Plates
+1968	3	French	Bistro	Wine Bar
+1969	2	Japanese	Sushi
+1970	3	American	Asian	Lounge
+1971	2	French	Moroccan
+1972	2	Italian	Small Plates
+1973	3	Mediterranean	Greek	Turkish
+1974	1	Italian
+1975	2	American	Desserts
+1976	1	Diner
+1977	2	American	Bistro
+1978	1	Asian
+1979	1	Indian
+1980	2	Crêpes	French
+1981	3	Japanese	Sushi	French
+1982	2	Philly Steak Sandwiches	Hoagies
+1983	2	American	Southern
+1984	2	Cajun	Seafood
+1985	2	Italian	Pizza
+1986	1	California
+1987	3	Italian	French	Contemporary
+1988	2	California	Breakfast
+1989	2	Contemporary	Breakfast
+1990	3	Japanese	Chinese	Sushi
+1991	3	French	Bakery	Café
+1992	3	French	Bakery	Café
+1993	1	Chinese
+1994	1	Burgers
+1995	1	Italian
+1996	2	Indian	Vegetarian
+1997	1	Italian
+1998	1	Vietnamese
+1999	1	Greek

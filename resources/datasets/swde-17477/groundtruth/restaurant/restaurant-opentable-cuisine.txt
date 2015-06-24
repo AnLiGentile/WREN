@@ -1,0 +1,2002 @@
+﻿restaurant	opentable	cuisine
+2000	2000	2000	630
+0000	1	: Contemporary Mexican, Mexican / Southwestern
+0001	1	: Seafood, Californian
+0002	1	: Southern, American
+0003	1	: Steak, Steakhouse
+0004	1	: Steakhouse, Californian
+0005	1	: Mexican, Contemporary Mexican, Latin American
+0006	1	: French
+0007	1	: Steakhouse, Seafood
+0008	1	: Steakhouse
+0009	1	: Contemporary American
+0010	1	: French
+0011	1	: Italian
+0012	1	: Steakhouse
+0013	1	: Contemporary French, French
+0014	1	: Italian
+0015	1	: Mexican, Southwest
+0016	1	: Steakhouse, Seafood
+0017	1	: Steak, Seafood
+0018	1	: Cuban, Fusion / Eclectic, Latin / Spanish
+0019	1	: Italian, Seafood
+0020	1	: Contemporary American, Comfort Food
+0021	1	: Italian
+0022	1	: Asian, Sushi, Chinese
+0023	1	: Barbecue, American
+0024	1	: Seafood, Steakhouse
+0025	1	: Indian, Vegetarian
+0026	1	: Steak, Seafood, American
+0027	1	: Asian, American
+0028	1	: Mexican, Latin / Spanish
+0029	1	: Steakhouse, Seafood, American
+0030	1	: French, Steak, Seafood
+0031	1	: Asian
+0032	1	: American
+0033	1	: Continental
+0034	1	: Seafood, Asian, Contemporary American
+0035	1	: Brazilian Steakhouse, Caribbean
+0036	1	: Italian
+0037	1	: Sushi, Brazilian
+0038	1	: Steak, Seafood
+0039	1	: Comfort Food, Contemporary American
+0040	1	: Steakhouse, Seafood
+0041	1	: Italian
+0042	1	: Steakhouse, American
+0043	1	: Italian
+0044	1	: Fusion / Eclectic, French
+0045	1	: Seafood, Steak, Mediterranean
+0046	1	: Tapas / Small Plates
+0047	1	: American, Seafood, Steak
+0048	1	: American, Seafood
+0049	1	: American
+0050	1	: Contemporary American, Global, International
+0051	1	: Asian, Sushi
+0052	1	: American, Northwest, European
+0053	1	: Northwest, Italian
+0054	1	: Contemporary American, Northwest
+0055	1	: Contemporary American, French, Northwest
+0056	1	: French
+0057	1	: Northwest, Organic
+0058	1	: Seafood
+0059	1	: Italian
+0060	1	: Northwest
+0061	1	: Seafood, Steak, American
+0062	1	: Seafood, Cajun, Steakhouse
+0063	1	: Northwest, Steak, Seafood
+0064	1	: Northwest, American, European
+0065	1	: American, Comfort Food
+0066	1	: American, Steakhouse, Prime Rib
+0067	1	: Steak, Seafood
+0068	1	: Northwest, Organic
+0069	1	: Italian, Organic
+0070	1	: Thai, Asian
+0071	1	: Thai, Asian
+0072	1	: Italian
+0073	1	: American, French
+0074	1	: Italian, American
+0075	1	: Steakhouse, Seafood
+0076	1	: French
+0077	1	: Global, International, Mexican
+0078	1	: American, International
+0079	1	: Steak, American
+0080	1	: Contemporary American, Sushi
+0081	1	: Steak, Seafood, American
+0082	1	: Italian
+0083	1	: Italian
+0084	1	: Steakhouse, Seafood
+0085	1	: Steakhouse, Seafood
+0086	1	: Seafood, Steak
+0087	1	: American
+0088	1	: American, Steak, Seafood
+0089	1	: American, European, Asian
+0090	1	: Seafood, Steak
+0091	1	: Contemporary American
+0092	1	: Steakhouse
+0093	1	: Steak, Seafood
+0094	1	: Japanese, Sushi, Asian
+0095	1	: Continental, Pan-Asian, Japanese
+0096	1	: Contemporary American
+0097	1	: Contemporary American, Organic
+0098	1	: American, Fusion / Eclectic, Californian
+0099	1	: Italian
+0100	1	: French
+0101	1	: Italian, European
+0102	1	: Italian
+0103	1	: Steakhouse, American, Seafood
+0104	1	: Italian
+0105	1	: Italian, European
+0106	1	: French
+0107	1	: Italian
+0108	1	: Steak, Barbecue
+0109	1	: International, Contemporary American
+0110	1	: American, Contemporary American, Seafood
+0111	1	: Contemporary American, Cajun, Continental
+0112	1	: Mediterranean, Italian
+0113	1	: American, Contemporary American
+0114	1	: Steak, Steakhouse, American
+0115	1	: Contemporary American, Steak
+0116	1	: American, Steak, Seafood
+0117	1	: Seafood, Steak
+0118	1	: Latin American, Asian
+0119	1	: Italian, Tapas / Small Plates
+0120	1	: American, Continental
+0121	1	: Continental, American, Contemporary American
+0122	1	: Seafood, Contemporary American
+0123	1	: Mexican, Southwest, Latin / Spanish
+0124	1	: Italian, Steak
+0125	1	: Italian, Steak, Seafood
+0126	1	: Steakhouse, American
+0127	1	: Gastro Pub, Contemporary American
+0128	1	: Seafood
+0129	1	: Turkish, Mediterranean, Middle Eastern
+0130	1	: Seafood
+0131	1	: Irish, American, Italian
+0132	1	: French, Continental
+0133	1	: American
+0134	1	: Italian, American
+0135	1	: Steak, American
+0136	1	: Italian, Mediterranean
+0137	1	: Steak, Seafood, American
+0138	1	: American, Continental
+0139	1	: American, Seafood, Steak
+0140	1	: International
+0141	1	: Italian, Steak, Seafood
+0142	1	: Global, International
+0143	1	: Sushi, Japanese, Asian
+0144	1	: American
+0145	1	: American, Organic
+0146	1	: Italian
+0147	1	: American, Brewery, Burgers
+0148	1	: Brewery, American, Burgers
+0149	1	: Brewery, American, Burgers
+0150	1	: Contemporary American, Italian, American
+0151	1	: Fusion / Eclectic, Sushi
+0152	1	: Italian, Seafood
+0153	1	: Japanese
+0154	1	: Contemporary American, Contemporary French
+0155	1	: Italian
+0156	1	: Italian
+0157	1	: Continental, Fusion / Eclectic
+0158	1	: Seafood, Steak
+0159	1	: Creole / Cajun / Southern, Italian
+0160	1	: Fondue
+0161	1	: Fondue, Swiss
+0162	1	: Fusion / Eclectic
+0163	1	: Contemporary American, American
+0164	1	: Brazilian Steakhouse
+0165	1	: Asian, French
+0166	1	: Seafood, Steak
+0167	1	: Tapas / Small Plates, Latin / Spanish
+0168	1	: Gastro Pub, American
+0169	1	: Italian
+0170	1	: Barbecue, American, Comfort Food
+0171	1	: Italian, Seafood
+0172	1	: American, International
+0173	1	: Italian
+0174	1	: Caribbean, Cuban
+0175	1	: Steakhouse, Steak, Seafood
+0176	1	: American, Steak
+0177	1	: Contemporary American
+0178	1	: Contemporary American, Contemporary French
+0179	1	: Seafood, Contemporary American
+0180	1	: Sushi, Japanese
+0181	1	: American, Gastro Pub
+0182	1	: American, Steakhouse, Seafood
+0183	1	: Contemporary American
+0184	1	: European, Portuguese
+0185	1	: Italian
+0186	1	: American, Continental
+0187	1	: American, Seafood
+0188	1	: Mexican
+0189	1	: Fusion / Eclectic
+0190	1	: Steakhouse, Seafood, French
+0191	1	: Mexican, Fusion / Eclectic
+0192	1	: Italian, Creole
+0193	1	: Contemporary French, Creole
+0194	1	: Contemporary American, Seafood
+0195	1	: Contemporary American, Comfort Food
+0196	1	: Italian, Mediterranean
+0197	1	: Contemporary American, Creole / Cajun / Southern
+0198	1	: Italian
+0199	1	: Creole / Cajun / Southern, Seafood, Italian
+0200	1	: Spanish, Tapas / Small Plates, Latin / Spanish
+0201	1	: Mexican, Fusion / Eclectic
+0202	1	: French
+0203	1	: Contemporary American, Creole / Cajun / Southern
+0204	1	: Contemporary French, Creole
+0205	1	: Creole / Cajun / Southern, Contemporary French
+0206	1	: Steak, Seafood, American
+0207	1	: Continental, Creole / Cajun / Southern
+0208	1	: Steakhouse
+0209	1	: Global, International, Fusion / Eclectic
+0210	1	: Italian
+0211	1	: Sushi, Hawaiian, Japanese
+0212	1	: American
+0213	1	: Hawaiian, Pan-Asian, Chinese
+0214	1	: American, Comfort Food
+0215	1	: Seafood, Steak
+0216	1	: Seafood, Steak
+0217	1	: Italian
+0218	1	: Contemporary American, Californian
+0219	1	: Mexican / Southwestern
+0220	1	: French, Fusion / Eclectic, American
+0221	1	: Italian, Seafood, Steak
+0222	1	: Italian, Mediterranean
+0223	1	: Italian
+0224	1	: Italian
+0225	1	: Asian
+0226	1	: Californian, American
+0227	1	: Californian, Organic
+0228	1	: Moroccan, Mediterranean, Middle Eastern
+0229	1	: American, Seafood
+0230	1	: Steak, Seafood, American
+0231	1	: Italian, Steak, Seafood
+0232	1	: Californian, American, Comfort Food
+0233	1	: Global, International
+0234	1	: Californian
+0235	1	: Contemporary American, Californian
+0236	1	: Fondue, French
+0237	1	: Contemporary French
+0238	1	: Californian, Contemporary American
+0239	1	: Seafood, Steak
+0240	1	: Steakhouse, Italian
+0241	1	: Contemporary American, Californian
+0242	1	: Seafood, Asian, Contemporary American
+0243	1	: Californian, Contemporary French
+0244	1	: Organic, American, Californian
+0245	1	: Californian, Contemporary American, Tapas / Small Plates
+0246	1	: Seafood
+0247	1	: Seafood, Steak
+0248	1	: Contemporary American, American
+0249	1	: Italian
+0250	1	: Californian, American, International
+0251	1	: Steak, Seafood
+0252	1	: Contemporary French
+0253	1	: Global, International, Steak, Seafood
+0254	1	: Asian, Chinese, Thai
+0255	1	: Indian
+0256	1	: American
+0257	1	: Italian, Steakhouse, Mediterranean
+0258	1	: American, Southern
+0259	1	: Seafood, Steak
+0260	1	: Steakhouse, Steak, Seafood
+0261	1	: Caribbean
+0262	1	: Mexican, Southwest, Spanish
+0263	1	: Contemporary American
+0264	1	: International
+0265	1	: Steak, American
+0266	1	: Southern, French
+0267	1	: Mediterranean, American
+0268	1	: American, Brewery
+0269	1	: Steak, Seafood
+0270	1	: American, Gastro Pub, Comfort Food
+0271	1	: Contemporary American, Southern
+0272	1	: Contemporary American
+0273	1	: Italian, Mediterranean
+0274	1	: Southern, American
+0275	1	: Steak, Brewery
+0276	1	: Seafood, Steak, American
+0277	1	: Fondue, Swiss
+0278	1	: Greek, Seafood
+0279	1	: Japanese, Sushi
+0280	1	: Sushi, Japanese
+0281	1	: French, Fusion / Eclectic
+0282	1	: Tapas / Small Plates
+0283	1	: Seafood, Steakhouse, American
+0284	1	: Southern, Creole / Cajun / Southern
+0285	1	: American, Sushi
+0286	1	: Southern, Tapas / Small Plates, Seafood
+0287	1	: Italian, Mediterranean
+0288	1	: Seafood, Contemporary American
+0289	1	: Southern, Fusion / Eclectic
+0290	1	: Steak
+0291	1	: Italian, Continental
+0292	1	: Seafood, Steak
+0293	1	: Asian, American
+0294	1	: Tapas / Small Plates, Caribbean
+0295	1	: Contemporary American, Organic, Southern
+0296	1	: Steak, American
+0297	1	: Steak, American
+0298	1	: Steakhouse, American
+0299	1	: Contemporary American, Global, International
+0300	1	: Fusion / Eclectic, Eurasian
+0301	1	: Continental, European
+0302	1	: Contemporary American
+0303	1	: Contemporary American, American
+0304	1	: Contemporary American
+0305	1	: Italian
+0306	1	: Southern, American
+0307	1	: European, Mediterranean
+0308	1	: Contemporary American, Comfort Food
+0309	1	: Steak, Sushi
+0310	1	: Italian, Greek, Mediterranean
+0311	1	: Contemporary French, Contemporary American
+0312	1	: American, French
+0313	1	: Pan-Asian
+0314	1	: Italian
+0315	1	: Italian
+0316	1	: Southern, American
+0317	1	: American
+0318	1	: European, German, Italian
+0319	1	: American, Southern, Comfort Food
+0320	1	: American, Steak, Seafood
+0321	1	: Thai, Sushi
+0322	1	: Seafood, South American
+0323	1	: Asian, Sushi
+0324	1	: Mediterranean, Seafood
+0325	1	: Global, International, American
+0326	1	: Italian
+0327	1	: Contemporary American
+0328	1	: Mediterranean
+0329	1	: American, Continental
+0330	1	: Steakhouse, Seafood
+0331	1	: French, American, Contemporary French
+0332	1	: Organic
+0333	1	: Contemporary American, Californian, American
+0334	1	: Seafood
+0335	1	: Brazilian Steakhouse, Steakhouse
+0336	1	: Steakhouse, American
+0337	1	: Seafood
+0338	1	: American, Irish
+0339	1	: Cuban, Latin American
+0340	1	: Peruvian, Seafood
+0341	1	: Peruvian
+0342	1	: American
+0343	1	: Steak, American
+0344	1	: Italian, Mediterranean
+0345	1	: Mediterranean, American
+0346	1	: Argentinean, Steakhouse, Italian
+0347	1	: Argentinean, Steakhouse, Italian
+0348	1	: Steakhouse, Seafood
+0349	1	: American
+0350	1	: Contemporary American, Fusion / Eclectic
+0351	1	: Steak, Seafood
+0352	1	: Indian, South Indian
+0353	1	: Steakhouse, Seafood
+0354	1	: Contemporary French, European, Mediterranean
+0355	1	: Asian
+0356	1	: Mediterranean
+0357	1	: Italian, American
+0358	1	: Mexican
+0359	1	: Mediterranean, International
+0360	1	: Steak, Seafood, American
+0361	1	: Chinese
+0362	1	: Global, International, American
+0363	1	: Global, International, Fusion / Eclectic
+0364	1	: Seafood, Steak
+0365	1	: Seafood
+0366	1	: French
+0367	1	: Italian
+0368	1	: Spanish, Mediterranean
+0369	1	: Italian
+0370	1	: Italian, Comfort Food
+0371	1	: Contemporary American, French
+0372	1	: Mexican
+0373	1	: Mexican / Southwestern, Contemporary Mexican
+0374	1	: Seafood, Continental
+0375	1	: Steakhouse, Seafood
+0376	1	: Italian
+0377	1	: Contemporary American, American
+0378	1	: Contemporary American, American
+0379	1	: Seafood, Steak
+0380	1	: Italian
+0381	1	: Seafood, Steak
+0382	1	: Steakhouse, American
+0383	1	: Japanese, Peruvian, Brazilian
+0384	1	: American, Italian
+0385	1	: Italian, Mediterranean
+0386	1	: Italian, Steakhouse, Seafood
+0387	1	: European, International, Seafood
+0388	1	: Steakhouse, International, Seafood
+0389	1	: Mediterranean, American
+0390	1	: Italian, Tapas / Small Plates
+0391	1	: Mexican / Southwestern, American
+0392	1	: American, Contemporary American
+0393	1	: Contemporary American
+0394	1	: American
+0395	1	: Greek, Organic, Seafood
+0396	1	: American, Contemporary American
+0397	1	: Seafood, Steak
+0398	1	: Contemporary American, American, Seafood
+0399	1	: Italian
+0400	1	: American
+0401	1	: Italian
+0402	1	: Seafood, Steak
+0403	1	: Seafood, American
+0404	1	: American, Seafood
+0405	1	: Contemporary American, Gastro Pub
+0406	1	: Contemporary American
+0407	1	: French, Creole / Cajun / Southern
+0408	1	: Steak, American
+0409	1	: Seafood, Steak, American
+0410	1	: Mediterranean
+0411	1	: Fusion / Eclectic, Organic
+0412	1	: American, Steak, Seafood
+0413	1	: Continental, Contemporary American
+0414	1	: Steak, American
+0415	1	: Italian
+0416	1	: Italian
+0417	1	: Sushi, Pan-Asian
+0418	1	: American, British
+0419	1	: Contemporary American, Steak, Seafood
+0420	1	: Contemporary American, Fusion / Eclectic
+0421	1	: Contemporary American
+0422	1	: Mediterranean, Middle Eastern
+0423	1	: Steak, American
+0424	1	: Steak, Seafood
+0425	1	: Steakhouse, American
+0426	1	: Contemporary American, Sushi
+0427	1	: Spanish, Tapas / Small Plates
+0428	1	: French
+0429	1	: Italian
+0430	1	: American, Southwest
+0431	1	: Latin American, Mexican / Southwestern
+0432	1	: American, Contemporary American
+0433	1	: Sushi, Japanese
+0434	1	: European, Northwest, Contemporary French
+0435	1	: Italian
+0436	1	: Mediterranean
+0437	1	: Argentinean
+0438	1	: Italian, Seafood, Tapas / Small Plates
+0439	1	: Argentinean, Steakhouse
+0440	1	: Northwest
+0441	1	: Thai
+0442	1	: Northwest, French
+0443	1	: Northwest, Contemporary American
+0444	1	: European, Latin / Spanish, Steak
+0445	1	: American, Contemporary American
+0446	1	: Steak, Seafood
+0447	1	: Northwest, French
+0448	1	: American, Northwest
+0449	1	: American
+0450	1	: American
+0451	1	: Contemporary American
+0452	1	: American, European
+0453	1	: American, Mediterranean, Tapas / Small Plates
+0454	1	: Steak, Seafood, American
+0455	1	: Seafood, Steak, Northwest
+0456	1	: Southern, American
+0457	1	: American, Contemporary American, Unspecified
+0458	1	: Contemporary American
+0459	1	: Seafood, Northwest
+0460	1	: Northwest, Contemporary American, Seafood
+0461	1	: Latin / Spanish
+0462	1	: American, Organic, Northwest
+0463	1	: Creole / Cajun / Southern, French
+0464	1	: Thai, Asian
+0465	1	: American, Steak
+0466	1	: Northwest, Contemporary American
+0467	1	: American
+0468	1	: Steakhouse, Steak
+0469	1	: Contemporary American
+0470	1	: Steak, Seafood
+0471	1	: Steakhouse, Seafood, American
+0472	1	: American, Contemporary American
+0473	1	: Contemporary American, Steak
+0474	1	: Italian
+0475	1	: Italian, Steakhouse, Seafood
+0476	1	: Japanese, Sushi
+0477	1	: French, American
+0478	1	: Global, International
+0479	1	: Contemporary American, Tapas / Small Plates
+0480	1	: American
+0481	1	: Steak, Seafood
+0482	1	: Mexican, Mexican / Southwestern
+0483	1	: Italian
+0484	1	: Steak, Seafood
+0485	1	: Contemporary French
+0486	1	: Prime Rib, American
+0487	1	: Contemporary American, Wild Game
+0488	1	: Italian, American
+0489	1	: Italian, American
+0490	1	: Mexican
+0491	1	: Seafood, Steak, American
+0492	1	: American, Gastro Pub
+0493	1	: Moroccan, Mediterranean
+0494	1	: Steak, Seafood
+0495	1	: American, Southwest
+0496	1	: Japanese, Sushi
+0497	1	: American
+0498	1	: Steakhouse
+0499	1	: Steak, Seafood, American
+0500	1	: Contemporary American, Seafood, Steak
+0501	1	: Steakhouse, Seafood
+0502	1	: Italian
+0503	1	: Steak, Seafood
+0504	1	: American, Steak
+0505	1	: Asian, Sushi
+0506	1	: Japanese, Tapas / Small Plates
+0507	1	: Contemporary American, Contemporary French
+0508	1	: American
+0509	1	: Comfort Food, Contemporary American
+0510	1	: American, French
+0511	1	: American, Comfort Food, Cajun
+0512	1	: American, Fusion / Eclectic
+0513	1	: Steakhouse, Seafood
+0514	1	: American, Contemporary American, Tapas / Small Plates
+0515	1	: French
+0516	1	: American, Contemporary American
+0517	1	: Italian
+0518	1	: European, Contemporary American
+0519	1	: Mediterranean, European
+0520	1	: Steakhouse, American
+0521	1	: American, Contemporary American
+0522	1	: Sushi, Japanese, Fusion / Eclectic
+0523	1	: Japanese, Tapas / Small Plates, Sushi
+0524	1	: Sushi, Asian
+0525	1	: Contemporary American
+0526	1	: American, Seafood
+0527	1	: Italian
+0528	1	: Seafood, American
+0529	1	: Steak, Seafood
+0530	1	: Asian
+0531	1	: Italian, American
+0532	1	: Contemporary American
+0533	1	: Steakhouse, Southern
+0534	1	: Irish, American
+0535	1	: Contemporary American, Seafood
+0536	1	: Gastro Pub, Global, International
+0537	1	: Italian
+0538	1	: French
+0539	1	: Continental, Contemporary American, French
+0540	1	: Mediterranean, Middle Eastern
+0541	1	: Contemporary American
+0542	1	: Italian, Tapas / Small Plates
+0543	1	: Steakhouse
+0544	1	: Contemporary American, Creole / Cajun / Southern
+0545	1	: Steak, Seafood
+0546	1	: American
+0547	1	: Steakhouse, Seafood, Wild Game
+0548	1	: Contemporary American
+0549	1	: Comfort Food, Southern
+0550	1	: American
+0551	1	: Contemporary American, Seafood
+0552	1	: Italian, Contemporary American
+0553	1	: Fusion / Eclectic, Sushi
+0554	1	: French, Asian
+0555	1	: Contemporary American, Fusion / Eclectic
+0556	1	: American
+0557	1	: Steak, Contemporary American
+0558	1	: Pan-Asian, Sushi
+0559	1	: International, Mediterranean
+0560	1	: Global, International, Seafood
+0561	1	: Contemporary American, Seafood, Steak
+0562	1	: French
+0563	1	: Contemporary American, Comfort Food
+0564	1	: American
+0565	1	: Fusion / Eclectic, Contemporary American
+0566	1	: American, Seafood
+0567	1	: Steak, American
+0568	1	: Contemporary American
+0569	1	: Contemporary American, Seafood, Wild Game
+0570	1	: Contemporary American, Steak, Seafood
+0571	1	: Tapas / Small Plates, International
+0572	1	: Italian, American
+0573	1	: Seafood, Steak
+0574	1	: Comfort Food, American
+0575	1	: Seafood, Steak, Bar / Lounge / Bottle Service
+0576	1	: Steakhouse, American
+0577	1	: Steak
+0578	1	: Fusion / Eclectic, Global, International
+0579	1	: Contemporary American
+0580	1	: Continental, American
+0581	1	: Italian
+0582	1	: Contemporary American
+0583	1	: American, Steak, Seafood
+0584	1	: Asian, Sushi
+0585	1	: Continental, Italian
+0586	1	: Fusion / Eclectic, Sushi, Asian
+0587	1	: American, Steakhouse
+0588	1	: Seafood, American, Steakhouse
+0589	1	: Indian
+0590	1	: Contemporary American
+0591	1	: European, American
+0592	1	: Steakhouse, Seafood, American
+0593	1	: Asian, Pan-Asian
+0594	1	: Steak
+0595	1	: Steakhouse
+0596	1	: Italian
+0597	1	: Seafood, Steakhouse
+0598	1	: French, International, Contemporary French
+0599	1	: American, Continental
+0600	1	: Gastro Pub, American
+0601	1	: Italian
+0602	1	: Sushi, Japanese
+0603	1	: Greek, Mediterranean, Steakhouse
+0604	1	: Thai, Asian
+0605	1	: Thai
+0606	1	: Italian
+0607	1	: Steakhouse, American
+0608	1	: American
+0609	1	: Japanese, Sushi
+0610	1	: American
+0611	1	: Japanese, Fusion / Eclectic
+0612	1	: Continental, Contemporary American, German
+0613	1	: Italian
+0614	1	: Chinese, Thai
+0615	1	: Organic, French, Comfort Food
+0616	1	: Contemporary American, Seafood, American
+0617	1	: Seafood, Steak
+0618	1	: Contemporary French, Contemporary American, Japanese
+0619	1	: Seafood, Steak, American
+0620	1	: Brazilian Steakhouse, Steakhouse, Brazilian
+0621	1	: French, Fusion / Eclectic
+0622	1	: Italian
+0623	1	: American, Steak, Seafood
+0624	1	: Italian
+0625	1	: Contemporary American, Sicilian, Italian
+0626	1	: Continental, American
+0627	1	: French
+0628	1	: Indian, Nepalese
+0629	1	: Steakhouse, Seafood
+0630	1	: American, Southwest, Burgers
+0631	1	: American, Steak, Seafood
+0632	1	: Italian
+0633	1	: Italian
+0634	1	: Organic
+0635	1	: Contemporary American, Low Country
+0636	1	: Steakhouse, Contemporary American
+0637	1	: Contemporary American, Steak
+0638	1	: American, Barbecue, Southern
+0639	1	: American
+0640	1	: American, Comfort Food
+0641	1	: American, Global, International
+0642	1	: American, International
+0643	1	: American, Seafood, Steak
+0644	1	: Contemporary American
+0645	1	: Italian
+0646	1	: Italian
+0647	1	: Italian
+0648	1	: Italian
+0649	1	: Italian
+0650	1	: American, Gastro Pub
+0651	1	: Contemporary American, American
+0652	1	: American
+0653	1	: American, Comfort Food
+0654	1	: Italian, American
+0655	1	: Vegetarian
+0656	1	: Steak, Italian
+0657	1	: American
+0658	1	: Steak, Seafood, American
+0659	1	: American, International
+0660	1	: American
+0661	1	: American
+0662	1	: Sushi, Japanese, Asian
+0663	1	: Asian, Pan-Asian, Fusion / Eclectic
+0664	1	: French, European, Comfort Food
+0665	1	: Seafood, Steak
+0666	1	: American, Steak, Seafood
+0667	1	: Chinese, Sushi
+0668	1	: Contemporary American, Sushi
+0669	1	: Italian
+0670	1	: Mexican, Latin American
+0671	1	: American, Contemporary American, Comfort Food
+0672	1	: Italian, American
+0673	1	: Mexican, French
+0674	1	: American, Steak, Seafood
+0675	1	: Seafood, Steak
+0676	1	: American, Comfort Food
+0677	1	: French, Steak, Seafood
+0678	1	: French, Steakhouse, Seafood
+0679	1	: Steak, Seafood, American
+0680	1	: Steak, Seafood, American
+0681	1	: Steakhouse, Seafood
+0682	1	: Contemporary American, Mediterranean, Fusion / Eclectic
+0683	1	: Mediterranean, Tapas / Small Plates
+0684	1	: Chinese
+0685	1	: Afternoon Tea
+0686	1	: American, Contemporary American
+0687	1	: Italian, Pizzeria, American
+0688	1	: Italian, Mediterranean
+0689	1	: Contemporary American, American
+0690	1	: American, Latin / Spanish
+0691	1	: American
+0692	1	: Italian, Tapas / Small Plates
+0693	1	: American, Brewery
+0694	1	: Pan-Asian, Thai, Fusion / Eclectic
+0695	1	: American
+0696	1	: American, European
+0697	1	: Brewery, Contemporary American
+0698	1	: Italian
+0699	1	: Italian
+0700	1	: Steakhouse, Seafood
+0701	1	: Contemporary Mexican, Mexican, French
+0702	1	: American, Seafood
+0703	1	: Italian
+0704	1	: Seafood, Steak, American
+0705	1	: Contemporary American, Asian
+0706	1	: Contemporary American
+0707	1	: American
+0708	1	: American
+0709	1	: Steakhouse, Seafood
+0710	1	: Sushi, Japanese
+0711	1	: Asian, Pan-Asian, Sushi
+0712	1	: Seafood
+0713	1	: Italian, Mediterranean
+0714	1	: Steakhouse, Seafood, Prime Rib
+0715	1	: Sushi, Asian, Japanese
+0716	1	: Italian
+0717	1	: American
+0718	1	: Mexican / Southwestern
+0719	1	: Contemporary American
+0720	1	: Contemporary American, Southern
+0721	1	: Southern, Creole / Cajun / Southern
+0722	1	: Italian
+0723	1	: Contemporary American, European
+0724	1	: Contemporary American, Global, International, Californian
+0725	1	: Contemporary American
+0726	1	: Southern
+0727	1	: Latin / Spanish, Asian
+0728	1	: Global, International, Creole / Cajun / Southern
+0729	1	: Steak, Seafood
+0730	1	: Cajun, Creole / Cajun / Southern
+0731	1	: American, Contemporary American
+0732	1	: American, Steak, Seafood
+0733	1	: Sushi, Japanese
+0734	1	: American, Steakhouse
+0735	1	: Japanese, Asian
+0736	1	: Contemporary French
+0737	1	: Contemporary American, Southern, Fusion / Eclectic
+0738	1	: Southern, American
+0739	1	: Steak, American
+0740	1	: Contemporary American, International
+0741	1	: Mexican, Mexican / Southwestern
+0742	1	: American, Contemporary American
+0743	1	: American
+0744	1	: Steakhouse, Seafood, American
+0745	1	: Tapas / Small Plates, Global, International
+0746	1	: American, Californian
+0747	1	: American
+0748	1	: Italian, Tapas / Small Plates
+0749	1	: American, Seafood
+0750	1	: Seafood
+0751	1	: Steak, Southwest
+0752	1	: American
+0753	1	: Steak, American
+0754	1	: Contemporary American, Steak
+0755	1	: Mexican
+0756	1	: Mexican, Latin / Spanish
+0757	1	: American
+0758	1	: Southwest, American
+0759	1	: Steakhouse, Steak, Seafood
+0760	1	: Steakhouse, Steak, Seafood
+0761	1	: Hawaiian, Contemporary American
+0762	1	: Italian
+0763	1	: Hawaiian, Seafood, Steak
+0764	1	: Japanese, Barbecue, Tapas / Small Plates
+0765	1	: Hawaiian, Seafood, Steak
+0766	1	: Seafood, Prime Rib
+0767	1	: Mediterranean, Organic, Vegetarian
+0768	1	: Tapas / Small Plates
+0769	1	: Seafood, Steak
+0770	1	: Seafood, Fusion / Eclectic
+0771	1	: Italian
+0772	1	: Steakhouse, Seafood
+0773	1	: Contemporary American, Barbecue
+0774	1	: Contemporary American, Italian
+0775	1	: Japanese
+0776	1	: American
+0777	1	: Californian, French, Contemporary French
+0778	1	: Californian, Fusion / Eclectic
+0779	1	: Contemporary American
+0780	1	: Californian, Contemporary American
+0781	1	: Steakhouse, Continental
+0782	1	: American, Californian, Mediterranean
+0783	1	: Italian, Californian
+0784	1	: Italian
+0785	1	: Italian
+0786	1	: Steak, Seafood
+0787	1	: Seafood, Californian
+0788	1	: Steakhouse, Seafood
+0789	1	: Seafood, American
+0790	1	: American, Californian
+0791	1	: Global, International, Californian
+0792	1	: Californian
+0793	1	: Continental
+0794	1	: Italian, American, Steak
+0795	1	: Provencal, Italian
+0796	1	: Mexican / Southwestern
+0797	1	: Global, International, Mediterranean, Italian
+0798	1	: American, Southwest
+0799	1	: Contemporary American, French
+0800	1	: Asian, Dim Sum, Seafood
+0801	1	: American
+0802	1	: Sushi, Steak
+0803	1	: Barbecue, Southern
+0804	1	: Steak, American
+0805	1	: Contemporary American, Contemporary French
+0806	1	: Contemporary American, Continental
+0807	1	: Steakhouse
+0808	1	: Italian, American, Steakhouse
+0809	1	: Continental, Contemporary French
+0810	1	: Italian, American
+0811	1	: Italian
+0812	1	: Italian, American
+0813	1	: Italian
+0814	1	: Steakhouse
+0815	1	: Steakhouse, Seafood
+0816	1	: Contemporary American
+0817	1	: Global, International
+0818	1	: Seafood, American
+0819	1	: Steakhouse
+0820	1	: Steakhouse
+0821	1	: American, Steakhouse, Contemporary American
+0822	1	: Italian, American, Comfort Food
+0823	1	: Italian, French
+0824	1	: American
+0825	1	: Seafood, Fusion / Eclectic
+0826	1	: Steakhouse, Steak
+0827	1	: Contemporary American
+0828	1	: Contemporary American, Sushi
+0829	1	: American
+0830	1	: American, Seafood, Comfort Food
+0831	1	: American, Global, International
+0832	1	: American, Fusion / Eclectic
+0833	1	: Continental, Tapas / Small Plates
+0834	1	: Italian, Steakhouse
+0835	1	: American
+0836	1	: Contemporary American
+0837	1	: Californian, American, Burgers
+0838	1	: Steak, Contemporary American
+0839	1	: Italian
+0840	1	: Mediterranean, Tapas / Small Plates
+0841	1	: Californian, Eastern European, Organic
+0842	1	: Seafood
+0843	1	: Indian
+0844	1	: Steakhouse
+0845	1	: Italian
+0846	1	: Sushi, Steak, Japanese
+0847	1	: Italian
+0848	1	: Contemporary French, Californian, French
+0849	1	: Californian, Contemporary American
+0850	1	: Pan-Asian, Southeast Asian
+0851	1	: American, Californian
+0852	1	: Californian
+0853	1	: Italian
+0854	1	: American, Barbecue
+0855	1	: Contemporary American
+0856	1	: Thai, Asian, Tapas / Small Plates
+0857	1	: French, Californian
+0858	1	: American, Brewery, Seafood
+0859	1	: Mediterranean, Organic
+0860	1	: Persian, Mediterranean
+0861	1	: Contemporary American, Global, International
+0862	1	: American, Steakhouse, Steak
+0863	1	: French
+0864	1	: French
+0865	1	: Steakhouse, American
+0866	1	: Steakhouse, American
+0867	1	: Sushi, Asian
+0868	1	: American, Seafood
+0869	1	: Contemporary American, Comfort Food
+0870	1	: Steakhouse
+0871	1	: Latin American, Californian
+0872	1	: American, Californian
+0873	1	: Indian
+0874	1	: Mediterranean, Italian
+0875	1	: Italian
+0876	1	: French
+0877	1	: Chinese, Asian
+0878	1	: Californian, Contemporary American
+0879	1	: Californian
+0880	1	: Italian, European
+0881	1	: Mediterranean, Turkish
+0882	1	: French, Continental
+0883	1	: American
+0884	1	: Italian
+0885	1	: American
+0886	1	: International, Comfort Food
+0887	1	: Mexican
+0888	1	: French
+0889	1	: American, Southern
+0890	1	: Californian, Organic, Mediterranean
+0891	1	: Contemporary American, Comfort Food, Californian
+0892	1	: Mexican / Southwestern, American
+0893	1	: American, Fondue, Californian
+0894	1	: Contemporary French
+0895	1	: American, Steak
+0896	1	: American
+0897	1	: French, Californian
+0898	1	: Italian
+0899	1	: Californian, American
+0900	1	: Italian, American
+0901	1	: Brazilian Steakhouse, Brazilian
+0902	1	: Indian, Nepalese
+0903	1	: Contemporary American, Californian, Tapas / Small Plates
+0904	1	: Contemporary American, Californian
+0905	1	: Mediterranean, Italian
+0906	1	: American, Comfort Food
+0907	1	: American
+0908	1	: French
+0909	1	: Mediterranean
+0910	1	: Organic, American, Californian
+0911	1	: Chinese, Asian
+0912	1	: Californian, Italian
+0913	1	: American, Brewery
+0914	1	: Steakhouse, Steak
+0915	1	: Japanese
+0916	1	: Korean, Asian
+0917	1	: Chinese, Comfort Food, Organic
+0918	1	: Mexican / Southwestern
+0919	1	: Californian
+0920	1	: Californian, Comfort Food
+0921	1	: Californian, Mediterranean, American
+0922	1	: Indian
+0923	1	: French, Continental
+0924	1	: Steak, Seafood, American
+0925	1	: Californian, American
+0926	1	: Californian, American
+0927	1	: Steakhouse, Contemporary American
+0928	1	: Latin / Spanish, Tapas / Small Plates
+0929	1	: American, Steak, Seafood
+0930	1	: Kosher, Californian, Vegetarian
+0931	1	: Thai, Vegetarian
+0932	1	: Mediterranean, Greek, Contemporary European
+0933	1	: Italian
+0934	1	: Italian, Seafood, European
+0935	1	: French, Provencal
+0936	1	: Italian
+0937	1	: Italian
+0938	1	: Italian, Mediterranean
+0939	1	: Mediterranean, Portuguese
+0940	1	: American
+0941	1	: Mediterranean
+0942	1	: American, Steak
+0943	1	: French
+0944	1	: French
+0945	1	: Fusion / Eclectic, Global, International
+0946	1	: American
+0947	1	: French
+0948	1	: Italian
+0949	1	: Contemporary American, French
+0950	1	: Mediterranean
+0951	1	: Italian, Seafood
+0952	1	: Mexican
+0953	1	: Steakhouse
+0954	1	: Moroccan
+0955	1	: Greek, Tapas / Small Plates, Steak
+0956	1	: Italian
+0957	1	: Vegetarian
+0958	1	: Indian
+0959	1	: Caribbean, Cajun, Californian
+0960	1	: Californian, Contemporary American
+0961	1	: Japanese, Sushi
+0962	1	: American, Wild Game
+0963	1	: Asian, Fusion / Eclectic
+0964	1	: American
+0965	1	: Californian, Contemporary American
+0966	1	: Indian, Vegetarian
+0967	1	: Comfort Food, American
+0968	1	: Seafood, Sushi, Hawaiian
+0969	1	: Italian
+0970	1	: European, Mediterranean, American
+0971	1	: American, Comfort Food
+0972	1	: French
+0973	1	: American
+0974	1	: Italian
+0975	1	: Asian
+0976	1	: French, Californian
+0977	1	: American, Comfort Food
+0978	1	: Contemporary American
+0979	1	: Contemporary American, Seafood
+0980	1	: American, Californian
+0981	1	: American
+0982	1	: American, Californian
+0983	1	: Indian
+0984	1	: Contemporary American, American
+0985	1	: French, Californian
+0986	1	: Fusion / Eclectic, Mediterranean, American
+0987	1	: Global, International
+0988	1	: Japanese, Sushi
+0989	1	: American, Californian
+0990	1	: Steak
+0991	1	: Mediterranean
+0992	1	: Italian
+0993	1	: Greek, Mediterranean
+0994	1	: Chinese
+0995	1	: Seafood, Steak, American
+0996	1	: Continental, Steakhouse, Seafood
+0997	1	: Contemporary American, Comfort Food
+0998	1	: Steak, American
+0999	1	: Asian, Pan-Asian
+1000	1	: Californian, Asian
+1001	1	: Sushi, Japanese
+1002	1	: Japanese, Sushi
+1003	1	: Vietnamese, Asian
+1004	1	: Indian
+1005	1	: Contemporary American, Californian
+1006	1	: Thai, Southeast Asian
+1007	1	: Contemporary American, Californian
+1008	1	: Italian
+1009	1	: Mediterranean, Turkish, Greek
+1010	1	: Italian, Mediterranean
+1011	1	: Asian, Pan-Asian
+1012	1	: Californian, American, Contemporary American
+1013	1	: Contemporary American, Comfort Food
+1014	1	: Italian, European
+1015	1	: Turkish, Mediterranean, Middle Eastern
+1016	1	: Contemporary French, American
+1017	1	: Asian, Vietnamese
+1018	1	: American
+1019	1	: Gastro Pub
+1020	1	: Italian, Mediterranean
+1021	1	: Italian
+1022	1	: Californian
+1023	1	: American, Mediterranean
+1024	1	: Seafood, American
+1025	1	: Seafood, American
+1026	1	: Japanese
+1027	1	: Sushi, Japanese
+1028	1	: Sushi, Japanese, Asian
+1029	1	: American, Contemporary American
+1030	1	: Mediterranean
+1031	1	: Mediterranean, Contemporary European
+1032	1	: American, Southwest, Global, International
+1033	1	: Fusion / Eclectic, Continental, French
+1034	1	: Eurasian, Tapas / Small Plates
+1035	1	: Spanish, Moroccan
+1036	1	: Contemporary American
+1037	1	: Contemporary American, American, French
+1038	1	: Mexican / Southwestern, Creole, Cajun
+1039	1	: Contemporary American, Mediterranean
+1040	1	: American, French
+1041	1	: Contemporary American
+1042	1	: Italian
+1043	1	: American, Contemporary American
+1044	1	: Creole / Cajun / Southern, American
+1045	1	: Steakhouse
+1046	1	: Japanese, Sushi, Seafood
+1047	1	: Southern, American, Comfort Food
+1048	1	: Contemporary American, Gastro Pub
+1049	1	: Steak, Seafood, American
+1050	1	: French, Japanese, Sushi
+1051	1	: Contemporary American, Mediterranean
+1052	1	: Italian
+1053	1	: Spanish, Mediterranean, European
+1054	1	: American, Organic
+1055	1	: American
+1056	1	: American
+1057	1	: Steak, American
+1058	1	: Italian
+1059	1	: Contemporary American
+1060	1	: Organic, Continental
+1061	1	: Italian
+1062	1	: Seafood, Steak, American
+1063	1	: Seafood, Steak
+1064	1	: Steak, Seafood, American
+1065	1	: French, American
+1066	1	: Contemporary American, Continental
+1067	1	: Steak, Seafood, American
+1068	1	: American, Steakhouse
+1069	1	: Argentinean, Steakhouse, International
+1070	1	: Contemporary American, Californian
+1071	1	: Contemporary American, Fusion / Eclectic
+1072	1	: Italian
+1073	1	: Contemporary American, Comfort Food
+1074	1	: Steak, Italian
+1075	1	: Steak, Steakhouse
+1076	1	: Steakhouse, Creole / Cajun / Southern
+1077	1	: Southern, Creole
+1078	1	: American, Steak
+1079	1	: Italian
+1080	1	: American
+1081	1	: Italian
+1082	1	: Italian, Fusion / Eclectic
+1083	1	: American, Southwest
+1084	1	: American, Steakhouse, Seafood
+1085	1	: Steak, American
+1086	1	: Italian
+1087	1	: Latin American, Mexican / Southwestern
+1088	1	: Mexican
+1089	1	: Steakhouse, Seafood, American
+1090	1	: Contemporary American
+1091	1	: Indian
+1092	1	: Contemporary American
+1093	1	: American, Steak, Seafood
+1094	1	: American, Contemporary American, Steakhouse
+1095	1	: Global, International, Asian
+1096	1	: American, Fusion / Eclectic, Sushi
+1097	1	: American
+1098	1	: American
+1099	1	: American, Persian, International
+1100	1	: American
+1101	1	: American, Mediterranean
+1102	1	: American, Steak
+1103	1	: Global, International, Vegetarian
+1104	1	: American, Comfort Food
+1105	1	: American
+1106	1	: Steak, Seafood
+1107	1	: Steakhouse, Cajun, Barbecue
+1108	1	: American
+1109	1	: Continental, Mediterranean
+1110	1	: American, Barbecue
+1111	1	: Seafood, Steak
+1112	1	: Fondue
+1113	1	: American, Steak
+1114	1	: Contemporary American
+1115	1	: Seafood, Steak
+1116	1	: Indian, Contemporary American, Vegetarian
+1117	1	: Steakhouse, Seafood
+1118	1	: Steak, Seafood, American
+1119	1	: American
+1120	1	: International, Comfort Food
+1121	1	: Italian
+1122	1	: Barbecue, American
+1123	1	: Global, International, Tapas / Small Plates, Organic
+1124	1	: Sushi, Japanese, Bar / Lounge / Bottle Service
+1125	1	: American
+1126	1	: Spanish, Tapas / Small Plates
+1127	1	: Tapas / Small Plates, Mediterranean
+1128	1	: Japanese, Asian
+1129	1	: Contemporary American
+1130	1	: Cuban, Caribbean
+1131	1	: Contemporary American, French
+1132	1	: Contemporary French, American
+1133	1	: Contemporary American
+1134	1	: American, Steak, Seafood
+1135	1	: Italian, American
+1136	1	: Contemporary American, American
+1137	1	: Brazilian Steakhouse, Steakhouse, Brazilian
+1138	1	: Comfort Food, American
+1139	1	: Seafood, Steak, American
+1140	1	: Mexican / Southwestern, American
+1141	1	: Global, International, Contemporary American
+1142	1	: Californian, Italian
+1143	1	: Asian, Fusion / Eclectic
+1144	1	: Italian, Steak
+1145	1	: Continental, Contemporary American
+1146	1	: Indian
+1147	1	: French, Italian
+1148	1	: Italian, Mediterranean
+1149	1	: Seafood, Steak
+1150	1	: Tapas / Small Plates, Contemporary American, Spanish
+1151	1	: Tapas / Small Plates, Fusion / Eclectic
+1152	1	: American, French
+1153	1	: Steakhouse, American
+1154	1	: Gastro Pub, Contemporary American
+1155	1	: Mediterranean, Italian
+1156	1	: American
+1157	1	: American
+1158	1	: Latin American, Mexican / Southwestern
+1159	1	: Brazilian
+1160	1	: Contemporary American, Contemporary French
+1161	1	: Afternoon Tea
+1162	1	: Contemporary American, Steakhouse, Seafood
+1163	1	: German, American
+1164	1	: Contemporary American, American
+1165	1	: Contemporary American
+1166	1	: Spanish, Latin / Spanish
+1167	1	: American, Vegetarian
+1168	1	: American
+1169	1	: Contemporary American
+1170	1	: Global, International, Contemporary American
+1171	1	: Contemporary American, Comfort Food
+1172	1	: American, Steakhouse
+1173	1	: Steak, Steakhouse
+1174	1	: Californian, Contemporary American, Organic
+1175	1	: American, Steak, Seafood
+1176	1	: American
+1177	1	: Wild Game, Contemporary American, Steak
+1178	1	: Steakhouse, Seafood
+1179	1	: Tapas / Small Plates, Global, International
+1180	1	: Contemporary American
+1181	1	: American
+1182	1	: Steakhouse, Steak, Seafood
+1183	1	: Italian
+1184	1	: Comfort Food, American
+1185	1	: Italian, European
+1186	1	: American, Contemporary American, Continental
+1187	1	: Contemporary American, Seafood
+1188	1	: Italian
+1189	1	: Contemporary American
+1190	1	: American, Comfort Food
+1191	1	: Contemporary American, Seafood
+1192	1	: American, Organic
+1193	1	: American, Contemporary American
+1194	1	: Contemporary American, Sushi
+1195	1	: French, Continental
+1196	1	: Italian, Mediterranean, Sicilian
+1197	1	: Mexican / Southwestern, Latin American
+1198	1	: Italian, American
+1199	1	: Contemporary American, Global, International
+1200	1	: Provencal, French
+1201	1	: Seafood, Steak, American
+1202	1	: Seafood, Steak, American
+1203	1	: American, Steak, Seafood
+1204	1	: Steak, American
+1205	1	: Mediterranean
+1206	1	: Contemporary American, Fusion / Eclectic
+1207	1	: German, International
+1208	1	: American, Steakhouse
+1209	1	: American, Brewery
+1210	1	: Mexican, Latin / Spanish
+1211	1	: American, Global, International, Vegetarian
+1212	1	: Italian
+1213	1	: Steakhouse, American
+1214	1	: Contemporary American, Fusion / Eclectic
+1215	1	: Steakhouse, Seafood, American
+1216	1	: American
+1217	1	: Mexican / Southwestern, American
+1218	1	: American
+1219	1	: Italian
+1220	1	: Contemporary American
+1221	1	: Italian
+1222	1	: American
+1223	1	: Italian
+1224	1	: Steak, Seafood
+1225	1	: Italian
+1226	1	: Global, International, American
+1227	1	: Steakhouse, Seafood
+1228	1	: Italian
+1229	1	: Contemporary American, Organic
+1230	1	: Continental, American
+1231	1	: Italian, Mediterranean
+1232	1	: Italian
+1233	1	: American, Contemporary American
+1234	1	: Southwest
+1235	1	: Steakhouse
+1236	1	: Brazilian Steakhouse, Steak, International
+1237	1	: Contemporary American
+1238	1	: Italian, Mediterranean
+1239	1	: Steakhouse
+1240	1	: Contemporary American, Contemporary French
+1241	1	: Contemporary American
+1242	1	: Contemporary American
+1243	1	: Cajun, American
+1244	1	: Steakhouse
+1245	1	: American, Mediterranean
+1246	1	: Continental, Southwest
+1247	1	: Steak, American
+1248	1	: Steak, American
+1249	1	: Southwest
+1250	1	: Comfort Food, American
+1251	1	: American, Southwest
+1252	1	: Greek, Mediterranean
+1253	1	: Contemporary American
+1254	1	: Spanish
+1255	1	: American, Southwest
+1256	1	: Mexican, Mexican / Southwestern
+1257	1	: Italian, Seafood
+1258	1	: American
+1259	1	: Steakhouse, Seafood
+1260	1	: Seafood, Steak, American
+1261	1	: American, Steak
+1262	1	: American, Southwest
+1263	1	: Steakhouse, Seafood
+1264	1	: Italian
+1265	1	: Japanese, Sushi, Steak
+1266	1	: American, Mexican / Southwestern
+1267	1	: Mexican / Southwestern
+1268	1	: Steakhouse, American
+1269	1	: Steak, Seafood
+1270	1	: Mediterranean
+1271	1	: Contemporary American
+1272	1	: American, Steak
+1273	1	: Seafood
+1274	1	: French, Seafood
+1275	1	: American, Seafood
+1276	1	: American
+1277	1	: Steak, American
+1278	1	: Greek, Indian
+1279	1	: Seafood, Steak
+1280	1	: Contemporary American, American, Tapas / Small Plates
+1281	1	: Mediterranean, American, Middle Eastern
+1282	1	: Latin American, Caribbean, South American
+1283	1	: Global, International, Seafood
+1284	1	: Sushi, Asian
+1285	1	: Brazilian, Global, International, Seafood
+1286	1	: Contemporary American
+1287	1	: Contemporary American, American
+1288	1	: Contemporary American, Comfort Food
+1289	1	: Steak, Contemporary American, Seafood
+1290	1	: Contemporary American, Californian
+1291	1	: Contemporary American, Organic
+1292	1	: Californian, Mediterranean
+1293	1	: Italian
+1294	1	: Steak, Seafood, American
+1295	1	: Californian, Contemporary American
+1296	1	: Contemporary American, Contemporary French
+1297	1	: Southeast Asian, Asian
+1298	1	: French, Mediterranean
+1299	1	: French, Californian, Fusion / Eclectic
+1300	1	: Steakhouse, American
+1301	1	: Contemporary American, Comfort Food
+1302	1	: Contemporary American, American, Californian
+1303	1	: Barbecue, Fusion / Eclectic
+1304	1	: Mexican, Latin American, Mexican / Southwestern
+1305	1	: Californian, Contemporary American
+1306	1	: Italian
+1307	1	: American, Steakhouse
+1308	1	: Italian
+1309	1	: American, Californian
+1310	1	: American, European, French
+1311	1	: Californian, French
+1312	1	: French
+1313	1	: French, Mediterranean
+1314	1	: French, European
+1315	1	: Tapas / Small Plates, International, Latin / Spanish
+1316	1	: Latin American, Sushi, Asian
+1317	1	: Seafood, Steak
+1318	1	: Mexican / Southwestern
+1319	1	: Contemporary American, American
+1320	1	: Mexican, Fusion / Eclectic
+1321	1	: Steakhouse, Seafood
+1322	1	: Steak, Seafood
+1323	1	: Mediterranean, Californian
+1324	1	: Mexican, Mexican / Southwestern
+1325	1	: Thai
+1326	1	: Steak, Seafood
+1327	1	: Seafood, Steak
+1328	1	: Seafood, Steak
+1329	1	: Seafood, Steak
+1330	1	: Californian, American
+1331	1	: French
+1332	1	: Fusion / Eclectic
+1333	1	: Californian
+1334	1	: Fusion / Eclectic, Contemporary American
+1335	1	: Steak, American
+1336	1	: American, Steak
+1337	1	: Persian
+1338	1	: Middle Eastern, Persian
+1339	1	: American, Comfort Food
+1340	1	: Californian, French
+1341	1	: Italian
+1342	1	: Latin American, Italian
+1343	1	: Spanish, Tapas / Small Plates
+1344	1	: Seafood
+1345	1	: Thai, Asian
+1346	1	: Italian
+1347	1	: American, Contemporary American
+1348	1	: Continental, Californian
+1349	1	: American, Steak
+1350	1	: French, Italian, American
+1351	1	: Italian
+1352	1	: Mexican
+1353	1	: Mexican
+1354	1	: Greek, Mediterranean
+1355	1	: Seafood, American
+1356	1	: Japanese, Californian
+1357	1	: French, Contemporary French
+1358	1	: Greek, Continental, American
+1359	1	: French, Californian
+1360	1	: Barbecue, Comfort Food
+1361	1	: Japanese, Barbecue, Tapas / Small Plates
+1362	1	: French
+1363	1	: Californian, Contemporary American
+1364	1	: Sushi, Fusion / Eclectic
+1365	1	: Japanese, Asian
+1366	1	: American, Comfort Food
+1367	1	: Californian, Seafood
+1368	1	: Seafood, Steak
+1369	1	: Contemporary American
+1370	1	: Italian, Seafood
+1371	1	: Italian
+1372	1	: Italian, Seafood
+1373	1	: Italian, Seafood
+1374	1	: Indian
+1375	1	: Japanese, Sushi, Asian
+1376	1	: Californian, Steak, Seafood
+1377	1	: Japanese, Sushi
+1378	1	: Japanese, Sushi
+1379	1	: Seafood, Steak, American
+1380	1	: Japanese
+1381	1	: Tapas / Small Plates, Mediterranean
+1382	1	: Mexican
+1383	1	: Steakhouse, Seafood
+1384	1	: Mexican, Seafood
+1385	1	: Contemporary American, Californian
+1386	1	: Italian
+1387	1	: American
+1388	1	: Contemporary American
+1389	1	: American, Bar / Lounge / Bottle Service
+1390	1	: French, Japanese
+1391	1	: French
+1392	1	: Italian
+1393	1	: Californian, American
+1394	1	: Steakhouse, Seafood
+1395	1	: Seafood, Steak, American
+1396	1	: Seafood, Steak, American
+1397	1	: Fondue, Dessert
+1398	1	: Fondue
+1399	1	: Mediterranean, Greek
+1400	1	: Californian, Seafood, American
+1401	1	: American, Californian, Fusion / Eclectic
+1402	1	: American, Steak, Comfort Food
+1403	1	: Californian
+1404	1	: Californian, Barbecue
+1405	1	: American, Californian
+1406	1	: Italian, Mediterranean
+1407	1	: Italian
+1408	1	: Steakhouse, Seafood, American
+1409	1	: American
+1410	1	: Italian
+1411	1	: Seafood, American
+1412	1	: American
+1413	1	: American, Californian
+1414	1	: French, American
+1415	1	: Chinese, Asian
+1416	1	: American, Steak
+1417	1	: International, Continental
+1418	1	: Contemporary American
+1419	1	: Pan-Asian, American
+1420	1	: Californian
+1421	1	: Contemporary American
+1422	1	: French, Southwest
+1423	1	: Seafood, Steak
+1424	1	: Seafood, Steak
+1425	1	: Californian, Contemporary American
+1426	1	: Steak, Seafood, American
+1427	1	: American, Wild Game, Contemporary American
+1428	1	: French
+1429	1	: American, Steak, Seafood
+1430	1	: American, Steakhouse, Seafood
+1431	1	: Global, International
+1432	1	: Contemporary American, Organic
+1433	1	: Contemporary American
+1434	1	: American, Contemporary American
+1435	1	: Steakhouse, Irish, American
+1436	1	: American, Steakhouse, Seafood
+1437	1	: American, Continental
+1438	1	: European, Italian
+1439	1	: Greek
+1440	1	: Californian, Tapas / Small Plates
+1441	1	: American
+1442	1	: American
+1443	1	: Steakhouse, Contemporary American
+1444	1	: American, Californian, European
+1445	1	: Steak, Seafood
+1446	1	: Italian, Californian
+1447	1	: American, Californian
+1448	1	: Steakhouse
+1449	1	: Californian, Contemporary American
+1450	1	: Japanese, Sushi, Asian
+1451	1	: American, Contemporary American
+1452	1	: Contemporary American
+1453	1	: American
+1454	1	: Italian, Mediterranean, Seafood
+1455	1	: Mediterranean, Continental
+1456	1	: Italian
+1457	1	: Steakhouse, American
+1458	1	: American, Californian
+1459	1	: Contemporary American, International
+1460	1	: Californian, Contemporary American
+1461	1	: Asian, Sushi
+1462	1	: Korean, Asian
+1463	1	: Chinese, Asian
+1464	1	: Asian, Japanese, Sushi
+1465	1	: Californian, Gastro Pub
+1466	1	: Chinese
+1467	1	: Italian, American, Californian
+1468	1	: Steakhouse, Italian, Seafood
+1469	1	: American, European, Comfort Food
+1470	1	: American, Steak, Seafood
+1471	1	: American, Comfort Food
+1472	1	: Steak, American
+1473	1	: Seafood, American
+1474	1	: Contemporary American, Contemporary French
+1475	1	: Seafood, Steak
+1476	1	: Contemporary American, Fusion / Eclectic
+1477	1	: Pan-Asian
+1478	1	: Californian, Global, International
+1479	1	: Contemporary American
+1480	1	: Pan-Asian, Latin American, Tapas / Small Plates
+1481	1	: Contemporary American, Global, International
+1482	1	: Contemporary American, Southern
+1483	1	: Italian
+1484	1	: Sushi, French
+1485	1	: Italian
+1486	1	: Northwest, Steak, Seafood
+1487	1	: Mediterranean, Italian
+1488	1	: Steakhouse
+1489	1	: Contemporary American
+1490	1	: Italian, European
+1491	1	: Seafood
+1492	1	: Italian
+1493	1	: French, European
+1494	1	: Contemporary American, Seafood
+1495	1	: Contemporary American
+1496	1	: American
+1497	1	: Contemporary American
+1498	1	: French, American
+1499	1	: American, Comfort Food
+1500	1	: Mediterranean, Italian
+1501	1	: Steakhouse, Comfort Food, Latin / Spanish
+1502	1	: Contemporary American
+1503	1	: Contemporary American, Seafood
+1504	1	: Tapas / Small Plates
+1505	1	: Seafood, American
+1506	1	: Italian
+1507	1	: American, Seafood, Steak
+1508	1	: French
+1509	1	: American, European
+1510	1	: Contemporary American, Modern European, Italian
+1511	1	: French, American
+1512	1	: American
+1513	1	: Seafood, Contemporary American
+1514	1	: Contemporary American, Steak
+1515	1	: American, Contemporary American, Seafood
+1516	1	: Contemporary American, Comfort Food
+1517	1	: Italian
+1518	1	: Seafood, Steak
+1519	1	: American
+1520	1	: Contemporary American, Comfort Food
+1521	1	: Mexican / Southwestern, Contemporary American
+1522	1	: Contemporary American
+1523	1	: Italian, Steak, Seafood
+1524	1	: Seafood, American
+1525	1	: American
+1526	1	: Italian, Seafood
+1527	1	: Italian, Mediterranean
+1528	1	: French, Provencal, American
+1529	1	: American
+1530	1	: Tapas / Small Plates, American
+1531	1	: Steak, American
+1532	1	: Comfort Food, Barbecue
+1533	1	: Japanese
+1534	1	: Italian
+1535	1	: American, Seafood
+1536	1	: Contemporary American, Seafood, Steak
+1537	1	: Contemporary American, Seafood
+1538	1	: Italian
+1539	1	: American, Steakhouse
+1540	1	: American
+1541	1	: Italian
+1542	1	: American
+1543	1	: Brewery, Comfort Food
+1544	1	: Contemporary American, Italian, Seafood
+1545	1	: Indian
+1546	1	: Contemporary American, Fusion / Eclectic
+1547	1	: Italian, European
+1548	1	: French
+1549	1	: Contemporary American
+1550	1	: Seafood
+1551	1	: Seafood
+1552	1	: Seafood
+1553	1	: French
+1554	1	: Contemporary American, Contemporary French
+1555	1	: Tapas / Small Plates, American
+1556	1	: American, Seafood
+1557	1	: Italian, Seafood, Steak
+1558	1	: American
+1559	1	: Contemporary French, Continental
+1560	1	: Comfort Food, Contemporary American
+1561	1	: Southwest
+1562	1	: Contemporary American, Latin / Spanish
+1563	1	: Seafood, Steak, American
+1564	1	: Mediterranean
+1565	1	: Contemporary European
+1566	1	: Steakhouse, Contemporary American, Seafood
+1567	1	: Seafood, Contemporary American
+1568	1	: Steak, Seafood, American
+1569	1	: Asian
+1570	1	: Italian
+1571	1	: Contemporary American, Continental
+1572	1	: Seafood, Steakhouse
+1573	1	: Sushi, Japanese
+1574	1	: Italian
+1575	1	: Italian, American
+1576	1	: American
+1577	1	: Contemporary American, French
+1578	1	: Italian, Mediterranean
+1579	1	: Italian
+1580	1	: French
+1581	1	: Contemporary American, Seafood
+1582	1	: Comfort Food, American
+1583	1	: Indian, Asian
+1584	1	: European, Mediterranean
+1585	1	: Contemporary American
+1586	1	: Contemporary American, Seafood
+1587	1	: Mediterranean
+1588	1	: Italian
+1589	1	: Italian, Mediterranean
+1590	1	: Contemporary American
+1591	1	: Italian, Mediterranean
+1592	1	: European, Modern European, Belgian
+1593	1	: American, Seafood
+1594	1	: Contemporary American
+1595	1	: French, Provencal
+1596	1	: French, Provencal
+1597	1	: American, Steakhouse
+1598	1	: Seafood
+1599	1	: Contemporary American
+1600	1	: Italian, Mediterranean
+1601	1	: American, Contemporary American
+1602	1	: Italian
+1603	1	: Italian
+1604	1	: Continental, Contemporary American
+1605	1	: Seafood, Comfort Food
+1606	1	: Contemporary American, Fusion / Eclectic
+1607	1	: American, Comfort Food
+1608	1	: Steakhouse, American, Sushi
+1609	1	: Contemporary American
+1610	1	: Italian
+1611	1	: Seafood, Italian
+1612	1	: American, Global, International, Fusion / Eclectic
+1613	1	: Contemporary American, American
+1614	1	: Contemporary American, Comfort Food
+1615	1	: Sushi, Asian, Japanese
+1616	1	: Italian, American
+1617	1	: Italian
+1618	1	: Contemporary American
+1619	1	: American, European
+1620	1	: Steakhouse, Sushi
+1621	1	: Contemporary American, Sushi
+1622	1	: Italian, Steak
+1623	1	: Steakhouse, Seafood
+1624	1	: Contemporary American, Californian
+1625	1	: French
+1626	1	: Seafood, Steak
+1627	1	: Californian, Mediterranean
+1628	1	: Steak, Seafood
+1629	1	: Seafood, Steak, Californian
+1630	1	: Contemporary American, Californian
+1631	1	: American
+1632	1	: Asian, Sushi
+1633	1	: Steakhouse, Californian
+1634	1	: American, Mediterranean
+1635	1	: Contemporary American, Continental
+1636	1	: American
+1637	1	: Contemporary American, Seafood, Steak
+1638	1	: Latin American
+1639	1	: Italian
+1640	1	: Indian
+1641	1	: Contemporary American
+1642	1	: Contemporary American
+1643	1	: French
+1644	1	: Steak, Mediterranean
+1645	1	: Cuban, Tapas / Small Plates, Latin American
+1646	1	: Latin American
+1647	1	: Indian
+1648	1	: Italian
+1649	1	: Italian
+1650	1	: American
+1651	1	: Asian, Japanese
+1652	1	: Asian, Japanese
+1653	1	: Fusion / Eclectic, Tapas / Small Plates, Contemporary American
+1654	1	: American
+1655	1	: American, Tapas / Small Plates
+1656	1	: Indian
+1657	1	: Steak
+1658	1	: Mediterranean, Italian, Continental
+1659	1	: Italian
+1660	1	: Italian, American
+1661	1	: Italian
+1662	1	: Scandinavian, Seafood, Wild Game
+1663	1	: Italian
+1664	1	: Contemporary American
+1665	1	: Italian
+1666	1	: American, Contemporary American
+1667	1	: Italian
+1668	1	: American
+1669	1	: French
+1670	1	: Seafood, German, Steak
+1671	1	: Russian, French
+1672	1	: Indian
+1673	1	: American
+1674	1	: American
+1675	1	: Italian
+1676	1	: Italian, Dessert
+1677	1	: Global, International, International
+1678	1	: Indian, Vegetarian
+1679	1	: Italian
+1680	1	: American, Mediterranean
+1681	1	: Italian
+1682	1	: Italian, American
+1683	1	: Contemporary French, French, Tapas / Small Plates
+1684	1	: Italian
+1685	1	: American, Steakhouse
+1686	1	: Mexican / Southwestern
+1687	1	: Indian
+1688	1	: American, Comfort Food
+1689	1	: Mediterranean
+1690	1	: French
+1691	1	: Contemporary American, Comfort Food
+1692	1	: Contemporary American
+1693	1	: Italian, Contemporary American
+1694	1	: Seafood, Sushi
+1695	1	: Latin American, Comfort Food
+1696	1	: Italian, Steakhouse
+1697	1	: Italian
+1698	1	: Contemporary American, Global, International
+1699	1	: African, Global, International
+1700	1	: American, Steak, Seafood
+1701	1	: European
+1702	1	: Italian
+1703	1	: American, English
+1704	1	: American, Contemporary American, Organic
+1705	1	: American
+1706	1	: Italian
+1707	1	: Italian
+1708	1	: French, Steak
+1709	1	: Italian, European, Mediterranean
+1710	1	: American, French, Tapas / Small Plates
+1711	1	: Steak, Seafood
+1712	1	: Italian
+1713	1	: Italian, Comfort Food
+1714	1	: Contemporary American, Sushi, Seafood
+1715	1	: Italian, Tapas / Small Plates
+1716	1	: Indian
+1717	1	: Korean, Asian
+1718	1	: American, Seafood
+1719	1	: Steakhouse, Sushi
+1720	1	: American, Contemporary American
+1721	1	: Italian
+1722	1	: Contemporary American, Italian
+1723	1	: Italian
+1724	1	: Seafood, Steak, American
+1725	1	: Global, International, Tapas / Small Plates
+1726	1	: Contemporary American
+1727	1	: Contemporary American
+1728	1	: Seafood
+1729	1	: Italian
+1730	1	: Contemporary American, Seafood, Steak
+1731	1	: Contemporary French
+1732	1	: American
+1733	1	: Mexican
+1734	1	: Italian, Mediterranean
+1735	1	: Continental, Global, International
+1736	1	: Seafood, Comfort Food
+1737	1	: Italian, American
+1738	1	: Steak, Contemporary American
+1739	1	: Italian
+1740	1	: Steak, Seafood
+1741	1	: Barbecue
+1742	1	: Italian
+1743	1	: Korean
+1744	1	: Italian
+1745	1	: Contemporary Mexican, Mexican
+1746	1	: American, French
+1747	1	: Contemporary American
+1748	1	: American, Barbecue, Comfort Food
+1749	1	: Steak, Seafood
+1750	1	: Contemporary American, Sushi
+1751	1	: Contemporary American
+1752	1	: Italian
+1753	1	: Italian, Seafood
+1754	1	: American, Fusion / Eclectic
+1755	1	: Indonesian / Malaysian
+1756	1	: Mediterranean
+1757	1	: Mediterranean
+1758	1	: Italian
+1759	1	: Seafood
+1760	1	: Seafood
+1761	1	: Italian
+1762	1	: Contemporary American
+1763	1	: American, Contemporary American
+1764	1	: Japanese, Asian
+1765	1	: Latin American, Continental
+1766	1	: Mexican / Southwestern, Mexican
+1767	1	: Steakhouse, Seafood
+1768	1	: Contemporary American, Steak, Seafood
+1769	1	: Italian
+1770	1	: Italian
+1771	1	: American
+1772	1	: Contemporary American, Contemporary French
+1773	1	: American
+1774	1	: American, Contemporary American
+1775	1	: Seafood, Steak
+1776	1	: Japanese, Barbecue, Tapas / Small Plates
+1777	1	: Japanese
+1778	1	: Steakhouse, Seafood
+1779	1	: American
+1780	1	: Japanese
+1781	1	: Cuban, Latin / Spanish
+1782	1	: American, Brewery, Steak
+1783	1	: Contemporary American, American
+1784	1	: Contemporary American
+1785	1	: Contemporary American, American
+1786	1	: Steak, Seafood
+1787	1	: American
+1788	1	: Italian
+1789	1	: Italian, European
+1790	1	: Italian
+1791	1	: Italian
+1792	1	: Japanese
+1793	1	: Indian
+1794	1	: Contemporary American
+1795	1	: Sushi, Japanese
+1796	1	: Contemporary French, French
+1797	1	: French
+1798	1	: Steakhouse, American
+1799	1	: Japanese, Sushi
+1800	1	: Italian
+1801	1	: Mediterranean, Italian
+1802	1	: American
+1803	1	: Contemporary French
+1804	1	: Italian
+1805	1	: International, European
+1806	1	: Contemporary French
+1807	1	: Vietnamese, Asian
+1808	1	: French
+1809	1	: American
+1810	1	: Organic, Californian
+1811	1	: French, Comfort Food
+1812	1	: Gastro Pub, English, British
+1813	1	: Italian, Fusion / Eclectic
+1814	1	: Italian
+1815	1	: Latin American, Tapas / Small Plates, Fusion / Eclectic
+1816	1	: Contemporary American
+1817	1	: Contemporary American
+1818	1	: Italian
+1819	1	: Chinese, Portuguese
+1820	1	: French, Mediterranean
+1821	1	: Italian
+1822	1	: American, Continental
+1823	1	: Barbecue, Seafood, Cajun
+1824	1	: Italian, Mediterranean
+1825	1	: Russian
+1826	1	: Seafood, American
+1827	1	: Italian, Steak, Seafood
+1828	1	: American
+1829	1	: Italian
+1830	1	: Italian
+1831	1	: Asian, Japanese
+1832	1	: Contemporary American, Steak, Seafood
+1833	1	: Seafood, American
+1834	1	: American
+1835	1	: Seafood
+1836	1	: Seafood, Steak, American
+1837	1	: American, Irish, Continental
+1838	1	: Japanese, Sushi, Asian
+1839	1	: Seafood
+1840	1	: Seafood
+1841	1	: Spanish, Tapas / Small Plates
+1842	1	: Italian
+1843	1	: Steakhouse
+1844	1	: Continental
+1845	1	: Sushi, Japanese
+1846	1	: Italian, Organic
+1847	1	: Steak, Seafood, American
+1848	1	: Steak, Seafood, American
+1849	1	: Italian, American
+1850	1	: Italian, Continental
+1851	1	: American, Irish
+1852	1	: Italian
+1853	1	: Seafood, Global, International
+1854	1	: Steakhouse, Steak, Contemporary American
+1855	1	: French, Mediterranean
+1856	1	: Steak, Seafood
+1857	1	: Italian, Mediterranean
+1858	1	: Japanese, Sushi
+1859	1	: Comfort Food, Contemporary American
+1860	1	: Italian
+1861	1	: Contemporary American
+1862	1	: French
+1863	1	: American, Fusion / Eclectic
+1864	1	: Steak, Seafood
+1865	1	: Italian
+1866	1	: Tapas / Small Plates, Latin / Spanish
+1867	1	: Mexican
+1868	1	: Italian
+1869	1	: Italian, Seafood
+1870	1	: French, American
+1871	1	: Italian
+1872	1	: American, Seafood, Steak
+1873	1	: Italian
+1874	1	: Contemporary American, International
+1875	1	: Seafood, Continental
+1876	1	: Italian
+1877	1	: Contemporary American, French, Asian
+1878	1	: Persian, Mediterranean
+1879	1	: Contemporary French, International
+1880	1	: Italian, International
+1881	1	: French
+1882	1	: Italian
+1883	1	: French, Gastro Pub
+1884	1	: Italian
+1885	1	: American, Steak, Seafood
+1886	1	: Italian
+1887	1	: American, Steak
+1888	1	: Steakhouse, Contemporary American
+1889	1	: Steakhouse
+1890	1	: American
+1891	1	: Latin American, Tapas / Small Plates
+1892	1	: American, Mediterranean
+1893	1	: American, Contemporary American
+1894	1	: Contemporary American
+1895	1	: European
+1896	1	: Brazilian Steakhouse, Sushi, Portuguese
+1897	1	: Brazilian Steakhouse, Sushi
+1898	1	: American, Contemporary American, Mediterranean
+1899	1	: Italian
+1900	1	: Steak, Seafood
+1901	1	: Mexican / Southwestern, Contemporary Mexican
+1902	1	: American, Steak
+1903	1	: Italian
+1904	1	: Steak, Seafood, American
+1905	1	: Japanese
+1906	1	: American, Seafood
+1907	1	: Italian, Steak, Seafood
+1908	1	: American
+1909	1	: Continental, American
+1910	1	: American, Mediterranean, Contemporary American
+1911	1	: Contemporary American, Fusion / Eclectic
+1912	1	: Mediterranean, French, Italian
+1913	1	: Mediterranean, Italian
+1914	1	: Persian, Mediterranean
+1915	1	: Japanese
+1916	1	: American
+1917	1	: Steak, Steakhouse, American
+1918	1	: Chinese, Asian
+1919	1	: Mexican
+1920	1	: Steakhouse, Seafood
+1921	1	: Italian
+1922	1	: Italian, Argentinean
+1923	1	: Tapas / Small Plates
+1924	1	: Contemporary American, American
+1925	1	: Contemporary American, American
+1926	1	: Contemporary American, Fusion / Eclectic
+1927	1	: Mexican / Southwestern, Mexican
+1928	1	: Sushi
+1929	1	: American
+1930	1	: Mexican / Southwestern, Latin / Spanish
+1931	1	: Asian, Pan-Asian
+1932	1	: French, Tapas / Small Plates
+1933	1	: Contemporary American, American
+1934	1	: Italian, Steak
+1935	1	: Japanese, Sushi, Steakhouse
+1936	1	: Indian
+1937	1	: Italian, Steak, Seafood
+1938	1	: Steak, Italian
+1939	1	: Contemporary American, Swiss
+1940	1	: American, Brewery
+1941	1	: Turkish
+1942	1	: Italian
+1943	1	: Bar / Lounge / Bottle Service, Contemporary American, Afternoon Tea
+1944	1	: Steakhouse, Seafood
+1945	1	: Italian
+1946	1	: French
+1947	1	: Contemporary American
+1948	1	: Italian, Seafood
+1949	1	: Mediterranean
+1950	1	: American, Comfort Food
+1951	1	: Comfort Food, American
+1952	1	: Italian, American
+1953	1	: Latin American, Tapas / Small Plates
+1954	1	: American, Contemporary American
+1955	1	: Steak, Seafood
+1956	1	: American
+1957	1	: Barbecue
+1958	1	: Mexican / Southwestern
+1959	1	: Vegetarian, Chinese
+1960	1	: Moroccan, Mediterranean, Tapas / Small Plates
+1961	1	: Italian
+1962	1	: Californian
+1963	1	: Contemporary American, Steakhouse
+1964	1	: French
+1965	1	: American, Seafood, Californian
+1966	1	: Californian, Seafood, Scandinavian
+1967	1	: Seafood, Steak
+1968	1	: Steakhouse, Barbecue, Steak
+1969	1	: American, Californian
+1970	1	: Seafood
+1971	1	: Steakhouse, Hawaiian, Sushi
+1972	1	: Steak, Seafood
+1973	1	: Comfort Food, Californian
+1974	1	: Contemporary French, Californian
+1975	1	: Contemporary American, Steak
+1976	1	: Italian
+1977	1	: International
+1978	1	: Seafood, Steak
+1979	1	: American, Comfort Food
+1980	1	: Steakhouse, Steak
+1981	1	: Mexican
+1982	1	: Steakhouse
+1983	1	: Contemporary American, Seafood
+1984	1	: Californian, Contemporary French
+1985	1	: Steak, American
+1986	1	: American, Comfort Food
+1987	1	: Steakhouse, Seafood, American
+1988	1	: Seafood, Asian, Contemporary American
+1989	1	: Californian, Seafood
+1990	1	: Contemporary American, Comfort Food
+1991	1	: American, French, Italian
+1992	1	: Contemporary American
+1993	1	: Fusion / Eclectic, Creole, Mediterranean
+1994	1	: Steakhouse, Steak
+1995	1	: Mediterranean, Seafood
+1996	1	: Contemporary American, Mediterranean
+1997	1	: Mediterranean, Californian, French
+1998	1	: Global, International, Tapas / Small Plates
+1999	1	: Thai, Asian, Pan-Asian

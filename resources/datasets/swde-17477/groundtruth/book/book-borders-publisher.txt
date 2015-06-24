@@ -1,0 +1,2002 @@
+﻿book	borders	publisher
+2000	2000	2000	206
+0000	1	St. Martin&#039;s Press
+0001	1	Knopf Doubleday Publishing Group
+0002	1	Knopf Doubleday Publishing Group
+0003	1	Knopf Doubleday Publishing Group
+0004	1	Penguin Group (USA) Incorporated
+0005	1	St. Martin&#039;s Press
+0006	1	Grand Central Publishing
+0007	1	Hachette Audio
+0008	1	Little Brown &amp; Company
+0009	1	Hyperion Books for Children
+0010	1	Thorndike Press
+0011	1	Harlequin Enterprises, Limited
+0012	1	Simon &amp; Schuster
+0013	1	Simon &amp; Schuster
+0014	1	HarperCollins Publishers
+0015	1	Penguin Group (USA) Incorporated
+0016	1	Miramax Books
+0017	1	Random House Publishing Group
+0018	1	St. Martin&#039;s Press
+0019	1	Random House Children&#039;s Books
+0020	1	Little, Brown Books for Young Readers
+0021	1	Penguin Group (USA) Incorporated
+0022	1	Hyperion Press
+0023	1	Grand Central Publishing
+0024	1	Hachette Audio
+0025	1	HarperCollins Publishers
+0026	1	HarperCollins Publishers
+0027	1	Simon &amp; Schuster
+0028	1	Scholastic, Incorporated
+0029	1	Grand Central Publishing
+0030	1	Harlequin Enterprises, Limited
+0031	1	HarperCollins Publishers
+0032	1	Listening Library
+0033	1	Hachette Audio
+0034	1	Penguin Group (USA) Incorporated
+0035	1	Little Brown &amp; Company
+0036	1	Dutton Children&#039;s
+0037	1	HarperCollins Publishers
+0038	1	Simon &amp; Schuster Children&#039;s Publishing
+0039	1	Random House Publishing Group
+0040	1	Random House Publishing Group
+0041	1	Bantam Books
+0042	1	Little, Brown Books for Young Readers
+0043	1	Listening Library
+0044	1	Hachette Book Group
+0045	1	Random House Publishing Group
+0046	1	Grand Central Publishing
+0047	1	Grand Central Publishing
+0048	1	Scholastic
+0049	1	Thorndike Press
+0050	1	Random House Children&#039;s Books
+0051	1	Bellevue Literary Press
+0052	1	HarperCollins Publishers
+0053	1	Penguin Group (USA) Incorporated
+0054	1	Grand Central Publishing
+0055	1	Grand Central Publishing
+0056	1	Grand Central Publishing
+0057	1	Hachette Audio
+0058	1	Random House Publishing Group
+0059	1	Running Press Book Publishers
+0060	1	Knopf Doubleday Publishing Group
+0061	1	HarperCollins Publishers
+0062	1	St. Martin&#039;s Press
+0063	1	St Martins Pr
+0064	1	Baen Books
+0065	1	Simon &amp; Schuster
+0066	1	Simon &amp; Schuster
+0067	1	Simon &amp; Schuster
+0068	1	St. Martin&#039;s Press
+0069	1	St Martins Pr
+0070	1	Penguin Group (USA) Incorporated
+0071	1	Simon &amp; Schuster
+0072	1	Simon &amp; Schuster
+0073	1	Simon &amp; Schuster
+0074	1	Bbc Audiobooks Amer
+0075	1	HarperCollins Publishers
+0076	1	Knopf Doubleday Publishing Group
+0077	1	Simon &amp; Schuster
+0078	1	HarperCollins Publishers
+0079	1	Bbc Audiobooks Amer
+0080	1	Hachette Audio
+0081	1	Viz Media
+0082	1	Abrams
+0083	1	Penguin Group (USA) Incorporated
+0084	1	Workman Pub Co
+0085	1	HarperCollins Publishers
+0086	1	Random House Publishing Group
+0087	1	St. Martin&#039;s Press
+0088	1	Random House Publishing Group
+0089	1	Random House Publishing Group
+0090	1	HarperCollins Publishers
+0091	1	Listening Library
+0092	1	Penguin Group USA
+0093	1	Penguin Group (USA) Incorporated
+0094	1	Scholastic, Incorporated
+0095	1	Random House
+0096	1	Simon &amp; Schuster Children&#039;s Publishing
+0097	1	Listening Library
+0098	1	Little Brown &amp; Company
+0099	1	Hachette Audio
+0100	1	Random House Publishing Group
+0101	1	Penguin Group (USA) Incorporated
+0102	1	Penguin Group (USA) Incorporated
+0103	1	Penguin Group (USA) Incorporated
+0104	1	Little, Brown Books for Young Readers
+0105	1	Little, Brown Books for Young Readers
+0106	1	Penguin Group (USA) Incorporated
+0107	1	Random House Children&#039;s Books
+0108	1	HarperCollins Publishers
+0109	1	Doherty, Tom Associates, LLC
+0110	1	Doherty, Tom Associates, LLC
+0111	1	Doherty, Tom Associates, LLC
+0112	1	Night Shade Books
+0113	1	Grand Central Publishing
+0114	1	Grand Central Publishing
+0115	1	Blackstone Audio Inc
+0116	1	Blackstone Audio Inc
+0117	1	Crown Publishing Group
+0118	1	Crown Publishing Group
+0119	1	Crown Publishing Group
+0120	1	Grand Central Publishing
+0121	1	Penguin Group (USA) Incorporated
+0122	1	Scholastic, Incorporated
+0123	1	Penguin Group (USA) Incorporated
+0124	1	Crown Publishing Group
+0125	1	Basic Books
+0126	1	HarperCollins Publishers
+0127	1	St. Martin&#039;s Press
+0128	1	HarperCollins Publishers
+0129	1	Random House Publishing Group
+0130	1	Random House
+0131	1	Hyperion Press
+0132	1	Little, Brown Books for Young Readers
+0133	1	Random House Publishing Group
+0134	1	Penguin Group (USA) Incorporated
+0135	1	HarperCollins Publishers
+0136	1	Family Health Publications
+0137	1	Simon &amp; Schuster
+0138	1	Penguin Group (USA) Incorporated
+0139	1	Penguin Group (USA) Incorporated
+0140	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+0141	1	Random House Publishing Group
+0142	1	Kessinger Publishing, LLC
+0143	1	Knopf Doubleday Publishing Group
+0144	1	Blackstone Audio Inc
+0145	1	Norton, W. W. &amp; Company, Incorporated
+0146	1	Penguin Group (USA) Incorporated
+0147	1	Tantor Media, Incorporated
+0148	1	CRW Publishing, Limited
+0149	1	Penguin Group (USA) Incorporated
+0150	1	Broadview Press
+0151	1	Barnes &amp; Noble, Incorporated
+0152	1	Random House
+0153	1	Penguin Group USA
+0154	1	Doherty, Tom Associates, LLC
+0155	1	Little Brown &amp; Company
+0156	1	Hachette Audio
+0157	1	Square Fish
+0158	1	Random House Publishing Group
+0159	1	Grand Central Publishing
+0160	1	Grand Central Publishing
+0161	1	Penguin Group (USA) Incorporated
+0162	1	HarperCollins Publishers
+0163	1	Grand Central Publishing
+0164	1	Grand Central Publishing
+0165	1	Hachette Audio
+0166	1	Knopf Doubleday Publishing Group
+0167	1	Random House, Incorporated
+0168	1	Simon &amp; Schuster
+0169	1	Cook, David C. Publishing Company
+0170	1	Random House
+0171	1	Random House
+0172	1	Random House Publishing Group
+0173	1	Knopf Doubleday Publishing Group
+0174	1	San Val, Incorporated
+0175	1	Tantor Media Inc
+0176	1	Random House Publishing Group
+0177	1	Random House
+0178	1	Simon &amp; Schuster, Incorporated
+0179	1	Simon &amp; Schuster
+0180	1	Simon &amp; Schuster
+0181	1	Simon &amp; Schuster
+0182	1	Zondervan
+0183	1	Zondervan
+0184	1	Scholastic, Incorporated
+0185	1	HarperCollins Publishers
+0186	1	Broadway Books
+0187	1	Random House
+0188	1	Penguin Group (USA) Incorporated
+0189	1	Harlequin Enterprises, Limited
+0190	1	Random House Children&#039;s Books
+0191	1	Knopf Doubleday Publishing Group
+0192	1	Knopf Doubleday Publishing Group
+0193	1	Random House Publishing Group
+0194	1	Random House Publishing Group
+0195	1	Little Brown &amp; Company
+0196	1	Hachette Audio
+0197	1	HarperCollins Publishers
+0198	1	HarperCollins Publishers
+0199	1	Hyperion Press
+0200	1	Penguin Group (USA) Incorporated
+0201	1	St. Martin&#039;s Press
+0202	1	St. Martin&#039;s Press
+0203	1	Simon &amp; Schuster Children&#039;s Publishing
+0204	1	Simon &amp; Schuster Children&#039;s Publishing
+0205	1	St. Martin&#039;s Press
+0206	1	St Martins Pr
+0207	1	St. Martin&#039;s Press
+0208	1	Knopf Doubleday Publishing Group
+0209	1	Simon &amp; Schuster Children&#039;s Publishing
+0210	1	Scholastic, Incorporated
+0211	1	Random House Publishing Group
+0212	1	Tantor Media Inc
+0213	1	Knopf Doubleday Publishing Group
+0214	1	Broadview Press
+0215	1	CRW Publishing, Limited
+0216	1	Penguin Group (USA) Incorporated
+0217	1	Oxford University Press, Incorporated
+0218	1	Random House Publishing Group
+0219	1	Kessinger Publishing, LLC
+0220	1	Bedford/ Saint Martin&#039;s
+0221	1	Bantam Books
+0222	1	Globe Fearon Educational Publishing
+0223	1	Penguin Group (USA) Incorporated
+0224	1	Workman Pub Co
+0225	1	Penguin Group (USA) Incorporated
+0226	1	Knopf Doubleday Publishing Group
+0227	1	Simon &amp; Schuster
+0228	1	Hachette Audio
+0229	1	Little Brown &amp; Company
+0230	1	St. Martin&#039;s Press
+0231	1	Random House Publishing Group
+0232	1	Hachette Audio
+0233	1	Knopf Doubleday Publishing Group
+0234	1	Thorndike Press
+0235	1	Penguin Group (USA) Incorporated
+0236	1	HarperCollins Publishers
+0237	1	HarperCollins Publishers
+0238	1	HarperCollins Publishers
+0239	1	Crown Publishing Group
+0240	1	Knopf Doubleday Publishing Group
+0241	1	Knopf Doubleday Publishing Group
+0242	1	Simon &amp; Schuster
+0243	1	Penguin Group (USA) Incorporated
+0244	1	Baker Pub Group
+0245	1	Crown Publishing Group
+0246	1	Knopf Doubleday Publishing Group
+0247	1	St. Martin&#039;s Press
+0248	1	Penguin Group (USA) Incorporated
+0249	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+0250	1	Random House Publishing Group
+0251	1	Tantor Media, Incorporated
+0252	1	Barnes &amp; Noble, Incorporated
+0253	1	Scholastic, Incorporated
+0254	1	Blackstone Audio Inc
+0255	1	Cbc Radio Canada
+0256	1	Simon &amp; Schuster
+0257	1	Wiley, John &amp; Sons, Incorporated
+0258	1	Random House Publishing Group
+0259	1	Doherty, Tom Associates, LLC
+0260	1	Dover Publications, Incorporated
+0261	1	Penguin Group (USA) Incorporated
+0262	1	Penguin Group (USA) Incorporated
+0263	1	Penguin Group (USA) Incorporated
+0264	1	Penguin Group USA
+0265	1	Penguin Group (USA) Incorporated
+0266	1	Penguin Group (USA) Incorporated
+0267	1	American Girl Publishing, Incorporated
+0268	1	Little Brown &amp; Company
+0269	1	Macmillan Audio
+0270	1	Penguin Group (USA) Incorporated
+0271	1	Thorndike Press
+0272	1	Penguin Group (USA) Incorporated
+0273	1	Harlequin Enterprises, Limited
+0274	1	Simon &amp; Schuster Children&#039;s Publishing
+0275	1	Simon &amp; Schuster, Incorporated
+0276	1	Simon &amp; Schuster Children&#039;s Publishing
+0277	1	Scholastic, Incorporated
+0278	1	Holt, Henry &amp; Company
+0279	1	St. Martin&#039;s Press
+0280	1	Penguin Group (USA) Incorporated
+0281	1	Knopf Doubleday Publishing Group
+0282	1	HarperCollins Publishers
+0283	1	Random House Publishing Group
+0284	1	Random House Adult Trade Publishing Group
+0285	1	Barnes &amp; Noble, Incorporated
+0286	1	Broadview Press
+0287	1	Bbc Audiobooks Amer
+0288	1	Blackstone Audio Inc
+0289	1	Random House Publishing Group
+0290	1	Simon &amp; Schuster
+0291	1	Penguin Group (USA) Incorporated
+0292	1	Tantor Media, Incorporated
+0293	1	Wiley, John &amp; Sons, Incorporated
+0294	1	Barron&#039;s Educational Series, Incorporated
+0295	1	Tantor Media Inc
+0296	1	Random House
+0297	1	Penguin Group (USA) Incorporated
+0298	1	Random House
+0299	1	Random House Adult Trade Publishing Group
+0300	1	Kessinger Publishing, LLC
+0301	1	Viz Media
+0302	1	St Martins Pr
+0303	1	HarperCollins Publishers
+0304	1	Penguin Group (USA) Incorporated
+0305	1	Penguin Group (USA) Incorporated
+0306	1	Penguin Group (USA) Incorporated
+0307	1	Scholastic, Incorporated
+0308	1	Blackstone Audio Inc
+0309	1	Harperaudio
+0310	1	Simon &amp; Schuster Children&#039;s Publishing
+0311	1	Walker &amp; Company
+0312	1	Simon &amp; Schuster Children&#039;s Publishing
+0313	1	Listening Library
+0314	1	Little, Brown Books for Young Readers
+0315	1	HarperCollins Publishers
+0316	1	Grand Central Publishing
+0317	1	Grand Central Publishing
+0318	1	Random House Children&#039;s Books
+0319	1	Hyperion Books for Children
+0320	1	Knopf Publishing Group
+0321	1	Wizards of the Coast
+0322	1	Penguin Group (USA) Incorporated
+0323	1	HarperCollins Publishers
+0324	1	St. Martin&#039;s Press
+0325	1	Llewellyn Publications
+0326	1	Random House
+0327	1	Knopf Publishing Group
+0328	1	Grand Central Publishing
+0329	1	Hachette Audio
+0330	1	HarperCollins Publishers
+0331	1	HarperCollins Publishers
+0332	1	Harpercollins Childrens
+0333	1	Simon &amp; Schuster
+0334	1	St. Martin&#039;s Press
+0335	1	St. Martin&#039;s Press
+0336	1	Dorling Kindersley Publishing, Incorporated
+0337	1	Simon &amp; Schuster Children&#039;s Publishing
+0338	1	Candlewick Press
+0339	1	San Val, Incorporated
+0340	1	Candlewick Press
+0341	1	Candlewick Press
+0342	1	Candlewick Press
+0343	1	Hyperion Press
+0344	1	Crown Publishing Group
+0345	1	Tantor Media Inc
+0346	1	Tantor Media Inc
+0347	1	Simon &amp; Schuster
+0348	1	Random House Publishing Group
+0349	1	Dell Publishing
+0350	1	Random House Publishing Group
+0351	1	Harlequin Enterprises, Limited
+0352	1	HarperCollins Publishers
+0353	1	Random House, Incorporated
+0354	1	Random House Publishing Group
+0355	1	Borders Group Inc
+0356	1	Miramax Books
+0357	1	Hyperion Press
+0358	1	Random House Publishing Group
+0359	1	Random House
+0360	1	Random House Large Print
+0361	1	Random House Publishing Group
+0362	1	Random House Publishing Group
+0363	1	HarperCollins Publishers
+0364	1	St Martins Pr
+0365	1	Random House Publishing Group
+0366	1	Simon &amp; Schuster Children&#039;s Publishing
+0367	1	San Val, Incorporated
+0368	1	San Val, Incorporated
+0369	1	Listening Library
+0370	1	Santillana USA Publishing Company, Incorporated
+0371	1	Little Brown &amp; Company
+0372	1	Little Brown &amp; Company
+0373	1	Simon &amp; Schuster
+0374	1	Doherty, Tom Associates, LLC
+0375	1	Scholastic, Incorporated
+0376	1	St. Martin&#039;s Press
+0377	1	St. Martin&#039;s Press
+0378	1	Macmillan Audio
+0379	1	Random House Publishing Group
+0380	1	Harlequin Enterprises, Limited
+0381	1	Penguin Group (USA) Incorporated
+0382	1	Broadway Books
+0383	1	Random House Children&#039;s Books
+0384	1	Random House Children&#039;s Books
+0385	1	HarperCollins Publishers
+0386	1	Tantor Media Inc
+0387	1	Little Brown &amp; Company
+0388	1	Random House Publishing Group
+0389	1	Random House Publishing Group
+0390	1	Bantam Books
+0391	1	Disney Press
+0392	1	Little, Brown Books for Young Readers
+0393	1	Thomas Nelson Inc
+0394	1	HarperCollins Publishers
+0395	1	Penguin Group (USA) Incorporated
+0396	1	Simon &amp; Schuster
+0397	1	Hachette Audio
+0398	1	Hachette Audio
+0399	1	Penguin Group (USA) Incorporated
+0400	1	FT Press
+0401	1	Random House Children&#039;s Books
+0402	1	St. Martin&#039;s Press
+0403	1	Simon &amp; Schuster
+0404	1	Little, Brown Books for Young Readers
+0405	1	Penguin Group (USA) Incorporated
+0406	1	Thorndike Press
+0407	1	Regnery Publishing, Incorporated, An Eagle Publish
+0408	1	HarperCollins Publishers
+0409	1	HarperCollins Publishers
+0410	1	Grand Central Publishing
+0411	1	Simon &amp; Schuster
+0412	1	San Val, Incorporated
+0413	1	Random House Children&#039;s Books
+0414	1	Hachette Audio
+0415	1	Penguin Group (USA) Incorporated
+0416	1	Random House Children&#039;s Books
+0417	1	Random House Children&#039;s Books
+0418	1	Grand Central Publishing
+0419	1	Little Brown &amp; Company
+0420	1	Hyperion Press
+0421	1	Hyperion Press
+0422	1	HarperCollins Publishers
+0423	1	Nelson, Thomas Incorporated
+0424	1	Little, Brown Books for Young Readers
+0425	1	Wiley, John &amp; Sons, Incorporated
+0426	1	Penguin Group (USA) Incorporated
+0427	1	Random House Publishing Group
+0428	1	Crown Publishing Group
+0429	1	Little Brown &amp; Company
+0430	1	Little Brown &amp; Company
+0431	1	Hachette Audio
+0432	1	Penguin Group (USA) Incorporated
+0433	1	Roaring Brook Press
+0434	1	Simon &amp; Schuster Children&#039;s Publishing
+0435	1	Workman Pub Co
+0436	1	Random House Children&#039;s Books
+0437	1	Random House Children&#039;s Books
+0438	1	Random House Publishing Group
+0439	1	HarperCollins Publishers
+0440	1	Houghton Mifflin Harcourt Publishing Company
+0441	1	Little Brown &amp; Company
+0442	1	Grand Central Publishing
+0443	1	Macmillan Audio
+0444	1	Penguin Group (USA) Incorporated
+0445	1	Norton, W. W. &amp; Company, Incorporated
+0446	1	Oxford University Press, Incorporated
+0447	1	McGraw-Hill Higher Education
+0448	1	Random House Publishing Group
+0449	1	Buccaneer Books, Incorporated
+0450	1	Penguin Group USA
+0451	1	Penguin Group (USA) Incorporated
+0452	1	Little Brown &amp; Company
+0453	1	Little Brown &amp; Company
+0454	1	Penguin Group (USA) Incorporated
+0455	1	Rand McNally
+0456	1	Amer Book Co
+0457	1	Norton, W. W. &amp; Company, Incorporated
+0458	1	CRW Publishing, Limited
+0459	1	Naxos of America, Incorporated
+0460	1	Dover Publications, Incorporated
+0461	1	Consortium Book Sales &amp; Distribution
+0462	1	Book Sales, Incorporated
+0463	1	El Paso Norte Press
+0464	1	Tantor Media Inc
+0465	1	Penguin Group (USA) Incorporated
+0466	1	Little Brown &amp; Company
+0467	1	Hyperion Press
+0468	1	Scholastic, Incorporated
+0469	1	Penguin Group (USA) Incorporated
+0470	1	Penguin Group (USA) Incorporated
+0471	1	Random House Information Group
+0472	1	Random House Children&#039;s Books
+0473	1	Little Brown &amp; Company
+0474	1	Penguin Group (USA) Incorporated
+0475	1	Listening Library
+0476	1	Random House Children&#039;s Books
+0477	1	HarperCollins Publishers
+0478	1	Random House Children&#039;s Books
+0479	1	Random House Children&#039;s Books
+0480	1	Penguin Group (USA) Incorporated
+0481	1	Blackstone Audio Inc
+0482	1	Penguin Group (USA) Incorporated
+0483	1	Health Communications, Incorporated
+0484	1	Random House Publishing Group
+0485	1	Wiley, John &amp; Sons, Incorporated
+0486	1	Knopf Doubleday Publishing Group
+0487	1	Doherty, Tom Associates, LLC
+0488	1	Penguin Group (USA) Incorporated
+0489	1	Bantam Books
+0490	1	Dover Publications, Incorporated
+0491	1	Simon &amp; Schuster
+0492	1	Oxford University Press, Incorporated
+0493	1	Blackstone Audio Inc
+0494	1	Tantor Media, Incorporated
+0495	1	Doherty, Tom Associates, LLC
+0496	1	HarperCollins Publishers
+0497	1	Little Brown &amp; Company
+0498	1	Grand Central Publishing
+0499	1	Little Brown &amp; Company
+0500	1	HarperCollins Publishers
+0501	1	Little Brown &amp; Company
+0502	1	Hachette Audio
+0503	1	Penguin Group (USA) Incorporated
+0504	1	Grand Central Publishing
+0505	1	Grand Central Publishing
+0506	1	Grand Central Publishing
+0507	1	Kensington Publishing Corporation
+0508	1	Grand Central Publishing
+0509	1	Bbc Audiobooks Amer
+0510	1	Buccaneer Books, Incorporated
+0511	1	Grand Central Publishing
+0512	1	Random House Publishing Group
+0513	1	Random House Large Print
+0514	1	Grand Central Publishing
+0515	1	Grand Central Publishing
+0516	1	Square Fish
+0517	1	Penguin Group (USA) Incorporated
+0518	1	Square Fish
+0519	1	Random House Children&#039;s Books
+0520	1	Crown Publishing Group
+0521	1	Random House Publishing Group
+0522	1	Scholastic, Incorporated
+0523	1	Penguin Group (USA) Incorporated
+0524	1	Penguin Group USA
+0525	1	Dorling Kindersley Publishing, Incorporated
+0526	1	HarperCollins Publishers
+0527	1	Hyperion Press
+0528	1	Random House Children&#039;s Books
+0529	1	Penguin Group (USA) Incorporated
+0530	1	Penguin Group (USA) Incorporated
+0531	1	McGraw-Hill Higher Education
+0532	1	Random House Publishing Group
+0533	1	Blackstone Audio Inc
+0534	1	Oxford University Press, Incorporated
+0535	1	Spark Publishing Group
+0536	1	Knopf Doubleday Publishing Group
+0537	1	Little Brown &amp; Company
+0538	1	Spiegel &amp; Grau
+0539	1	Penguin Group (USA) Incorporated
+0540	1	Simon &amp; Schuster
+0541	1	Candlewick Press
+0542	1	Simon &amp; Schuster Children&#039;s Publishing
+0543	1	St. Martin&#039;s Press
+0544	1	Penguin Group (USA) Incorporated
+0545	1	Random House Publishing Group
+0546	1	Dover Publications, Incorporated
+0547	1	Plaza &amp; Janes Editories, S.A.
+0548	1	Palgrave Macmillan
+0549	1	Steerforth Press
+0550	1	Random House Children&#039;s Books
+0551	1	Bloomsbury Publishing Plc
+0552	1	Barron&#039;s Educational Series, Incorporated
+0553	1	Penguin Group (USA) Incorporated
+0554	1	Doherty, Tom Associates, LLC
+0555	1	Cocytus Press
+0556	1	Edimat Libros, S. A.
+0557	1	Universe Publishing
+0558	1	Classical Comics
+0559	1	Broadview Press
+0560	1	Barron&#039;s Educational Series, Incorporated
+0561	1	Bedford/ Saint Martin&#039;s
+0562	1	Papercutz
+0563	1	Hachette Audio
+0564	1	Hachette Audio
+0565	1	San Val, Incorporated
+0566	1	HarperCollins Publishers
+0567	1	Blackstone Audio Inc
+0568	1	Simon &amp; Schuster
+0569	1	HarperCollins Publishers
+0570	1	Random House Children&#039;s Books
+0571	1	Random House Publishing Group
+0572	1	Bantam Books
+0573	1	Random House Publishing Group
+0574	1	Simon &amp; Schuster
+0575	1	Simon &amp; Schuster Childrens
+0576	1	Simon &amp; Schuster Children&#039;s Publishing
+0577	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+0578	1	Penguin Group (USA) Incorporated
+0579	1	Hachette Audio
+0580	1	Penguin Group (USA) Incorporated
+0581	1	Penguin Group (USA) Incorporated
+0582	1	Penguin Group (USA) Incorporated
+0583	1	Scholastic, Incorporated
+0584	1	Knopf Doubleday Publishing Group
+0585	1	Simon &amp; Schuster Children&#039;s Publishing
+0586	1	San Val, Incorporated
+0587	1	Random House Children&#039;s Books
+0588	1	Hazelden Publishing &amp; Educational Services
+0589	1	Random House, Incorporated
+0590	1	Random House, Incorporated
+0591	1	Random House, Incorporated
+0592	1	Little Brown &amp; Company
+0593	1	Simon &amp; Schuster
+0594	1	Simon &amp; Schuster
+0595	1	St. Martin&#039;s Press
+0596	1	St. Martin&#039;s Press
+0597	1	Random House Children&#039;s Books
+0598	1	Doubleday Religious Publishing Grou, The
+0599	1	Grand Central Publishing
+0600	1	Penguin Group (USA) Incorporated
+0601	1	Penguin Group (USA) Incorporated
+0602	1	Penguin Group (USA) Incorporated
+0603	1	Grand Central Publishing
+0604	1	Tantor Media Inc
+0605	1	Little Brown &amp; Company
+0606	1	Random House Publishing Group
+0607	1	Little Brown &amp; Company
+0608	1	Hachette Audio
+0609	1	Random House Children&#039;s Books
+0610	1	Simon &amp; Schuster Children&#039;s Publishing
+0611	1	Simon &amp; Schuster Children&#039;s Publishing
+0612	1	Simon &amp; Schuster Children&#039;s Publishing
+0613	1	Penguin Group (USA) Incorporated
+0614	1	Square Fish
+0615	1	Hachette Audio
+0616	1	Grand Central Publishing
+0617	1	Grand Central Publishing
+0618	1	Penguin Group (USA) Incorporated
+0619	1	Penguin Group (USA) Incorporated
+0620	1	Grove/ Atlantic, Incorporated
+0621	1	Tantor Media Inc
+0622	1	Little Brown &amp; Company
+0623	1	Simon &amp; Schuster
+0624	1	Knopf Doubleday Publishing Group
+0625	1	Simon &amp; Schuster Children&#039;s Publishing
+0626	1	Random House Large Print
+0627	1	Little Brown &amp; Company
+0628	1	St. Martin&#039;s Press
+0629	1	Simon &amp; Schuster Children&#039;s Publishing
+0630	1	Penguin Group (USA) Incorporated
+0631	1	Random House Children&#039;s Books
+0632	1	Harlequin Enterprises, Limited
+0633	1	Random House Children&#039;s Books
+0634	1	Simon &amp; Schuster
+0635	1	Workman Publishing Company, Incorporated
+0636	1	Grove/ Atlantic, Incorporated
+0637	1	Simon &amp; Schuster
+0638	1	Thorndike Press
+0639	1	Penguin Group (USA) Incorporated
+0640	1	HarperCollins Publishers
+0641	1	Abrams
+0642	1	Grand Central Publishing
+0643	1	Hachette Audio
+0644	1	Knopf Doubleday Publishing Group
+0645	1	Doubleday Religious Publishing Grou, The
+0646	1	Knopf Publishing Group
+0647	1	Hachette Audio
+0648	1	Little Brown &amp; Company
+0649	1	Little Brown &amp; Company
+0650	1	HarperCollins Publishers
+0651	1	HarperCollins Publishers
+0652	1	HarperCollins Publishers
+0653	1	St. Martin&#039;s Press
+0654	1	Simon &amp; Schuster
+0655	1	CRW Publishing, Limited
+0656	1	Steck-Vaughn
+0657	1	Penguin Group (USA) Incorporated
+0658	1	Bbc Audiobooks Amer
+0659	1	Penguin Group (USA) Incorporated
+0660	1	Blackstone Audio Inc
+0661	1	Perfection Learning Corporation
+0662	1	Blackstone Audio Inc
+0663	1	San Val, Incorporated
+0664	1	Random House Children&#039;s Books
+0665	1	Simon &amp; Schuster Children&#039;s Publishing
+0666	1	Penguin Group (USA) Incorporated
+0667	1	HarperCollins Publishers
+0668	1	Random House Children&#039;s Books
+0669	1	HarperCollins Publishers
+0670	1	Random House Children&#039;s Books
+0671	1	Random House Children&#039;s Books
+0672	1	Random House Large Print
+0673	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+0674	1	Dark Horse Comics
+0675	1	Simon &amp; Schuster Children&#039;s Publishing
+0676	1	Penguin Group (USA) Incorporated
+0677	1	Knopf Doubleday Publishing Group
+0678	1	Grand Central Publishing
+0679	1	Scholastic, Incorporated
+0680	1	Simon &amp; Schuster
+0681	1	Little, Brown Books for Young Readers
+0682	1	Grand Central Publishing
+0683	1	Grand Central Publishing
+0684	1	Penguin Group (USA) Incorporated
+0685	1	HarperCollins Publishers
+0686	1	San Val, Incorporated
+0687	1	HarperCollins Publishers
+0688	1	Random House Publishing Group
+0689	1	Penguin Group (USA) Incorporated
+0690	1	Random House Publishing Group
+0691	1	Amer Book Co
+0692	1	HarperCollins Publishers
+0693	1	Penguin Group (USA) Incorporated
+0694	1	HarperCollins Publishers
+0695	1	Holt, Henry &amp; Company
+0696	1	Simon &amp; Schuster
+0697	1	Triumph Books
+0698	1	Penguin Group (USA) Incorporated
+0699	1	Penguin Group (USA) Incorporated
+0700	1	HarperCollins Publishers
+0701	1	Simon &amp; Schuster
+0702	1	Blackstone Audio Inc
+0703	1	Penguin Group (USA) Incorporated
+0704	1	Grand Central Publishing
+0705	1	Hachette Audio
+0706	1	San Val, Incorporated
+0707	1	Random House Children&#039;s Books
+0708	1	St. Martin&#039;s Press
+0709	1	Family Health Publications
+0710	1	Penguin Group (USA) Incorporated
+0711	1	Simon &amp; Schuster
+0712	1	HarperCollins Publishers
+0713	1	Random House Publishing Group
+0714	1	St. Martin&#039;s Press
+0715	1	St Martins Pr
+0716	1	Viz Media
+0717	1	Workman Pub Co
+0718	1	Penguin Group (USA) Incorporated
+0719	1	Penguin Group (USA) Incorporated
+0720	1	Random House
+0721	1	Hyperion Press
+0722	1	Simon &amp; Schuster Children&#039;s Publishing
+0723	1	Random House
+0724	1	Simon &amp; Schuster
+0725	1	Penguin Group (USA) Incorporated
+0726	1	Simon &amp; Schuster Children&#039;s Publishing
+0727	1	Random House Publishing Group
+0728	1	Random House
+0729	1	Random House, Incorporated
+0730	1	Grand Central Publishing
+0731	1	Knopf Doubleday Publishing Group
+0732	1	Random House Publishing Group
+0733	1	Random House Publishing Group
+0734	1	HarperCollins Publishers
+0735	1	HarperCollins Publishers
+0736	1	Grand Central Publishing
+0737	1	Simon &amp; Schuster
+0738	1	Grand Central Publishing
+0739	1	Grand Central Publishing
+0740	1	Grand Central Publishing
+0741	1	Random House
+0742	1	Knopf Doubleday Publishing Group
+0743	1	Simon &amp; Schuster
+0744	1	Simon &amp; Schuster
+0745	1	Random House Publishing Group
+0746	1	Zondervan
+0747	1	Grand Central Publishing
+0748	1	Penguin Group (USA) Incorporated
+0749	1	Penguin Group (USA) Incorporated
+0750	1	Random House Children&#039;s Books
+0751	1	Random House
+0752	1	Crown Publishing Group
+0753	1	HarperCollins Publishers
+0754	1	Rodale Press, Incorporated
+0755	1	HarperCollins Publishers
+0756	1	Penguin Group (USA) Incorporated
+0757	1	Simon &amp; Schuster Children&#039;s Publishing
+0758	1	Bethany House Publishers
+0759	1	Viz Media
+0760	1	Walker &amp; Company
+0761	1	Listening Library
+0762	1	Penguin Group (USA) Incorporated
+0763	1	Crown Publishing Group
+0764	1	Little Brown &amp; Company
+0765	1	Penguin Group (USA) Incorporated
+0766	1	Simon &amp; Schuster Children&#039;s Publishing
+0767	1	Simon &amp; Schuster
+0768	1	Harlequin Enterprises, Limited
+0769	1	HarperCollins Publishers
+0770	1	Harlequin Enterprises, Limited
+0771	1	HarperCollins Publishers
+0772	1	Random House, Incorporated
+0773	1	Harlequin Enterprises, Limited
+0774	1	HarperCollins Publishers
+0775	1	Penguin Group (USA) Incorporated
+0776	1	Random House Children&#039;s Books
+0777	1	Harry Abrams
+0778	1	Random House Publishing Group
+0779	1	Scholastic, Incorporated
+0780	1	Penguin Group (USA) Incorporated
+0781	1	Hay House, Incorporated
+0782	1	Penguin Group (USA) Incorporated
+0783	1	Penguin Group (USA) Incorporated
+0784	1	Scholastic, Incorporated
+0785	1	Kids Can Press, Limited
+0786	1	Blackstone Audio Inc
+0787	1	Penguin Group (USA) Incorporated
+0788	1	Knopf Doubleday Publishing Group
+0789	1	Amber-Allen Publishing, Incorporated
+0790	1	Penguin Group (USA) Incorporated
+0791	1	Rodale Press, Incorporated
+0792	1	Knopf Doubleday Publishing Group
+0793	1	HarperCollins Publishers
+0794	1	Grand Central Publishing
+0795	1	Grand Central Publishing
+0796	1	Random House Children&#039;s Books
+0797	1	Scholastic, Incorporated
+0798	1	Grand Central Publishing
+0799	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+0800	1	HarperCollins Publishers
+0801	1	HarperCollins Publishers
+0802	1	Little Brown &amp; Company
+0803	1	Penguin Group (USA) Incorporated
+0804	1	Random House
+0805	1	Shambhala Publications, Incorporated
+0806	1	Wiley, John &amp; Sons, Incorporated
+0807	1	San Val, Incorporated
+0808	1	Random House Publishing Group
+0809	1	Bantam Books
+0810	1	Random House Publishing Group
+0811	1	Wizards of the Coast
+0812	1	Penguin Group (USA) Incorporated
+0813	1	Windsor Peak Press
+0814	1	St. Martin&#039;s Press
+0815	1	Watson-Guptill Publications, Incorporated
+0816	1	Penguin Group (USA) Incorporated
+0817	1	Penguin Group (USA) Incorporated
+0818	1	St. Martin&#039;s Press
+0819	1	St Martins Pr
+0820	1	Basic Books
+0821	1	Random House Children&#039;s Books
+0822	1	Penguin Group (USA) Incorporated
+0823	1	Knopf Doubleday Publishing Group
+0824	1	Penguin Group (USA) Incorporated
+0825	1	Walker &amp; Company
+0826	1	Penguin Group (USA) Incorporated
+0827	1	Penguin Group (USA) Incorporated
+0828	1	TOKYOPOP, Incorporated
+0829	1	Naxos Audio Books
+0830	1	Barron&#039;s Educational Series, Incorporated
+0831	1	Random House
+0832	1	Doherty, Tom Associates, LLC
+0833	1	Penguin Group USA
+0834	1	Four Corners Books
+0835	1	Oxford University Press, Incorporated
+0836	1	Blackstone Audio Inc
+0837	1	Bedford/ Saint Martin&#039;s
+0838	1	EDC Publishing
+0839	1	Sterling Publishing Co., Inc.
+0840	1	Book Sales, Incorporated
+0841	1	San Val, Incorporated
+0842	1	Random House Publishing Group
+0843	1	Ediciones B
+0844	1	Edimat Libros, S. A.
+0845	1	Knopf Doubleday Publishing Group
+0846	1	Knopf Doubleday Publishing Group
+0847	1	Little, Brown Books for Young Readers
+0848	1	HarperCollins Publishers
+0849	1	Penguin Group (USA) Incorporated
+0850	1	Penguin Group (USA) Incorporated
+0851	1	Random House Children&#039;s Books
+0852	1	Random House Children&#039;s Books
+0853	1	Random House Children&#039;s Books
+0854	1	Penguin Group (USA) Incorporated
+0855	1	Dorchester Publishing Company, Incorporated
+0856	1	Random House Publishing Group
+0857	1	Random House
+0858	1	Random House Adult Trade Publishing Group
+0859	1	Ten Speed Press
+0860	1	Little, Brown Books for Young Readers
+0861	1	Random House Children&#039;s Books
+0862	1	Random House Publishing Group
+0863	1	Random House Publishing Group
+0864	1	Penguin Group (USA) Incorporated
+0865	1	Square Fish
+0866	1	Crown Publishing Group
+0867	1	Tantor Media Inc
+0868	1	Random House Large Print
+0869	1	St. Martin&#039;s Press
+0870	1	Doherty, Tom Associates, LLC
+0871	1	Broadway Books
+0872	1	Penguin Group (USA) Incorporated
+0873	1	Penguin Group (USA) Incorporated
+0874	1	Holt, Henry &amp; Company
+0875	1	St Martins Pr
+0876	1	HarperCollins Publishers
+0877	1	Random House, Incorporated
+0878	1	Random House Children&#039;s Books
+0879	1	Random House, Incorporated
+0880	1	Random House Information Group
+0881	1	Wizard Publications, Incorporated
+0882	1	Random House Children&#039;s Books
+0883	1	San Val, Incorporated
+0884	1	Random House Children&#039;s Books
+0885	1	Random House Children&#039;s Books
+0886	1	Nelson, Thomas Incorporated
+0887	1	Oasis Audio
+0888	1	HarperCollins Publishers
+0889	1	St. Martin&#039;s Press
+0890	1	Simon &amp; Schuster
+0891	1	HarperCollins Publishers
+0892	1	Doherty, Tom Associates, LLC
+0893	1	Doherty, Tom Associates, LLC
+0894	1	Doherty, Tom Associates, LLC
+0895	1	Doherty, Tom Associates, LLC
+0896	1	St. Martin&#039;s Press
+0897	1	Random House Children&#039;s Books
+0898	1	Random House Children&#039;s Books
+0899	1	Penguin Group (USA) Incorporated
+0900	1	Penguin Group (USA) Incorporated
+0901	1	Grand Central Publishing
+0902	1	Penguin Group (USA) Incorporated
+0903	1	Penguin Group (USA) Incorporated
+0904	1	St. Martin&#039;s Press
+0905	1	Simon &amp; Schuster
+0906	1	Random House Publishing Group
+0907	1	Knopf Doubleday Publishing Group
+0908	1	Knopf Doubleday Publishing Group
+0909	1	HarperCollins Publishers
+0910	1	Simon &amp; Schuster Children&#039;s Publishing
+0911	1	Simon &amp; Schuster
+0912	1	Square Fish
+0913	1	Feiwel &amp; Friends
+0914	1	HarperCollins Publishers
+0915	1	Doherty, Tom Associates, LLC
+0916	1	Harlequin Enterprises, Limited
+0917	1	HarperCollins Publishers
+0918	1	Christianaudio
+0919	1	Random House Children&#039;s Books
+0920	1	Random House Children&#039;s Books
+0921	1	Knopf Doubleday Publishing Group
+0922	1	Simon &amp; Schuster
+0923	1	Square Fish
+0924	1	Feiwel &amp; Friends
+0925	1	Feiwel &amp; Friends
+0926	1	Simon &amp; Schuster
+0927	1	Scholastic, Incorporated
+0928	1	Dover Publications, Incorporated
+0929	1	Random House Children&#039;s Books
+0930	1	Random House Children&#039;s Books
+0931	1	Simon &amp; Schuster
+0932	1	Simon &amp; Schuster
+0933	1	Doherty, Tom Associates, LLC
+0934	1	Bantam Books
+0935	1	HarperCollins Publishers
+0936	1	Simon &amp; Schuster
+0937	1	Simon &amp; Schuster
+0938	1	HarperCollins Publishers
+0939	1	Grand Central Publishing
+0940	1	Grand Central Publishing
+0941	1	Random House Publishing Group
+0942	1	Random House Publishing Group
+0943	1	Simon &amp; Schuster Children&#039;s Publishing
+0944	1	Hachette Audio
+0945	1	Penguin Group (USA) Incorporated
+0946	1	Penguin Group (USA) Incorporated
+0947	1	Simon &amp; Schuster
+0948	1	Penguin Group (USA) Incorporated
+0949	1	Penguin Group (USA) Incorporated
+0950	1	Random House Children&#039;s Books
+0951	1	Random House Children&#039;s Books
+0952	1	Simon &amp; Schuster
+0953	1	Simon &amp; Schuster
+0954	1	Harlequin Enterprises, Limited
+0955	1	Dark Horse Comics
+0956	1	HarperCollins Publishers
+0957	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+0958	1	Penguin Group (USA) Incorporated
+0959	1	Penguin Group (USA) Incorporated
+0960	1	HarperCollins Publishers
+0961	1	Random House Children&#039;s Books
+0962	1	Grand Central Publishing
+0963	1	Penguin Group (USA) Incorporated
+0964	1	Random House Children&#039;s Books
+0965	1	HarperCollins Publishers
+0966	1	Simon &amp; Schuster
+0967	1	Crown Publishing Group
+0968	1	Abrams
+0969	1	Simon &amp; Schuster
+0970	1	Random House Children&#039;s Books
+0971	1	Simon &amp; Schuster
+0972	1	Knopf Doubleday Publishing Group
+0973	1	HarperCollins Publishers
+0974	1	HarperCollins Publishers
+0975	1	Picador
+0976	1	Penguin Group (USA) Incorporated
+0977	1	Simon &amp; Schuster Children&#039;s Publishing
+0978	1	Simon &amp; Schuster Children&#039;s Publishing
+0979	1	Grand Central Publishing
+0980	1	Little Brown &amp; Company
+0981	1	HarperCollins Publishers
+0982	1	Crown Publishing Group
+0983	1	Little, Brown Books for Young Readers
+0984	1	Simon &amp; Schuster
+0985	1	Penguin Group (USA) Incorporated
+0986	1	Random House Publishing Group
+0987	1	Random House Publishing Group
+0988	1	Dell Publishing
+0989	1	Little Brown &amp; Company
+0990	1	Grand Central Publishing
+0991	1	Hachette Audio
+0992	1	Random House Children&#039;s Books
+0993	1	Listening Library
+0994	1	Random House Children&#039;s Books
+0995	1	Penguin Group USA
+0996	1	Penguin Group USA
+0997	1	Simon &amp; Schuster
+0998	1	St. Martin&#039;s Press
+0999	1	St Martins Pr
+1000	1	Simon &amp; Schuster Children&#039;s Publishing
+1001	1	Harlequin Enterprises, Limited
+1002	1	Little Brown &amp; Company
+1003	1	Simon &amp; Schuster
+1004	1	Dramatists Play Service, Incorporated
+1005	1	McSweeney&#039;s Publishing
+1006	1	Little Brown &amp; Company
+1007	1	Simon &amp; Schuster
+1008	1	Simon &amp; Schuster Children&#039;s Publishing
+1009	1	Random House Children&#039;s Books
+1010	1	Random House Children&#039;s Books
+1011	1	Knopf Doubleday Publishing Group
+1012	1	Simon &amp; Schuster
+1013	1	Picador
+1014	1	Crown Publishing Group
+1015	1	Simon &amp; Schuster
+1016	1	HarperCollins Publishers
+1017	1	Simon &amp; Schuster
+1018	1	Grand Central Publishing
+1019	1	Square Fish
+1020	1	Scholastic, Incorporated
+1021	1	New Press, The
+1022	1	Beacon Press
+1023	1	Knopf Doubleday Publishing Group
+1024	1	Random House Publishing Group
+1025	1	Random House Children&#039;s Books
+1026	1	Simon &amp; Schuster Children&#039;s Publishing
+1027	1	Penguin Group (USA) Incorporated
+1028	1	Scholastic, Incorporated
+1029	1	Random House Children&#039;s Books
+1030	1	Wiley, John &amp; Sons, Incorporated
+1031	1	Amer Book Co
+1032	1	Houghton Mifflin Harcourt Publishing Company
+1033	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1034	1	Random House Publishing Group
+1035	1	Penguin Group (USA) Incorporated
+1036	1	HarperCollins Publishers
+1037	1	Simon &amp; Schuster Children&#039;s Publishing
+1038	1	Random House Publishing Group
+1039	1	Random House
+1040	1	Simon &amp; Schuster
+1041	1	Simon &amp; Schuster
+1042	1	St. Martin&#039;s Press
+1043	1	Grove/ Atlantic, Incorporated
+1044	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1045	1	Random House Information Group
+1046	1	Random House Publishing Group
+1047	1	Oxford University Press, Incorporated
+1048	1	Penguin Group (USA) Incorporated
+1049	1	Penguin Group (USA) Incorporated
+1050	1	Random House, Incorporated
+1051	1	Tantor Media, Incorporated
+1052	1	Random House
+1053	1	Barnes &amp; Noble, Incorporated
+1054	1	Bethany House Publishers
+1055	1	Dover Publications, Incorporated
+1056	1	Random House Children&#039;s Books
+1057	1	Random House Children&#039;s Books
+1058	1	Roca Editorial De Libros
+1059	1	Penguin Group (USA) Incorporated
+1060	1	Penguin Group (USA) Incorporated
+1061	1	HarperCollins Publishers
+1062	1	Random House Children&#039;s Books
+1063	1	Crown Publishing Group
+1064	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1065	1	Tantor Media Inc
+1066	1	Wiley, John &amp; Sons, Incorporated
+1067	1	Little Brown &amp; Company
+1068	1	Simon &amp; Schuster Children&#039;s Publishing
+1069	1	Tantor Media Inc
+1070	1	Random House Publishing Group
+1071	1	Simon &amp; Schuster
+1072	1	Random House Children&#039;s Books
+1073	1	Dorling Kindersley Publishing, Incorporated
+1074	1	HarperCollins Publishers
+1075	1	St. Martin&#039;s Press
+1076	1	St. Martin&#039;s Press
+1077	1	St Martins Pr
+1078	1	Grand Central Publishing
+1079	1	Workman Publishing Company, Incorporated
+1080	1	Marvel Enterprises, Incorporated
+1081	1	Grand Central Publishing
+1082	1	Hachette Audio
+1083	1	Simon &amp; Schuster Children&#039;s Publishing
+1084	1	Penguin Group (USA) Incorporated
+1085	1	Merriam-Webster, Incorporated
+1086	1	HarperCollins Publishers
+1087	1	Penguin Group (USA) Incorporated
+1088	1	Harlequin Enterprises, Limited
+1089	1	Workman Publishing Company, Incorporated
+1090	1	Simon &amp; Schuster
+1091	1	Simon &amp; Schuster
+1092	1	Grand Central Publishing
+1093	1	Hachette Book Group
+1094	1	Little Brown &amp; Company
+1095	1	Simon &amp; Schuster
+1096	1	Knopf Doubleday Publishing Group
+1097	1	Knopf Doubleday Publishing Group
+1098	1	Listening Library
+1099	1	Knopf Doubleday Publishing Group
+1100	1	Random House Children&#039;s Books
+1101	1	Random House Children&#039;s Books
+1102	1	Hachette Audio
+1103	1	Random House Children&#039;s Books
+1104	1	Hay House, Incorporated
+1105	1	Hay House, Incorporated
+1106	1	Random House Children&#039;s Books
+1107	1	Listening Library
+1108	1	Simon &amp; Schuster
+1109	1	Simon &amp; Schuster
+1110	1	Random House Publishing Group
+1111	1	Penguin Group (USA) Incorporated
+1112	1	Little Brown &amp; Company
+1113	1	Hyperion Press
+1114	1	St. Martin&#039;s Press
+1115	1	Grand Central Publishing
+1116	1	Penguin Group (USA) Incorporated
+1117	1	TOKYOPOP, Incorporated
+1118	1	Baen Books
+1119	1	Crown Publishing Group
+1120	1	Crown Publishing Group
+1121	1	Crown Publishing Group
+1122	1	Krause Publications
+1123	1	HarperCollins Publishers
+1124	1	HarperCollins Publishers
+1125	1	Penguin Group (USA) Incorporated
+1126	1	FaithWords
+1127	1	Penguin Group (USA) Incorporated
+1128	1	Broadview Press
+1129	1	Random House Publishing Group
+1130	1	Oxford University Press, Incorporated
+1131	1	Penguin Group (USA) Incorporated
+1132	1	Bbc Audiobooks Amer
+1133	1	Candlewick Press
+1134	1	Tantor Media, Incorporated
+1135	1	Simon &amp; Schuster Children&#039;s Publishing
+1136	1	One Voice Recordings
+1137	1	Simon &amp; Schuster
+1138	1	Hyperion Press
+1139	1	Penguin Group (USA) Incorporated
+1140	1	Penguin Group (USA) Incorporated
+1141	1	Random House Publishing Group
+1142	1	Random House Information Group
+1143	1	Random House Publishing Group
+1144	1	TOKYOPOP, Incorporated
+1145	1	Random House Children&#039;s Books
+1146	1	Random House Children&#039;s Books
+1147	1	Random House Publishing Group
+1148	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1149	1	Houghton Mifflin Harcourt Publishing Company
+1150	1	Random House Children&#039;s Books
+1151	1	Random House Children&#039;s Books
+1152	1	Little Brown &amp; Company
+1153	1	Random House Publishing Group
+1154	1	HarperCollins Publishers
+1155	1	Penguin Group (USA) Incorporated
+1156	1	Simon &amp; Schuster
+1157	1	Grand Central Publishing
+1158	1	HarperCollins Publishers
+1159	1	Crown Publishing Group
+1160	1	HarperCollins Publishers
+1161	1	St. Martin&#039;s Press
+1162	1	Random House Children&#039;s Books
+1163	1	HarperCollins Publishers
+1164	1	HarperCollins Publishers
+1165	1	Random House Children&#039;s Books
+1166	1	Random House, Incorporated
+1167	1	St. Martin&#039;s Press
+1168	1	BL Publishing
+1169	1	St. Martin&#039;s Press
+1170	1	St. Martin&#039;s Press
+1171	1	Penguin Group (USA) Incorporated
+1172	1	Dorling Kindersley Publishing, Incorporated
+1173	1	Knopf Doubleday Publishing Group
+1174	1	Thorndike Press
+1175	1	Dover Publications, Incorporated
+1176	1	Simon &amp; Schuster
+1177	1	FaithWords
+1178	1	Grand Central Publishing
+1179	1	HarperCollins Publishers
+1180	1	Simon &amp; Schuster
+1181	1	Harlequin Enterprises, Limited
+1182	1	HarperCollins Publishers
+1183	1	Penguin Group (USA) Incorporated
+1184	1	Penguin Group (USA) Incorporated
+1185	1	Research &amp; Education Association
+1186	1	Kessinger Publishing, LLC
+1187	1	Oxford University Press, Incorporated
+1188	1	Cassette Works Audio
+1189	1	Scholastic, Incorporated
+1190	1	Spotlight
+1191	1	Simon &amp; Schuster
+1192	1	Broadway Books
+1193	1	Random House Publishing Group
+1194	1	Dover Publications, Incorporated
+1195	1	Random House
+1196	1	Naxos Audio Books
+1197	1	Doherty, Tom Associates, LLC
+1198	1	Barnes &amp; Noble, Incorporated
+1199	1	Penguin Group (USA) Incorporated
+1200	1	St. Martin&#039;s Press
+1201	1	Little Brown &amp; Company
+1202	1	St. Martin&#039;s Press
+1203	1	Little Brown &amp; Company
+1204	1	Random House Children&#039;s Books
+1205	1	American Girl Publishing, Incorporated
+1206	1	Penguin Group (USA) Incorporated
+1207	1	HarperCollins Publishers
+1208	1	Penguin Group (USA) Incorporated
+1209	1	Avalon Travel Publishing
+1210	1	Random House Children&#039;s Books
+1211	1	Grand Central Publishing
+1212	1	Grand Central Publishing
+1213	1	Grand Central Publishing
+1214	1	Kumon Publishing North America, Incorporated
+1215	1	St. Martin&#039;s Press
+1216	1	St. Martin&#039;s Press
+1217	1	Harlequin Enterprises, Limited
+1218	1	St. Martin&#039;s Press
+1219	1	HarperCollins Publishers
+1220	1	HarperCollins Publishers
+1221	1	Crown Publishing Group
+1222	1	Random House Publishing Group
+1223	1	Random House Publishing Group
+1224	1	Simon &amp; Schuster
+1225	1	Simon &amp; Schuster Children&#039;s Publishing
+1226	1	Krause Publications
+1227	1	HarperCollins Publishers
+1228	1	Penguin Group (USA) Incorporated
+1229	1	Feiwel &amp; Friends
+1230	1	Hyperion Press
+1231	1	Knopf Doubleday Publishing Group
+1232	1	Simon &amp; Schuster
+1233	1	Penguin Group (USA) Incorporated
+1234	1	Simon &amp; Schuster Children&#039;s Publishing
+1235	1	Penguin Group (USA) Incorporated
+1236	1	OneWorld Classics
+1237	1	Naxos Audio Books
+1238	1	Whites / White&#039;s Books Limited
+1239	1	Kessinger Publishing, LLC
+1240	1	Knopf Doubleday Publishing Group
+1241	1	Tantor Media Inc
+1242	1	Norton, W. W. &amp; Company, Incorporated
+1243	1	Oxford University Press, Incorporated
+1244	1	Wiley, John &amp; Sons, Incorporated
+1245	1	Penguin Group (USA) Incorporated
+1246	1	Broadview Press
+1247	1	Knopf Doubleday Publishing Group
+1248	1	Random House Children&#039;s Books
+1249	1	Penguin Group (USA) Incorporated
+1250	1	Random House Publishing Group
+1251	1	Random House Publishing Group
+1252	1	Wiley, John &amp; Sons, Incorporated
+1253	1	Knopf Doubleday Publishing Group
+1254	1	Random House Publishing Group
+1255	1	St. Martin&#039;s Press
+1256	1	Wizard Publications, Incorporated
+1257	1	Harlequin Enterprises, Limited
+1258	1	Crown Publishing Group
+1259	1	Random House Publishing Group
+1260	1	Random House Publishing Group
+1261	1	Scholastic, Incorporated
+1262	1	HarperCollins Publishers
+1263	1	Random House Publishing Group
+1264	1	Bantam Books
+1265	1	Grove/ Atlantic, Incorporated
+1266	1	Simon &amp; Schuster
+1267	1	Scholastic, Incorporated
+1268	1	HarperCollins Publishers
+1269	1	Running Press Book Publishers
+1270	1	Hachette Audio
+1271	1	Grand Central Publishing
+1272	1	Penguin Group USA
+1273	1	Harlequin Enterprises, Limited
+1274	1	Penguin Group (USA) Incorporated
+1275	1	Sourcebooks, Incorporated
+1276	1	Harlequin Enterprises, Limited
+1277	1	Penguin Group (USA) Incorporated
+1278	1	Bantam Books
+1279	1	Knopf Doubleday Publishing Group
+1280	1	Barnes &amp; Noble, Incorporated
+1281	1	Little, Brown Book Group Limited
+1282	1	Oxford University Press, Incorporated
+1283	1	Random House Adult Trade Publishing Group
+1284	1	Tantor Media Inc
+1285	1	Dover Publications, Incorporated
+1286	1	Scholastic, Incorporated
+1287	1	Dorling Kindersley Publishing, Incorporated
+1288	1	Random House Publishing Group
+1289	1	Random House Children&#039;s Books
+1290	1	Listening Library
+1291	1	Random House Children&#039;s Books
+1292	1	Grand Central Publishing
+1293	1	DC Comics
+1294	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1295	1	St Martins Pr
+1296	1	Random House Publishing Group
+1297	1	Dorling Kindersley Publishing, Incorporated
+1298	1	Listening Library
+1299	1	HarperCollins Publishers
+1300	1	Hachette Audio
+1301	1	McGraw-Hill Higher Education
+1302	1	San Val, Incorporated
+1303	1	CRW Publishing, Limited
+1304	1	Simon &amp; Schuster
+1305	1	Tantor Media Inc
+1306	1	Simon &amp; Schuster Children&#039;s Publishing
+1307	1	Blackstone Audio Inc
+1308	1	Random House Large Print
+1309	1	Penguin Group (USA) Incorporated
+1310	1	Penguin Group USA
+1311	1	Penguin Group (USA) Incorporated
+1312	1	School Zone Publishing Company
+1313	1	HarperCollins Publishers
+1314	1	Random House Children&#039;s Books
+1315	1	Random House Children&#039;s Books
+1316	1	HarperCollins Publishers
+1317	1	Random House Publishing Group
+1318	1	Random House Publishing Group
+1319	1	Knopf Doubleday Publishing Group
+1320	1	Knopf Doubleday Publishing Group
+1321	1	Doherty, Tom Associates, LLC
+1322	1	Penguin Group (USA) Incorporated
+1323	1	HarperCollins Publishers
+1324	1	Random House Children&#039;s Books
+1325	1	Sourcebooks, Incorporated
+1326	1	Random House Publishing Group
+1327	1	Penguin Group (USA) Incorporated
+1328	1	Grand Central Publishing
+1329	1	Grand Central Publishing
+1330	1	Grand Central Publishing
+1331	1	Penguin Group (USA) Incorporated
+1332	1	Whitman, Albert &amp; Company
+1333	1	St. Martin&#039;s Press
+1334	1	Penguin Group (USA) Incorporated
+1335	1	Thorndike Press
+1336	1	Penguin Group USA
+1337	1	Workman Publishing Company, Incorporated
+1338	1	Knopf Doubleday Publishing Group
+1339	1	HarperCollins Publishers
+1340	1	Random House Information Group
+1341	1	Merriam-Webster, Incorporated
+1342	1	Da Capo Press, Incorporated
+1343	1	St. Martin&#039;s Press
+1344	1	St. Martin&#039;s Press
+1345	1	St Martins Pr
+1346	1	HarperCollins Publishers
+1347	1	Disney Press
+1348	1	Random House Publishing Group
+1349	1	Knopf Doubleday Publishing Group
+1350	1	Scholastic, Incorporated
+1351	1	St. Martin&#039;s Press
+1352	1	St Martins Pr
+1353	1	Penguin Group (USA) Incorporated
+1354	1	Penguin Group USA
+1355	1	Penguin Group USA
+1356	1	Hachette Audio
+1357	1	HarperCollins Publishers
+1358	1	Simon &amp; Schuster
+1359	1	Carson-Dellosa Publishing, LLC
+1360	1	Penguin Group (USA) Incorporated
+1361	1	Tantor Media Inc
+1362	1	St Martins Pr
+1363	1	Knopf Doubleday Publishing Group
+1364	1	Dorchester Publishing Company, Incorporated
+1365	1	Candlewick Press
+1366	1	Smithsonian Institution Press
+1367	1	Grove/ Atlantic, Incorporated
+1368	1	Grove/ Atlantic, Incorporated
+1369	1	Hyperion Press
+1370	1	Random House Children&#039;s Books
+1371	1	Random House Children&#039;s Books
+1372	1	Hyperion Press
+1373	1	Scholastic, Incorporated
+1374	1	Meadowbrook Press
+1375	1	Holt, Henry &amp; Company
+1376	1	Scholastic, Incorporated
+1377	1	Grand Central Publishing
+1378	1	Hachette Audio
+1379	1	Simon &amp; Schuster
+1380	1	Dover Publications, Incorporated
+1381	1	Blackstone Audio Inc
+1382	1	Penguin Group (USA) Incorporated
+1383	1	Grand Central Publishing
+1384	1	Little Brown &amp; Company
+1385	1	HarperCollins Publishers
+1386	1	Random House Publishing Group
+1387	1	Gospel Light Publications
+1388	1	Simon &amp; Schuster
+1389	1	San Val, Incorporated
+1390	1	St. Martin&#039;s Press
+1391	1	Hachette Audio
+1392	1	Little Brown &amp; Company
+1393	1	HarperCollins Publishers
+1394	1	Picador
+1395	1	Random House Publishing Group
+1396	1	Penguin Group (USA) Incorporated
+1397	1	Dorling Kindersley Publishing, Incorporated
+1398	1	Wiley, John &amp; Sons, Incorporated
+1399	1	Hyperion Press
+1400	1	Penguin Group (USA) Incorporated
+1401	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1402	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1403	1	HarperCollins Publishers
+1404	1	Penguin Group (USA) Incorporated
+1405	1	Penguin Group (USA) Incorporated
+1406	1	St. Martin&#039;s Press
+1407	1	Penguin Group (USA) Incorporated
+1408	1	Simon &amp; Schuster Children&#039;s Publishing
+1409	1	Simon &amp; Schuster Childrens
+1410	1	Tanglewood Press
+1411	1	Random House Children&#039;s Books
+1412	1	Random House Children&#039;s Books
+1413	1	Random House Publishing Group
+1414	1	HarperCollins Publishers
+1415	1	HarperCollins Publishers
+1416	1	Knopf Doubleday Publishing Group
+1417	1	Knopf, Alfred A. Incorporated
+1418	1	Holt, Henry &amp; Company
+1419	1	St. Martin&#039;s Press
+1420	1	Doherty, Tom Associates, LLC
+1421	1	Grand Central Publishing
+1422	1	Little, Brown Books for Young Readers
+1423	1	Ann Arbor Media Group, LLC
+1424	1	Doherty, Tom Associates, LLC
+1425	1	Doherty, Tom Associates, LLC
+1426	1	Random House Publishing Group
+1427	1	Random House Publishing Group
+1428	1	Penguin Group (USA) Incorporated
+1429	1	Ann Arbor Media Group, LLC
+1430	1	Penguin Group (USA) Incorporated
+1431	1	HarperCollins Publishers
+1432	1	HarperCollins Publishers
+1433	1	Random House Publishing Group
+1434	1	Viz Media
+1435	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1436	1	Penguin Group (USA) Incorporated
+1437	1	Amer Book Co
+1438	1	Hay House, Incorporated
+1439	1	Harlequin Enterprises, Limited
+1440	1	Penguin Group (USA) Incorporated
+1441	1	Random House Children&#039;s Books
+1442	1	HarperCollins Publishers
+1443	1	Wizards of the Coast
+1444	1	Harlequin Enterprises, Limited
+1445	1	Random House Publishing Group
+1446	1	St Martins Pr
+1447	1	Doherty, Tom Associates, LLC
+1448	1	San Val, Incorporated
+1449	1	HarperCollins Publishers
+1450	1	Penguin Group (USA) Incorporated
+1451	1	HarperCollins Publishers
+1452	1	HarperCollins Publishers
+1453	1	Scholastic, Incorporated
+1454	1	HarperCollins Publishers
+1455	1	Random House Children&#039;s Books
+1456	1	Little Brown &amp; Company
+1457	1	Little Brown &amp; Company
+1458	1	Image Comics
+1459	1	Hyperion Press
+1460	1	Harlequin Enterprises, Limited
+1461	1	Random House Children&#039;s Books
+1462	1	Candlewick Press
+1463	1	Hyperion Press
+1464	1	HarperCollins Publishers
+1465	1	Random House Children&#039;s Books
+1466	1	Random House Children&#039;s Books
+1467	1	Little Brown &amp; Company
+1468	1	Little Brown &amp; Company
+1469	1	Whitman Publishing LLC
+1470	1	Candlewick Press
+1471	1	Waldenbooks, Incorporated
+1472	1	Random House Information Group
+1473	1	Random House Children&#039;s Books
+1474	1	Random House Children&#039;s Books
+1475	1	Random House Publishing Group
+1476	1	Grand Central Publishing
+1477	1	Random House Children&#039;s Books
+1478	1	Penguin Group (USA) Incorporated
+1479	1	Crown Publishing Group
+1480	1	HarperCollins Publishers
+1481	1	Random House Children&#039;s Books
+1482	1	Random House Children&#039;s Books
+1483	1	Rodale Press, Incorporated
+1484	1	Random House Publishing Group
+1485	1	Random House
+1486	1	Blackstone Audio Inc
+1487	1	CRW Publishing, Limited
+1488	1	Naxos AudioBooks, Limited
+1489	1	Book Sales, Incorporated
+1490	1	Longman Publishing Group
+1491	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1492	1	Globe Fearon Educational Publishing
+1493	1	Barron&#039;s Educational Series, Incorporated
+1494	1	Candlewick Press
+1495	1	Random House Publishing Group
+1496	1	Simon &amp; Schuster
+1497	1	Little, Brown Books for Young Readers
+1498	1	Penguin Group (USA) Incorporated
+1499	1	Random House Children&#039;s Books
+1500	1	HarperCollins Publishers
+1501	1	Penguin Group (USA) Incorporated
+1502	1	Penguin Group (USA) Incorporated
+1503	1	Viz Media
+1504	1	Simon &amp; Schuster
+1505	1	Simon &amp; Schuster, Incorporated
+1506	1	HarperCollins Publishers
+1507	1	Penguin Group USA
+1508	1	HarperCollins Publishers
+1509	1	Norton, W. W. &amp; Company, Incorporated
+1510	1	Penguin Group (USA) Incorporated
+1511	1	Penguin Group (USA) Incorporated
+1512	1	Knopf Doubleday Publishing Group
+1513	1	Nelson, Thomas Incorporated
+1514	1	Oasis Audio
+1515	1	Oasis Audio
+1516	1	Nelson, Thomas Incorporated
+1517	1	Penguin Group (USA) Incorporated
+1518	1	HarperCollins Publishers
+1519	1	Simon &amp; Schuster
+1520	1	Simon &amp; Schuster
+1521	1	Simon &amp; Schuster
+1522	1	Scholastic, Incorporated
+1523	1	Random House Publishing Group
+1524	1	Random House, Incorporated
+1525	1	Simon &amp; Schuster Children&#039;s Publishing
+1526	1	Abrams
+1527	1	Whitman Publishing LLC
+1528	1	HarperCollins Publishers
+1529	1	Random House Children&#039;s Books
+1530	1	Random House Children&#039;s Books
+1531	1	Random House Children&#039;s Books
+1532	1	Viz Media
+1533	1	HarperCollins Publishers
+1534	1	Random House
+1535	1	Random House Children&#039;s Books
+1536	1	Random House Publishing Group
+1537	1	HarperCollins Publishers
+1538	1	Scholastic, Incorporated
+1539	1	Dorling Kindersley Publishing, Incorporated
+1540	1	Penguin Group (USA) Incorporated
+1541	1	Tantor Media Inc
+1542	1	Random House Publishing Group
+1543	1	Random House Children&#039;s Books
+1544	1	HarperCollins Publishers
+1545	1	HarperCollins Publishers
+1546	1	Harperaudio
+1547	1	Random House Publishing Group
+1548	1	HarperCollins Publishers
+1549	1	HarperCollins Publishers
+1550	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1551	1	Penguin Group (USA) Incorporated
+1552	1	Penguin Group (USA) Incorporated
+1553	1	Knopf Doubleday Publishing Group
+1554	1	Random House Children&#039;s Books
+1555	1	Wizards of the Coast
+1556	1	Penguin Group (USA) Incorporated
+1557	1	Bantam Books
+1558	1	North-South Books, Incorporated
+1559	1	Simon &amp; Schuster
+1560	1	Random House
+1561	1	Knopf Doubleday Publishing Group
+1562	1	McGraw-Hill Companies, The
+1563	1	HarperCollins Publishers
+1564	1	Random House Children&#039;s Books
+1565	1	TOKYOPOP, Incorporated
+1566	1	Avalon Travel Publishing
+1567	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1568	1	Penguin Group (USA) Incorporated
+1569	1	Random House Publishing Group
+1570	1	Random House Publishing Group
+1571	1	Grand Central Publishing
+1572	1	Grand Central Publishing
+1573	1	HarperCollins Publishers
+1574	1	Simon &amp; Schuster
+1575	1	Simon &amp; Schuster
+1576	1	Simon &amp; Schuster
+1577	1	Random House Publishing Group
+1578	1	Holt, Henry &amp; Company
+1579	1	Dover Publications, Incorporated
+1580	1	Naxos of America, Incorporated
+1581	1	Penguin Group (USA) Incorporated
+1582	1	Penguin Group (USA) Incorporated
+1583	1	Doherty, Tom Associates, LLC
+1584	1	San Val, Incorporated
+1585	1	Tantor Media Inc
+1586	1	Random House Publishing Group
+1587	1	Simon &amp; Schuster
+1588	1	Tantor Media Inc
+1589	1	San Val, Incorporated
+1590	1	Random House Adult Trade Publishing Group
+1591	1	HarperCollins Publishers
+1592	1	Penguin Group (USA) Incorporated
+1593	1	Da Capo Press, Incorporated
+1594	1	Knopf Doubleday Publishing Group
+1595	1	HarperCollins Publishers
+1596	1	Penguin Group (USA) Incorporated
+1597	1	Dover Publications, Incorporated
+1598	1	Random House Publishing Group
+1599	1	Penguin Group (USA) Incorporated
+1600	1	Random House Children&#039;s Books
+1601	1	Viz Media
+1602	1	Penguin Group (USA) Incorporated
+1603	1	Penguin Group (USA) Incorporated
+1604	1	Hyperion Press
+1605	1	Penguin Group (USA) Incorporated
+1606	1	Dover Publications, Incorporated
+1607	1	Harlequin Enterprises, Limited
+1608	1	Crown Publishing Group
+1609	1	Knopf Doubleday Publishing Group
+1610	1	HarperCollins Publishers
+1611	1	Random House Children&#039;s Books
+1612	1	Listening Library
+1613	1	HarperCollins Publishers
+1614	1	HarperCollins Publishers
+1615	1	HarperCollins Publishers
+1616	1	Tyndale House Publishers
+1617	1	Doubleday Religious Publishing Grou, The
+1618	1	HarperCollins Publishers
+1619	1	Random House Children&#039;s Books
+1620	1	Penguin Group (USA) Incorporated
+1621	1	Knopf Doubleday Publishing Group
+1622	1	Random House
+1623	1	Simon &amp; Schuster Children&#039;s Publishing
+1624	1	Random House Publishing Group
+1625	1	Scholastic, Incorporated
+1626	1	Simon &amp; Schuster
+1627	1	Baen Books
+1628	1	HarperCollins Publishers
+1629	1	Grand Central Publishing
+1630	1	Crown Publishing Group
+1631	1	Random House
+1632	1	Basic Books
+1633	1	Knopf Doubleday Publishing Group
+1634	1	St. Martin&#039;s Press
+1635	1	Penguin Group (USA) Incorporated
+1636	1	HarperCollins Publishers
+1637	1	Random House Children&#039;s Books
+1638	1	Simon &amp; Schuster Children&#039;s Publishing
+1639	1	Grand Central Publishing
+1640	1	Hachette Audio
+1641	1	Knopf Doubleday Publishing Group
+1642	1	Barron&#039;s Educational Series, Incorporated
+1643	1	Random House Children&#039;s Books
+1644	1	St. Martin&#039;s Press
+1645	1	St. Martin&#039;s Press
+1646	1	HarperCollins Publishers
+1647	1	Penguin Group (USA) Incorporated
+1648	1	Simon &amp; Schuster
+1649	1	St. Martin&#039;s Press
+1650	1	St. Martin&#039;s Press
+1651	1	Farrar, Straus &amp; Giroux
+1652	1	Square Fish
+1653	1	Grand Central Publishing
+1654	1	Random House Children&#039;s Books
+1655	1	Random House Children&#039;s Books
+1656	1	Penguin Group (USA) Incorporated
+1657	1	Harlequin Enterprises, Limited
+1658	1	Penguin Group (USA) Incorporated
+1659	1	Random House Children&#039;s Books
+1660	1	Random House Children&#039;s Books
+1661	1	Barron&#039;s Educational Series, Incorporated
+1662	1	Kessinger Publishing, LLC
+1663	1	Random House Publishing Group
+1664	1	Perfection Learning Corporation
+1665	1	Oxford University Press, Incorporated
+1666	1	Blackstone Audio Inc
+1667	1	San Val, Incorporated
+1668	1	Oasis Audio
+1669	1	Whites / White&#039;s Books Limited
+1670	1	Steck-Vaughn
+1671	1	Penguin Group (USA) Incorporated
+1672	1	Knopf Doubleday Publishing Group
+1673	1	Tantor Media Inc
+1674	1	American Guidance Service, Incorporated
+1675	1	Simon &amp; Schuster Children&#039;s Publishing
+1676	1	Tantor Media, Incorporated
+1677	1	Grand Central Publishing
+1678	1	Little Brown &amp; Company
+1679	1	Little Brown &amp; Company
+1680	1	Little Brown &amp; Company
+1681	1	Simon &amp; Schuster
+1682	1	Random House Children&#039;s Books
+1683	1	Wedding Solutions Publishing, Incorporated
+1684	1	Simon &amp; Schuster
+1685	1	Barron&#039;s Educational Series, Incorporated
+1686	1	Abrams
+1687	1	Glencoe/ McGraw-Hill
+1688	1	Theatre Communications Group, Incorporated
+1689	1	Naxos of America, Incorporated
+1690	1	British Library, The
+1691	1	A &amp; C Black
+1692	1	Cambridge University Press
+1693	1	San Val, Incorporated
+1694	1	Random House Children&#039;s Books
+1695	1	Borders Group Inc
+1696	1	St. Martin&#039;s Press
+1697	1	Simon &amp; Schuster
+1698	1	Simon &amp; Schuster Children&#039;s Publishing
+1699	1	HarperCollins Publishers
+1700	1	Random House Publishing Group
+1701	1	Simon &amp; Schuster
+1702	1	Simon &amp; Schuster Children&#039;s Publishing
+1703	1	Miramax Books
+1704	1	FaithWords
+1705	1	Random House Publishing Group
+1706	1	Penguin Group (USA) Incorporated
+1707	1	University of California Press
+1708	1	Penguin Group (USA) Incorporated
+1709	1	Penguin Group (USA) Incorporated
+1710	1	Blackstone Audio Inc
+1711	1	Naxos of America, Incorporated
+1712	1	Sourcebooks, Incorporated
+1713	1	Stone Arch Books
+1714	1	Broadview Press
+1715	1	Oxford University Press, Incorporated
+1716	1	San Val, Incorporated
+1717	1	Roaring Brook Press
+1718	1	Kumon Publishing North America, Incorporated
+1719	1	Audio Bookshelf
+1720	1	Audio Bookshelf
+1721	1	Candlewick Press
+1722	1	Candlewick Press
+1723	1	HarperCollins Publishers
+1724	1	Workman Publishing Company, Incorporated
+1725	1	HarperCollins Publishers
+1726	1	Tantor Media Inc
+1727	1	Blackstone Audio Inc
+1728	1	Blackstone Audio Inc
+1729	1	Tantor Media Inc
+1730	1	Deodand Publishing
+1731	1	Kumon Publishing North America, Incorporated
+1732	1	HarperCollins Publishers
+1733	1	Penguin Group (USA) Incorporated
+1734	1	Simon &amp; Schuster
+1735	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1736	1	Random House Publishing Group
+1737	1	Random House Large Print
+1738	1	Simon &amp; Schuster Children&#039;s Publishing
+1739	1	Little Brown &amp; Company
+1740	1	Simon &amp; Schuster
+1741	1	Random House
+1742	1	Barron&#039;s Educational Series, Incorporated
+1743	1	Crown Publishing Group
+1744	1	Penguin Group (USA) Incorporated
+1745	1	Penguin Group USA
+1746	1	Scholastic, Incorporated
+1747	1	Random House Publishing Group
+1748	1	Simon &amp; Schuster
+1749	1	Random House Publishing Group
+1750	1	Little, Brown Books for Young Readers
+1751	1	Little, Brown Books for Young Readers
+1752	1	Crown Publishing Group
+1753	1	Bbc Audiobooks Amer
+1754	1	Random House Children&#039;s Books
+1755	1	Bloomsbury Publishing
+1756	1	Random House Publishing Group
+1757	1	Santillana USA Publishing Company, Incorporated
+1758	1	Random House Publishing Group
+1759	1	Random House Publishing Group
+1760	1	Little Brown &amp; Company
+1761	1	Hachette Audio
+1762	1	Harlequin Enterprises, Limited
+1763	1	HarperCollins Publishers
+1764	1	Nelson, Thomas Incorporated
+1765	1	Random House Children&#039;s Books
+1766	1	Kensington Publishing Corporation
+1767	1	Hachette Audio
+1768	1	Little Brown &amp; Company
+1769	1	Viz Media
+1770	1	New Harbinger Publications
+1771	1	Square Fish
+1772	1	Simon &amp; Schuster Children&#039;s Publishing
+1773	1	Oxmoor House, Incorporated
+1774	1	Penguin Group (USA) Incorporated
+1775	1	Simon &amp; Schuster Children&#039;s Publishing
+1776	1	Scholastic, Incorporated
+1777	1	St. Martin&#039;s Press
+1778	1	Doherty, Tom Associates, LLC
+1779	1	HarperCollins Publishers
+1780	1	Penguin Group (USA) Incorporated
+1781	1	Europa Editions, Incorporated
+1782	1	Barron&#039;s Educational Series, Incorporated
+1783	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1784	1	Random House Children&#039;s Books
+1785	1	Random House Publishing Group
+1786	1	Holt, Henry &amp; Company
+1787	1	Holt, Henry &amp; Company
+1788	1	HarperCollins Publishers
+1789	1	Tyndale House Publishers
+1790	1	Random House Children&#039;s Books
+1791	1	Abrams
+1792	1	Doubleday Publishing
+1793	1	Random House
+1794	1	Random House Large Print
+1795	1	Random House Children&#039;s Books
+1796	1	HarperCollins Publishers
+1797	1	Viz Media
+1798	1	Simon &amp; Schuster Children&#039;s Publishing
+1799	1	Tantor Media, Incorporated
+1800	1	Tantor Media, Incorporated
+1801	1	Random House Publishing Group
+1802	1	Doherty, Tom Associates, LLC
+1803	1	St. Martin&#039;s Press
+1804	1	Knopf Doubleday Publishing Group
+1805	1	Knopf Doubleday Publishing Group
+1806	1	Random House Large Print
+1807	1	Random House Publishing Group
+1808	1	Random House
+1809	1	Ann Arbor Media Group, LLC
+1810	1	Knopf Doubleday Publishing Group
+1811	1	Penguin Group (USA) Incorporated
+1812	1	Grove/ Atlantic, Incorporated
+1813	1	HarperCollins Publishers
+1814	1	HarperCollins Publishers
+1815	1	St. Martin&#039;s Press
+1816	1	St. Martin&#039;s Press
+1817	1	St Martins Pr
+1818	1	HarperCollins Publishers
+1819	1	Barron&#039;s Educational Series, Incorporated
+1820	1	McGraw-Hill Medical Publishing Division
+1821	1	Scholastic, Incorporated
+1822	1	Harlequin Enterprises, Limited
+1823	1	Doherty, Tom Associates, LLC
+1824	1	Random House Publishing Group
+1825	1	Viz Media
+1826	1	Harlequin Enterprises, Limited
+1827	1	Random House Information Group
+1828	1	Little Brown &amp; Company
+1829	1	Little Brown &amp; Company
+1830	1	Random House Publishing Group
+1831	1	Little, Brown Books for Young Readers
+1832	1	Little, Brown Books for Young Readers
+1833	1	Penguin Group (USA) Incorporated
+1834	1	Grand Central Publishing
+1835	1	Simon &amp; Schuster
+1836	1	Simon &amp; Schuster Children&#039;s Publishing
+1837	1	St. Martin&#039;s Press
+1838	1	St. Martin&#039;s Press
+1839	1	Little, Brown Books for Young Readers
+1840	1	Simon &amp; Schuster
+1841	1	Simon &amp; Schuster
+1842	1	Simon &amp; Schuster
+1843	1	Wiley, John &amp; Sons, Incorporated
+1844	1	Andrews McMeel Publishing
+1845	1	Harlequin Enterprises, Limited
+1846	1	Harlequin Enterprises, Limited
+1847	1	Penguin Group (USA) Incorporated
+1848	1	Harlequin Enterprises, Limited
+1849	1	Microsoft Press
+1850	1	Wiley, John &amp; Sons, Incorporated
+1851	1	Harlequin Enterprises, Limited
+1852	1	Random House Children&#039;s Books
+1853	1	St. Martin&#039;s Press
+1854	1	Random House Publishing Group
+1855	1	Simon &amp; Schuster
+1856	1	St. Martin&#039;s Press
+1857	1	Holt, Henry &amp; Company
+1858	1	Penguin Group (USA) Incorporated
+1859	1	Harlequin Enterprises, Limited
+1860	1	Scholastic, Incorporated
+1861	1	Grand Central Publishing
+1862	1	Hachette Audio
+1863	1	Hachette Audio
+1864	1	Penguin Group (USA) Incorporated
+1865	1	Scholastic, Incorporated
+1866	1	Carson-Dellosa Publishing, LLC
+1867	1	Grand Central Publishing
+1868	1	Knopf Doubleday Publishing Group
+1869	1	Random House Publishing Group
+1870	1	Tantor Media Inc
+1871	1	Bbc Audiobooks Amer
+1872	1	Broadview Press
+1873	1	Steerforth Press
+1874	1	Regnery Publishing, Incorporated, An Eagle Publish
+1875	1	HarperCollins Publishers
+1876	1	Penguin Group (USA) Incorporated
+1877	1	St. Martin&#039;s Press
+1878	1	HarperCollins Publishers
+1879	1	Vanguard Press
+1880	1	Random House Children&#039;s Books
+1881	1	Rodale Press, Incorporated
+1882	1	Doherty, Tom Associates, LLC
+1883	1	San Val, Incorporated
+1884	1	Barron&#039;s Educational Series, Incorporated
+1885	1	HarperCollins Publishers
+1886	1	HarperCollins Publishers
+1887	1	Rodale Press, Incorporated
+1888	1	Penguin Group (USA) Incorporated
+1889	1	Random House Children&#039;s Books
+1890	1	Listening Library
+1891	1	Dorling Kindersley Publishing, Incorporated
+1892	1	HarperCollins Publishers
+1893	1	Bbc Audiobooks Amer
+1894	1	Tuttle Publishing
+1895	1	Tantor Media, Incorporated
+1896	1	Tantor Media, Incorporated
+1897	1	Penguin Group (USA) Incorporated
+1898	1	Random House Publishing Group
+1899	1	Solar Books
+1900	1	Penguin Group (USA) Incorporated
+1901	1	Kensington Publishing Corporation
+1902	1	HarperCollins Publishers
+1903	1	Random House Publishing Group
+1904	1	Harlequin Enterprises, Limited
+1905	1	Harlequin Enterprises, Limited
+1906	1	Simon &amp; Schuster
+1907	1	Whitman Publishing LLC
+1908	1	Dark Horse Comics
+1909	1	Penguin Group (USA) Incorporated
+1910	1	Dorling Kindersley Publishing, Incorporated
+1911	1	Simon &amp; Schuster
+1912	1	Random House Children&#039;s Books
+1913	1	Random House Children&#039;s Books
+1914	1	Penguin Group (USA) Incorporated
+1915	1	HarperCollins Publishers
+1916	1	Grove/ Atlantic, Incorporated
+1917	1	Equity Press
+1918	1	Little Brown &amp; Company
+1919	1	Penguin Group USA
+1920	1	Doherty, Tom Associates, LLC
+1921	1	St. Martin&#039;s Press
+1922	1	Little, Brown Books for Young Readers
+1923	1	Little, Brown Books for Young Readers
+1924	1	Simon &amp; Schuster
+1925	1	Doherty, Tom Associates, LLC
+1926	1	Simon &amp; Schuster
+1927	1	Random House Publishing Group
+1928	1	Dell Publishing
+1929	1	Picador
+1930	1	Avalon Travel Publishing
+1931	1	Harcourt Children&#039;s Books
+1932	1	Strang Communications Company
+1933	1	Zondervan
+1934	1	Zondervan
+1935	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1936	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1937	1	Houghton Mifflin Harcourt Trade &amp; Reference Publis
+1938	1	Baker Publishing Group
+1939	1	Penguin Group (USA) Incorporated
+1940	1	HarperCollins Publishers
+1941	1	Nelson, Thomas Incorporated
+1942	1	Avalon Travel Publishing
+1943	1	Little, Brown Books for Young Readers
+1944	1	Penguin Group (USA) Incorporated
+1945	1	Scholastic, Incorporated
+1946	1	Hachette Audio
+1947	1	Nelson, Thomas Incorporated
+1948	1	Viz Media
+1949	1	Crown Publishing Group
+1950	1	Crown Publishing Group
+1951	1	Learning Horizons, Incorporated
+1952	1	NavPress Publishing Group
+1953	1	Grand Central Publishing
+1954	1	Broadway Books
+1955	1	Broadway Books
+1956	1	Wiley, John &amp; Sons, Incorporated
+1957	1	HarperCollins Publishers
+1958	1	Random House Children&#039;s Books
+1959	1	Penguin Group (USA) Incorporated
+1960	1	Viz Media
+1961	1	Dorling Kindersley Publishing, Incorporated
+1962	1	Random House, Incorporated
+1963	1	Listening Library
+1964	1	Random House Children&#039;s Books
+1965	1	HarperCollins Publishers
+1966	1	Candlewick Press
+1967	1	Random House Publishing Group
+1968	1	St. Martin&#039;s Press
+1969	1	Penguin Group (USA) Incorporated
+1970	1	Disney Press
+1971	1	Candlewick Press
+1972	1	Penguin Group (USA) Incorporated
+1973	1	Penguin Group USA
+1974	1	Scholastic, Incorporated
+1975	1	Penguin Group (USA) Incorporated
+1976	1	Knopf Doubleday Publishing Group
+1977	1	Knopf, Alfred A. Incorporated
+1978	1	Knopf Doubleday Publishing Group
+1979	1	Random House Information Group
+1980	1	Knopf Doubleday Publishing Group
+1981	1	Knopf Publishing Group
+1982	1	Little Brown &amp; Company
+1983	1	Little Brown &amp; Company
+1984	1	St. Martin&#039;s Press
+1985	1	HarperCollins Publishers
+1986	1	Grand Central Publishing
+1987	1	Dorling Kindersley Publishing, Incorporated
+1988	1	Dorling Kindersley Publishing, Incorporated
+1989	1	St. Martin&#039;s Press
+1990	1	St. Martin&#039;s Press
+1991	1	HarperCollins Publishers
+1992	1	Penguin Group (USA) Incorporated
+1993	1	San Val, Incorporated
+1994	1	Holt, Henry &amp; Company
+1995	1	HarperCollins Publishers
+1996	1	HarperCollins Publishers
+1997	1	Scholastic, Incorporated
+1998	1	Dorling Kindersley Publishing, Incorporated
+1999	1	Knopf Doubleday Publishing Group

@@ -1,0 +1,1065 @@
+﻿university	ecampustours	name
+1063	1063	1063	1046
+0000	1	Alabama State University
+0001	1	Athens State University
+0002	1	Auburn University Main Campus
+0003	1	Auburn University at Montgomery
+0004	1	Birmingham Southern College
+0005	1	Faulkner University
+0006	1	Heritage Christian University
+0007	1	Huntingdon College
+0008	1	Jacksonville State University
+0009	1	Lurleen B Wallace Community College
+0010	1	Oakwood University
+0011	1	Samford University
+0012	1	Shelton State Community College
+0013	1	Spring Hill College
+0014	1	Troy University
+0015	1	Tuskegee University
+0016	1	The University of Alabama
+0017	1	University of Alabama at Birmingham
+0018	1	University of Alabama in Huntsville
+0019	1	University of Mobile
+0020	1	University of Montevallo
+0021	1	University of North Alabama
+0022	1	University of South Alabama
+0023	1	University of West Alabama
+0024	1	Alaska Pacific University
+0025	1	University of Alaska Anchorage
+0026	1	University of Alaska Fairbanks
+0027	1	Agnes Scott College
+0028	1	Albany State University
+0029	1	Armstrong Atlantic State University
+0030	1	Atlanta Christian College
+0031	1	Atlanta Metropolitan College
+0032	1	Augusta State University
+0033	1	Berry College
+0034	1	Brenau University
+0035	1	Brewton-Parker College
+0036	1	Central Georgia Technical College
+0037	1	Clark Atlanta University
+0038	1	Clayton State University
+0039	1	Columbus State University
+0040	1	Covenant College
+0041	1	Dalton State College
+0042	1	DeVry University-Georgia
+0043	1	East Georgia College
+0044	1	Emmanuel College
+0045	1	Emory University
+0046	1	Emory University
+0047	1	Fort Valley State University
+0048	1	Gainesville State College
+0049	1	Georgia College & State University
+0050	1	Georgia Perimeter College
+0051	1	Georgia Southern University
+0052	1	Georgia State University
+0053	1	Heart of Georgia Technical College
+0054	1	Kennesaw State University
+0055	1	LaGrange College
+0056	1	Life University
+0057	1	Macon State College
+0058	1	Medical College of Georgia
+0059	1	Mercer University
+0060	1	Middle Georgia College
+0061	1	Morehouse College
+0062	1	Oglethorpe University
+0063	1	Paine College
+0064	1	Piedmont College
+0065	1	Reinhardt College
+0066	1	Savannah College of Art and Design
+0067	1	Savannah State University
+0068	1	Shorter College
+0069	1	South University-Savannah
+0070	1	Spelman College
+0071	1	Thomas University
+0072	1	Toccoa Falls College
+0073	1	Truett-McConnell College
+0074	1	University of Georgia
+0075	1	University of West Georgia
+0076	1	Valdosta State University
+0077	1	Young Harris College
+0078	1	Brigham Young University-Hawaii
+0079	1	Chaminade University of Honolulu
+0080	1	Hawaii Pacific University
+0081	1	Honolulu Community College
+0082	1	Leeward Community College
+0083	1	University of Hawaii at Hilo
+0084	1	University of Hawaii at Manoa
+0085	1	Boise Bible College
+0086	1	Boise State University
+0087	1	Brigham Young University-Idaho
+0088	1	Idaho State University
+0089	1	Lewis-Clark State College
+0090	1	Northwest Nazarene University
+0091	1	The College of Idaho
+0092	1	Augustana College
+0093	1	Aurora University
+0094	1	Benedictine University
+0095	1	Blackburn College
+0096	1	Bradley University
+0097	1	Chicago State University
+0098	1	Concordia University
+0099	1	DePaul University
+0100	1	DeVry University-Illinois
+0101	1	Dominican University
+0102	1	Elmhurst College
+0103	1	Eureka College
+0104	1	Harper College
+0105	1	Illinois College
+0106	1	Illinois Institute of Technology
+0107	1	Illinois State University
+0108	1	Illinois Wesleyan University
+0109	1	Judson University
+0110	1	Lake Forest College
+0111	1	Lewis University
+0112	1	Lincoln Christian University
+0113	1	Loyola University Chicago
+0114	1	MacMurray College
+0115	1	McKendree University
+0116	1	Midstate College
+0117	1	Millikin University
+0118	1	Monmouth College
+0119	1	Moraine Valley Community College
+0120	1	National-Louis University
+0121	1	North Central College
+0122	1	Northeastern Illinois University
+0123	1	Northern Illinois University
+0124	1	Quincy University
+0125	1	Richland Community College
+0126	1	Robert Morris University Illinois
+0127	1	Rockford College
+0128	1	Roosevelt University
+0129	1	Rush University
+0130	1	Saint Xavier University
+0131	1	Trinity Christian College
+0132	1	Trinity International University
+0133	1	University of Illinois at Chicago
+0134	1	University of St Francis
+0135	1	Western Illinois University
+0136	1	Ancilla College
+0137	1	Anderson University
+0138	1	Ball State University
+0139	1	Bethel College
+0140	1	Calumet College of Saint Joseph
+0141	1	DePauw University
+0142	1	Franklin College
+0143	1	Goshen College
+0144	1	Hanover College
+0145	1	Holy Cross College
+0146	1	Huntington University
+0147	1	Indiana Institute of Technology
+0148	1	Indiana State University
+0149	1	Indiana University-Bloomington
+0150	1	Indiana Wesleyan University
+0151	1	Manchester College
+0152	1	Martin University
+0153	1	Saint Josephs College
+0154	1	Saint Mary's College
+0155	1	Saint Mary-of-the-Woods College
+0156	1	Taylor University
+0157	1	Trine University
+0158	1	University of Evansville
+0159	1	University of Indianapolis
+0160	1	University of Southern Indiana
+0161	1	Wabash College
+0162	1	Buena Vista University
+0163	1	Clarke College
+0164	1	Coe College
+0165	1	Cornell College
+0166	1	Divine Word College
+0167	1	Dordt College
+0168	1	Drake University
+0169	1	Emmaus Bible College
+0170	1	Graceland University-Lamoni
+0171	1	Grand View University
+0172	1	Grinnell College
+0173	1	Iowa State University
+0174	1	Iowa Wesleyan College
+0175	1	Morningside College
+0176	1	Mount Mercy College
+0177	1	Northwestern College
+0178	1	Simpson College
+0179	1	Saint Ambrose University
+0180	1	University of Iowa
+0181	1	Waldorf College
+0182	1	Barclay College
+0183	1	Barton County Community College
+0184	1	Benedictine College
+0185	1	Bethel College
+0186	1	Central Christian College of Kansas
+0187	1	Cowley County Community College
+0188	1	Dodge City Community College
+0189	1	Emporia State University
+0190	1	Fort Hays State University
+0191	1	Friends University
+0192	1	Hesston College
+0193	1	Hutchinson Community College
+0194	1	Johnson County Community College
+0195	1	Kansas State University
+0196	1	Manhattan Christian College
+0197	1	McPherson College
+0198	1	MidAmerica Nazarene University
+0199	1	Newman University
+0200	1	Pittsburg State University
+0201	1	Southwestern College
+0202	1	Sterling College
+0203	1	Tabor College
+0204	1	University of Kansas
+0205	1	University of Saint Mary
+0206	1	Washburn University
+0207	1	Wichita State University
+0208	1	Asbury College
+0209	1	Bellarmine University
+0210	1	Brescia University
+0211	1	Centre College
+0212	1	Clear Creek Baptist Bible College
+0213	1	Eastern Kentucky University
+0214	1	Georgetown College
+0215	1	Hopkinsville Community College
+0216	1	Kentucky Christian University
+0217	1	Kentucky State University
+0218	1	Kentucky Wesleyan College
+0219	1	Lindsey Wilson College
+0220	1	Midway College
+0221	1	Morehead State University
+0222	1	Murray State University
+0223	1	Northern Kentucky University
+0224	1	Spalding University
+0225	1	Thomas More College
+0226	1	Transylvania University
+0227	1	Union College
+0228	1	University of Kentucky
+0229	1	University of Louisville
+0230	1	University of the Cumberlands
+0231	1	Western Kentucky University
+0232	1	Centenary College of Louisiana
+0233	1	Dillard University
+0234	1	Grambling State University
+0235	1	Louisiana College
+0236	1	Louisiana State University-Eunice
+0237	1	Louisiana Tech University
+0238	1	Loyola University New Orleans
+0239	1	McNeese State University
+0240	1	Nicholls State University
+0241	1	Our Lady of Holy Cross College
+0242	1	Our Lady of the Lake College
+0243	1	Southeastern Louisiana University
+0244	1	Southern University at New Orleans
+0245	1	Tulane University of Louisiana
+0246	1	University of Louisiana Monroe
+0247	1	University of New Orleans
+0248	1	Xavier University of Louisiana
+0249	1	Bowdoin College
+0250	1	College of the Atlantic
+0251	1	Husson University
+0252	1	Maine Maritime Academy
+0253	1	Saint Joseph's College of Maine
+0254	1	Unity College
+0255	1	University of Maine
+0256	1	University of Maine at Farmington
+0257	1	University of Maine at Fort Kent
+0258	1	University of Maine at Machias
+0259	1	University of Maine at Presque Isle
+0260	1	University of New England
+0261	1	University of Southern Maine
+0262	1	Arizona Western College
+0263	1	DeVry University-Arizona
+0264	1	Grand Canyon University
+0265	1	Northern Arizona University
+0266	1	University of Arizona
+0267	1	Allegany College of Maryland
+0268	1	Bowie State University
+0269	1	Capitol College
+0270	1	Cecil College
+0271	1	Coppin State University
+0272	1	Frostburg State University
+0273	1	Hagerstown Community College
+0274	1	Hood College
+0275	1	Johns Hopkins University
+0276	1	Loyola University Maryland
+0277	1	Mount St. Mary's University
+0278	1	Prince George's Community College
+0279	1	St John's College
+0280	1	Stevenson University
+0281	1	Washington Adventist University
+0282	1	Washington College
+0283	1	American International College
+0284	1	Anna Maria College
+0285	1	Assumption College
+0286	1	Atlantic Union College
+0287	1	Bay Path College
+0288	1	Berklee College of Music
+0289	1	Boston College
+0290	1	Boston University
+0291	1	Brandeis University
+0292	1	Cambridge College
+0293	1	Eastern Nazarene College
+0294	1	Emerson College
+0295	1	Endicott College
+0296	1	Fitchburg State College
+0297	1	Framingham State College
+0298	1	Gordon College
+0299	1	Hampshire College
+0300	1	Harvard University
+0301	1	Lasell College
+0302	1	Massachusetts Maritime Academy
+0303	1	Merrimack College
+0304	1	Montserrat College of Art
+0305	1	Mount Holyoke College
+0306	1	Mount Ida College
+0307	1	Pine Manor College
+0308	1	Simmons College
+0309	1	Stonehill College
+0310	1	Tufts University
+0311	1	University of Massachusetts-Boston
+0312	1	University of Massachusetts-Lowell
+0313	1	Wellesley College
+0314	1	Western New England College
+0315	1	Westfield State College
+0316	1	Wheaton College
+0317	1	Wheelock College
+0318	1	Williams College
+0319	1	Worcester Polytechnic Institute
+0320	1	Worcester State College
+0321	1	Adrian College
+0322	1	Albion College
+0323	1	Alma College
+0324	1	Aquinas College
+0325	1	Concordia University-Ann Arbor
+0326	1	Cornerstone University
+0327	1	Eastern Michigan University
+0328	1	Ferris State University
+0329	1	Finlandia University
+0330	1	Grace Bible College
+0331	1	Grand Valley State University
+0332	1	Great Lakes Christian College
+0333	1	Hope College
+0334	1	Kalamazoo College
+0335	1	Kettering University
+0336	1	Kuyper College
+0337	1	Lake Superior State University
+0338	1	Madonna University
+0339	1	Marygrove College
+0340	1	Michigan State University
+0341	1	Michigan Technological University
+0342	1	Northern Michigan University
+0343	1	Northwood University
+0344	1	Oakland University
+0345	1	Olivet College
+0346	1	Rochester College
+0347	1	Saginaw Valley State University
+0348	1	Schoolcraft College
+0349	1	Siena Heights University
+0350	1	Spring Arbor University
+0351	1	University of Detroit Mercy
+0352	1	University of Michigan-Ann Arbor
+0353	1	Wayne State University
+0354	1	Western Michigan University
+0355	1	Augsburg College
+0356	1	Bethany Lutheran College
+0357	1	Bethel University
+0358	1	Carleton College
+0359	1	College of Saint Benedict
+0360	1	The College of Saint Scholastica
+0361	1	Concordia University-Saint Paul
+0362	1	Crown College
+0363	1	Dunwoody College of Technology
+0364	1	Gustavus Adolphus College
+0365	1	Hamline University
+0366	1	Itasca Community College
+0367	1	Minnesota State University-Moorhead
+0368	1	North Central University
+0369	1	Northwestern College
+0370	1	South Central College
+0371	1	Saint Cloud State University
+0372	1	University of Minnesota-Crookston
+0373	1	University of Minnesota-Duluth
+0374	1	University of Minnesota-Morris
+0375	1	University of St Thomas
+0376	1	Alcorn State University
+0377	1	Belhaven University
+0378	1	Blue Mountain College
+0379	1	Delta State University
+0380	1	Hinds Community College
+0381	1	Jackson State University
+0382	1	Millsaps College
+0383	1	Mississippi College
+0384	1	Mississippi State University
+0385	1	Mississippi University for Women
+0386	1	Tougaloo College
+0387	1	University of Southern Mississippi
+0388	1	William Carey University
+0389	1	Avila University
+0390	1	Central Bible College
+0391	1	Cottey College
+0392	1	Culver-Stockton College
+0393	1	Drury University
+0394	1	Evangel University
+0395	1	Lincoln University
+0396	1	Missouri Baptist University
+0397	1	Missouri Western State University
+0398	1	Northwest Missouri State University
+0399	1	Park University
+0400	1	Rockhurst University
+0401	1	Saint Louis University-Main Campus
+0402	1	Southeast Missouri State University
+0403	1	Southwest Baptist University
+0404	1	Stephens College
+0405	1	Truman State University
+0406	1	University of Missouri-Kansas City
+0407	1	University of Missouri-St Louis
+0408	1	Westminster College
+0409	1	William Jewell College
+0410	1	Carroll College
+0411	1	Montana State University-Northern
+0412	1	Montana State University
+0413	1	Rocky Mountain College
+0414	1	The University of Montana-Western
+0415	1	University of Great Falls
+0416	1	The University of Montana
+0417	1	Bellevue University
+0418	1	BryanLGH College of Health Sciences
+0419	1	College of Saint Mary
+0420	1	Concordia University
+0421	1	Creighton University
+0422	1	Dana College
+0423	1	Doane College
+0424	1	Grace University
+0425	1	Hastings College
+0426	1	Midland Lutheran College
+0427	1	Nebraska Wesleyan University
+0428	1	Peru State College
+0429	1	Union College
+0430	1	University of Nebraska at Kearney
+0431	1	University of Nebraska-Lincoln
+0432	1	University of Nebraska at Omaha
+0433	1	Wayne State College
+0434	1	Truckee Meadows Community College
+0435	1	Keene State College
+0436	1	Rivier College
+0437	1	Arkansas Tech University
+0438	1	Central Baptist College
+0439	1	Harding University
+0440	1	Henderson State University
+0441	1	Hendrix College
+0442	1	John Brown University
+0443	1	Lyon College
+0444	1	National Park Community College
+0445	1	Ouachita Baptist University
+0446	1	Philander Smith College
+0447	1	Pulaski Technical College
+0448	1	Southeast Arkansas College
+0449	1	University of Arkansas
+0450	1	University of Arkansas-Fort Smith
+0451	1	University of Central Arkansas
+0452	1	University of the Ozarks
+0453	1	Bloomfield College
+0454	1	Drew University
+0455	1	Felician College
+0456	1	Montclair State University
+0457	1	Princeton University
+0458	1	Rowan University
+0459	1	Rutgers University-Camden
+0460	1	Rutgers University-Newark
+0461	1	Saint Peter's College
+0462	1	Stevens Institute of Technology
+0463	1	The College of New Jersey
+0464	1	College of Santa Fe
+0465	1	New Mexico Highlands University
+0466	1	St John's College
+0467	1	University of the Southwest
+0468	1	Adelphi University
+0469	1	Alfred University
+0470	1	Bard College
+0471	1	Barnard College
+0472	1	CUNY Brooklyn College
+0473	1	Cazenovia College
+0474	1	Clarkson University
+0475	1	Clinton Community College
+0476	1	Colgate University
+0477	1	Concordia College-New York
+0478	1	Daemen College
+0479	1	D'Youville College
+0480	1	Elmira College
+0481	1	Fashion Institute of Technology
+0482	1	Five Towns College
+0483	1	Hamilton College
+0484	1	Hartwick College
+0485	1	Hilbert College
+0486	1	Hobart William Smith Colleges
+0487	1	Hofstra University
+0488	1	Houghton College
+0489	1	Iona College
+0490	1	Ithaca College
+0491	1	Keuka College
+0492	1	Le Moyne College
+0493	1	Manhattan School of Music
+0494	1	Marist College
+0495	1	Marymount Manhattan College
+0496	1	Medaille College
+0497	1	Mercy College
+0498	1	Nazareth College
+0499	1	Niagara University
+0500	1	Nyack College
+0501	1	Pace University-New York
+0502	1	CUNY Queens College
+0503	1	Roberts Wesleyan College
+0504	1	Rochester Institute of Technology
+0505	1	Rockland Community College
+0506	1	Sage College of Albany
+0507	1	Russell Sage College
+0508	1	Sarah Lawrence College
+0509	1	School of Visual Arts
+0510	1	Skidmore College
+0511	1	Saint Bonaventure University
+0512	1	Saint John Fisher College
+0513	1	Saint Josephs College-Main Campus
+0514	1	St Lawrence University
+0515	1	SUNY College at Buffalo
+0516	1	SUNY at Albany
+0517	1	SUNY at Binghamton
+0518	1	SUNY College at Brockport
+0519	1	University at Buffalo
+0520	1	SUNY College at Cortland
+0521	1	SUNY at Fredonia
+0522	1	SUNY College at Oneonta
+0523	1	SUNY College at Oswego
+0524	1	SUNY College at Plattsburgh
+0525	1	SUNY College at Potsdam
+0526	1	CUNY College of Staten Island
+0527	1	The New School
+0528	1	University of Rochester
+0529	1	Utica College
+0530	1	Vassar College
+0531	1	Wagner College
+0532	1	Wells College
+0533	1	Yeshiva University
+0534	1	Barton College
+0535	1	Belmont Abbey College
+0536	1	Bennett College for Women
+0537	1	Brevard College
+0538	1	Catawba College
+0539	1	Chowan University
+0540	1	Davidson College
+0541	1	DeVry University-North Carolina
+0542	1	East Carolina University
+0543	1	Elon University
+0544	1	Fayetteville State University
+0545	1	Gardner-Webb University
+0546	1	Greensboro College
+0547	1	Guilford College
+0548	1	Lenoir-Rhyne University
+0549	1	Mars Hill College
+0550	1	Methodist University
+0551	1	Montreat College
+0552	1	Mount Olive College
+0553	1	North Carolina Central University
+0554	1	North Carolina Wesleyan College
+0555	1	Pfeiffer University
+0556	1	Queens University of Charlotte
+0557	1	Salem College
+0558	1	St Andrews Presbyterian College
+0559	1	Wake Forest University
+0560	1	Warren Wilson College
+0561	1	Western Carolina University
+0562	1	Wingate University
+0563	1	Dickinson State University
+0564	1	Jamestown College
+0565	1	Mayville State University
+0566	1	Trinity Bible College
+0567	1	University of Mary
+0568	1	Valley City State University
+0569	1	The Art Institute of Cincinnati
+0570	1	Ashland University
+0571	1	Baldwin-Wallace College
+0572	1	Bluffton University
+0573	1	Capital University
+0574	1	Cedarville University
+0575	1	Central Ohio Technical College
+0576	1	Central State University
+0577	1	Cincinnati Christian University
+0578	1	Cleveland State University
+0579	1	The College of Wooster
+0580	1	Davis College
+0581	1	Defiance College
+0582	1	Denison University
+0583	1	Heidelberg University
+0584	1	Hiram College
+0585	1	Hocking College
+0586	1	Kent State University Kent Campus
+0587	1	Kenyon College
+0588	1	Lourdes College
+0589	1	Malone University
+0590	1	MedCentral College of Nursing
+0591	1	Miami University-Oxford
+0592	1	Mount Union College
+0593	1	Mount Vernon Nazarene University
+0594	1	Notre Dame College
+0595	1	Oberlin College
+0596	1	Ohio Dominican University
+0597	1	Ohio University-Eastern Campus
+0598	1	Ohio Wesleyan University
+0599	1	Otterbein College
+0600	1	Terra State Community College
+0601	1	Ohio State University-Main Campus
+0602	1	University of Akron Main Campus
+0603	1	University of Dayton
+0604	1	The University of Findlay
+0605	1	University of Toledo
+0606	1	Urbana University
+0607	1	Ursuline College
+0608	1	Walsh University
+0609	1	Washington State Community College
+0610	1	Wilberforce University
+0611	1	Wilmington College
+0612	1	Wittenberg University
+0613	1	Wright State University-Main Campus
+0614	1	Xavier University
+0615	1	Youngstown State University
+0616	1	Cameron University
+0617	1	East Central University
+0618	1	Hillsdale Free Will Baptist College
+0619	1	Northeastern State University
+0620	1	Oklahoma Baptist University
+0621	1	Oklahoma City University
+0622	1	Oklahoma Wesleyan University
+0623	1	Oral Roberts University
+0624	1	Rose State College
+0625	1	Southwestern Christian University
+0626	1	Saint Gregorys University
+0627	1	University of Central Oklahoma
+0628	1	University of Tulsa
+0629	1	Central Oregon Community College
+0630	1	Clatsop Community College
+0631	1	Corban College
+0632	1	Eugene Bible College
+0633	1	George Fox University
+0634	1	Lewis & Clark College
+0635	1	Linfield College
+0636	1	Northwest Christian University
+0637	1	Oregon College of Art and Craft
+0638	1	Oregon Institute of Technology
+0639	1	Pacific University
+0640	1	Portland State University
+0641	1	Reed College
+0642	1	Rogue Community College
+0643	1	Southern Oregon University
+0644	1	University of Portland
+0645	1	Warner Pacific College
+0646	1	Western Oregon University
+0647	1	Willamette University
+0648	1	Albright College
+0649	1	Allegheny College
+0650	1	Alvernia University
+0651	1	Arcadia University
+0652	1	Bryn Mawr College
+0653	1	Bucknell University
+0654	1	Carlow University
+0655	1	Carnegie Mellon University
+0656	1	Central Pennsylvania College
+0657	1	Chatham University
+0658	1	Chestnut Hill College
+0659	1	Cheyney University of Pennsylvania
+0660	1	Clarion University of Pennsylvania
+0661	1	Delaware Valley College
+0662	1	DeSales University
+0663	1	Dickinson College
+0664	1	Drexel University
+0665	1	Duquesne University
+0666	1	Eastern University
+0667	1	Elizabethtown College
+0668	1	Franklin and Marshall College
+0669	1	Gannon University
+0670	1	Geneva College
+0671	1	Gettysburg College
+0672	1	Grove City College
+0673	1	Gwynedd Mercy College
+0674	1	Haverford College
+0675	1	Juniata College
+0676	1	Keystone College
+0677	1	King's College
+0678	1	Kutztown University of Pennsylvania
+0679	1	La Salle University
+0680	1	Lackawanna College
+0681	1	Lebanon Valley College
+0682	1	Lincoln University of Pennsylvania
+0683	1	Lock Haven University
+0684	1	Lycoming College
+0685	1	Marywood University
+0686	1	Mercyhurst College
+0687	1	Messiah College
+0688	1	Moore College of Art and Design
+0689	1	Peirce College
+0690	1	Philadelphia University
+0691	1	Pittsburgh Technical Institute
+0692	1	Robert Morris University
+0693	1	Rosemont College
+0694	1	Saint Francis University
+0695	1	Saint Joseph's University
+0696	1	Seton Hill University
+0697	1	Susquehanna University
+0698	1	Swarthmore College
+0699	1	Temple University
+0700	1	The University of the Arts
+0701	1	Thiel College
+0702	1	Thomas Jefferson University
+0703	1	University of Pittsburgh-Johnstown
+0704	1	University of Pittsburgh-Bradford
+0705	1	University of Scranton
+0706	1	Ursinus College
+0707	1	Valley Forge Christian College
+0708	1	Washington & Jefferson College
+0709	1	Waynesburg University
+0710	1	Westminster College
+0711	1	Widener University-Main Campus
+0712	1	Wilkes University
+0713	1	Wilson College
+0714	1	York College Pennsylvania
+0715	1	Bryant University
+0716	1	Johnson & Wales University
+0717	1	Rhode Island College
+0718	1	Roger Williams University
+0719	1	Salve Regina University
+0720	1	University of Rhode Island
+0721	1	Academy of Art University
+0722	1	Alliant International University
+0723	1	Azusa Pacific University
+0724	1	Biola University
+0725	1	California Baptist University
+0726	1	California Christian College
+0727	1	California College of the Arts
+0728	1	California Lutheran University
+0729	1	Chapman University
+0730	1	Claremont McKenna College
+0731	1	Concordia University
+0732	1	DeVry University-California
+0733	1	Hope International University
+0734	1	La Sierra University
+0735	1	Lake Tahoe Community College
+0736	1	Mills College
+0737	1	Mount St Mary's College
+0738	1	Northwestern Polytechnic University
+0739	1	Occidental College
+0740	1	Orange Coast College
+0741	1	Otis College of Art and Design
+0742	1	Platt College-San Diego
+0743	1	Point Loma Nazarene University
+0744	1	Pomona College
+0745	1	Saint Marys College of California
+0746	1	San Diego Christian College
+0747	1	San Francisco Art Institute
+0748	1	Santa Barbara City College
+0749	1	Santa Monica College
+0750	1	Shasta College
+0751	1	Simpson University
+0752	1	Soka University of America
+0753	1	The Master's College and Seminary
+0754	1	Thomas Aquinas College
+0755	1	University of California-Irvine
+0756	1	University of California-San Diego
+0757	1	University of Redlands
+0758	1	University of San Diego
+0759	1	Westmont College
+0760	1	Whittier College
+0761	1	Anderson University
+0762	1	Bob Jones University
+0763	1	Claflin University
+0764	1	Clemson University
+0765	1	College of Charleston
+0766	1	Columbia College
+0767	1	Converse College
+0768	1	Erskine College and Seminary
+0769	1	Furman University
+0770	1	Newberry College
+0771	1	Spartanburg Methodist College
+0772	1	University of South Carolina-Aiken
+0773	1	Winthrop University
+0774	1	Augustana College
+0775	1	Dakota State University
+0776	1	Mount Marty College
+0777	1	Northern State University
+0778	1	South Dakota State University
+0779	1	University of South Dakota
+0780	1	Aquinas College
+0781	1	Belmont University
+0782	1	Bethel University
+0783	1	Bryan College
+0784	1	Carson-Newman College
+0785	1	Chattanooga State Community College
+0786	1	Christian Brothers University
+0787	1	Cleveland State Community College
+0788	1	Columbia State Community College
+0789	1	Cumberland University
+0790	1	Dyersburg State Community College
+0791	1	East Tennessee State University
+0792	1	Fisk University
+0793	1	Free Will Baptist Bible College
+0794	1	Freed-Hardeman University
+0795	1	Jackson State Community College
+0796	1	Johnson Bible College
+0797	1	King College
+0798	1	Lambuth University
+0799	1	Lee University
+0800	1	Le Moyne-Owen College
+0801	1	Lincoln Memorial University
+0802	1	Lipscomb University
+0803	1	Martin Methodist College
+0804	1	Maryville College
+0805	1	Memphis College of Art
+0806	1	Middle Tennessee State University
+0807	1	Milligan College
+0808	1	Nashville State Community College
+0809	1	Northeast State Community College
+0810	1	Rhodes College
+0811	1	Roane State Community College
+0812	1	Southern Adventist University
+0813	1	Tennessee State University
+0814	1	Tennessee Technological University
+0815	1	Tennessee Temple University
+0816	1	Tennessee Wesleyan College
+0817	1	Trevecca Nazarene University
+0818	1	Tusculum College
+0819	1	Union University
+0820	1	University of Memphis
+0821	1	The University of Tennessee
+0822	1	The University of Tennessee-Martin
+0823	1	Sewanee-The University of the South
+0824	1	Vanderbilt University
+0825	1	Crichton College
+0826	1	Volunteer State Community College
+0827	1	Walters State Community College
+0828	1	Watkins College of Art & Design
+0829	1	Austin College
+0830	1	Baylor University
+0831	1	Central Texas College
+0832	1	Concordia University Texas
+0833	1	Dallas Baptist University
+0834	1	Dallas Christian College
+0835	1	DeVry University-Texas
+0836	1	East Texas Baptist University
+0837	1	Howard Payne University
+0838	1	Huston-Tillotson University
+0839	1	LeTourneau University
+0840	1	McMurry University
+0841	1	Panola College
+0842	1	Sam Houston State University
+0843	1	Schreiner University
+0844	1	Southern Methodist University
+0845	1	Southwestern Adventist University
+0846	1	Southwestern University
+0847	1	Saint Edward's University
+0848	1	Stephen F Austin State University
+0849	1	Tarleton State University
+0850	1	Texas A & M University
+0851	1	Texas A & M University at Galveston
+0852	1	Texas A & M University-Commerce
+0853	1	Texas A & M University-Kingsville
+0854	1	Texas Christian University
+0855	1	Texas Lutheran University
+0856	1	Texas State University-San Marcos
+0857	1	Texas Tech University
+0858	1	Texas Wesleyan University
+0859	1	Texas Woman's University
+0860	1	Trinity University
+0861	1	University of Dallas
+0862	1	University of Houston
+0863	1	University of Mary Hardin-Baylor
+0864	1	University of North Texas
+0865	1	The University of Texas at El Paso
+0866	1	The University of Texas at Dallas
+0867	1	The University of Texas at Austin
+0868	1	University of the Incarnate Word
+0869	1	Wayland Baptist University
+0870	1	West Texas A & M University
+0871	1	Wiley College
+0872	1	Brigham Young University
+0873	1	Latter-day Saints Business College
+0874	1	Southern Utah University
+0875	1	Utah State University
+0876	1	Utah Valley University
+0877	1	Weber State University
+0878	1	Westminster College
+0879	1	Bennington College
+0880	1	Burlington College
+0881	1	Champlain College
+0882	1	Goddard College
+0883	1	Green Mountain College
+0884	1	Johnson State College
+0885	1	Lyndon State College
+0886	1	Marlboro College
+0887	1	Norwich University
+0888	1	Saint Michael's College
+0889	1	Southern Vermont College
+0890	1	University of Vermont
+0891	1	Vermont Technical College
+0892	1	Advanced Technology Institute
+0893	1	Averett University
+0894	1	Bluefield College
+0895	1	Bridgewater College
+0896	1	Christopher Newport University
+0897	1	Eastern Mennonite University
+0898	1	ECPI College of Technology
+0899	1	Emory and Henry College
+0900	1	Ferrum College
+0901	1	George Mason University
+0902	1	George Mason University
+0903	1	Hampden-Sydney College
+0904	1	Hampton University
+0905	1	Hollins University
+0906	1	James Madison University
+0907	1	John Tyler Community College
+0908	1	Liberty University
+0909	1	Longwood University
+0910	1	Lynchburg College
+0911	1	Mary Baldwin College
+0912	1	Marymount University
+0913	1	Northern Virginia Community College
+0914	1	Northern Virginia Community College
+0915	1	Radford University
+0916	1	Randolph College
+0917	1	Randolph-Macon College
+0918	1	Regent University
+0919	1	Shenandoah University
+0920	1	Southern Virginia University
+0921	1	Sweet Briar College
+0922	1	College of William and Mary
+0923	1	Thomas Nelson Community College
+0924	1	Tidewater Community College
+0925	1	University of Mary Washington
+0926	1	University of Richmond
+0927	1	University of Virginia-Main Campus
+0928	1	Virginia Commonwealth University
+0929	1	Virginia Intermont College
+0930	1	Virginia Military Institute
+0931	1	Virginia State University
+0932	1	Virginia Wesleyan College
+0933	1	Washington and Lee University
+0934	1	Central Washington University
+0935	1	Clark College
+0936	1	DeVry University-Washington
+0937	1	Eastern Washington University
+0938	1	Gonzaga University
+0939	1	Green River Community College
+0940	1	Lower Columbia College
+0941	1	Northwest Indian College
+0942	1	Northwest University
+0943	1	Seattle Pacific University
+0944	1	Seattle University
+0945	1	Saint Martin's University
+0946	1	The Evergreen State College
+0947	1	University of Puget Sound
+0948	1	Walla Walla University
+0949	1	Washington State University
+0950	1	Western Washington University
+0951	1	Whitman College
+0952	1	Whitworth University
+0953	1	Alderson Broaddus College
+0954	1	Appalachian Bible College
+0955	1	Bethany College
+0956	1	Concord University
+0957	1	Fairmont State University
+0958	1	Glenville State College
+0959	1	Mountain State University
+0960	1	Ohio Valley University
+0961	1	Salem International University
+0962	1	University of Charleston
+0963	1	West Virginia State University
+0964	1	West Virginia Wesleyan College
+0965	1	Wheeling Jesuit University
+0966	1	Alverno College
+0967	1	Beloit College
+0968	1	Cardinal Stritch University
+0969	1	Carroll University
+0970	1	Carthage College
+0971	1	Concordia University-Wisconsin
+0972	1	Edgewood College
+0973	1	Lakeland College
+0974	1	Lawrence University
+0975	1	Marian University
+0976	1	Marquette University
+0977	1	Milwaukee Institute of Art & Design
+0978	1	Milwaukee School of Engineering
+0979	1	Mount Mary College
+0980	1	Northland College
+0981	1	Ripon College
+0982	1	Silver Lake College
+0983	1	Saint Norbert College
+0984	1	University of Wisconsin-La Crosse
+0985	1	University of Wisconsin-Parkside
+0986	1	University of Wisconsin-River Falls
+0987	1	University of Wisconsin-Superior
+0988	1	University of Wisconsin-Whitewater
+0989	1	University of Wisconsin-Eau Claire
+0990	1	University of Wisconsin-Milwaukee
+0991	1	Viterbo University
+0992	1	Adams State College
+0993	1	Aims Community College
+0994	1	Colorado College
+0995	1	Colorado Mountain College
+0996	1	Colorado School of Mines
+0997	1	Colorado State University-Pueblo
+0998	1	Colorado State University
+0999	1	Fort Lewis College
+1000	1	Johnson & Wales University-Denver
+1001	1	Mesa State College
+1002	1	Naropa University
+1003	1	Red Rocks Community College
+1004	1	University of Colorado at Boulder
+1005	1	University of Denver
+1006	1	University of Northern Colorado
+1007	1	Western State College of Colorado
+1008	1	Casper College
+1009	1	University of Wyoming
+1010	1	Briarwood College
+1011	1	Mitchell College
+1012	1	Quinnipiac University
+1013	1	Sacred Heart University
+1014	1	Saint Joseph College
+1015	1	Trinity College
+1016	1	University of Bridgeport
+1017	1	University of Connecticut
+1018	1	University of Hartford
+1019	1	Wesleyan University
+1020	1	Yale University
+1021	1	American University
+1022	1	Catholic University of America
+1023	1	George Mason University
+1024	1	Howard University
+1025	1	Trinity Washington University
+1026	1	University of Delaware
+1027	1	Wilmington University
+1028	1	Argosy University-Sarasota
+1029	1	Argosy University-Tampa
+1030	1	Barry University
+1031	1	Bethune-Cookman University
+1032	1	Clearwater Christian College
+1033	1	Central Florida Community College
+1034	1	Eckerd College
+1035	1	Flagler College
+1036	1	Florida Atlantic University
+1037	1	Florida College
+1038	1	Florida Gulf Coast University
+1039	1	Florida Institute of Technology
+1040	1	Florida International University
+1041	1	Florida Southern College
+1042	1	Florida State University
+1043	1	Florida State University
+1044	1	Full Sail University
+1045	1	Jacksonville University
+1046	1	Lynn University
+1047	1	New College of Florida
+1048	1	Nova Southeastern University
+1049	1	Ringling College of Art and Design
+1050	1	Rollins College
+1051	1	Saint Leo University
+1052	1	Saint Thomas University
+1053	1	Southeastern University
+1054	1	St Petersburg College
+1055	1	Stetson University
+1056	1	Trinity Baptist College
+1057	1	University of Central Florida
+1058	1	University of Florida
+1059	1	University of Miami
+1060	1	University of North Florida
+1061	1	The University of Tampa
+1062	1	Webber International University

@@ -1,0 +1,2002 @@
+﻿movie	amctv	title
+2000	2000	2000	1980
+0000	1	Butch Cassidy and the Sundance Kid
+0001	1	The Good, the Bad and the Ugly
+0002	1	Lawrence of Arabia
+0003	1	The Sound of Music
+0004	1	The Graduate
+0005	1	Spartacus
+0006	1	Dr. No
+0007	1	Doctor Zhivago
+0008	1	2001: A Space Odyssey
+0009	1	Rosemary's Baby
+0010	1	The Wild Bunch
+0011	1	Jaws
+0012	1	Star Wars
+0013	1	The Godfather Part II
+0014	1	Rocky
+0015	1	National Lampoon's Animal House
+0016	1	Blazing Saddles
+0017	1	Patton
+0018	1	The Sting
+0019	1	Chinatown
+0020	1	The French Connection
+0021	1	M*A*S*H
+0022	1	Dog Day Afternoon
+0023	1	Saturday Night Fever
+0024	1	The Towering Inferno
+0025	1	Kramer vs. Kramer
+0026	1	Raiders of the Lost Ark
+0027	1	Blade Runner
+0028	1	Top Gun
+0029	1	An Officer and a Gentleman
+0030	1	Fatal Attraction
+0031	1	The Big Chill
+0032	1	Arthur
+0033	1	Pulp Fiction
+0034	1	GoodFellas
+0035	1	Saving Private Ryan
+0036	1	Toy Story
+0037	1	Unforgiven
+0038	1	The Sixth Sense
+0039	1	The Matrix
+0040	1	American Beauty
+0041	1	L.A. Confidential
+0042	1	Philadelphia
+0043	1	City Slickers
+0044	1	The Dark Knight
+0045	1	No Country for Old Men
+0046	1	Shrek
+0047	1	Up
+0048	1	WALL-E
+0049	1	Avatar
+0050	1	Harry Potter and the Sorcerer's Stone
+0051	1	Slumdog Millionaire
+0052	1	The Pianist
+0053	1	Almost Famous
+0054	1	Requiem for a Dream
+0055	1	March of the Penguins
+0056	1	Lost in Translation
+0057	1	25th Hour
+0058	1	Gone With the Wind
+0059	1	Ferris Bueller's Day Off
+0060	1	Some Like It Hot
+0061	1	City Lights
+0062	1	Schindler's List
+0063	1	One Flew Over the Cuckoo's Nest
+0064	1	The Bridge on the River Kwai
+0065	1	Vertigo
+0066	1	On the Waterfront
+0067	1	Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb
+0068	1	Snow White and the Seven Dwarfs
+0069	1	The Treasure of the Sierra Madre
+0070	1	It Happened One Night
+0071	1	Fantasia
+0072	1	Red River
+0073	1	Modern Times
+0074	1	Yankee Doodle Dandy
+0075	1	His Girl Friday
+0076	1	A Star Is Born
+0077	1	42nd Street
+0078	1	Ninotchka
+0079	1	Nashville
+0080	1	Young Frankenstein
+0081	1	The Killer
+0082	1	Once Upon a Time in the West
+0083	1	The Red Badge of Courage
+0084	1	The Guns of Navarone
+0085	1	Ice Station Zebra
+0086	1	The Professionals
+0087	1	Deliverance
+0088	1	Raising Arizona
+0089	1	Oliver!
+0090	1	Elvis
+0091	1	Rushmore
+0092	1	Fast Times at Ridgemont High
+0093	1	The Piano
+0094	1	Planet of the Apes
+0095	1	Goldfinger
+0096	1	No Way Out
+0097	1	You Only Live Twice
+0098	1	For Your Eyes Only
+0099	1	Diamonds Are Forever
+0100	1	The Odd Couple II
+0101	1	A Woman Under the Influence
+0102	1	A Passage to India
+0103	1	Anatomy of a Murder
+0104	1	East of Eden
+0105	1	2010
+0106	1	Solaris
+0107	1	The Deer Hunter
+0108	1	Badlands
+0109	1	The King and I
+0110	1	Belle de Jour
+0111	1	Macbeth
+0112	1	Cries and Whispers
+0113	1	Adam's Rib
+0114	1	Do the Right Thing
+0115	1	Woman of the Year
+0116	1	Husbands and Wives
+0117	1	Coming Home
+0118	1	Murmur of the Heart
+0119	1	The Conversation
+0120	1	Atlantic City
+0121	1	Ofelas
+0122	1	Terms of Endearment
+0123	1	Amadeus
+0124	1	The Set-Up
+0125	1	Annapolis
+0126	1	Ghost Warrior
+0127	1	Carnival of Blood
+0128	1	The Terminator
+0129	1	Speed
+0130	1	Aliens
+0131	1	Abby
+0132	1	Carrie
+0133	1	The Order
+0134	1	An American Werewolf in London
+0135	1	Mean Streets
+0136	1	Alice Doesn't Live Here Anymore
+0137	1	The Bear
+0138	1	The Grifters
+0139	1	The Untouchables
+0140	1	Key Largo
+0141	1	The Roaring Twenties
+0142	1	The Asphalt Jungle
+0143	1	Serpico
+0144	1	Bullitt
+0145	1	Traffic
+0146	1	Marathon Man
+0147	1	The Big Easy
+0148	1	White Heat
+0149	1	Grease
+0150	1	Somebody Up There Likes Me
+0151	1	All the President's Men
+0152	1	I Never Sang for My Father
+0153	1	Places in the Heart
+0154	1	A Soldier's Story
+0155	1	The Day of the Jackal
+0156	1	Manhattan Murder Mystery
+0157	1	The Late Show
+0158	1	The Way We Were
+0159	1	Romancing the Stone
+0160	1	Stand by Me
+0161	1	Dave
+0162	1	Metropolitan
+0163	1	Valley Girl
+0164	1	Caddyshack II
+0165	1	National Lampoon's Animal House
+0166	1	Tampopo
+0167	1	Under the Rainbow
+0168	1	The Whoopee Boys
+0169	1	Who's Your Caddy?
+0170	1	If...
+0171	1	Planes, Trains and Automobiles
+0172	1	Duel
+0173	1	Earth vs. the Flying Saucers
+0174	1	Dear America: Letters Home from Vietnam
+0175	1	Breaking Away
+0176	1	Radio Days
+0177	1	The Purple Rose of Cairo
+0178	1	Witness
+0179	1	Born on the Fourth of July
+0180	1	Things Change
+0181	1	Robocop
+0182	1	Die Hard
+0183	1	The Accused
+0184	1	The Last Waltz
+0185	1	sex, lies, and videotape
+0186	1	Dangerous Liaisons
+0187	1	The Unbearable Lightness of Being
+0188	1	Enemies: A Love Story
+0189	1	The Cook, the Thief, His Wife and Her Lover
+0190	1	The War of the Roses
+0191	1	The Player
+0192	1	Wall Street 2
+0193	1	Diner
+0194	1	Slacker
+0195	1	Body Heat
+0196	1	To Sleep with Anger
+0197	1	Under the Volcano
+0198	1	Hannah and Her Sisters
+0199	1	Jackie Brown
+0200	1	Kill Bill Vol. 1
+0201	1	Glory
+0202	1	The Thin Red Line
+0203	1	The Ripper
+0204	1	Splash
+0205	1	Being There
+0206	1	Murphy's Romance
+0207	1	Under Heavy Fire
+0208	1	The Celluloid Closet
+0209	1	Toy Story 3
+0210	1	A Bug's Life
+0211	1	The Incredibles
+0212	1	Chicken Run
+0213	1	The Lost World: Jurassic Park
+0214	1	Rob Roy
+0215	1	Lethal Weapon 2
+0216	1	Angel Heart
+0217	1	Ghost
+0218	1	The Changeling
+0219	1	Lady in White
+0220	1	U.S. Marshals
+0221	1	They Drive by Night
+0222	1	The Matrix Reloaded
+0223	1	Minority Report
+0224	1	The Fifth Element
+0225	1	Dark City
+0226	1	Strange Days
+0227	1	Open Your Eyes
+0228	1	The Ice Storm
+0229	1	The Virgin Suicides
+0230	1	Donnie Darko
+0231	1	Family Viewing
+0232	1	Once Upon a Time in China
+0233	1	True Lies
+0234	1	Never Cry Wolf
+0235	1	Mulholland Falls
+0236	1	Something Wild
+0237	1	Cousin Bobby
+0238	1	Before Night Falls
+0239	1	Blue Collar
+0240	1	The Awful Truth
+0241	1	L.A. Story
+0242	1	Educating Rita
+0243	1	This Is Spinal Tap
+0244	1	Sweet Smell of Success
+0245	1	Batman Begins
+0246	1	Watchmen
+0247	1	Dark Blue
+0248	1	X-Men Origins: Wolverine
+0249	1	The Neverending Story
+0250	1	The Dark Crystal
+0251	1	Legend
+0252	1	Willow
+0253	1	Clockers
+0254	1	Jason and the Argonauts
+0255	1	Prince of Persia: The Sands of Time
+0256	1	Bambi II
+0257	1	The Secret of NIMH II: Timmy to the Rescue
+0258	1	A Goofy Movie
+0259	1	The Land Before Time: The Great Longneck Migration
+0260	1	Blood Simple
+0261	1	The Three Burials of Melquiades Estrada
+0262	1	Charley Varrick
+0263	1	A Simple Plan
+0264	1	Trespass
+0265	1	Route 9
+0266	1	Shrek 2
+0267	1	Howl's Moving Castle
+0268	1	Cocoon
+0269	1	Cloudy With a Chance of Meatballs
+0270	1	Robots
+0271	1	Short Circuit
+0272	1	Battle for Terra
+0273	1	Dune
+0274	1	Star Wars: Episode I - The Phantom Menace
+0275	1	Die Another Day
+0276	1	Quantum of Solace
+0277	1	Mission: Impossible III
+0278	1	There's Something About Mary
+0279	1	In &amp; Out
+0280	1	American Pie
+0281	1	10
+0282	1	The Oh in Ohio
+0283	1	The Limey
+0284	1	D.O.A.
+0285	1	Somewhere in the Night
+0286	1	The Salton Sea
+0287	1	Lost Highway
+0288	1	Time Bandits
+0289	1	Matilda
+0290	1	The Goonies
+0291	1	The Witches
+0292	1	Aparajito
+0293	1	City of God
+0294	1	Monsoon Wedding
+0295	1	Europa, Europa
+0296	1	Punch-Drunk Love
+0297	1	Defending Your Life
+0298	1	Stranger Than Fiction
+0299	1	Twist and Shout
+0300	1	I Wanna Hold Your Hand
+0301	1	The Panic in Needle Park
+0302	1	Winged Migration
+0303	1	Animals Are Beautiful People
+0304	1	Before Sunrise
+0305	1	Ghost World
+0306	1	Shopgirl
+0307	1	Paris, Texas
+0308	1	Bad Education
+0309	1	The Adjuster
+0310	1	Exotica
+0311	1	Giant
+0312	1	The Age of Innocence
+0313	1	The Hi-Lo Country
+0314	1	Untitled Fahrenheit 9/11 Sequel
+0315	1	Hearts and Minds
+0316	1	Bad Boys
+0317	1	Last Exit to Brooklyn
+0318	1	FDNY Dream Bike
+0319	1	Laura
+0320	1	Captains Courageous
+0321	1	Willy Wonka and the Chocolate Factory
+0322	1	Miracle on 34th Street
+0323	1	Scarlett
+0324	1	The Big Heat
+0325	1	Dragonheart
+0326	1	The Great Dictator
+0327	1	Raise the Red Lantern
+0328	1	High Noon
+0329	1	Against a Crooked Sky
+0330	1	They Were Expendable
+0331	1	The Manchurian Candidate
+0332	1	Bambi
+0333	1	King Kong
+0334	1	Fury
+0335	1	The Fugitive
+0336	1	The Thin Man
+0337	1	Fantasia 2000
+0338	1	Yellow Submarine
+0339	1	Manhattan Melodrama
+0340	1	Bananas
+0341	1	Switching Channels
+0342	1	The Front Page
+0343	1	The Wages of Fear
+0344	1	The Tenant
+0345	1	A Hard Day's Night
+0346	1	Carnal Knowledge
+0347	1	The Crying Game
+0348	1	Red
+0349	1	McCabe &amp; Mrs. Miller
+0350	1	The Shop Around the Corner
+0351	1	Intruder in the Dust
+0352	1	The Remains of the Day
+0353	1	Scream
+0354	1	The Omen
+0355	1	The Collector
+0356	1	Real Life
+0357	1	Trancers II: The Return of Jack Deth
+0358	1	Miller's Crossing
+0359	1	Thunderheart
+0360	1	The Big Red One
+0361	1	Syriana
+0362	1	Triangle
+0363	1	Objective, Burma!
+0364	1	The Last Valley
+0365	1	Winning
+0366	1	Black Gunn
+0367	1	The Big Push
+0368	1	Great Expectations
+0369	1	Straw Dogs
+0370	1	Barton Fink
+0371	1	Married to the Mob
+0372	1	Sea of Love
+0373	1	Hitler: The Last Ten Days
+0374	1	Born Yesterday
+0375	1	The Black Stallion
+0376	1	Pelle the Conqueror
+0377	1	Babe: Pig in the City
+0378	1	The Falcon and the Snowman
+0379	1	The Jolson Story
+0380	1	The Buddy Holly Story
+0381	1	The Three Caballeros
+0382	1	The Absent-Minded Professor
+0383	1	The Children of Paradise
+0384	1	Juno
+0385	1	Igby Goes Down
+0386	1	Jack
+0387	1	Down and Out in Beverly Hills
+0388	1	Short Cuts
+0389	1	Picnic at Hanging Rock
+0390	1	When Father Was Away on Business
+0391	1	Planet of the Apes
+0392	1	Battleground
+0393	1	The Getaway
+0394	1	In the Line of Fire
+0395	1	Hidden Agenda
+0396	1	Operation Daybreak
+0397	1	The Hunt for Red October
+0398	1	The Boys From Brazil
+0399	1	The Postman Always Rings Twice
+0400	1	California Suite
+0401	1	Twins
+0402	1	Max Dugan Returns
+0403	1	Grumpy Old Men
+0404	1	Funny Farm
+0405	1	Sabrina
+0406	1	Pather Panchali
+0407	1	Safe
+0408	1	Always
+0409	1	Roxanne
+0410	1	1900
+0411	1	Danton
+0412	1	Au Revoir Les Enfants
+0413	1	My Life as a Dog
+0414	1	Body and Soul
+0415	1	Mutiny on the Bounty
+0416	1	Hairspray
+0417	1	Silent Running
+0418	1	The Monster Squad
+0419	1	Star Trek IV: The Voyage Home
+0420	1	Star Trek VI: The Undiscovered Country
+0421	1	Whose Life Is It Anyway?
+0422	1	Blackboard Jungle
+0423	1	The King and I
+0424	1	Anna and the King
+0425	1	David Copperfield
+0426	1	Iron Monkey
+0427	1	The Scarlet Pimpernel
+0428	1	Limelight
+0429	1	Julia
+0430	1	Support Your Local Sheriff
+0431	1	How the West Was Won
+0432	1	The Seventh Victim
+0433	1	The Wicker Man
+0434	1	Crumb
+0435	1	Dear Zachary: A Letter to a Son About His Father
+0436	1	Lost Lost Lost
+0437	1	Red Rock West
+0438	1	Murder, My Sweet
+0439	1	Father of the Bride
+0440	1	Medium Cool
+0441	1	All Fall Down
+0442	1	Inherit the Wind
+0443	1	A Shot in the Dark
+0444	1	Amarcord
+0445	1	Shipwrecked
+0446	1	Honor Among Thieves
+0447	1	Star Trek: The Motion Picture
+0448	1	Topsy-Turvy
+0449	1	Bound for Glory
+0450	1	Mr. and Mrs. Bridge
+0451	1	The Lolly Madonna War
+0452	1	Save the Tiger
+0453	1	Next Stop, Greenwich Village
+0454	1	Scream Bloody Murder
+0455	1	My Brother Has Bad Dreams
+0456	1	Predator
+0457	1	Norma Rae
+0458	1	Against the Ropes
+0459	1	Rocky Marciano
+0460	1	Play It to the Bone
+0461	1	Body and Soul
+0462	1	Black Christmas
+0463	1	Ladyhawke
+0464	1	Robin Hood: Prince of Thieves
+0465	1	Invasion of the Body Snatchers
+0466	1	Return of the Jedi
+0467	1	The Last Emperor
+0468	1	Speed 2: Cruise Control
+0469	1	River's Edge
+0470	1	El Mariachi
+0471	1	Near Dark
+0472	1	The Plague Dogs
+0473	1	The Lost Honor of Katharina Blum
+0474	1	The Exorcist III
+0475	1	WarGames
+0476	1	The General
+0477	1	The Boston Strangler
+0478	1	L'État Sauvage
+0479	1	The Haunting of M
+0480	1	The Rage: Carrie 2
+0481	1	Akira
+0482	1	Evil Dead 2: Dead by Dawn
+0483	1	Fright Night
+0484	1	The Evil Dead
+0485	1	Nosferatu the Vampyre
+0486	1	Le Dernier Combat
+0487	1	The Rosary Murders
+0488	1	The Ninth Gate
+0489	1	The Crimson Rivers II: The Angels of the Apocalypse
+0490	1	The Apostate
+0491	1	Together
+0492	1	Private Affairs
+0493	1	The Fan
+0494	1	Murder-In-Law
+0495	1	The Phantom of the Opera
+0496	1	Little Shop of Horrors
+0497	1	Dirty Rotten Scoundrels
+0498	1	No Man's Land
+0499	1	Payback: Straight Up
+0500	1	Payback
+0501	1	The Man Who Would Not Die
+0502	1	Pocket Money
+0503	1	The Last Wave
+0504	1	Germinal
+0505	1	Black Robe
+0506	1	La Femme Nikita
+0507	1	To Have and Have Not
+0508	1	Requiem for a Heavyweight
+0509	1	Chisum
+0510	1	F/X
+0511	1	Brick
+0512	1	The Perfect Score
+0513	1	The Vanishing
+0514	1	The Usual Suspects
+0515	1	Z
+0516	1	The Godfather Part III
+0517	1	A Dry White Season
+0518	1	Assault of the Killer Bimbos
+0519	1	Goodbye, Columbus
+0520	1	Baby It's You
+0521	1	Winter Kills
+0522	1	Valentino
+0523	1	Days of Heaven
+0524	1	The Glass Menagerie
+0525	1	Let Him Have It
+0526	1	A Man for All Seasons
+0527	1	Notorious
+0528	1	Antonia
+0529	1	Fame
+0530	1	Thief
+0531	1	The Sea Wolf
+0532	1	Champion
+0533	1	Gentleman Jim
+0534	1	The Jesse Owens Story
+0535	1	Quiz Show
+0536	1	Nobody's Fool
+0537	1	Mask
+0538	1	The Story of Qiu Ju
+0539	1	The Jackal
+0540	1	Rope
+0541	1	Bad Company
+0542	1	Afterglow
+0543	1	Shadows
+0544	1	Farewell, My Concubine
+0545	1	The Front
+0546	1	Aladdin
+0547	1	The Jungle Book
+0548	1	The War of the Worlds
+0549	1	Bhaji on the Beach
+0550	1	Vagabond
+0551	1	Topper
+0552	1	Truly, Madly, Deeply
+0553	1	Pan's Labyrinth
+0554	1	Girlfriends
+0555	1	Clueless
+0556	1	The Candidate
+0557	1	To Die For
+0558	1	Raising Victor Vargas
+0559	1	Lucas
+0560	1	The Blues Brothers
+0561	1	National Lampoon's Vacation
+0562	1	Roger &amp; Me
+0563	1	Kagemusha
+0564	1	My Favorite Year
+0565	1	Quick Change
+0566	1	Maurice
+0567	1	Alfie
+0568	1	Soul Plane
+0569	1	Scarecrow
+0570	1	What's Love Got to Do with It?
+0571	1	Alien Trespass
+0572	1	Treasure Island
+0573	1	Full Metal Jacket
+0574	1	Good Morning, Vietnam
+0575	1	Casualties of War
+0576	1	Looney Tunes: Back in Action
+0577	1	The Wild Thornberrys Movie
+0578	1	Small Soldiers
+0579	1	The Fly
+0580	1	Terminator 3: Rise of the Machines
+0581	1	Little Miss Marker
+0582	1	The First Turn-On!
+0583	1	Reise der Hoffnung
+0584	1	Midnight Run
+0585	1	Splitting Heirs
+0586	1	Superman II
+0587	1	Crackers
+0588	1	Strangers in Good Company
+0589	1	Crossfire
+0590	1	Diva
+0591	1	Starting Over
+0592	1	Hard-Boiled
+0593	1	A Cry in the Dark
+0594	1	The Heartbreak Kid
+0595	1	Shampoo
+0596	1	Same Time, Next Year
+0597	1	Sleepover
+0598	1	Woodstock
+0599	1	The Rolling Stones: Gimme Shelter
+0600	1	Dogfight
+0601	1	The Dangerous Lives of Altar Boys
+0602	1	Girl, Interrupted
+0603	1	Entre Nous
+0604	1	Life Is Sweet
+0605	1	Reversal of Fortune
+0606	1	Dead Again
+0607	1	Swingers
+0608	1	Contempt
+0609	1	Sounder
+0610	1	Crossing Delancey
+0611	1	Soldier's Fortune
+0612	1	83 Hours 'Til Dawn
+0613	1	Out of Sight
+0614	1	Hard Eight
+0615	1	True Romance
+0616	1	Y Tu Mamá También
+0617	1	Crouching Tiger, Hidden Dragon
+0618	1	Ms. 45
+0619	1	My Left Foot
+0620	1	Edward II
+0621	1	The Thin Red Line
+0622	1	Letters from Iwo Jima
+0623	1	Paulie
+0624	1	Inventing the Abbotts
+0625	1	From Hell
+0626	1	Closet Land
+0627	1	The Doctor and the Devils
+0628	1	Game 6
+0629	1	SubUrbia
+0630	1	Higher Learning
+0631	1	The Goodbye Girl
+0632	1	Starman
+0633	1	Conrack
+0634	1	All of Me
+0635	1	Dumb and Dumber
+0636	1	Empire of the Sun
+0637	1	Ravenous
+0638	1	Kiss The Girls
+0639	1	The Silver Screen: Color Me Lavender
+0640	1	Lavender Limelight: Lesbians in Film
+0641	1	In the Cut
+0642	1	Sophie's Choice
+0643	1	Secret Lives: Hidden Children &amp; Their Rescuers During WWII
+0644	1	Ice Age: Dawn of the Dinosaurs
+0645	1	Toys
+0646	1	Odyssey: The Mind's Eye Presents Computer Animation Celebration
+0647	1	Spy Kids
+0648	1	X-Men
+0649	1	My Super Ex-Girlfriend
+0650	1	Bee Movie
+0651	1	Wallace &amp; Gromit: The Curse of the Were-Rabbit
+0652	1	Jurassic Park III
+0653	1	Crocodile Dundee
+0654	1	Slayground
+0655	1	The Duellists
+0656	1	The Road Warrior
+0657	1	Signs
+0658	1	The King
+0659	1	Undertow
+0660	1	The Believers
+0661	1	The Rapture
+0662	1	Maxie
+0663	1	The Beyond
+0664	1	Coogan's Bluff
+0665	1	Blade
+0666	1	Torrid Zone
+0667	1	They Died With Their Boots On
+0668	1	Frenzy
+0669	1	eXistenZ
+0670	1	A Scanner Darkly
+0671	1	A.I.: Artificial Intelligence
+0672	1	Coma
+0673	1	Code 46
+0674	1	Carmen
+0675	1	Subway
+0676	1	Cowboy Bebop: The Movie
+0677	1	Night of the Living Dead
+0678	1	Seconds
+0679	1	Femme Fatale
+0680	1	Videodrome
+0681	1	Geronimo: An American Legend
+0682	1	Working Girl
+0683	1	Swimming With Sharks
+0684	1	Nine to Five
+0685	1	Snow Angels
+0686	1	Pleasantville
+0687	1	Heavenly Creatures
+0688	1	Welcome to the Dollhouse
+0689	1	Bullet in the Head
+0690	1	Saraband
+0691	1	The Pride of the Yankees
+0692	1	Poseidon
+0693	1	Atonement
+0694	1	Fly Away Home
+0695	1	The New Age
+0696	1	The Law of Desire
+0697	1	Colonel Redl
+0698	1	Staircase
+0699	1	Kiss of the Spider Woman
+0700	1	Harlan County, USA
+0701	1	Best in Show
+0702	1	Mystery Train
+0703	1	Opportunity Knocks
+0704	1	Elizabethtown
+0705	1	Wonder Boys
+0706	1	Advertising Rules
+0707	1	The Family Stone
+0708	1	My Boss's Daughter
+0709	1	Green Lantern: First Flight
+0710	1	Batman: Mask of the Phantasm
+0711	1	Kick-Ass
+0712	1	Unbreakable
+0713	1	Hancock
+0714	1	Under the Hood
+0715	1	Extreme Justice
+0716	1	Edison Force
+0717	1	Scarred City
+0718	1	Cement
+0719	1	Fantastic Four
+0720	1	Catwoman
+0721	1	Reds
+0722	1	Spirited Away
+0723	1	Conan the Barbarian
+0724	1	Camelot
+0725	1	The Pagemaster
+0726	1	Heroic Duo
+0727	1	Gone Baby Gone
+0728	1	Hard Justice
+0729	1	Getting Gotti
+0730	1	Eastern Promises
+0731	1	A Bronx Tale
+0732	1	The Mask of Zorro
+0733	1	The Adventures of Hercules
+0734	1	Escape from El Diablo
+0735	1	The Last Unicorn
+0736	1	The Mummy
+0737	1	Balto II: Wolf Quest
+0738	1	Brother Bear
+0739	1	Little Mermaid II: Return to the Sea
+0740	1	Madagascar
+0741	1	Ice Age
+0742	1	The Little Polar Bear
+0743	1	The Secret of NIMH
+0744	1	An American Tail
+0745	1	The Rescuers
+0746	1	Balto
+0747	1	An Extremely Goofy Movie
+0748	1	The Moderns
+0749	1	The Land Before Time IV: The Journey Through the Mists
+0750	1	The Land Before Time: Journey to Big Water
+0751	1	The Burning Plain
+0752	1	Conflict of Interest
+0753	1	The Go-Getter
+0754	1	Kid Vengeance
+0755	1	The Man from Snowy River
+0756	1	Kill Me Again
+0757	1	Stand and Deliver
+0758	1	Out of Time
+0759	1	The Lesser Evil
+0760	1	The Underneath
+0761	1	Shark Tale
+0762	1	The Little Mermaid
+0763	1	Cinderella
+0764	1	Ponyo on the Cliff by the Sea
+0765	1	Driving Miss Daisy
+0766	1	On Golden Pond
+0767	1	Aero-Troopers
+0768	1	Buzz Lightyear of Star Command: The Adventure Begins
+0769	1	Heartbeeps
+0770	1	101 Dalmatians
+0771	1	Lilo &amp; Stitch
+0772	1	Enemy Mine
+0773	1	9
+0774	1	Ferngully 2: The Magical Rescue
+0775	1	Star Wars: Episode II - Attack of the Clones
+0776	1	Fanboys
+0777	1	The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe
+0778	1	Titan A.E.
+0779	1	The World Is Not Enough
+0780	1	Mission: Impossible II
+0781	1	Spy Game
+0782	1	Johnny Handsome
+0783	1	Full Contact
+0784	1	The Replacement Killers
+0785	1	The Bourne Identity
+0786	1	The Waterdance
+0787	1	Nothing in Common
+0788	1	La Cage Aux Folles
+0789	1	The Muppet Christmas Carol
+0790	1	American Pie 2
+0791	1	Homework
+0792	1	Eurotrip
+0793	1	H.O.T.S.
+0794	1	Knocked Up
+0795	1	Anger Management
+0796	1	Just Friends
+0797	1	Switch
+0798	1	Ghosts Can't Do It
+0799	1	Walking and Talking
+0800	1	Bridget Jones's Diary
+0801	1	Chasing Amy
+0802	1	Your Friends &amp; Neighbors
+0803	1	Kissing Jessica Stein
+0804	1	Sleeping Dogs Lie
+0805	1	Saved!
+0806	1	Love &amp; Sex
+0807	1	Seeing Other People
+0808	1	The Long Good Friday
+0809	1	Sexy Beast
+0810	1	Collateral
+0811	1	Rachel and the Stranger
+0812	1	Fix
+0813	1	Snoopy, Come Home
+0814	1	Harry Potter and the Goblet of Fire
+0815	1	Ma Vie en Rose
+0816	1	Get Shorty
+0817	1	Two Deaths
+0818	1	Bean
+0819	1	Innocent Voices
+0820	1	Mississippi Masala
+0821	1	The Wedding Banquet
+0822	1	What's Cooking?
+0823	1	Unsettled Land
+0824	1	Black Beauty
+0825	1	The Garden of the Finzi-Continis
+0826	1	The Grey Zone
+0827	1	Simple Men
+0828	1	The Big Lebowski
+0829	1	Hallam Foe
+0830	1	They Shoot Horses, Don't They?
+0831	1	Out of Africa
+0832	1	Elizabeth
+0833	1	Bell, Book and Candle
+0834	1	18 Again!
+0835	1	Castaway
+0836	1	Sexual Response
+0837	1	The People I've Slept With
+0838	1	24 Hour Party People
+0839	1	Josie and the Pussycats
+0840	1	Naked Lunch
+0841	1	Bad Lieutenant
+0842	1	Born Into Brothels
+0843	1	When We Were Kings
+0844	1	Deep Blue
+0845	1	The Wild Parrots of Telegraph Hill
+0846	1	The Gods Must Be Crazy
+0847	1	Cane Toads: An Unnatural History
+0848	1	The Adventures of Milo and Otis
+0849	1	The End of Violence
+0850	1	Spring Forward
+0851	1	Conversations With Other Women
+0852	1	Boyfriends and Girlfriends
+0853	1	Coming to America
+0854	1	Far from Heaven
+0855	1	The King of Marvin Gardens
+0856	1	Japanese Story
+0857	1	Reality Bites
+0858	1	My First Mister
+0859	1	Yes
+0860	1	Twin Peaks: Fire Walk with Me
+0861	1	Dark Side
+0862	1	Los Abrazos Rotos
+0863	1	Where the Day Takes You
+0864	1	Lantana
+0865	1	Liebestraum
+0866	1	40 Carats
+0867	1	Grace of My Heart
+0868	1	Jocks
+0869	1	Together Alone
+0870	1	That Championship Season
+0871	1	Silent Light
+0872	1	Return of the Secaucus 7
+0873	1	Waitress
+0874	1	Loggerheads
+0875	1	I.O.U.S.A.
+0876	1	American Casino
+0877	1	Inside Job
+0878	1	The Panama Deception
+0879	1	Michael Moore Hates America
+0880	1	DC 9/11: Time of Crisis
+0881	1	Six Days
+0882	1	Ladder 49
+0883	1	The Cruise
+0884	1	The Adventures of Ichabod and Mr. Toad
+0885	1	That's Entertainment! III
+0886	1	Wattstax
+0887	1	Disney's A Christmas Carol
+0888	1	A Christmas Story
+0889	1	Bye Bye Monkey
+0890	1	Rabbit Test
+0891	1	The Silent Partner
+0892	1	The Addiction
+0893	1	Angus
+0894	1	Happily Ever After
+0895	1	Cool and the Crazy
+0896	1	Trumbo
+0897	1	The Cat's Meow
+0898	1	The Kid Stays in the Picture
+0899	1	Cradle Will Rock
+0900	1	The Madness of King George
+0901	1	Breaking the Waves
+0902	1	Diabolique
+0903	1	Chungking Express
+0904	1	The Shootist
+0905	1	The Manchurian Candidate
+0906	1	Pinocchio
+0907	1	Babe
+0908	1	The Grey Fox
+0909	1	The Mask of Fu Manchu
+0910	1	In the Realm of the Senses
+0911	1	Fancy Pants
+0912	1	Who Is Killing the Great Chefs of Europe?
+0913	1	Apocalypse Now Redux
+0914	1	Camille
+0915	1	Wagon Master
+0916	1	Animal Crackers
+0917	1	Madame Butterfly
+0918	1	Breathless
+0919	1	Kundun
+0920	1	The Woman in the Window
+0921	1	The Projectionist
+0922	1	Lemon Sky
+0923	1	Wonder Women
+0924	1	Mon Oncle d'Amérique
+0925	1	Last Man Standing
+0926	1	Brigadoon
+0927	1	Talk to Her
+0928	1	The Decalogue [TV Series]
+0929	1	Sundance and the Kid
+0930	1	Sands of Iwo Jima
+0931	1	H2
+0932	1	Spiker
+0933	1	Cop Land
+0934	1	Citizen Ruth
+0935	1	The Serpent and the Rainbow
+0936	1	The Omen
+0937	1	The Company of Wolves
+0938	1	The Man from Laramie
+0939	1	Police
+0940	1	Re-Animator
+0941	1	Paris Trout
+0942	1	Talk Radio
+0943	1	Time After Time
+0944	1	For a Few Dollars More
+0945	1	Broken Rainbow
+0946	1	Monolith
+0947	1	The Kingdom
+0948	1	Hotel Rwanda
+0949	1	Savior
+0950	1	Prisoner of the Mountains
+0951	1	Welcome to Sarajevo
+0952	1	Soldiers Pay
+0953	1	Zulu
+0954	1	Smash Palace
+0955	1	A Year of the Quiet Sun
+0956	1	The Misfits
+0957	1	Great Expectations
+0958	1	The Ruling Class
+0959	1	The Onion Field
+0960	1	Trees Lounge
+0961	1	Claire's Knee
+0962	1	Chloe in the Afternoon
+0963	1	The Marquise of O
+0964	1	Jesus of Montreal
+0965	1	Mahler
+0966	1	Il Diavolo in Corpo
+0967	1	Holiday
+0968	1	The Young Black Stallion
+0969	1	Duma
+0970	1	Babette's Feast
+0971	1	Stuart Little
+0972	1	This is Elvis
+0973	1	Elvis on Tour
+0974	1	The Bad and the Beautiful
+0975	1	I'll Cry Tomorrow
+0976	1	The Time of Your Life
+0977	1	Flubber
+0978	1	Vanya on 42nd Street
+0979	1	Baby Mama
+0980	1	Paper Heart
+0981	1	Rocket Science
+0982	1	What's Eating Gilbert Grape
+0983	1	Slackers
+0984	1	Boogie Nights
+0985	1	Break of Day
+0986	1	Underground Aces
+0987	1	Soylent Green
+0988	1	Mad Max Beyond Thunderdome
+0989	1	The Time Machine
+0990	1	Time Runner
+0991	1	Fong Sai-Yuk
+0992	1	The Getaway
+0993	1	The Outlaw Josey Wales
+0994	1	Missing
+0995	1	The Black Hand
+0996	1	Moby Dick
+0997	1	The Truth About Charlie
+0998	1	Edge of the City
+0999	1	Enter the Dragon
+1000	1	Quackser Fortune Has a Cousin in the Bronx
+1001	1	The Prime of Miss Jean Brodie
+1002	1	The Landlord
+1003	1	The Benny Goodman Story
+1004	1	Grumpier Old Men
+1005	1	The Bridges of Madison County
+1006	1	Way Out West
+1007	1	Fletch
+1008	1	The Wild Child
+1009	1	Darkness and Light
+1010	1	Hamlet
+1011	1	Nightbreed
+1012	1	Solomon and Gaenor
+1013	1	Tristan &amp; Isolde
+1014	1	Faraway, So Close!
+1015	1	Angie
+1016	1	The Last Metro
+1017	1	Restoration
+1018	1	Cinema Paradiso
+1019	1	Hairspray
+1020	1	Primer
+1021	1	The Charge of the Model-T's
+1022	1	Not of This Earth
+1023	1	Quills
+1024	1	Vengeance Is Mine
+1025	1	Anastasia
+1026	1	The Legend of Suriyothai
+1027	1	One Night With the King
+1028	1	Drunken Master
+1029	1	The Dark Command
+1030	1	It's a Mad, Mad, Mad, Mad World
+1031	1	Monte Walsh
+1032	1	Sparkle
+1033	1	Play Misty for Me
+1034	1	You'll Like My Mother
+1035	1	Blood From the Mummy's Tomb
+1036	1	The Asphyx
+1037	1	Jesus
+1038	1	Murder by Death
+1039	1	The Ritual
+1040	1	The Andromeda Strain
+1041	1	The Wicker Man
+1042	1	The Official Story
+1043	1	Must Read After My Death
+1044	1	Deliver Us From Evil
+1045	1	Fritz the Cat
+1046	1	After Innocence
+1047	1	The Boys of Baraka
+1048	1	Cinderella Liberty
+1049	1	Father of the Bride
+1050	1	This Revolution
+1051	1	Hoop Dreams
+1052	1	The Taste of Cherry
+1053	1	Dark Horse
+1054	1	Guinevere
+1055	1	The Rainbow
+1056	1	Outrageous
+1057	1	Inspector Clouseau
+1058	1	The Profound Desire of the Gods
+1059	1	Pal Joey
+1060	1	Hair
+1061	1	The Swiss Family Robinson
+1062	1	Pet Sematary
+1063	1	The Liars' Club
+1064	1	The Opposite of Sex
+1065	1	Big Night
+1066	1	Shakespeare in Love
+1067	1	An Awfully Big Adventure
+1068	1	The Karate Kid
+1069	1	Indagine su un Cittadino al di Sopra di Ogni Sospetto
+1070	1	Edward Scissorhands
+1071	1	Ride in a Pink Car
+1072	1	Willie and Scratch
+1073	1	Million Dollar Baby
+1074	1	The Opponent
+1075	1	Pugili
+1076	1	Streets of Gold
+1077	1	Carolina Skeletons
+1078	1	Daens
+1079	1	Man Bites Dog
+1080	1	Big Trouble in Little China
+1081	1	Trouble in Mind
+1082	1	Love at Large
+1083	1	Fat City
+1084	1	Tin Cup
+1085	1	The Best of Times
+1086	1	Bay of Blood
+1087	1	Murder by Decree
+1088	1	Wedding in White
+1089	1	Sisters
+1090	1	What the Peeper Saw
+1091	1	Moulin Rouge
+1092	1	The Last of Sheila
+1093	1	Pee-Wee's Big Adventure
+1094	1	Skokie
+1095	1	Juggernaut
+1096	1	Ruthless People
+1097	1	Traveller
+1098	1	Transporter 2
+1099	1	Options
+1100	1	Die Hard With a Vengeance
+1101	1	Predator 2
+1102	1	Man Facing Southeast
+1103	1	Richard Pryor: Live on the Sunset Strip
+1104	1	Gods and Monsters
+1105	1	The People Vs. Larry Flynt
+1106	1	Hearts of Darkness: A Filmmaker's Apocalypse
+1107	1	La Mort En Direct
+1108	1	Dominion: A Prequel to the Exorcist
+1109	1	Exorcist: The Beginning
+1110	1	The Entrance
+1111	1	WarGames: The Dead Code
+1112	1	Hearts of the West
+1113	1	The Krays
+1114	1	Sweet Sweetback's Baadasssss Song
+1115	1	Demonios En El Jardin
+1116	1	The Curse of the Cat People
+1117	1	Kaos
+1118	1	Caro Diario
+1119	1	Firestarter
+1120	1	Jawbreaker
+1121	1	Make a Wish
+1122	1	Tamara
+1123	1	Audrey Rose
+1124	1	Cursed
+1125	1	May
+1126	1	The Oracle
+1127	1	The Stuff
+1128	1	From Beyond
+1129	1	Deep Cover
+1130	1	Ghost Story
+1131	1	The Hospital
+1132	1	Bill &amp; Ted's Excellent Adventure
+1133	1	The Noah
+1134	1	Escape from Safehaven
+1135	1	The Great Muppet Caper
+1136	1	Charlotte's Web
+1137	1	End of Days
+1138	1	The Crimson Rivers
+1139	1	Barfly
+1140	1	The Informant
+1141	1	Thesis
+1142	1	The Eighteenth Angel
+1143	1	The Longest Yard
+1144	1	Mean Machine
+1145	1	I Hope They Serve Beer in Hell
+1146	1	American Pie Presents: The Naked Mile
+1147	1	Harold
+1148	1	An Occurrence at Owl Creek Bridge
+1149	1	The Tale of Ruby Rose
+1150	1	Wolf
+1151	1	Damage
+1152	1	Hot Fuzz
+1153	1	Dog Soldiers
+1154	1	Misery
+1155	1	Juice
+1156	1	The Wedding Singer
+1157	1	Spies Like Us
+1158	1	Raw Meat
+1159	1	Evita
+1160	1	Jesus Christ Superstar
+1161	1	The Army of Crime
+1162	1	Red Surf
+1163	1	Sense and Sensibility
+1164	1	Newsies
+1165	1	Delirious
+1166	1	Tapeheads
+1167	1	Redline
+1168	1	Shaft's Big Score!
+1169	1	American Drive-In
+1170	1	Tale of a Vampire
+1171	1	Cesar &amp; Rosalie
+1172	1	Alpha Dog
+1173	1	Havoc 2: Normal Adolescent Behavior
+1174	1	Crime 101
+1175	1	Fun with Dick and Jane
+1176	1	Red Lights
+1177	1	Insomnia
+1178	1	Matinee
+1179	1	The Slayer
+1180	1	The Masque of the Red Death
+1181	1	Desperate Characters
+1182	1	Police Story 2
+1183	1	Thirteen Days
+1184	1	La Grande Bouffe
+1185	1	Seven
+1186	1	Gremlins
+1187	1	Yol
+1188	1	Tommy
+1189	1	Chicago
+1190	1	Citizen Cohn
+1191	1	Mishima: A Life in Four Chapters
+1192	1	The Plot Against Harry
+1193	1	The Ballad of Andy Crocker
+1194	1	Incident at Oglala: The Leonard Peltier Story
+1195	1	Slam
+1196	1	Cornbread, Earl and Me
+1197	1	Thunder Alley
+1198	1	Breakin'
+1199	1	Go Tigers!
+1200	1	Coach Carter
+1201	1	The Harder They Come
+1202	1	The Next Hit
+1203	1	Cadillac Records
+1204	1	Center Stage
+1205	1	Some Call It Loving
+1206	1	Guns of the Magnificent Seven
+1207	1	The Sons of Katie Elder
+1208	1	Under Siege 2: Dark Territory
+1209	1	Moll Flanders
+1210	1	Three Comrades
+1211	1	The Enchanted Cottage
+1212	1	Seven Beauties
+1213	1	Living in Oblivion
+1214	1	Undercover Blues
+1215	1	Desert Passion
+1216	1	Little Children
+1217	1	Scandal
+1218	1	The Lost Man
+1219	1	Tales from the Crypt
+1220	1	Moment by Moment
+1221	1	Mrs. Parker and the Vicious Circle
+1222	1	The Reivers
+1223	1	The Wrong Guys
+1224	1	Silver Bears
+1225	1	Lies
+1226	1	The Blue Kite
+1227	1	Jack the Giant Killer
+1228	1	The Shape of Things to Come
+1229	1	The Jungle Book 2
+1230	1	Journey to the Center of the Earth
+1231	1	When Worlds Collide
+1232	1	Invasion of the Body Snatchers
+1233	1	The Incredible Mr. Limpet
+1234	1	The Snow Queen
+1235	1	Eat Drink Man Woman
+1236	1	Little Voice
+1237	1	Little Miss Marker
+1238	1	The Great Bank Robbery
+1239	1	Comfort and Joy
+1240	1	Charles et Lucie
+1241	1	Heaven Can Wait
+1242	1	Down to Earth
+1243	1	Meet John Doe
+1244	1	Cal
+1245	1	Lady in the Water
+1246	1	Return to Waterloo
+1247	1	Anything But Love
+1248	1	Bring It On
+1249	1	Real Women Have Curves
+1250	1	Gregory's Girl
+1251	1	Modern Problems
+1252	1	Gilda Live
+1253	1	Like Father, Like Son
+1254	1	Cold Souls
+1255	1	Bonnie's Kids
+1256	1	Day for Night
+1257	1	Mule Skinner Blues
+1258	1	Pauline at the Beach
+1259	1	No Nukes
+1260	1	Alfie
+1261	1	Friday After Next
+1262	1	The Players Club
+1263	1	The Addams Family
+1264	1	Bone
+1265	1	Nuns on the Run
+1266	1	White Chicks
+1267	1	Trapped in Paradise
+1268	1	We're No Angels
+1269	1	XXY
+1270	1	Mr. Woodcock
+1271	1	Dennis the Menace Strikes Again
+1272	1	Sweetie
+1273	1	MacArthur
+1274	1	Kidnapped
+1275	1	The Long Ships
+1276	1	Break of Dawn
+1277	1	Cromwell
+1278	1	The Squeeze
+1279	1	Inspector Gadget 2
+1280	1	Pete's Dragon
+1281	1	The SpongeBob SquarePants Movie
+1282	1	Monkeybone
+1283	1	Spy Kids 2: The Island of Lost Dreams
+1284	1	Jimmy Neutron: Boy Genius
+1285	1	Bratz
+1286	1	The Rugrats Movie
+1287	1	Rugrats Go Wild
+1288	1	Rock 'n' Roll High School
+1289	1	Innerspace
+1290	1	Santa Sangre
+1291	1	Syngenor
+1292	1	Terminator Salvation
+1293	1	Transformers
+1294	1	Plenty
+1295	1	The Goods
+1296	1	Nacho Libre
+1297	1	The Ladykillers
+1298	1	Best Boy
+1299	1	Bataan
+1300	1	Forbidden
+1301	1	Tom, Dick and Harry
+1302	1	Betty Blue
+1303	1	Wanda
+1304	1	The Gazebo
+1305	1	Soldier's Girl
+1306	1	The Woman in Red
+1307	1	Along Came Polly
+1308	1	Norbit
+1309	1	Black Shampoo
+1310	1	Adventures in Babysitting
+1311	1	Don't Tell Mom the Babysitter's Dead
+1312	1	Trojan War
+1313	1	New York Minute
+1314	1	U2: Rattle and Hum
+1315	1	Big Time
+1316	1	Storefront Hitchcock
+1317	1	The Song Remains the Same
+1318	1	Let It Be
+1319	1	Festival Express
+1320	1	The Weavers: Wasn't That a Time!
+1321	1	Nickelodeon
+1322	1	The Slaughter Rule
+1323	1	An Angel at My Table
+1324	1	Manic
+1325	1	Holy Smoke
+1326	1	Remparts d'Argile
+1327	1	Que la Bête Meure
+1328	1	Crooked Hearts
+1329	1	Mondays in the Sun
+1330	1	The Talented Mr. Ripley
+1331	1	Kicking and Screaming
+1332	1	The Last Days of Disco
+1333	1	Sounder
+1334	1	Nightjohn
+1335	1	Ballast
+1336	1	The Firm
+1337	1	Christine
+1338	1	Suddenly
+1339	1	The Florentine
+1340	1	Santitos
+1341	1	Sweet Sixteen
+1342	1	Men With Guns
+1343	1	The Gatekeeper
+1344	1	Women on the Verge of a Nervous Breakdown
+1345	1	Truth or Dare
+1346	1	Lucía, Lucía
+1347	1	The Flower of My Secret
+1348	1	Grand Canyon
+1349	1	The Crossing Guard
+1350	1	The New Legend of Shaolin
+1351	1	Sunland Heat
+1352	1	The Emperor and the Assassin
+1353	1	Red Cliff II
+1354	1	I Spit on Your Grave
+1355	1	The Blade
+1356	1	Dawn of the Dead
+1357	1	Munich
+1358	1	The Boxer
+1359	1	Fairy Tales
+1360	1	Fatal Temptation
+1361	1	Deathtrap
+1362	1	Doctor Dolittle
+1363	1	Monkey Trouble
+1364	1	From the Earth to the Moon
+1365	1	Parenthood
+1366	1	The Illusionist
+1367	1	1984
+1368	1	Mr. Sardonicus
+1369	1	Death Becomes Her
+1370	1	All or Nothing
+1371	1	Tape
+1372	1	Garden State
+1373	1	The Good Girl
+1374	1	Rumble Fish
+1375	1	Decoration Day
+1376	1	Private Benjamin
+1377	1	About a Boy
+1378	1	Blume in Love
+1379	1	Love Potion No. 9
+1380	1	Dumb and Dumberer: When Harry Met Lloyd
+1381	1	Oh, God!
+1382	1	The Savages
+1383	1	Georgia Rule
+1384	1	The Bone Collector
+1385	1	Delicatessen
+1386	1	The Legend of Alfred Packer
+1387	1	Priest
+1388	1	The Reckoning
+1389	1	Eyes of Laura Mars
+1390	1	Fear
+1391	1	While the City Sleeps
+1392	1	My Best Friend's Wedding
+1393	1	Mortal Thoughts
+1394	1	...And Justice for All
+1395	1	Primal Fear
+1396	1	The Cell 2
+1397	1	The Ring
+1398	1	Altered States
+1399	1	The Hoax
+1400	1	Stonewall
+1401	1	Paris is Burning
+1402	1	Go Fish
+1403	1	Deception
+1404	1	Love in Cold Blood
+1405	1	Basic Instinct
+1406	1	Tightrope
+1407	1	Call Me
+1408	1	Sting: Bring on the Night
+1409	1	Mr. Deeds
+1410	1	I Have Never Forgotten You: The Life and Legacy of Simon Wiesenthal
+1411	1	The Hanoi Hilton
+1412	1	The Diary of Anne Frank
+1413	1	Oskar Schindler: The True Story
+1414	1	The Triplets of Belleville
+1415	1	Ice Age: The Meltdown
+1416	1	Odyssey: The Mind's Eye Presents Luminous Visions
+1417	1	Odyssey: Computer Animation Festival, Vol. 3
+1418	1	The Tale of Despereaux
+1419	1	Flushed Away
+1420	1	Tim Burton's Corpse Bride
+1421	1	James and the Giant Peach
+1422	1	Bolt
+1423	1	Superman: The Movie
+1424	1	Hellboy II: The Golden Army
+1425	1	Bewitched
+1426	1	Blankman
+1427	1	Tremors
+1428	1	Baby... Secret of the Lost Legend
+1429	1	Lake Placid
+1430	1	The Island of Dr. Moreau
+1431	1	A Beautiful Mind
+1432	1	Away From Her
+1433	1	Séraphine
+1434	1	Henry &amp; June
+1435	1	Shine
+1436	1	La Vie Est Un Roman
+1437	1	Sweet Lorraine
+1438	1	Piranha II: The Spawning
+1439	1	Piranha 3-D
+1440	1	Evil Laugh
+1441	1	Eye of the Eagle 2: Inside the Enemy
+1442	1	The Legend of Hell House
+1443	1	Near Death
+1444	1	Scary Movie 2
+1445	1	The Birds
+1446	1	Caché
+1447	1	Read My Lips
+1448	1	Jacob's Ladder
+1449	1	Fire in the Sky
+1450	1	Elephant
+1451	1	The Locusts
+1452	1	Cape Fear
+1453	1	Winter's Bone
+1454	1	The Blair Witch Project
+1455	1	Blade II
+1456	1	Chuck Berry: Hail! Hail! Rock 'n' Roll
+1457	1	Dolores Claiborne
+1458	1	Looking for Richard
+1459	1	Death on the Nile
+1460	1	Franklyn
+1461	1	The Count of Monte Cristo
+1462	1	Nirvana
+1463	1	Year of the Fish
+1464	1	The Fountain
+1465	1	Dirty Pretty Things
+1466	1	The Lives of Others
+1467	1	Cadaveri Eccellenti
+1468	1	Sci-Fighters
+1469	1	Ghost in the Shell 2: Innocence
+1470	1	Ratcatcher
+1471	1	Time Quest
+1472	1	The X-Files
+1473	1	Mortal Kombat
+1474	1	Hot Shots! Part Deux
+1475	1	Lawnmower Man 2: Jobe's War
+1476	1	Blue City
+1477	1	Paycheck
+1478	1	Johnny Mnemonic
+1479	1	Land of the Dead
+1480	1	The Omega Man
+1481	1	Wild Things 3: Diamonds in the Rough
+1482	1	Frequency
+1483	1	Next
+1484	1	The Butterfly Effect
+1485	1	The Ballad of Little Jo
+1486	1	The Fastest Gun Alive
+1487	1	Posse
+1488	1	Winds of the Wasteland
+1489	1	The Carpetbaggers
+1490	1	Rio Grande
+1491	1	Pat Garrett and Billy the Kid
+1492	1	Lost City of the Jungle
+1493	1	High Plains Drifter
+1494	1	Dogma
+1495	1	The Freshman
+1496	1	The Last Days
+1497	1	Wonderland
+1498	1	The Majestic
+1499	1	The Brady Bunch Movie
+1500	1	Blast from the Past
+1501	1	The Holy Girl
+1502	1	My Summer of Love
+1503	1	Rain
+1504	1	Me and You and Everyone We Know
+1505	1	The Barbarian Invasions
+1506	1	Immoral Mistress
+1507	1	The Wicked City
+1508	1	Fist of Legend
+1509	1	Faithless
+1510	1	The Day After Tomorrow
+1511	1	Counterstrike
+1512	1	Careful, He Might Hear You
+1513	1	Remember Me
+1514	1	Letters To Juliet
+1515	1	The Sheltering Sky
+1516	1	The Secret Garden
+1517	1	Dreamer: Inspired by a True Story
+1518	1	Free Willy
+1519	1	Taking Off
+1520	1	Barbershop
+1521	1	Cooley High
+1522	1	George of the Jungle 2
+1523	1	Irreconcilable Differences
+1524	1	Love! Valour! Compassion!
+1525	1	In America
+1526	1	Brusten Himmel
+1527	1	Bang the Drum Slowly
+1528	1	It's My Party
+1529	1	Wrestling with Angels: Playright Tony Kushner
+1530	1	Alamo Bay
+1531	1	I Shot Andy Warhol
+1532	1	Piñero
+1533	1	Rosa Luxemburg
+1534	1	Basquiat
+1535	1	Change of Habit
+1536	1	Coal Miner's Daughter
+1537	1	The Grand
+1538	1	Thumbsucker
+1539	1	Dead Poets Society
+1540	1	Smother
+1541	1	Haiku Tunnel
+1542	1	The Hudsucker Proxy
+1543	1	The Secret of My Success
+1544	1	Pieces of April
+1545	1	Guess Who
+1546	1	Flirting With Disaster
+1547	1	The Big Kahuna
+1548	1	The Weather Man
+1549	1	Boiler Room
+1550	1	Cousins
+1551	1	Hellboy
+1552	1	The Dead Zone
+1553	1	Superman Returns
+1554	1	Dick Tracy
+1555	1	Ultimate Avengers: The Movie
+1556	1	Darkman 2: The Return of Durant
+1557	1	The Crow: City of Angels
+1558	1	Superman: Doomsday
+1559	1	Wonder Woman
+1560	1	Mighty Morphin Power Rangers: The Movie
+1561	1	Ghost in the Machine
+1562	1	Defendor
+1563	1	Resurrection
+1564	1	Training Day
+1565	1	S.W.A.T.
+1566	1	Heading Home
+1567	1	New Jack City
+1568	1	X-Men: The Last Stand
+1569	1	Silver Hawk
+1570	1	The People That Time Forgot
+1571	1	Rudyard Kipling's The Jungle Book
+1572	1	Ever After
+1573	1	Shaft
+1574	1	Cocaine Cowboys
+1575	1	Fulltime Killer
+1576	1	PTU
+1577	1	Sleepwalking
+1578	1	Before and After
+1579	1	Untamed Heart
+1580	1	Some Girl
+1581	1	Teen Mothers
+1582	1	Brooklyn's Finest
+1583	1	Trade
+1584	1	London to Brighton
+1585	1	Once Were Warriors
+1586	1	The Cement Garden
+1587	1	Rain Man
+1588	1	Tom and Huck
+1589	1	Von Ryan's Express
+1590	1	Superfly
+1591	1	Fantastic Voyage
+1592	1	It Came from Beneath the Sea
+1593	1	Winds of Change
+1594	1	Peter Pan
+1595	1	Sinbad: Beyond the Veil of Mists
+1596	1	A Kid in Aladdin's Palace
+1597	1	The Odyssey
+1598	1	Young Hercules
+1599	1	Bush Christmas
+1600	1	The Green Berets
+1601	1	Faerie Tale Theatre: Jack and the Beanstalk
+1602	1	Born Free
+1603	1	Faerie Tale Theatre: The Princess Who Had Never Laughed
+1604	1	The Lost Treasures of the Grand Canyon
+1605	1	Percy Jackson and the Lightning Thief
+1606	1	Sweeney Todd: The Demon Barber of Fleet Street
+1607	1	An American Tail: Fievel Goes West
+1608	1	Faerie Tale Theatre: The Little Mermaid
+1609	1	Kronk's New Groove
+1610	1	The Lion King 1½
+1611	1	Curious George
+1612	1	Over the Hedge
+1613	1	The Aristocats
+1614	1	The Sugarland Express
+1615	1	The Incredible Journey
+1616	1	Homeward Bound: The Incredible Journey
+1617	1	Black Hawk Down
+1618	1	The Land Before Time V: The Mysterious Island
+1619	1	Bat 21
+1620	1	Stir Crazy
+1621	1	Licence to Kill
+1622	1	Get Carter
+1623	1	Monster's Ball
+1624	1	The Apostle
+1625	1	Henry &amp; Verlin
+1626	1	Insomnia
+1627	1	Before the Devil Knows You're Dead
+1628	1	Happily N'Ever After
+1629	1	Hercules
+1630	1	Doogal
+1631	1	The Adventures of Tom Thumb and Thumbelina
+1632	1	Babes in Toyland
+1633	1	The Hunchback of Notre Dame
+1634	1	Cinderella II: Dreams Come True
+1635	1	Little Nemo: Adventures in Slumberland
+1636	1	My Neighbor Totoro
+1637	1	Maria's Lovers
+1638	1	Igor
+1639	1	The 3 Worlds of Gulliver
+1640	1	Harry and the Hendersons
+1641	1	Tribute
+1642	1	Paradise Road
+1643	1	Sylvia Scarlett
+1644	1	Flight of the Navigator
+1645	1	Monster House
+1646	1	Jetsons: The Movie
+1647	1	Meet the Robinsons
+1648	1	101 Dalmatians II: Patch's London Adventure
+1649	1	101 Dalmatians
+1650	1	Lilo &amp; Stitch 2: Stitch Has a Glitch
+1651	1	Alien Siege
+1652	1	Pathfinder
+1653	1	28 Days Later
+1654	1	Race to Witch Mountain
+1655	1	Spirit of the Forest
+1656	1	Star Wars: Episode III - Revenge of the Sith
+1657	1	Starship Troopers
+1658	1	Screamers
+1659	1	Harry Potter and the Half-Blood Prince
+1660	1	The Spiderwick Chronicles
+1661	1	Eragon
+1662	1	Vexille
+1663	1	Heavy Metal
+1664	1	A View to a Kill
+1665	1	Termination Man
+1666	1	XXX
+1667	1	Charlie's Angels
+1668	1	Body of Lies
+1669	1	Rendition
+1670	1	A Different Loyalty
+1671	1	They Might Be Giants
+1672	1	The Watcher
+1673	1	Most Wanted
+1674	1	Silent Trigger
+1675	1	The Thomas Crown Affair
+1676	1	Arachnophobia
+1677	1	Blown Away
+1678	1	Once a Thief
+1679	1	Broken Arrow
+1680	1	Summer Rental
+1681	1	Frantic
+1682	1	Body Rock
+1683	1	Hide in Plain Sight
+1684	1	The Simpsons Movie
+1685	1	Beavis and Butt-Head Do America
+1686	1	Overboard
+1687	1	Dodgeball: A True Underdog Story
+1688	1	The King of Comedy
+1689	1	Zero Effect
+1690	1	Fatal Instinct
+1691	1	The Birdcage
+1692	1	Pink Flamingos
+1693	1	Christmas Carol: The Musical
+1694	1	Mondovino
+1695	1	American Wedding
+1696	1	More American Graffiti
+1697	1	Better Off Dead
+1698	1	Freeway
+1699	1	Some Kind of Wonderful
+1700	1	Two Girls and a Guy
+1701	1	National Lampoon's Senior Trip
+1702	1	National Lampoon's Dorm Daze 2
+1703	1	Never Again
+1704	1	Analyze This
+1705	1	Joe Somebody
+1706	1	Big Bully
+1707	1	You, Me and Dupree
+1708	1	Deck the Halls
+1709	1	Letter to Brezhnev
+1710	1	Bridget Jones: The Edge of Reason
+1711	1	Notting Hill
+1712	1	I Love You . . . Don't Touch Me!
+1713	1	Moonlight Whispers
+1714	1	The Frightened Woman
+1715	1	Closer
+1716	1	The Portrait of a Lady
+1717	1	Choke
+1718	1	9 Songs
+1719	1	Young People Fucking
+1720	1	Saving Face
+1721	1	A Woman's A Helluva Thing
+1722	1	Gummo
+1723	1	Big Girls Don't Cry
+1724	1	Marjoe
+1725	1	Straight Out of Brooklyn
+1726	1	Bad Girls From Valley High
+1727	1	Trick
+1728	1	All The Rage
+1729	1	Bob &amp; Carol &amp; Ted &amp; Alice
+1730	1	Sonatine
+1731	1	Hit Man
+1732	1	A Prayer for the Dying
+1733	1	Cellular
+1734	1	Body Puzzle
+1735	1	Dot and the Kangaroo
+1736	1	The Swan Princess: Escape From Castle Mountain
+1737	1	Amélie
+1738	1	Billy Elliot
+1739	1	Throw Momma From the Train
+1740	1	Performance
+1741	1	The Yakuza
+1742	1	Sammy and Rosie Get Laid
+1743	1	The Buddha of Suburbia
+1744	1	Offside
+1745	1	An Unremarkable Life
+1746	1	Soul Food
+1747	1	Pushing Hands
+1748	1	Kama Sutra: A Tale of Love
+1749	1	Desert Hearts
+1750	1	Miriam
+1751	1	Haven
+1752	1	The Aryan Couple
+1753	1	Out of the Ashes
+1754	1	Operation Filmmaker
+1755	1	Heartlands
+1756	1	Por La Libre
+1757	1	Lacombe Lucien
+1758	1	Voyage of the Damned
+1759	1	Tristram Shandy: A Cock and Bull Story
+1760	1	F. Scott Fitzgerald and the Last of the Belles
+1761	1	Lars and the Real Girl
+1762	1	Danny Deckchair
+1763	1	Delivery Boys
+1764	1	Elizabeth: The Golden Age
+1765	1	The Lion in Winter
+1766	1	Queen Margot
+1767	1	A Zed &amp; Two Noughts
+1768	1	Thirty Two Short Films About Glenn Gould
+1769	1	Women in Love
+1770	1	Effi Briest
+1771	1	Dance with a Stranger
+1772	1	Soup for One
+1773	1	Sidewalk Stories
+1774	1	America's Heart and Soul
+1775	1	The Texas Chainsaw Massacre
+1776	1	Kurt &amp; Courtney
+1777	1	Rock Star
+1778	1	Smithereens
+1779	1	Things Behind the Sun
+1780	1	Light of Day
+1781	1	Help!
+1782	1	Beyond the Valley of the Dolls
+1783	1	Advise and Consent
+1784	1	Broken Flowers
+1785	1	The Brown Bunny
+1786	1	Cecil Taylor: Burning Poles
+1787	1	The Last Days of Chez Nous
+1788	1	The Young Poisoner's Handbook
+1789	1	Suicide Kings
+1790	1	Overnight
+1791	1	Full-Tilt Boogie
+1792	1	Earth
+1793	1	Aliens of the Deep
+1794	1	Atlantis
+1795	1	Under the Sea 3D
+1796	1	Dolphins and Whales 3D: Tribes of the Ocean
+1797	1	The Legend of Lobo
+1798	1	Powaqqatsi
+1799	1	Lassie Come Home
+1800	1	Bedazzled
+1801	1	A.K.
+1802	1	What Happened Was...
+1803	1	Va Savoir
+1804	1	Reprise
+1805	1	Experience Preferred... But Not Essential
+1806	1	Full Frontal
+1807	1	Sidekicks
+1808	1	Salsa
+1809	1	High Season
+1810	1	Flirt
+1811	1	The Scent of Green Papaya
+1812	1	The Buccaneers
+1813	1	Persuasion
+1814	1	Dolls
+1815	1	Zhou Yu's Train
+1816	1	Lovely &amp; Amazing
+1817	1	Lotto Land
+1818	1	This Boy's Life
+1819	1	Without You I'm Nothing
+1820	1	Manny &amp; Lo
+1821	1	The Horseplayer
+1822	1	Border Radio
+1823	1	Sordid Lives
+1824	1	Never Forever
+1825	1	The Van
+1826	1	Lakeboat
+1827	1	King of California
+1828	1	Illtown
+1829	1	The Whole Wide World
+1830	1	The Stationmaster's Wife
+1831	1	La Fracture du Myocarde
+1832	1	Kingdom Hospital
+1833	1	She Creature
+1834	1	Mike's Murder
+1835	1	Twisted
+1836	1	Tie Me Up! Tie Me Down!
+1837	1	Second Skin
+1838	1	I've Heard the Mermaids Singing
+1839	1	Separate But Equal
+1840	1	Eddie
+1841	1	The Hidden 2
+1842	1	Sins of the Night
+1843	1	Downhill Racer
+1844	1	Running Brave
+1845	1	Prefontaine
+1846	1	Inserts
+1847	1	That Championship Season
+1848	1	The Sum of Us
+1849	1	Torch Song Trilogy
+1850	1	The Adventures of Priscilla, Queen of the Desert
+1851	1	To Wong Foo, Thanks for Everything! Julie Newmar
+1852	1	Into the West
+1853	1	Fairy Tale: A True Story
+1854	1	Last Night
+1855	1	Restaurant
+1856	1	The Spitfire Grill
+1857	1	Personal Velocity: Three Portraits
+1858	1	Making Love
+1859	1	Billy's Hollywood Screen Kiss
+1860	1	Slutty Summer
+1861	1	The Broken Hearts Club: A Romantic Comedy
+1862	1	Firecracker
+1863	1	Immortal Combat
+1864	1	Hamburger Hill
+1865	1	Sioux City
+1866	1	World Trade Center
+1867	1	The War Room
+1868	1	Jimmy Carter Man From Plains
+1869	1	Startup.com
+1870	1	The Yes Men
+1871	1	The Agronomist
+1872	1	Path to Paradise: The Untold Story of the World Trade Center Bombing
+1873	1	Rockets Redglare!
+1874	1	Switchback
+1875	1	Journey into Fear
+1876	1	So Dear to My Heart
+1877	1	Somewhere in Time
+1878	1	International Velvet
+1879	1	Lumière and Company
+1880	1	It Came from Hollywood
+1881	1	Bamboozled
+1882	1	Bye Bye Birdie
+1883	1	Chain of Desire
+1884	1	Standing in the Shadows of Motown
+1885	1	Soul to Soul
+1886	1	Lightning in a Bottle
+1887	1	Brothers and Sisters in Concert
+1888	1	A Christmas Carol
+1889	1	It Runs in the Family
+1890	1	O Lucky Man!
+1891	1	Get Out Your Handkerchiefs
+1892	1	The Blue and the Gray
+1893	1	Seems Like Old Times
+1894	1	It Seemed Like a Good Idea at the Time
+1895	1	Violette Nozière
+1896	1	Anatomy
+1897	1	The Hand That Rocks the Cradle
+1898	1	Driller Killer
+1899	1	Dragonworld: The Legend Continues
+1900	1	Biggles
+1901	1	The Skateboard Kid
+1902	1	Roadracers
+1903	1	Coonskin
+1904	1	The Neverending Story II: The Next Chapter
+1905	1	Krull
+1906	1	Flipper
+1907	1	Misty
+1908	1	Mysterious Island
+1909	1	King Kong Escapes
+1910	1	O
+1911	1	Tales from the Script
+1912	1	Fade to Black
+1913	1	This Film Is Not Yet Rated
+1914	1	How to Get Ahead in Advertising
+1915	1	The Man in the Iron Mask
+1916	1	Ghosts of Mississippi
+1917	1	Yaaba
+1918	1	Cleopatra
+1919	1	Elvira Madigan
+1920	1	The Galaxy Express 999
+1921	1	The Emigrants
+1922	1	The Passion of The Christ
+1923	1	Belle Epoque
+1924	1	Kingdom of Heaven
+1925	1	Gray's Anatomy
+1926	1	Love Letter
+1927	1	Road to Perdition
+1928	1	The Great Gatsby
+1929	1	Pinocchio
+1930	1	The Point
+1931	1	The Fox and the Hound
+1932	1	102 Dalmatians
+1933	1	Oliver and Company
+1934	1	Speed Racer
+1935	1	Buddy
+1936	1	Born to Be Wild
+1937	1	Summer of the Monkeys
+1938	1	Blue Desert
+1939	1	Carlito's Way
+1940	1	Love Affair
+1941	1	Element of Doubt
+1942	1	Fluke
+1943	1	Toby McTeague
+1944	1	Airborne
+1945	1	Désiré
+1946	1	Stroszek
+1947	1	The Rocky Horror Picture Show
+1948	1	Mary Shelley's Frankenstein
+1949	1	In Search of Dracula
+1950	1	The Wolfman
+1951	1	The Raven
+1952	1	Chaplin
+1953	1	Edison, The Man
+1954	1	The Paper Chase
+1955	1	The Beatles: Magical Mystery Tour
+1956	1	El Condor
+1957	1	The Women
+1958	1	The Warriors
+1959	1	Southern Comfort
+1960	1	Eulogy
+1961	1	Good Bye Lenin!
+1962	1	Primary Colors
+1963	1	Storyville
+1964	1	The Natural
+1965	1	Home Alone
+1966	1	Menace II Society
+1967	1	The Music Box
+1968	1	Trial by Jury
+1969	1	December 7th
+1970	1	Jeepers Creepers
+1971	1	Cabin Fever
+1972	1	The Last House on the Left
+1973	1	Shrooms
+1974	1	The Hills Have Eyes 2
+1975	1	The Hills Have Eyes
+1976	1	Resident Evil: Extinction
+1977	1	30 Days of Night
+1978	1	Plasterhead
+1979	1	Frontièr(s)
+1980	1	Kids
+1981	1	Stevie
+1982	1	Orphan
+1983	1	The Unborn
+1984	1	Santeria
+1985	1	Wishmaster 4: The Prophecy Fulfilled
+1986	1	The Thing
+1987	1	The Four Musketeers
+1988	1	Castle in the Sky
+1989	1	Legalese
+1990	1	Sssssss
+1991	1	The Arabian Nights
+1992	1	Year of the Gun
+1993	1	Bombardier
+1994	1	The Bride with White Hair 2
+1995	1	The Hitman
+1996	1	Shanghai Noon
+1997	1	The King of Masks
+1998	1	Shanghai Triad
+1999	1	Beyond Re-Animator

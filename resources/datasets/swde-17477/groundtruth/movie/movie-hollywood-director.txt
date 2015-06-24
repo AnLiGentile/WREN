@@ -1,0 +1,2002 @@
+﻿movie	hollywood	director
+2000	1977	2147	1813
+0000	1	Stanley Kramer
+0001	1	Jacques Becker
+0002	1	Sergei Gerasimov
+0003	1	Delbert Mann
+0004	1	Andrzej Wajda
+0005	1	Norman Taurog
+0006	1	Ingmar Bergman
+0007	1	Alexandre Astruc
+0008	1	J. Lee Thompson
+0009	1	Georges Franju
+0010	1	Robert Bresson
+0011	1	Michael Miller
+0012	2	Tay Garnett	Ford I. Beebe
+0013	2	Terry Gilliam	Terry Jones
+0014	1	Otto Preminger
+0015	1	Jørgen Leth
+0016	1	John Schlesinger
+0017	1	Cornel Wilde
+0018	1	Nicholas Sgarro
+0019	1	Blake Edwards
+0020	1	Ken Hannam
+0021	1	Roy Ward Baker
+0022	1	John Trent
+0023	1	Clint Eastwood
+0024	1	Guy Green
+0025	1	Robert Stevenson
+0026	1	Stuart Rosenberg
+0027	1	Anthony M. Dawson
+0028	1	Arthur Marks
+0029	1	Michael Anderson
+0030	1	Herk Harvey
+0031	1	Nicolas Gessner
+0032	2	Laura Mulvey	Peter Wollen
+0033	1	Paul Kyriazi
+0034	1	Rainer Werner Fassbinder
+0035	1	Tobe Hooper
+0036	1	Brian De Palma
+0037	1	Sidney Lumet
+0038	1	Norman J. Warren
+0039	1	John Guillermin
+0040	1	Blake Edwards
+0041	1	John Sturges
+0042	1	Maurizio Lucidi
+0043	1	Gerry Poulson
+0044	1	Vincent McEveety
+0045	1	François Truffaut
+0046	1	John Florea
+0047	1	Peter Hyams
+0048	1	Ken Russell
+0049	2	Craig Mitchell	Don Coscarelli
+0050	1	Tom Gries
+0051	1	Federico G. Aicardi
+0052	1	Lewis John Carlino
+0053	1	Andre Halimi
+0054	2	Joe Dante	Allan Arkush
+0055	1	Charles B. Griffith
+0056	1	Kevin Connor
+0057	1	George Cukor
+0058	1	Richard T. Heffron
+0059	1	Shyam Benegal
+0060	1	Guy Green
+0061	1	Jonathan Kaplan
+0062	1	David Berlatsky
+0063	1	Ken Hannam
+0064	1	Charles Jarrott
+0065	1	George Gage
+0066	1	Peter Collinson
+0067	1	Bert I. Gordon
+0068	1	Pierre Schoendoerffer
+0069	2	John Berry	Albert T. Viola
+0070	1	Agnès Varda
+0071	1	Linda Yellen
+0072	1	Alan Arkin
+0073	1	John Landis
+0074	1	Paul Verhoeven
+0075	1	George A. Romero
+0076	1	Rudy Durand
+0077	2	Chuck Vincent	Marc Ubell
+0078	1	Jeremy Kagan
+0079	1	James Fargo
+0080	1	John Landis
+0081	2	Allan Arkush	Henry Suso
+0082	1	Richard Franklin
+0083	1	Ted Bafaloukos
+0084	1	Michael Schultz
+0085	1	Joseph Ruben
+0086	1	John Hough
+0087	1	Alan J. Pakula
+0088	1	Philip Kaufman
+0089	1	Frank Pierson
+0090	1	Reinhard Hauff
+0091	2	Ross Hagen	Julian Roffman
+0092	2	Lewis Teague	Corey Allen
+0093	1	Nicholas Webster
+0094	1	Norman Jewison
+0095	1	Noel Nosseck
+0096	1	Sean S. Cunningham
+0097	1	Robert J. Rosenthal
+0098	1	Matthew Robbins
+0099	1	Richard Bennett
+0100	1	James Polakof
+0101	1	Blake Edwards
+0102	1	Kevin Connor
+0103	1	Steve Previn
+0104	1	Patrick Schulmann
+0105	2	Stanley Kramer	Frank Kramer
+0106	1	Allan Arkush
+0107	1	Donald Crombie
+0108	1	Timothy Galfas
+0109	1	John Frankenheimer
+0110	1	Werner Herzog
+0111	1	Richard Quine
+0112	0	<NULL>
+0113	1	Mark Robson
+0114	1	Ted Kotcheff
+0115	1	Ralph Liddle
+0116	1	Ringo Lam
+0117	1	Lewis Gilbert
+0118	1	Ivan Reitman
+0119	1	Andrzej Wajda
+0120	1	Jerry Schatzberg
+0121	1	Terry Jones
+0122	1	Gerald Sindell
+0123	1	Roman Polanski
+0124	1	Ralph Nelson
+0125	1	Don Chaffey
+0126	1	Tom Kotani
+0127	1	Anna Thomas
+0128	1	George Bloomfield
+0129	1	Jeff Werner
+0130	1	Marshall Brickman
+0131	1	Matthew Chapman
+0132	1	Paul Verhoeven
+0133	1	William Wiard
+0134	1	Anne Bancroft
+0135	1	Paul Schrader
+0136	1	Roger Vadim
+0137	1	Martin Davidson
+0138	1	Gus Trikonis
+0139	1	Federico Fellini
+0140	1	Alvin Rakoff
+0141	1	Clive Donner
+0142	1	Robert Butler
+0143	1	Robert Kaylor
+0144	1	Maurice Pialat
+0145	3	David Zucker	Jerry Zucker	Jim Abrahams
+0146	1	Robert Zemeckis
+0147	1	Larry Peerce
+0148	1	Robert Greenwald
+0149	1	Jacques Bral
+0150	1	William Sachs
+0151	1	Paul Lynch
+0152	1	Ronald Neame
+0153	1	Vittorio De Sica
+0154	1	Joseph Losey
+0155	2	Alexander Kozyr	Mikhail Karyukov
+0156	1	Buzz Kulik
+0157	1	Umberto Lenzi
+0158	1	Nanni Loy
+0159	1	Jack Smight
+0160	1	Michael Ritchie
+0161	1	Robert Redford
+0162	1	James Glickenhaus
+0163	1	George Bowers
+0164	1	Brian G. Hutton
+0165	1	Claudia Weill
+0166	1	Joel Schumacher
+0167	1	Steven Hilliard Stern
+0168	1	Claude Pinoteau
+0169	1	Frank Perry
+0170	1	Karel Reisz
+0171	1	George Kaczender
+0172	1	J. Lee Thompson
+0173	1	Burt Reynolds
+0174	1	Ken Wiederhorn
+0175	1	Christopher Miles
+0176	1	Ron Mann
+0177	1	Richard Pearce
+0178	1	Walter Hill
+0179	1	Andrew Bergman
+0180	1	Jenny Bowen
+0181	1	Roger Corman
+0182	1	Claude Jutra
+0183	1	Terry Gilliam
+0184	1	Michi Gleason
+0185	1	Steve Gordon
+0186	1	Roger Spottiswoode
+0187	1	Bob Clark
+0188	1	Ernest Day
+0189	1	John D. Lamond
+0190	1	Bernie Rollins
+0191	1	Bruce Beresford
+0192	1	Tim Burstall
+0193	1	Jim Sharman
+0194	1	Herbert Ross
+0195	1	Jeremy Joe Kronsberg
+0196	1	John Irvin
+0197	1	Marcello Andréi
+0198	1	Luis Valdez
+0199	1	Desmond Davis
+0200	1	Allan King
+0201	1	Stewart Raffill
+0202	1	Joseph Van Winkle
+0203	1	Donald Shebib
+0204	1	Edward Bianchi
+0205	1	Howard H. Avedis
+0206	1	Howard R. Cohen
+0207	1	Arthur Hiller
+0208	1	Sidney J. Furie
+0209	1	Ryszard Bugajski
+0210	1	Gary Sherman
+0211	1	Kinji Fukasaku
+0212	1	Jerry Belson
+0213	1	Sean S. Cunningham
+0214	1	David Schmoeller
+0215	1	Jack Hofsiss
+0216	1	John Milius
+0217	1	Randal Kleiser
+0218	1	Robert Dornhelm
+0219	1	Richard Loncraine
+0220	1	Harley Cokliss
+0221	1	David Leivick
+0222	1	Stuart Gillard
+0223	1	Pierre de Moro
+0224	1	Phillip Noyce
+0225	1	Tom McLoughlin
+0226	1	George Nierenberg
+0227	1	Mai Zetterling
+0228	1	Michael L. Miller
+0229	1	Tim Hunter
+0230	1	Don Coscarelli
+0231	1	Wolf Gremm
+0232	1	Don Chaffey
+0233	1	Fletcher Markle
+0234	1	James L. Conway
+0235	1	Michael Blakemore
+0236	1	Peter Duffell
+0237	1	Richard Donner
+0238	1	Tony Bill
+0239	1	Norman Jewison
+0240	1	Jerzy Skolimowski
+0241	1	Dickie Jobson
+0242	1	Damiano Damiani
+0243	1	Joseph Losey
+0244	1	Boaz Davidson
+0245	1	Alan Bridges
+0246	1	Lewis Teague
+0247	1	Martha Coolidge
+0248	2	Charles Band	James Amante
+0249	2	Richard Ciupka	Jonathan Stryker
+0250	1	Robert Duvall
+0251	1	Carroll Ballard
+0252	1	Jean-Luc Godard
+0253	1	Michael Laughlin
+0254	1	Michael Pressman
+0255	1	Jack Clayton
+0256	1	Michael Curtiz
+0257	1	George Englund
+0258	1	John Huston
+0259	1	Cy Raker Endfield
+0260	1	James Neilson
+0261	1	Stanley Jaffe
+0262	1	Jim McBride
+0263	1	George Pan Cosmatos
+0264	4	Steven Spielberg	Joe Dante	John Landis	George Miller
+0265	1	Hal Needham
+0266	1	Joe Alves
+0267	1	Noel Black
+0268	1	Andrzej Zulawski
+0269	2	Wanda Dell	Eric Weston
+0270	1	James Toback
+0271	1	J. Lee Thompson
+0272	1	Eric Rohmer
+0273	2	Terry Gilliam	Terry Jones
+0274	2	Donald Shebib	D.S. Everett
+0275	1	John G. Thomas
+0276	2	Sandi Sissel	Nick Broomfield
+0277	1	Robert Stevenson
+0278	1	Ishiro Honda
+0279	1	Andy Warhol
+0280	1	Graham Baker
+0281	1	Roland Joffé
+0282	1	Lino Brocka
+0283	1	Hou Hsiao-Hsien
+0284	1	Robert Bresson
+0285	1	Shohei Imamura
+0286	1	Wes Craven
+0287	1	Herbert Ross
+0288	1	John Sayles
+0289	1	Michael Firth
+0290	1	Eagle Pennell
+0291	1	Bob Clark
+0292	2	Lloyd Kaufman	Michael Herz
+0293	1	Carlos Saura
+0294	1	Hrafn Gunnlaugsson
+0295	1	Robert O'Neil
+0296	1	James Foley
+0297	2	Terry Bedford	Dennis Bosher
+0298	1	Frank Harris
+0299	1	Francesco Rosi
+0300	1	Stewart Raffill
+0301	1	Christopher Cain
+0302	3	Eduardo Palmos	Al Valletta	Victor Ordoñez
+0303	2	Barna Kabay	Imre Gyöngyössy
+0304	1	Stan Lathan
+0305	1	Leon Benson
+0306	1	Sidney J. Furie
+0307	1	Mark Griffiths
+0308	1	Alain Corneau
+0309	1	Charles Shyer
+0310	1	Michael Winner
+0311	1	Bill Forsyth
+0312	2	Chuck Vincent	Marc Ubell
+0313	1	Matt Cimber
+0314	1	Douglas Cheek
+0315	1	István Szabó
+0316	1	Jonathan Lynn
+0317	1	Luc Besson
+0318	1	Amy Heckerling
+0319	1	James Bridges
+0320	1	John Hughes
+0321	1	John Schlesinger
+0322	1	Burt Reynolds
+0323	1	Christopher Cain
+0324	1	Pedro Almodóvar
+0325	1	Martha Coolidge
+0326	1	Patrice Chéreau
+0327	1	John Boorman
+0328	1	Geoff Murphy
+0329	1	George A. Romero
+0330	1	Joe Dante
+0331	1	Gil Brealey
+0332	1	Rafal Zielinski
+0333	1	Richard Lowenstein
+0334	1	Bryan Forbes
+0335	2	Tony Lo Bianco	Victor Lobl
+0336	1	Andre Melancon
+0337	1	Stephen Gyllenhaal
+0338	1	James Frawley
+0339	1	Tim Hunter
+0340	1	James Komack
+0341	1	Arna Selznick
+0342	1	Henry Jaglom
+0343	1	Pierre de Moro
+0344	1	Will Vinton
+0345	5	Ed Friedman	Lou Kachivas	Marsh Lamore	Bill Reed	Gwen Wetzler
+0346	1	Danny Steinmann
+0347	1	Robert Clouse
+0348	1	Amos Kollek
+0349	1	Hugh Wilson
+0350	1	Glenda Hambly
+0351	1	Curtis Harrington
+0352	1	David A. Prior
+0353	1	Gordon Hessler
+0354	1	Robert Collector
+0355	1	Gene Nelson
+0356	1	Jacques Baratier
+0357	1	Bill Colleran
+0358	1	John Laing
+0359	1	Adam Holender
+0360	1	Darrell James Roodt
+0361	1	John Irvin
+0362	1	Agnès Varda
+0363	1	James Foley
+0364	1	Francis Veber
+0365	1	Michael Ritchie
+0366	1	Teresa Sparks
+0367	1	Petru Popescu
+0368	1	Joe Roth
+0369	1	Michael Hoffman
+0370	1	Sandy Wilson
+0371	1	Michael Rubbo
+0372	1	George Mendeluk
+0373	1	Michael Jenkins
+0374	1	Bertrand Blier
+0375	1	Bruce Malmuth
+0376	1	Menahem Golan
+0377	1	Gary Hudson
+0378	1	Paul Nicolas
+0379	1	Richard Lester
+0380	1	Costa-Gavras
+0381	2	Aram Allen	Janet Greek
+0382	1	Brian De Palma
+0383	1	Frank Harris
+0384	1	Ruggero Deodato
+0385	1	Neil Jordan
+0386	1	Clive Donner
+0387	1	Anne Wheeler
+0388	1	Buddy Giovinazzo
+0389	1	Paul Mayersberg
+0390	1	Tobe Hooper
+0391	1	Sergei Bondarchuk
+0392	1	Elem Klimov
+0393	1	John Boorman
+0394	1	Jerry Schatzberg
+0395	1	Clive Barker
+0396	1	Fred Olen Ray
+0397	1	Richard Attenborough
+0398	1	Sam Raimi
+0399	2	Chuck Vincent	Marc Ubell
+0400	1	Jean-Claude Lord
+0401	1	Gregg Araki
+0402	1	Alan Parker
+0403	1	Robert Taicher
+0404	1	Lili Rademakers
+0405	1	Stephen Bayly
+0406	1	Robert Mugge
+0407	1	William Asher
+0408	1	Robert Mulligan
+0409	1	Terence Young
+0410	1	James Ivory
+0411	1	Fred Coe
+0412	1	Alex Cox
+0413	1	Lindsay Anderson
+0414	1	Nathan J. White
+0415	1	Gilbert Cates
+0416	1	Shohei Imamura
+0417	1	Carlo Vanzina
+0418	1	Richard Benner
+0419	1	Bill Forsyth
+0420	1	Werner Herzog
+0421	1	Patricia Rozema
+0422	1	Bertrand Blier
+0423	1	Stephen Frears
+0424	1	Suzana Amaral
+0425	1	Bruce R. Cook
+0426	1	James L. Brooks
+0427	1	B.J. Davis
+0428	1	John Schlesinger
+0429	1	Martin Rosen
+0430	1	Gilles Behat
+0431	1	Bob Dahlin
+0432	2	Gorman Bechard	Yoshimitsu Morita
+0433	2	Connie Kaiserman	David Saperstein
+0434	0	<NULL>
+0435	1	Ken Cameron
+0436	1	Mary Ellen Bute
+0437	1	Alan Rudolph
+0438	1	Huang Shuqin
+0439	1	David Hare
+0440	1	Mike Jittlov
+0441	1	Craig R. Baxley
+0442	1	Robert Spera
+0443	1	Jan Svankmajer
+0444	1	B.J. Davis
+0445	1	Chuck Russell
+0446	1	Hector Olivera
+0447	1	Michael Hoffman
+0448	1	Jerzy Kawalerowicz
+0449	1	Luis Llosa
+0450	1	Stephen Frears
+0451	1	Nico Mastorakis
+0452	1	Oliver Stone
+0453	1	Tony Randel
+0454	1	Harley Cokliss
+0455	1	Nanni Moretti
+0456	1	Rick Rosenthal
+0457	1	Don Coscarelli
+0458	1	Edgar G. Ulmer
+0459	1	Paul Flaherty
+0460	1	Victor Erice
+0461	1	David Green
+0462	1	Ferdinand Fairfax
+0463	1	Peter Patzak
+0464	1	Raoul Peck
+0465	1	Don Jones
+0466	1	Wes Craven
+0467	1	Emir Kusturica
+0468	1	Deborah Roberts
+0469	1	John Holland
+0470	1	Aaron Kim Johnston
+0471	1	Vasily Pichul
+0472	1	Andi Engel
+0473	1	Euzhan Palcy
+0474	1	Dwight H. Little
+0475	1	Andrew Davis
+0476	1	Spike Lee
+0477	1	Walter Hill
+0478	1	John Frankenheimer
+0479	2	Joanelle Nadine Romero	Jonathan Wacks
+0480	1	Larry Peerce
+0481	1	Jack Sholder
+0482	1	Steve Kloves
+0483	1	Pekka Parikka
+0484	1	Alex Segal
+0485	1	Gordon M. Douglas
+0486	1	Damian Harris
+0487	1	Patrick Sheane Duncan
+0488	1	David Schmoeller
+0489	1	Peter Masterson
+0490	1	Amin Q. Chaudhri
+0491	1	Rowdy Herrington
+0492	1	John Flynn
+0493	1	Dino Risi
+0494	1	Derek Jarman
+0495	1	Antonio Drove
+0496	2	Lang Elliott	Hugh Kelley
+0497	1	Mitchell Gabourie
+0498	1	Ivan Reitman
+0499	1	Johnny To
+0500	1	Susan Seidelman
+0501	1	Michael A. Simpson
+0502	1	George Rowe
+0503	1	Phil Alden Robinson
+0504	1	Norman Jewison
+0505	1	Fred Williamson
+0506	1	Sean S. Cunningham
+0507	2	Frank Kerr	Peter Maris
+0508	1	Jim Wynorski
+0509	1	Peter Bonerz
+0510	2	Carlo Ludovico Bragaglia	Edgar G. Ulmer
+0511	1	Andy Warhol
+0512	1	Tomás Gutiérrez Alea
+0513	1	Frank de Palma
+0514	1	Bob Clark
+0515	1	Franco Amurri
+0516	1	B.J. Davis
+0517	1	Craig R. Baxley
+0518	1	Fred Olen Ray
+0519	1	Peter M. MacKenzie
+0520	1	Aki Kaurismäki
+0521	1	Rob Reiner
+0522	1	Charles Winkler
+0523	1	Dwight H. Little
+0524	1	Kevin S. Tenney
+0525	1	Clint Eastwood
+0526	1	Abel Ferrara
+0527	1	James Bond III
+0528	1	Melvin Van Peebles
+0529	1	Douglas Bronco
+0530	1	Martin Scorsese
+0531	1	Zalman King
+0532	1	Jim Wynorski
+0533	1	Richard Lester
+0534	1	Michael Moore
+0535	1	Jack Cardiff
+0536	1	Abel Ferrara
+0537	1	Bernard Rose
+0538	1	John Feldman
+0539	2	Hendel Butoy	Mike Gabriel
+0540	1	Glenn Takakjian
+0541	1	Jim C. Harris
+0542	1	Andre Guttfreund
+0543	1	Richard Gabai
+0544	1	Stephen Hopkins
+0545	1	Dyan Cannon
+0546	1	Tim Spring
+0547	1	Thierry Notz
+0548	1	Bertrand Tavernier
+0549	2	Gregory Brown	Gregory Hippolyte
+0550	1	Aki Kaurismäki
+0551	1	Joel Schumacher
+0552	1	Sondra Locke
+0553	1	Sam Raimi
+0554	1	David A. Prior
+0555	1	Leo Penn
+0556	1	Sergio Corbucci
+0557	1	Sergio Sollima
+0558	1	Robert Gist
+0559	1	Charles Finch
+0560	1	Jonathan Demme
+0561	1	Bertrand Tavernier
+0562	1	Mitsuo Yanagimachi
+0563	1	Nancy Zala
+0564	1	E. Elias Merhige
+0565	1	Richard Munchkin
+0566	1	John Frankenheimer
+0567	1	Mel Damski
+0568	1	Paul Mazursky
+0569	1	Gregory Hippolyte
+0570	1	Peter Wang
+0571	1	Bernt Amadeus Capra
+0572	1	Pavel Lungin
+0573	1	Gabriel Pelletier
+0574	1	Rodney McDonald
+0575	1	Greydon Clark
+0576	1	Leonard B. Stern
+0577	1	Dennis Hopper
+0578	1	Jack Bender
+0579	1	Dan O'Bannon
+0580	1	Jackson Hunsicker
+0581	1	William Reilly
+0582	1	Mark Rydell
+0583	1	Peter Medak
+0584	1	Joel Coen
+0585	1	Giuliano Montaldo
+0586	1	Erin Dignam
+0587	1	Kelly Makin
+0588	1	Christian Duguay
+0589	1	Peter Maris
+0590	1	Peter Lehner
+0591	1	Stanley Kwan
+0592	1	Stephen Poliakoff
+0593	1	Isaac Julien
+0594	1	David DeCoteau
+0595	1	Michael Lehmann
+0596	1	Andre Melancon
+0597	1	Albert Pyun
+0598	1	Philippe Garrel
+0599	1	Alexandre Arcady
+0600	1	Sam Firstenberg
+0601	1	Veronika Zilkova
+0602	1	Jamaa Fanaka
+0603	2	Rusty Lemorande	Peter Weigl
+0604	1	Orson Welles
+0605	1	Chen Kaige
+0606	1	Howard Deutch
+0607	1	George Daugherty
+0608	1	Steve Miner
+0609	1	Hal Hartley
+0610	1	Keith Gordon
+0611	1	Shinya Tsukamoto
+0612	2	Greydon Clark	Ken Stein
+0613	1	Robert Mulligan
+0614	1	George Roy Hill
+0615	1	Norman Tokar
+0616	1	Curtis Hanson
+0617	1	Ben Model
+0618	1	Duncan McLachlan
+0619	1	Frank Howson
+0620	1	William Sachs
+0621	1	David F. Price
+0622	1	Jimmy Zeilinger
+0623	1	Brett Leonard
+0624	1	Atom Egoyan
+0625	1	Gerald Thomas
+0626	1	Alain Zaloum
+0627	1	Jonathan Lynn
+0628	1	Isaac Florentine
+0629	0	<NULL>
+0630	1	John Woo
+0631	1	Fernando Trueba
+0632	1	Vic Armstrong
+0633	1	Tom Berry
+0634	1	Aleksandar Petrovic
+0635	1	Robert Parrish
+0636	1	Andy Warhol
+0637	1	Charles Davis
+0638	1	Jean-Claude Lauzon
+0639	1	John Howley
+0640	1	James Lemmo
+0641	1	Henry Selick
+0642	1	Jane Campion
+0643	1	Xie Fei
+0644	1	Patrick Alan
+0645	1	Jim Sheridan
+0646	1	Stephan Elliot
+0647	1	Robert Greenwald
+0648	1	Luca Bercovici
+0649	1	Jefery Levy
+0650	1	Jag Mundhra
+0651	1	Rafal Zielinski
+0652	1	Barry Sonnenfeld
+0653	1	Sam Firstenberg
+0654	1	Robert Klane
+0655	1	Takehiro Nakajima
+0656	4	Arnold Glassman	Andrew Glassman	Todd McCarthy	Stuart Samuels
+0657	1	Fred Schepisi
+0658	1	Ching Siu Tung
+0659	1	John O'Brien
+0660	1	Tristram Powell
+0661	1	Nick Castle, Jr.
+0662	1	Neal Israel
+0663	1	Arthur H. Nadel
+0664	1	Alberto Lecchi
+0665	0	<NULL>
+0666	1	Rob Reiner
+0667	1	Daniel Bergman
+0668	1	Jacques Rivette
+0669	1	Pascale Ferran
+0670	3	Chantal Akerman	Mylene Azria	Pierre-Alain Schatzmann
+0671	1	Ringo Lam
+0672	1	Daniel Petrie
+0673	1	Jerzy Stuhr
+0674	2	Kristine Peterson	Wade W. Danielson
+0675	1	Claude Berri
+0676	1	Cynthia Roberts
+0677	1	Les Mayfield
+0678	2	Laurence Horricks	Richard J. Lewis
+0679	1	Stan Lai
+0680	1	Gus Van Sant
+0681	1	Adam Rifkin
+0682	1	Scott Saunders
+0683	1	Sergio Bianchi
+0684	1	Taku Oshima
+0685	1	Aaron Norris
+0686	1	Kiyanush Ayyari
+0687	1	Mel Smith
+0688	1	Richard Rush
+0689	1	Edward J. Montagne Jr.
+0690	1	Dagmar Knoepfel
+0691	1	François Girard
+0692	1	David Carson
+0693	1	Tibor Takacs
+0694	1	Ventura Pons
+0695	2	Brian Trenchard-Smith	Lynn D'Angona
+0696	1	Mike Sedan
+0697	1	George Miller
+0698	1	Boris Frumin
+0699	1	Mark Griffiths
+0700	1	Daniel Kamwa
+0701	1	Joe Johnston
+0702	1	Mathieu Kassovitz
+0703	1	Jeremy Stanford
+0704	1	Tsui Hark
+0705	1	Joel Coen
+0706	1	Krzysztof Kieslowski
+0707	1	Ken Loach
+0708	1	Michael Bat-Adam
+0709	1	Harvey Berman
+0710	1	Michael Anderson
+0711	1	Christian Marquand
+0712	1	Tony Scott
+0713	1	Ahmad-Reza Darvish
+0714	1	Jonathan Stack
+0715	1	Woody Allen
+0716	1	Bruce LaBruce
+0717	1	John McTiernan
+0718	1	Bryan Singer
+0719	1	Wolfgang Petersen
+0720	1	Brewster MacWilliams
+0721	1	Diane Keaton
+0722	1	Pilar Miro
+0723	1	Jon Bang Carlsen
+0724	1	Rusty Cundieff
+0725	1	Peter Gardos
+0726	1	Kevin Smith
+0727	1	Michael Caton-Jones
+0728	1	Mira Nair
+0729	1	Joel Lamangan
+0730	1	Joseph Nobile
+0731	1	Maurice Pialat
+0732	1	Stephen Frears
+0733	1	Satyajit Ray
+0734	1	Brad Silberling
+0735	1	Taylor Hackford
+0736	1	Simon Wincer
+0737	2	Hristian Notchev	Ilian Simeonov
+0738	1	Kelly Reichardt
+0739	1	Andrew Behar
+0740	1	Noah Baumbach
+0741	1	Werner Herzog
+0742	1	Robert Mulligan
+0743	1	Richard Fleischer
+0744	1	John Cassavetes
+0745	1	John Schlesinger
+0746	1	Jean Becker
+0747	1	Oley Sassone
+0748	1	Rick Stevenson
+0749	1	Oliver Stone
+0750	1	Michael Apted
+0751	1	Richard Shepard
+0752	1	John Badham
+0753	1	Russ Forster
+0754	1	P.J. Hogan
+0755	1	Emmanuelle Cuau
+0756	1	Bryan Gordon
+0757	5	William Beaton	Lisa Lake	Robin Mahoney	Matthew Salkeld	Michael Sarne
+0758	1	Djibril Diop Mambety
+0759	1	John Carpenter
+0760	1	Demetria Royals
+0761	1	Hsu Hsiao-ming
+0762	1	Alfonso Cuarón
+0763	1	Cassian Elwes
+0764	0	<NULL>
+0765	2	Nick McCarthy	Maurice O'Callaghan
+0766	1	James Bruce
+0767	1	Erik Fleming
+0768	1	George Whittenburg Ratliff
+0769	1	Jean-Luc Godard
+0770	1	Joseph Losey
+0771	1	Alain Resnais
+0772	1	John Flynn
+0773	1	Jorge Montesi
+0774	1	Raúl Ruiz
+0775	1	Tim Pope
+0776	1	Matthias Glasner
+0777	1	Ismail Merchant
+0778	1	Ric Waugh
+0779	1	Karim Dridi
+0780	1	Hamilton Sterling
+0781	1	John Huddles
+0782	1	Hugh Wilson
+0783	1	Jan Troell
+0784	1	Joseph Vilsmaier
+0785	1	Vicente Aranda
+0786	1	Chris Brown
+0787	1	Frances VonZerneck
+0788	1	Joseph Merhi
+0789	1	Gilbert Adler
+0790	1	Harold Becker
+0791	1	Todd Solondz
+0792	1	Robert Stevenson
+0793	1	Evald Schorm
+0794	1	Enzo G. Castellari
+0795	1	Hong Sang-soo
+0796	2	Timothy Quay	Stephen Quay
+0797	1	Keith Gordon
+0798	2	Fred Keleman	Regina Krah
+0799	1	Rick Goldsmith
+0800	1	Eleni Alexandrakis
+0801	1	Gillies MacKinnon
+0802	1	Yoshimitsu Morita
+0803	1	Jang Sun-Woo
+0804	1	Michael Cimino
+0805	1	Tom Holland
+0806	1	Edward Zwick
+0807	2	Anna Campion	Max Keene
+0808	1	Shyam Benegal
+0809	1	Suzanne Osten
+0810	1	John Gray
+0811	1	Juan Carlos DeSanzo
+0812	1	Craig R. Bradley
+0813	1	Brian Levant
+0814	1	Chris Newby
+0815	1	Anne Rose Dremann
+0816	1	Park Chul-Soo
+0817	1	Marco Ferreri
+0818	1	George Miller
+0819	1	Ruth Beckermann
+0820	1	Norman Jewison
+0821	1	Carroll Ballard
+0822	1	Stephen Herek
+0823	1	Todd Verow
+0824	1	Philippe Garrel
+0825	1	Raymond Rajaonarivelo
+0826	1	Cameron Crowe
+0827	1	Paul Morrissey
+0828	1	George Axelrod
+0829	1	Francis D. Lyon
+0830	1	Michael Winner
+0831	1	Gore Verbinski
+0832	1	Neil Abramson
+0833	1	Norman Gerard
+0834	1	Lucas Belvaux
+0835	1	Caroline Thompson
+0836	1	Demien Lichtenstein
+0837	1	Ang Lee
+0838	1	Steve White
+0839	1	Rusty Cundieff
+0840	1	Alan Rickman
+0841	1	Peter Cattaneo
+0842	1	Dana Lustig
+0843	1	Simon West
+0844	1	Brian Skeet
+0845	2	Ari Folman	Uri Sivan
+0846	1	Doug Campbell
+0847	1	Robert Celestino
+0848	1	Matteo Garrone
+0849	1	Peter Dalle
+0850	1	Merzak Allouache
+0851	1	Spike Lee
+0852	1	Charles Grosvenor
+0853	1	Dale Rosenbloom
+0854	1	Woody Allen
+0855	1	Arthur Hiller
+0856	1	Alessio de Paola
+0857	1	John Guillermin
+0858	1	Iain Softley
+0859	1	Kevin Smith
+0860	1	Stefan Jarl
+0861	1	Masayuki Suo
+0862	1	Jeremy Horton
+0863	1	Thomas Carter
+0864	1	Michael Cooney
+0865	1	Juanma Bajo Ulloa
+0866	0	<NULL>
+0867	1	Lee Myung-Sae
+0868	1	Oliver Stone
+0869	1	Emanuele Crialese
+0870	1	George Esguerra
+0871	1	Quinton Peeples
+0872	1	Antonia Bird
+0873	1	Idrissa Ouedraogo
+0874	1	Jeff Pollack
+0875	1	Benoit Lamy
+0876	1	Nouri Bouzid
+0877	1	Nizamettin Ariç
+0878	1	Richard Rich
+0879	1	Wes Craven
+0880	1	Theo Angelopoulos
+0881	1	Pier Paolo Pasolini
+0882	1	Leonard Kastle
+0883	1	Mark Rydell
+0884	1	Mel Stuart
+0885	1	Nicole Garcia
+0886	1	Bharat Nalluri
+0887	1	Shimon Dotan
+0888	1	Gary Oldman
+0889	1	Frank Kerr
+0890	1	Guy Maddin
+0891	1	Richard Sears
+0892	1	Francesca Archibugi
+0893	1	Tim Kirkman
+0894	1	Jonathan Frakes
+0895	1	Annette Apon
+0896	1	Peter Weir
+0897	1	Adrian Lyne
+0898	0	<NULL>
+0899	1	Alan Fraser
+0900	1	Sturla Gunnarsson
+0901	0	<NULL>
+0902	1	Iara Lee
+0903	1	Abbas Kiarostami
+0904	1	Walter Salles, Jr.
+0905	1	Shunji Iwai
+0906	1	Charles Jarrott
+0907	1	John Dexter
+0908	1	Gene Kelly
+0909	1	Richard Benedict
+0910	1	Peter Yates
+0911	1	Shane Meadows
+0912	0	<NULL>
+0913	1	Gillies MacKinnon
+0914	1	Claude Mourieras
+0915	1	Woody Allen
+0916	1	Rob Nilsson
+0917	1	Ken Loach
+0918	1	John Duigan
+0919	1	Nanni Moretti
+0920	1	William Ryan
+0921	1	Harold Becker
+0922	1	Edward Burns
+0923	1	Vincent Gallo
+0924	1	David Veloz
+0925	0	<NULL>
+0926	0	<NULL>
+0927	1	Hideo Nakata
+0928	1	Peter Liapis
+0929	1	Burt Kennedy
+0930	1	Frank Perry
+0931	1	Jean-Marie Straub
+0932	1	S. Lee Pogostin
+0933	1	Alan Gibson
+0934	1	Fred Olen Ray
+0935	1	Sam Firstenberg
+0936	1	Pascal Bonitzer
+0937	1	Kim Ki-duk
+0938	1	Ella Lemhagen
+0939	1	Benoît Jacquot
+0940	1	Lin Cheng-sheng
+0941	1	David Cronenberg
+0942	1	Alex Van Warmerdam
+0943	1	Frank Darabont
+0944	1	Jean-Marc Vallée
+0945	1	David Mickey Evans
+0946	1	Mike Leigh
+0947	1	Lloyd Kaufman
+0948	1	Olli Saarela
+0949	1	Harmony Korine
+0950	1	Roger Kumble
+0951	2	Emiko Omori	Chizu Omori
+0952	1	D.W. Harper
+0953	1	James Westby
+0954	1	Aki Kaurismäki
+0955	1	Guy Ritchie
+0956	1	Toshimichi Ohkawa
+0957	1	Sidney J. Furie
+0958	1	Norman Tokar
+0959	1	Nat Hiken
+0960	1	James B. Clark
+0961	1	Tanya Wexler
+0962	1	J. Max Burnett
+0963	1	Udayan Prasad
+0964	1	Lee H. Katzin
+0965	1	Dariush Mehrjui
+0966	1	Chris Smith
+0967	1	Rob Reiner
+0968	1	Frank Patterson
+0969	1	Art Jones
+0970	1	David Moreton
+0971	1	Jim Bidgood
+0972	1	Pamela Rooks
+0973	1	Jerzy Hoffman
+0974	1	Robert Meyer Burnett
+0975	1	Rosa von Praunheim
+0976	1	Daphna Kastner
+0977	1	David O. Russell
+0978	1	Hal Ashby
+0979	1	Eduardo Rossoff
+0980	1	Isao Takahata
+0981	1	Liu Bingjian
+0982	1	Caroline Link
+0983	1	Kari Skogland
+0984	1	Cheik Oumar Sissoko
+0985	1	Michael Mann
+0986	1	Norman Jewison
+0987	1	Richard Cummings, Jr.
+0988	1	Luis Buñuel
+0989	1	Claude Chabrol
+0990	1	Paul Morrissey
+0991	1	Nino Quevedo
+0992	1	Jim Jarmusch
+0993	1	Murray Lerner
+0994	1	Davis Guggenheim
+0995	1	Christian Duguay
+0996	1	Terence Davies
+0997	1	Matej Minac
+0998	1	Melvin Van Peebles
+0999	1	Alberto Simone
+1000	1	Im Kwon-Taek
+1001	1	Enzo Monteleone
+1002	1	Mark Neale
+1003	1	Robert Mugge
+1004	1	Jonathan Reiss
+1005	1	George Tillman, Jr.
+1006	1	Karyn Kusama
+1007	1	Deborah Warner
+1008	1	Nana Djordjadze
+1009	0	<NULL>
+1010	1	Vic Morrow
+1011	1	Nigel Cole
+1012	1	David Maquiling
+1013	0	<NULL>
+1014	1	Lee Chang-dong
+1015	1	Laura Mañà
+1016	1	James Toback
+1017	1	Fina Torres
+1018	1	Po-Chih Leong
+1019	2	Vicky Funari	Julia Query
+1020	1	Antoine Fuqua
+1021	1	Taylor Hackford
+1022	1	Luis Buñuel
+1023	1	Ben Hopkins
+1024	1	Jean-Pierre Marois
+1025	1	Salvatore Maira
+1026	1	Hong Sang-soo
+1027	1	Didier Le Pêcheur
+1028	1	Henri-Georges Clouzot
+1029	1	Marion Hänsel
+1030	1	Paul Ziller
+1031	1	Jon Shear
+1032	1	Luc Moullet
+1033	1	Lawrence Ah Mon
+1034	1	Lars von Trier
+1035	1	Keith Gordon
+1036	1	Götz Spielmann
+1037	1	Jordan Walker-Pearlman
+1038	1	Christina Andreef
+1039	1	Jean-Luc Godard
+1040	1	Peter M. Cohen
+1041	1	Marco Tullio Giordana
+1042	1	Michael Winterbottom
+1043	1	Asia Argento
+1044	1	Laurent Firode
+1045	1	Cesar Paes
+1046	1	Wonsuk Chin
+1047	1	Kim Ki-duk
+1048	1	Griffin Dunne
+1049	1	Robert Rodriguez
+1050	1	Leander de Cordova
+1051	1	James Ivory
+1052	1	Michel Negroponte
+1053	1	Shinji Aoyama
+1054	1	Jonathan Nossiter
+1055	1	Marcelo Piñeyro
+1056	1	Bahman Farmanara
+1057	1	Krutin Patel
+1058	1	Arik Kaplun
+1059	1	Kim A. Snyder
+1060	1	Hamish Rothwell
+1061	1	Jamsheed Akrami
+1062	1	Bill Plympton
+1063	1	Rainer Werner Fassbinder
+1064	1	Agnès Varda
+1065	1	Christopher Livingston
+1066	1	Tony Gatlif
+1067	1	Doris Dörrie
+1068	1	Bret Stern
+1069	1	Don Close
+1070	1	Kirby Dick
+1071	1	Marc Levin
+1072	1	Christopher E. Brown
+1073	1	Andrew Dominik
+1074	1	Lewis Allen
+1075	1	Agnès Jaoui
+1076	1	François Ozon
+1077	2	Diane Doniol-Valcroze	Arthur Flam
+1078	1	Paul Cox
+1079	1	John Michael McCarthy
+1080	1	Chuck Parello
+1081	1	Patrick Chesnais
+1082	1	Demien Lichtenstein
+1083	1	Christopher Nolan
+1084	1	Saul Metzstein
+1085	1	Daniel Minahan
+1086	1	Robert Vernon
+1087	1	Thomas Arslan
+1088	1	Mamoru Oshii
+1089	1	Jean-Jacques Annaud
+1090	1	J.B. Rogers
+1091	2	Gary Trousdale	Kirk Wise
+1092	1	Leon Ichaso
+1093	1	Yves Simoneau
+1094	1	Lloyd Kaufman
+1095	1	John Boorman
+1096	1	Freddie Francis
+1097	1	R. G. Springsteen
+1098	1	Douglas Hickox
+1099	1	Gordon Flemyng
+1100	1	Dominic Sena
+1101	1	Ted Demme
+1102	1	Albert Pyun
+1103	1	Tony Scott
+1104	1	Nick Hamm
+1105	1	John Madden
+1106	1	John Carpenter
+1107	1	Dale G. Bradley
+1108	1	Stephen Herek
+1109	1	Dario Argento
+1110	1	Marisa Sistach
+1111	1	Markku Polonen
+1112	1	Philippe Le Guay
+1113	1	Kunitoshi Manda
+1114	1	John T. Ryan
+1115	1	Agnes Incze
+1116	1	Mohsen Makhmalbaf
+1117	1	Wang Chao
+1118	2	Laurie Ann Schag	Casey Stoll
+1119	1	S. Leigh Savidge
+1120	1	Michael Gilio
+1121	1	Jean-Pierre Jeunet
+1122	1	Paul Sarossy
+1123	1	Gordon M. Douglas
+1124	1	Michael Lindsay-Hogg
+1125	1	Elie Chouraqui
+1126	1	Kurt Wimmer
+1127	1	Ismail Merchant
+1128	1	Brian Gilbert
+1129	1	Tuck Tucker
+1130	1	Don Michael Paul
+1131	1	Raja Gosnell
+1132	1	Sean McNamara
+1133	1	Lynne Ramsay
+1134	1	R. Craig Zobel
+1135	1	Jesse Peretz
+1136	1	Michell Gallagher
+1137	1	Alexander Payne
+1138	1	Joe Maggio
+1139	1	Leonardo Ricagni
+1140	2	Chris Wedge	Carlos Saldanha
+1141	1	Robert Rodriguez
+1142	1	Roman Coppola
+1143	2	David Weissman	Billy Weber
+1144	1	Billie Eltringham
+1145	1	Pedro Almodóvar
+1146	1	Paul Goldman
+1147	1	Guillermo del Toro
+1148	1	George Hickenlooper
+1149	1	Sandra Goldbacher
+1150	1	Michael Corrente
+1151	1	Jordan Alan
+1152	1	D.J. Caruso
+1153	1	David L. Cunningham
+1154	1	Kari Skogland
+1155	1	Elliot Silverstein
+1156	1	Val Guest
+1157	1	William Wyler
+1158	2	Laurence Olivier	John Sichel
+1159	2	Brian Koppelman	David Levien
+1160	1	Burr Steers
+1161	1	François Ozon
+1162	1	Mort S. Seben
+1163	1	Mira Nair
+1164	1	Kaos
+1165	1	Tomasz Wiszniewski
+1166	1	Hayao Miyazaki
+1167	1	Franc. Reyes
+1168	1	Dover Kosashvili
+1169	1	Zhang Yang
+1170	1	Andrzej Sekula
+1171	1	Metin Huseyin
+1172	1	Michael Haneke
+1173	2	Nanette Burstein	Brett Morgen
+1174	1	Juan Villegas
+1175	1	Veronica Chen
+1176	1	Michael Rubbo
+1177	1	Laurent Cantet
+1178	1	Brian Levant
+1179	1	Bruce Beresford
+1180	6	Raja Amari	Ngozi Onwurah	Bridget Pickering	Ingrid Sinclair	Fanta Regina Nacro	Zulfah Otto-Sallies
+1181	1	Abdul Malik Abbott
+1182	2	Rebecca Cammisa	Rob Fruchtman
+1183	1	Nils Tavernier
+1184	1	Bill Morrison
+1185	1	Sturla Gunnarsson
+1186	1	Nick Broomfield
+1187	1	Sherman Alexie
+1188	2	Kirby Dick	Amy Ziering Kofman
+1189	1	Juan Carlos Fresnadillo
+1190	1	Gene Kelly
+1191	1	Roy Ward Baker
+1192	1	Jimmy Sangster
+1193	1	Brian G. Hutton
+1194	1	Don Henderson
+1195	1	Lev Kulidzhanov
+1196	1	Sanjay Gupta
+1197	1	Dylan Kidd
+1198	1	John Stainton
+1199	1	Oliver Parker
+1200	1	Christine Jeffs
+1201	1	Byron Thompson
+1202	1	Mathias Ledoux
+1203	1	Jeff Tremaine
+1204	1	John Bradshaw
+1205	1	Jiang Wen
+1206	1	Spike Lee
+1207	2	Herschell Gordon Lewis	Sheldon Seymour
+1208	1	Menno Meyjes
+1209	0	<NULL>
+1210	1	Charles Stone III
+1211	1	Luis Mandoki
+1212	1	Jean-Claude LaMarre
+1213	1	Steve Taylor
+1214	1	Scott Mansfield
+1215	1	Todd Komarnicki
+1216	2	Alex Gibney	Eugene Jarecki
+1217	1	Paul F. Ryan
+1218	1	David Cronenberg
+1219	2	Tom Hunsinger	Neil Hunter
+1220	1	Matt Dillon
+1221	1	Scott Roberts
+1222	1	Neil Jordan
+1223	1	Terry Zwigoff
+1224	1	Terry Green
+1225	1	Dan Algrant
+1226	1	François Truffaut
+1227	1	Rainer Werner Fassbinder
+1228	0	<NULL>
+1229	1	Richard Kwietniowski
+1230	1	John McTiernan
+1231	1	Feng Xiaogang
+1232	1	Martin Campbell
+1233	2	Jeffery Wolf	Robert Capelli Jr.
+1234	1	Gus Van Sant
+1235	1	Peter Mullan
+1236	1	Helen Stickler
+1237	1	Gary Hardwick
+1238	1	Lucky McKee
+1239	1	Richard Franklin
+1240	2	Keith Fulton	Louis Pepe
+1241	1	Scott Caan
+1242	1	A.J. Schnack
+1243	1	Eric Byler
+1244	1	Apichatpong Weerasethakul
+1245	1	Miles Swain
+1246	1	Ventura Pons
+1247	1	Michael Winterbottom
+1248	1	Matthew Bright
+1249	1	Victor Salva
+1250	1	Rolf Schübel
+1251	1	John Hoffman
+1252	1	Anne Wheeler
+1253	1	Marcus Nispel
+1254	1	Aisling Walsh
+1255	1	Jack Starrett
+1256	1	Tay Garnett
+1257	1	Fred Baker
+1258	1	Kevin Costner
+1259	1	Johnny To
+1260	1	Steve James
+1261	1	Claire Denis
+1262	1	Nicolas Philibert
+1263	1	Susanne Bier
+1264	1	Joel Viertel
+1265	1	Oliver Stone
+1266	1	A. Dean Bell
+1267	1	Scott Saunders
+1268	1	José Padilha
+1269	1	Bahman Ghobadi
+1270	0	<NULL>
+1271	1	Alejandro González Iñárritu
+1272	1	Andrew Jarecki
+1273	1	Jonathan Karsh
+1274	1	Taran Davies
+1275	2	Sam Green	Bill Siegel
+1276	1	Carlos Reygadas
+1277	1	Dana Brown
+1278	2	Malcolm Clarke	Stuart Sender
+1279	1	Gus Van Sant
+1280	1	Yojiro Takita
+1281	1	Andrew Molina
+1282	1	Morgan Nichols
+1283	1	Sean McGinly
+1284	1	Richard Lester
+1285	1	Karel Reisz
+1286	1	John Frankenheimer
+1287	1	Jerome Hill
+1288	1	Anthony M. Dawson
+1289	1	Águst Guðmundsson
+1290	1	Robert Kevin Townsend
+1291	2	Will Finn	John Sanford
+1292	1	Rodney Evans
+1293	1	Michael Mann
+1294	1	Laura Colella
+1295	1	Thomas Vinterberg
+1296	1	Todd Stephens
+1297	1	Arthur A. Seidelman
+1298	1	Cindy Baer
+1299	1	Brad Anderson
+1300	1	Thanit Jitnukul
+1301	1	John Walters
+1302	1	David Mackenzie
+1303	1	Garry Marshall
+1304	1	Francis Girod
+1305	1	Lynn Hershman-Leeson
+1306	1	Mina Shum
+1307	1	Vanessa Parise
+1308	1	Tareque Masud
+1309	1	Nicholas Racz
+1310	2	Christian Taylor	Lindy Heymann
+1311	1	Bob Clark
+1312	1	Michael Haneke
+1313	1	Damian Nieman
+1314	1	Beat Takeshi Kitano
+1315	1	Andrew Litvack
+1316	2	Daniela Fejerman	Inés París
+1317	1	Jacques Sarasin
+1318	1	Catherine Breillat
+1319	1	Eric Small
+1320	1	Jane Weinstock
+1321	1	Deborah Kampmeier
+1322	2	Andrew Rossi	Kate Novak
+1323	1	Pieter Jan Brugge
+1324	1	Michael Burke
+1325	1	Abigail Honor
+1326	1	Sven Pape
+1327	1	Hugo Rodríguez
+1328	1	Jonathan Glazer
+1329	1	Ernest R. Dickerson
+1330	1	Matthew Leutwyler
+1331	1	Larry Peerce
+1332	1	Vicente Aranda
+1333	1	George Lucas
+1334	1	Peter Hewitt
+1335	1	Frank Coraci
+1336	1	Gavin O'Connor
+1337	1	Kerry Conran
+1338	1	Ferzan Ozpetek
+1339	1	Michael Tolajian
+1340	1	Kiyoshi Kurosawa
+1341	1	Pupi Avati
+1342	1	André Téchiné
+1343	1	Lucas Belvaux
+1344	1	Ross McElwee
+1345	1	Jeff Schaffer
+1346	1	Jevon O'Neill
+1347	1	Avi Nesher
+1348	1	Joe Camp
+1349	1	Zack Snyder
+1350	1	Sara Sugarman
+1351	1	Scott Ziehl
+1352	1	Kevin Allen
+1353	1	Kim Jee-Woon
+1354	1	Ra'anan Alexandrowicz
+1355	1	Stu Pollard
+1356	1	Aaron Woodley
+1357	1	Ken Loach
+1358	1	Mad Matthewz
+1359	1	Pen-ek Ratanaruang
+1360	1	Michael Schultz
+1361	1	Brad McGann
+1362	1	David S. Goyer
+1363	1	Pearl Gluck
+1364	1	Benny Chan
+1365	1	Hiner Saleem
+1366	0	<NULL>
+1367	1	Richard Linklater
+1368	1	Miguel Courtois
+1369	1	Ryan Little
+1370	1	Zola Maseko
+1371	1	Luchino Visconti
+1372	1	Louis Malle
+1373	1	Kent MacKenzie
+1374	1	Alastair Reid
+1375	1	Tom Hooper
+1376	2	Alison Maclean	Tobias Perse
+1377	1	Chris Kentis
+1378	1	Jean-François Pouliot
+1379	1	Federico Hidalgo
+1380	1	Bruce LaBruce
+1381	2	Brennon Jones	Paul Wynne
+1382	1	Spike Lee
+1383	1	Brett Ingram
+1384	1	Julian Richards
+1385	1	David Greenspan
+1386	1	Lenny Abrahamson
+1387	1	Bob Smeaton
+1388	1	Khyentse Norbu
+1389	1	Asif Kapadia
+1390	1	Jean-Pierre Limosin
+1391	2	Eric Darnell	Tom McGrath
+1392	1	Ryan Rossell
+1393	1	Marco Bellocchio
+1394	1	John Dahl
+1395	1	James Hergott
+1396	1	Richard Ledes
+1397	1	Joey Curtis
+1398	1	Joe Maggio
+1399	2	Todd Bridges	Jimmy Bridges
+1400	1	Elliot Greenebaum
+1401	1	Adam Goldberg
+1402	1	Nicole Kassell
+1403	1	Paula van der Oest
+1404	1	Carl Bessai
+1405	1	Lee Friedlander
+1406	2	Michael Spierig	Peter Spierig
+1407	1	François Ozon
+1408	1	Ben Sombogaart
+1409	1	Marco Tullio Giordana
+1410	1	David Anspaugh
+1411	1	Dave McKean
+1412	1	Andrew Bujalski
+1413	1	Mark Dindal
+1414	1	Lamont Johnson
+1415	1	Dalton Trumbo
+1416	2	Jean-Luc Godard	Jean-Pierre Gorin
+1417	1	Pawel Pawlikowski
+1418	0	<NULL>
+1419	1	Robert Lepage
+1420	2	Andrew Gurland	Huck Botko
+1421	2	Andy Byatt	Alastair Fothergill
+1422	1	David Devine
+1423	1	Kirk Davis
+1424	1	Craig Lucas
+1425	1	Bob Balaban
+1426	2	Michael Skolnik	Lori Silverbush
+1427	1	Royston Tan
+1428	1	Michael Haneke
+1429	1	Damien O'Donnell
+1430	1	Ziad H. Hamzeh
+1431	1	Todd Solondz
+1432	1	Paul Haggis
+1433	1	Daniel Burman
+1434	1	Scott Zakarin
+1435	1	Florent Emilio Siri
+1436	1	Sergio Castellitto
+1437	1	Eytan Fox
+1438	1	Nimród Antal
+1439	1	David S. Marfield
+1440	1	Kirk Jones
+1441	1	Jean-François Richet
+1442	1	Robert Connolly
+1443	1	mink
+1444	1	Adam Shankman
+1445	0	<NULL>
+1446	1	Henrik Ruben Genz
+1447	2	Shinji Aramaki	Yasuhiro Otsuka
+1448	1	Mark Rosman
+1449	2	Peter Gimbel	James Lipscomb
+1450	1	Howard Alk
+1451	1	George Sherman
+1452	1	Ted Kotcheff
+1453	1	David Winkler
+1454	1	Daniel Kraus
+1455	1	Q. Allan Brocka
+1456	1	Fernando Meirelles
+1457	1	Tim Kirkman
+1458	1	Duncan Tucker
+1459	1	Nisha Ganatra
+1460	1	Lisa France
+1461	1	Keren Yedaya
+1462	1	Woody Allen
+1463	1	Jun Ichikawa
+1464	1	Sebastien Lifshitz
+1465	1	Marcos Siega
+1466	0	<NULL>
+1467	1	Anthony Hickox
+1468	1	Jia Zhang Ke
+1469	1	Jon Favreau
+1470	0	<NULL>
+1471	1	Peter Raymont
+1472	1	Uwe Boll
+1473	1	Joseph Castelo
+1474	1	Jonathan English
+1475	1	Craig Rosenberg
+1476	1	Dan Wilde
+1477	1	Avi Lewis
+1478	1	David Cronenberg
+1479	3	Fruit Chan	Takashi Miike	Park Chan-wook
+1480	1	John Gatins
+1481	2	James D. Stern	Adam Del Deo
+1482	1	Agustin
+1483	1	Phil Bertelsen
+1484	1	Steve Rash
+1485	1	Hendrik Hölzemann
+1486	1	Luis Mandoki
+1487	1	Mikael Håfström
+1488	1	Guy Ritchie
+1489	1	Claude Chabrol
+1490	1	Sue Corcoran
+1491	1	Ivo Trajkov
+1492	1	Sinan Antoon
+1493	2	Pi Ware	Susan Kraker
+1494	2	Yolande Moreau	Gilles Porte
+1495	1	Jonathan Jakubowicz
+1496	1	Judy Irving
+1497	1	Sam Mendes
+1498	2	Anthony Newley	Don Record
+1499	1	Gionata Zarantonello
+1500	1	Asia Argento
+1501	1	Adam Rapp
+1502	1	Pat Holden
+1503	1	Gaston Biraben
+1504	1	Ray Lawrence
+1505	1	Lars von Trier
+1506	1	Liz Mermin
+1507	1	Fernando Eimbcke
+1508	1	Armand Mastroianni
+1509	1	Patricio Guzmán
+1510	1	Wim Wenders
+1511	1	Greg McLean
+1512	1	Rick Rosenthal
+1513	1	Aric Avelino
+1514	1	Michael Sturminger
+1515	1	Luis Llosa
+1516	1	Michael Cuesta
+1517	1	David Slade
+1518	1	Peter Cattaneo
+1519	1	Eddy Terstall
+1520	1	Michel Gondry
+1521	1	Jeff Stanzler
+1522	1	Jamie Babbit
+1523	1	Gil Kenan
+1524	1	Laurie Collyer
+1525	1	Nick Guthe
+1526	1	Luc Besson
+1527	1	Craig Singer
+1528	2	Billy Kent	Adam Wierzbianski
+1529	1	Brant Sersen
+1530	1	Isabel Coixet
+1531	1	Brian Robbins
+1532	1	Zhang Yimou
+1533	1	David Redmon
+1534	1	David Ayer
+1535	1	Ilya Khrzhanovsky
+1536	1	Robert Bresson
+1537	1	Michel Gondry
+1538	1	Frank Marshall
+1539	1	Doug Atchison
+1540	1	Eli Roth
+1541	1	William Tyler Smith
+1542	1	Matt Farnsworth
+1543	1	Natalia Almada
+1544	1	Neil Armfield
+1545	1	Ryan Murphy
+1546	1	Vladan Nikolic
+1547	2	Zacharias Kunuk	Norman Cohn
+1548	1	Anthony Minghella
+1549	1	Ning Hao
+1550	1	Edward Burns
+1551	1	Eric Khoo
+1552	1	Rich Christiano
+1553	1	Marcelo Gomes
+1554	1	Vincent Perez
+1555	1	Bob Odenkirk
+1556	1	Steven Soderbergh
+1557	1	Marshall Curry
+1558	2	Guillermo Arriaga	Alejandro González Iñárritu
+1559	1	Ana Kokkinos
+1560	1	Annette K. Olesen
+1561	1	David Lynch
+1562	1	Emmanuel Carrère
+1563	1	Ishai Setton
+1564	1	David R. Ellis
+1565	1	Charles Winkler
+1566	1	John Cameron Mitchell
+1567	1	Michael Mann
+1568	1	Cédric Klapisch
+1569	1	Frank Sebastiano
+1570	1	Geoffrey Sax
+1571	1	Byambasuren Davaa
+1572	1	Niall Johnson
+1573	1	Matt Tauber
+1574	1	Emmanuelle Bercot
+1575	1	Clint Eastwood
+1576	1	Lucas Belvaux
+1577	1	Katherine Dieckmann
+1578	1	Daniel Lapaine
+1579	1	Richard Eyre
+1580	1	André Delvaux
+1581	1	Wendell Franklin
+1582	1	Jake Kasdan
+1583	1	Tim Hill
+1584	1	Bryan Barber
+1585	4	Michael Galinsky	Suki Hawley	David Beilinson	Zachary Werner
+1586	1	Milos Forman
+1587	2	Ten Shimoyama	Yûji Shimomura
+1588	1	Ramin Bahrani
+1589	1	Breno Silveira
+1590	1	Jared Hess
+1591	1	Steve Anderson
+1592	1	Stewart Raffill
+1593	1	Donato Rotunno
+1594	1	John R. Leonetti
+1595	1	Michael Lembeck
+1596	1	John Moore
+1597	1	Ra'up McGee
+1598	1	Todd Stephens
+1599	1	William Dear
+1600	1	Béla Tarr
+1601	1	Mahamat-Saleh Haroun
+1602	1	Nicholas Mastandrea
+1603	1	Menno Meyjes
+1604	1	Sean Ellis
+1605	1	Jeffrey Blitz
+1606	1	David Denneen
+1607	1	Ray McKinnon
+1608	1	Rob Klug
+1609	1	Christopher Cain
+1610	1	Azazel Jacobs
+1611	1	Sergio Martino
+1612	1	Denys McCoy
+1613	1	Barry Strugatz
+1614	1	Kenneth Branagh
+1615	1	Fred Durst
+1616	1	Dave Meyers
+1617	2	Simon J. Smith	Stephen Hickner
+1618	1	James Mangold
+1619	1	Adam Shankman
+1620	1	Michael Apted
+1621	1	Mike Nichols
+1622	1	Nimród Antal
+1623	1	Michael Apted
+1624	1	Ben Affleck
+1625	1	Marco Kreuzpaintner
+1626	1	Paul Soter
+1627	1	Steve Carr
+1628	1	Scott Hicks
+1629	1	Francis Ford Coppola
+1630	1	Andrew Lau
+1631	1	Joby Harold
+1632	1	Mike Newell
+1633	1	Mark Steilen
+1634	2	Adam Ravetch	Sarah Robertson
+1635	1	Michael Lehmann
+1636	1	Ernst Gossner
+1637	1	Sanjay Leela Bhansali
+1638	2	Nadia Conners	Leila Conners Petersen
+1639	1	Cam Archer
+1640	2	Henriette Mantel	Stephen Skrovan
+1641	1	Robert Ben Garant
+1642	1	Michael Katleman
+1643	1	Scott Dacko
+1644	2	Colin Strause	Greg Strause
+1645	1	Chris Rock
+1646	2	Jason Bourque	Nick Bicanic
+1647	1	Eric Nicholas
+1648	1	Beth Schacter
+1649	1	Kasi Lemmons
+1650	2	Dalia Hager	Vidi Bilu
+1651	1	John Dahl
+1652	1	Jens Lien
+1653	1	Jasmine Dellal
+1654	1	Valerie Minetto
+1655	1	Cho Min-Ho
+1656	1	Juan Carlos Fresnadillo
+1657	1	Franck Khalfoun
+1658	1	Martin Weisz
+1659	1	David Auburn
+1660	1	Jim Hickey
+1661	1	Rigoberto Castaneda
+1662	1	Corneliu Porumboiu
+1663	1	Robert Redford
+1664	1	Pete Chatmon
+1665	1	Juan Carlos Rulfo
+1666	1	George Ratliff
+1667	1	John August
+1668	2	Tiller Russell	Loren Mendell
+1669	3	Jacob Gentry	David Bruckner	Dan Bush
+1670	1	David Kaplan
+1671	2	Crispin Glover	David Brothers
+1672	2	Troy Christian	Bob Schrock
+1673	1	Mani Ratnam
+1674	1	Cherie Nowlan
+1675	1	Charles Ferguson
+1676	2	Stephen Fell	Will Thompson
+1677	1	Nagisa Oshima
+1678	1	Bill Melendez
+1679	1	Raymond LeBlanc
+1680	1	Jean Girault
+1681	1	Hans-Jürgen Syberberg
+1682	1	Helen Hunt
+1683	1	Doug Pray
+1684	1	Abel Ferrara
+1685	1	Iain Softley
+1686	2	Hal Haberman	Jeremy Passmore
+1687	1	Jody Hill
+1688	1	Daniel Waters
+1689	1	Tim Chey
+1690	1	Rawson Marshall Thurber
+1691	1	Stuart Gordon
+1692	1	Ridley Scott
+1693	2	Hunter Hill	Perry Moore
+1694	1	Jason Freeland
+1695	2	Douglas Gordon	Phillipe Parreno
+1696	1	Vadim Perelman
+1697	1	David R. Ellis
+1698	1	David Mickey Evans
+1699	1	Eva Aridjis
+1700	1	Jason Todd Ipson
+1701	1	Clint Eastwood
+1702	1	Ilya Chaiken
+1703	1	Patricia Rozema
+1704	1	Bradley Raymond
+1705	1	Noam Murro
+1706	1	Deb Hagan
+1707	1	Keith Samples
+1708	1	Nick Broomfield
+1709	1	Christopher N. Rowley
+1710	1	Reha Erdem
+1711	1	Giuseppe Tornatore
+1712	1	C. Jay Cox
+1713	1	Chaz Thorne
+1714	1	Jonah Markowitz
+1715	1	Christopher Zalla
+1716	1	Adam Hootnick
+1717	1	Jon Else
+1718	1	Errol Morris
+1719	1	Amy Redford
+1720	1	Roger Spottiswoode
+1721	1	Patrick Creadon
+1722	1	Chris Kraus
+1723	1	Ronald Bronstein
+1724	1	Jerome Hill
+1725	1	Neil Burger
+1726	1	Adam Shankman
+1727	1	Benson Lee
+1728	1	Juan Antonio Bayona
+1729	1	Ramin Bahrani
+1730	1	Robert B. Weide
+1731	1	Béla Tarr
+1732	1	Jean-Pierre Melville
+1733	1	Nicolas Philibert
+1734	1	Fatih Akin
+1735	2	Thomas Langmann	Frédéric Forestier
+1736	1	Gael García Bernal
+1737	1	Rob Schmidt
+1738	1	Stephen Chow
+1739	1	Dario Argento
+1740	2	Wilson Yip	Donnie Yen
+1741	1	Newton I. Aduaka
+1742	1	Matthew Saville
+1743	1	Wayne Kramer
+1744	1	Jean-Paul Salome
+1745	1	Ed Harris
+1746	1	Li Yu
+1747	1	Nadine Labaki
+1748	1	S.R. Bindler
+1749	1	Csaba Bollok
+1750	1	Angelina Maccarone
+1751	1	Paul Taylor
+1752	1	Uwe Boll
+1753	1	Alexander Sokurov
+1754	1	Olivier Assayas
+1755	1	Céline Sciamma
+1756	1	Jacques Nolot
+1757	1	Jerzy Kawalerowicz
+1758	1	John Vidette
+1759	1	Buzz Kulik
+1760	1	Peter Bogdanovich
+1761	1	Douglas Hickox
+1762	1	Hou Hsiao-Hsien
+1763	1	Alex Holdridge
+1764	1	Gil Kofman
+1765	1	Morgan Neville
+1766	1	Agnès Merlet
+1767	1	Dane Cannon
+1768	1	Fernando Meirelles
+1769	1	Jeff Buhler
+1770	1	Darnell Martin
+1771	1	Claude Miller
+1772	1	Jon Avnet
+1773	1	Lloyd Kaufman
+1774	1	Annemarie Jacir
+1775	1	Wayne Wang
+1776	1	Nina Davenport
+1777	1	Param Gill
+1778	12	Brett Ratner	Shekhar Kapur	Allen Hughes	Natalie Portman	Jiang Wen	Mira Nair	Fatih Akin	Yvan Attal	Shunji Iwai	Randall Balsmeyer	Andrei Zvyagintsev	Joshua Marston
+1779	1	John Krasinski
+1780	1	Abdullah Oguz
+1781	1	Sean Ellis
+1782	1	Carlos Cuarón
+1783	1	Stacy Peralta
+1784	1	Stanley Tucci
+1785	1	Park Chan-wook
+1786	2	Alastair Fothergill	Mark Linfield
+1787	1	Oren Moverman
+1788	1	Roland Tec
+1789	1	Marin Karmitz
+1790	1	Lucrecia Martel
+1791	1	Andrzej Krakowski
+1792	1	Eva Dahr
+1793	1	Lars von Trier
+1794	1	Denys Arcand
+1795	1	Stephane Gauger
+1796	1	Götz Spielmann
+1797	1	Richard Harrah
+1798	1	Richard Eyre
+1799	1	Antonello Grimaldi
+1800	1	Uli Edel
+1801	2	Pete Docter	Bob Peterson
+1802	1	Srdjan Dragojevic
+1803	1	Paolo Sorrentino
+1804	1	Milcho Manchevski
+1805	1	Robert Zemeckis
+1806	1	Boaz Yakin
+1807	1	Atom Egoyan
+1808	2	Jon Hart	Mathew Kaufman
+1809	1	R.W. Goodwin
+1810	1	Kim Tae-kyung
+1811	1	Barry Jenkins
+1812	1	Peter Callahan
+1813	1	William Dear
+1814	2	Scott Sanders	Ron Yuan
+1815	2	Brian Taylor	Mark Neveldine
+1816	1	Morgan J. Freeman
+1817	1	Tao Ruspoli
+1818	1	Matteo Garrone
+1819	1	Shane Meadows
+1820	1	Neill Blomkamp
+1821	1	Agnès Varda
+1822	1	Majid Majidi
+1823	1	Bernard Rose
+1824	1	Cédric Klapisch
+1825	1	François Ozon
+1826	1	Carlos Sorin
+1827	1	George McCowan
+1828	1	Oscar Williams
+1829	1	Karyn Kusama
+1830	1	Steve Carr
+1831	1	David N. Twohy
+1832	1	Sam Mendes
+1833	1	Brillante Mendoza
+1834	1	Beata Gårdeler
+1835	1	Pablo Larrain
+1836	1	Mira Nair
+1837	1	Peter Rodger
+1838	1	Tibor Takacs
+1839	1	Bruce McDonald
+1840	1	Dori Berinstein
+1841	1	Andrew Jacobs
+1842	1	Todd Phillips
+1843	1	Jan Troell
+1844	2	Michael Selditch	Robert Tate
+1845	1	Hans-Christian Schmid
+1846	1	Eric Amadio
+1847	1	Steven Soderbergh
+1848	1	Jonas Pate
+1849	2	Lisa Barros D'Sa	Glenn Leyburn
+1850	2	Pierre Trividic	Patrick Mario Bernard
+1851	1	John-Luke Montias
+1852	1	Astra Taylor
+1853	1	Stewart Hendler
+1854	1	Tom Ford
+1855	1	Vikram
+1856	1	Nati Baratz
+1857	1	Lee Yoon-ki
+1858	2	Audrey Ewell	Aaron Aites
+1859	1	Anders Høgsbro Østergaard
+1860	1	Rupert Murray
+1861	1	Doug Pray
+1862	1	Sebastián Silva
+1863	1	Lamont Johnson
+1864	0	<NULL>
+1865	1	Michele Lupo
+1866	1	Robert Altman
+1867	1	Sutton Roley
+1868	1	Ian Fitzgibbon
+1869	1	Julie Davis
+1870	1	Marc Forby
+1871	1	Peter Bratt
+1872	1	Mitchell Lichtenstein
+1873	1	Thor Freudenthal
+1874	1	Ralph Ziman
+1875	1	Luca Guadagnino
+1876	1	Dana Brown
+1877	1	Julio DePietro
+1878	1	Kevin Hamedani
+1879	1	Pierre Morel
+1880	1	Julian Jarrold
+1881	1	LeVar Burton
+1882	1	Jeff King
+1883	2	Pierre Coffin	Chris Renaud
+1884	1	Neil LaBute
+1885	1	Florian Gallenberger
+1886	1	Catherine Breillat
+1887	1	Conor McPherson
+1888	1	Darko Lungulov
+1889	1	Warwick Thornton
+1890	1	Jugal Hansraj
+1891	3	Kate Davis	David Heilbroner	Franco Sacchi
+1892	1	Othello Khanh
+1893	1	Kim Jee-Woon
+1894	1	Stephen Milburn Anderson
+1895	1	Harvey Wang
+1896	1	Derek Ford
+1897	1	Richard A. Colla
+1898	1	Alex de Renzy
+1899	3	Saul Landau	Nina Serrano	Raúl Ruiz
+1900	1	Woody Allen
+1901	1	David Lee Miller
+1902	1	Anil Sharma
+1903	1	Daryl Wein
+1904	1	Nicole Opper
+1905	1	Susanna White
+1906	1	Sofia Coppola
+1907	2	Robert Rodriguez	Ethan Maniquis
+1908	1	Gaspar Noé
+1909	1	Johnny To
+1910	1	John J. Curran
+1911	1	A.J. Schnack
+1912	2	Jaak Kilmi	Kiur Aarma
+1913	1	Felix Moeller
+1914	1	Don Hahn
+1915	1	Duncan Ward
+1916	1	Todd Phillips
+1917	1	Kevin Greutert
+1918	2	Peter Brosens	Jessica Woodworth
+1919	1	Nicolas Winding Refn
+1920	2	Scandar Copti	Yaron Shani
+1921	1	George Tillman, Jr.
+1922	1	Fatih Akin
+1923	1	David Kittredge
+1924	1	Gabriel Bologna
+1925	1	Ruedi Gerber
+1926	1	Stéphane Brizé
+1927	1	Daniel Alfredson
+1928	2	David Nixon	Patrick Doughtie
+1929	1	Minos Papas
+1930	1	Vince Vieluf
+1931	2	Josh Safdie	Ben Safdie
+1932	2	Steven Greenstreet	Reed Cowan
+1933	1	Rodrigo Cortés
+1934	1	Josh Radnor
+1935	2	Sebastian Junger	Tim Hetherington
+1936	1	Chris Morris
+1937	1	Joey Stewart
+1938	1	Daniel Adams
+1939	1	Warren P. Sonoda
+1940	2	Nick Cohen	Christopher Baker
+1941	1	Eric Forsberg
+1942	1	Tod Williams
+1943	1	Nicolo Donato
+1944	1	Leslie Zemeckis
+1945	1	Lisa Cholodenko
+1946	1	Miguel Albaladejo
+1947	1	Dover Kosashvili
+1948	1	Ben Hickernell
+1949	1	Jeff Malmberg
+1950	1	Thomas Ikimi
+1951	1	Jeff Deutchman
+1952	1	Marc-Andre Lavoie
+1953	1	Fred Olen Ray
+1954	1	Josh Sternfeld
+1955	1	Daryn Tufts
+1956	1	Chandan Arora
+1957	1	Paul Morrissey
+1958	1	Stanislav Rostotsky
+1959	1	Peter Bogdanovich
+1960	1	Burt Kennedy
+1961	1	Richard Fleischer
+1962	1	Sidney Poitier
+1963	1	Sidney Lumet
+1964	1	Ted Post
+1965	1	Claude Goretta
+1966	1	Robert Aldrich
+1967	1	Daniel Petrie
+1968	1	Peter Yates
+1969	1	Barry Pollack
+1970	1	Joseph Sargent
+1971	1	Richard Sarafian
+1972	1	Stanley Kramer
+1973	1	John Guillermin
+1974	1	Bernard Kowalski
+1975	1	Howard W. Koch
+1976	1	Nathan Juran
+1977	0	<NULL>
+1978	1	Tom Gries
+1979	1	Robin Hardy
+1980	1	Caspar Wrede
+1981	1	Gérard Pirès
+1982	1	David Buckley
+1983	1	Menahem Golan
+1984	1	Sigi Rothemund
+1985	1	Trevor D. Rhone
+1986	1	Harold Pinter
+1987	1	Charles Martin
+1988	1	Pierre Tchernia
+1989	1	Guy Green
+1990	1	Robert Stevenson
+1991	1	Patrick McGoohan
+1992	2	Roland Kibbee	Burt Lancaster
+1993	1	Paul Annett
+1994	2	Lewis Gilbert	Guffroy Gilbert
+1995	1	Richard T. Heffron
+1996	1	Eugene S. Jones
+1997	1	Nicolas Noxon
+1998	1	Michael Cimino
+1999	1	Masahiro Shinoda

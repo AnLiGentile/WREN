@@ -1,0 +1,2002 @@
+﻿restaurant	frommers	cuisine
+2000	2000	2000	610
+0000	1	American
+0001	1	Italian
+0002	1	Thai
+0003	1	Mediterranean
+0004	1	Seafood, Caribbean
+0005	1	Italian
+0006	1	Continental
+0007	1	Burgers
+0008	1	Steaks, Seafood, Eclectic
+0009	1	Steak, Seafood, Eclectic
+0010	1	Southwestern, Mexican
+0011	1	Chicken
+0012	1	Diner
+0013	1	Seafood, Eclectic
+0014	1	Filipino
+0015	1	Mexican, Italian
+0016	1	Seafood
+0017	1	Bahamian
+0018	1	Seafood, American, Natural
+0019	1	Contemporary American
+0020	1	Fusion
+0021	1	Italian, American
+0022	1	Floribbean
+0023	1	Steak
+0024	1	American
+0025	1	Southwestern, Seafood
+0026	1	PIZZA
+0027	1	Pub Fare
+0028	1	American, Continental
+0029	1	TRADITIONAL AMERICAN
+0030	1	SEAFOOD, FAMILY FARE
+0031	1	International
+0032	1	American
+0033	1	Cajun
+0034	1	American
+0035	1	Steak, Seafood
+0036	1	American, Southwestern
+0037	1	American
+0038	1	Diner
+0039	1	American, Continental
+0040	1	Seafood
+0041	1	American
+0042	1	Health food, Juices
+0043	1	Sandwiches
+0044	1	American, Microbrewery
+0045	1	Continental
+0046	1	Thai
+0047	1	Continental
+0048	1	French
+0049	1	Steak, Seafood
+0050	1	Italian
+0051	1	Diner
+0052	1	Buffet
+0053	1	Bistro
+0054	1	Diner
+0055	1	Diner
+0056	1	Eclectic
+0057	1	Deli
+0058	1	American
+0059	1	Italian
+0060	1	Buffet
+0061	1	Mexican
+0062	1	Sushi
+0063	1	Creole
+0064	1	Buffet
+0065	1	Italian
+0066	1	American
+0067	1	Buffet
+0068	1	Buffet
+0069	1	Buffet
+0070	1	Chinese
+0071	1	American
+0072	1	Japanese, Sushi
+0073	1	Mexican
+0074	1	Deli
+0075	1	Deli
+0076	1	Thai
+0077	1	Thai
+0078	1	Buffet
+0079	1	American
+0080	1	Barbecue
+0081	1	Southwestern
+0082	1	Buffet
+0083	1	New American
+0084	1	Steak, Seafood
+0085	1	French
+0086	1	Mexican
+0087	1	Barbecue
+0088	1	Italian
+0089	1	Continental, Russian
+0090	1	Cuban
+0091	1	Buffet
+0092	1	Barbecue
+0093	1	International, Pacific Rim
+0094	1	American
+0095	1	Thai
+0096	1	Steak, Seafood
+0097	1	Steak
+0098	1	Seafood, Steaks
+0099	1	American, New Mexican
+0100	1	American, Vegetarian
+0101	1	German, Continental
+0102	1	Italian
+0103	1	Seafood
+0104	1	Seafood
+0105	1	Steaks, American
+0106	1	ECLECTIC
+0107	1	French, American
+0108	1	Regional
+0109	1	American
+0110	1	Pub Fare, American
+0111	1	Lamb, Seafood
+0112	1	French, American
+0113	1	American
+0114	1	Californian, French
+0115	1	Contemporary American
+0116	1	Asian Fusion
+0117	1	Steakhouse
+0118	1	American, Breakfast
+0119	1	Greek
+0120	1	California
+0121	1	Californian, Mediterranean
+0122	1	Breakfast, Caribbean, Cuban
+0123	1	Fusion
+0124	1	French Brasserie
+0125	1	Latin
+0126	1	French Brasserie
+0127	1	Wine Bar
+0128	1	Steak
+0129	1	Italian
+0130	1	Mexican
+0131	1	Mexican
+0132	1	American, Breakfast
+0133	1	Northern Italian
+0134	1	Breakfast, Delicatessen
+0135	1	Traditional Japanese, Sushi
+0136	1	Traditional American, Breakfast
+0137	1	Asian-Fusion
+0138	1	French
+0139	1	Steaks, Seafood
+0140	1	Northern Italian
+0141	1	Northern Italian
+0142	1	Sushi
+0143	1	Traditional Italian
+0144	1	American, Continental
+0145	1	Delicatessen, Breakfast
+0146	1	Ethiopian
+0147	1	French
+0148	1	Italian
+0149	1	Breakfast, Sandwiches
+0150	1	Grill
+0151	1	Californian, French
+0152	1	Japanese, Sushi
+0153	1	American
+0154	1	California
+0155	1	American, Diner, Breakfast
+0156	1	Southern Italian
+0157	1	American, Breakfast
+0158	1	Thai
+0159	1	Seafood
+0160	1	Chinese
+0161	1	Chinese
+0162	1	Homestyle, Vegetarian
+0163	1	Mediterranean, Eclectic
+0164	1	Barbecue
+0165	1	American
+0166	1	Southern
+0167	1	Japanese
+0168	1	Diner
+0169	1	Thai
+0170	1	Diner, Seafood
+0171	1	French Bistro
+0172	1	New American
+0173	1	Mediterranean
+0174	1	Southern
+0175	1	New American
+0176	1	Southern
+0177	1	American
+0178	1	Italian
+0179	1	New Southern
+0180	1	American
+0181	1	Japanese, Seafood
+0182	1	American, Italian
+0183	1	New American
+0184	1	American, Continental
+0185	1	Contemporary Southern
+0186	1	Californian, New American
+0187	1	Cajun
+0188	1	Southern
+0189	1	Continental
+0190	1	Cajun
+0191	1	Vietnamese, Chinese
+0192	1	American, Italian
+0193	1	Italian
+0194	1	American
+0195	1	New Southern
+0196	1	Barbecue
+0197	1	Pacific Rim, Seafood
+0198	1	American
+0199	1	North Coast Cuisine
+0200	1	American
+0201	1	Seafood, Italian
+0202	1	Contemporary Latin
+0203	1	Chinese
+0204	1	Steak, American
+0205	1	Irish
+0206	1	Italian Chophouse
+0207	1	Mexican
+0208	1	Creole
+0209	1	American, Health Food
+0210	1	Seafood
+0211	1	Indian
+0212	1	Vietnamese
+0213	1	Deli
+0214	1	American
+0215	1	Seafood
+0216	1	Soul Food
+0217	1	Tapas
+0218	1	Chinese, Dim Sum
+0219	1	Sandwiches
+0220	1	Cuban
+0221	1	Cuban
+0222	1	Italian
+0223	1	Italian
+0224	1	Steakhouse
+0225	1	New American
+0226	1	Latin
+0227	1	Pan-Asian
+0228	1	American
+0229	1	Italian
+0230	1	Nuevo Latino
+0231	1	Sandwiches
+0232	1	French
+0233	1	Pizza
+0234	1	Brazilian
+0235	1	Steakhouse
+0236	1	Cuban, Spanish
+0237	1	Italian
+0238	1	Mexican
+0239	1	Mexican
+0240	1	Barbecue
+0241	1	American
+0242	1	Italian
+0243	1	Steak, American
+0244	1	Italian, Mediterranean
+0245	1	Chinese
+0246	1	Italian, Steak
+0247	1	NEW AMERICAN
+0248	1	New American
+0249	1	New American, Global
+0250	1	French Bistro
+0251	1	Cafeteria
+0252	1	Asian, Latin American
+0253	1	Spanish
+0254	1	American
+0255	1	Eclectic
+0256	1	Contemporary American
+0257	1	American
+0258	1	American, Southwestern
+0259	1	American
+0260	1	Italian, Seafood
+0261	1	Italian
+0262	1	American
+0263	1	American
+0264	1	American, Eclectic
+0265	1	Atlantic Coastal
+0266	1	Southern
+0267	1	Seafood
+0268	1	German, American
+0269	1	California
+0270	1	American
+0271	1	Steakhouse
+0272	1	World Cuisine
+0273	1	American
+0274	1	International, Australian
+0275	1	American
+0276	1	American
+0277	1	Seafood
+0278	1	French Bistro
+0279	1	Tapas
+0280	1	Mediterranean Fusion
+0281	1	American
+0282	1	Steak, Seafood
+0283	1	Caribbean
+0284	1	New American
+0285	1	Barbecue
+0286	1	Burgers, New American
+0287	1	New American, New Southern
+0288	1	New American, New Southern
+0289	1	Southern
+0290	1	Pizza
+0291	1	Ice Cream, American
+0292	1	German
+0293	1	Japanese
+0294	1	American, Southwestern
+0295	1	American, Southern
+0296	1	Steaks, Seafood
+0297	1	Mexican, Ice Cream
+0298	1	Pizza
+0299	1	American, French
+0300	1	Barbeque
+0301	1	New American, New Southern
+0302	1	Fusion
+0303	1	American, Carribean
+0304	1	Southern
+0305	1	Steaks
+0306	1	New American, New Southern
+0307	1	Southern
+0308	1	Italian
+0309	1	Steaks
+0310	1	American
+0311	1	American
+0312	1	New American, Southern
+0313	1	Barbecue
+0314	1	Eclectic American
+0315	1	American
+0316	1	Vegetarian
+0317	1	Sandwiches, Burgers
+0318	1	Nuevo Latino
+0319	1	Creative French
+0320	1	Seafood, Sandwiches
+0321	1	Ice Cream, Sweets
+0322	1	Creole
+0323	1	Italian
+0324	1	American
+0325	1	Seafood
+0326	1	Cajun, Creole
+0327	1	Creole
+0328	1	Contemporary Creole
+0329	1	Cafe
+0330	1	Italian
+0331	1	Creole
+0332	1	Coffeehouse
+0333	1	Creole
+0334	1	Coffee
+0335	1	Contemporary Creole
+0336	1	Contemporary Louisiana
+0337	1	Eclectic
+0338	1	Eclectic, Creole
+0339	1	International
+0340	1	Creole
+0341	1	Coffee, Bakery, Sandwiches
+0342	1	American
+0343	1	American, Creole
+0344	1	Seafood
+0345	1	FRENCH
+0346	1	Contemporary Creole
+0347	1	Creole, Seafood
+0348	1	Sandwiches
+0349	1	Cajun, Creole
+0350	1	Bakery
+0351	1	Creole
+0352	1	Bistro
+0353	1	Bistro
+0354	1	Pizza
+0355	1	Creole, Italian
+0356	1	Eclectic
+0357	1	Sandwiches
+0358	1	Asian, Bistro
+0359	1	NOUVEAU SOUTHERN
+0360	1	Sandwiches, Creole
+0361	1	Sandwiches
+0362	1	Seafood, Southern
+0363	1	Creole, Seafood
+0364	1	Bistro
+0365	1	Seafood
+0366	1	Seafood, Steak
+0367	1	Coffee, Sandwiches
+0368	1	Coffee
+0369	1	Sweets, Ice Cream
+0370	1	SANDWICHES, DESSERT
+0371	1	French, Italian
+0372	1	Creole
+0373	1	Creole, Sandwiches
+0374	1	Italian Country
+0375	1	Italian Small Plates
+0376	1	Middle Eastern
+0377	1	Modern Greek
+0378	1	Steakhouse, Bistro
+0379	1	French
+0380	1	Greek, Middle Eastern
+0381	1	Chinese, Cantonese
+0382	1	Indian
+0383	1	American
+0384	1	Asian
+0385	1	Italian
+0386	1	Indian
+0387	1	American
+0388	1	Italian, Pizza
+0389	1	Indian
+0390	1	Asian, English
+0391	1	Italian, Sicilian
+0392	1	Barbecue
+0393	1	Cuban, Chinese
+0394	1	Cuban, Chinese
+0395	1	Steakhouse
+0396	1	Steakhouse
+0397	1	Italian
+0398	1	Steakhouse
+0399	1	Barbecue
+0400	1	Steaks
+0401	1	Jewish Deli
+0402	1	Steakhouse
+0403	1	Thai
+0404	1	Spanish, Tapas
+0405	1	Pizza, Italian
+0406	1	French
+0407	1	Asian
+0408	1	Chinese, Seafood
+0409	1	Italian
+0410	1	French, Italian
+0411	1	Seafood
+0412	1	Contemporary American
+0413	1	Mexican Seafood
+0414	1	French
+0415	1	Vietnamese
+0416	1	Steakhouse
+0417	1	American
+0418	1	Japanese
+0419	1	Steaks
+0420	1	Indian
+0421	1	American
+0422	1	Greek
+0423	1	Modern English, Pub Fare
+0424	1	Steakhouse
+0425	1	Thai
+0426	1	Seafood
+0427	1	Northwest
+0428	1	Northwest
+0429	1	Seafood, American
+0430	1	Steaks, Seafood
+0431	1	Eclectic
+0432	1	Seafood
+0433	1	Contemporary Bistro
+0434	1	Asian, International
+0435	1	Barbeque, Pub Fare
+0436	1	French Tapas
+0437	1	California
+0438	1	Italian
+0439	1	American, Ice Cream
+0440	1	American, Pacific Rim
+0441	1	Donuts, Lunch
+0442	1	Italian
+0443	1	International
+0444	1	Seafood
+0445	1	Seafood
+0446	1	French
+0447	1	American
+0448	1	Steak, Seafood
+0449	1	American
+0450	1	BISTRO
+0451	1	BREAKFAST
+0452	1	Italian
+0453	1	Barbeque
+0454	1	Seafood
+0455	1	Eclectic
+0456	1	American
+0457	1	Seafood, Steaks, Chops
+0458	1	American
+0459	1	Caribbean
+0460	1	Italian
+0461	1	New Orleans
+0462	1	African
+0463	1	Seafood
+0464	1	International
+0465	1	Seafood
+0466	1	American
+0467	1	Seafood
+0468	1	Mississippi Delta
+0469	1	African
+0470	1	Chinese
+0471	1	Northern Italian
+0472	1	Southern Italian
+0473	1	American
+0474	1	Japanese
+0475	1	Cuban
+0476	1	Northern Italian
+0477	1	Pacific Rim
+0478	1	Thai
+0479	1	Tapas, Mediterranean
+0480	1	Steaks, Seafood, Chops
+0481	1	International
+0482	1	Seafood
+0483	1	Bakery
+0484	1	New American
+0485	1	New American
+0486	1	Steak, Italian
+0487	1	Italian
+0488	1	Mexican, Latin American
+0489	1	Seafood
+0490	1	Italian
+0491	1	Northern Italian
+0492	1	Asian
+0493	1	Mexican
+0494	1	Steakhouse
+0495	1	Classic French
+0496	1	Pizza
+0497	1	FRENCH, MEDITERRANEAN
+0498	1	Caribbean
+0499	1	Seafood
+0500	1	Steak, Seafood
+0501	1	Seafood
+0502	1	Contemporary Global
+0503	1	European, Continental
+0504	1	Regional American
+0505	1	Italian
+0506	1	Contemporary, Eclectic
+0507	1	American
+0508	1	Contemporary American
+0509	1	Country French
+0510	1	California Grill
+0511	1	Southwestern
+0512	1	Italian
+0513	1	International
+0514	1	Seafood, Steak, Greek
+0515	1	Diner
+0516	1	Upscale Deli
+0517	1	American
+0518	1	Modern Cuban
+0519	1	Contemporary Tapas
+0520	1	French
+0521	1	Modern Indian
+0522	1	Asian Fusion
+0523	1	Steak
+0524	1	French
+0525	1	Traditional American
+0526	1	Continental
+0527	1	Mexican
+0528	1	American Modern
+0529	1	Continental
+0530	1	International
+0531	1	American, Continental
+0532	1	Modern American
+0533	1	Contemporary American
+0534	1	French
+0535	1	Mexican
+0536	1	American
+0537	1	Italian
+0538	1	Belgian
+0539	1	Japanese, Fusion
+0540	1	Indian
+0541	1	Italian
+0542	1	Modern Italian
+0543	1	French
+0544	1	Italian
+0545	1	Southern Italian
+0546	1	American, French
+0547	1	Continental
+0548	1	Cantonese, Shanghai
+0549	1	Mediterranean
+0550	1	Steak
+0551	1	Italian
+0552	1	Italian
+0553	1	Vietnamese
+0554	1	American, International
+0555	1	American
+0556	1	American, Eclectic
+0557	1	Israeli
+0558	1	Mexican
+0559	1	American
+0560	1	Barbecue
+0561	1	MODERN STEAKHOUSE
+0562	1	NEW AMERICAN
+0563	1	New Mexican
+0564	1	Mexican
+0565	1	Barbecue
+0566	1	AMERICAN
+0567	1	Pizza
+0568	1	Mexican
+0569	1	New American
+0570	1	New American
+0571	1	Pizza
+0572	1	Mexican
+0573	1	Bakery, Sandwiches
+0574	1	New American
+0575	1	Southwest, Eclectic
+0576	1	Deli
+0577	1	American
+0578	1	Sandwiches, Salads
+0579	1	Venetian Italian
+0580	1	French
+0581	1	Southwestern
+0582	1	Nuevo Latino
+0583	1	Continental, Irish
+0584	1	Fusion
+0585	1	Seafood
+0586	1	Seafood
+0587	1	Thai
+0588	1	Northwest
+0589	1	Breakfast, Lunch
+0590	1	Pizza
+0591	1	CONTEMPORARY GRILL
+0592	1	CHOWDER, SEAFOOD
+0593	1	ECLECTIC, NEW AMERICAN
+0594	1	Irish
+0595	1	ECLECTIC, TAKEOUT
+0596	1	Peruvian
+0597	1	French
+0598	1	French, Italian
+0599	1	American, Sandwiches
+0600	1	Tex-Mex
+0601	1	Chinese
+0602	1	Regional Italian
+0603	1	Regional Italian, Modern European
+0604	1	Mediterranean
+0605	1	Seafood
+0606	1	Seafood
+0607	1	Middle Eastern
+0608	1	American
+0609	1	Italian
+0610	1	Thai
+0611	1	Southern
+0612	1	Vietnamese
+0613	1	Mediterranean, Seafood
+0614	1	Spanish
+0615	1	Thai
+0616	1	Mediterranean
+0617	1	Spanish
+0618	1	Bistro, Wine Bar
+0619	1	Seafood
+0620	1	New American, French
+0621	1	Tavern Fare
+0622	1	Continental
+0623	1	Northwest
+0624	1	American
+0625	1	American, Pub Fare
+0626	1	Southwestern, Steakhouse, Seafood
+0627	1	Asian
+0628	1	Italian
+0629	1	American Bistro
+0630	1	New American
+0631	1	Eclectic
+0632	1	Seafood, Barbeque
+0633	1	New American
+0634	1	Northern Italian
+0635	1	Mediterranean Fusion, Italian
+0636	1	American
+0637	1	Seafood
+0638	1	International
+0639	1	Seafood
+0640	1	Steak, Seafood
+0641	1	Seafood
+0642	1	International
+0643	1	Californian, Asian
+0644	1	International
+0645	1	Steaks
+0646	1	Asian
+0647	1	Californian
+0648	1	American, International
+0649	1	Breakfast, Ice Cream
+0650	1	International
+0651	1	French
+0652	1	Brewpub
+0653	1	Thai
+0654	1	French
+0655	1	American
+0656	1	American
+0657	1	Eclectic
+0658	1	International
+0659	1	Northen Italian
+0660	1	American
+0661	1	Brazilian, International
+0662	1	American
+0663	1	Southern
+0664	1	International
+0665	1	American
+0666	1	Microwbrewery
+0667	1	World Cuisine
+0668	1	Mediterranean, New American
+0669	1	Steaks, American
+0670	1	Italian
+0671	1	Soda Fountain, Regional American
+0672	1	American
+0673	1	New Mexican
+0674	1	Bakery, Cafe
+0675	1	Seafood, Steak
+0676	1	Seafood, Steak
+0677	1	Bistro
+0678	1	American Grill
+0679	1	Mediterranean
+0680	1	International
+0681	1	Burgers
+0682	1	American Regional
+0683	1	Bistro French
+0684	1	New American
+0685	1	Contemporary American
+0686	1	American
+0687	1	New American
+0688	1	Fast Food
+0689	1	American, Continental
+0690	1	Mexican
+0691	1	CONTEMPORARY AMERICAN
+0692	1	Mexican
+0693	1	Steaks, CHOPS
+0694	1	Tex-Mex
+0695	1	Steaks, Seafood
+0696	1	Mexican
+0697	1	Mexican
+0698	1	Italian
+0699	1	New American
+0700	1	American
+0701	1	American, Burgers
+0702	1	Greek
+0703	1	Southwestern
+0704	1	American
+0705	1	Mexican, Tex-mex
+0706	1	New American
+0707	1	New American
+0708	1	American, Steaks
+0709	1	Tex-mex
+0710	1	American
+0711	1	American, Seafood
+0712	1	Tex-mex
+0713	1	German, Deli
+0714	1	American
+0715	1	Breakfast, Light Fare
+0716	1	Californian
+0717	1	Italian
+0718	1	Mexican
+0719	1	Mexican
+0720	1	Mexican
+0721	1	French
+0722	1	American
+0723	1	Italian
+0724	1	Mexican
+0725	1	Californian
+0726	1	Californian, Italian
+0727	1	American
+0728	1	Californian
+0729	1	Californian, Mediterranean
+0730	1	Californian
+0731	1	Italian, Mediterranean
+0732	1	Asian Fusion, Pacific Rim
+0733	1	Sushi
+0734	1	American
+0735	1	Californian, Seafood
+0736	1	Sushi, Seafood
+0737	1	French
+0738	1	New American
+0739	1	Asian, California
+0740	1	Moroccan
+0741	1	Thai
+0742	1	American
+0743	1	Italian
+0744	1	Spanish, Basque Tapas
+0745	1	Chinese
+0746	1	Burmese
+0747	1	Italian
+0748	1	Caribbean
+0749	1	American
+0750	1	Southern Indian
+0751	1	American, Breakfast
+0752	1	Italian
+0753	1	Steakhouse
+0754	1	Seafood
+0755	1	Belgian
+0756	1	Chinese, Dim Sum
+0757	1	Italian, Pizza
+0758	1	Japanese
+0759	1	Chinese
+0760	1	Italian
+0761	1	Thai
+0762	1	Italian
+0763	1	French
+0764	1	Italian
+0765	1	French
+0766	1	Mediterranean
+0767	1	Persian, Middle Eastern
+0768	1	American
+0769	1	Vegan
+0770	1	American
+0771	1	American
+0772	1	Italian, Pizza
+0773	1	Italian, Pizza
+0774	1	Chinese, Dim Sum
+0775	1	American
+0776	1	Basque
+0777	1	California, French, Mediterranean
+0778	1	California
+0779	1	Italian
+0780	1	French
+0781	1	American
+0782	1	American
+0783	1	Italian
+0784	1	American
+0785	1	Singaporean
+0786	1	Seafood
+0787	1	Seafood
+0788	1	Japanese, Sushi
+0789	1	Chinese
+0790	1	American
+0791	1	Italian
+0792	1	Seafood
+0793	1	American Brasserie
+0794	1	Eclectic
+0795	1	Barbeque
+0796	1	American
+0797	1	Barbeque
+0798	1	Steakhouse, Seafood, Italian
+0799	1	American, Seafood
+0800	1	American
+0801	1	British
+0802	1	Seafood
+0803	1	American
+0804	1	American
+0805	1	Seafood
+0806	1	American
+0807	1	American
+0808	1	Seafood, Steak
+0809	1	California
+0810	1	Provincial Szechuan
+0811	1	Crepes, Eclectic
+0812	1	French
+0813	1	Creative Southwestern, Native American
+0814	1	Contemporary Italian, Pizza
+0815	1	Creative Southwestern, Mexican
+0816	1	Creative Chinese
+0817	1	Regional American, Barbecue, Cajun
+0818	1	Spanish
+0819	1	International
+0820	1	Continental
+0821	1	Northern Italian
+0822	1	Creative Southwestern
+0823	1	Mexican, Seafood
+0824	1	New American
+0825	1	New American, Continental
+0826	1	American, Deli, New Mexican/Greek
+0827	1	New American, Steak, Seafood
+0828	1	Steak, Seafood
+0829	1	New American
+0830	1	New American
+0831	1	New Mexican
+0832	1	Northern Italian
+0833	1	Pizza, Italian
+0834	1	Steaks, Seafood
+0835	1	International, American
+0836	1	American, Danish
+0837	1	International
+0838	1	International
+0839	1	American, Diner
+0840	1	Eclectic
+0841	1	Seafood
+0842	1	Seafood
+0843	1	American, Pub Fare
+0844	1	Seafood
+0845	1	Italian
+0846	1	Amish, American
+0847	1	Eclectic
+0848	1	Italian
+0849	1	Sushi, Japanese
+0850	1	International
+0851	1	New Southern
+0852	1	Cajun, Creole
+0853	1	Northern Italian
+0854	1	American
+0855	1	Thai
+0856	1	American, Low Country
+0857	1	American
+0858	1	Seafood, Southern
+0859	1	Modern Southern
+0860	1	American
+0861	1	American
+0862	1	Seafood
+0863	1	Seafood
+0864	1	Italian
+0865	1	Seafood
+0866	1	French
+0867	1	French
+0868	1	Pan-Asian, Northwest
+0869	1	Late-Night, Steak
+0870	1	Mexican
+0871	1	Chinese
+0872	1	Japanese
+0873	1	Italian
+0874	1	Seafood
+0875	1	French
+0876	1	American
+0877	1	American Regional, International
+0878	1	Seafood
+0879	1	Pan-Asian
+0880	1	Northwest, Mediterranean
+0881	1	Caribbean
+0882	1	Pizza
+0883	1	American
+0884	1	New American
+0885	1	Seafood
+0886	1	Northwest
+0887	1	Northwest, Vegetarian
+0888	1	Japanese
+0889	1	Vietnamese
+0890	1	Thai
+0891	1	American Regional, Late-Night
+0892	1	American
+0893	1	American, French
+0894	1	Italian
+0895	1	Pan-Asian
+0896	1	Northwest
+0897	1	Mexican
+0898	1	Southwestern
+0899	1	New American, Southwestern
+0900	1	New American
+0901	1	American
+0902	1	Southwestern, International
+0903	1	Italian, Deli
+0904	1	Contemporary American
+0905	1	Cajun
+0906	1	Seafood, Steaks, Burgers
+0907	1	Eclectic
+0908	1	Mexican, Pizza
+0909	1	Italian
+0910	1	Traditional American
+0911	1	New Mexican
+0912	1	Pizza, American
+0913	1	Eclectic
+0914	1	French, International
+0915	1	Tuscan
+0916	1	Continental, Northern Italian
+0917	1	American, Italian
+0918	1	Wine Bar
+0919	1	Seafood
+0920	1	Brew Pub, Pizza
+0921	1	American
+0922	1	Deli, Gormet Takeout
+0923	1	Sandwiches, Salads
+0924	1	International
+0925	1	International
+0926	1	International
+0927	1	New American
+0928	1	New Mexican
+0929	1	STEAK, WILD GAME
+0930	1	New American
+0931	1	Steaks, Seafood
+0932	1	American
+0933	1	American
+0934	1	Seafood
+0935	1	Seafood
+0936	1	Seafood, Sushi
+0937	1	Seafood, Steaks
+0938	1	Seafood, Floribbean
+0939	1	Tapas
+0940	1	Asian, Middle Eastern, American
+0941	1	Southern
+0942	1	American
+0943	1	ECLECTIC
+0944	1	Italian
+0945	1	International
+0946	1	New American
+0947	1	PUB FARE, CONTINENTAL
+0948	1	Pub Fare, BREWERY
+0949	1	American
+0950	1	Seafood
+0951	1	American, Florida Regional
+0952	1	Continental
+0953	1	American
+0954	1	Irish, Pub Fare
+0955	1	Barbecue
+0956	1	Italian
+0957	1	Traditional French
+0958	1	Steakhouse
+0959	1	Spanish
+0960	1	Contemporary American
+0961	1	Vietnamese
+0962	1	Barbecue
+0963	1	Cafe, International
+0964	1	American, Cafe
+0965	1	International, Mediterranean
+0966	1	International, New American
+0967	1	Mexican
+0968	1	French, Spanish Fusion
+0969	1	New American
+0970	1	New Mexican
+0971	1	American, International, Mediterranean/Steak/Seafood
+0972	1	Continental, Steak, Seafood
+0973	1	Asian
+0974	1	American
+0975	1	Creative American
+0976	1	Mexican
+0977	1	Northern Italian
+0978	1	New American
+0979	1	Contemporary French
+0980	1	Contemporary New England
+0981	1	Greek, American
+0982	1	American
+0983	1	Sandwiches
+0984	1	Mexican, Italian, American
+0985	1	Middle Eastern
+0986	1	Sweets, Take Out
+0987	1	New Mexican, American
+0988	1	Mexican
+0989	1	New American, Continental
+0990	1	French, American
+0991	1	Mexican
+0992	1	Seafood
+0993	1	Salads, Sandwiches
+0994	1	Peruvian, Latin American
+0995	1	Sonoran Mexican
+0996	1	Steakhouse
+0997	1	International
+0998	1	Southwestern
+0999	1	Seafood
+1000	1	French
+1001	1	New American
+1002	1	Steakhouse, Seafood
+1003	1	Nuevo Latino
+1004	1	Steakhouse
+1005	1	Italian
+1006	1	New American
+1007	1	Regional American
+1008	1	Regional American
+1009	1	Italian
+1010	1	Northern Italian
+1011	1	Mediterranean, Pizza
+1012	1	Chinese
+1013	1	NEW AMERICAN
+1014	1	Country French
+1015	1	Mexican
+1016	1	Cafe
+1017	1	American
+1018	1	AMERICAN
+1019	1	Pig
+1020	1	International
+1021	1	American
+1022	1	Italian
+1023	1	Seafood, Steaks
+1024	1	American, Continental
+1025	1	Northwest
+1026	1	Southern
+1027	1	Belgian
+1028	1	French Bistro
+1029	1	Asian Fusion
+1030	1	Italian
+1031	1	American
+1032	1	Contemporary Latin American
+1033	1	Steak
+1034	1	American
+1035	1	American
+1036	1	American
+1037	1	American, Southern
+1038	1	Ethiopian
+1039	1	Burgers
+1040	1	Seafood
+1041	1	Indian
+1042	1	Spanish
+1043	1	Seafood
+1044	1	Austrian
+1045	1	Ethiopian
+1046	1	Italian
+1047	1	Barbecue
+1048	1	New American
+1049	1	New American, French
+1050	1	Seafood
+1051	1	New American
+1052	1	Italian
+1053	1	Italian
+1054	1	Indian
+1055	1	American
+1056	1	Japanese
+1057	1	American
+1058	1	American
+1059	1	American
+1060	1	Asian Fusion, American
+1061	1	Northern Italian
+1062	1	American, Southern
+1063	1	Greek, Turkish, Middle Eastern
+1064	1	Latin, Asian Fusion
+1065	1	American
+1066	1	Sweets
+1067	1	French, Regional, Eclectic
+1068	1	French, American
+1069	1	Continental, Cajun
+1070	1	Seafood
+1071	1	French, American
+1072	1	Early American
+1073	1	Creative American
+1074	1	Traditional Southern
+1075	1	Barbecue
+1076	1	Colonial
+1077	1	Deli
+1078	1	Seafood
+1079	1	Seafood
+1080	1	American
+1081	1	American
+1082	1	Southern, International
+1083	1	American, Seafood
+1084	1	Mediterranean
+1085	1	Diner
+1086	1	Pub Fare
+1087	1	Eclectic
+1088	1	New American, Southwestern
+1089	1	American, Continental
+1090	1	Continental
+1091	1	Contemporary American
+1092	1	New American, Steak
+1093	1	NEW AMERICAN
+1094	1	Northwest
+1095	1	American
+1096	1	New American
+1097	1	Seafood
+1098	1	American, Northwest
+1099	1	NORTHWEST
+1100	1	Italian
+1101	1	Northwest
+1102	1	Italian
+1103	1	Italian, Continental
+1104	1	American, Native American
+1105	1	Northwest, Italian
+1106	1	New England
+1107	1	Mediterranean
+1108	1	American
+1109	1	International
+1110	1	Breakfast, Sandwiches, Salads
+1111	1	Mediterranean, Northwest
+1112	1	American, Seafood
+1113	1	Eclectic
+1114	1	Diner
+1115	1	Island Cuisine
+1116	1	French-Vietnamese, Sandwiches & Bakery
+1117	1	Casual Gourmet
+1118	1	Mediterranean, Italian
+1119	1	Hawaii Regional
+1120	1	French-Asian
+1121	1	Seafood, Steak
+1122	1	Pacific Rim
+1123	1	Pacific Rim, Seafood
+1124	1	American
+1125	1	Eclectic
+1126	1	Mediterranean, Latin American, Island
+1127	1	Pacific Rim Fusion, Sushi bar
+1128	1	Continental
+1129	1	American, Seafood
+1130	1	American, Hawaiian
+1131	1	Eclectic, Local
+1132	1	Mexican
+1133	1	Japanese
+1134	1	Saimin, Noodles
+1135	1	Sushi
+1136	1	American, Buffet
+1137	1	Steak, Seafood
+1138	1	Steak, Seafood
+1139	1	Eclectic
+1140	1	International
+1141	1	American
+1142	1	Mexican
+1143	1	Seafood, International
+1144	1	Seafood
+1145	1	Burgers, Sandwiches
+1146	1	Soda Fountain
+1147	1	American, Seafood
+1148	1	Pizza
+1149	1	American
+1150	1	American, Hawaiian
+1151	1	Steak, Seafood
+1152	1	Continental, Pacific Rim
+1153	1	American
+1154	1	American
+1155	1	American
+1156	1	Coffeehouse
+1157	1	Steak, Seafood
+1158	1	American
+1159	1	Mediterranean, Southern Italian
+1160	1	Continental, Pacific Rim, Italian
+1161	1	Middle Eastern
+1162	1	Mexican
+1163	1	American
+1164	1	Steak, Seafood
+1165	1	Japanese
+1166	1	Euro-Asian
+1167	1	Shrimp
+1168	1	Thai, Vietnamese, Chinese
+1169	1	Hawaii Regional
+1170	1	Local
+1171	1	Thai, American
+1172	1	American
+1173	1	Eclectic
+1174	1	Asian
+1175	1	Pizza, Subs
+1176	1	Local
+1177	1	Coffeehouse
+1178	1	Seafood
+1179	1	Deli, Bistro
+1180	1	Northwest, International
+1181	1	AMERICAN, ITALIAN
+1182	1	French Bistro
+1183	1	American
+1184	1	Eclectic Diner
+1185	1	Italian
+1186	1	DINER
+1187	1	New American
+1188	1	Ice Cream
+1189	1	Ice Cream
+1190	1	Fudge
+1191	1	Steak, Seafood
+1192	1	New American
+1193	1	Seafood
+1194	1	Deli
+1195	1	French, American
+1196	1	International
+1197	1	International
+1198	1	Steak, Seafood
+1199	1	American
+1200	1	Steak, Seafood
+1201	1	Crepes, Mediterranean, Indian
+1202	1	American, Mexican
+1203	1	Italian
+1204	1	Hawaii Regional, Seafood
+1205	1	Pacific Rim
+1206	1	Seafood, Sushi
+1207	1	American, Grill
+1208	1	Steaks, Seafood
+1209	1	Seafood
+1210	1	Italian
+1211	1	Eclectic
+1212	1	American
+1213	1	Seafood
+1214	1	Gourmet Deli, Cafe
+1215	1	Mexican
+1216	1	Local, Euro-Asian
+1217	1	Contemporary Pacific Rim
+1218	1	Italian, Mediterranean
+1219	1	Pizza, Italian
+1220	1	Seafood, Hawaiian-Mediterranean
+1221	1	Euro-Asian
+1222	1	Noodles, Plate Lunches
+1223	1	Pacific Rim, Sushi
+1224	1	Pizza
+1225	1	Hawaiian, California, Pacific Regional
+1226	1	American
+1227	1	Coffeehouse
+1228	1	Polynesian
+1229	1	Vegetarian
+1230	1	American, Local
+1231	1	Coffee Shop
+1232	1	Deli
+1233	1	French Bistro
+1234	1	Regional American
+1235	1	Produce
+1236	1	Ethnic Eclectic
+1237	1	New American
+1238	1	Tapas
+1239	1	Continental
+1240	1	New American
+1241	1	New American, French
+1242	1	Global Bistro
+1243	1	Seafood
+1244	1	Seafood
+1245	1	American
+1246	1	Sandwiches
+1247	1	American
+1248	1	New American
+1249	1	American
+1250	1	Sweets
+1251	1	American
+1252	1	Euro-Island
+1253	1	Japanese, Sushi Bar
+1254	1	Pizza, Spaghetti
+1255	1	Italian
+1256	1	Italian
+1257	1	Continental, Pacific Rim
+1258	1	Steak, Seafood
+1259	1	Bakery, Sandwich Shop
+1260	1	Mexican, Caribbean
+1261	1	Pacific Rim, Asian
+1262	1	Mexican
+1263	1	Steak, Seafood
+1264	1	Breakfast
+1265	1	New American, Pacific Rim
+1266	1	Euro-Asian Fusion
+1267	1	Hawaiian Regional
+1268	1	International
+1269	1	Eurasian
+1270	1	Japanese
+1271	1	Plate Lunches
+1272	1	Thai
+1273	1	Seafood, Steaks
+1274	1	American
+1275	1	Chinese
+1276	1	Hawaii Regional Cuisine
+1277	1	Fresh Fish
+1278	1	Dim Sum, Seafood, Chinese
+1279	1	Japanese, Sushi
+1280	1	Japanese
+1281	1	Hawaiian Regional
+1282	1	American, Pacific Rim
+1283	1	Vietnamese Pho
+1284	1	Contemporary Italian
+1285	1	Japanese, Sushi Bar
+1286	1	Steak
+1287	1	Seafood, American
+1288	1	Northwest
+1289	1	AMERICAN
+1290	1	Northwest, International
+1291	1	American
+1292	1	Steaks, Seafood
+1293	1	American
+1294	1	Northwest
+1295	1	Northwest
+1296	1	French, American
+1297	1	American
+1298	1	Contemporary American
+1299	1	Regional
+1300	1	Mexican
+1301	1	Regional
+1302	1	American
+1303	1	New American
+1304	1	Seafood
+1305	1	Seafood
+1306	1	SOUTHERN ITALIAN
+1307	1	American, Grill
+1308	1	Creative American
+1309	1	Mediterranean
+1310	1	Japanese
+1311	1	American Bistro
+1312	1	New American
+1313	1	French Bistro
+1314	1	Pennsylvania Dutch
+1315	1	American
+1316	1	Cafe
+1317	1	Eclectic
+1318	1	Breakfast, Cafe
+1319	1	Northwest
+1320	1	American, New Mexican
+1321	1	Seafood, International
+1322	1	American
+1323	1	Italian, Trattoria
+1324	1	Southern, Barbecue
+1325	1	Eclectic
+1326	1	NEW AMERICAN
+1327	1	French bistro
+1328	1	American, Pub Fare
+1329	1	American
+1330	1	Tuscan
+1331	1	Pizza, Italian
+1332	1	Cuban, American
+1333	1	Seafood, Caribbean
+1334	1	Pub Fare
+1335	1	American, Continental
+1336	1	Seafood
+1337	1	Seafood
+1338	1	New American
+1339	1	New American
+1340	1	Pizza
+1341	1	Steakhouse
+1342	1	American
+1343	1	Steakhouse
+1344	1	Deli
+1345	1	American
+1346	1	Continental
+1347	1	Bagel Shop
+1348	1	Continental
+1349	1	New American
+1350	1	French
+1351	1	Northern Italian
+1352	1	French, Continental, Northwest
+1353	1	Seafood, Northwest
+1354	1	Comfort Food
+1355	1	Continental, Northwest
+1356	1	Diner
+1357	1	Northwest, Regional American
+1358	1	American
+1359	1	American
+1360	1	American
+1361	1	Seafood
+1362	1	Seafood, Continental
+1363	1	American, Fusion
+1364	1	Coastal, Seafood
+1365	1	French
+1366	1	American
+1367	1	Creative American
+1368	1	Japanese
+1369	1	Steak, Seafood, Pasta
+1370	1	Spanish
+1371	1	Breakfast, Creative American
+1372	1	French Bistro
+1373	1	Northern Italian
+1374	1	American Bistro
+1375	1	Seafood
+1376	1	SOUTHERN ITALIAN
+1377	1	SEAFOOD
+1378	1	American
+1379	1	Seafood
+1380	1	American
+1381	1	Steakhouse
+1382	1	French
+1383	1	Seafood
+1384	1	Seafood, Pub Fare
+1385	1	Seafood, International
+1386	1	American
+1387	1	Ice Cream
+1388	1	Northern Italian
+1389	1	Deli
+1390	1	American, Seafood
+1391	1	Greek
+1392	1	Steak, Seafood
+1393	1	Contemporary Bistro
+1394	1	Latin American
+1395	1	Eclectic American
+1396	1	Creative American
+1397	1	Indian
+1398	1	Coffeeshop
+1399	1	Coffeeshop
+1400	1	American
+1401	1	Seafood
+1402	1	French
+1403	1	American
+1404	1	Seafood
+1405	1	New American
+1406	1	French, Northwest
+1407	1	Pub Food
+1408	1	Seafood, International
+1409	1	Creative Bistro
+1410	1	Seafood, Regional
+1411	1	Seafood
+1412	1	SEAFOOD
+1413	1	Seafood, Bar food
+1414	1	International
+1415	1	Eclectic
+1416	1	American
+1417	1	American, Seafood
+1418	1	Regional Organic, Bistro
+1419	1	Continental
+1420	1	Coffe Shop, Deli
+1421	1	Mexican
+1422	1	American
+1423	1	American
+1424	1	New Mexican
+1425	1	New American, Steak, Seafood
+1426	1	New Mexican
+1427	1	Contemporary American, Deli, Cafe
+1428	1	New Mexican, American
+1429	1	New American
+1430	1	Contemporary American, Steak, Seafood
+1431	1	Contemporary American
+1432	1	New American
+1433	1	New American
+1434	1	American, Southern
+1435	1	New American
+1436	1	American, Creole
+1437	1	Eclectic
+1438	1	Steak
+1439	1	American
+1440	1	Asian Fusion
+1441	1	New American
+1442	1	Seafood, Steak
+1443	1	American
+1444	1	Fusion Italian
+1445	1	Deli
+1446	1	American
+1447	1	Southwestern
+1448	1	Spanish
+1449	1	Diner
+1450	1	Soup, Sandwich
+1451	1	Deli
+1452	1	International
+1453	1	Japanese
+1454	1	Italian, Mediterranean
+1455	1	Creative, Eclectic
+1456	1	Steak, Seafood
+1457	1	Greek, Italian
+1458	1	Diner
+1459	1	Eclectic, Regional
+1460	1	Seafood
+1461	1	French
+1462	1	American
+1463	1	American
+1464	1	American
+1465	1	Pub Food, Seafood
+1466	1	Seafood
+1467	1	Tea
+1468	1	Seafood
+1469	1	Continental, Cajun
+1470	1	Seafood
+1471	1	Bistro
+1472	1	French
+1473	1	American
+1474	1	French
+1475	1	Asian Fusion
+1476	1	American
+1477	1	Continental, German, Urban Indian
+1478	1	Continental
+1479	1	Southern
+1480	1	Mediterranean
+1481	1	Northwest, French
+1482	1	French
+1483	1	Japanese
+1484	1	Nuevo Latino
+1485	1	Thai
+1486	1	Mediterranean
+1487	1	Italian
+1488	1	International
+1489	1	Contemporary Regional
+1490	1	NORTHWEST
+1491	1	Northwest
+1492	1	MEDITERRANEAN, SEAFOOD
+1493	1	BOSNIAN
+1494	1	Southern, Continental
+1495	1	Eclectic
+1496	1	Seafood, Sushi
+1497	1	French
+1498	1	Greek
+1499	1	Traditional American
+1500	1	Steak, Seafood
+1501	1	Asian
+1502	1	European, Mediterranean
+1503	1	Barbecue
+1504	1	Brazilian
+1505	1	French, Fusion
+1506	1	Ice Cream
+1507	1	Greek
+1508	1	Sushi, Japanese
+1509	1	Southern, Regional
+1510	1	Traditional American
+1511	1	Seafood, Steak
+1512	1	Italian
+1513	1	Italian
+1514	1	Mexican
+1515	1	Thai
+1516	1	Traditional American, Continental
+1517	1	Southwestern
+1518	1	French, Mediterranean
+1519	1	Steak, Seafood
+1520	1	New American
+1521	1	Mexican
+1522	1	Southern
+1523	1	French
+1524	1	Barbecue
+1525	1	Vegan, Macrobiotic
+1526	1	New American
+1527	1	Tex-mex
+1528	1	Italian, Deli
+1529	1	Mexican
+1530	1	Continental
+1531	1	Cajun, Creole
+1532	1	American, Southern
+1533	1	New American
+1534	1	Tex-Mex, American
+1535	1	New American
+1536	1	Mexican
+1537	1	Tex-mex
+1538	1	Vegetarian, Vegan
+1539	1	Japanese
+1540	1	Southwest
+1541	1	Southwest
+1542	1	American
+1543	1	Seafood, New American
+1544	1	Barbecue
+1545	1	American, Tex-Mex
+1546	1	Asian, Japanese
+1547	1	Italian
+1548	1	Tex-mex
+1549	1	New American
+1550	1	Southwest
+1551	1	Japanese
+1552	1	NORTHERN ITALIAN
+1553	1	French
+1554	1	Italian
+1555	1	Cajun
+1556	1	GLOBAL
+1557	1	Irish
+1558	1	IRISH
+1559	1	SEAFOOD
+1560	1	Seafood
+1561	1	SEAFOOD
+1562	1	Steakhouse
+1563	1	SOUTHERN ITALIAN
+1564	1	AMERICAN
+1565	1	AMERICAN
+1566	1	Steakhouse
+1567	1	Italian Pastries, Desserts
+1568	1	American
+1569	1	Vegetarian
+1570	1	Diner
+1571	1	Bistro
+1572	1	Seafood
+1573	1	Seafood
+1574	1	Italian
+1575	1	American
+1576	1	New American
+1577	1	Seafood
+1578	1	American, Northern Italian
+1579	1	Bistro
+1580	1	New American, Pub
+1581	1	Continental
+1582	1	Pub, Seafood
+1583	1	American, Southern
+1584	1	Seafood
+1585	1	Soups, Sandwiches
+1586	1	Northwest
+1587	1	Northwest, International
+1588	1	Northwest
+1589	1	Eclectic
+1590	1	Pan-Asian
+1591	1	Eclectic
+1592	1	Eclectic
+1593	1	Mediterranean
+1594	1	California
+1595	1	American
+1596	1	Pizza
+1597	1	American
+1598	1	Mediterranean, Contemporary
+1599	1	Mexican
+1600	1	Italian
+1601	1	Continental
+1602	1	Southern
+1603	1	Algerian, Tunisian, Mediterranean
+1604	1	Seafood
+1605	1	Indian
+1606	1	Regional French
+1607	1	Middle Eastern, Mediterranean
+1608	1	Mexican
+1609	1	Southern Italian, Seafood
+1610	1	Steaks, Northern Italian
+1611	1	New England
+1612	1	Steaks, American
+1613	1	New England
+1614	1	Seafood
+1615	1	Seafood
+1616	1	Seafood
+1617	1	Seafood
+1618	1	Seafood
+1619	1	Seafood, Cantonese, Szechuan
+1620	1	Barbecue
+1621	1	French Proven&ccedil;al
+1622	1	American
+1623	1	Turkish, Middle Eastern
+1624	1	Mediterranean
+1625	1	Eclectic
+1626	1	Vietnamese
+1627	1	New England, Seafood
+1628	1	Diner, Greek
+1629	1	Contemporary American
+1630	1	Contemporary, Eclectic
+1631	1	Mexican
+1632	1	Seafood
+1633	1	Mexican
+1634	1	Contemporary, Organic
+1635	1	Seafood
+1636	1	Steaks, Seafood
+1637	1	Breakfast, Sandwiches
+1638	1	American
+1639	1	Tapas, Mediterranean
+1640	1	Contemporary, Eclectic
+1641	1	Italian
+1642	1	American, Steaks
+1643	1	American
+1644	1	Seafood, Steaks
+1645	1	New American
+1646	1	Cajun
+1647	1	Eclectic
+1648	1	French
+1649	1	New American
+1650	1	Mexican-American
+1651	1	American
+1652	1	American
+1653	1	Hot Dogs
+1654	1	Hot Dogs
+1655	1	Hot Dogs
+1656	1	Hot Dogs
+1657	1	Italian
+1658	1	American
+1659	1	Italian
+1660	1	Steaks, Seafood
+1661	1	Seafood
+1662	1	SEAFOOD, ECLECTIC
+1663	1	Seafood, American
+1664	1	DINER
+1665	1	Grill
+1666	1	Northwest
+1667	1	New American
+1668	1	FRENCH, ITALIAN
+1669	1	American
+1670	1	Californian, French
+1671	1	Latin American
+1672	1	Italian
+1673	1	American
+1674	1	American
+1675	1	New American
+1676	1	Pub Fare
+1677	1	Deli, American
+1678	1	Southern
+1679	1	Pan-Asian
+1680	1	Traditional Country Cooking
+1681	1	International
+1682	1	Barbecue, Southern
+1683	1	Modern Southern, International
+1684	1	Low Country
+1685	1	Seafood
+1686	1	Thai
+1687	1	Southern
+1688	1	Low Country, French
+1689	1	Seafood
+1690	1	American, International
+1691	1	Southern
+1692	1	Southern, Steak
+1693	1	Seafood
+1694	1	Southern
+1695	1	American, French
+1696	1	Continental, International
+1697	1	American
+1698	1	Low Country
+1699	1	Seafood
+1700	1	American, Southwestern
+1701	1	Asian
+1702	1	Seafood
+1703	1	Nepalese, Tibetan, Vegan
+1704	1	Latin American
+1705	1	Italian
+1706	1	Candy
+1707	1	American
+1708	1	Diner
+1709	1	New American
+1710	1	New American
+1711	1	American
+1712	1	Seafood
+1713	1	American
+1714	1	American
+1715	1	Steaks, Seafood
+1716	1	American
+1717	1	Mexican
+1718	1	Eclectic
+1719	1	Thai
+1720	1	AMERICAN
+1721	1	French, Bistro
+1722	1	AMERICAN
+1723	1	American
+1724	1	Alsatian, French
+1725	1	Spanish, Tapas
+1726	1	Latin American
+1727	1	American, Barbecue
+1728	1	Mediterranean
+1729	1	Latin American
+1730	1	ITALIAN
+1731	1	STEAK & CHOPS
+1732	1	American
+1733	1	American, Italian, STEAKS
+1734	1	American
+1735	1	French
+1736	1	French, Bistro
+1737	1	Sushi, Japanese
+1738	1	French, Bistro
+1739	1	American
+1740	1	LATIN AMERICAN
+1741	1	AMERICAN
+1742	1	American
+1743	1	Italian
+1744	1	Pizza
+1745	1	Sandwiches
+1746	1	Asian
+1747	1	AMERICAN
+1748	1	American
+1749	1	Italian
+1750	1	American
+1751	1	Italian
+1752	1	GERMAN, AMERICAN
+1753	1	IRISH, AMERICAN
+1754	1	American
+1755	1	ASIAN
+1756	1	AMERICAN
+1757	1	Contemporary American
+1758	1	French
+1759	1	American
+1760	1	Pizza, Italian
+1761	1	Brazilian
+1762	1	Fusion
+1763	1	New American
+1764	1	Continental
+1765	1	Sushi
+1766	1	Steaks
+1767	1	American, Vegetarian
+1768	1	Mexican
+1769	1	American
+1770	1	Italian, American
+1771	1	International
+1772	1	American
+1773	1	Contemporary American
+1774	1	New American
+1775	1	International Fusion
+1776	1	Contemporary, Fusion
+1777	1	Coffee, Dessert
+1778	1	American
+1779	1	New Southern
+1780	1	Southern, American
+1781	1	American
+1782	1	Vegetarian
+1783	1	Continental
+1784	1	American
+1785	1	Cafe
+1786	1	Tex-Mex
+1787	1	Seafood
+1788	1	American
+1789	1	International
+1790	1	Barbecue
+1791	1	Seafood
+1792	1	Country French
+1793	1	Italian
+1794	1	Tuscan
+1795	1	Middle Eastern
+1796	1	American, Bakery
+1797	1	New Southwestern, New American
+1798	1	New American
+1799	1	Barbecue
+1800	1	Barbecue
+1801	1	Mexican, Tacos
+1802	1	French, Continental
+1803	1	Seafood
+1804	1	New American
+1805	1	American, Irish
+1806	1	Italian
+1807	1	Californian
+1808	1	New Mexican
+1809	1	New Mexican, American
+1810	1	New American
+1811	1	Seafood
+1812	1	Candy
+1813	1	Hot Dog Stand
+1814	1	New American
+1815	1	Cajun
+1816	1	Rocky Mountain
+1817	1	Contemporary American
+1818	1	New Mexican
+1819	1	French
+1820	1	Seafood
+1821	1	Continental, Regional
+1822	1	American
+1823	1	Contemporary
+1824	1	Sushi, Japanese
+1825	1	Vietnamese
+1826	1	Rocky Mountain
+1827	1	Italian, Steak, Seafood
+1828	1	Regional American, Pub
+1829	1	Latin, Asian
+1830	1	Seafood
+1831	1	Seafood
+1832	1	Seafood, American
+1833	1	American, Deli
+1834	1	Southern
+1835	1	Seafood
+1836	1	American
+1837	1	Seafood, Japanese
+1838	1	American
+1839	1	Steak, Prime Rib, Seafood
+1840	1	Seafood
+1841	1	Microbrewery
+1842	1	Greek
+1843	1	American
+1844	1	Continental
+1845	1	American
+1846	1	Steaks, Seafood
+1847	1	American
+1848	1	American
+1849	1	Mediterranean
+1850	1	American
+1851	1	American
+1852	1	Brewpub
+1853	1	Steak, Seafood, Pasta
+1854	1	New American
+1855	1	American, Mexican
+1856	1	American
+1857	1	Ice Cream
+1858	1	Take-Out, Picnic Fare
+1859	1	Bakery
+1860	1	Tex-Mex, Coffee Shop
+1861	1	American
+1862	1	Pizza
+1863	1	American, European
+1864	1	Mexican
+1865	1	Northern New Mexican
+1866	1	Northwest
+1867	1	Mediterranean
+1868	1	Thai
+1869	1	Cafe, Bakery
+1870	1	Thai
+1871	1	Diner
+1872	1	Steak, Seafood
+1873	1	Seafood
+1874	1	New American
+1875	1	Italian
+1876	1	American
+1877	1	Middle Eastern, New American
+1878	1	Chinese, Japanese, Thai
+1879	1	New American, Asian
+1880	1	New American, Seafood
+1881	1	Pub Fare, Pizza
+1882	1	Seafood, Pub Fare
+1883	1	American, Continental
+1884	1	New Mexican
+1885	1	California Grill
+1886	1	New American
+1887	1	Continental, New American
+1888	1	Japanese
+1889	1	Italian
+1890	1	Eclectic
+1891	1	French, Mediterranean
+1892	1	INTERNATIONAL
+1893	1	Seafood
+1894	1	Italian
+1895	1	Microbrewpub
+1896	1	Italian
+1897	1	Fusion
+1898	1	Ice Cream
+1899	1	Seafood
+1900	1	French Caribbean
+1901	1	Sushi
+1902	1	Seafood, American
+1903	1	American, Diner
+1904	1	Mediterranean
+1905	1	Continental, Italian
+1906	1	Seafood
+1907	1	Steak
+1908	1	Tuscan
+1909	1	Nouveau Mexican
+1910	1	Gourmet Wetern
+1911	1	Barbecue
+1912	1	Spanish, Mexican
+1913	1	American
+1914	1	American
+1915	1	American, Italian
+1916	1	Seafood, Steaks
+1917	1	New American
+1918	1	Burgers
+1919	1	LOBSTER
+1920	1	AMERICAN, PUB FARE
+1921	1	American
+1922	1	New Mexican, American
+1923	1	Baked Goods, Sandwiches
+1924	1	Seafood
+1925	1	Northern Italian, Continental
+1926	1	Seafood
+1927	1	Seafood, American
+1928	1	Pan-Asian, International
+1929	1	Steak, Seafood
+1930	1	Seafood, Burgers, Pizza
+1931	1	Cafe, Bakery
+1932	1	Italian
+1933	1	Contemporary, Eclectic
+1934	1	Cajun, Creole
+1935	1	Creative American
+1936	1	Seafood, American
+1937	1	Country French
+1938	1	American
+1939	1	American, International
+1940	1	International
+1941	1	Cafe
+1942	1	Microbrewery
+1943	1	Steak
+1944	1	Diner, New Mexican
+1945	1	Steak, Seafood
+1946	1	Continental, Fusion
+1947	1	Mexican
+1948	1	Continental
+1949	1	Coffehouse, American
+1950	1	Contemporary Continental
+1951	1	North Coast Cuisine
+1952	1	Contemporary American
+1953	1	Eclectic
+1954	1	Crepes, Eclectic
+1955	1	Italian
+1956	1	American
+1957	1	Seafood, Sandwiches
+1958	1	New American
+1959	1	New American
+1960	1	Southwestern
+1961	1	Northern Italian
+1962	1	Barbecue
+1963	1	Mexican
+1964	1	Contemporary Indian
+1965	1	Deli
+1966	1	Vietnamese, Chinese
+1967	1	Mexican
+1968	1	Tex-Mex
+1969	1	New American
+1970	1	Breakfast, Lunch
+1971	1	Soul Food
+1972	1	New American, French
+1973	1	Elements
+1974	1	New American
+1975	1	Contemporary American
+1976	1	New American, Deli
+1977	1	Spanish, Tapas
+1978	1	Cajun, Seafood
+1979	1	Creative American Bistro
+1980	1	American
+1981	1	Steaks, Seafood, Game
+1982	1	Eclectic
+1983	1	Italian
+1984	1	Italian
+1985	1	American, Seafood
+1986	1	Contemporary American
+1987	1	Eclectic
+1988	1	California Eclectic
+1989	1	New American
+1990	1	LOW-COUNTRY CUISINE
+1991	1	Thai
+1992	1	Seafood, Cajun
+1993	1	New American, Louisiana
+1994	1	Continental, Mediterranean
+1995	1	American
+1996	1	Southwestern
+1997	1	Eastern European
+1998	1	American
+1999	1	Continental, Mexican

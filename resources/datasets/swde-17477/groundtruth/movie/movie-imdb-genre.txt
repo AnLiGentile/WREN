@@ -1,0 +1,2002 @@
+﻿movie	imdb	genre
+2000	2000	5607	22
+0000	2	Crime	Thriller
+0001	4	Crime	Drama	Mystery	Thriller
+0002	3	Action	Adventure	Sci-Fi
+0003	4	Biography	Drama	History	War
+0004	4	Crime	Drama	Mystery	Thriller
+0005	4	Action	Crime	Drama	Thriller
+0006	3	Crime	Drama	Thriller
+0007	5	Action	Biography	Drama	History	War
+0008	3	Drama	History	Romance
+0009	5	Action	Crime	Mystery	Sci-Fi	Thriller
+0010	3	Action	Fantasy	War
+0011	3	Drama	Romance	Sci-Fi
+0012	3	Crime	Mystery	Thriller
+0013	3	Drama	Mystery	Sci-Fi
+0014	3	Crime	Drama	Thriller
+0015	3	Action	Sci-Fi	Thriller
+0016	1	Drama
+0017	3	Action	Crime	Thriller
+0018	4	Adventure	Horror	Sci-Fi	Thriller
+0019	2	Drama	Romance
+0020	4	Action	Adventure	Sci-Fi	Thriller
+0021	5	Action	Crime	Drama	Romance	Thriller
+0022	5	Animation	Action	Adventure	Family	Fantasy
+0023	5	Adventure	Drama	Mystery	Sci-Fi	Thriller
+0024	1	Drama
+0025	2	Comedy	Drama
+0026	3	Drama	Sci-Fi	Thriller
+0027	4	Action	Adventure	Family	Sci-Fi
+0028	3	Adventure	Comedy	Drama
+0029	4	Action	Adventure	Mystery	Thriller
+0030	3	Action	Adventure	Comedy
+0031	3	Drama	History	War
+0032	4	Action	Adventure	Thriller	War
+0033	3	Drama	Mystery	Thriller
+0034	5	Biography	Crime	Drama	History	Western
+0035	3	Action	Thriller	Crime
+0036	4	Animation	Adventure	Comedy	Family
+0037	3	Mystery	Romance	Thriller
+0038	2	Drama	Music
+0039	3	Comedy	Drama	Romance
+0040	3	Comedy	Drama	Romance
+0041	3	Drama	Mystery	Romance
+0042	2	Adventure	Comedy
+0043	5	Comedy	Family	Fantasy	Musical	Romance
+0044	4	Action	Adventure	Drama	Thriller
+0045	4	Action	Adventure	Fantasy	Thriller
+0046	4	Adventure	Family	Fantasy	Thriller
+0047	2	Drama	War
+0048	2	Action	Adventure
+0049	2	Drama	Mystery
+0050	4	Action	Comedy	Crime	Thriller
+0051	2	Family	Comedy
+0052	4	Drama	Family	History	Musical
+0053	3	Horror	Fantasy	Thriller
+0054	1	Drama
+0055	2	Comedy	Drama
+0056	3	Crime	Drama	Thriller
+0057	2	Mystery	Thriller
+0058	2	Drama	Romance
+0059	2	Drama	Mystery
+0060	3	Comedy	Drama	Thriller
+0061	1	Comedy
+0062	2	Drama	Thriller
+0063	1	Drama
+0064	3	Comedy	Drama	Romance
+0065	3	Drama	Thriller	Crime
+0066	3	Biography	Drama	Romance
+0067	3	Action	Drama	History
+0068	2	Crime	Horror
+0069	3	Drama	Romance	Thriller
+0070	3	Drama	Horror	Thriller
+0071	2	Adventure	Drama
+0072	3	Crime	Drama	Thriller
+0073	3	Comedy	Drama	Romance
+0074	4	Drama	Fantasy	Horror	Thriller
+0075	1	Drama
+0076	5	Crime	Drama	Music	Mystery	Thriller
+0077	4	Action	Adventure	Fantasy	Thriller
+0078	3	Action	Thriller	Crime
+0079	3	Action	Crime	Thriller
+0080	2	Horror	Thriller
+0081	2	Drama	Romance
+0082	2	Drama	Family
+0083	4	Drama	Action	Crime	Thriller
+0084	6	Action	Adventure	Comedy	Drama	Family	War
+0085	1	Drama
+0086	3	Comedy	Family	Sport
+0087	2	Comedy	Crime
+0088	1	Drama
+0089	3	Drama	Horror	Thriller
+0090	3	Comedy	Drama	Romance
+0091	5	Comedy	Drama	Family	Music	Romance
+0092	2	Horror	Mystery
+0093	3	Comedy	Drama	Romance
+0094	1	Drama
+0095	2	Action	Comedy
+0096	2	Comedy	Romance
+0097	2	Comedy	Romance
+0098	5	Comedy	Crime	Mystery	Sci-Fi	Thriller
+0099	3	Biography	Drama	History
+0100	5	Action	Adventure	Family	Sci-Fi	Thriller
+0101	3	Crime	Drama	Thriller
+0102	4	Action	Crime	Drama	Romance
+0103	1	Drama
+0104	3	Drama	Romance	Western
+0105	3	Crime	Drama	Thriller
+0106	3	Horror	Sci-Fi	Thriller
+0107	1	Drama
+0108	1	Drama
+0109	1	Drama
+0110	3	Drama	Music	Romance
+0111	2	Drama	Romance
+0112	3	Comedy	Drama	Romance
+0113	2	Drama	Romance
+0114	3	Comedy	Adventure	Family
+0115	3	Biography	Drama	Music
+0116	3	Fantasy	Horror	Mystery
+0117	2	Drama	Romance
+0118	3	Comedy	Crime	Romance
+0119	3	Comedy	Drama	Sport
+0120	1	Horror
+0121	3	Comedy	Romance	Sport
+0122	4	Action	Adventure	Drama	Thriller
+0123	3	Comedy	Drama	Romance
+0124	2	Comedy	Crime
+0125	4	Action	Comedy	Crime	Romance
+0126	2	Comedy	Sci-Fi
+0127	1	Drama
+0128	2	Adventure	Comedy
+0129	2	Comedy	Musical
+0130	2	Drama	Romance
+0131	3	Comedy	Drama	Romance
+0132	2	Comedy	Drama
+0133	4	Adventure	Drama	Horror	Thriller
+0134	2	Drama	Romance
+0135	4	Romance	War	Comedy	Drama
+0136	3	Comedy	Drama	Romance
+0137	4	Comedy	Drama	Music	Romance
+0138	3	Comedy	Drama	Music
+0139	2	Comedy	Drama
+0140	3	Comedy	Drama	Romance
+0141	3	Comedy	Drama	Sport
+0142	3	Crime	Fantasy	Comedy
+0143	4	Action	Adventure	Music	Sci-Fi
+0144	2	Action	Comedy
+0145	2	Drama	Romance
+0146	2	Horror	Thriller
+0147	1	Comedy
+0148	3	Drama	History	Western
+0149	2	Horror	Thriller
+0150	3	Comedy	Drama	Romance
+0151	2	Drama	Sport
+0152	2	Comedy	Sport
+0153	3	Biography	Drama	Romance
+0154	3	Comedy	Fantasy	Romance
+0155	1	Comedy
+0156	3	Comedy	Romance	Sport
+0157	4	Action	Drama	Sci-Fi	Thriller
+0158	2	Horror	Thriller
+0159	2	Drama	Thriller
+0160	3	Action	Adventure	Crime
+0161	2	Drama	Romance
+0162	2	Horror	Thriller
+0163	2	Comedy	Crime
+0164	2	Comedy	Romance
+0165	3	Crime	Drama	Thriller
+0166	2	Horror	Thriller
+0167	2	Comedy	Music
+0168	3	Comedy	Drama	Romance
+0169	2	Drama	Romance
+0170	3	Crime	Drama	Thriller
+0171	1	Comedy
+0172	3	Comedy	Fantasy	Horror
+0173	2	Action	Thriller
+0174	3	Comedy	Drama	Romance
+0175	3	Drama	Music	War
+0176	1	Action
+0177	2	Drama	Romance
+0178	1	Comedy
+0179	2	Drama	Fantasy
+0180	4	Adventure	Biography	Drama	History
+0181	1	Comedy
+0182	4	Comedy	Drama	Family	Fantasy
+0183	2	Drama	Romance
+0184	2	Horror	Thriller
+0185	4	Biography	Crime	Drama	Thriller
+0186	4	Adventure	Comedy	Sci-Fi	Thriller
+0187	2	Comedy	Drama
+0188	5	Drama	Horror	Mystery	Thriller	War
+0189	1	Drama
+0190	3	Drama	Romance	War
+0191	1	Drama
+0192	3	Biography	Drama	Sport
+0193	3	Action	Adventure	Thriller
+0194	2	Fantasy	Drama
+0195	1	Comedy
+0196	1	Comedy
+0197	2	Comedy	Romance
+0198	3	Adventure	Comedy	Romance
+0199	2	Comedy	Romance
+0200	1	Comedy
+0201	2	Comedy	Drama
+0202	3	Horror	Thriller	Mystery
+0203	2	Comedy	Family
+0204	4	Comedy	Drama	Romance	War
+0205	3	Comedy	Drama	Romance
+0206	2	Comedy	Horror
+0207	3	Drama	Comedy	Crime
+0208	2	Romance	Thriller
+0209	2	Adult	Comedy
+0210	1	Horror
+0211	4	Comedy	Drama	Music	Romance
+0212	4	Adventure	Comedy	Drama	Family
+0213	3	Fantasy	Horror	Thriller
+0214	2	Comedy	Sport
+0215	5	Biography	Crime	Drama	Horror	Thriller
+0216	4	Adventure	Drama	Romance	War
+0217	4	Comedy	Crime	Drama	Thriller
+0218	3	Action	Crime	Thriller
+0219	4	Comedy	Drama	Romance	Sport
+0220	2	Romance	Drama
+0221	3	Comedy	Fantasy	Sci-Fi
+0222	2	Drama	Thriller
+0223	4	Crime	Drama	Musical	Romance
+0224	3	Action	Crime	Drama
+0225	2	Drama	History
+0226	2	Biography	Drama
+0227	1	Drama
+0228	2	Horror	Thriller
+0229	6	Biography	Comedy	Drama	Music	Romance	War
+0230	3	Animation	Action	Sci-Fi
+0231	1	Drama
+0232	1	Drama
+0233	3	Comedy	Drama	Romance
+0234	3	Action	Adventure	Comedy
+0235	3	Comedy	Drama	Romance
+0236	2	Crime	Drama
+0237	2	Crime	Drama
+0238	3	Action	Crime	Drama
+0239	1	Drama
+0240	2	Drama	War
+0241	4	Animation	Adventure	Family	Fantasy
+0242	1	Drama
+0243	6	Animation	Action	Adventure	Family	Fantasy	Thriller
+0244	4	Animation	Action	Adventure	Crime
+0245	5	Action	Drama	Fantasy	Horror	Sci-Fi
+0246	2	Comedy	Drama
+0247	3	Drama	History	Thriller
+0248	4	Animation	Adventure	Comedy	Family
+0249	3	Comedy	Drama	Romance
+0250	2	Adventure	Drama
+0251	1	Comedy
+0252	2	Comedy	Romance
+0253	3	Crime	Drama	Thriller
+0254	2	Comedy	Sport
+0255	4	Action	Crime	Drama	Thriller
+0256	4	Action	Adventure	Comedy	Mystery
+0257	7	Animation	Action	Adventure	Comedy	Family	Fantasy	Romance
+0258	4	Action	Horror	Sci-Fi	Thriller
+0259	4	Action	Fantasy	Horror	Thriller
+0260	4	Drama	Mystery	Romance	Thriller
+0261	3	Action	Comedy	Sport
+0262	4	Action	Crime	Drama	Thriller
+0263	3	Biography	Comedy	Drama
+0264	3	Comedy	Drama	Fantasy
+0265	3	Comedy	Drama	Romance
+0266	2	Comedy	Romance
+0267	3	Crime	Drama	Thriller
+0268	2	Comedy	Drama
+0269	4	Drama	Horror	Mystery	Thriller
+0270	3	Adventure	Comedy	Family
+0271	3	Horror	Sci-Fi	Thriller
+0272	2	Comedy	Family
+0273	1	Drama
+0274	2	Crime	Drama
+0275	3	Biography	Drama	Romance
+0276	3	Comedy	Drama	Romance
+0277	2	Fantasy	Horror
+0278	2	Action	Sci-Fi
+0279	1	Comedy
+0280	2	Drama	Thriller
+0281	3	Crime	Drama	Mystery
+0282	2	Drama	Comedy
+0283	2	Horror	Thriller
+0284	2	Drama	Romance
+0285	4	Romance	Comedy	Drama	Music
+0286	3	Drama	Fantasy	Mystery
+0287	5	Comedy	Crime	Drama	Romance	Thriller
+0288	2	Action	Thriller
+0289	4	Adventure	Drama	History	War
+0290	3	Crime	Drama	Thriller
+0291	2	Drama	Thriller
+0292	3	Comedy	Drama	War
+0293	4	Comedy	Drama	Mystery	Thriller
+0294	1	Comedy
+0295	1	Comedy
+0296	1	Comedy
+0297	4	Crime	Drama	Romance	Thriller
+0298	4	Crime	Drama	Mystery	Thriller
+0299	3	Action	Crime	Thriller
+0300	4	Comedy	Drama	Musical	Romance
+0301	2	Comedy	Drama
+0302	2	Drama	War
+0303	1	Drama
+0304	2	Comedy	Romance
+0305	1	Comedy
+0306	3	Adventure	War	Western
+0307	1	Drama
+0308	3	Action	Horror	Sci-Fi
+0309	4	Action	Adventure	Sci-Fi	Comedy
+0310	1	Drama
+0311	2	Comedy	Family
+0312	2	Drama	Thriller
+0313	4	Comedy	Drama	Romance	Sci-Fi
+0314	3	Comedy	Drama	Romance
+0315	1	Comedy
+0316	2	Comedy	Crime
+0317	3	Comedy	Drama	Romance
+0318	2	Comedy	Romance
+0319	2	Drama	Romance
+0320	4	Drama	Fantasy	Horror	Thriller
+0321	3	Drama	Mystery	War
+0322	1	Drama
+0323	3	Comedy	Crime	Family
+0324	3	Comedy	Drama	Crime
+0325	3	Drama	Romance	Thriller
+0326	1	Drama
+0327	2	Horror	Thriller
+0328	3	Comedy	Drama	Music
+0329	2	Comedy	Romance
+0330	3	Drama	Romance	Comedy
+0331	5	Drama	Horror	Mystery	Sci-Fi	Thriller
+0332	3	Crime	Drama	Thriller
+0333	3	Action	Adventure	Drama
+0334	2	Drama	Romance
+0335	5	Action	Crime	Drama	Mystery	Thriller
+0336	3	Comedy	Romance	Music
+0337	5	Action	Fantasy	Romance	Sci-Fi	Thriller
+0338	3	Action	Crime	Thriller
+0339	4	Action	Adventure	Fantasy	Romance
+0340	3	Crime	Mystery	Thriller
+0341	4	Comedy	Fantasy	Mystery	Thriller
+0342	1	Comedy
+0343	3	Crime	Drama	Thriller
+0344	4	Fantasy	Action	Adventure	Sci-Fi
+0345	3	Action	Drama	Thriller
+0346	3	Comedy	Drama	Romance
+0347	2	Drama	Thriller
+0348	3	Action	Adventure	Thriller
+0349	2	Comedy	Romance
+0350	3	Crime	Drama	History
+0351	2	Drama	Thriller
+0352	2	Comedy	Romance
+0353	3	Biography	Drama	History
+0354	3	Action	Crime	Sci-Fi
+0355	2	Comedy	Romance
+0356	1	Drama
+0357	4	Comedy	Drama	Romance	Thriller
+0358	3	Comedy	Fantasy	Horror
+0359	4	Action	Drama	Romance	Sport
+0360	2	Drama	Romance
+0361	2	Comedy	Drama
+0362	2	Action	Thriller
+0363	3	Western	Adventure	Drama
+0364	3	Action	Comedy	Thriller
+0365	1	Drama
+0366	3	Drama	Romance	War
+0367	2	Drama	Thriller
+0368	2	Drama	Fantasy
+0369	2	Comedy	Romance
+0370	3	Action	Biography	Western
+0371	4	Action	Drama	Romance	Thriller
+0372	1	Drama
+0373	1	Comedy
+0374	3	Comedy	Family	Sport
+0375	2	Horror	Thriller
+0376	3	Crime	Drama	Thriller
+0377	2	Drama	Music
+0378	3	Biography	Drama	Sport
+0379	1	Comedy
+0380	3	Comedy	Crime	Thriller
+0381	2	Drama	Music
+0382	2	Comedy	Romance
+0383	2	Comedy	Crime
+0384	2	Drama	Fantasy
+0385	2	Drama	Thriller
+0386	3	Comedy	Drama	Romance
+0387	6	Action	Adventure	Comedy	Drama	History	Romance
+0388	2	Comedy	Drama
+0389	2	Sci-Fi	Thriller
+0390	5	Adventure	Comedy	Family	Fantasy	Horror
+0391	2	Drama	Music
+0392	3	Sci-Fi	Thriller	Mystery
+0393	1	Drama
+0394	3	Comedy	Horror	Thriller
+0395	3	Action	Crime	Drama
+0396	2	Drama	Romance
+0397	4	Action	Crime	Thriller	Romance
+0398	3	Drama	Horror	Thriller
+0399	1	Drama
+0400	2	Comedy	Romance
+0401	1	Drama
+0402	5	Adventure	Comedy	Crime	Family	Mystery
+0403	1	Drama
+0404	2	Drama	Romance
+0405	3	Comedy	Drama	Romance
+0406	3	Comedy	Drama	Romance
+0407	1	Comedy
+0408	2	Biography	Drama
+0409	2	Drama	Romance
+0410	1	Drama
+0411	3	Drama	Comedy	Crime
+0412	1	Horror
+0413	3	Comedy	Romance	Drama
+0414	3	Mystery	Drama	Romance
+0415	2	Horror	Thriller
+0416	3	Crime	Drama	Thriller
+0417	2	Drama	Thriller
+0418	4	Fantasy	Horror	Mystery	Thriller
+0419	1	Horror
+0420	2	Drama	Romance
+0421	6	Action	Adventure	Animation	Family	Fantasy	Sci-Fi
+0422	4	Crime	Drama	Horror	Thriller
+0423	3	Drama	Mystery	Thriller
+0424	3	Biography	Drama	Sport
+0425	2	Crime	Drama
+0426	2	Adventure	Comedy
+0427	4	Action	Adventure	Sci-Fi	Thriller
+0428	6	Animation	Adventure	Comedy	Drama	Family	Fantasy
+0429	3	Action	Crime	Thriller
+0430	3	Action	Sci-Fi	Thriller
+0431	4	Action	Adventure	Family	Fantasy
+0432	3	Horror	Mystery	Thriller
+0433	1	Comedy
+0434	3	Biography	Drama	Music
+0435	2	Comedy	Drama
+0436	1	Comedy
+0437	2	Drama	Romance
+0438	3	Comedy	Crime	Drama
+0439	1	Drama
+0440	3	Crime	Drama	Thriller
+0441	3	Drama	Musical	Romance
+0442	3	Comedy	Family	Fantasy
+0443	3	Action	Comedy	Thriller
+0444	4	Drama	Horror	Mystery	Thriller
+0445	3	Drama	Comedy	Romance
+0446	1	Comedy
+0447	2	Biography	Drama
+0448	2	Comedy	Drama
+0449	2	Drama	Sport
+0450	2	Comedy	Fantasy
+0451	3	Horror	Mystery	Thriller
+0452	4	Drama	Comedy	Musical	Thriller
+0453	1	Comedy
+0454	3	Fantasy	Horror	Sci-Fi
+0455	3	Biography	Drama	Romance
+0456	2	Comedy	Music
+0457	3	Comedy	Drama	Romance
+0458	3	Comedy	Drama	Romance
+0459	2	Comedy	Romance
+0460	1	Drama
+0461	3	Crime	Drama	Romance
+0462	3	Action	Adventure	Fantasy
+0463	1	Comedy
+0464	3	Adventure	Comedy	Romance
+0465	2	Drama	Comedy
+0466	2	Crime	Drama
+0467	3	Drama	Romance	Comedy
+0468	2	Drama	Thriller
+0469	2	Action	Mystery
+0470	1	Comedy
+0471	4	Comedy	Crime	Mystery	Thriller
+0472	1	Drama
+0473	1	Drama
+0474	3	Action	Sci-Fi	Thriller
+0475	2	Drama	Romance
+0476	3	Comedy	Drama	Romance
+0477	1	Horror
+0478	2	Comedy	Drama
+0479	2	Horror	Mystery
+0480	3	Animation	Comedy	Family
+0481	2	Drama	Horror
+0482	3	Drama	Horror	Thriller
+0483	3	Animation	Action	Sci-Fi
+0484	2	Drama	Music
+0485	1	Comedy
+0486	1	Thriller
+0487	2	Drama	Romance
+0488	2	Crime	Drama
+0489	5	Crime	Drama	Horror	Mystery	Thriller
+0490	4	Comedy	Drama	Family	Fantasy
+0491	1	Drama
+0492	2	Crime	Drama
+0493	2	Crime	Drama
+0494	2	Drama	Romance
+0495	1	Comedy
+0496	2	Drama	Romance
+0497	2	Horror	Thriller
+0498	1	Action
+0499	2	Horror	Thriller
+0500	3	Drama	Crime	War
+0501	3	Comedy	Drama	Romance
+0502	2	Comedy	Romance
+0503	4	Action	Drama	History	War
+0504	2	Crime	Drama
+0505	3	Adventure	Fantasy	Thriller
+0506	1	Drama
+0507	2	Comedy	Romance
+0508	3	Drama	History	War
+0509	4	Drama	Horror	Mystery	Thriller
+0510	2	Comedy	Drama
+0511	3	Action	Crime	Thriller
+0512	4	Biography	Crime	Drama	Romance
+0513	6	Animation	Crime	Drama	Mystery	Sci-Fi	Thriller
+0514	2	Drama	Thriller
+0515	4	Action	Comedy	Mystery	Sci-Fi
+0516	2	Comedy	Crime
+0517	1	Drama
+0518	3	Biography	Crime	Drama
+0519	5	Action	Adventure	Comedy	Fantasy	Romance
+0520	4	Comedy	Drama	Romance	Sport
+0521	2	Comedy	Music
+0522	2	Drama	Thriller
+0523	3	Action	Comedy	Crime
+0524	3	Drama	History	War
+0525	2	Drama	Romance
+0526	4	Animation	Adventure	Comedy	Family
+0527	1	Drama
+0528	4	Comedy	Drama	Family	Sport
+0529	4	Comedy	Thriller	Horror	Mystery
+0530	1	Drama
+0531	2	Comedy	Crime
+0532	2	Action	Sci-Fi
+0533	4	Drama	Thriller	War	Action
+0534	3	Horror	Mystery	Thriller
+0535	2	Comedy	Romance
+0536	2	Crime	Thriller
+0537	3	Comedy	Drama	Romance
+0538	2	Drama	Thriller
+0539	1	Drama
+0540	4	Drama	History	Romance	Western
+0541	3	Comedy	Drama	Fantasy
+0542	2	Drama	Thriller
+0543	2	Horror	Thriller
+0544	5	Comedy	Drama	Horror	Romance	Thriller
+0545	1	Drama
+0546	4	Drama	Mystery	Romance	Thriller
+0547	2	Action	Sci-Fi
+0548	2	Action	Fantasy
+0549	3	Comedy	Drama	Romance
+0550	2	Drama	Romance
+0551	3	Biography	Drama	Music
+0552	5	Action	Adventure	Comedy	Fantasy	Romance
+0553	3	Action	Thriller	Comedy
+0554	1	Comedy
+0555	2	Drama	Music
+0556	1	Comedy
+0557	1	Comedy
+0558	4	Crime	Drama	Romance	Thriller
+0559	3	Comedy	Drama	Romance
+0560	5	Animation	Action	Adventure	Fantasy	Thriller
+0561	3	Crime	Action	Drama
+0562	4	Comedy	Drama	Horror	Romance
+0563	4	Horror	Mystery	Sci-Fi	Thriller
+0564	2	Drama	Comedy
+0565	4	Action	Comedy	Crime	Thriller
+0566	1	Drama
+0567	2	Horror	Thriller
+0568	1	Drama
+0569	2	Drama	Romance
+0570	1	Drama
+0571	2	Drama	Comedy
+0572	3	Drama	Horror	Thriller
+0573	4	Action	Drama	Horror	War
+0574	4	Biography	Drama	History	Romance
+0575	3	Drama	Horror	Romance
+0576	3	Drama	Horror	Thriller
+0577	4	Adventure	Drama	Family	Romance
+0578	3	Crime	Drama	Thriller
+0579	2	Romance	Western
+0580	4	Crime	Drama	Mystery	Thriller
+0581	3	Biography	Drama	Western
+0582	2	Comedy	Romance
+0583	1	Comedy
+0584	2	Comedy	Sport
+0585	2	Adventure	Drama
+0586	1	Comedy
+0587	1	Drama
+0588	4	Thriller	Horror	Crime	Mystery
+0589	4	Action	Crime	Drama	Thriller
+0590	4	Adventure	Comedy	Sci-Fi	Thriller
+0591	3	Biography	Crime	Drama
+0592	3	Crime	Drama	Thriller
+0593	5	Action	Adventure	Mystery	Sci-Fi	Thriller
+0594	2	Drama	Romance
+0595	3	Comedy	Drama	Sport
+0596	1	Horror
+0597	3	Comedy	Drama	Mystery
+0598	2	Comedy	Romance
+0599	1	Comedy
+0600	2	Horror	Thriller
+0601	4	Action	Crime	Mystery	Thriller
+0602	3	Comedy	Crime	Thriller
+0603	2	Comedy	Drama
+0604	2	Crime	Drama
+0605	2	Action	Sci-Fi
+0606	4	Animation	Adventure	Family	Sci-Fi
+0607	3	Horror	Mystery	Thriller
+0608	3	Comedy	Drama	Romance
+0609	2	Drama	Thriller
+0610	2	Thriller	Drama
+0611	1	Drama
+0612	2	Drama	Mystery
+0613	4	Action	Comedy	Crime	Drama
+0614	1	Drama
+0615	3	Comedy	Family	Sport
+0616	2	Horror	Thriller
+0617	2	Thriller	Drama
+0618	4	Animation	Adventure	Comedy	Family
+0619	3	Action	Thriller	Comedy
+0620	3	Sci-Fi	Drama	Horror
+0621	1	Comedy
+0622	3	Drama	Mystery	Thriller
+0623	1	Drama
+0624	1	Drama
+0625	2	Drama	Romance
+0626	4	Action	Adventure	Horror	Sci-Fi
+0627	2	Comedy	Horror
+0628	2	Drama	Comedy
+0629	2	Crime	Thriller
+0630	1	Drama
+0631	3	Crime	Drama	Thriller
+0632	2	Drama	Thriller
+0633	1	Drama
+0634	1	Comedy
+0635	4	Action	Adventure	Crime	War
+0636	4	Action	Crime	Drama	Thriller
+0637	1	Drama
+0638	3	Comedy	Music	Romance
+0639	2	Comedy	Drama
+0640	2	Drama	Romance
+0641	2	Drama	Thriller
+0642	2	Crime	Thriller
+0643	3	Comedy	Family	Romance
+0644	2	Sci-Fi	Thriller
+0645	3	Comedy	Drama	Romance
+0646	2	Drama	War
+0647	3	Comedy	Drama	Romance
+0648	3	Horror	Romance	Drama
+0649	2	Horror	Thriller
+0650	2	Family	Comedy
+0651	2	Comedy	Drama
+0652	1	Comedy
+0653	2	Comedy	Family
+0654	1	Drama
+0655	2	Comedy	Drama
+0656	3	Action	Horror	Thriller
+0657	1	Comedy
+0658	3	Comedy	Family	Romance
+0659	3	Crime	Thriller	Drama
+0660	3	Animation	Adventure	Drama
+0661	2	Drama	History
+0662	4	Action	Comedy	Drama	Romance
+0663	3	Comedy	Drama	Romance
+0664	4	Drama	Horror	Sci-Fi	Thriller
+0665	1	Drama
+0666	3	Adventure	Family	Fantasy
+0667	4	Action	Adventure	Sci-Fi	Thriller
+0668	3	Drama	Horror	Thriller
+0669	4	Crime	Drama	Mystery	Thriller
+0670	3	Action	Drama	Thriller
+0671	4	Action	Fantasy	Sci-Fi	Thriller
+0672	3	Horror	Mystery	Thriller
+0673	5	Action	Crime	Drama	Mystery	Thriller
+0674	2	Comedy	Romance
+0675	3	Comedy	Crime	Thriller
+0676	3	Drama	Mystery	Thriller
+0677	5	Action	Adventure	Biography	Drama	War
+0678	5	Action	Adventure	Comedy	Crime	Romance
+0679	3	Crime	Romance	Thriller
+0680	2	Comedy	Romance
+0681	3	Crime	Drama	Mystery
+0682	2	Drama	Romance
+0683	3	Action	Crime	Thriller
+0684	4	Action	Crime	Drama	Thriller
+0685	2	Comedy	Drama
+0686	2	Drama	Sport
+0687	2	Drama	Romance
+0688	6	Action	Adventure	Comedy	Crime	Drama	Romance
+0689	1	Drama
+0690	1	Drama
+0691	2	Comedy	Romance
+0692	3	Horror	Mystery	Thriller
+0693	3	Drama	Comedy	Romance
+0694	1	Comedy
+0695	2	Action	Drama
+0696	2	Comedy	Romance
+0697	2	Horror	Thriller
+0698	4	Action	Crime	Drama	Thriller
+0699	2	Drama	Romance
+0700	3	Drama	History	Sport
+0701	3	Action	Comedy	Thriller
+0702	1	Drama
+0703	1	Comedy
+0704	4	Action	Crime	Drama	Thriller
+0705	2	Comedy	Drama
+0706	2	Drama	Thriller
+0707	2	Drama	Music
+0708	4	Action	Drama	Romance	War
+0709	1	Comedy
+0710	2	Drama	Thriller
+0711	3	Biography	Comedy	Romance
+0712	8	Adventure	Animation	Drama	Fantasy	Romance	Action	Sci-Fi	Thriller
+0713	4	Comedy	Drama	Romance	Sport
+0714	4	Biography	Comedy	Reality-TV	Romance
+0715	2	Horror	Thriller
+0716	2	Adventure	Drama
+0717	1	Drama
+0718	2	Comedy	Drama
+0719	1	Comedy
+0720	1	Comedy
+0721	1	Drama
+0722	1	Drama
+0723	4	Romance	Thriller	Crime	Drama
+0724	3	Action	Drama	Thriller
+0725	4	Comedy	Thriller	Crime	Romance
+0726	2	Drama	Romance
+0727	5	Adventure	Comedy	Drama	Fantasy	Romance
+0728	2	Horror	Thriller
+0729	4	Drama	Horror	Mystery	Thriller
+0730	2	Horror	Thriller
+0731	4	Action	Crime	Romance	Thriller
+0732	3	Crime	Drama	Thriller
+0733	3	Crime	Thriller	Drama
+0734	4	Action	Comedy	Fantasy	Sci-Fi
+0735	4	Comedy	Fantasy	Horror	Sci-Fi
+0736	2	Crime	Thriller
+0737	1	Drama
+0738	4	Action	Fantasy	Sci-Fi	Thriller
+0739	4	Comedy	Drama	Romance	Fantasy
+0740	2	Drama	Romance
+0741	2	Comedy	Horror
+0742	2	Drama	Romance
+0743	4	Action	Crime	Drama	Thriller
+0744	2	Mystery	Thriller
+0745	3	Drama	Fantasy	Horror
+0746	3	Comedy	Drama	Romance
+0747	5	Adventure	Comedy	Family	Fantasy	Horror
+0748	3	Drama	Fantasy	Romance
+0749	1	Drama
+0750	2	Drama	History
+0751	1	Comedy
+0752	3	Drama	Mystery	Thriller
+0753	3	Comedy	Drama	Romance
+0754	3	Comedy	Romance	Crime
+0755	5	Drama	Fantasy	Mystery	Sci-Fi	Thriller
+0756	4	Horror	Mystery	Sci-Fi	Thriller
+0757	2	Comedy	War
+0758	3	Action	Crime	Thriller
+0759	6	Animation	Action	Adventure	Fantasy	Sci-Fi	Thriller
+0760	3	Action	Adventure	Fantasy
+0761	4	Action	Adventure	Sci-Fi	Thriller
+0762	2	Thriller	Drama
+0763	4	Action	Adventure	Drama	Thriller
+0764	3	Adventure	Sci-Fi	Thriller
+0765	2	Drama	History
+0766	2	Drama	Sci-Fi
+0767	2	Action	Comedy
+0768	1	Drama
+0769	2	Drama	War
+0770	2	Drama	Music
+0771	1	Comedy
+0772	3	Comedy	Drama	Romance
+0773	5	Animation	Action	Fantasy	Horror	Thriller
+0774	2	Drama	Romance
+0775	3	Adventure	Horror	Sci-Fi
+0776	2	Drama	Romance
+0777	2	Drama	Romance
+0778	3	Crime	Drama	Thriller
+0779	1	Thriller
+0780	2	Comedy	Drama
+0781	1	Drama
+0782	1	Drama
+0783	2	Mystery	Thriller
+0784	2	Comedy	Romance
+0785	2	Drama	Romance
+0786	2	Horror	Thriller
+0787	1	Drama
+0788	2	Comedy	Crime
+0789	3	Crime	Drama	Thriller
+0790	1	Drama
+0791	2	Drama	Romance
+0792	2	Biography	Drama
+0793	4	Biography	Drama	History	War
+0794	3	Drama	Comedy	Romance
+0795	3	Comedy	Romance	Thriller
+0796	1	Comedy
+0797	2	Thriller	Horror
+0798	2	Comedy	Romance
+0799	1	Drama
+0800	1	Drama
+0801	3	Horror	Drama	Sci-Fi
+0802	3	Action	Comedy	Fantasy
+0803	2	Comedy	Romance
+0804	3	Horror	Action	Comedy
+0805	2	Comedy	Romance
+0806	4	Action	Romance	Sci-Fi	Thriller
+0807	2	Comedy	Romance
+0808	4	Action	Crime	Drama	Thriller
+0809	5	Animation	Adventure	Comedy	Fantasy	Romance
+0810	1	Action
+0811	1	Drama
+0812	1	Comedy
+0813	1	Drama
+0814	1	Comedy
+0815	4	Sci-Fi	Thriller	Action	Mystery
+0816	1	Drama
+0817	2	Drama	Romance
+0818	5	Action	Crime	Mystery	Romance	Thriller
+0819	5	Crime	Drama	History	Mystery	Thriller
+0820	2	Crime	Drama
+0821	2	Comedy	Romance
+0822	4	Crime	Drama	Mystery	Thriller
+0823	3	Crime	Drama	Thriller
+0824	3	Comedy	Drama	Romance
+0825	3	Drama	Fantasy	Thriller
+0826	5	Action	Drama	History	Thriller	War
+0827	3	Comedy	Drama	Romance
+0828	4	Adventure	Drama	Family	Fantasy
+0829	3	Drama	Music	Romance
+0830	3	Crime	Drama	Romance
+0831	2	Comedy	Romance
+0832	2	Biography	Drama
+0833	3	Comedy	Drama	Family
+0834	3	Action	Crime	Thriller
+0835	4	Action	Adventure	Family	Fantasy
+0836	2	Drama	Sci-Fi
+0837	3	Comedy	Family	Sport
+0838	4	Crime	Drama	Romance	Thriller
+0839	2	Drama	Thriller
+0840	2	Drama	War
+0841	3	Comedy	Drama	Romance
+0842	2	Biography	Drama
+0843	1	Drama
+0844	2	Horror	Sci-Fi
+0845	3	Crime	Drama	Mystery
+0846	1	Comedy
+0847	2	Drama	Romance
+0848	2	Comedy	Romance
+0849	1	Drama
+0850	3	Drama	Thriller	Mystery
+0851	4	Drama	Thriller	Comedy	Crime
+0852	2	Comedy	Romance
+0853	2	Action	Thriller
+0854	1	Western
+0855	4	Comedy	Horror	Mystery	Thriller
+0856	2	Drama	Romance
+0857	2	Comedy	Sci-Fi
+0858	2	Drama	Thriller
+0859	3	Drama	Music	Romance
+0860	3	Comedy	Crime	Thriller
+0861	3	Crime	Drama	Romance
+0862	1	Drama
+0863	1	Horror
+0864	4	Comedy	Drama	Fantasy	Romance
+0865	1	Comedy
+0866	1	Drama
+0867	4	Crime	Drama	Mystery	Thriller
+0868	1	Drama
+0869	2	Horror	Thriller
+0870	3	Comedy	Horror	Music
+0871	2	Comedy	Horror
+0872	2	Drama	Sport
+0873	1	Comedy
+0874	2	Drama	Music
+0875	2	Horror	Drama
+0876	3	Action	Adventure	Sci-Fi
+0877	3	Adventure	Drama	Fantasy
+0878	4	Action	Crime	Fantasy	Romance
+0879	2	Action	Crime
+0880	4	Drama	Fantasy	Mystery	Romance
+0881	3	Biography	Drama	War
+0882	4	Mystery	Romance	Sci-Fi	Thriller
+0883	3	Action	Adventure	Fantasy
+0884	3	Action	Adventure	Sci-Fi
+0885	4	Crime	Drama	Mystery	Thriller
+0886	2	Adventure	Drama
+0887	3	Drama	Fantasy	Romance
+0888	3	Adventure	Comedy	Music
+0889	4	Comedy	Drama	Romance	Music
+0890	1	Comedy
+0891	3	Action	Drama	Thriller
+0892	3	Adventure	Comedy	Sci-Fi
+0893	4	Drama	Mystery	Romance	Sci-Fi
+0894	3	Comedy	Crime	Thriller
+0895	1	Comedy
+0896	2	Comedy	Horror
+0897	4	Crime	Drama	Horror	Thriller
+0898	3	Drama	Mystery	Thriller
+0899	3	Action	Crime	Thriller
+0900	3	Action	Sci-Fi	Thriller
+0901	3	Drama	Fantasy	Western
+0902	3	Sci-Fi	Adventure	Action
+0903	3	Action	Crime	Thriller
+0904	3	Horror	Mystery	Thriller
+0905	1	Drama
+0906	2	Comedy	Drama
+0907	2	Crime	Drama
+0908	1	Comedy
+0909	3	Crime	Thriller	Drama
+0910	1	Comedy
+0911	2	Comedy	Romance
+0912	1	Drama
+0913	3	Comedy	Romance	Crime
+0914	3	Comedy	Romance	Drama
+0915	3	Adventure	Family	Fantasy
+0916	2	Biography	Drama
+0917	3	Action	Adventure	Fantasy
+0918	4	Action	Adventure	Drama	Thriller
+0919	2	Comedy	Western
+0920	1	Thriller
+0921	2	Family	Sci-Fi
+0922	1	Drama
+0923	1	Action
+0924	2	Comedy	Romance
+0925	1	Thriller
+0926	3	Drama	History	War
+0927	4	Drama	Music	Musical	Romance
+0928	2	Crime	Drama
+0929	3	Comedy	Crime	Drama
+0930	1	Horror
+0931	2	Comedy	Romance
+0932	2	Drama	Family
+0933	3	Comedy	Drama	Romance
+0934	3	Adventure	Action	Romance
+0935	2	Biography	Drama
+0936	4	Action	Adventure	Horror	Sci-Fi
+0937	2	Drama	Music
+0938	1	Drama
+0939	4	Comedy	Drama	Music	Romance
+0940	2	Horror	Thriller
+0941	4	Action	Horror	Fantasy	Sci-Fi
+0942	2	Comedy	Horror
+0943	5	Action	Horror	Adventure	Mystery	Thriller
+0944	3	Drama	Musical	Romance
+0945	2	Action	Thriller
+0946	2	Comedy	Romance
+0947	2	Horror	Thriller
+0948	5	Action	Crime	Drama	Mystery	Thriller
+0949	2	Drama	Thriller
+0950	3	Crime	Drama	Thriller
+0951	1	Comedy
+0952	1	Thriller
+0953	3	Comedy	Crime	Mystery
+0954	2	Comedy	Drama
+0955	4	Comedy	Crime	Drama	Romance
+0956	3	Drama	Romance	Thriller
+0957	2	Horror	Thriller
+0958	3	Comedy	Music	Romance
+0959	3	Comedy	Romance	Sci-Fi
+0960	4	Adventure	Drama	Sci-Fi	Thriller
+0961	3	Crime	Horror	Thriller
+0962	3	Comedy	Romance	Fantasy
+0963	3	Biography	Drama	Sport
+0964	2	Comedy	Drama
+0965	1	Comedy
+0966	3	Biography	Drama	Sport
+0967	2	Comedy	Romance
+0968	5	Drama	Horror	Mystery	Sci-Fi	Thriller
+0969	1	Drama
+0970	4	Action	Adventure	Sci-Fi	Thriller
+0971	3	Horror	Mystery	Thriller
+0972	3	Drama	Mystery	Thriller
+0973	3	Action	Comedy	Fantasy
+0974	1	Drama
+0975	2	Drama	Romance
+0976	2	Horror	Mystery
+0977	3	Comedy	Fantasy	Romance
+0978	5	Animation	Action	Adventure	Comedy	Family
+0979	4	Action	Adventure	Comedy	Thriller
+0980	3	Action	Romance	Thriller
+0981	4	Action	Comedy	Crime	Thriller
+0982	2	Biography	Drama
+0983	5	Action	Adventure	Fantasy	Romance	Thriller
+0984	2	Crime	Drama
+0985	4	Comedy	Drama	Fantasy	Romance
+0986	2	Crime	Drama
+0987	2	Comedy	Fantasy
+0988	1	Drama
+0989	6	Animation	Adventure	Fantasy	Mystery	Sci-Fi	Thriller
+0990	2	Comedy	Romance
+0991	2	Horror	Mystery
+0992	3	Crime	Drama	Thriller
+0993	5	Adventure	Biography	Drama	History	War
+0994	2	Comedy	Family
+0995	2	Drama	Thriller
+0996	3	Drama	Sci-Fi	Thriller
+0997	2	Crime	Thriller
+0998	1	Horror
+0999	4	Crime	Drama	Mystery	Thriller
+1000	3	Drama	Mystery	Thriller
+1001	4	Drama	Horror	Mystery	Thriller
+1002	4	Adventure	Comedy	Crime	Mystery
+1003	2	Comedy	Romance
+1004	3	Comedy	Fantasy	Horror
+1005	3	Drama	History	Mystery
+1006	3	Action	Sci-Fi	Thriller
+1007	2	Drama	Romance
+1008	3	Drama	Mystery	Thriller
+1009	5	Action	Crime	Drama	Mystery	Thriller
+1010	1	Comedy
+1011	2	Comedy	Fantasy
+1012	4	Crime	Drama	Mystery	Thriller
+1013	1	Comedy
+1014	1	Comedy
+1015	2	Biography	Drama
+1016	6	Animation	Adventure	Comedy	Family	Romance	Sci-Fi
+1017	3	Adventure	Comedy	Romance
+1018	8	Action	Crime	Drama	Fantasy	Music	Mystery	Sci-Fi	Thriller
+1019	2	Drama	Comedy
+1020	1	Drama
+1021	2	Drama	Thriller
+1022	1	Horror
+1023	4	Action	Romance	Sci-Fi	Thriller
+1024	3	Action	Adventure	Fantasy
+1025	5	Comedy	Drama	Horror	Sci-Fi	Thriller
+1026	4	Drama	Horror	Mystery	Thriller
+1027	1	Drama
+1028	4	Drama	Mystery	Sci-Fi	Thriller
+1029	2	Comedy	Romance
+1030	3	Thriller	Horror	Mystery
+1031	2	Drama	Romance
+1032	4	Action	Adventure	Family	Fantasy
+1033	3	Crime	Drama	Thriller
+1034	3	Comedy	Fantasy	Romance
+1035	3	Crime	Drama	Thriller
+1036	3	Action	History	War
+1037	3	Comedy	Horror	Sci-Fi
+1038	3	Horror	Mystery	Thriller
+1039	2	Crime	Comedy
+1040	2	Comedy	Romance
+1041	5	Adventure	Comedy	Family	Fantasy	Mystery
+1042	4	Crime	Drama	Mystery	Thriller
+1043	4	Animation	Adventure	Family	Sci-Fi
+1044	3	Crime	Drama	Thriller
+1045	2	Comedy	Music
+1046	4	Action	Crime	Drama	Thriller
+1047	2	Drama	Romance
+1048	4	Adventure	Fantasy	Mystery	Sci-Fi
+1049	5	Action	Crime	Drama	Romance	Thriller
+1050	2	Crime	Drama
+1051	4	Comedy	Crime	Drama	Thriller
+1052	3	Crime	Drama	Thriller
+1053	4	Animation	Action	Sci-Fi	Thriller
+1054	1	Comedy
+1055	2	Drama	Romance
+1056	5	Action	Adventure	Horror	Sci-Fi	Thriller
+1057	4	Comedy	Drama	Music	Romance
+1058	6	Action	Drama	Horror	Mystery	Sci-Fi	Thriller
+1059	3	Action	Adventure	Thriller
+1060	2	Action	Thriller
+1061	2	Comedy	Family
+1062	3	Action	Adventure	Thriller
+1063	4	Drama	Music	Mystery	Romance
+1064	3	Drama	Mystery	Romance
+1065	5	Action	Adventure	Family	Sci-Fi	Thriller
+1066	3	Drama	Romance	Thriller
+1067	4	Comedy	Drama	Fantasy	Sci-Fi
+1068	4	Biography	Drama	History	War
+1069	3	Comedy	Drama	Romance
+1070	2	Adventure	Comedy
+1071	4	Action	Adventure	Drama	Sci-Fi
+1072	3	Adventure	Comedy	Romance
+1073	2	Drama	Thriller
+1074	2	Drama	Romance
+1075	2	Action	Drama
+1076	3	Drama	Horror	Thriller
+1077	3	Biography	Comedy	Drama
+1078	2	Comedy	Sport
+1079	5	Action	Adventure	Comedy	Family	Sci-Fi
+1080	2	Drama	Romance
+1081	3	Crime	Drama	Romance
+1082	3	Action	Adventure	Thriller
+1083	5	Crime	Drama	Mystery	Thriller	War
+1084	3	Comedy	Drama	Romance
+1085	3	Drama	History	Thriller
+1086	3	Drama	Thriller	War
+1087	5	Action	Crime	Drama	Mystery	Thriller
+1088	4	Action	Adventure	Sci-Fi	Thriller
+1089	1	Comedy
+1090	3	Horror	Mystery	Thriller
+1091	3	Biography	Drama	Music
+1092	3	Animation	Adventure	Comedy
+1093	2	Crime	Drama
+1094	4	Comedy	Drama	Fantasy	Romance
+1095	3	Action	Sci-Fi	Thriller
+1096	4	Action	Crime	Drama	Thriller
+1097	3	Biography	Crime	Drama
+1098	5	Action	Adventure	Drama	Fantasy	Romance
+1099	3	Fantasy	Mystery	Thriller
+1100	5	Action	Adventure	Drama	History	War
+1101	4	Drama	Horror	Musical	Thriller
+1102	3	Crime	Drama	Thriller
+1103	3	Drama	Mystery	Thriller
+1104	5	Adventure	Drama	Family	Fantasy	Sci-Fi
+1105	3	Horror	Sci-Fi	Thriller
+1106	3	Adventure	Biography	Drama
+1107	4	Action	Adventure	Comedy	Thriller
+1108	3	Adventure	Family	Fantasy
+1109	4	Action	Family	Adventure	Comedy
+1110	3	Action	Comedy	Crime
+1111	3	Thriller	Drama	Crime
+1112	3	Crime	Drama	Thriller
+1113	3	Horror	Mystery	Thriller
+1114	3	Crime	Drama	Thriller
+1115	5	Drama	Mystery	Romance	Sci-Fi	Thriller
+1116	2	Horror	Thriller
+1117	3	Comedy	Drama	Romance
+1118	2	Biography	Drama
+1119	3	Drama	Musical	Romance
+1120	3	Action	Fantasy	Thriller
+1121	4	Biography	Drama	Music	Romance
+1122	3	Comedy	Drama	Romance
+1123	4	Action	Crime	Drama	Thriller
+1124	3	Comedy	Romance	Sport
+1125	4	Crime	Drama	Music	Romance
+1126	3	Action	Horror	Sci-Fi
+1127	3	Action	Adventure	Comedy
+1128	3	Biography	Drama	Music
+1129	2	Drama	Romance
+1130	3	Drama	Thriller	War
+1131	1	Comedy
+1132	3	Drama	Mystery	Romance
+1133	2	Comedy	Sport
+1134	4	Adventure	Drama	Romance	Western
+1135	2	Romance	Thriller
+1136	2	Drama	Romance
+1137	3	Action	Adventure	Western
+1138	3	Action	Thriller	Drama
+1139	3	Crime	Drama	Thriller
+1140	3	Action	Crime	Thriller
+1141	4	Action	Comedy	Crime	Thriller
+1142	3	Crime	Drama	Western
+1143	4	Action	Crime	Drama	Thriller
+1144	4	Comedy	Drama	Romance	War
+1145	2	Drama	Romance
+1146	2	Horror	Thriller
+1147	1	Comedy
+1148	2	Drama	Thriller
+1149	5	Animation	Comedy	Family	Fantasy	Mystery
+1150	3	Drama	Horror	Thriller
+1151	4	Adventure	Comedy	Family	Sci-Fi
+1152	2	Comedy	Drama
+1153	3	Comedy	Crime	Thriller
+1154	3	Action	Drama	Sport
+1155	3	Action	Comedy	Crime
+1156	4	Crime	Drama	Mystery	Thriller
+1157	2	Crime	Drama
+1158	4	Comedy	Family	Fantasy	Thriller
+1159	3	Action	Comedy	Crime
+1160	5	Animation	Action	Adventure	Fantasy	Sci-Fi
+1161	3	Drama	Music	Romance
+1162	3	Crime	Drama	Thriller
+1163	2	Comedy	Romance
+1164	2	Horror	Thriller
+1165	4	Action	Crime	Drama	Thriller
+1166	4	Action	Comedy	Crime	Family
+1167	3	Comedy	Drama	Romance
+1168	4	Crime	Drama	Romance	Thriller
+1169	4	Comedy	Crime	Romance	Thriller
+1170	3	Comedy	Fantasy	Romance
+1171	5	Drama	Fantasy	Horror	Romance	Thriller
+1172	5	Action	Adventure	Comedy	Family	Sci-Fi
+1173	4	Drama	Horror	Romance	Sci-Fi
+1174	2	Horror	Thriller
+1175	5	Action	Adventure	Comedy	Family	Romance
+1176	3	Biography	Drama	Music
+1177	4	Drama	Horror	Mystery	Thriller
+1178	2	Comedy	Drama
+1179	4	Action	Crime	Drama	Thriller
+1180	3	Crime	Drama	Thriller
+1181	1	Comedy
+1182	2	Comedy	War
+1183	3	Action	Comedy	Crime
+1184	5	Comedy	Drama	Family	Fantasy	Music
+1185	3	Adventure	Comedy	Drama
+1186	1	Comedy
+1187	3	Crime	Drama	Thriller
+1188	3	Horror	Thriller	Mystery
+1189	4	Comedy	Drama	Family	Sport
+1190	2	Drama	Romance
+1191	4	Crime	Drama	Mystery	Thriller
+1192	2	Comedy	Drama
+1193	2	Drama	Mystery
+1194	4	Animation	Biography	Drama	War
+1195	3	Crime	Drama	Thriller
+1196	2	Comedy	Drama
+1197	3	Action	Adventure	Thriller
+1198	3	Action	Crime	Thriller
+1199	2	Comedy	Crime
+1200	4	Action	Drama	Thriller	War
+1201	5	Drama	Romance	Comedy	Crime	Fantasy
+1202	3	Drama	Sport	Thriller
+1203	5	Crime	Drama	Horror	Mystery	Thriller
+1204	4	Crime	Drama	Romance	Thriller
+1205	1	Comedy
+1206	1	Drama
+1207	2	Drama	Horror
+1208	3	Comedy	Drama	Romance
+1209	2	Horror	Sci-Fi
+1210	4	Comedy	Drama	Romance	Sport
+1211	4	Action	Adventure	Mystery	Sci-Fi
+1212	2	Biography	Comedy
+1213	4	Action	Adventure	Comedy	Thriller
+1214	4	Adventure	Drama	Family	Romance
+1215	3	Drama	Thriller	Sci-Fi
+1216	1	Drama
+1217	3	Mystery	Sci-Fi	Thriller
+1218	5	Animation	Action	Adventure	Sci-Fi	Thriller
+1219	6	Biography	Crime	Drama	History	Mystery	Thriller
+1220	2	Drama	Romance
+1221	2	Drama	Romance
+1222	3	Action	Comedy	Crime
+1223	4	Drama	Action	Adventure	Thriller
+1224	5	Action	Adventure	Comedy	Fantasy	Sci-Fi
+1225	2	Comedy	Crime
+1226	4	Horror	Mystery	Sci-Fi	Thriller
+1227	2	Mystery	Thriller
+1228	4	Action	Crime	Drama	Thriller
+1229	3	Comedy	Drama	Romance
+1230	4	Action	Crime	Drama	Thriller
+1231	6	Action	Adventure	Comedy	Family	History	Romance
+1232	4	Adventure	Comedy	Drama	Romance
+1233	4	Comedy	Drama	Mystery	Romance
+1234	5	Action	Crime	Drama	Mystery	Thriller
+1235	3	Crime	Drama	Thriller
+1236	4	Action	Adventure	Comedy	Family
+1237	2	Drama	Sport
+1238	2	Crime	Drama
+1239	3	Comedy	Music	Romance
+1240	2	Drama	Thriller
+1241	4	Action	Mystery	Sci-Fi	Thriller
+1242	3	Adventure	Comedy	Fantasy
+1243	3	Comedy	Drama	Romance
+1244	5	Action	Adventure	Crime	Mystery	Thriller
+1245	2	Comedy	Romance
+1246	4	Comedy	Adventure	Crime	Music
+1247	2	Comedy	Romance
+1248	3	Comedy	Crime	Drama
+1249	3	Comedy	Drama	Romance
+1250	4	Crime	Horror	Mystery	Thriller
+1251	1	Comedy
+1252	3	Crime	Mystery	Thriller
+1253	4	Comedy	Drama	Fantasy	Romance
+1254	3	Crime	Mystery	Thriller
+1255	3	Comedy	Drama	Romance
+1256	3	Adventure	Comedy	Family
+1257	2	Crime	Thriller
+1258	1	Drama
+1259	2	Comedy	Drama
+1260	3	Biography	Drama	Sport
+1261	3	Crime	Drama	Thriller
+1262	3	Crime	Drama	Thriller
+1263	3	Drama	Family	Romance
+1264	1	Comedy
+1265	3	Drama	Mystery	Thriller
+1266	2	Drama	Thriller
+1267	1	Comedy
+1268	2	Drama	Thriller
+1269	3	Comedy	Drama	Romance
+1270	4	Crime	Horror	Mystery	Thriller
+1271	5	Animation	Adventure	Comedy	Family	Fantasy
+1272	3	Comedy	Horror	Thriller
+1273	3	Comedy	Drama	Romance
+1274	2	Drama	War
+1275	2	Comedy	Crime
+1276	2	Horror	Thriller
+1277	2	Drama	Thriller
+1278	1	Horror
+1279	4	Crime	Drama	Mystery	Thriller
+1280	2	Comedy	Romance
+1281	4	Adventure	Comedy	Family	Fantasy
+1282	3	Comedy	Crime	Drama
+1283	3	Drama	Romance	Western
+1284	3	Comedy	Drama	Romance
+1285	4	Fantasy	Horror	Thriller	Mystery
+1286	3	Comedy	Romance	Drama
+1287	5	Crime	Drama	Mystery	Thriller	Action
+1288	3	Comedy	Romance	Drama
+1289	6	Action	Biography	Drama	History	Romance	War
+1290	3	Comedy	Fantasy	Romance
+1291	2	Comedy	Sci-Fi
+1292	5	Action	Comedy	Drama	Family	Sport
+1293	2	Comedy	Romance
+1294	3	Biography	Drama	Fantasy
+1295	4	Drama	Fantasy	Comedy	Romance
+1296	3	Comedy	Drama	Romance
+1297	4	Adventure	Comedy	Family	Fantasy
+1298	2	Comedy	Drama
+1299	3	Biography	Drama	Romance
+1300	4	Crime	Drama	Mystery	Thriller
+1301	2	Drama	Sport
+1302	2	Action	Thriller
+1303	2	Comedy	Crime
+1304	2	Comedy	Family
+1305	4	Biography	Comedy	Drama	Romance
+1306	2	Comedy	Drama
+1307	3	Comedy	Family	Fantasy
+1308	2	Comedy	Romance
+1309	3	Crime	Drama	Thriller
+1310	4	Animation	Adventure	Comedy	Family
+1311	1	Comedy
+1312	4	Fantasy	Horror	Mystery	Thriller
+1313	4	Comedy	Drama	History	Romance
+1314	3	Drama	Horror	Sci-Fi
+1315	1	Drama
+1316	4	Action	Crime	Drama	Thriller
+1317	2	Biography	Drama
+1318	5	Adventure	Drama	History	War	Western
+1319	2	Action	Comedy
+1320	4	Drama	Romance	Mystery	Music
+1321	2	Action	Crime
+1322	2	Drama	Sport
+1323	4	Animation	Adventure	Comedy	Family
+1324	4	Drama	Fantasy	Mystery	Sci-Fi
+1325	4	Comedy	Fantasy	Horror	Thriller
+1326	2	Crime	Drama
+1327	2	Horror	Thriller
+1328	3	Action	Comedy	Crime
+1329	4	Crime	Drama	Mystery	Thriller
+1330	2	Comedy	Sport
+1331	3	Comedy	Drama	Romance
+1332	5	Comedy	Crime	Drama	Mystery	Romance
+1333	5	Action	Drama	History	Romance	War
+1334	2	Comedy	Drama
+1335	2	Drama	Romance
+1336	5	Drama	Mystery	Romance	Thriller	War
+1337	4	Crime	Drama	Mystery	Thriller
+1338	2	Biography	Drama
+1339	4	Action	Crime	Drama	Thriller
+1340	3	Drama	Horror	Thriller
+1341	2	Comedy	Music
+1342	4	Animation	Adventure	Family	Thriller
+1343	4	Action	Comedy	Crime	Thriller
+1344	5	Biography	Drama	History	Thriller	War
+1345	4	Action	Crime	Drama	Thriller
+1346	4	Action	Comedy	Crime	Thriller
+1347	2	Comedy	Sport
+1348	2	Drama	Music
+1349	2	Comedy	Romance
+1350	3	Action	Sci-Fi	Sport
+1351	3	Horror	Sci-Fi	Thriller
+1352	2	Action	Thriller
+1353	3	Drama	Musical	Romance
+1354	3	Comedy	Drama	Romance
+1355	2	Music	Romance
+1356	2	Drama	Thriller
+1357	3	Drama	Mystery	Thriller
+1358	3	Drama	Romance	Sport
+1359	4	Action	Comedy	Crime	Thriller
+1360	5	Comedy	Crime	Drama	Thriller	War
+1361	3	Comedy	Drama	Family
+1362	3	Comedy	Fantasy	Romance
+1363	3	Comedy	Drama	Romance
+1364	5	Fantasy	Horror	Mystery	Sci-Fi	Thriller
+1365	3	Comedy	Crime	Thriller
+1366	3	Comedy	Horror	Thriller
+1367	3	Biography	Drama	Romance
+1368	3	Comedy	Drama	Romance
+1369	3	Comedy	Horror	Thriller
+1370	2	Crime	Drama
+1371	3	Adventure	Drama	History
+1372	3	Action	Drama	Thriller
+1373	4	Action	Comedy	Romance	Thriller
+1374	3	Drama	Music	Romance
+1375	5	Adventure	Family	Fantasy	Sci-Fi	Thriller
+1376	4	Action	Adventure	Horror	Thriller
+1377	2	Action	Crime
+1378	3	Comedy	Crime	Romance
+1379	2	Drama	Thriller
+1380	2	Horror	Thriller
+1381	3	Crime	Drama	Romance
+1382	4	Crime	Drama	Mystery	Thriller
+1383	4	Comedy	Crime	Drama	Thriller
+1384	2	Comedy	Romance
+1385	2	Comedy	Family
+1386	6	Action	Adventure	Drama	History	Thriller	War
+1387	3	Comedy	Crime	Drama
+1388	3	Comedy	Drama	Sport
+1389	3	Crime	Drama	Romance
+1390	2	Comedy	Fantasy
+1391	3	Comedy	Horror	Thriller
+1392	3	Action	Crime	Thriller
+1393	3	Adventure	Drama	History
+1394	3	Drama	Thriller	War
+1395	3	Drama	Mystery	Thriller
+1396	3	Action	Adventure	Thriller
+1397	3	Biography	Drama	Family
+1398	3	Adventure	Comedy	Horror
+1399	2	Biography	Drama
+1400	3	Crime	Drama	Thriller
+1401	3	Action	Adventure	Thriller
+1402	2	Comedy	Romance
+1403	3	Crime	Drama	Thriller
+1404	4	Biography	Drama	History	War
+1405	4	Crime	Drama	Mystery	Thriller
+1406	3	Action	Adventure	Drama
+1407	2	Comedy	Drama
+1408	3	Crime	Drama	Thriller
+1409	3	Comedy	Drama	Romance
+1410	4	Comedy	Family	Fantasy	Musical
+1411	3	Crime	Horror	Thriller
+1412	3	Crime	Drama	Mystery
+1413	2	Sci-Fi	Thriller
+1414	4	Crime	Drama	History	Romance
+1415	2	Action	Thriller
+1416	3	Action	Comedy	Musical
+1417	5	Animation	Adventure	Family	Romance	Sci-Fi
+1418	3	Drama	Mystery	Thriller
+1419	1	Drama
+1420	4	Action	Comedy	Crime	Western
+1421	2	Comedy	Drama
+1422	4	Drama	Horror	Mystery	Thriller
+1423	2	Crime	Thriller
+1424	4	Comedy	Family	Fantasy	Romance
+1425	3	Comedy	Drama	Romance
+1426	2	Comedy	Music
+1427	2	Comedy	Drama
+1428	4	Crime	Drama	Mystery	Thriller
+1429	4	Action	Adventure	Comedy	Crime
+1430	3	Crime	Drama	Thriller
+1431	3	Biography	Comedy	Drama
+1432	2	Action	Comedy
+1433	2	Comedy	Crime
+1434	4	Biography	Drama	Thriller	War
+1435	5	Action	Drama	Comedy	Crime	Thriller
+1436	5	Action	Adventure	Comedy	Family	Sci-Fi
+1437	2	Romance	Thriller
+1438	3	Drama	Romance	Sport
+1439	5	Drama	Fantasy	History	Thriller	War
+1440	2	Drama	Romance
+1441	3	Comedy	Drama	Romance
+1442	3	Mystery	Romance	Thriller
+1443	4	Adventure	Comedy	Family	Fantasy
+1444	3	Action	Comedy	Thriller
+1445	2	Comedy	Drama
+1446	1	Drama
+1447	4	Action	Crime	Mystery	Thriller
+1448	3	Comedy	Drama	Romance
+1449	2	Comedy	Drama
+1450	2	Comedy	Family
+1451	2	Drama	Romance
+1452	2	Crime	Drama
+1453	4	Action	Crime	Sci-Fi	Thriller
+1454	3	Adventure	Comedy	Romance
+1455	2	Drama	Romance
+1456	2	Comedy	Romance
+1457	2	Action	Thriller
+1458	2	Crime	Drama
+1459	3	Drama	Sci-Fi	Thriller
+1460	7	Animation	Action	Adventure	Comedy	Crime	Fantasy	Thriller
+1461	3	Drama	Mystery	Romance
+1462	4	Comedy	Crime	Drama	Thriller
+1463	5	Drama	Fantasy	Mystery	Sci-Fi	Thriller
+1464	3	Drama	Thriller	Crime
+1465	6	Action	Adventure	Comedy	Family	Fantasy	Mystery
+1466	2	Comedy	Thriller
+1467	4	Horror	Thriller	Fantasy	Mystery
+1468	3	Drama	Romance	Thriller
+1469	2	Crime	Drama
+1470	3	Drama	Comedy	Romance
+1471	3	Comedy	Drama	Romance
+1472	1	Drama
+1473	3	Drama	Romance	Thriller
+1474	5	Action	Adventure	Drama	History	War
+1475	4	Action	Crime	Drama	Thriller
+1476	2	Comedy	Romance
+1477	4	Adventure	Comedy	Family	Fantasy
+1478	4	Action	Adventure	Fantasy	Thriller
+1479	2	Drama	Thriller
+1480	2	Adventure	Drama
+1481	3	Horror	Mystery	Thriller
+1482	4	Adventure	Drama	Family	Fantasy
+1483	5	Action	Adventure	Comedy	Family	Romance
+1484	5	Action	Comedy	Drama	Family	Sport
+1485	4	Action	Crime	Fantasy	Thriller
+1486	4	Biography	Drama	History	War
+1487	2	Comedy	Drama
+1488	5	Animation	Adventure	Comedy	Family	Fantasy
+1489	3	Horror	Mystery	Thriller
+1490	2	Action	Sci-Fi
+1491	2	Drama	Thriller
+1492	2	Comedy	Romance
+1493	2	Comedy	Drama
+1494	3	Comedy	Family	Romance
+1495	3	Drama	Mystery	Thriller
+1496	3	Biography	Crime	Drama
+1497	3	Action	Horror	Sci-Fi
+1498	4	Drama	History	War	Western
+1499	1	Comedy
+1500	3	Comedy	Horror	Thriller
+1501	2	Drama	Thriller
+1502	5	Action	Adventure	Comedy	Family	Fantasy
+1503	5	Animation	Adventure	Fantasy	Mystery	Sci-Fi
+1504	5	Comedy	Crime	Drama	Romance	Thriller
+1505	4	Action	Adventure	Sci-Fi	Thriller
+1506	2	Action	Thriller
+1507	3	Adventure	Comedy	Family
+1508	3	Drama	Romance	Sport
+1509	2	Drama	Romance
+1510	2	Drama	Romance
+1511	4	Drama	Romance	Sci-Fi	Thriller
+1512	1	Comedy
+1513	1	Drama
+1514	1	Drama
+1515	2	Biography	Drama
+1516	4	Action	Crime	Horror	Thriller
+1517	3	Drama	History	Thriller
+1518	5	Action	Adventure	Drama	Sci-Fi	Thriller
+1519	4	Action	Crime	Drama	Thriller
+1520	3	Drama	Fantasy	Horror
+1521	3	Animation	Comedy	Musical
+1522	4	Action	Crime	Fantasy	Thriller
+1523	2	Comedy	Romance
+1524	3	Action	Drama	War
+1525	3	Comedy	Drama	Romance
+1526	3	Action	Crime	Thriller
+1527	3	Comedy	Drama	Romance
+1528	3	Drama	Fantasy	Sci-Fi
+1529	4	Comedy	Drama	Music	Romance
+1530	3	Comedy	Drama	Romance
+1531	4	Action	Adventure	Horror	Thriller
+1532	3	Comedy	Drama	Sport
+1533	5	Animation	Action	Crime	Drama	Sci-Fi
+1534	2	Drama	Romance
+1535	5	Action	Comedy	Crime	Drama	Thriller
+1536	3	Comedy	Drama	Romance
+1537	2	Comedy	Romance
+1538	2	Comedy	Romance
+1539	3	Comedy	Drama	Music
+1540	2	Drama	Romance
+1541	2	Drama	War
+1542	3	Action	Comedy	Crime
+1543	2	Horror	Mystery
+1544	2	Romance	Drama
+1545	2	Drama	Romance
+1546	4	Drama	Horror	Mystery	Thriller
+1547	2	Action	Comedy
+1548	2	Comedy	Romance
+1549	3	Comedy	Drama	Mystery
+1550	2	Comedy	Romance
+1551	3	Comedy	Drama	Romance
+1552	4	Comedy	Horror	Mystery	Thriller
+1553	2	Comedy	Drama
+1554	5	Action	Adventure	Family	Fantasy	Thriller
+1555	3	Crime	Thriller	Comedy
+1556	4	Comedy	Fantasy	Music	Romance
+1557	5	Animation	Adventure	Comedy	Family	Romance
+1558	2	Action	Comedy
+1559	2	Comedy	Romance
+1560	2	Drama	Sport
+1561	1	Drama
+1562	2	Drama	Romance
+1563	6	Action	Adventure	Drama	Horror	Sci-Fi	Thriller
+1564	2	Comedy	Crime
+1565	4	Comedy	Family	Fantasy	Romance
+1566	2	Comedy	Music
+1567	5	Action	Crime	Drama	Mystery	Thriller
+1568	1	Comedy
+1569	4	Action	Adventure	Family	Thriller
+1570	3	Action	Drama	War
+1571	2	Sci-Fi	Thriller
+1572	2	Comedy	Sport
+1573	4	Comedy	Drama	Music	War
+1574	3	Drama	History	War
+1575	5	Adventure	Comedy	Drama	Family	Romance
+1576	4	Animation	Comedy	Drama	Musical
+1577	2	Horror	Thriller
+1578	4	Action	Comedy	Crime	Thriller
+1579	2	Drama	Adventure
+1580	3	Comedy	Drama	Romance
+1581	2	Comedy	Drama
+1582	2	Drama	Romance
+1583	1	Drama
+1584	3	Comedy	Romance	Thriller
+1585	5	Adventure	Comedy	Crime	Drama	Family
+1586	3	Comedy	Drama	Romance
+1587	1	Comedy
+1588	2	Comedy	Romance
+1589	3	Action	Fantasy	Sci-Fi
+1590	2	Comedy	Romance
+1591	2	Family	Comedy
+1592	2	Drama	Romance
+1593	1	Drama
+1594	4	Comedy	Drama	Mystery	Romance
+1595	2	Drama	Romance
+1596	4	Comedy	Crime	Drama	Thriller
+1597	4	Comedy	Drama	Fantasy	Romance
+1598	4	Biography	Comedy	Drama	Sport
+1599	2	Comedy	Drama
+1600	1	Comedy
+1601	3	Adventure	Comedy	Drama
+1602	5	Animation	Comedy	Family	Fantasy	Music
+1603	2	Comedy	Romance
+1604	2	Drama	Romance
+1605	4	Biography	Drama	Music	Musical
+1606	2	Drama	Romance
+1607	3	Biography	Drama	Music
+1608	5	Action	Adventure	Family	Sci-Fi	Thriller
+1609	2	Comedy	Romance
+1610	1	Comedy
+1611	4	Action	Adventure	Horror	Thriller
+1612	2	Drama	Music
+1613	2	Comedy	Drama
+1614	3	Adventure	Family	Fantasy
+1615	2	Comedy	Crime
+1616	3	Crime	Drama	Thriller
+1617	2	Comedy	Family
+1618	3	Crime	Drama	Thriller
+1619	3	Adventure	Horror	Thriller
+1620	2	Drama	Sport
+1621	4	Animation	Action	Sci-Fi	Thriller
+1622	3	Adventure	Drama	Family
+1623	3	Drama	Horror	Thriller
+1624	3	Action	Horror	Thriller
+1625	3	Action	Adventure	Thriller
+1626	1	Drama
+1627	2	Comedy	Drama
+1628	2	Comedy	Drama
+1629	4	Comedy	Family	Fantasy	Adventure
+1630	3	Adventure	Sci-Fi	Thriller
+1631	2	Crime	Thriller
+1632	3	Drama	Horror	Thriller
+1633	3	Action	Adventure	Thriller
+1634	4	Action	Adventure	Comedy	Crime
+1635	5	Biography	Crime	Drama	History	Thriller
+1636	3	Crime	Romance	Thriller
+1637	3	Action	Crime	Thriller
+1638	5	Animation	Action	Adventure	Comedy	Family
+1639	4	Drama	Mystery	Sci-Fi	Thriller
+1640	4	Action	Adventure	Sci-Fi	Thriller
+1641	5	Action	Crime	Drama	Romance	Thriller
+1642	4	Action	Crime	Drama	Thriller
+1643	1	Drama
+1644	4	Action	Adventure	Sci-Fi	Thriller
+1645	2	Comedy	Romance
+1646	3	Action	Comedy	Sci-Fi
+1647	4	Comedy	Drama	Music	Romance
+1648	3	Action	Adventure	Thriller
+1649	4	Action	Adventure	Comedy	Crime
+1650	3	Comedy	Romance	Drama
+1651	3	Horror	Mystery	Thriller
+1652	3	Horror	Mystery	Thriller
+1653	2	Comedy	Drama
+1654	2	Drama	Mystery
+1655	3	Drama	Mystery	Thriller
+1656	1	Comedy
+1657	1	Drama
+1658	4	Action	Drama	History	War
+1659	3	Drama	Horror	Thriller
+1660	4	Action	Comedy	Fantasy	Horror
+1661	3	Drama	Fantasy	Romance
+1662	3	Comedy	Drama	Family
+1663	4	Action	Crime	Drama	Thriller
+1664	3	Adventure	Comedy	Western
+1665	2	Action	Western
+1666	2	Comedy	Romance
+1667	3	Comedy	Drama	Romance
+1668	2	Horror	Thriller
+1669	1	Drama
+1670	5	Action	Comedy	Crime	Drama	Thriller
+1671	2	Comedy	Sport
+1672	3	Drama	Mystery	Thriller
+1673	2	Thriller	Drama
+1674	3	Biography	Crime	Drama
+1675	4	Action	Comedy	Family	Sport
+1676	2	Comedy	Drama
+1677	2	Comedy	Drama
+1678	2	Comedy	Romance
+1679	2	Adventure	Drama
+1680	3	Comedy	Drama	Romance
+1681	1	Comedy
+1682	2	Drama	Thriller
+1683	4	Action	Adventure	Crime	Thriller
+1684	3	Action	Comedy	Crime
+1685	4	Action	Adventure	Drama	War
+1686	3	Crime	Drama	Thriller
+1687	3	Romance	Comedy	Drama
+1688	2	Drama	War
+1689	4	Crime	Drama	Horror	Thriller
+1690	1	Comedy
+1691	4	Drama	Mystery	Sci-Fi	Thriller
+1692	4	Comedy	Drama	Family	Fantasy
+1693	3	Biography	Crime	Drama
+1694	4	Drama	History	Romance	War
+1695	2	Comedy	Romance
+1696	3	Comedy	Crime	Drama
+1697	3	Animation	Comedy	Family
+1698	2	Comedy	Crime
+1699	2	Comedy	Drama
+1700	6	Action	Adventure	Comedy	Crime	Drama	Thriller
+1701	2	Drama	Thriller
+1702	3	Comedy	Drama	Romance
+1703	4	Action	Adventure	Drama	History
+1704	3	Drama	Mystery	Thriller
+1705	4	Adventure	Drama	Fantasy	Thriller
+1706	4	Comedy	Crime	Drama	Thriller
+1707	3	Comedy	Drama	Romance
+1708	2	Drama	Romance
+1709	3	Drama	Crime	Thriller
+1710	2	Comedy	Horror
+1711	2	Drama	Romance
+1712	2	Comedy	Romance
+1713	2	Drama	Romance
+1714	3	Action	Sci-Fi	Thriller
+1715	3	Drama	Fantasy	Sci-Fi
+1716	2	Comedy	Crime
+1717	3	Action	Comedy	Romance
+1718	3	Action	Drama	War
+1719	3	Drama	Mystery	Thriller
+1720	3	Comedy	Family	Sport
+1721	1	Comedy
+1722	4	Drama	Romance	Family	Fantasy
+1723	3	Comedy	Family	Fantasy
+1724	2	Comedy	Romance
+1725	1	Drama
+1726	2	Drama	Thriller
+1727	3	Drama	Horror	Thriller
+1728	2	Drama	Romance
+1729	2	Comedy	Drama
+1730	1	Comedy
+1731	2	Comedy	Romance
+1732	3	Drama	Family	Fantasy
+1733	3	Drama	History	Western
+1734	4	Action	Fantasy	Horror	Thriller
+1735	1	Action
+1736	4	Crime	Drama	Mystery	Thriller
+1737	3	Drama	Romance	Thriller
+1738	3	Drama	Romance	Western
+1739	1	Comedy
+1740	4	Family	Comedy	Adventure	Romance
+1741	3	Adventure	Sci-Fi	Thriller
+1742	4	Drama	Horror	Thriller	Mystery
+1743	4	Action	Crime	Mystery	Thriller
+1744	2	Comedy	Drama
+1745	3	Crime	Drama	Thriller
+1746	4	Comedy	Crime	Thriller	Drama
+1747	1	Drama
+1748	2	Action	Western
+1749	4	Comedy	Musical	Adventure	Action
+1750	2	Drama	Thriller
+1751	1	Comedy
+1752	3	Comedy	Drama	Romance
+1753	5	Animation	Adventure	Family	Fantasy	Mystery
+1754	3	Drama	Romance	Comedy
+1755	4	Biography	Comedy	Drama	History
+1756	4	Comedy	Crime	Drama	Thriller
+1757	2	Horror	Thriller
+1758	3	Biography	Drama	Romance
+1759	1	Horror
+1760	2	Drama	Romance
+1761	1	Drama
+1762	2	Drama	Romance
+1763	5	Crime	Drama	Horror	Mystery	Thriller
+1764	2	Comedy	Fantasy
+1765	3	Drama	Mystery	Thriller
+1766	3	Adventure	Family	Fantasy
+1767	3	Action	Adventure	Fantasy
+1768	5	Action	Adventure	Comedy	Family	Fantasy
+1769	3	Drama	Mystery	Thriller
+1770	2	Drama	Romance
+1771	3	Comedy	Crime	Drama
+1772	3	Animation	Adventure	Fantasy
+1773	2	Comedy	Romance
+1774	3	Drama	Romance	Thriller
+1775	5	Action	Comedy	Crime	Mystery	Thriller
+1776	3	Action	Sci-Fi	Thriller
+1777	5	Crime	Drama	Romance	Sport	Thriller
+1778	5	Drama	Fantasy	Horror	Mystery	Thriller
+1779	3	Crime	Drama	Thriller
+1780	2	Comedy	Sport
+1781	2	Comedy	Romance
+1782	4	Action	Comedy	Mystery	Thriller
+1783	2	Comedy	Romance
+1784	4	Drama	Mystery	Romance	Thriller
+1785	5	Action	Comedy	Crime	Drama	Thriller
+1786	3	Comedy	Drama	Romance
+1787	4	Comedy	Drama	Horror	Thriller
+1788	1	Drama
+1789	2	Comedy	Sport
+1790	3	Biography	Drama	Music
+1791	2	Drama	Thriller
+1792	2	Comedy	Fantasy
+1793	1	Drama
+1794	2	Comedy	Romance
+1795	1	Comedy
+1796	3	Drama	Romance	Thriller
+1797	3	Comedy	Drama	Romance
+1798	3	Comedy	Drama	Sport
+1799	3	Comedy	Crime	Romance
+1800	3	Action	Thriller	Drama
+1801	3	Adventure	Comedy	Sport
+1802	2	Comedy	Romance
+1803	3	Biography	Drama	History
+1804	2	Comedy	Drama
+1805	3	Comedy	Crime	Mystery
+1806	2	Drama	Romance
+1807	3	Crime	Drama	Thriller
+1808	4	Action	Drama	History	War
+1809	3	Action	Drama	War
+1810	2	Biography	Drama
+1811	2	Action	Thriller
+1812	4	Animation	Action	Family	Sci-Fi
+1813	2	Comedy	Crime
+1814	3	Drama	Mystery	Romance
+1815	2	Drama	Romance
+1816	2	Drama	Romance
+1817	4	Comedy	Crime	Drama	Thriller
+1818	2	Comedy	Sci-Fi
+1819	3	Comedy	Drama	Romance
+1820	5	Biography	Drama	History	Music	War
+1821	4	Comedy	Drama	Family	Romance
+1822	3	Comedy	Drama	Romance
+1823	3	Horror	Action	Sci-Fi
+1824	4	Drama	Horror	Mystery	Sci-Fi
+1825	3	Horror	Mystery	Thriller
+1826	3	Action	Crime	Drama
+1827	3	Family	Adventure	Romance
+1828	3	Comedy	Musical	Fantasy
+1829	1	Drama
+1830	2	Adventure	Western
+1831	2	Drama	Music
+1832	3	Comedy	Drama	Romance
+1833	2	Comedy	Drama
+1834	3	Drama	Mystery	Romance
+1835	2	Drama	Romance
+1836	5	Action	Biography	Crime	Drama	Thriller
+1837	3	Drama	Romance	War
+1838	2	Family	Comedy
+1839	4	Drama	Horror	Mystery	Thriller
+1840	3	Biography	Drama	Music
+1841	3	Biography	Drama	Music
+1842	3	Comedy	Drama	Thriller
+1843	5	Comedy	Crime	Drama	Music	Romance
+1844	2	Comedy	Family
+1845	1	Drama
+1846	3	Biography	Drama	History
+1847	2	Action	Thriller
+1848	3	Crime	Drama	Music
+1849	3	Comedy	Romance	Drama
+1850	3	Comedy	Drama	Romance
+1851	3	Comedy	Drama	Music
+1852	4	Crime	Mystery	Sci-Fi	Thriller
+1853	3	Horror	Mystery	Thriller
+1854	2	Drama	Romance
+1855	4	Comedy	Drama	Romance	Sport
+1856	2	Drama	Thriller
+1857	4	Action	Drama	Fantasy	Romance
+1858	3	Action	Comedy	Crime
+1859	2	Comedy	Drama
+1860	5	Biography	Drama	History	Music	Romance
+1861	2	Drama	Sport
+1862	3	Adventure	Drama	Family
+1863	2	Comedy	Drama
+1864	2	Adventure	Sci-Fi
+1865	3	Comedy	Drama	Romance
+1866	5	Comedy	Drama	Family	Musical	Romance
+1867	2	Action	Drama
+1868	2	Comedy	Horror
+1869	3	Action	Horror	Thriller
+1870	4	Crime	Drama	Horror	Thriller
+1871	4	Comedy	Drama	Romance	Sport
+1872	3	Drama	Romance	Thriller
+1873	4	Comedy	Drama	Fantasy	Romance
+1874	3	Action	Comedy	Music
+1875	1	Drama
+1876	3	Action	Mystery	Thriller
+1877	5	Adventure	Comedy	Drama	Family	Sport
+1878	2	Action	Thriller
+1879	1	Drama
+1880	2	Comedy	Drama
+1881	2	Comedy	Crime
+1882	2	Comedy	Romance
+1883	3	Drama	Romance	War
+1884	4	Drama	Horror	Mystery	Thriller
+1885	3	Drama	Mystery	Thriller
+1886	3	Action	Sci-Fi	Thriller
+1887	2	Drama	Romance
+1888	1	Drama
+1889	4	Drama	Horror	War	Thriller
+1890	2	Comedy	Romance
+1891	2	Drama	Sport
+1892	3	Action	Fantasy	Thriller
+1893	4	Crime	Drama	Mystery	Thriller
+1894	1	Comedy
+1895	3	Action	Adventure	Fantasy
+1896	2	Crime	Drama
+1897	4	Animation	Fantasy	Music	Romance
+1898	4	Action	Adventure	Drama	Thriller
+1899	3	Crime	Horror	Thriller
+1900	3	Action	Drama	Thriller
+1901	5	Action	Adventure	Comedy	Crime	Thriller
+1902	1	Comedy
+1903	5	Animation	Adventure	Comedy	Family	Fantasy
+1904	5	Action	Adventure	Comedy	Mystery	Thriller
+1905	4	Crime	Drama	Mystery	Thriller
+1906	4	Drama	Mystery	Sci-Fi	Thriller
+1907	4	Comedy	Drama	Family	Romance
+1908	3	Family	Adventure	Fantasy
+1909	3	Comedy	Drama	Romance
+1910	4	Comedy	Family	Fantasy	Sport
+1911	2	Drama	Romance
+1912	3	Comedy	Drama	Romance
+1913	2	Horror	Thriller
+1914	2	Adult	Drama
+1915	4	Drama	Comedy	Crime	Thriller
+1916	2	Drama	Romance
+1917	3	Comedy	Crime	Romance
+1918	3	Adult	Drama	Romance
+1919	3	Comedy	Romance	Drama
+1920	3	Comedy	Drama	Romance
+1921	2	Drama	War
+1922	2	Comedy	Family
+1923	2	Drama	Sport
+1924	3	Drama	War	Action
+1925	3	Crime	Drama	Thriller
+1926	2	Drama	Family
+1927	2	Drama	War
+1928	2	Drama	Action
+1929	2	Drama	Romance
+1930	2	Drama	Thriller
+1931	3	Animation	Adventure	Fantasy
+1932	2	Drama	Romance
+1933	2	Drama	Romance
+1934	2	Comedy	Crime
+1935	3	Adventure	Comedy	Horror
+1936	4	Sci-Fi	Thriller	Mystery	Drama
+1937	3	Horror	Romance	Sci-Fi
+1938	2	Horror	Thriller
+1939	3	Crime	Drama	Thriller
+1940	3	Comedy	Drama	Romance
+1941	3	Comedy	Family	Sport
+1942	4	Action	Crime	Drama	Thriller
+1943	4	Drama	Horror	Mystery	Thriller
+1944	2	Comedy	Drama
+1945	3	Action	Drama	Thriller
+1946	4	Comedy	Crime	Drama	Romance
+1947	3	Comedy	Drama	Romance
+1948	4	Comedy	Crime	Musical	Mystery
+1949	4	Crime	Drama	Mystery	Thriller
+1950	3	Horror	Mystery	Thriller
+1951	3	Crime	Drama	Thriller
+1952	4	Adventure	Comedy	Drama	Family
+1953	5	Action	Crime	Drama	History	Western
+1954	2	Horror	Thriller
+1955	1	Drama
+1956	2	Comedy	Drama
+1957	2	Comedy	Crime
+1958	4	Action	Comedy	Crime	Thriller
+1959	1	Comedy
+1960	1	Comedy
+1961	4	Action	Crime	Drama	Sport
+1962	3	Horror	Thriller	Western
+1963	1	Drama
+1964	4	Action	Comedy	Drama	Thriller
+1965	3	Crime	Drama	Thriller
+1966	3	Horror	Mystery	Thriller
+1967	3	Action	Comedy	Thriller
+1968	3	Horror	Mystery	Thriller
+1969	4	Crime	Drama	Horror	Thriller
+1970	2	Drama	Romance
+1971	3	Horror	Mystery	Thriller
+1972	3	Crime	Drama	Mystery
+1973	3	Drama	Music	Romance
+1974	7	Action	Adventure	Comedy	Crime	Drama	Romance	Thriller
+1975	3	Comedy	Crime	Drama
+1976	2	Comedy	Sport
+1977	3	Biography	Drama	Romance
+1978	3	Comedy	Drama	Romance
+1979	3	Crime	Thriller	Drama
+1980	3	Comedy	Romance	Drama
+1981	2	Comedy	Thriller
+1982	4	Action	Biography	Crime	Drama
+1983	3	Comedy	Drama	Romance
+1984	1	Drama
+1985	2	Comedy	Romance
+1986	2	Drama	Thriller
+1987	1	Comedy
+1988	1	Drama
+1989	2	Comedy	Drama
+1990	2	Romance	Drama
+1991	4	Crime	Drama	History	Romance
+1992	2	Comedy	Drama
+1993	1	Drama
+1994	2	Crime	Drama
+1995	3	Adventure	Comedy	Family
+1996	2	Crime	Drama
+1997	4	Drama	Mystery	Romance	Thriller
+1998	4	Crime	Drama	Family	Sport
+1999	2	Biography	Drama

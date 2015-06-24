@@ -1,0 +1,2002 @@
+﻿university	collegetoolkit	type
+2000	2000	2000	3
+0000	1	Public
+0001	1	Public
+0002	1	Public
+0003	1	Private for-profit
+0004	1	Private not-for-profit
+0005	1	Private for-profit
+0006	1	Private not-for-profit
+0007	1	Private not-for-profit
+0008	1	Private not-for-profit
+0009	1	Private for-profit
+0010	1	Private not-for-profit
+0011	1	Private not-for-profit
+0012	1	Private not-for-profit
+0013	1	Public
+0014	1	Private not-for-profit
+0015	1	Public
+0016	1	Private for-profit
+0017	1	Public
+0018	1	Public
+0019	1	Public
+0020	1	Public
+0021	1	Public
+0022	1	Public
+0023	1	Public
+0024	1	Public
+0025	1	Public
+0026	1	Public
+0027	1	Public
+0028	1	Private for-profit
+0029	1	Private not-for-profit
+0030	1	Private for-profit
+0031	1	Public
+0032	1	Private for-profit
+0033	1	Public
+0034	1	Private for-profit
+0035	1	Private not-for-profit
+0036	1	Private not-for-profit
+0037	1	Private not-for-profit
+0038	1	Public
+0039	1	Public
+0040	1	Private for-profit
+0041	1	Private not-for-profit
+0042	1	Public
+0043	1	Public
+0044	1	Public
+0045	1	Private for-profit
+0046	1	Private for-profit
+0047	1	Public
+0048	1	Private not-for-profit
+0049	1	Private not-for-profit
+0050	1	Private not-for-profit
+0051	1	Public
+0052	1	Private not-for-profit
+0053	1	Private not-for-profit
+0054	1	Private not-for-profit
+0055	1	Private not-for-profit
+0056	1	Public
+0057	1	Private not-for-profit
+0058	1	Private not-for-profit
+0059	1	Private for-profit
+0060	1	Private for-profit
+0061	1	Private not-for-profit
+0062	1	Private for-profit
+0063	1	Private not-for-profit
+0064	1	Public
+0065	1	Public
+0066	1	Private not-for-profit
+0067	1	Public
+0068	1	Public
+0069	1	Public
+0070	1	Public
+0071	1	Public
+0072	1	Public
+0073	1	Public
+0074	1	Public
+0075	1	Public
+0076	1	Public
+0077	1	Public
+0078	1	Public
+0079	1	Private for-profit
+0080	1	Private for-profit
+0081	1	Public
+0082	1	Public
+0083	1	Public
+0084	1	Public
+0085	1	Private for-profit
+0086	1	Public
+0087	1	Public
+0088	1	Public
+0089	1	Public
+0090	1	Private for-profit
+0091	1	Private not-for-profit
+0092	1	Private for-profit
+0093	1	Private for-profit
+0094	1	Public
+0095	1	Private not-for-profit
+0096	1	Public
+0097	1	Public
+0098	1	Public
+0099	1	Public
+0100	1	Public
+0101	1	Private for-profit
+0102	1	Public
+0103	1	Public
+0104	1	Private not-for-profit
+0105	1	Private for-profit
+0106	1	Private for-profit
+0107	1	Private for-profit
+0108	1	Private not-for-profit
+0109	1	Private not-for-profit
+0110	1	Private for-profit
+0111	1	Private not-for-profit
+0112	1	Private not-for-profit
+0113	1	Private not-for-profit
+0114	1	Private not-for-profit
+0115	1	Private not-for-profit
+0116	1	Private not-for-profit
+0117	1	Private not-for-profit
+0118	1	Private not-for-profit
+0119	1	Private not-for-profit
+0120	1	Private not-for-profit
+0121	1	Private not-for-profit
+0122	1	Private for-profit
+0123	1	Private not-for-profit
+0124	1	Private not-for-profit
+0125	1	Private for-profit
+0126	1	Private for-profit
+0127	1	Private for-profit
+0128	1	Private for-profit
+0129	1	Private not-for-profit
+0130	1	Private not-for-profit
+0131	1	Private not-for-profit
+0132	1	Private not-for-profit
+0133	1	Private not-for-profit
+0134	1	Private not-for-profit
+0135	1	Private not-for-profit
+0136	1	Private not-for-profit
+0137	1	Private for-profit
+0138	1	Private not-for-profit
+0139	1	Private not-for-profit
+0140	1	Private not-for-profit
+0141	1	Public
+0142	1	Private not-for-profit
+0143	1	Private for-profit
+0144	1	Private not-for-profit
+0145	1	Private not-for-profit
+0146	1	Private not-for-profit
+0147	1	Private not-for-profit
+0148	1	Private not-for-profit
+0149	1	Public
+0150	1	Private not-for-profit
+0151	1	Private for-profit
+0152	1	Private not-for-profit
+0153	1	Private not-for-profit
+0154	1	Private not-for-profit
+0155	1	Public
+0156	1	Private for-profit
+0157	1	Private not-for-profit
+0158	1	Private not-for-profit
+0159	1	Public
+0160	1	Private for-profit
+0161	1	Private for-profit
+0162	1	Private for-profit
+0163	1	Public
+0164	1	Public
+0165	1	Public
+0166	1	Public
+0167	1	Private for-profit
+0168	1	Public
+0169	1	Private for-profit
+0170	1	Public
+0171	1	Public
+0172	1	Public
+0173	1	Public
+0174	1	Public
+0175	1	Public
+0176	1	Public
+0177	1	Public
+0178	1	Public
+0179	1	Public
+0180	1	Private for-profit
+0181	1	Private not-for-profit
+0182	1	Public
+0183	1	Public
+0184	1	Private not-for-profit
+0185	1	Public
+0186	1	Public
+0187	1	Public
+0188	1	Private for-profit
+0189	1	Public
+0190	1	Public
+0191	1	Private for-profit
+0192	1	Private for-profit
+0193	1	Private for-profit
+0194	1	Public
+0195	1	Private not-for-profit
+0196	1	Private not-for-profit
+0197	1	Private for-profit
+0198	1	Private for-profit
+0199	1	Private not-for-profit
+0200	1	Private not-for-profit
+0201	1	Private for-profit
+0202	1	Private not-for-profit
+0203	1	Private for-profit
+0204	1	Private for-profit
+0205	1	Private not-for-profit
+0206	1	Private not-for-profit
+0207	1	Private for-profit
+0208	1	Private for-profit
+0209	1	Private for-profit
+0210	1	Private not-for-profit
+0211	1	Private not-for-profit
+0212	1	Public
+0213	1	Private not-for-profit
+0214	1	Private not-for-profit
+0215	1	Private not-for-profit
+0216	1	Private not-for-profit
+0217	1	Private not-for-profit
+0218	1	Private not-for-profit
+0219	1	Private not-for-profit
+0220	1	Private not-for-profit
+0221	1	Private for-profit
+0222	1	Private for-profit
+0223	1	Private for-profit
+0224	1	Private for-profit
+0225	1	Private for-profit
+0226	1	Public
+0227	1	Public
+0228	1	Public
+0229	1	Public
+0230	1	Public
+0231	1	Public
+0232	1	Public
+0233	1	Public
+0234	1	Public
+0235	1	Public
+0236	1	Private for-profit
+0237	1	Private not-for-profit
+0238	1	Private not-for-profit
+0239	1	Private not-for-profit
+0240	1	Private not-for-profit
+0241	1	Private not-for-profit
+0242	1	Private not-for-profit
+0243	1	Private not-for-profit
+0244	1	Private not-for-profit
+0245	1	Private not-for-profit
+0246	1	Private not-for-profit
+0247	1	Private for-profit
+0248	1	Private for-profit
+0249	1	Private for-profit
+0250	1	Private for-profit
+0251	1	Private for-profit
+0252	1	Private not-for-profit
+0253	1	Private not-for-profit
+0254	1	Private not-for-profit
+0255	1	Private not-for-profit
+0256	1	Private not-for-profit
+0257	1	Private not-for-profit
+0258	1	Public
+0259	1	Public
+0260	1	Public
+0261	1	Public
+0262	1	Public
+0263	1	Public
+0264	1	Public
+0265	1	Public
+0266	1	Public
+0267	1	Public
+0268	1	Private not-for-profit
+0269	1	Private not-for-profit
+0270	1	Private not-for-profit
+0271	1	Private not-for-profit
+0272	1	Private not-for-profit
+0273	1	Private not-for-profit
+0274	1	Public
+0275	1	Private not-for-profit
+0276	1	Private not-for-profit
+0277	1	Private not-for-profit
+0278	1	Private for-profit
+0279	1	Private not-for-profit
+0280	1	Private not-for-profit
+0281	1	Private not-for-profit
+0282	1	Private not-for-profit
+0283	1	Private for-profit
+0284	1	Private not-for-profit
+0285	1	Public
+0286	1	Public
+0287	1	Private for-profit
+0288	1	Private for-profit
+0289	1	Public
+0290	1	Public
+0291	1	Public
+0292	1	Public
+0293	1	Public
+0294	1	Private for-profit
+0295	1	Public
+0296	1	Private for-profit
+0297	1	Public
+0298	1	Private not-for-profit
+0299	1	Private not-for-profit
+0300	1	Private for-profit
+0301	1	Private not-for-profit
+0302	1	Private for-profit
+0303	1	Public
+0304	1	Private not-for-profit
+0305	1	Private not-for-profit
+0306	1	Private not-for-profit
+0307	1	Private not-for-profit
+0308	1	Public
+0309	1	Private for-profit
+0310	1	Public
+0311	1	Public
+0312	1	Private for-profit
+0313	1	Private for-profit
+0314	1	Private for-profit
+0315	1	Public
+0316	1	Private for-profit
+0317	1	Public
+0318	1	Public
+0319	1	Public
+0320	1	Public
+0321	1	Public
+0322	1	Private for-profit
+0323	1	Private for-profit
+0324	1	Private for-profit
+0325	1	Private not-for-profit
+0326	1	Private not-for-profit
+0327	1	Public
+0328	1	Private for-profit
+0329	1	Private not-for-profit
+0330	1	Public
+0331	1	Public
+0332	1	Public
+0333	1	Public
+0334	1	Public
+0335	1	Private for-profit
+0336	1	Private for-profit
+0337	1	Private for-profit
+0338	1	Private for-profit
+0339	1	Public
+0340	1	Private for-profit
+0341	1	Private for-profit
+0342	1	Public
+0343	1	Private for-profit
+0344	1	Public
+0345	1	Private for-profit
+0346	1	Public
+0347	1	Public
+0348	1	Public
+0349	1	Public
+0350	1	Public
+0351	1	Public
+0352	1	Public
+0353	1	Public
+0354	1	Public
+0355	1	Public
+0356	1	Public
+0357	1	Public
+0358	1	Public
+0359	1	Public
+0360	1	Private for-profit
+0361	1	Private for-profit
+0362	1	Public
+0363	1	Private not-for-profit
+0364	1	Private not-for-profit
+0365	1	Private not-for-profit
+0366	1	Public
+0367	1	Private not-for-profit
+0368	1	Private not-for-profit
+0369	1	Public
+0370	1	Public
+0371	1	Public
+0372	1	Public
+0373	1	Private not-for-profit
+0374	1	Public
+0375	1	Private for-profit
+0376	1	Private for-profit
+0377	1	Public
+0378	1	Private not-for-profit
+0379	1	Public
+0380	1	Public
+0381	1	Public
+0382	1	Public
+0383	1	Public
+0384	1	Private for-profit
+0385	1	Private for-profit
+0386	1	Private for-profit
+0387	1	Private for-profit
+0388	1	Private for-profit
+0389	1	Private for-profit
+0390	1	Public
+0391	1	Private for-profit
+0392	1	Private for-profit
+0393	1	Private not-for-profit
+0394	1	Private for-profit
+0395	1	Private for-profit
+0396	1	Private for-profit
+0397	1	Private not-for-profit
+0398	1	Private for-profit
+0399	1	Private not-for-profit
+0400	1	Private not-for-profit
+0401	1	Private for-profit
+0402	1	Private for-profit
+0403	1	Private for-profit
+0404	1	Private not-for-profit
+0405	1	Private for-profit
+0406	1	Private for-profit
+0407	1	Private for-profit
+0408	1	Public
+0409	1	Private for-profit
+0410	1	Public
+0411	1	Public
+0412	1	Private for-profit
+0413	1	Private for-profit
+0414	1	Public
+0415	1	Public
+0416	1	Private for-profit
+0417	1	Private for-profit
+0418	1	Public
+0419	1	Public
+0420	1	Private for-profit
+0421	1	Public
+0422	1	Private not-for-profit
+0423	1	Private not-for-profit
+0424	1	Public
+0425	1	Private not-for-profit
+0426	1	Private for-profit
+0427	1	Public
+0428	1	Private not-for-profit
+0429	1	Public
+0430	1	Public
+0431	1	Public
+0432	1	Private not-for-profit
+0433	1	Public
+0434	1	Public
+0435	1	Public
+0436	1	Public
+0437	1	Public
+0438	1	Public
+0439	1	Public
+0440	1	Public
+0441	1	Public
+0442	1	Private for-profit
+0443	1	Public
+0444	1	Public
+0445	1	Private not-for-profit
+0446	1	Private not-for-profit
+0447	1	Private not-for-profit
+0448	1	Private not-for-profit
+0449	1	Private not-for-profit
+0450	1	Public
+0451	1	Private not-for-profit
+0452	1	Private not-for-profit
+0453	1	Private not-for-profit
+0454	1	Private not-for-profit
+0455	1	Private not-for-profit
+0456	1	Private not-for-profit
+0457	1	Private not-for-profit
+0458	1	Private not-for-profit
+0459	1	Private not-for-profit
+0460	1	Private not-for-profit
+0461	1	Private not-for-profit
+0462	1	Private not-for-profit
+0463	1	Private not-for-profit
+0464	1	Private not-for-profit
+0465	1	Private not-for-profit
+0466	1	Private not-for-profit
+0467	1	Private not-for-profit
+0468	1	Private not-for-profit
+0469	1	Private for-profit
+0470	1	Private not-for-profit
+0471	1	Public
+0472	1	Public
+0473	1	Public
+0474	1	Public
+0475	1	Private for-profit
+0476	1	Private for-profit
+0477	1	Private not-for-profit
+0478	1	Public
+0479	1	Public
+0480	1	Private for-profit
+0481	1	Public
+0482	1	Public
+0483	1	Private for-profit
+0484	1	Private not-for-profit
+0485	1	Public
+0486	1	Public
+0487	1	Public
+0488	1	Public
+0489	1	Public
+0490	1	Public
+0491	1	Public
+0492	1	Public
+0493	1	Private not-for-profit
+0494	1	Private not-for-profit
+0495	1	Private not-for-profit
+0496	1	Private not-for-profit
+0497	1	Private not-for-profit
+0498	1	Private not-for-profit
+0499	1	Private not-for-profit
+0500	1	Private not-for-profit
+0501	1	Private not-for-profit
+0502	1	Private not-for-profit
+0503	1	Private not-for-profit
+0504	1	Private not-for-profit
+0505	1	Private not-for-profit
+0506	1	Public
+0507	1	Private for-profit
+0508	1	Private for-profit
+0509	1	Private not-for-profit
+0510	1	Public
+0511	1	Private not-for-profit
+0512	1	Private not-for-profit
+0513	1	Public
+0514	1	Private not-for-profit
+0515	1	Private not-for-profit
+0516	1	Public
+0517	1	Private not-for-profit
+0518	1	Public
+0519	1	Public
+0520	1	Public
+0521	1	Public
+0522	1	Public
+0523	1	Private for-profit
+0524	1	Private for-profit
+0525	1	Public
+0526	1	Public
+0527	1	Public
+0528	1	Public
+0529	1	Public
+0530	1	Public
+0531	1	Public
+0532	1	Public
+0533	1	Public
+0534	1	Public
+0535	1	Private for-profit
+0536	1	Private not-for-profit
+0537	1	Private not-for-profit
+0538	1	Private for-profit
+0539	1	Private not-for-profit
+0540	1	Private for-profit
+0541	1	Private for-profit
+0542	1	Private not-for-profit
+0543	1	Private not-for-profit
+0544	1	Private not-for-profit
+0545	1	Private for-profit
+0546	1	Private for-profit
+0547	1	Private for-profit
+0548	1	Private for-profit
+0549	1	Private not-for-profit
+0550	1	Private for-profit
+0551	1	Private for-profit
+0552	1	Public
+0553	1	Private not-for-profit
+0554	1	Private not-for-profit
+0555	1	Private not-for-profit
+0556	1	Public
+0557	1	Private for-profit
+0558	1	Private not-for-profit
+0559	1	Public
+0560	1	Public
+0561	1	Private for-profit
+0562	1	Public
+0563	1	Public
+0564	1	Public
+0565	1	Public
+0566	1	Public
+0567	1	Public
+0568	1	Private for-profit
+0569	1	Public
+0570	1	Public
+0571	1	Public
+0572	1	Public
+0573	1	Public
+0574	1	Private not-for-profit
+0575	1	Private not-for-profit
+0576	1	Private not-for-profit
+0577	1	Private for-profit
+0578	1	Public
+0579	1	Public
+0580	1	Public
+0581	1	Public
+0582	1	Public
+0583	1	Public
+0584	1	Public
+0585	1	Private for-profit
+0586	1	Private not-for-profit
+0587	1	Private not-for-profit
+0588	1	Private not-for-profit
+0589	1	Private not-for-profit
+0590	1	Private not-for-profit
+0591	1	Private for-profit
+0592	1	Private not-for-profit
+0593	1	Private for-profit
+0594	1	Private not-for-profit
+0595	1	Private not-for-profit
+0596	1	Private not-for-profit
+0597	1	Private not-for-profit
+0598	1	Public
+0599	1	Private for-profit
+0600	1	Private for-profit
+0601	1	Private not-for-profit
+0602	1	Public
+0603	1	Private not-for-profit
+0604	1	Private not-for-profit
+0605	1	Private not-for-profit
+0606	1	Private not-for-profit
+0607	1	Public
+0608	1	Private for-profit
+0609	1	Private not-for-profit
+0610	1	Public
+0611	1	Private for-profit
+0612	1	Private for-profit
+0613	1	Private not-for-profit
+0614	1	Private not-for-profit
+0615	1	Private not-for-profit
+0616	1	Private not-for-profit
+0617	1	Private for-profit
+0618	1	Private not-for-profit
+0619	1	Public
+0620	1	Public
+0621	1	Public
+0622	1	Private for-profit
+0623	1	Private for-profit
+0624	1	Private not-for-profit
+0625	1	Private not-for-profit
+0626	1	Private for-profit
+0627	1	Private for-profit
+0628	1	Private for-profit
+0629	1	Private not-for-profit
+0630	1	Public
+0631	1	Private for-profit
+0632	1	Public
+0633	1	Private for-profit
+0634	1	Public
+0635	1	Public
+0636	1	Private for-profit
+0637	1	Public
+0638	1	Public
+0639	1	Public
+0640	1	Public
+0641	1	Private for-profit
+0642	1	Public
+0643	1	Private for-profit
+0644	1	Private for-profit
+0645	1	Public
+0646	1	Public
+0647	1	Private for-profit
+0648	1	Private for-profit
+0649	1	Private for-profit
+0650	1	Private for-profit
+0651	1	Private not-for-profit
+0652	1	Public
+0653	1	Public
+0654	1	Public
+0655	1	Public
+0656	1	Public
+0657	1	Public
+0658	1	Public
+0659	1	Private not-for-profit
+0660	1	Private not-for-profit
+0661	1	Private not-for-profit
+0662	1	Private not-for-profit
+0663	1	Private for-profit
+0664	1	Private for-profit
+0665	1	Private not-for-profit
+0666	1	Private not-for-profit
+0667	1	Private not-for-profit
+0668	1	Private not-for-profit
+0669	1	Private for-profit
+0670	1	Private not-for-profit
+0671	1	Public
+0672	1	Public
+0673	1	Private not-for-profit
+0674	1	Public
+0675	1	Private for-profit
+0676	1	Public
+0677	1	Public
+0678	1	Public
+0679	1	Private for-profit
+0680	1	Private for-profit
+0681	1	Public
+0682	1	Private not-for-profit
+0683	1	Private for-profit
+0684	1	Public
+0685	1	Private for-profit
+0686	1	Public
+0687	1	Private not-for-profit
+0688	1	Private not-for-profit
+0689	1	Private not-for-profit
+0690	1	Private not-for-profit
+0691	1	Private for-profit
+0692	1	Private not-for-profit
+0693	1	Private not-for-profit
+0694	1	Private not-for-profit
+0695	1	Private not-for-profit
+0696	1	Public
+0697	1	Public
+0698	1	Public
+0699	1	Private not-for-profit
+0700	1	Private not-for-profit
+0701	1	Private not-for-profit
+0702	1	Private not-for-profit
+0703	1	Private not-for-profit
+0704	1	Private not-for-profit
+0705	1	Public
+0706	1	Public
+0707	1	Public
+0708	1	Public
+0709	1	Public
+0710	1	Public
+0711	1	Private for-profit
+0712	1	Private for-profit
+0713	1	Private not-for-profit
+0714	1	Public
+0715	1	Public
+0716	1	Public
+0717	1	Public
+0718	1	Public
+0719	1	Public
+0720	1	Public
+0721	1	Public
+0722	1	Public
+0723	1	Private for-profit
+0724	1	Public
+0725	1	Public
+0726	1	Public
+0727	1	Public
+0728	1	Public
+0729	1	Private for-profit
+0730	1	Private not-for-profit
+0731	1	Private not-for-profit
+0732	1	Private for-profit
+0733	1	Private not-for-profit
+0734	1	Private not-for-profit
+0735	1	Public
+0736	1	Public
+0737	1	Public
+0738	1	Private not-for-profit
+0739	1	Private not-for-profit
+0740	1	Private not-for-profit
+0741	1	Private not-for-profit
+0742	1	Private not-for-profit
+0743	1	Public
+0744	1	Public
+0745	1	Public
+0746	1	Private for-profit
+0747	1	Public
+0748	1	Private for-profit
+0749	1	Private for-profit
+0750	1	Private for-profit
+0751	1	Public
+0752	1	Public
+0753	1	Public
+0754	1	Public
+0755	1	Private for-profit
+0756	1	Private for-profit
+0757	1	Public
+0758	1	Private not-for-profit
+0759	1	Private not-for-profit
+0760	1	Public
+0761	1	Private not-for-profit
+0762	1	Public
+0763	1	Public
+0764	1	Public
+0765	1	Public
+0766	1	Public
+0767	1	Public
+0768	1	Public
+0769	1	Private for-profit
+0770	1	Public
+0771	1	Public
+0772	1	Private not-for-profit
+0773	1	Private not-for-profit
+0774	1	Private not-for-profit
+0775	1	Private not-for-profit
+0776	1	Private not-for-profit
+0777	1	Private not-for-profit
+0778	1	Private for-profit
+0779	1	Private not-for-profit
+0780	1	Private for-profit
+0781	1	Private not-for-profit
+0782	1	Private for-profit
+0783	1	Private not-for-profit
+0784	1	Private not-for-profit
+0785	1	Private not-for-profit
+0786	1	Private not-for-profit
+0787	1	Private not-for-profit
+0788	1	Public
+0789	1	Public
+0790	1	Public
+0791	1	Public
+0792	1	Public
+0793	1	Public
+0794	1	Private not-for-profit
+0795	1	Private not-for-profit
+0796	1	Private not-for-profit
+0797	1	Private not-for-profit
+0798	1	Private not-for-profit
+0799	1	Public
+0800	1	Public
+0801	1	Private for-profit
+0802	1	Private not-for-profit
+0803	1	Private not-for-profit
+0804	1	Private not-for-profit
+0805	1	Private not-for-profit
+0806	1	Private not-for-profit
+0807	1	Private for-profit
+0808	1	Private not-for-profit
+0809	1	Private not-for-profit
+0810	1	Private not-for-profit
+0811	1	Private not-for-profit
+0812	1	Private not-for-profit
+0813	1	Private not-for-profit
+0814	1	Private not-for-profit
+0815	1	Private not-for-profit
+0816	1	Private not-for-profit
+0817	1	Private not-for-profit
+0818	1	Public
+0819	1	Private not-for-profit
+0820	1	Private not-for-profit
+0821	1	Private not-for-profit
+0822	1	Private not-for-profit
+0823	1	Private not-for-profit
+0824	1	Private not-for-profit
+0825	1	Private not-for-profit
+0826	1	Private for-profit
+0827	1	Private not-for-profit
+0828	1	Private for-profit
+0829	1	Private not-for-profit
+0830	1	Private not-for-profit
+0831	1	Private not-for-profit
+0832	1	Private not-for-profit
+0833	1	Private not-for-profit
+0834	1	Private not-for-profit
+0835	1	Private not-for-profit
+0836	1	Private not-for-profit
+0837	1	Private not-for-profit
+0838	1	Public
+0839	1	Public
+0840	1	Public
+0841	1	Public
+0842	1	Public
+0843	1	Public
+0844	1	Public
+0845	1	Public
+0846	1	Private for-profit
+0847	1	Private not-for-profit
+0848	1	Private not-for-profit
+0849	1	Private for-profit
+0850	1	Public
+0851	1	Private not-for-profit
+0852	1	Private not-for-profit
+0853	1	Public
+0854	1	Private not-for-profit
+0855	1	Private not-for-profit
+0856	1	Public
+0857	1	Private for-profit
+0858	1	Public
+0859	1	Public
+0860	1	Private not-for-profit
+0861	1	Public
+0862	1	Public
+0863	1	Public
+0864	1	Private not-for-profit
+0865	1	Public
+0866	1	Private for-profit
+0867	1	Public
+0868	1	Public
+0869	1	Public
+0870	1	Private for-profit
+0871	1	Private for-profit
+0872	1	Private for-profit
+0873	1	Public
+0874	1	Private for-profit
+0875	1	Private not-for-profit
+0876	1	Private for-profit
+0877	1	Private not-for-profit
+0878	1	Private not-for-profit
+0879	1	Public
+0880	1	Private for-profit
+0881	1	Public
+0882	1	Public
+0883	1	Private not-for-profit
+0884	1	Public
+0885	1	Private not-for-profit
+0886	1	Private not-for-profit
+0887	1	Public
+0888	1	Private for-profit
+0889	1	Public
+0890	1	Private for-profit
+0891	1	Private for-profit
+0892	1	Private not-for-profit
+0893	1	Public
+0894	1	Private for-profit
+0895	1	Private not-for-profit
+0896	1	Private not-for-profit
+0897	1	Private not-for-profit
+0898	1	Private not-for-profit
+0899	1	Private not-for-profit
+0900	1	Private not-for-profit
+0901	1	Private not-for-profit
+0902	1	Public
+0903	1	Private not-for-profit
+0904	1	Private not-for-profit
+0905	1	Private not-for-profit
+0906	1	Private for-profit
+0907	1	Private for-profit
+0908	1	Private not-for-profit
+0909	1	Private not-for-profit
+0910	1	Private not-for-profit
+0911	1	Private not-for-profit
+0912	1	Private not-for-profit
+0913	1	Private not-for-profit
+0914	1	Private not-for-profit
+0915	1	Private not-for-profit
+0916	1	Private not-for-profit
+0917	1	Private for-profit
+0918	1	Private for-profit
+0919	1	Public
+0920	1	Public
+0921	1	Private for-profit
+0922	1	Private for-profit
+0923	1	Private not-for-profit
+0924	1	Public
+0925	1	Public
+0926	1	Public
+0927	1	Public
+0928	1	Public
+0929	1	Public
+0930	1	Public
+0931	1	Public
+0932	1	Public
+0933	1	Public
+0934	1	Public
+0935	1	Public
+0936	1	Public
+0937	1	Public
+0938	1	Public
+0939	1	Private not-for-profit
+0940	1	Public
+0941	1	Public
+0942	1	Public
+0943	1	Public
+0944	1	Public
+0945	1	Public
+0946	1	Public
+0947	1	Public
+0948	1	Public
+0949	1	Public
+0950	1	Private for-profit
+0951	1	Public
+0952	1	Public
+0953	1	Public
+0954	1	Public
+0955	1	Public
+0956	1	Public
+0957	1	Public
+0958	1	Private for-profit
+0959	1	Private for-profit
+0960	1	Public
+0961	1	Public
+0962	1	Private not-for-profit
+0963	1	Private not-for-profit
+0964	1	Private not-for-profit
+0965	1	Private not-for-profit
+0966	1	Private not-for-profit
+0967	1	Private not-for-profit
+0968	1	Private for-profit
+0969	1	Private not-for-profit
+0970	1	Private not-for-profit
+0971	1	Private not-for-profit
+0972	1	Private not-for-profit
+0973	1	Private for-profit
+0974	1	Private not-for-profit
+0975	1	Private not-for-profit
+0976	1	Private not-for-profit
+0977	1	Private not-for-profit
+0978	1	Private not-for-profit
+0979	1	Private not-for-profit
+0980	1	Private not-for-profit
+0981	1	Private not-for-profit
+0982	1	Public
+0983	1	Private not-for-profit
+0984	1	Private not-for-profit
+0985	1	Public
+0986	1	Public
+0987	1	Public
+0988	1	Private not-for-profit
+0989	1	Public
+0990	1	Private not-for-profit
+0991	1	Public
+0992	1	Private not-for-profit
+0993	1	Private for-profit
+0994	1	Private not-for-profit
+0995	1	Private not-for-profit
+0996	1	Private not-for-profit
+0997	1	Private not-for-profit
+0998	1	Private not-for-profit
+0999	1	Public
+1000	1	Private for-profit
+1001	1	Private not-for-profit
+1002	1	Public
+1003	1	Private for-profit
+1004	1	Private for-profit
+1005	1	Public
+1006	1	Private for-profit
+1007	1	Private for-profit
+1008	1	Public
+1009	1	Public
+1010	1	Public
+1011	1	Public
+1012	1	Private for-profit
+1013	1	Public
+1014	1	Private for-profit
+1015	1	Public
+1016	1	Private for-profit
+1017	1	Private for-profit
+1018	1	Private for-profit
+1019	1	Private for-profit
+1020	1	Private for-profit
+1021	1	Public
+1022	1	Private for-profit
+1023	1	Private for-profit
+1024	1	Public
+1025	1	Public
+1026	1	Public
+1027	1	Private for-profit
+1028	1	Private for-profit
+1029	1	Private for-profit
+1030	1	Public
+1031	1	Public
+1032	1	Private for-profit
+1033	1	Private for-profit
+1034	1	Private for-profit
+1035	1	Private for-profit
+1036	1	Private for-profit
+1037	1	Public
+1038	1	Public
+1039	1	Private for-profit
+1040	1	Private for-profit
+1041	1	Private for-profit
+1042	1	Public
+1043	1	Private for-profit
+1044	1	Private for-profit
+1045	1	Public
+1046	1	Private for-profit
+1047	1	Public
+1048	1	Private for-profit
+1049	1	Private for-profit
+1050	1	Public
+1051	1	Public
+1052	1	Public
+1053	1	Private not-for-profit
+1054	1	Private not-for-profit
+1055	1	Public
+1056	1	Public
+1057	1	Public
+1058	1	Public
+1059	1	Private not-for-profit
+1060	1	Private not-for-profit
+1061	1	Private not-for-profit
+1062	1	Private not-for-profit
+1063	1	Public
+1064	1	Private for-profit
+1065	1	Public
+1066	1	Public
+1067	1	Public
+1068	1	Private for-profit
+1069	1	Private for-profit
+1070	1	Public
+1071	1	Public
+1072	1	Private for-profit
+1073	1	Public
+1074	1	Public
+1075	1	Private for-profit
+1076	1	Private not-for-profit
+1077	1	Private not-for-profit
+1078	1	Private for-profit
+1079	1	Private for-profit
+1080	1	Private not-for-profit
+1081	1	Private not-for-profit
+1082	1	Private not-for-profit
+1083	1	Private for-profit
+1084	1	Public
+1085	1	Private not-for-profit
+1086	1	Public
+1087	1	Private not-for-profit
+1088	1	Private not-for-profit
+1089	1	Public
+1090	1	Public
+1091	1	Public
+1092	1	Public
+1093	1	Public
+1094	1	Public
+1095	1	Public
+1096	1	Public
+1097	1	Private for-profit
+1098	1	Private not-for-profit
+1099	1	Private not-for-profit
+1100	1	Private not-for-profit
+1101	1	Public
+1102	1	Private not-for-profit
+1103	1	Private not-for-profit
+1104	1	Private not-for-profit
+1105	1	Private not-for-profit
+1106	1	Private not-for-profit
+1107	1	Public
+1108	1	Private not-for-profit
+1109	1	Public
+1110	1	Private not-for-profit
+1111	1	Private not-for-profit
+1112	1	Private not-for-profit
+1113	1	Private not-for-profit
+1114	1	Private not-for-profit
+1115	1	Private not-for-profit
+1116	1	Private not-for-profit
+1117	1	Private not-for-profit
+1118	1	Private not-for-profit
+1119	1	Private not-for-profit
+1120	1	Private not-for-profit
+1121	1	Private not-for-profit
+1122	1	Private not-for-profit
+1123	1	Private not-for-profit
+1124	1	Private not-for-profit
+1125	1	Public
+1126	1	Private not-for-profit
+1127	1	Private not-for-profit
+1128	1	Private not-for-profit
+1129	1	Private not-for-profit
+1130	1	Private not-for-profit
+1131	1	Private not-for-profit
+1132	1	Public
+1133	1	Public
+1134	1	Private not-for-profit
+1135	1	Private not-for-profit
+1136	1	Private not-for-profit
+1137	1	Private not-for-profit
+1138	1	Private not-for-profit
+1139	1	Private not-for-profit
+1140	1	Private not-for-profit
+1141	1	Private not-for-profit
+1142	1	Private not-for-profit
+1143	1	Private not-for-profit
+1144	1	Private for-profit
+1145	1	Private for-profit
+1146	1	Public
+1147	1	Private for-profit
+1148	1	Private not-for-profit
+1149	1	Private not-for-profit
+1150	1	Private not-for-profit
+1151	1	Private not-for-profit
+1152	1	Private not-for-profit
+1153	1	Private not-for-profit
+1154	1	Private not-for-profit
+1155	1	Private not-for-profit
+1156	1	Private for-profit
+1157	1	Private for-profit
+1158	1	Private for-profit
+1159	1	Private for-profit
+1160	1	Private not-for-profit
+1161	1	Private for-profit
+1162	1	Public
+1163	1	Private for-profit
+1164	1	Private for-profit
+1165	1	Private for-profit
+1166	1	Public
+1167	1	Private for-profit
+1168	1	Private for-profit
+1169	1	Private for-profit
+1170	1	Private for-profit
+1171	1	Private for-profit
+1172	1	Private not-for-profit
+1173	1	Public
+1174	1	Private for-profit
+1175	1	Private for-profit
+1176	1	Private for-profit
+1177	1	Private for-profit
+1178	1	Private not-for-profit
+1179	1	Private for-profit
+1180	1	Private not-for-profit
+1181	1	Private for-profit
+1182	1	Private for-profit
+1183	1	Private not-for-profit
+1184	1	Public
+1185	1	Private for-profit
+1186	1	Private for-profit
+1187	1	Private for-profit
+1188	1	Public
+1189	1	Private not-for-profit
+1190	1	Private for-profit
+1191	1	Private not-for-profit
+1192	1	Private for-profit
+1193	1	Public
+1194	1	Private for-profit
+1195	1	Private for-profit
+1196	1	Private for-profit
+1197	1	Private for-profit
+1198	1	Private for-profit
+1199	1	Private for-profit
+1200	1	Private for-profit
+1201	1	Private for-profit
+1202	1	Private for-profit
+1203	1	Private for-profit
+1204	1	Private not-for-profit
+1205	1	Private not-for-profit
+1206	1	Private not-for-profit
+1207	1	Private not-for-profit
+1208	1	Private not-for-profit
+1209	1	Public
+1210	1	Private for-profit
+1211	1	Private not-for-profit
+1212	1	Private not-for-profit
+1213	1	Private not-for-profit
+1214	1	Private not-for-profit
+1215	1	Private not-for-profit
+1216	1	Private for-profit
+1217	1	Private not-for-profit
+1218	1	Private for-profit
+1219	1	Private for-profit
+1220	1	Private for-profit
+1221	1	Private not-for-profit
+1222	1	Private not-for-profit
+1223	1	Private not-for-profit
+1224	1	Public
+1225	1	Public
+1226	1	Public
+1227	1	Public
+1228	1	Public
+1229	1	Public
+1230	1	Public
+1231	1	Public
+1232	1	Public
+1233	1	Private not-for-profit
+1234	1	Private not-for-profit
+1235	1	Private not-for-profit
+1236	1	Private not-for-profit
+1237	1	Private not-for-profit
+1238	1	Private not-for-profit
+1239	1	Private not-for-profit
+1240	1	Private not-for-profit
+1241	1	Private for-profit
+1242	1	Private for-profit
+1243	1	Private for-profit
+1244	1	Private not-for-profit
+1245	1	Private not-for-profit
+1246	1	Private not-for-profit
+1247	1	Private not-for-profit
+1248	1	Private not-for-profit
+1249	1	Private not-for-profit
+1250	1	Private not-for-profit
+1251	1	Private for-profit
+1252	1	Private for-profit
+1253	1	Private for-profit
+1254	1	Private for-profit
+1255	1	Private for-profit
+1256	1	Private for-profit
+1257	1	Private for-profit
+1258	1	Private not-for-profit
+1259	1	Private not-for-profit
+1260	1	Private not-for-profit
+1261	1	Private for-profit
+1262	1	Private not-for-profit
+1263	1	Private not-for-profit
+1264	1	Private not-for-profit
+1265	1	Private not-for-profit
+1266	1	Private not-for-profit
+1267	1	Private for-profit
+1268	1	Private not-for-profit
+1269	1	Private for-profit
+1270	1	Private not-for-profit
+1271	1	Private not-for-profit
+1272	1	Private not-for-profit
+1273	1	Private not-for-profit
+1274	1	Private for-profit
+1275	1	Private not-for-profit
+1276	1	Private not-for-profit
+1277	1	Private for-profit
+1278	1	Private not-for-profit
+1279	1	Private not-for-profit
+1280	1	Private not-for-profit
+1281	1	Public
+1282	1	Public
+1283	1	Public
+1284	1	Private not-for-profit
+1285	1	Public
+1286	1	Private not-for-profit
+1287	1	Private not-for-profit
+1288	1	Private not-for-profit
+1289	1	Private not-for-profit
+1290	1	Private not-for-profit
+1291	1	Private not-for-profit
+1292	1	Private not-for-profit
+1293	1	Private for-profit
+1294	1	Private for-profit
+1295	1	Private for-profit
+1296	1	Private not-for-profit
+1297	1	Private not-for-profit
+1298	1	Private not-for-profit
+1299	1	Private for-profit
+1300	1	Private for-profit
+1301	1	Public
+1302	1	Public
+1303	1	Public
+1304	1	Private for-profit
+1305	1	Private for-profit
+1306	1	Private for-profit
+1307	1	Private not-for-profit
+1308	1	Private not-for-profit
+1309	1	Private for-profit
+1310	1	Private not-for-profit
+1311	1	Private for-profit
+1312	1	Private for-profit
+1313	1	Private for-profit
+1314	1	Private not-for-profit
+1315	1	Private not-for-profit
+1316	1	Private not-for-profit
+1317	1	Private for-profit
+1318	1	Private for-profit
+1319	1	Private for-profit
+1320	1	Private for-profit
+1321	1	Public
+1322	1	Public
+1323	1	Public
+1324	1	Public
+1325	1	Public
+1326	1	Public
+1327	1	Public
+1328	1	Public
+1329	1	Public
+1330	1	Public
+1331	1	Public
+1332	1	Private not-for-profit
+1333	1	Private for-profit
+1334	1	Public
+1335	1	Public
+1336	1	Public
+1337	1	Public
+1338	1	Public
+1339	1	Public
+1340	1	Private for-profit
+1341	1	Private for-profit
+1342	1	Private for-profit
+1343	1	Private for-profit
+1344	1	Public
+1345	1	Public
+1346	1	Public
+1347	1	Public
+1348	1	Private for-profit
+1349	1	Public
+1350	1	Private for-profit
+1351	1	Private for-profit
+1352	1	Private for-profit
+1353	1	Public
+1354	1	Private for-profit
+1355	1	Public
+1356	1	Private for-profit
+1357	1	Private for-profit
+1358	1	Private for-profit
+1359	1	Private for-profit
+1360	1	Private for-profit
+1361	1	Public
+1362	1	Private for-profit
+1363	1	Public
+1364	1	Private for-profit
+1365	1	Public
+1366	1	Public
+1367	1	Private for-profit
+1368	1	Private not-for-profit
+1369	1	Public
+1370	1	Public
+1371	1	Public
+1372	1	Public
+1373	1	Public
+1374	1	Public
+1375	1	Public
+1376	1	Private for-profit
+1377	1	Public
+1378	1	Private not-for-profit
+1379	1	Public
+1380	1	Public
+1381	1	Private for-profit
+1382	1	Public
+1383	1	Private for-profit
+1384	1	Private for-profit
+1385	1	Public
+1386	1	Public
+1387	1	Public
+1388	1	Public
+1389	1	Public
+1390	1	Public
+1391	1	Private for-profit
+1392	1	Private for-profit
+1393	1	Private for-profit
+1394	1	Private for-profit
+1395	1	Private for-profit
+1396	1	Private for-profit
+1397	1	Private for-profit
+1398	1	Public
+1399	1	Public
+1400	1	Private for-profit
+1401	1	Public
+1402	1	Public
+1403	1	Public
+1404	1	Public
+1405	1	Private for-profit
+1406	1	Public
+1407	1	Private for-profit
+1408	1	Private for-profit
+1409	1	Private for-profit
+1410	1	Public
+1411	1	Public
+1412	1	Private for-profit
+1413	1	Private for-profit
+1414	1	Private for-profit
+1415	1	Private for-profit
+1416	1	Private for-profit
+1417	1	Private for-profit
+1418	1	Private for-profit
+1419	1	Public
+1420	1	Private not-for-profit
+1421	1	Private not-for-profit
+1422	1	Private not-for-profit
+1423	1	Private not-for-profit
+1424	1	Private for-profit
+1425	1	Private not-for-profit
+1426	1	Private not-for-profit
+1427	1	Private not-for-profit
+1428	1	Private not-for-profit
+1429	1	Private for-profit
+1430	1	Public
+1431	1	Private not-for-profit
+1432	1	Private not-for-profit
+1433	1	Private not-for-profit
+1434	1	Private not-for-profit
+1435	1	Private not-for-profit
+1436	1	Private for-profit
+1437	1	Private not-for-profit
+1438	1	Public
+1439	1	Public
+1440	1	Private for-profit
+1441	1	Private for-profit
+1442	1	Public
+1443	1	Private for-profit
+1444	1	Public
+1445	1	Public
+1446	1	Public
+1447	1	Private not-for-profit
+1448	1	Public
+1449	1	Public
+1450	1	Public
+1451	1	Public
+1452	1	Public
+1453	1	Public
+1454	1	Private for-profit
+1455	1	Public
+1456	1	Private not-for-profit
+1457	1	Private for-profit
+1458	1	Private not-for-profit
+1459	1	Public
+1460	1	Public
+1461	1	Private not-for-profit
+1462	1	Public
+1463	1	Public
+1464	1	Public
+1465	1	Public
+1466	1	Private not-for-profit
+1467	1	Private for-profit
+1468	1	Private not-for-profit
+1469	1	Private not-for-profit
+1470	1	Private not-for-profit
+1471	1	Private not-for-profit
+1472	1	Private for-profit
+1473	1	Private for-profit
+1474	1	Private for-profit
+1475	1	Private not-for-profit
+1476	1	Private not-for-profit
+1477	1	Private not-for-profit
+1478	1	Private not-for-profit
+1479	1	Public
+1480	1	Private not-for-profit
+1481	1	Private not-for-profit
+1482	1	Public
+1483	1	Private not-for-profit
+1484	1	Private not-for-profit
+1485	1	Private for-profit
+1486	1	Private for-profit
+1487	1	Private not-for-profit
+1488	1	Private not-for-profit
+1489	1	Public
+1490	1	Private for-profit
+1491	1	Private for-profit
+1492	1	Public
+1493	1	Private for-profit
+1494	1	Public
+1495	1	Private for-profit
+1496	1	Private for-profit
+1497	1	Private for-profit
+1498	1	Private for-profit
+1499	1	Public
+1500	1	Public
+1501	1	Private for-profit
+1502	1	Public
+1503	1	Public
+1504	1	Public
+1505	1	Public
+1506	1	Private not-for-profit
+1507	1	Private not-for-profit
+1508	1	Private for-profit
+1509	1	Private for-profit
+1510	1	Private for-profit
+1511	1	Public
+1512	1	Private for-profit
+1513	1	Private not-for-profit
+1514	1	Private not-for-profit
+1515	1	Private not-for-profit
+1516	1	Private not-for-profit
+1517	1	Public
+1518	1	Private not-for-profit
+1519	1	Private not-for-profit
+1520	1	Private not-for-profit
+1521	1	Private not-for-profit
+1522	1	Private not-for-profit
+1523	1	Private for-profit
+1524	1	Private not-for-profit
+1525	1	Private not-for-profit
+1526	1	Private not-for-profit
+1527	1	Private not-for-profit
+1528	1	Public
+1529	1	Private for-profit
+1530	1	Private not-for-profit
+1531	1	Private not-for-profit
+1532	1	Public
+1533	1	Public
+1534	1	Private not-for-profit
+1535	1	Public
+1536	1	Public
+1537	1	Public
+1538	1	Public
+1539	1	Public
+1540	1	Private not-for-profit
+1541	1	Private not-for-profit
+1542	1	Private not-for-profit
+1543	1	Private not-for-profit
+1544	1	Public
+1545	1	Public
+1546	1	Public
+1547	1	Public
+1548	1	Private for-profit
+1549	1	Public
+1550	1	Public
+1551	1	Public
+1552	1	Public
+1553	1	Public
+1554	1	Public
+1555	1	Public
+1556	1	Private not-for-profit
+1557	1	Private not-for-profit
+1558	1	Public
+1559	1	Private for-profit
+1560	1	Private for-profit
+1561	1	Private not-for-profit
+1562	1	Private not-for-profit
+1563	1	Private not-for-profit
+1564	1	Private for-profit
+1565	1	Private for-profit
+1566	1	Private for-profit
+1567	1	Private not-for-profit
+1568	1	Private for-profit
+1569	1	Private for-profit
+1570	1	Private for-profit
+1571	1	Private for-profit
+1572	1	Public
+1573	1	Public
+1574	1	Private for-profit
+1575	1	Private for-profit
+1576	1	Public
+1577	1	Public
+1578	1	Public
+1579	1	Public
+1580	1	Private not-for-profit
+1581	1	Private for-profit
+1582	1	Public
+1583	1	Public
+1584	1	Public
+1585	1	Public
+1586	1	Private for-profit
+1587	1	Private for-profit
+1588	1	Public
+1589	1	Public
+1590	1	Public
+1591	1	Public
+1592	1	Private for-profit
+1593	1	Private for-profit
+1594	1	Private for-profit
+1595	1	Private for-profit
+1596	1	Private for-profit
+1597	1	Private for-profit
+1598	1	Private for-profit
+1599	1	Private for-profit
+1600	1	Private for-profit
+1601	1	Public
+1602	1	Public
+1603	1	Private not-for-profit
+1604	1	Public
+1605	1	Public
+1606	1	Public
+1607	1	Public
+1608	1	Private for-profit
+1609	1	Private for-profit
+1610	1	Public
+1611	1	Public
+1612	1	Private for-profit
+1613	1	Private for-profit
+1614	1	Public
+1615	1	Private for-profit
+1616	1	Public
+1617	1	Public
+1618	1	Public
+1619	1	Public
+1620	1	Private for-profit
+1621	1	Private for-profit
+1622	1	Private for-profit
+1623	1	Private for-profit
+1624	1	Private for-profit
+1625	1	Public
+1626	1	Public
+1627	1	Public
+1628	1	Private for-profit
+1629	1	Public
+1630	1	Private for-profit
+1631	1	Private not-for-profit
+1632	1	Private for-profit
+1633	1	Private for-profit
+1634	1	Public
+1635	1	Private for-profit
+1636	1	Private for-profit
+1637	1	Private for-profit
+1638	1	Private for-profit
+1639	1	Private for-profit
+1640	1	Private for-profit
+1641	1	Private for-profit
+1642	1	Private not-for-profit
+1643	1	Public
+1644	1	Public
+1645	1	Private for-profit
+1646	1	Private not-for-profit
+1647	1	Public
+1648	1	Public
+1649	1	Public
+1650	1	Public
+1651	1	Private not-for-profit
+1652	1	Private not-for-profit
+1653	1	Private for-profit
+1654	1	Private not-for-profit
+1655	1	Public
+1656	1	Private not-for-profit
+1657	1	Private not-for-profit
+1658	1	Private for-profit
+1659	1	Private not-for-profit
+1660	1	Private not-for-profit
+1661	1	Private not-for-profit
+1662	1	Private for-profit
+1663	1	Private for-profit
+1664	1	Private for-profit
+1665	1	Private not-for-profit
+1666	1	Private not-for-profit
+1667	1	Private not-for-profit
+1668	1	Private not-for-profit
+1669	1	Private for-profit
+1670	1	Private for-profit
+1671	1	Private for-profit
+1672	1	Private not-for-profit
+1673	1	Private not-for-profit
+1674	1	Public
+1675	1	Private not-for-profit
+1676	1	Private for-profit
+1677	1	Private for-profit
+1678	1	Private not-for-profit
+1679	1	Private not-for-profit
+1680	1	Private for-profit
+1681	1	Public
+1682	1	Private for-profit
+1683	1	Private for-profit
+1684	1	Private for-profit
+1685	1	Private for-profit
+1686	1	Public
+1687	1	Private for-profit
+1688	1	Private for-profit
+1689	1	Private for-profit
+1690	1	Public
+1691	1	Private for-profit
+1692	1	Public
+1693	1	Public
+1694	1	Public
+1695	1	Public
+1696	1	Public
+1697	1	Public
+1698	1	Private not-for-profit
+1699	1	Private not-for-profit
+1700	1	Public
+1701	1	Private not-for-profit
+1702	1	Private not-for-profit
+1703	1	Private not-for-profit
+1704	1	Private for-profit
+1705	1	Private for-profit
+1706	1	Private for-profit
+1707	1	Private for-profit
+1708	1	Public
+1709	1	Private not-for-profit
+1710	1	Private for-profit
+1711	1	Private not-for-profit
+1712	1	Private not-for-profit
+1713	1	Public
+1714	1	Private for-profit
+1715	1	Private not-for-profit
+1716	1	Public
+1717	1	Private not-for-profit
+1718	1	Private for-profit
+1719	1	Public
+1720	1	Public
+1721	1	Public
+1722	1	Public
+1723	1	Public
+1724	1	Private for-profit
+1725	1	Private for-profit
+1726	1	Public
+1727	1	Public
+1728	1	Private for-profit
+1729	1	Public
+1730	1	Public
+1731	1	Public
+1732	1	Public
+1733	1	Public
+1734	1	Public
+1735	1	Public
+1736	1	Private not-for-profit
+1737	1	Private for-profit
+1738	1	Private not-for-profit
+1739	1	Public
+1740	1	Public
+1741	1	Private for-profit
+1742	1	Public
+1743	1	Public
+1744	1	Public
+1745	1	Public
+1746	1	Private for-profit
+1747	1	Public
+1748	1	Public
+1749	1	Private for-profit
+1750	1	Private for-profit
+1751	1	Public
+1752	1	Private not-for-profit
+1753	1	Private for-profit
+1754	1	Private for-profit
+1755	1	Private not-for-profit
+1756	1	Private for-profit
+1757	1	Private for-profit
+1758	1	Private for-profit
+1759	1	Private not-for-profit
+1760	1	Private for-profit
+1761	1	Private not-for-profit
+1762	1	Private for-profit
+1763	1	Private not-for-profit
+1764	1	Private not-for-profit
+1765	1	Private not-for-profit
+1766	1	Private not-for-profit
+1767	1	Private not-for-profit
+1768	1	Private not-for-profit
+1769	1	Private not-for-profit
+1770	1	Private not-for-profit
+1771	1	Private for-profit
+1772	1	Public
+1773	1	Public
+1774	1	Public
+1775	1	Public
+1776	1	Private not-for-profit
+1777	1	Private not-for-profit
+1778	1	Public
+1779	1	Public
+1780	1	Public
+1781	1	Public
+1782	1	Public
+1783	1	Public
+1784	1	Public
+1785	1	Public
+1786	1	Private for-profit
+1787	1	Private not-for-profit
+1788	1	Private not-for-profit
+1789	1	Public
+1790	1	Private for-profit
+1791	1	Public
+1792	1	Private not-for-profit
+1793	1	Private not-for-profit
+1794	1	Private for-profit
+1795	1	Private not-for-profit
+1796	1	Private for-profit
+1797	1	Private for-profit
+1798	1	Private not-for-profit
+1799	1	Private for-profit
+1800	1	Private for-profit
+1801	1	Public
+1802	1	Private not-for-profit
+1803	1	Public
+1804	1	Public
+1805	1	Private for-profit
+1806	1	Public
+1807	1	Private for-profit
+1808	1	Public
+1809	1	Private for-profit
+1810	1	Public
+1811	1	Private for-profit
+1812	1	Private for-profit
+1813	1	Private for-profit
+1814	1	Private for-profit
+1815	1	Private for-profit
+1816	1	Private for-profit
+1817	1	Private for-profit
+1818	1	Public
+1819	1	Public
+1820	1	Public
+1821	1	Public
+1822	1	Private for-profit
+1823	1	Private for-profit
+1824	1	Public
+1825	1	Public
+1826	1	Public
+1827	1	Public
+1828	1	Private for-profit
+1829	1	Private not-for-profit
+1830	1	Public
+1831	1	Private not-for-profit
+1832	1	Private not-for-profit
+1833	1	Private not-for-profit
+1834	1	Public
+1835	1	Private not-for-profit
+1836	1	Public
+1837	1	Private not-for-profit
+1838	1	Private not-for-profit
+1839	1	Private not-for-profit
+1840	1	Private not-for-profit
+1841	1	Private not-for-profit
+1842	1	Private not-for-profit
+1843	1	Private not-for-profit
+1844	1	Private not-for-profit
+1845	1	Private not-for-profit
+1846	1	Private not-for-profit
+1847	1	Private not-for-profit
+1848	1	Private not-for-profit
+1849	1	Private not-for-profit
+1850	1	Private for-profit
+1851	1	Public
+1852	1	Public
+1853	1	Public
+1854	1	Public
+1855	1	Public
+1856	1	Public
+1857	1	Public
+1858	1	Private not-for-profit
+1859	1	Private not-for-profit
+1860	1	Private for-profit
+1861	1	Private for-profit
+1862	1	Private not-for-profit
+1863	1	Private for-profit
+1864	1	Private for-profit
+1865	1	Public
+1866	1	Private not-for-profit
+1867	1	Public
+1868	1	Public
+1869	1	Public
+1870	1	Private not-for-profit
+1871	1	Private not-for-profit
+1872	1	Private not-for-profit
+1873	1	Private for-profit
+1874	1	Private for-profit
+1875	1	Private not-for-profit
+1876	1	Public
+1877	1	Private not-for-profit
+1878	1	Public
+1879	1	Private not-for-profit
+1880	1	Public
+1881	1	Private not-for-profit
+1882	1	Public
+1883	1	Public
+1884	1	Private for-profit
+1885	1	Public
+1886	1	Public
+1887	1	Public
+1888	1	Public
+1889	1	Public
+1890	1	Public
+1891	1	Private not-for-profit
+1892	1	Private not-for-profit
+1893	1	Private not-for-profit
+1894	1	Private not-for-profit
+1895	1	Public
+1896	1	Public
+1897	1	Public
+1898	1	Private not-for-profit
+1899	1	Private for-profit
+1900	1	Public
+1901	1	Private not-for-profit
+1902	1	Private for-profit
+1903	1	Private not-for-profit
+1904	1	Private not-for-profit
+1905	1	Private not-for-profit
+1906	1	Private not-for-profit
+1907	1	Private not-for-profit
+1908	1	Public
+1909	1	Private not-for-profit
+1910	1	Private for-profit
+1911	1	Private not-for-profit
+1912	1	Private not-for-profit
+1913	1	Private for-profit
+1914	1	Private for-profit
+1915	1	Private not-for-profit
+1916	1	Private for-profit
+1917	1	Private for-profit
+1918	1	Private for-profit
+1919	1	Private for-profit
+1920	1	Private for-profit
+1921	1	Private for-profit
+1922	1	Public
+1923	1	Private for-profit
+1924	1	Private not-for-profit
+1925	1	Private for-profit
+1926	1	Private not-for-profit
+1927	1	Private not-for-profit
+1928	1	Private for-profit
+1929	1	Private not-for-profit
+1930	1	Private not-for-profit
+1931	1	Private for-profit
+1932	1	Private for-profit
+1933	1	Private for-profit
+1934	1	Private not-for-profit
+1935	1	Private not-for-profit
+1936	1	Private for-profit
+1937	1	Private not-for-profit
+1938	1	Public
+1939	1	Private not-for-profit
+1940	1	Private not-for-profit
+1941	1	Private for-profit
+1942	1	Private for-profit
+1943	1	Private for-profit
+1944	1	Private not-for-profit
+1945	1	Private not-for-profit
+1946	1	Private for-profit
+1947	1	Private for-profit
+1948	1	Private for-profit
+1949	1	Private not-for-profit
+1950	1	Public
+1951	1	Private not-for-profit
+1952	1	Private not-for-profit
+1953	1	Private not-for-profit
+1954	1	Private for-profit
+1955	1	Private for-profit
+1956	1	Public
+1957	1	Private not-for-profit
+1958	1	Private not-for-profit
+1959	1	Private not-for-profit
+1960	1	Private for-profit
+1961	1	Private for-profit
+1962	1	Private for-profit
+1963	1	Private for-profit
+1964	1	Public
+1965	1	Private for-profit
+1966	1	Private for-profit
+1967	1	Private for-profit
+1968	1	Private for-profit
+1969	1	Private for-profit
+1970	1	Private for-profit
+1971	1	Private for-profit
+1972	1	Private for-profit
+1973	1	Private for-profit
+1974	1	Private for-profit
+1975	1	Private for-profit
+1976	1	Private for-profit
+1977	1	Public
+1978	1	Private for-profit
+1979	1	Private for-profit
+1980	1	Private for-profit
+1981	1	Private for-profit
+1982	1	Public
+1983	1	Private for-profit
+1984	1	Public
+1985	1	Private for-profit
+1986	1	Private for-profit
+1987	1	Public
+1988	1	Public
+1989	1	Private for-profit
+1990	1	Private for-profit
+1991	1	Private for-profit
+1992	1	Private for-profit
+1993	1	Public
+1994	1	Public
+1995	1	Private for-profit
+1996	1	Public
+1997	1	Public
+1998	1	Private for-profit
+1999	1	Public

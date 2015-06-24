@@ -1,0 +1,2002 @@
+﻿movie	amctv	director
+2000	1980	2199	1280
+0000	1	Roy Hill
+0001	1	Leone
+0002	1	Lean
+0003	1	Wise
+0004	1	Nichols
+0005	1	Kubrick
+0006	1	Young
+0007	1	Lean
+0008	1	Kubrick
+0009	1	Polanski
+0010	1	Peckinpah
+0011	1	Spielberg
+0012	1	Lucas
+0013	1	Ford Coppola
+0014	1	G. Avildsen
+0015	1	Landis
+0016	1	Brooks
+0017	1	J. Schaffner
+0018	1	Roy Hill
+0019	1	Polanski
+0020	1	Friedkin
+0021	1	Altman
+0022	1	Lumet
+0023	1	Badham
+0024	2	Allen	Guillermin
+0025	1	Benton
+0026	1	Spielberg
+0027	1	Scott
+0028	1	Scott
+0029	1	Hackford
+0030	1	Lyne
+0031	1	Kasdan
+0032	1	Gordon
+0033	1	Tarantino
+0034	1	Scorsese
+0035	1	Spielberg
+0036	1	Lasseter
+0037	1	Eastwood
+0038	1	. Night Shyamalan
+0039	1	Wachowski
+0040	1	Mendes
+0041	1	Hanson
+0042	1	Demme
+0043	1	Underwood
+0044	1	Nolan
+0045	1	Coen
+0046	2	Jenson	Adamson
+0047	1	Docter
+0048	1	Stanton
+0049	1	Cameron
+0050	1	Columbus
+0051	1	Boyle
+0052	1	Polanski
+0053	1	Crowe
+0054	1	Aronofsky
+0055	1	Jacquet
+0056	1	Coppola
+0057	1	Lee
+0058	1	Fleming
+0059	1	Hughes
+0060	1	Wilder
+0061	1	Chaplin
+0062	1	Spielberg
+0063	1	Forman
+0064	1	Lean
+0065	1	Hitchcock
+0066	1	Kazan
+0067	1	Kubrick
+0068	12	Disney	Sharpsteen	Jackson	Pearce	Hand	de Maris	Richard	Creedon	Ann Blank	Smith	Morey	Cottrell
+0069	1	Huston
+0070	1	Capra
+0071	16	Disney	. Hee	Wright	Sharpsteen	Roberts	Jackson	Armstrong	Satterfield	Luske	Heid	I. Beebe	Algar	Handley	Majolie	Heath	Moberly-Holland
+0072	1	Hawks
+0073	1	Chaplin
+0074	2	Curtiz	MacMullan
+0075	1	Hawks
+0076	2	Wellman	Conway
+0077	1	Bacon
+0078	1	Lubitsch
+0079	1	Altman
+0080	1	Brooks
+0081	1	Woo
+0082	1	Leone
+0083	1	Huston
+0084	1	. Lee Thompson
+0085	1	Sturges
+0086	1	Brooks
+0087	1	Boorman
+0088	1	Coen
+0089	1	Reed
+0090	1	Carpenter
+0091	1	Anderson
+0092	1	Heckerling
+0093	1	Campion
+0094	1	J. Schaffner
+0095	1	Hamilton
+0096	1	Donaldson
+0097	1	Gilbert
+0098	1	Glen
+0099	1	Hamilton
+0100	1	Deutch
+0101	1	Cassavetes
+0102	1	Lean
+0103	1	Preminger
+0104	1	Kazan
+0105	1	Hyams
+0106	1	Tarkovsky
+0107	1	Cimino
+0108	1	Malick
+0109	1	Lang
+0110	1	Buñuel
+0111	1	Polanski
+0112	1	Bergman
+0113	1	Cukor
+0114	1	Lee
+0115	1	Stevens
+0116	1	Allen
+0117	1	Ashby
+0118	1	Malle
+0119	1	Ford Coppola
+0120	1	Malle
+0121	1	Gaup
+0122	1	L. Brooks
+0123	1	Forman
+0124	1	Wise
+0125	1	Lin
+0126	1	Carroll
+0127	1	Kirtman
+0128	1	Cameron
+0129	1	de Bont
+0130	1	Cameron
+0131	1	Girdler
+0132	1	De Palma
+0133	1	Helgeland
+0134	1	Landis
+0135	1	Scorsese
+0136	1	Scorsese
+0137	1	-Jacques Annaud
+0138	1	Frears
+0139	1	De Palma
+0140	1	Huston
+0141	1	Walsh
+0142	1	Huston
+0143	1	Lumet
+0144	1	Yates
+0145	1	Soderbergh
+0146	1	Schlesinger
+0147	1	McBride
+0148	1	Walsh
+0149	1	Kleiser
+0150	1	Wise
+0151	1	J. Pakula
+0152	1	Cates
+0153	1	Benton
+0154	1	Jewison
+0155	1	Zinnemann
+0156	1	Allen
+0157	1	Benton
+0158	1	Pollack
+0159	1	Zemeckis
+0160	1	Reiner
+0161	1	Reitman
+0162	1	Stillman
+0163	1	Coolidge
+0164	1	Arkush
+0165	1	Landis
+0166	1	Itami
+0167	1	Rash
+0168	1	Byrum
+0169	1	Michael Paul
+0170	1	Anderson
+0171	1	Hughes
+0172	1	Spielberg
+0173	1	Sears
+0174	1	Couturie
+0175	1	Yates
+0176	1	Allen
+0177	1	Allen
+0178	1	Weir
+0179	1	Stone
+0180	1	Mamet
+0181	1	Verhoeven
+0182	1	McTiernan
+0183	1	Kaplan
+0184	1	Scorsese
+0185	1	Soderbergh
+0186	1	Frears
+0187	1	Kaufman
+0188	1	Mazursky
+0189	1	Greenaway
+0190	1	DeVito
+0191	1	Altman
+0192	1	Stone
+0193	1	Levinson
+0194	1	Linklater
+0195	1	Kasdan
+0196	1	Burnett
+0197	1	Huston
+0198	1	Allen
+0199	1	Tarantino
+0200	1	Tarantino
+0201	1	Zwick
+0202	1	Malick
+0203	1	Meyers
+0204	1	Howard
+0205	1	Ashby
+0206	1	Ritt
+0207	1	J. Furie
+0208	2	Friedman	Epstein
+0209	1	Unkrich
+0210	2	Lasseter	Stanton
+0211	1	Bird
+0212	2	Park	Lord
+0213	1	Spielberg
+0214	1	Caton-Jones
+0215	1	Donner
+0216	1	Parker
+0217	1	Zucker
+0218	1	Medak
+0219	1	LaLoggia
+0220	1	Baird
+0221	1	B. Woods
+0222	1	Wachowski
+0223	1	Spielberg
+0224	1	Besson
+0225	1	Proyas
+0226	1	Bigelow
+0227	1	Amenábar
+0228	1	Lee
+0229	1	Coppola
+0230	1	Kelly
+0231	1	Egoyan
+0232	1	Hark
+0233	1	Cameron
+0234	1	Ballard
+0235	1	Tamahori
+0236	1	Demme
+0237	1	Demme
+0238	1	Schnabel
+0239	1	Schrader
+0240	1	McCarey
+0241	1	Jackson
+0242	1	Gilbert
+0243	1	Reiner
+0244	1	MacKendrick
+0245	1	Nolan
+0246	1	Snyder
+0247	1	Shelton
+0248	1	Hood
+0249	1	Petersen
+0250	2	Oz	Henson
+0251	1	Scott
+0252	1	Howard
+0253	1	Lee
+0254	1	Chaffey
+0255	1	Newell
+0256	1	Pimental
+0257	1	Sebast
+0258	1	Lima
+0259	0	<NULL>
+0260	1	Coen
+0261	1	Lee Jones
+0262	1	Siegel
+0263	1	Raimi
+0264	1	Hill
+0265	2	Mackay	Krevoy
+0266	3	Asbury	Vernon	Adamson
+0267	1	Miyazaki
+0268	1	Howard
+0269	2	Miller	Lord
+0270	2	Saldanha	Wedge
+0271	1	Badham
+0272	1	Tsirbas
+0273	1	Lynch
+0274	1	Lucas
+0275	1	Tamahori
+0276	1	Forster
+0277	1	.J. Abrams
+0278	1	Farrelly
+0279	1	Oz
+0280	1	Weitz
+0281	1	Edwards
+0282	2	Wierzbianski	Kent
+0283	1	Soderbergh
+0284	1	Maté
+0285	1	L. Mankiewicz
+0286	1	.J. Caruso
+0287	1	Lynch
+0288	1	Gilliam
+0289	1	DeVito
+0290	1	Donner
+0291	1	Roeg
+0292	1	Ray
+0293	1	Meirelles
+0294	1	Nair
+0295	1	Holland
+0296	1	Thomas Anderson
+0297	1	Brooks
+0298	1	Forster
+0299	1	August
+0300	1	Zemeckis
+0301	1	Schatzberg
+0302	1	Perrin
+0303	1	Uys
+0304	1	Linklater
+0305	1	Zwigoff
+0306	1	Tucker
+0307	1	Wenders
+0308	1	Almodóvar
+0309	1	Egoyan
+0310	1	Egoyan
+0311	1	Stevens
+0312	1	Scorsese
+0313	1	Frears
+0314	1	Moore
+0315	1	Davis
+0316	1	Rosenthal
+0317	1	Edel
+0318	2	O'Grady	Allison
+0319	1	Preminger
+0320	1	Fleming
+0321	1	Stuart
+0322	1	Seaton
+0323	1	Erman
+0324	1	Lang
+0325	1	Cohen
+0326	1	Chaplin
+0327	1	Yimou
+0328	1	Hardy
+0329	1	Bellamy
+0330	1	Ford
+0331	1	Frankenheimer
+0332	8	Wright	Roberts	Armstrong	Satterfield	Pearce	Heid	Hand	Algar
+0333	1	Jackson
+0334	1	Lang
+0335	1	Ford
+0336	1	.S. Van Dyke
+0337	6	Algar	Glebas	Hunt	Goldberg	Butoy	Brizzi
+0338	2	Dunning	Emery
+0339	1	.S. Van Dyke
+0340	1	Allen
+0341	1	Kotcheff
+0342	1	Wilder
+0343	1	-Georges Clouzot
+0344	1	Polanski
+0345	1	Lester
+0346	1	Nichols
+0347	1	Jordan
+0348	1	Kieslowski
+0349	1	Altman
+0350	1	Lubitsch
+0351	1	Brown
+0352	1	Ivory
+0353	1	Craven
+0354	1	Donner
+0355	1	Wyler
+0356	1	Brooks
+0357	1	Band
+0358	1	Coen
+0359	1	Apted
+0360	1	Fuller
+0361	1	Gaghan
+0362	3	Hark	Lam	To
+0363	1	Walsh
+0364	1	Clavell
+0365	1	Goldstone
+0366	1	Hartford-Davis
+0367	2	Garnett	D. Keen
+0368	1	Jarrold
+0369	1	Peckinpah
+0370	1	Coen
+0371	1	Demme
+0372	1	Becker
+0373	1	de Concini
+0374	1	Cukor
+0375	1	Ballard
+0376	1	August
+0377	1	Miller
+0378	1	Schlesinger
+0379	1	E. Green
+0380	1	Rash
+0381	6	Disney	Roberts	Kinney	Ferguson	Young	Geronimi
+0382	1	Stevenson
+0383	1	Carné
+0384	2	Drake	Reitman
+0385	1	Steers
+0386	1	Rose
+0387	1	Mazursky
+0388	1	Altman
+0389	1	Weir
+0390	1	Kusturica
+0391	1	Burton
+0392	1	Wellman
+0393	1	Peckinpah
+0394	1	Petersen
+0395	1	Loach
+0396	1	Gilbert
+0397	1	McTiernan
+0398	1	J. Schaffner
+0399	1	Garnett
+0400	1	Ross
+0401	1	Reitman
+0402	1	Ross
+0403	1	Petrie
+0404	1	Roy Hill
+0405	1	Pollack
+0406	1	Ray
+0407	1	Haynes
+0408	1	Jaglom
+0409	1	Schepisi
+0410	1	Bertolucci
+0411	1	Wajda
+0412	1	Malle
+0413	1	Hallström
+0414	1	Henry Kass
+0415	1	Lloyd
+0416	1	Waters
+0417	1	Trumbull
+0418	1	Dekker
+0419	1	Nimoy
+0420	1	Meyer
+0421	1	Badham
+0422	1	Brooks
+0423	1	Rich
+0424	1	Tennant
+0425	1	Cukor
+0426	1	Woo Ping
+0427	1	Young
+0428	1	Chaplin
+0429	1	Zinnemann
+0430	1	Kennedy
+0431	3	Ford	Marshall	Hathaway
+0432	1	Robson
+0433	1	Hardy
+0434	1	Zwigoff
+0435	1	Kuenne
+0436	1	Mekas
+0437	1	Dahl
+0438	1	Dmytryk
+0439	1	Minnelli
+0440	1	Wexler
+0441	1	Frankenheimer
+0442	1	Petrie
+0443	1	Edwards
+0444	1	Fellini
+0445	1	Gaup
+0446	1	Herman
+0447	1	Wise
+0448	1	Leigh
+0449	1	Ashby
+0450	1	Ivory
+0451	1	Sarafian
+0452	1	G. Avildsen
+0453	1	Mazursky
+0454	1	B. Ray
+0455	1	J. Emery
+0456	1	McTiernan
+0457	1	Ritt
+0458	1	S. Dutton
+0459	1	Winkler
+0460	1	Shelton
+0461	1	Bowers
+0462	1	Clark
+0463	1	Donner
+0464	1	Reynolds
+0465	1	Siegel
+0466	1	Marquand
+0467	1	Bertolucci
+0468	1	de Bont
+0469	1	Hunter
+0470	1	Rodriguez
+0471	1	Bigelow
+0472	1	Rosen
+0473	2	von Trotta	Schlöndorff
+0474	1	Peter Blatty
+0475	1	Badham
+0476	1	Boorman
+0477	1	Fleischer
+0478	1	Girod
+0479	1	Thomas
+0480	1	Shea
+0481	1	Otomo
+0482	1	Raimi
+0483	1	Holland
+0484	1	Raimi
+0485	1	Herzog
+0486	1	Besson
+0487	1	Walton
+0488	1	Polanski
+0489	1	Dahan
+0490	1	Gove
+0491	1	Moodysson
+0492	1	Massaro
+0493	1	Bianchi
+0494	1	Jiti Gill
+0495	1	Schumacher
+0496	1	Oz
+0497	1	Oz
+0498	1	Werner
+0499	1	Helgeland
+0500	1	Helgeland
+0501	1	Arkless
+0502	1	Rosenberg
+0503	1	Weir
+0504	1	Berri
+0505	1	Beresford
+0506	1	Besson
+0507	1	Hawks
+0508	1	Nelson
+0509	1	V. McLaglen
+0510	1	Mandel
+0511	1	Johnson
+0512	1	Robbins
+0513	1	Sluizer
+0514	1	Singer
+0515	1	-Gavras
+0516	1	Ford Coppola
+0517	1	Palcy
+0518	2	Rosenberg	Bechard
+0519	1	Peerce
+0520	1	Sayles
+0521	1	Richert
+0522	1	Russell
+0523	1	Malick
+0524	1	Newman
+0525	1	Medak
+0526	1	Zinnemann
+0527	1	Tillman, Jr.
+0528	1	Amaral
+0529	1	Tancharoen
+0530	1	Mann
+0531	1	Curtiz
+0532	1	Robson
+0533	1	Walsh
+0534	1	Irving
+0535	1	Redford
+0536	1	Benton
+0537	1	Bogdanovich
+0538	1	Yimou
+0539	1	Caton-Jones
+0540	1	Hitchcock
+0541	1	Benton
+0542	1	Rudolph
+0543	1	Cassavetes
+0544	1	Kaige
+0545	1	Ritt
+0546	2	Clements	Musker
+0547	1	Reitherman
+0548	1	Haskin
+0549	1	Chadha
+0550	1	Varda
+0551	1	Z. McLeod
+0552	1	Minghella
+0553	1	del Toro
+0554	1	Weill
+0555	1	Heckerling
+0556	1	Ritchie
+0557	1	Van Sant
+0558	1	Sollett
+0559	1	Seltzer
+0560	1	Landis
+0561	1	Ramis
+0562	1	Moore
+0563	1	Kurosawa
+0564	1	Benjamin
+0565	2	Murray	Franklin
+0566	1	Ivory
+0567	1	Gilbert
+0568	1	Terrero
+0569	1	Schatzberg
+0570	1	Gibson
+0571	1	.W. Goodwin
+0572	1	Rowe
+0573	1	Kubrick
+0574	1	Levinson
+0575	1	De Palma
+0576	1	Dante
+0577	2	McGrath	Malkasian
+0578	1	Dante
+0579	1	Cronenberg
+0580	1	Mostow
+0581	1	Bernstein
+0582	2	Kaufman	Herz
+0583	1	Koller
+0584	1	Brest
+0585	1	Young
+0586	1	Lester
+0587	1	Malle
+0588	1	Scott
+0589	1	Dmytryk
+0590	1	-Jacques Beineix
+0591	1	J. Pakula
+0592	1	Woo
+0593	1	Schepisi
+0594	1	Farrelly
+0595	1	Ashby
+0596	1	Mulligan
+0597	1	Nussbaum
+0598	1	Wadleigh
+0599	2	Maysles	Mitchell Zwerin
+0600	1	Savoca
+0601	1	Care
+0602	1	Mangold
+0603	1	Kurys
+0604	1	Leigh
+0605	1	Schroeder
+0606	1	Branagh
+0607	1	Liman
+0608	1	-Luc Godard
+0609	1	Ritt
+0610	1	Micklin Silver
+0611	1	N. Mele
+0612	1	Wrye
+0613	1	Soderbergh
+0614	1	Thomas Anderson
+0615	1	Scott
+0616	1	Cuarón
+0617	1	Lee
+0618	1	Ferrara
+0619	1	Sheridan
+0620	1	Jarman
+0621	1	Marton
+0622	1	Eastwood
+0623	1	Roberts
+0624	1	O'Connor
+0625	1	Hughes
+0626	1	Bharadwaj
+0627	1	Francis
+0628	1	Hoffman
+0629	1	Linklater
+0630	1	Singleton
+0631	1	Ross
+0632	1	Carpenter
+0633	1	Ritt
+0634	1	Reiner
+0635	1	Farrelly
+0636	1	Spielberg
+0637	1	Bird
+0638	1	Fleder
+0639	1	Rappaport
+0640	1	Mauceri
+0641	1	Campion
+0642	1	J. Pakula
+0643	1	Slesin
+0644	1	Saldanha
+0645	1	Levinson
+0646	0	<NULL>
+0647	1	Rodriguez
+0648	1	Singer
+0649	1	Reitman
+0650	2	J. Smith	Hickner
+0651	2	Park	Box
+0652	1	Johnston
+0653	1	Faiman
+0654	2	Bosher	Bedford
+0655	1	Scott
+0656	1	Miller
+0657	1	. Night Shyamalan
+0658	1	Marsh
+0659	1	Gordon Green
+0660	1	Schlesinger
+0661	1	Tolkin
+0662	1	Aaron
+0663	1	Fulci
+0664	1	Siegel
+0665	1	Norrington
+0666	1	Keighley
+0667	1	Walsh
+0668	1	Hitchcock
+0669	1	Cronenberg
+0670	1	Linklater
+0671	1	Spielberg
+0672	1	Crichton
+0673	1	Winterbottom
+0674	1	Rosi
+0675	1	Besson
+0676	2	Takei	Watanabe
+0677	1	A. Romero
+0678	1	Frankenheimer
+0679	1	De Palma
+0680	1	Cronenberg
+0681	1	Hill
+0682	1	Nichols
+0683	1	Huang
+0684	1	Higgins
+0685	1	Gordon Green
+0686	1	Ross
+0687	1	Jackson
+0688	1	Solondz
+0689	1	Woo
+0690	1	Bergman
+0691	1	Wood
+0692	1	Petersen
+0693	1	Wright
+0694	1	Ballard
+0695	1	Tolkin
+0696	1	Almodóvar
+0697	1	Szabó
+0698	1	Donen
+0699	1	Babenco
+0700	1	Kopple
+0701	1	Guest
+0702	1	Jarmusch
+0703	1	Petrie
+0704	1	Crowe
+0705	1	Hanson
+0706	1	Kraume
+0707	1	Bezucha
+0708	1	Zucker
+0709	1	Montgomery
+0710	2	Timm	Radomski
+0711	1	Vaughn
+0712	1	. Night Shyamalan
+0713	1	Berg
+0714	1	Matthies
+0715	1	L. Lester
+0716	1	J. Burke
+0717	1	Sanzel
+0718	1	Pasdar
+0719	1	Story
+0720	1	f
+0721	1	Beatty
+0722	1	Miyazaki
+0723	1	Milius
+0724	1	Logan
+0725	1	Johnston
+0726	1	Chan
+0727	1	Affleck
+0728	0	<NULL>
+0729	1	Young
+0730	1	Cronenberg
+0731	1	De Niro
+0732	1	Campbell
+0733	1	Cozzi
+0734	1	Hessler
+0735	2	Rankin, Jr.	Bass
+0736	1	Sommers
+0737	1	Weinstein
+0738	2	Walker	Blaise
+0739	2	Smith	Kammerud
+0740	2	McGrath	Darnell
+0741	2	Saldanha	Wedge
+0742	2	Rothkirch	de Rycker
+0743	1	Bluth
+0744	1	Bluth
+0745	5	Reitherman	Bluth	Stevens	Lounsbery	Kahl
+0746	1	Wells
+0747	1	McCarthy
+0748	1	Rudolph
+0749	1	Allen Smith
+0750	0	<NULL>
+0751	1	Arriaga
+0752	1	Lee Davis
+0753	1	Hynes
+0754	1	Manduke
+0755	1	Miller
+0756	1	Dahl
+0757	1	Menendez
+0758	1	Franklin
+0759	1	Mackay
+0760	1	Soderbergh
+0761	3	Letterman	Jenson	Bergeron
+0762	2	Clements	Musker
+0763	3	Jackson	Luske	Geronimi
+0764	1	Miyazaki
+0765	1	Beresford
+0766	1	Rydell
+0767	1	Izumi
+0768	0	<NULL>
+0769	1	Arkush
+0770	3	Reitherman	Luske	Geronimi
+0771	2	DeBlois	Sanders
+0772	1	Petersen
+0773	1	Acker
+0774	0	<NULL>
+0775	1	Lucas
+0776	1	Newman
+0777	1	Adamson
+0778	2	Goldman	Bluth
+0779	1	Apted
+0780	1	Woo
+0781	1	Scott
+0782	1	Hill
+0783	1	Lam
+0784	1	Fuqua
+0785	1	Liman
+0786	2	Jimenez	Steinberg
+0787	1	Marshall
+0788	1	Molinaro
+0789	1	Henson
+0790	1	.B. Rogers
+0791	1	Beshears
+0792	1	Schaffer
+0793	1	Sindell
+0794	1	Apatow
+0795	1	Segal
+0796	1	Kumble
+0797	1	Edwards
+0798	1	Derek
+0799	1	Holofcener
+0800	1	Maguire
+0801	1	Smith
+0802	1	LaBute
+0803	1	Herman-Wurmfeld
+0804	1	Goldthwait
+0805	1	Dannelly
+0806	1	Breiman
+0807	1	Wolodarsky
+0808	1	MacKenzie
+0809	1	Glazer
+0810	1	Mann
+0811	1	Foster
+0812	1	Ruspoli
+0813	1	Melendez
+0814	1	Newell
+0815	1	Berliner
+0816	1	Sonnenfeld
+0817	1	Roeg
+0818	1	Smith
+0819	1	Mandoki
+0820	1	Nair
+0821	1	Lee
+0822	1	Chadha
+0823	1	Barbash
+0824	1	Thompson
+0825	1	De Sica
+0826	1	Blake Nelson
+0827	1	Hartley
+0828	1	Coen
+0829	1	Mackenzie
+0830	1	Pollack
+0831	1	Pollack
+0832	1	Kapur
+0833	1	Quine
+0834	1	Flaherty
+0835	1	Roeg
+0836	1	Yosha
+0837	1	Lee
+0838	1	Winterbottom
+0839	2	Kaplan	Elfont
+0840	1	Cronenberg
+0841	1	Herzog
+0842	2	Kauffman	Briski
+0843	1	Gast
+0844	2	Byatt	Fothergill
+0845	1	Irving
+0846	1	Uys
+0847	1	Lewis
+0848	1	Hata
+0849	1	Wenders
+0850	1	Gilroy
+0851	1	Canosa
+0852	1	Rohmer
+0853	1	Landis
+0854	1	Haynes
+0855	1	Rafelson
+0856	1	Brooks
+0857	1	Stiller
+0858	1	Lahti
+0859	1	Potter
+0860	1	Lynch
+0861	0	<NULL>
+0862	1	Almodóvar
+0863	1	Rocco
+0864	1	Lawrence
+0865	1	Figgis
+0866	1	Katselas
+0867	1	Anders
+0868	1	Carver
+0869	1	.J. Castellaneta
+0870	1	Miller
+0871	1	Reygadas
+0872	1	Sayles
+0873	1	Shelly
+0874	1	Kirkman
+0875	1	Creadon
+0876	1	Cockburn
+0877	1	Ferguson
+0878	1	Trent
+0879	1	Wilson
+0880	1	Trenchard-Smith
+0881	1	Zagdansky
+0882	1	Russell
+0883	1	Miller
+0884	3	Kinney	Algar	Geronimi
+0885	2	Friedgen	J. Sheridan
+0886	1	Stuart
+0887	1	Zemeckis
+0888	1	Clark
+0889	1	Ferreri
+0890	1	Rivers
+0891	1	Duke
+0892	1	Ferrara
+0893	1	Read Johnson
+0894	1	Howley
+0895	1	Bakshi
+0896	1	Askin
+0897	1	Bogdanovich
+0898	2	Morgen	Burstein
+0899	1	Robbins
+0900	1	Hytner
+0901	1	von Trier
+0902	1	S. Chechik
+0903	1	Kar-Wai
+0904	1	Siegel
+0905	1	Demme
+0906	1	Benigni
+0907	1	Noonan
+0908	1	Borsos
+0909	2	Vidor	J. Brabin
+0910	1	Oshima
+0911	1	Marshall
+0912	1	Kotcheff
+0913	1	Ford Coppola
+0914	1	Cukor
+0915	1	Ford
+0916	1	Heerman
+0917	1	Mitterrand
+0918	1	McBride
+0919	1	Scorsese
+0920	1	Lang
+0921	1	Hurwitz
+0922	1	Egleson
+0923	1	O'Neil
+0924	1	Resnais
+0925	1	Hill
+0926	1	Minnelli
+0927	1	Almodóvar
+0928	1	Kieslowski
+0929	1	Pitt
+0930	1	Dwan
+0931	1	Zombie
+0932	1	Zagarino
+0933	1	Mangold
+0934	1	Payne
+0935	1	Craven
+0936	1	Moore
+0937	1	Jordan
+0938	1	Mann
+0939	1	Pialat
+0940	1	Gordon
+0941	1	Gyllenhaal
+0942	1	Stone
+0943	1	Meyer
+0944	1	Leone
+0945	2	Mudd	Florio
+0946	1	Eyres
+0947	1	Berg
+0948	1	George
+0949	1	Antonijevic
+0950	1	Bodrov
+0951	1	Winterbottom
+0952	3	O. Russell	Regan	Carlos
+0953	1	Raker Endfield
+0954	1	Donaldson
+0955	1	Zanussi
+0956	1	Huston
+0957	1	Cuarón
+0958	1	Medak
+0959	1	Becker
+0960	1	Buscemi
+0961	1	Rohmer
+0962	1	Rohmer
+0963	1	Rohmer
+0964	1	Arcand
+0965	1	Russell
+0966	1	Bellocchio
+0967	1	H. Griffith
+0968	1	Wincer
+0969	1	Ballard
+0970	1	Axel
+0971	1	Minkoff
+0972	2	Solt	Leo
+0973	2	Adidge	Abel
+0974	1	Minnelli
+0975	1	Mann
+0976	1	.C. Potter
+0977	1	Mayfield
+0978	1	Malle
+0979	1	McCullers
+0980	1	Jasenovec
+0981	1	Blitz
+0982	1	Hallström
+0983	1	Nicks
+0984	1	Thomas Anderson
+0985	1	Hannam
+0986	1	Butler
+0987	1	Fleischer
+0988	2	Miller	Ogilvie
+0989	1	Wells
+0990	1	Mazo
+0991	1	Yuen
+0992	1	Donaldson
+0993	1	Eastwood
+0994	1	-Gavras
+0995	1	Thorpe
+0996	1	Roddam
+0997	1	Demme
+0998	1	Ritt
+0999	1	Clouse
+1000	1	Hussein
+1001	1	Neame
+1002	1	Ashby
+1003	1	Davies
+1004	1	Deutch
+1005	1	Eastwood
+1006	1	W. Horne
+1007	1	Ritchie
+1008	1	Truffaut
+1009	1	Tso-chi
+1010	1	Almereyda
+1011	1	Barker
+1012	1	Morrison
+1013	1	Reynolds
+1014	1	Wenders
+1015	1	Coolidge
+1016	1	Truffaut
+1017	1	Hoffman
+1018	1	Tornatore
+1019	1	Shankman
+1020	1	Carruth
+1021	1	McCullough Sr.
+1022	1	H. Winkless
+1023	1	Kaufman
+1024	1	Imamura
+1025	2	Goldman	Bluth
+1026	1	Yukol
+1027	1	O. Sajbel
+1028	1	Woo Ping
+1029	1	Walsh
+1030	1	Kramer
+1031	1	A. Fraker
+1032	1	O'Steen
+1033	1	Eastwood
+1034	1	Johnson
+1035	2	Carreras	Holt
+1036	1	Newbrook
+1037	2	Sykes	Kirsh
+1038	1	Moore
+1039	1	Nesher
+1040	1	Wise
+1041	1	LaBute
+1042	1	Puenzo
+1043	1	Dews
+1044	1	Berg
+1045	1	Bakshi
+1046	1	Sanders
+1047	2	Grady	Ewing
+1048	1	Rydell
+1049	1	Shyer
+1050	1	Marshall
+1051	1	James
+1052	1	Kiarostami
+1053	1	Hemmings
+1054	1	Taylor
+1055	1	Russell
+1056	1	Benner
+1057	1	Yorkin
+1058	1	Imamura
+1059	1	Sidney
+1060	1	Forman
+1061	1	Annakin
+1062	1	Lambert
+1063	1	Porter
+1064	1	Roos
+1065	2	Tucci	Scott
+1066	1	Madden
+1067	1	Newell
+1068	1	Zwart
+1069	1	Petri
+1070	1	Burton
+1071	1	J. Emery
+1072	1	J. Emery
+1073	1	Eastwood
+1074	0	<NULL>
+1075	1	Capolicchio
+1076	1	Roth
+1077	1	Erman
+1078	1	Coninx
+1079	3	Poelvoorde	Bonzel	Belvaux
+1080	1	Carpenter
+1081	1	Rudolph
+1082	1	Rudolph
+1083	1	Huston
+1084	1	Shelton
+1085	1	Spottiswoode
+1086	1	Bava
+1087	1	Clark
+1088	1	Fruet
+1089	1	De Palma
+1090	1	Kelly
+1091	1	Luhrmann
+1092	1	Ross
+1093	1	Burton
+1094	1	Wise
+1095	1	Lester
+1096	2	Zucker	Abrahams
+1097	1	N. Green
+1098	1	Leterrier
+1099	1	Vila
+1100	1	McTiernan
+1101	1	Hopkins
+1102	1	Subiela
+1103	1	Layton
+1104	1	Condon
+1105	1	Forman
+1106	2	Hickenlooper	Bahr
+1107	1	Tavernier
+1108	1	Schrader
+1109	1	Harlin
+1110	1	Vignale
+1111	1	Gillard
+1112	1	Zieff
+1113	1	Medak
+1114	1	Van Peebles
+1115	1	Gutiérrez Aragón
+1116	2	Wise	Von Fritsch
+1117	1	Taviani
+1118	1	Moretti
+1119	1	L. Lester
+1120	1	Stein
+1121	1	Ferranti
+1122	1	Haft
+1123	1	Wise
+1124	1	Craven
+1125	1	McKee
+1126	1	Findlay
+1127	1	Cohen
+1128	1	Gordon
+1129	1	Duke
+1130	1	Irvin
+1131	1	Hiller
+1132	1	Herek
+1133	1	Bourla
+1134	2	McCalmont	Thomas Jones
+1135	1	Henson
+1136	2	Takamoto	A. Nichols
+1137	1	Hyams
+1138	1	Kassovitz
+1139	1	Schroeder
+1140	2	Meyer	McBride
+1141	1	Amenábar
+1142	1	Bindley
+1143	1	Segal
+1144	1	Skolnick
+1145	1	Gosse
+1146	1	Nussbaum
+1147	1	. Sean Shannon
+1148	1	Enrico
+1149	1	Scholes
+1150	1	Nichols
+1151	1	Malle
+1152	1	Wright
+1153	1	Marshall
+1154	1	Reiner
+1155	1	R. Dickerson
+1156	1	Coraci
+1157	1	Landis
+1158	1	Sherman
+1159	1	Parker
+1160	1	Jewison
+1161	1	Guédiguian
+1162	1	. Gordon Boos
+1163	1	Lee
+1164	1	Ortega
+1165	1	Mankiewicz
+1166	1	Fishman
+1167	1	Takacs
+1168	1	Parks
+1169	1	Shah
+1170	1	Sato
+1171	1	Sautet
+1172	1	Cassavetes
+1173	1	Schacter
+1174	0	<NULL>
+1175	1	Parisot
+1176	1	Kahn
+1177	1	Skjoldbjærg
+1178	1	Dante
+1179	1	.S. Cardone
+1180	1	Birkinshaw
+1181	1	D. Gilroy
+1182	1	Chan
+1183	1	Donaldson
+1184	1	Ferreri
+1185	1	Sidaris
+1186	1	Dante
+1187	1	Goren
+1188	1	Russell
+1189	1	Marshall
+1190	1	Pierson
+1191	1	Schrader
+1192	1	Roemer
+1193	1	McCowan
+1194	1	Apted
+1195	1	Levin
+1196	1	Manduke
+1197	2	R. Garrity	.S. Cardone
+1198	1	Silberg
+1199	1	A. Carlson
+1200	1	Carter
+1201	1	Henzell
+1202	1	Smith
+1203	1	Martin
+1204	1	Hytner
+1205	1	B. Harris
+1206	1	Wendkos
+1207	1	Hathaway
+1208	1	Murphy
+1209	1	Densham
+1210	1	Borzage
+1211	1	Cromwell
+1212	1	Wertmüller
+1213	1	DiCillo
+1214	1	Ross
+1215	1	Gustaff
+1216	1	Field
+1217	1	Caton-Jones
+1218	1	Alan Aurthur
+1219	1	Francis
+1220	1	Wagner
+1221	1	Rudolph
+1222	1	Rydell
+1223	1	Bilson
+1224	1	Passer
+1225	1	Wheat
+1226	1	Zhuangzhuang
+1227	1	Juran
+1228	1	McCowan
+1229	1	Trenbirth
+1230	1	Brevig
+1231	1	Maté
+1232	1	Kaufman
+1233	1	Lubin
+1234	4	Lipscott	Patton	Fisher	Atamanov
+1235	1	Lee
+1236	1	Herman
+1237	1	Hall
+1238	1	Averback
+1239	1	Forsyth
+1240	1	Kaplan
+1241	2	Beatty	Henry
+1242	1	Weitz
+1243	1	Capra
+1244	1	O'Connor
+1245	1	. Night Shyamalan
+1246	1	Davies
+1247	1	Cary
+1248	1	Reed
+1249	1	Cardoso
+1250	1	Forsyth
+1251	1	Shapiro
+1252	1	Nichols
+1253	1	Daniel
+1254	1	Barthes
+1255	1	Marks
+1256	1	Truffaut
+1257	1	Earnhart
+1258	1	Rohmer
+1259	3	Schlossberg	Potenza	Goldberg
+1260	1	Shyer
+1261	1	Raboy
+1262	1	Cube
+1263	1	Sonnenfeld
+1264	1	Cohen
+1265	1	Lynn
+1266	1	Ivory Wayans
+1267	2	Walters	Gallo
+1268	1	Jordan
+1269	1	Puenzo
+1270	1	Gillespie
+1271	1	Kanganis
+1272	1	Campion
+1273	1	Sargent
+1274	1	Stevenson
+1275	1	Cardiff
+1276	1	Artenstein
+1277	1	Hughes
+1278	1	Young
+1279	1	Zamm
+1280	1	Chaffey
+1281	1	Hillenburg
+1282	1	Selick
+1283	1	Rodriguez
+1284	1	A. Davis
+1285	1	McNamara
+1286	2	Virgien	Kovalyov
+1287	2	Virgien	Eng
+1288	1	Arkush
+1289	1	Dante
+1290	1	Jodorowsky
+1291	1	Elanjian, Jr.
+1292	1	G
+1293	1	Bay
+1294	1	Schepisi
+1295	1	Brennan
+1296	1	Hess
+1297	1	Coen
+1298	1	Wohl
+1299	1	Garnett
+1300	1	Page
+1301	1	Kanin
+1302	1	-Jacques Beineix
+1303	1	Loden
+1304	1	Marshall
+1305	1	Pierson
+1306	1	Wilder
+1307	1	Hamburg
+1308	1	Robbins
+1309	1	Clark
+1310	1	Columbus
+1311	1	Herek
+1312	1	Huang
+1313	2	Gordon	Palmisano
+1314	1	Joanou
+1315	1	Blum
+1316	1	Demme
+1317	2	Massot	Clifton
+1318	1	Lindsay-Hogg
+1319	1	Smeaton
+1320	1	Brown
+1321	1	Bogdanovich
+1322	2	J. Smith	Smith
+1323	1	Campion
+1324	1	Melamed
+1325	1	Campion
+1326	1	-Louis Bertucelli
+1327	1	Chabrol
+1328	1	Bortman
+1329	1	León de Aranoa
+1330	1	Minghella
+1331	1	Baumbach
+1332	1	Stillman
+1333	1	Hooks
+1334	1	Burnett
+1335	1	Hammer
+1336	1	Pollack
+1337	1	Carpenter
+1338	1	Allen
+1339	1	Stagliano
+1340	1	Springall
+1341	1	Loach
+1342	1	Sayles
+1343	1	Carlos Frey
+1344	1	Almodóvar
+1345	1	Keshishian
+1346	1	Serrano
+1347	1	Almodóvar
+1348	1	Kasdan
+1349	1	Penn
+1350	2	Yuen	Jing
+1351	0	<NULL>
+1352	1	Kaige
+1353	1	Woo
+1354	1	Zarchi
+1355	1	Hark
+1356	1	A. Romero
+1357	1	Spielberg
+1358	1	Sheridan
+1359	1	Hurwitz
+1360	0	<NULL>
+1361	1	Lumet
+1362	2	Fleischer	. Leslie Bricusse
+1363	1	Amurri
+1364	0	<NULL>
+1365	1	Howard
+1366	1	Burger
+1367	1	Radford
+1368	1	Castle
+1369	1	Zemeckis
+1370	1	Leigh
+1371	1	Linklater
+1372	1	Braff
+1373	1	Arteta
+1374	1	Ford Coppola
+1375	1	Markowitz
+1376	1	Zieff
+1377	1	Weitz
+1378	1	Mazursky
+1379	1	Launer
+1380	1	Miller
+1381	1	Reiner
+1382	1	Jenkins
+1383	1	Marshall
+1384	1	Noyce
+1385	2	-Pierre Jeunet	Caro
+1386	2	Roberson	Cramer
+1387	1	Bird
+1388	1	McGuigan
+1389	1	Kershner
+1390	1	S. O'Bannon
+1391	1	Lang
+1392	1	.J. Hogan
+1393	1	Rudolph
+1394	1	Jewison
+1395	1	Hoblit
+1396	1	Iacofano
+1397	1	Verbinski
+1398	1	Russell
+1399	1	Hallström
+1400	1	Finch
+1401	1	Livingston
+1402	1	Troche
+1403	1	Langenegger
+1404	1	E. McGowan
+1405	1	Verhoeven
+1406	1	Tuggle
+1407	1	Mitchell
+1408	1	Apted
+1409	2	Harris	Brill
+1410	1	Trank
+1411	3	Golan	Globus	Chetwynd
+1412	1	Stevens
+1413	0	<NULL>
+1414	1	Chomet
+1415	1	Saldanha
+1416	1	Kawaguchi
+1417	0	<NULL>
+1418	2	Fell	Stevenhagen
+1419	2	Fell	Bowers
+1420	2	Burton	Johnson
+1421	1	Selick
+1422	2	Howard	Williams
+1423	1	Donner
+1424	1	del Toro
+1425	1	Ephron
+1426	1	Binder
+1427	1	Underwood
+1428	1	L. Norton
+1429	1	Miner
+1430	1	Taylor
+1431	1	Howard
+1432	1	Polley
+1433	1	Provost
+1434	1	Kaufman
+1435	1	Hicks
+1436	1	Resnais
+1437	1	Gomer
+1438	1	Cameron
+1439	1	Aja
+1440	1	Brascia
+1441	2	Franklin	Martinez
+1442	1	Hough
+1443	1	Castro
+1444	1	Ivory Wayans
+1445	1	Hitchcock
+1446	1	Haneke
+1447	1	Audiard
+1448	1	Lyne
+1449	1	H. Lieberman
+1450	1	Van Sant
+1451	1	Patrick Kelley
+1452	1	Scorsese
+1453	1	Granik
+1454	2	Myrick	Sanchez
+1455	1	del Toro
+1456	1	Hackford
+1457	1	Hackford
+1458	1	Pacino
+1459	1	Guillermin
+1460	1	McMorrow
+1461	2	V. Lee	Lucas
+1462	1	Salvatores
+1463	1	Kaplan
+1464	1	Aronofsky
+1465	1	Frears
+1466	1	Henckel von Donnersmarck
+1467	1	Rosi
+1468	1	Svatek
+1469	1	Oshii
+1470	1	Ramsay
+1471	0	<NULL>
+1472	1	Bowman
+1473	1	W.S. Anderson
+1474	1	Abrahams
+1475	1	Mann
+1476	1	Manning
+1477	1	Woo
+1478	1	Longo
+1479	1	A. Romero
+1480	1	Sagal
+1481	1	Lowi
+1482	1	Hoblit
+1483	1	Tamahori
+1484	2	. Mackye Gruber	Bress
+1485	1	Greenwald
+1486	1	Rouse
+1487	1	Douglas
+1488	1	Wright
+1489	1	Dmytryk
+1490	1	Ford
+1491	1	Peckinpah
+1492	2	Taylor	D. Collins
+1493	1	Eastwood
+1494	1	Smith
+1495	1	Bergman
+1496	1	Moll
+1497	1	Winterbottom
+1498	1	Darabont
+1499	1	Thomas
+1500	1	Wilson
+1501	1	Martel
+1502	1	Pawlikowski
+1503	1	Jeffs
+1504	1	July
+1505	1	Arcand
+1506	0	<NULL>
+1507	2	Woo Ping	Mak
+1508	1	Chan
+1509	1	Ullmann
+1510	1	Emmerich
+1511	1	London
+1512	1	Schultz
+1513	1	Coulter
+1514	1	Winick
+1515	1	Bertolucci
+1516	1	Holland
+1517	1	Gatins
+1518	1	Wincer
+1519	1	Forman
+1520	1	Story
+1521	1	Schultz
+1522	1	Grossman
+1523	1	Shyer
+1524	1	Mantello
+1525	1	Sheridan
+1526	1	Thulin
+1527	1	Hancock
+1528	1	Kleiser
+1529	1	Lee Mock
+1530	1	Malle
+1531	1	Harron
+1532	1	Ichaso
+1533	1	von Trotta
+1534	1	Schnabel
+1535	1	A. Graham
+1536	1	Apted
+1537	1	Penn
+1538	1	Mills
+1539	1	Weir
+1540	1	Di Meglio
+1541	1	Kornbluth
+1542	1	Coen
+1543	1	Ross
+1544	1	Hedges
+1545	1	Rodney Sullivan
+1546	1	O. Russell
+1547	1	Swanbeck
+1548	1	Verbinski
+1549	1	Younger
+1550	1	Schumacher
+1551	1	del Toro
+1552	1	Cronenberg
+1553	1	Singer
+1554	1	Beatty
+1555	2	Geda	E. Gordon
+1556	1	May
+1557	1	Pope
+1558	3	Montgomery	Vietti	Timm
+1559	1	Montgomery
+1560	1	Spicer
+1561	1	Talalay
+1562	1	Stebbings
+1563	1	Petrie
+1564	1	Fuqua
+1565	1	Johnson
+1566	1	Heritier
+1567	1	Van Peebles
+1568	1	Ratner
+1569	1	Ma
+1570	1	Connor
+1571	2	Sommers	Michael
+1572	1	Tennant
+1573	1	Singleton
+1574	1	Corben
+1575	1	To
+1576	1	To
+1577	1	Maher
+1578	1	Schroeder
+1579	1	Bill
+1580	1	Kelly
+1581	1	Davidson
+1582	1	Fuqua
+1583	1	Kreuzpaintner
+1584	1	Andrew Williams
+1585	1	Tamahori
+1586	1	Birkin
+1587	1	Levinson
+1588	1	Hewitt
+1589	1	Robson
+1590	1	Parks, Jr.
+1591	1	Fleischer
+1592	1	Gordon
+1593	0	<NULL>
+1594	1	J. Donahue
+1595	1	Jacobs
+1596	1	L. Levy
+1597	1	Konchalovsky
+1598	1	.J. Scott
+1599	1	Safran
+1600	2	Wayne	Kellogg
+1601	1	Johnson
+1602	1	H. Hill
+1603	1	Cullingham
+1604	1	Mann
+1605	1	Columbus
+1606	1	Burton
+1607	2	Wells	Nibbelink
+1608	1	Iscove
+1609	0	<NULL>
+1610	1	Raymond
+1611	1	O'Callaghan
+1612	2	Johnson	Kirkpatrick
+1613	3	Reitherman	Lounsbery	Kahl
+1614	1	Spielberg
+1615	1	Markle
+1616	1	Dunham
+1617	1	Scott
+1618	1	Grosvenor
+1619	1	Markle
+1620	1	Poitier
+1621	1	Glen
+1622	1	Kay
+1623	1	Forster
+1624	1	Duvall
+1625	1	Ledbetter
+1626	1	Nolan
+1627	1	Lumet
+1628	1	J. Bolger
+1629	2	Clements	Musker
+1630	3	Borthwick	Passingham	-Philippe Duval
+1631	1	Chaika
+1632	1	Sabella
+1633	2	Wise	Trousdale
+1634	1	Kafka
+1635	2	Hata	T. Hurtz
+1636	1	Miyazaki
+1637	1	Konchalovsky
+1638	1	Leondis
+1639	1	Sher
+1640	1	Dear
+1641	1	Clark
+1642	1	Beresford
+1643	1	Cukor
+1644	1	Kleiser
+1645	1	Kenan
+1646	2	Barbera	Hanna
+1647	1	Anderson
+1648	2	Smith	Kammerud
+1649	1	Herek
+1650	2	Leondis	LaBash
+1651	1	Stadd
+1652	1	Nispel
+1653	1	Boyle
+1654	1	Fickman
+1655	2	Rubin	Carlos Pena
+1656	1	Lucas
+1657	1	Verhoeven
+1658	1	Duguay
+1659	1	Yates
+1660	1	S. Waters
+1661	1	Fangmeier
+1662	1	Sori
+1663	1	Potterton
+1664	1	Glen
+1665	1	Gallo
+1666	1	Cohen
+1667	1	G
+1668	1	Scott
+1669	1	Hood
+1670	1	Kanievska
+1671	1	Harvey
+1672	1	Charbanic
+1673	1	Glenn Hogan
+1674	1	Mulcahy
+1675	1	McTiernan
+1676	1	Marshall
+1677	1	Spencer
+1678	1	Woo
+1679	1	Woo
+1680	1	Reiner
+1681	1	Polanski
+1682	1	Epstein
+1683	1	Caan
+1684	1	Silverman
+1685	6	Judge	Jun Nam	Jae Joong	Jong-Ho	Prynoski	Kaplan
+1686	1	Marshall
+1687	1	Marshall Thurber
+1688	1	Scorsese
+1689	1	Kasdan
+1690	1	Reiner
+1691	1	Nichols
+1692	1	Waters
+1693	1	A. Seidelman
+1694	1	Nossiter
+1695	1	Dylan
+1696	1	L. Norton
+1697	1	Steve Holland
+1698	1	Bright
+1699	1	Deutch
+1700	1	Toback
+1701	1	Makin
+1702	1	Hillenbrand
+1703	1	Schaeffer
+1704	1	Ramis
+1705	1	Pasquin
+1706	1	Miner
+1707	1	Russo
+1708	1	Whitesell
+1709	1	Bernard
+1710	1	Kidron
+1711	1	Michell
+1712	1	Davis
+1713	1	Shiota
+1714	1	Schivazappa
+1715	1	Nichols
+1716	1	Campion
+1717	1	Gregg
+1718	1	Winterbottom
+1719	1	Gero
+1720	1	Wu
+1721	1	Leigh Hopkins
+1722	1	Korine
+1723	1	von Heland
+1724	2	Kernochan	Smith
+1725	1	Rich
+1726	1	T. Kretchmer
+1727	1	Fall
+1728	1	Tec
+1729	1	Mazursky
+1730	1	Takeshi Kitano
+1731	1	Armitage
+1732	1	Hodges
+1733	1	R. Ellis
+1734	1	Bava
+1735	1	Gross
+1736	1	Rich
+1737	1	-Pierre Jeunet
+1738	1	Daldry
+1739	1	DeVito
+1740	2	Roeg	Cammell
+1741	1	Pollack
+1742	1	Frears
+1743	1	Michell
+1744	1	Panahi
+1745	1	Q. Chaudhri
+1746	1	Tillman, Jr.
+1747	1	Lee
+1748	1	Nair
+1749	1	Deitch
+1750	1	Cimber
+1751	1	Gray
+1752	1	Daly
+1753	1	Sargent
+1754	1	Davenport
+1755	1	O'Donnell
+1756	1	Carlos De Llaca
+1757	1	Malle
+1758	1	Rosenberg
+1759	1	Winterbottom
+1760	1	Schaefer
+1761	1	Gillespie
+1762	1	Balsmeyer
+1763	1	Handler
+1764	1	Kapur
+1765	1	Harvey
+1766	1	Chéreau
+1767	1	Greenaway
+1768	1	Girard
+1769	1	Russell
+1770	1	Werner Fassbinder
+1771	1	Newell
+1772	1	Kaufer
+1773	1	Lane
+1774	1	Schwartzberg
+1775	1	Hooper
+1776	1	Broomfield
+1777	1	Herek
+1778	1	Seidelman
+1779	1	Anders
+1780	1	Schrader
+1781	1	Lester
+1782	1	Meyer
+1783	1	Preminger
+1784	1	Jarmusch
+1785	1	Gallo
+1786	2	Harris	Rochlin
+1787	1	Armstrong
+1788	1	Ross
+1789	1	O'Fallon
+1790	2	Brian Smith	Montana
+1791	1	Kelly
+1792	2	Linfield	Fothergill
+1793	2	Cameron	Quale
+1794	1	Besson
+1795	1	Hall
+1796	1	-Jacques Mantello
+1797	1	Algar
+1798	1	Reggio
+1799	1	Wilcox
+1800	1	Donen
+1801	1	Marker
+1802	1	Noonan
+1803	1	Rivette
+1804	1	Trier
+1805	1	Duffell
+1806	1	Soderbergh
+1807	1	Norris
+1808	1	Davidson
+1809	1	Peploe
+1810	1	Hartley
+1811	1	Anh Hung
+1812	1	Saville
+1813	1	Michell
+1814	1	Takeshi Kitano
+1815	1	Zhou
+1816	1	Holofcener
+1817	1	Rubino
+1818	1	Caton-Jones
+1819	1	Boskovich
+1820	1	Krueger
+1821	1	Voss
+1822	3	Anders	Voss	Lent
+1823	1	Shores
+1824	1	Kim
+1825	1	Frears
+1826	1	Mantegna
+1827	1	Cahill
+1828	1	Gomez
+1829	1	Ireland
+1830	1	Werner Fassbinder
+1831	1	Fansten
+1832	1	R. Baxley
+1833	1	Gutierrez
+1834	1	Bridges
+1835	1	Kaufman
+1836	1	Almodóvar
+1837	1	Vera
+1838	1	Rozema
+1839	1	Stevens, Jr.
+1840	1	Rash
+1841	1	Pinsker
+1842	1	Hippolyte
+1843	1	Ritchie
+1844	2	Shebib	.S. Everett
+1845	1	James
+1846	1	Byrum
+1847	1	Sorvino
+1848	2	Dowling	Burton
+1849	1	Bogart
+1850	1	Elliot
+1851	1	Kidron
+1852	1	Newell
+1853	1	Sturridge
+1854	1	McKellar
+1855	1	Bross
+1856	1	David Zlotoff
+1857	1	Miller
+1858	1	Hiller
+1859	1	O'Haver
+1860	1	Andreas
+1861	1	Berlanti
+1862	1	Santiago
+1863	1	Neira
+1864	1	Irvin
+1865	2	Diamond Phillips	Goldthwait
+1866	1	Stone
+1867	3	.A. Pennebaker	Hughes	Hegedus
+1868	1	Demme
+1869	2	Noujaim	Hegedus
+1870	3	Ollman	Smith	Price
+1871	1	Demme
+1872	1	Libman
+1873	1	Fernandez De La Reguera
+1874	1	Stuart
+1875	1	Foster
+1876	1	D. Schuster
+1877	1	Szwarc
+1878	1	Forbes
+1879	18	Wenders	Ullmann	Rivette	Merchant	Lynch	Lelouch	Lee	Leconte	Konchalovsky	Ivory	Greenaway	Boorman	Angelopoulos	-Gavras	Axel	Miller	Yoshida	Moon
+1880	2	Solt	Leo
+1881	1	Lee
+1882	1	Saks
+1883	1	Lopez
+1884	1	Justman
+1885	1	Sanders
+1886	1	Fuqua
+1887	1	Lathan
+1888	1	L. Marin
+1889	1	Clark
+1890	1	Anderson
+1891	1	Blier
+1892	1	V. McLaglen
+1893	1	Sandrich
+1894	1	Trent
+1895	1	Chabrol
+1896	1	Ruzowitzky
+1897	1	Hanson
+1898	1	Ferrara
+1899	1	Nicolaou
+1900	1	Hough
+1901	1	Swerdlove
+1902	1	Rodriguez
+1903	1	Bakshi
+1904	1	Miller
+1905	1	Yates
+1906	1	B. Clark
+1907	1	B. Clark
+1908	1	Raker Endfield
+1909	1	Honda
+1910	1	Blake Nelson
+1911	1	Hanson
+1912	1	Parker
+1913	1	Dick
+1914	1	Robinson
+1915	1	Whale
+1916	1	Reiner
+1917	1	Ouedraogo
+1918	1	L. Mankiewicz
+1919	1	Widerberg
+1920	1	o
+1921	1	Troell
+1922	1	Gibson
+1923	1	Trueba
+1924	1	Scott
+1925	1	Soderbergh
+1926	1	Iwai
+1927	1	Mendes
+1928	1	Clayton
+1929	0	<NULL>
+1930	1	Wolf
+1931	3	Michener	Stevens	Berman
+1932	1	Lima
+1933	1	Scribner
+1934	1	Wachowski
+1935	1	Thompson
+1936	1	Gray
+1937	1	Anderson
+1938	1	Battersby
+1939	1	De Palma
+1940	1	Gordon Caron
+1941	1	Morahan
+1942	1	Carlei
+1943	1	-Claude Lord
+1944	1	Bowman
+1945	1	Murat
+1946	1	Herzog
+1947	1	Sharman
+1948	1	Branagh
+1949	1	Floyd
+1950	1	Johnston
+1951	1	Corman
+1952	1	Attenborough
+1953	1	Brown
+1954	1	Bridges
+1955	5	Starr	McCartney	Lennon	Knowles	Harrison
+1956	1	Guillermin
+1957	1	English
+1958	1	Hill
+1959	1	Hill
+1960	1	Clancy
+1961	1	Becker
+1962	1	Nichols
+1963	1	Frost
+1964	1	Levinson
+1965	1	Columbus
+1966	1	Hughes
+1967	1	-Gavras
+1968	1	Gould
+1969	2	Ford	Toland
+1970	1	Salva
+1971	1	Roth
+1972	1	Iliadis
+1973	1	Breathnach
+1974	1	Weisz
+1975	1	Craven
+1976	1	Mulcahy
+1977	1	Slade
+1978	1	Higgins
+1979	1	Gens
+1980	1	Clark
+1981	1	Goeres
+1982	1	Collet-Serra
+1983	1	S. Goyer
+1984	1	Mathews
+1985	0	<NULL>
+1986	1	Carpenter
+1987	1	Lester
+1988	1	Miyazaki
+1989	1	Jordan
+1990	1	Kowalski
+1991	1	Paolo Pasolini
+1992	1	Frankenheimer
+1993	1	Wallace
+1994	2	Yu	Wu
+1995	1	Tung Wei
+1996	1	Dey
+1997	1	Tianming
+1998	1	Yimou
+1999	1	Yuzna

@@ -1,0 +1,1269 @@
+﻿auto	motortrend	model
+1267	1267	1267	1267
+0000	1	2011 BMW ActiveHybrid X6 Base Sport Utility
+0001	1	2010 BMW ActiveHybrid X6 Base Sport Utility
+0002	1	2011 BMW M3 Base Sedan
+0003	1	2011 BMW M3 Base Coupe
+0004	1	2011 BMW M3 Base Convertible
+0005	1	2011 BMW X5 xDrive35i Sport Utility
+0006	1	2011 BMW X5 xDrive35d Sport Utility
+0007	1	2011 BMW X5 xDrive50i Sport Utility
+0008	1	2011 BMW X5 M Sport Utility
+0009	1	2011 BMW X6 xDrive35i Sport Utility
+0010	1	2011 BMW X6 xDrive50i Sport Utility
+0011	1	2011 BMW X6 M Sport Utility
+0012	1	2010 BMW X6 xDrive 35i Sport Utility
+0013	1	2010 BMW X6 xDrive 50i Sport Utility
+0014	1	2010 BMW X6 M Sport Utility
+0015	1	2011 BMW Z4 sDrive30i Convertible
+0016	1	2011 BMW Z4 sDrive35i Convertible
+0017	1	2011 BMW Z4 sDrive35is Convertible
+0018	1	2010 Kia Forte LX Sedan
+0019	1	2010 Kia Optima LX Sedan
+0020	1	2010 Kia Optima EX Sedan
+0021	1	2010 Kia Optima SX Sedan
+0022	1	2011 Kia Rio Base Sedan
+0023	1	2011 Kia Rio LX Sedan
+0024	1	2011 Kia Rio SX Sedan
+0025	1	2010 Kia Rio Base Sedan
+0026	1	2010 Kia Rio LX Sedan
+0027	1	2010 Kia Rio SX Sedan
+0028	1	2011 Kia Rio5 LX Hatchback
+0029	1	2011 Kia Rio5 SX Hatchback
+0030	1	2010 Kia Rio5 LX Hatchback
+0031	1	2010 Kia Rio5 SX Hatchback
+0032	1	2011 Kia Sedona LX Passenger Minivan
+0033	1	2011 Kia Sedona EX Passenger Minivan
+0034	1	2010 Kia Sedona Base Passenger Minivan
+0035	1	2010 Kia Sedona LX Passenger Minivan
+0036	1	2010 Kia Sedona EX Passenger Minivan
+0037	1	2011 Kia Sorento Base Sport Utility
+0038	1	2011 Kia Sorento LX Sport Utility
+0039	1	2011 Kia Sorento EX Sport Utility
+0040	1	2011 Kia Sorento SX Sport Utility
+0041	1	2011 Kia Soul Base Hatchback
+0042	1	2011 Kia Soul Plus Hatchback
+0043	1	2011 Kia Soul Sport Hatchback
+0044	1	2011 Kia Soul Exclaim Hatchback
+0045	1	2010 Kia Soul Base Hatchback
+0046	1	2010 Kia Soul Exclaim Hatchback
+0047	1	2010 Kia Soul Sport Hatchback
+0048	1	2011 Kia Sportage Base Sport Utility
+0049	1	2011 Kia Sportage LX Sport Utility
+0050	1	2011 Kia Sportage EX Sport Utility
+0051	1	2010 Kia Sportage LX Sport Utility
+0052	1	2010 Kia Sportage EX Sport Utility
+0053	1	2010 Porsche 911 GT3 Coupe
+0054	1	2010 Porsche 911 Turbo Coupe
+0055	1	2010 Porsche 911 Turbo Convertible
+0056	1	2011 Porsche Boxster Spyder Convertible
+0057	1	2011 Porsche Cayenne Base Sport Utility
+0058	1	2011 Porsche Cayenne S Sport Utility
+0059	1	2011 Porsche Cayenne S Hybrid Sport Utility
+0060	1	2011 Porsche Cayenne Turbo Sport Utility
+0061	1	2010 Porsche Cayenne Base Sport Utility
+0062	1	2010 Porsche Cayenne S Sport Utility
+0063	1	2010 Porsche Cayenne GTS Sport Utility
+0064	1	2010 Porsche Cayenne Turbo Sport Utility
+0065	1	2010 Porsche Cayenne Turbo S Sport Utility
+0066	1	2010 Porsche Panamera S Hatchback
+0067	1	2010 Porsche Panamera 4S Hatchback
+0068	1	2010 Porsche Panamera Turbo Hatchback
+0069	1	2011 Buick Enclave CX Sport Utility
+0070	1	2011 Buick Enclave CXL Sport Utility
+0071	1	2011 Buick LaCrosse CX Sedan
+0072	1	2011 Buick LaCrosse CXL Sedan
+0073	1	2011 Buick LaCrosse CXS Sedan
+0074	1	2010 Buick LaCrosse CX Sedan
+0075	1	2010 Buick LaCrosse CXL Sedan
+0076	1	2010 Buick LaCrosse CXS Sedan
+0077	1	2011 Buick Lucerne CX Sedan
+0078	1	2011 Buick Lucerne CXL Sedan
+0079	1	2011 Buick Lucerne CXL Premium Sedan
+0080	1	2011 Buick Lucerne Super Sedan
+0081	1	2011 Buick Regal CXL Sedan
+0082	1	2010 Lamborghini Gallardo LP560-4 Coupe
+0083	1	2010 Lamborghini Gallardo Spyder Convertible
+0084	1	2010 Lamborghini Murcielago LP640 Coupe
+0085	1	2010 Lamborghini Murcielago LP640 Roadster
+0086	1	2010 Lamborghini Murcielago LP670-4 SV Coupe
+0087	1	2010 Rolls Royce Ghost Base Sedan
+0088	1	2010 Rolls Royce Phantom Base Sedan
+0089	1	2010 Rolls Royce Phantom Coupe Coupe
+0090	1	2010 Rolls Royce Phantom Drophead Coupe Convertible
+0091	1	2010 Rolls Royce Phantom EWB Sedan
+0092	1	2011 Cadillac CTS Base Sedan
+0093	1	2011 Cadillac CTS Base Coupe
+0094	1	2011 Cadillac CTS Luxury Sedan
+0095	1	2011 Cadillac CTS Base Wagon
+0096	1	2011 Cadillac CTS Performance Sedan
+0097	1	2011 Cadillac CTS Luxury Wagon
+0098	1	2011 Cadillac CTS Performance Wagon
+0099	1	2011 Cadillac CTS Performance Coupe
+0100	1	2011 Cadillac CTS Premium Coupe
+0101	1	2011 Cadillac CTS Premium Sedan
+0102	1	2011 Cadillac CTS Premium Wagon
+0103	1	2010 Cadillac CTS Performance Sedan
+0104	1	2010 Cadillac CTS Premium Sedan
+0105	1	2011 Cadillac CTS-V Base Sedan
+0106	1	2011 Cadillac CTS-V Base Coupe
+0107	1	2010 Cadillac CTS-V Base Sedan
+0108	1	2011 Cadillac DTS Base Sedan
+0109	1	2011 Cadillac DTS Luxury Sedan
+0110	1	2011 Cadillac DTS Premium Sedan
+0111	1	2011 Cadillac DTS Platinum Sedan
+0112	1	2011 Cadillac Escalade Base Sport Utility
+0113	1	2011 Cadillac Escalade ESV Sport Utility
+0114	1	2011 Cadillac Escalade Hybrid Sport Utility
+0115	1	2011 Cadillac Escalade EXT Base Crew Cab Pickup
+0116	1	2011 Cadillac SRX Base Sport Utility
+0117	1	2011 Cadillac SRX Luxury Collection Sport Utility
+0118	1	2011 Cadillac SRX Performance Collection Sport Utility
+0119	1	2011 Cadillac SRX Premium Collection Sport Utility
+0120	1	2011 Cadillac STS Luxury Sport Sedan
+0121	1	2011 Cadillac STS Luxury Sedan
+0122	1	2011 Cadillac STS Premium Sedan
+0123	1	2011 Land Rover LR2 Base Sport Utility
+0124	1	2010 Land Rover LR2 HSE Sport Utility
+0125	1	2011 Land Rover LR4 Base Sport Utility
+0126	1	2010 Land Rover LR4 Base Sport Utility
+0127	1	2011 Land Rover Range Rover HSE Sport Utility
+0128	1	2011 Land Rover Range Rover Supercharged Sport Utility
+0129	1	2011 Land Rover Range Rover Sport HSE Sport Utility
+0130	1	2011 Land Rover Range Rover Sport Supercharged Sport Utility
+0131	1	2010 Land Rover Range Rover Sport HSE Sport Utility
+0132	1	2011 MINI Cooper Base Hatchback
+0133	1	2011 MINI Cooper Clubman Hatchback
+0134	1	2011 MINI Cooper S Hatchback
+0135	1	2011 MINI Cooper Clubman S Hatchback
+0136	1	2011 MINI Cooper Base Convertible
+0137	1	2011 MINI Cooper S Convertible
+0138	1	2011 MINI Cooper John Cooper Works Hatchback
+0139	1	2011 MINI Cooper John Cooper Works Clubman Hatchback
+0140	1	2011 MINI Cooper John Cooper Works Convertible
+0141	1	2010 MINI Cooper Base Hatchback
+0142	1	2010 MINI Cooper Clubman Hatchback
+0143	1	2010 MINI Cooper S Hatchback
+0144	1	2010 MINI Cooper Clubman S Hatchback
+0145	1	2010 MINI Cooper Base Convertible
+0146	1	2010 MINI Cooper S Convertible
+0147	1	2010 MINI Cooper John Cooper Works Hatchback
+0148	1	2010 MINI Cooper John Cooper Works Clubman Hatchback
+0149	1	2010 MINI Cooper John Cooper Works Convertible
+0150	1	2010 Saab 9-3 2.0T Sedan
+0151	1	2010 Saab 9-3 2.0T SportCombi Wagon
+0152	1	2010 Saab 9-3 Aero Sedan
+0153	1	2010 Saab 9-3 Aero SportCombi Wagon
+0154	1	2010 Saab 9-3 2.0T Convertible
+0155	1	2010 Saab 9-3 Aero Convertible
+0156	1	2009 Saab 9-3 Aero Convertible
+0157	1	2010 Saab 9-3X Base Wagon
+0158	1	2011 Saab 9-5 Turbo4 Sedan
+0159	1	2011 Saab 9-5 Turbo6 Sedan
+0160	1	2011 Saab 9-5 Aero Sedan
+0161	1	2010 Saab 9-5 Aero Sedan
+0162	1	2011 Chevrolet Avalanche LS Crew Cab Pickup
+0163	1	2011 Chevrolet Avalanche LT Crew Cab Pickup
+0164	1	2011 Chevrolet Avalanche LTZ Crew Cab Pickup
+0165	1	2010 Chevrolet Avalanche LS Crew Cab Pickup
+0166	1	2010 Chevrolet Avalanche LT Crew Cab Pickup
+0167	1	2010 Chevrolet Avalanche LTZ Crew Cab Pickup
+0168	1	2011 Chevrolet Aveo LS Sedan
+0169	1	2011 Chevrolet Aveo LT Sedan
+0170	1	2011 Chevrolet Aveo5 LS Hatchback
+0171	1	2011 Chevrolet Aveo5 LT Hatchback
+0172	1	2010 Chevrolet Camaro LS Coupe
+0173	1	2010 Chevrolet Camaro LT Coupe
+0174	1	2010 Chevrolet Camaro SS Coupe
+0175	1	2011 Chevrolet Colorado Base Regular Cab Pickup
+0176	1	2011 Chevrolet Colorado Base Extended Cab Pickup
+0177	1	2011 Chevrolet Colorado Base Crew Cab Pickup
+0178	1	2011 Chevrolet Corvette Base Coupe
+0179	1	2011 Chevrolet Corvette Base Convertible
+0180	1	2011 Chevrolet Corvette Grand Sport Coupe
+0181	1	2011 Chevrolet Corvette Grand Sport Convertible
+0182	1	2011 Chevrolet Corvette Z06 Coupe
+0183	1	2011 Chevrolet Corvette ZR1 Coupe
+0184	1	2011 Chevrolet Cruze LS Sedan
+0185	1	2011 Chevrolet Cruze LT Sedan
+0186	1	2011 Chevrolet Cruze Eco Sedan
+0187	1	2011 Chevrolet Cruze LTZ Sedan
+0188	1	2011 Chevrolet Equinox LS Sport Utility
+0189	1	2011 Chevrolet Equinox LT Sport Utility
+0190	1	2011 Chevrolet Equinox LTZ Sport Utility
+0191	1	2010 Chevrolet Equinox LS Sport Utility
+0192	1	2010 Chevrolet Equinox LT Sport Utility
+0193	1	2010 Chevrolet Equinox LTZ Sport Utility
+0194	1	2011 Chevrolet Express 1500 LT Passenger Van
+0195	1	2011 Chevrolet Express 2500 LT Passenger Van
+0196	1	2011 Chevrolet HHR LS Sport Utility
+0197	1	2011 Chevrolet HHR Panel LS Sport Utility
+0198	1	2011 Chevrolet HHR LT Sport Utility
+0199	1	2010 Chevrolet HHR LS Sport Utility
+0200	1	2010 Chevrolet HHR Panel LS Sport Utility
+0201	1	2010 Chevrolet HHR LT Sport Utility
+0202	1	2010 Chevrolet HHR Panel LT Sport Utility
+0203	1	2010 Chevrolet HHR SS Sport Utility
+0204	1	2011 Chevrolet Impala LS Sedan
+0205	1	2011 Chevrolet Impala LT Sedan
+0206	1	2011 Chevrolet Impala LTZ Sedan
+0207	1	2011 Chevrolet Malibu LS Sedan
+0208	1	2011 Chevrolet Malibu LT Sedan
+0209	1	2011 Chevrolet Malibu LTZ Sedan
+0210	1	2010 Chevrolet Malibu LS Sedan
+0211	1	2010 Chevrolet Malibu LT Sedan
+0212	1	2010 Chevrolet Malibu LTZ Sedan
+0213	1	2011 Chevrolet Silverado 1500 Short Bed Regular Cab Pickup
+0214	1	2011 Chevrolet Silverado 1500 Long Bed Regular Cab Pickup
+0215	1	2011 Chevrolet Silverado 1500 Standard Bed Extended Cab Pickup
+0216	1	2011 Chevrolet Silverado 1500 Long Bed Extended Cab Pickup
+0217	1	2011 Chevrolet Silverado 1500 Hybrid Crew Cab Pickup
+0218	1	2011 Chevrolet Silverado 1500 Crew Cab Pickup
+0219	1	2010 Chevrolet Silverado 1500 Short Bed Regular Cab Pickup
+0220	1	2010 Chevrolet Silverado 1500 Long Bed Extended Cab Pickup
+0221	1	2010 Chevrolet Silverado 1500 Hybrid Crew Cab Pickup
+0222	1	2011 Chevrolet Suburban 1500 LS Sport Utility
+0223	1	2011 Chevrolet Suburban 1500 LT Sport Utility
+0224	1	2011 Chevrolet Suburban 1500 LTZ Sport Utility
+0225	1	2011 Lexus ES350 Base Sedan
+0226	1	2010 Lexus ES350 Base Sedan
+0227	1	2011 Lexus GS350 Base Sedan
+0228	1	2010 Lexus GS350 Base Sedan
+0229	1	2011 Lexus GS450H Base Sedan
+0230	1	2010 Lexus GS450H Base Sedan
+0231	1	2011 Lexus GS460 Base Sedan
+0232	1	2010 Lexus GS460 Base Sedan
+0233	1	2011 Lexus GX460 Base Sport Utility
+0234	1	2011 Lexus GX460 Premium Sport Utility
+0235	1	2010 Lexus GX460 Base Sport Utility
+0236	1	2011 Lexus HS250h Base Sedan
+0237	1	2011 Lexus HS250h Premium Sedan
+0238	1	2010 Lexus HS250h Base Sedan
+0239	1	2011 Lexus IS-F Base Sedan
+0240	1	2010 Lexus IS-F Base Sedan
+0241	1	2011 Lexus IS250 Base Sedan
+0242	1	2011 Lexus IS250 C Convertible
+0243	1	2010 Lexus IS250 Base Sedan
+0244	1	2010 Lexus IS250 C Convertible
+0245	1	2011 Lexus IS350 Base Sedan
+0246	1	2011 Lexus IS350 C Convertible
+0247	1	2010 Lexus IS350 Base Sedan
+0248	1	2010 Lexus IS350 C Convertible
+0249	1	2011 Lexus LS460 Base Sedan
+0250	1	2011 Lexus LS460 L Sedan
+0251	1	2010 Lexus LS460 Base Sedan
+0252	1	2010 Lexus LS460 L Sedan
+0253	1	2011 Lexus LS600h L Sedan
+0254	1	2010 Lexus LS600h L Sedan
+0255	1	2011 Lexus LX570 Base Sport Utility
+0256	1	2010 Lexus LX570 Base Sport Utility
+0257	1	2011 Lexus RX350 Base Sport Utility
+0258	1	2010 Lexus RX350 Base Sport Utility
+0259	1	2011 Lexus RX450h Base Sport Utility
+0260	1	2010 Lexus RX450h Base Sport Utility
+0261	1	2010 Lexus SC430 Base Convertible
+0262	1	2010 Chrysler 300 Touring Sedan
+0263	1	2010 Chrysler 300 Touring Plus Sedan
+0264	1	2010 Chrysler 300 S Sedan
+0265	1	2010 Chrysler 300 Limited Sedan
+0266	1	2010 Chrysler 300 C Sedan
+0267	1	2010 Chrysler 300 SRT8 Sedan
+0268	1	2009 Chrysler Aspen Hybrid Sport Utility
+0269	1	2010 Chrysler PT Cruiser Classic Wagon
+0270	1	2010 Chrysler Sebring Touring Sedan
+0271	1	2010 Chrysler Sebring Limited Sedan
+0272	1	2010 Chrysler Sebring LX Convertible
+0273	1	2010 Chrysler Sebring Touring Convertible
+0274	1	2010 Chrysler Sebring Limited Convertible
+0275	1	2011 Chrysler Town & Country LX Passenger Minivan
+0276	1	2011 Chrysler Town & Country Touring Passenger Minivan
+0277	1	2011 Chrysler Town & Country Touring-L Passenger Minivan
+0278	1	2011 Chrysler Town & Country Limited Passenger Minivan
+0279	1	2010 Chrysler Town & Country LX Passenger Minivan
+0280	1	2010 Chrysler Town & Country Touring Passenger Minivan
+0281	1	2010 Chrysler Town & Country Touring Plus Passenger Minivan
+0282	1	2010 Chrysler Town & Country Limited Passenger Minivan
+0283	1	2011 Lincoln MKS Base Sedan
+0284	1	2011 Lincoln MKS EcoBoost Sedan
+0285	1	2011 Lincoln MKT Base Sport Utility
+0286	1	2011 Lincoln MKX Base Sport Utility
+0287	1	2011 Lincoln MKZ Base Sedan
+0288	1	2011 Lincoln MKZ Hybrid Sedan
+0289	1	2011 Lincoln Town Car Signature Limited Sedan
+0290	1	2011 Lincoln Town Car Signature L Sedan
+0291	1	2011 Scion TC Base Hatchback
+0292	1	2011 Scion xB Base Hatchback
+0293	1	2011 Scion xD Base Hatchback
+0294	1	2011 Dodge Avenger Express Sedan
+0295	1	2011 Dodge Avenger Mainstreet Sedan
+0296	1	2011 Dodge Avenger LUX Sedan
+0297	1	2010 Dodge Avenger SXT Sedan
+0298	1	2010 Dodge Avenger Express Sedan
+0299	1	2010 Dodge Avenger R/T Sedan
+0300	1	2011 Dodge Caliber Express Wagon
+0301	1	2011 Dodge Caliber Heat Wagon
+0302	1	2011 Dodge Caliber Mainstreet Wagon
+0303	1	2011 Dodge Caliber Uptown Wagon
+0304	1	2011 Dodge Caliber Rush Wagon
+0305	1	2010 Dodge Caliber Express Wagon
+0306	1	2010 Dodge Caliber Heat Wagon
+0307	1	2010 Dodge Caliber Mainstreet Wagon
+0308	1	2010 Dodge Caliber Uptown Wagon
+0309	1	2010 Dodge Caliber Rush Wagon
+0310	1	2011 Dodge Challenger SE Coupe
+0311	1	2011 Dodge Challenger R/T Coupe
+0312	1	2011 Dodge Challenger SRT8 Coupe
+0313	1	2010 Dodge Challenger SE Coupe
+0314	1	2010 Dodge Challenger R/T Coupe
+0315	1	2010 Dodge Challenger SRT8 Coupe
+0316	1	2011 Dodge Charger Base Sedan
+0317	1	2011 Dodge Charger RT Sedan
+0318	1	2010 Dodge Charger SE Sedan
+0319	1	2010 Dodge Charger SXT Sedan
+0320	1	2010 Dodge Charger Rallye Sedan
+0321	1	2010 Dodge Charger RT Sedan
+0322	1	2010 Dodge Charger SRT8 Sedan
+0323	1	2011 Dodge Dakota ST Extended Cab Pickup
+0324	1	2011 Dodge Dakota Big Horn Extended Cab Pickup
+0325	1	2011 Dodge Dakota Big Horn Crew Cab Pickup
+0326	1	2011 Dodge Dakota Laramie Crew Cab Pickup
+0327	1	2011 Dodge Dakota TRX Crew Cab Pickup
+0328	1	2011 Dodge Durango Express Sport Utility
+0329	1	2011 Dodge Durango Crew Sport Utility
+0330	1	2011 Dodge Durango Citadel Sport Utility
+0331	1	2009 Dodge Durango SE Sport Utility
+0332	1	2009 Dodge Durango SLT Sport Utility
+0333	1	2009 Dodge Durango Limited Hybrid Sport Utility
+0334	1	2010 Dodge Grand Caravan Cargo Passenger Minivan
+0335	1	2010 Dodge Grand Caravan SE Passenger Minivan
+0336	1	2010 Dodge Grand Caravan Hero Passenger Minivan
+0337	1	2010 Dodge Grand Caravan SXT Passenger Minivan
+0338	1	2010 Dodge Grand Caravan Crew Passenger Minivan
+0339	1	2010 Dodge Journey SE Sport Utility
+0340	1	2010 Dodge Journey SXT Sport Utility
+0341	1	2010 Dodge Journey R/T Sport Utility
+0342	1	2011 Dodge Nitro Heat Sport Utility
+0343	1	2011 Dodge Nitro Detonator Sport Utility
+0344	1	2011 Dodge Nitro Shock Sport Utility
+0345	1	2010 Dodge Nitro SE Sport Utility
+0346	1	2010 Dodge Nitro Heat Sport Utility
+0347	1	2010 Dodge Nitro Detonator Sport Utility
+0348	1	2010 Dodge Nitro Shock Sport Utility
+0349	1	2011 Dodge Ram 1500 Base Short Bed Regular Cab Pickup
+0350	1	2011 Dodge Ram 1500 Base Long Bed Regular Cab Pickup
+0351	1	2011 Dodge Ram 1500 Base Extended Cab Pickup
+0352	1	2011 Dodge Ram 1500 Base Crew Cab Pickup
+0353	1	2010 Dodge Viper SRT-10 Convertible
+0354	1	2010 Dodge Viper SRT-10 Coupe
+0355	1	2010 Lotus Elise Base Coupe
+0356	1	2010 Lotus Elise SC Coupe
+0357	1	2010 Lotus Exige S 240 Coupe
+0358	1	2010 Lotus Exige S 260 Coupe
+0359	1	2010 Smart fortwo pure Coupe
+0360	1	2010 Smart fortwo passion Coupe
+0361	1	2010 Smart fortwo passion Convertible
+0362	1	2011 Aston Martin DB9 Base Coupe
+0363	1	2011 Aston Martin DB9 Volante Convertible
+0364	1	2010 Aston Martin DB9 Base Coupe
+0365	1	2010 Aston Martin DB9 Volante Convertible
+0366	1	2011 Aston Martin DBS Base Coupe
+0367	1	2011 Aston Martin DBS Volante Convertible
+0368	1	2010 Aston Martin DBS Base Coupe
+0369	1	2010 Aston Martin DBS Volante Convertible
+0370	1	2011 Aston Martin Rapide Base Sedan
+0371	1	2010 Aston Martin Rapide Base Sedan
+0372	1	2011 Aston Martin V12 Vantage Base Coupe
+0373	1	2011 Aston Martin V8 Vantage Base Coupe
+0374	1	2011 Aston Martin V8 Vantage Base Roadster
+0375	1	2010 Aston Martin V8 Vantage Base Coupe
+0376	1	2010 Aston Martin V8 Vantage Base Roadster
+0377	1	2010 Ferrari California Base Convertible
+0378	1	2010 Maserati GranTurismo Base Coupe
+0379	1	2010 Maserati GranTurismo S Coupe
+0380	1	2010 Maserati GranTurismo Base Convertible
+0381	1	2010 Maserati Quattroporte Base Sedan
+0382	1	2010 Maserati Quattroporte S Sedan
+0383	1	2011 Subaru Forester 2.5X Sport Utility
+0384	1	2011 Subaru Forester 2.5X Premium Sport Utility
+0385	1	2011 Subaru Forester 2.5X Limited Sport Utility
+0386	1	2011 Subaru Forester 2.5XT Premium Sport Utility
+0387	1	2011 Subaru Forester 2.5X Touring Sport Utility
+0388	1	2011 Subaru Forester 2.5XT Touring Sport Utility
+0389	1	2011 Subaru Impreza 2.5i Sedan
+0390	1	2011 Subaru Impreza 2.5i Wagon
+0391	1	2011 Subaru Impreza 2.5i Premium Sedan
+0392	1	2011 Subaru Impreza 2.5i Premium Wagon
+0393	1	2011 Subaru Impreza Outback Sport Wagon
+0394	1	2011 Subaru Impreza WRX Sedan
+0395	1	2011 Subaru Impreza WRX Wagon
+0396	1	2011 Subaru Impreza WRX Premium Sedan
+0397	1	2011 Subaru Impreza WRX Premium Wagon
+0398	1	2011 Subaru Impreza WRX Limited Wagon
+0399	1	2011 Subaru Impreza WRX Limited Sedan
+0400	1	2011 Subaru Impreza WRX STi Sedan
+0401	1	2011 Subaru Impreza WRX STi Wagon
+0402	1	2011 Subaru Impreza WRX STi Limited Sedan
+0403	1	2011 Subaru Legacy 2.5i Sedan
+0404	1	2011 Subaru Legacy 2.5i Premium Sedan
+0405	1	2011 Subaru Legacy 3.6R Sedan
+0406	1	2011 Subaru Legacy 2.5i Limited Sedan
+0407	1	2011 Subaru Legacy 3.6R Premium Sedan
+0408	1	2011 Subaru Legacy 3.6R Limited Sedan
+0409	1	2011 Subaru Legacy 2.5 GT Limited Sedan
+0410	1	2010 Subaru Legacy 2.5i Sedan
+0411	1	2010 Subaru Legacy 2.5i Premium Sedan
+0412	1	2010 Subaru Legacy 2.5i Limited Sedan
+0413	1	2010 Subaru Legacy 3.6R Sedan
+0414	1	2010 Subaru Legacy 2.5 GT Premium Sedan
+0415	1	2010 Subaru Legacy 3.6R Limited Sedan
+0416	1	2010 Subaru Legacy 2.5 GT Limited Sedan
+0417	1	2011 Subaru Outback 2.5i Wagon
+0418	1	2011 Subaru Outback 2.5i Premium Wagon
+0419	1	2011 Subaru Outback 3.6R Wagon
+0420	1	2011 Subaru Outback 2.5i Limited Wagon
+0421	1	2011 Subaru Outback 3.6R Premium Wagon
+0422	1	2011 Subaru Outback 3.6R Limited Wagon
+0423	1	2011 Subaru Tribeca Premium Sport Utility
+0424	1	2011 Subaru Tribeca Limited Sport Utility
+0425	1	2011 Subaru Tribeca Touring Sport Utility
+0426	1	2010 Subaru Tribeca Premium Sport Utility
+0427	1	2010 Subaru Tribeca Limited Sport Utility
+0428	1	2010 Subaru Tribeca Touring Sport Utility
+0429	1	2011 Ford E-150 Base Cargo Van
+0430	1	2011 Ford E-150 Base Extended Cargo Van
+0431	1	2011 Ford E-150 XL Passenger Van
+0432	1	2011 Ford E-150 XLT Passenger Van
+0433	1	2011 Ford E-250 Base Cargo Van
+0434	1	2011 Ford E-250 Base Extended Cargo Van
+0435	1	2011 Ford E-350 Base Cargo Van
+0436	1	2011 Ford E-350 Base Extended Cargo Van
+0437	1	2011 Ford E-350 XL Passenger Van
+0438	1	2011 Ford E-350 XL Extended Passenger Van
+0439	1	2011 Ford E-350 XLT Passenger Van
+0440	1	2011 Ford E-350 XLT Extended Passenger Van
+0441	1	2011 Ford Edge SE Sport Utility
+0442	1	2011 Ford Edge SEL Sport Utility
+0443	1	2011 Ford Edge Limited Sport Utility
+0444	1	2011 Ford Edge Sport Sport Utility
+0445	1	2011 Ford Escape XLS Sport Utility
+0446	1	2011 Ford Escape XLT Sport Utility
+0447	1	2011 Ford Escape Limited Sport Utility
+0448	1	2011 Ford Escape Hybrid Sport Utility
+0449	1	2011 Ford Escape Hybrid Limited Sport Utility
+0450	1	2011 Ford Expedition XL Sport Utility
+0451	1	2011 Ford Expedition XLT Sport Utility
+0452	1	2011 Ford Expedition Limited Sport Utility
+0453	1	2011 Ford Expedition King Ranch Sport Utility
+0454	1	2011 Ford Fiesta S Sedan
+0455	1	2011 Ford Fiesta SE Sedan
+0456	1	2011 Ford Fiesta SE Hatchback
+0457	1	2011 Ford Fiesta SEL Sedan
+0458	1	2011 Ford Fiesta SES Hatchback
+0459	1	2011 Ford Flex SE Sport Utility
+0460	1	2011 Ford Flex SEL Sport Utility
+0461	1	2011 Ford Flex SEL EcoBoost Sport Utility
+0462	1	2011 Ford Flex Limited Sport Utility
+0463	1	2011 Ford Flex Titanium Sport Utility
+0464	1	2011 Ford Flex Limited EcoBoost Sport Utility
+0465	1	2011 Ford Flex Titanium EcoBoost Sport Utility
+0466	1	2011 Ford Focus S Sedan
+0467	1	2011 Ford Focus SE Sedan
+0468	1	2011 Ford Focus SES Sedan
+0469	1	2011 Ford Focus SEL Sedan
+0470	1	2010 Maybach 57 Base Sedan
+0471	1	2010 Maybach 57 S Sedan
+0472	1	2010 Maybach 57 Zeppelin Sedan
+0473	1	2011 Suzuki Equator Base Extended Cab Pickup
+0474	1	2011 Suzuki Equator Premium Extended Cab Pickup
+0475	1	2011 Suzuki Equator Sport Short Bed Crew Cab Pickup
+0476	1	2011 Suzuki Equator Sport Extended Cab Pickup
+0477	1	2011 Suzuki Equator Sport Long Bed Crew Cab Pickup
+0478	1	2011 Suzuki Equator RMZ-4 Short Bed Crew Cab Pickup
+0479	1	2010 Suzuki Equator Base Extended Cab Pickup
+0480	1	2010 Suzuki Equator Comfort Extended Cab Pickup
+0481	1	2010 Suzuki Equator Premium Extended Cab Pickup
+0482	1	2010 Suzuki Equator Sport Extended Cab Pickup
+0483	1	2010 Suzuki Equator Sport Short Bed Crew Cab Pickup
+0484	1	2010 Suzuki Equator Sport Long Bed Crew Cab Pickup
+0485	1	2010 Suzuki Equator RMZ-4 Short Bed Crew Cab Pickup
+0486	1	2011 Suzuki Grand Vitara Base Sport Utility
+0487	1	2011 Suzuki Grand Vitara Premium Sport Utility
+0488	1	2011 Suzuki Grand Vitara Limited Sport Utility
+0489	1	2011 Suzuki Kizashi S Sedan
+0490	1	2011 Suzuki Kizashi SE Sedan
+0491	1	2011 Suzuki Kizashi GTS Sedan
+0492	1	2011 Suzuki Kizashi SLS Sedan
+0493	1	2011 Suzuki SX4 Base Sedan
+0494	1	2011 Suzuki SX4 LE Sedan
+0495	1	2010 Suzuki SX4 Crossover Base Sport Utility
+0496	1	2011 Suzuki SX4 Sport S Sedan
+0497	1	2011 Suzuki SX4 Sport SE Sedan
+0498	1	2011 Suzuki SX4 Sport GTS Sedan
+0499	1	2011 GMC Acadia SL Sport Utility
+0500	1	2011 GMC Acadia SLE Sport Utility
+0501	1	2011 GMC Acadia SLT Sport Utility
+0502	1	2011 GMC Acadia Denali Sport Utility
+0503	1	2011 GMC Canyon Work Truck Regular Cab Pickup
+0504	1	2011 GMC Canyon SLE Regular Cab Pickup
+0505	1	2011 GMC Canyon Work Truck Extended Cab Pickup
+0506	1	2011 GMC Canyon SLE Extended Cab Pickup
+0507	1	2011 GMC Canyon SLE Crew Cab Pickup
+0508	1	2011 GMC Canyon SLT Extended Cab Pickup
+0509	1	2011 GMC Canyon SLT Crew Cab Pickup
+0510	1	2011 GMC Savana 1500 Cargo Van
+0511	1	2011 GMC Savana 1500 LS Passenger Van
+0512	1	2011 GMC Savana 2500 LS Passenger Van
+0513	1	2010 GMC Savana 1500 Cargo Van
+0514	1	2011 GMC Sierra 1500 Short Bed Regular Cab Pickup
+0515	1	2011 GMC Sierra 1500 Long Bed Regular Cab Pickup
+0516	1	2011 GMC Sierra 1500 Short Bed Extended Cab Pickup
+0517	1	2011 GMC Sierra 1500 Crew Cab Pickup
+0518	1	2011 GMC Sierra 1500 Long Bed Extended Cab Pickup
+0519	1	2011 GMC Sierra 1500 Hybrid Crew Cab Pickup
+0520	1	2011 GMC Sierra 1500 Denali Crew Cab Pickup
+0521	1	2010 GMC Sierra 1500 Long Bed Regular Cab Pickup
+0522	1	2010 GMC Sierra 1500 Short Bed Extended Cab Pickup
+0523	1	2010 GMC Sierra 1500 Standard Bed Extended Cab Pickup
+0524	1	2010 GMC Sierra 1500 Long Bed Extended Cab Pickup
+0525	1	2011 GMC Terrain SLE Sport Utility
+0526	1	2011 GMC Terrain SLT Sport Utility
+0527	1	2011 GMC Yukon SLE Sport Utility
+0528	1	2011 GMC Yukon SLT Sport Utility
+0529	1	2011 GMC Yukon Hybrid Sport Utility
+0530	1	2011 GMC Yukon Denali Sport Utility
+0531	1	2011 GMC Yukon Denali Hybrid Sport Utility
+0532	1	2011 GMC Yukon XL Denali Sport Utility
+0533	1	2011 GMC Yukon XL 1500 SLE Sport Utility
+0534	1	2011 GMC Yukon XL 1500 SLT Sport Utility
+0535	1	2011 GMC Yukon XL 2500 SLE Sport Utility
+0536	1	2011 GMC Yukon XL 2500 SLT Sport Utility
+0537	1	2011 Mazda CX-7 I SV Sport Utility
+0538	1	2011 Mazda CX-7 I Sport Sport Utility
+0539	1	2011 Mazda CX-7 S Touring Sport Utility
+0540	1	2011 Mazda CX-7 I Touring Sport Utility
+0541	1	2011 Mazda CX-7 S Grand Touring Sport Utility
+0542	1	2010 Mazda CX-7 I SV Sport Utility
+0543	1	2010 Mazda CX-7 I Sport Sport Utility
+0544	1	2010 Mazda CX-7 S Touring Sport Utility
+0545	1	2010 Mazda CX-7 S Grand Touring Sport Utility
+0546	1	2011 Mazda CX-9 Sport Sport Utility
+0547	1	2011 Mazda CX-9 Touring Sport Utility
+0548	1	2011 Mazda CX-9 Grand Touring Sport Utility
+0549	1	2010 Mazda CX-9 Sport Sport Utility
+0550	1	2010 Mazda CX-9 Touring Sport Utility
+0551	1	2010 Mazda CX-9 Grand Touring Sport Utility
+0552	1	2011 Mazda Mazda2 Sport Hatchback
+0553	1	2011 Mazda Mazda2 Touring Hatchback
+0554	1	2011 Mazda MAZDA3 I SV Sedan
+0555	1	2011 Mazda MAZDA3 I Sport Sedan
+0556	1	2011 Mazda MAZDA3 I Touring Sedan
+0557	1	2011 Mazda MAZDA3 S Sport Sedan
+0558	1	2011 Mazda MAZDA3 S Sport Hatchback
+0559	1	2011 Mazda MAZDA3 S Grand Touring Hatchback
+0560	1	2011 Mazda MAZDA3 S Grand Touring Sedan
+0561	1	2010 Mazda MAZDA5 Sport Passenger Minivan
+0562	1	2010 Mazda MAZDA5 Touring Passenger Minivan
+0563	1	2010 Mazda MAZDA5 Grand Touring Passenger Minivan
+0564	1	2011 Mazda MAZDA6 I Sport Sedan
+0565	1	2011 Mazda MAZDA6 I Touring Sedan
+0566	1	2011 Mazda MAZDA6 i Touring Plus Sedan
+0567	1	2011 Mazda MAZDA6 i Grand Touring Sedan
+0568	1	2011 Mazda MAZDA6 s Touring Plus Sedan
+0569	1	2011 Mazda MAZDA6 S Grand Touring Sedan
+0570	1	2010 Mazda MAZDA6 I SV Sedan
+0571	1	2010 Mazda MAZDA6 I Sport Sedan
+0572	1	2010 Mazda MAZDA6 I Touring Sedan
+0573	1	2010 Mazda MAZDA6 i Touring Plus Sedan
+0574	1	2010 Mazda MAZDA6 i Grand Touring Sedan
+0575	1	2010 Mazda MAZDA6 s Touring Plus Sedan
+0576	1	2010 Mazda MAZDA6 S Grand Touring Sedan
+0577	1	2011 Mazda MAZDASPEED3 Base Hatchback
+0578	1	2010 Mazda MAZDASPEED3 Base Hatchback
+0579	1	2011 Mazda Miata Sport Convertible
+0580	1	2011 Mazda Miata Touring Convertible
+0581	1	2011 Mazda Miata Touring Hardtop Convertible
+0582	1	2011 Mazda Miata Grand Touring Convertible
+0583	1	2011 Mazda Miata Grand Touring Hardtop Convertible
+0584	1	2010 Mazda Miata Sport Convertible
+0585	1	2010 Mazda Miata Touring Convertible
+0586	1	2010 Mazda Miata Touring Hardtop Convertible
+0587	1	2010 Mazda Miata Grand Touring Convertible
+0588	1	2010 Mazda Miata Grand Touring Hardtop Convertible
+0589	1	2011 Mazda RX-8 Sport Coupe
+0590	1	2011 Mazda RX-8 R3 Coupe
+0591	1	2011 Mazda RX-8 Grand Touring Coupe
+0592	1	2010 Mazda RX-8 Sport Coupe
+0593	1	2010 Mazda RX-8 R3 Coupe
+0594	1	2010 Mazda RX-8 Grand Touring Coupe
+0595	1	2011 Mazda Tribute I Sport Sport Utility
+0596	1	2011 Mazda Tribute I Touring Sport Utility
+0597	1	2011 Mazda Tribute i Grand Touring Sport Utility
+0598	1	2011 Mazda Tribute S Grand Touring Sport Utility
+0599	1	2011 Toyota 4Runner SR5 Sport Utility
+0600	1	2011 Toyota 4Runner Trail Sport Utility
+0601	1	2011 Toyota 4Runner Limited Sport Utility
+0602	1	2010 Toyota 4Runner SR5 Sport Utility
+0603	1	2010 Toyota 4Runner Trail Sport Utility
+0604	1	2010 Toyota 4Runner Limited Sport Utility
+0605	1	2011 Toyota Avalon Base Sedan
+0606	1	2011 Toyota Avalon Limited Sedan
+0607	1	2011 Toyota Camry Base Sedan
+0608	1	2011 Toyota Camry LE Sedan
+0609	1	2011 Toyota Camry SE Sedan
+0610	1	2011 Toyota Camry XLE Sedan
+0611	1	2011 Toyota Camry Hybrid Sedan
+0612	1	2010 Toyota Corolla Base Sedan
+0613	1	2010 Toyota Corolla LE Sedan
+0614	1	2010 Toyota Corolla S Sedan
+0615	1	2010 Toyota Corolla XLE Sedan
+0616	1	2010 Toyota Corolla XRS Sedan
+0617	1	2011 Toyota FJ Cruiser Base Sport Utility
+0618	1	2010 Toyota FJ Cruiser Base Sport Utility
+0619	1	2011 Toyota Highlander Base Sport Utility
+0620	1	2011 Toyota Highlander SE Sport Utility
+0621	1	2011 Toyota Highlander Limited Sport Utility
+0622	1	2010 Toyota Highlander Base Sport Utility
+0623	1	2010 Toyota Highlander Sport Sport Utility
+0624	1	2010 Toyota Highlander Limited Sport Utility
+0625	1	2011 Toyota Highlander Hybrid Base Sport Utility
+0626	1	2011 Toyota Highlander Hybrid Limited Sport Utility
+0627	1	2010 Toyota Highlander Hybrid Base Sport Utility
+0628	1	2010 Toyota Highlander Hybrid Limited Sport Utility
+0629	1	2011 Toyota Land Cruiser Base Sport Utility
+0630	1	2010 Toyota Land Cruiser Base Sport Utility
+0631	1	2010 Toyota Matrix Base Wagon
+0632	1	2010 Toyota Matrix S Wagon
+0633	1	2010 Toyota Matrix XRS Wagon
+0634	1	2010 Toyota Prius II Hatchback
+0635	1	2010 Toyota Prius III Hatchback
+0636	1	2010 Toyota Prius IV Hatchback
+0637	1	2010 Toyota Prius V Hatchback
+0638	1	2011 Toyota RAV4 Base Sport Utility
+0639	1	2011 Toyota RAV4 Sport Sport Utility
+0640	1	2011 Toyota RAV4 Limited Sport Utility
+0641	1	2010 Toyota RAV4 Base Sport Utility
+0642	1	2010 Toyota RAV4 Sport Sport Utility
+0643	1	2010 Toyota RAV4 Limited Sport Utility
+0644	1	2011 Toyota Sequoia SR5 Sport Utility
+0645	1	2011 Toyota Sequoia Limited Sport Utility
+0646	1	2011 Toyota Sequoia Platinum Sport Utility
+0647	1	2010 Toyota Sequoia SR5 Sport Utility
+0648	1	2010 Toyota Sequoia Limited Sport Utility
+0649	1	2010 Toyota Sequoia Platinum Sport Utility
+0650	1	2011 Toyota Sienna Base Minivan
+0651	1	2011 Toyota Sienna LE 8-Passenger Minivan
+0652	1	2011 Toyota Sienna SE 8-Passenger Minivan
+0653	1	2011 Toyota Sienna LE 7-Passenger Minivan
+0654	1	2011 Toyota Sienna XLE 8-Passenger Minivan
+0655	1	2011 Toyota Sienna XLE 7-Passenger Minivan
+0656	1	2011 Toyota Sienna Limited 7-Passenger Minivan
+0657	1	2011 Toyota Tacoma Base Regular Cab Pickup
+0658	1	2011 Toyota Tacoma Base Extended Cab Pickup
+0659	1	2011 Toyota Tacoma Prerunner Extended Cab Pickup
+0660	1	2011 Toyota Tacoma Base Crew Cab Pickup
+0661	1	2011 Toyota Tacoma Prerunner Crew Cab Pickup
+0662	1	2011 Toyota Tacoma Prerunner Long Bed Crew Cab Pickup
+0663	1	2011 Toyota Tacoma X-Runner Extended Cab Pickup
+0664	1	2011 Toyota Tacoma Base Long Bed Crew Cab Pickup
+0665	1	2010 Toyota Tacoma Prerunner Regular Cab Pickup
+0666	1	2010 Toyota Tacoma Base Regular Cab Pickup
+0667	1	2010 Toyota Tacoma Prerunner Extended Cab Pickup
+0668	1	2010 Toyota Tacoma Base Extended Cab Pickup
+0669	1	2010 Toyota Tacoma Prerunner Crew Cab Pickup
+0670	1	2010 Toyota Tacoma Prerunner Long Bed Crew Cab Pickup
+0671	1	2010 Toyota Tacoma X-Runner Extended Cab Pickup
+0672	1	2010 Toyota Tacoma Base Crew Cab Pickup
+0673	1	2010 Toyota Tacoma Base Long Bed Crew Cab Pickup
+0674	1	2011 Toyota Tundra Base Standard Bed Regular Cab Pickup
+0675	1	2011 Toyota Tundra Base Long Bed Regular Cab Pickup
+0676	1	2011 Toyota Tundra Base Standard Bed Extended Cab Pickup
+0677	1	2011 Toyota Tundra Base Long Bed Extended Cab Pickup
+0678	1	2011 Toyota Tundra Base Crew Cab Pickup
+0679	1	2011 Toyota Tundra Limited Standard Bed Extended Cab Pickup
+0680	1	2011 Toyota Tundra Limited Crew Cab Pickup
+0681	1	2010 Toyota Tundra Base Standard Bed Regular Cab Pickup
+0682	1	2010 Toyota Tundra Base Long Bed Regular Cab Pickup
+0683	1	2010 Toyota Tundra Base Standard Bed Extended Cab Pickup
+0684	1	2010 Toyota Tundra Base Long Bed Extended Cab Pickup
+0685	1	2010 Toyota Tundra Base Short Bed Crew Cab Pickup
+0686	1	2010 Toyota Tundra Limited Standard Bed Extended Cab Pickup
+0687	1	2010 Toyota Tundra Limited Short Bed Crew Cab Pickup
+0688	1	2011 Honda Accord LX Sedan
+0689	1	2011 Honda Accord LX-P Sedan
+0690	1	2011 Honda Accord LX-S Coupe
+0691	1	2011 Honda Accord SE Sedan
+0692	1	2011 Honda Accord EX Sedan
+0693	1	2011 Honda Accord EX Coupe
+0694	1	2011 Honda Accord EX-L Coupe
+0695	1	2011 Honda Accord EX-L Sedan
+0696	1	2010 Honda Accord LX Sedan
+0697	1	2010 Honda Accord LX-P Sedan
+0698	1	2010 Honda Accord LX-S Coupe
+0699	1	2010 Honda Accord EX Sedan
+0700	1	2010 Honda Accord EX Coupe
+0701	1	2010 Honda Accord EX-L Sedan
+0702	1	2010 Honda Accord EX-L Coupe
+0703	1	2010 Honda Accord Crosstour EX Hatchback
+0704	1	2010 Honda Accord Crosstour EX-L Hatchback
+0705	1	2011 Honda Civic DX Coupe
+0706	1	2011 Honda Civic DX Sedan
+0707	1	2011 Honda Civic VP Sedan
+0708	1	2011 Honda Civic LX Coupe
+0709	1	2011 Honda Civic LX Sedan
+0710	1	2011 Honda Civic LX-S Sedan
+0711	1	2011 Honda Civic EX Coupe
+0712	1	2011 Honda Civic EX Sedan
+0713	1	2011 Honda Civic EX-L Sedan
+0714	1	2011 Honda Civic EX-L Coupe
+0715	1	2011 Honda Civic SI Coupe
+0716	1	2011 Honda Civic SI Sedan
+0717	1	2011 Honda Civic Hybrid Sedan
+0718	1	2011 Honda Civic GX Sedan
+0719	1	2010 Honda Civic DX Coupe
+0720	1	2010 Honda Civic DX Sedan
+0721	1	2010 Honda Civic VP Sedan
+0722	1	2010 Honda Civic LX Coupe
+0723	1	2010 Honda Civic LX Sedan
+0724	1	2010 Honda Civic LX-S Sedan
+0725	1	2010 Honda Civic EX Coupe
+0726	1	2010 Honda Civic EX Sedan
+0727	1	2010 Honda Civic EX-L Sedan
+0728	1	2010 Honda Civic EX-L Coupe
+0729	1	2010 Honda Civic SI Coupe
+0730	1	2010 Honda Civic SI Sedan
+0731	1	2010 Honda Civic Hybrid Sedan
+0732	1	2011 Honda CR-V LX Sport Utility
+0733	1	2011 Honda CR-V SE Sport Utility
+0734	1	2011 Honda CR-V EX Sport Utility
+0735	1	2011 Honda CR-V EX-L Sport Utility
+0736	1	2010 Honda CR-V LX Sport Utility
+0737	1	2010 Honda CR-V EX Sport Utility
+0738	1	2010 Honda CR-V EX-L Sport Utility
+0739	1	2011 Honda CR-Z Base Hatchback
+0740	1	2011 Honda CR-Z EX Hatchback
+0741	1	2011 Honda Element LX Sport Utility
+0742	1	2011 Honda Element EX Sport Utility
+0743	1	2010 Honda Element LX Sport Utility
+0744	1	2010 Honda Element SC Sport Utility
+0745	1	2010 Honda Fit Base Hatchback
+0746	1	2010 Honda Fit Sport Hatchback
+0747	1	2010 Honda Insight LX Hatchback
+0748	1	2010 Honda Insight EX Hatchback
+0749	1	2011 Honda Odyssey LX Passenger Minivan
+0750	1	2011 Honda Odyssey EX Passenger Minivan
+0751	1	2011 Honda Odyssey EX-L Passenger Minivan
+0752	1	2011 Honda Odyssey Touring Passenger Minivan
+0753	1	2011 Honda Odyssey Touring Elite Passenger Minivan
+0754	1	2010 Honda Odyssey LX Passenger Minivan
+0755	1	2010 Honda Odyssey EX Passenger Minivan
+0756	1	2010 Honda Odyssey EX-L Passenger Minivan
+0757	1	2010 Honda Odyssey Touring Passenger Minivan
+0758	1	2011 Honda Pilot LX Sport Utility
+0759	1	2011 Honda Pilot EX Sport Utility
+0760	1	2011 Honda Pilot EX-L Sport Utility
+0761	1	2011 Honda Pilot Touring Sport Utility
+0762	1	2010 Honda Pilot LX Sport Utility
+0763	1	2010 Honda Pilot EX Sport Utility
+0764	1	2010 Honda Pilot EX-L Sport Utility
+0765	1	2010 Honda Pilot Touring Sport Utility
+0766	1	2011 Honda Ridgeline RT Crew Cab Pickup
+0767	1	2011 Honda Ridgeline RTS Crew Cab Pickup
+0768	1	2011 Honda Ridgeline RTL Crew Cab Pickup
+0769	1	2010 Honda Ridgeline RT Crew Cab Pickup
+0770	1	2010 Honda Ridgeline RTS Crew Cab Pickup
+0771	1	2010 Honda Ridgeline RTL Crew Cab Pickup
+0772	1	2011 Acura MDX Base Sport Utility
+0773	1	2011 Acura MDX Technology Pkg Sport Utility
+0774	1	2011 Acura MDX Technology and Entertainment Pkg Sport Utility
+0775	1	2011 Acura MDX Advance Pkg Sport Utility
+0776	1	2011 Acura MDX Advance and Entertainment Pkg Sport Utility
+0777	1	2009 Honda S2000 Base Roadster
+0778	1	2009 Honda S2000 CR Roadster
+0779	1	2011 Infiniti EX35 Base Sport Utility
+0780	1	2011 Infiniti EX35 Journey Sport Utility
+0781	1	2011 Infiniti FX35 Base Sport Utility
+0782	1	2011 Infiniti FX50 Base Sport Utility
+0783	1	2011 Infiniti G25 Base Sedan
+0784	1	2011 Infiniti G25 Journey Sedan
+0785	1	2011 Infiniti G25 X Sedan
+0786	1	2011 Infiniti G37 Journey Sedan
+0787	1	2011 Infiniti G37 Base Coupe
+0788	1	2011 Infiniti G37 X Sedan
+0789	1	2011 Infiniti G37 Journey Coupe
+0790	1	2011 Infiniti G37 Sport Appearance Edition Sedan
+0791	1	2011 Infiniti G37 X Coupe
+0792	1	2011 Infiniti G37 Sport Sedan
+0793	1	2011 Infiniti G37 X Sport Appearance Edition Sedan
+0794	1	2011 Infiniti G37 Sport Coupe
+0795	1	2011 Infiniti G37 Limited Edition Sedan
+0796	1	2011 Infiniti G37 X Limited Edition Sedan
+0797	1	2011 Infiniti G37 Base Convertible
+0798	1	2011 Infiniti G37 Performance Line Coupe
+0799	1	2011 Infiniti G37 Sport Convertible
+0800	1	2011 Infiniti G37 Limited Edition Convertible
+0801	1	2010 Infiniti G37 Base Sedan
+0802	1	2010 Infiniti G37 Journey Sedan
+0803	1	2010 Infiniti G37 X Sedan
+0804	1	2010 Infiniti G37 Base Coupe
+0805	1	2010 Infiniti G37 Sport Sedan
+0806	1	2010 Infiniti G37 Journey Coupe
+0807	1	2010 Infiniti G37 X Coupe
+0808	1	2010 Infiniti G37 Sport Coupe
+0809	1	2010 Infiniti G37 Base Convertible
+0810	1	2010 Infiniti G37 Sport Convertible
+0811	1	2010 Acura MDX Base Sport Utility
+0812	1	2010 Acura MDX Technology Pkg Sport Utility
+0813	1	2010 Acura MDX Technology and Entertainment Pkg Sport Utility
+0814	1	2010 Acura MDX Advance Pkg Sport Utility
+0815	1	2010 Acura MDX Advance and Entertainment Pkg Sport Utility
+0816	1	2011 Infiniti M37 Base Sedan
+0817	1	2011 Infiniti M56 Base Sedan
+0818	1	2011 Infiniti QX56 Base Sport Utility
+0819	1	2011 Mercedes-Benz C-Class C300 Sport Sedan
+0820	1	2011 Mercedes-Benz C-Class C300 Luxury Sedan
+0821	1	2011 Mercedes-Benz C-Class C350 Sport Sedan
+0822	1	2011 Mercedes-Benz C-Class C63 AMG Sedan
+0823	1	2010 Mercedes-Benz C-Class C300 Sport Sedan
+0824	1	2010 Mercedes-Benz C-Class C300 Luxury Sedan
+0825	1	2010 Mercedes-Benz C-Class C350 Sport Sedan
+0826	1	2010 Mercedes-Benz C-Class C63 AMG Sedan
+0827	1	2011 Mercedes-Benz CL-Class CL550 Coupe
+0828	1	2011 Mercedes-Benz CL-Class CL63 AMG Coupe
+0829	1	2011 Mercedes-Benz CL-Class CL600 Coupe
+0830	1	2011 Mercedes-Benz CL-Class CL65 AMG Coupe
+0831	1	2010 Mercedes-Benz CL-Class CL550 Coupe
+0832	1	2010 Mercedes-Benz CL-Class CL63 AMG Coupe
+0833	1	2010 Mercedes-Benz CL-Class CL600 Coupe
+0834	1	2010 Mercedes-Benz CL-Class CL65 AMG Coupe
+0835	1	2011 Acura RDX Base Sport Utility
+0836	1	2011 Acura RDX SH-AWD Sport Utility
+0837	1	2011 Acura RDX Technology Pkg Sport Utility
+0838	1	2011 Acura RDX Technology Pkg SH-AWD Sport Utility
+0839	1	2011 Mercedes-Benz CLS-Class CLS550 Sedan
+0840	1	2011 Mercedes-Benz CLS-Class CLS63 AMG Sedan
+0841	1	2010 Mercedes-Benz CLS-Class CLS550 Sedan
+0842	1	2010 Mercedes-Benz CLS-Class CLS63 AMG Sedan
+0843	1	2011 Mercedes-Benz E-Class E350 Coupe
+0844	1	2011 Mercedes-Benz E-Class E350 Sedan
+0845	1	2011 Mercedes-Benz E-Class E350 BLUETEC Sedan
+0846	1	2011 Mercedes-Benz E-Class E550 Coupe
+0847	1	2011 Mercedes-Benz E-Class E350 Wagon
+0848	1	2011 Mercedes-Benz E-Class E350 Convertible
+0849	1	2011 Mercedes-Benz E-Class E550 Sedan
+0850	1	2011 Mercedes-Benz E-Class E550 Convertible
+0851	1	2011 Mercedes-Benz E-Class E63 AMG Sedan
+0852	1	2010 Mercedes-Benz E-Class E350 Coupe
+0853	1	2010 Mercedes-Benz E-Class E350 Sedan
+0854	1	2010 Mercedes-Benz E-Class E550 Coupe
+0855	1	2010 Mercedes-Benz E-Class E550 Sedan
+0856	1	2010 Mercedes-Benz E-Class E63 AMG Sedan
+0857	1	2011 Mercedes-Benz G-Class G550 Sport Utility
+0858	1	2011 Mercedes-Benz G-Class G55 AMG Sport Utility
+0859	1	2010 Mercedes-Benz G-Class G550 Sport Utility
+0860	1	2010 Mercedes-Benz G-Class G55 AMG Sport Utility
+0861	1	2011 Mercedes-Benz GL-Class GL350 BLUETEC Sport Utility
+0862	1	2011 Mercedes-Benz GL-Class GL450 Sport Utility
+0863	1	2011 Mercedes-Benz GL-Class GL550 Sport Utility
+0864	1	2010 Mercedes-Benz GL-Class GL350 BLUETEC Sport Utility
+0865	1	2010 Mercedes-Benz GL-Class GL450 Sport Utility
+0866	1	2010 Mercedes-Benz GL-Class GL550 Sport Utility
+0867	1	2011 Mercedes-Benz GLK-Class GLK350 Sport Utility
+0868	1	2010 Mercedes-Benz GLK-Class GLK350 Sport Utility
+0869	1	2010 Acura RDX Base Sport Utility
+0870	1	2010 Acura RDX SH-AWD Sport Utility
+0871	1	2010 Acura RDX Technology Pkg Sport Utility
+0872	1	2010 Acura RDX Technology Pkg SH-AWD Sport Utility
+0873	1	2011 Mercedes-Benz M-Class ML350 Sport Utility
+0874	1	2011 Mercedes-Benz M-Class ML350 BLUETEC Sport Utility
+0875	1	2011 Mercedes-Benz M-Class ML450 Hybrid Sport Utility
+0876	1	2011 Mercedes-Benz M-Class ML550 Sport Utility
+0877	1	2011 Mercedes-Benz M-Class ML63 AMG Sport Utility
+0878	1	2010 Mercedes-Benz M-Class ML350 Sport Utility
+0879	1	2010 Mercedes-Benz M-Class ML350 BLUETEC Sport Utility
+0880	1	2010 Mercedes-Benz M-Class ML450 Hybrid Sport Utility
+0881	1	2010 Mercedes-Benz M-Class ML550 Sport Utility
+0882	1	2010 Mercedes-Benz M-Class ML63 AMG Sport Utility
+0883	1	2011 Mercedes-Benz R-Class R350 Wagon
+0884	1	2011 Mercedes-Benz R-Class R350 BLUETEC Wagon
+0885	1	2010 Mercedes-Benz R-Class R350 Wagon
+0886	1	2010 Mercedes-Benz R-Class R350 BLUETEC Wagon
+0887	1	2011 Mercedes-Benz S-Class S400 Hybrid Sedan
+0888	1	2011 Mercedes-Benz S-Class S550 Sedan
+0889	1	2011 Mercedes-Benz S-Class S63 AMG Sedan
+0890	1	2011 Mercedes-Benz S-Class S600 Sedan
+0891	1	2011 Mercedes-Benz S-Class S65 AMG Sedan
+0892	1	2010 Mercedes-Benz S-Class S400 Hybrid Sedan
+0893	1	2010 Mercedes-Benz S-Class S550 Sedan
+0894	1	2010 Mercedes-Benz S-Class S63 AMG Sedan
+0895	1	2010 Mercedes-Benz S-Class S600 Sedan
+0896	1	2010 Mercedes-Benz S-Class S65 AMG Sedan
+0897	1	2011 Mercedes-Benz SL-Class SL550 Roadster
+0898	1	2011 Mercedes-Benz SL-Class SL63 AMG Roadster
+0899	1	2011 Mercedes-Benz SL-Class SL65 AMG Roadster
+0900	1	2011 Mercedes-Benz SLK-Class SLK300 Roadster
+0901	1	2011 Mercedes-Benz SLK-Class SLK350 Roadster
+0902	1	2010 Mercedes-Benz SLK-Class SLK300 Roadster
+0903	1	2010 Mercedes-Benz SLK-Class SLK350 Roadster
+0904	1	2010 Mercedes-Benz SLK-Class SLK55 AMG Roadster
+0905	1	2011 Mercedes-Benz SLS AMG Base Coupe
+0906	1	2010 Acura RL Base Sedan
+0907	1	2010 Acura RL Technology Pkg Sedan
+0908	1	2010 Volkswagen Beetle 2.5 Hatchback
+0909	1	2010 Volkswagen Beetle 2.5 Convertible
+0910	1	2011 Volkswagen CC Sport Sedan
+0911	1	2011 Volkswagen CC R-Line Sedan
+0912	1	2011 Volkswagen CC Luxury Sedan
+0913	1	2011 Volkswagen CC Luxury Plus Sedan
+0914	1	2011 Volkswagen CC Luxury Limited Sedan
+0915	1	2011 Volkswagen CC VR6 4Motion Sedan
+0916	1	2010 Volkswagen CC VR6 Sport Sedan
+0917	1	2010 Volkswagen CC VR6 4Motion Sedan
+0918	1	2011 Volkswagen Eos Komfort Convertible
+0919	1	2011 Volkswagen Eos LUX Convertible
+0920	1	2011 Volkswagen Golf Base Hatchback
+0921	1	2011 Volkswagen Golf TDI Hatchback
+0922	1	2011 Volkswagen GTI Base Hatchback
+0923	1	2010 Volkswagen GTI Base Hatchback
+0924	1	2011 Acura TL Base Sedan
+0925	1	2011 Acura TL SH-AWD Sedan
+0926	1	2011 Acura TL Technology Sedan
+0927	1	2011 Acura TL SH-AWD Technology Sedan
+0928	1	2011 Volkswagen Jetta Base Sedan
+0929	1	2011 Volkswagen Jetta S Sedan
+0930	1	2011 Volkswagen Jetta SE Sedan
+0931	1	2011 Volkswagen Jetta SportWagen S Wagon
+0932	1	2011 Volkswagen Jetta SEL Sedan
+0933	1	2011 Volkswagen Jetta TDI Sedan
+0934	1	2011 Volkswagen Jetta SportWagen SE Wagon
+0935	1	2011 Volkswagen Jetta SportWagen TDI Wagon
+0936	1	2010 Volkswagen Jetta Limited Edition Sedan
+0937	1	2010 Volkswagen Jetta SportWagen S Wagon
+0938	1	2010 Volkswagen Jetta Wolfsburg Edition Sedan
+0939	1	2010 Volkswagen Jetta SportWagen SE Wagon
+0940	1	2010 Volkswagen Jetta SportWagen TDI Wagon
+0941	1	2010 Volkswagen Passat Komfort Sedan
+0942	1	2011 Volkswagen Tiguan S Sport Utility
+0943	1	2011 Volkswagen Tiguan SE Sport Utility
+0944	1	2011 Volkswagen Tiguan SEL Sport Utility
+0945	1	2010 Volkswagen Tiguan S Sport Utility
+0946	1	2010 Volkswagen Tiguan SE Sport Utility
+0947	1	2010 Volkswagen Tiguan Wolfsburg Sport Utility
+0948	1	2010 Volkswagen Tiguan SEL Sport Utility
+0949	1	2010 HUMMER H3 Base Sport Utility
+0950	1	2010 HUMMER H3 Adventure Sport Utility
+0951	1	2010 HUMMER H3 Luxury Sport Utility
+0952	1	2010 HUMMER H3 Alpha Sport Utility
+0953	1	2010 HUMMER H3T Base Crew Cab Pickup
+0954	1	2010 HUMMER H3T Adventure Crew Cab Pickup
+0955	1	2010 HUMMER H3T Luxury Crew Cab Pickup
+0956	1	2010 HUMMER H3T Alpha Crew Cab Pickup
+0957	1	2010 Acura TL Base Sedan
+0958	1	2010 Acura TL SH-AWD Sedan
+0959	1	2010 Acura TL Technology Sedan
+0960	1	2010 Acura TL SH-AWD Technology Sedan
+0961	1	2011 Mercury Grand Marquis LS Sedan
+0962	1	2011 Mercury Mariner Base Sport Utility
+0963	1	2011 Mercury Mariner Premier Sport Utility
+0964	1	2011 Mercury Mariner Hybrid Sport Utility
+0965	1	2011 Mercury Milan Base Sedan
+0966	1	2011 Mercury Milan Premier Sedan
+0967	1	2011 Mercury Milan Hybrid Sedan
+0968	1	2011 Volvo C30 T5 Hatchback
+0969	1	2011 Volvo C30 R-Design Hatchback
+0970	1	2011 Acura TSX Base Sedan
+0971	1	2011 Volvo C70 T5 Convertible
+0972	1	2011 Volvo S40 T5 Sedan
+0973	1	2011 Volvo S40 R-Design Sedan
+0974	1	2010 Volvo S40 2.4i Sedan
+0975	1	2010 Volvo S40 R-Design Sedan
+0976	1	2012 Volvo S60 T5 Sedan
+0977	1	2011 Volvo S60 T6 Sedan
+0978	1	2009 Volvo S60 2.5T Sedan
+0979	1	2009 Volvo S60 T5 Sedan
+0980	1	2010 Volvo S80 3.2 Sedan
+0981	1	2010 Volvo S80 T6 Sedan
+0982	1	2010 Volvo S80 V8 Sedan
+0983	1	2011 Volvo V50 T5 Wagon
+0984	1	2011 Volvo V50 R-Design Wagon
+0985	1	2010 Acura TSX Base Sedan
+0986	1	2010 Volvo V50 2.4i Wagon
+0987	1	2010 Volvo V50 R-Design Wagon
+0988	1	2010 Volvo V70 Base Wagon
+0989	1	2010 Volvo V70 R-Design Wagon
+0990	1	2011 Volvo XC60 Base Sport Utility
+0991	1	2011 Volvo XC60 R-Design Sport Utility
+0992	1	2011 Volvo XC60 T6 Sport Utility
+0993	1	2010 Volvo XC60 Base Sport Utility
+0994	1	2010 Volvo XC60 T6 Sport Utility
+0995	1	2010 Volvo XC60 R-Design Sport Utility
+0996	1	2011 Volvo XC70 Base Wagon
+0997	1	2011 Volvo XC70 T6 Wagon
+0998	1	2010 Volvo XC70 Base Wagon
+0999	1	2010 Volvo XC70 T6 Wagon
+1000	1	2011 Volvo XC90 3.2 Sport Utility
+1001	1	2011 Volvo XC90 R-Design Sport Utility
+1002	1	2011 Volvo XC90 V8 Sport Utility
+1003	1	2010 Volvo XC90 3.2 Sport Utility
+1004	1	2010 Volvo XC90 R-Design Sport Utility
+1005	1	2010 Volvo XC90 V8 Sport Utility
+1006	1	2011 Mitsubishi Eclipse GS Coupe
+1007	1	2011 Mitsubishi Eclipse GS-Sport Coupe
+1008	1	2011 Mitsubishi Eclipse GT Coupe
+1009	1	2010 Acura ZDX Base Hatchback
+1010	1	2010 Acura ZDX Advance Hatchback
+1011	1	2010 Acura ZDX Technology Hatchback
+1012	1	2011 Mitsubishi Eclipse Spyder GS-Sport Convertible
+1013	1	2011 Mitsubishi Eclipse Spyder GT Convertible
+1014	1	2011 Mitsubishi Endeavor LS Sport Utility
+1015	1	2011 Mitsubishi Endeavor SE Sport Utility
+1016	1	2011 Mitsubishi Galant ES Sedan
+1017	1	2011 Mitsubishi Galant SE Sedan
+1018	1	2011 Mitsubishi Lancer DE Sedan
+1019	1	2011 Mitsubishi Lancer ES Sedan
+1020	1	2011 Mitsubishi Lancer GTS Sedan
+1021	1	2011 Mitsubishi Lancer Ralliart Sedan
+1022	1	2010 Mitsubishi Lancer DE Sedan
+1023	1	2010 Mitsubishi Lancer ES Sedan
+1024	1	2010 Mitsubishi Lancer GTS Sedan
+1025	1	2010 Mitsubishi Lancer Ralliart Sedan
+1026	1	2010 Mitsubishi Lancer Evolution GSR Sedan
+1027	1	2010 Mitsubishi Lancer Evolution SE Sedan
+1028	1	2010 Mitsubishi Lancer Evolution MR Sedan
+1029	1	2010 Mitsubishi Lancer Evolution MR Touring Sedan
+1030	1	2011 Mitsubishi Lancer Sportback ES Hatchback
+1031	1	2011 Mitsubishi Lancer Sportback GTS Hatchback
+1032	1	2011 Mitsubishi Lancer Sportback Ralliart Hatchback
+1033	1	2011 Hyundai Accent GL Hatchback
+1034	1	2011 Hyundai Accent GS Hatchback
+1035	1	2011 Hyundai Accent GLS Sedan
+1036	1	2011 Hyundai Accent SE Hatchback
+1037	1	2010 Mitsubishi Lancer Sportback GTS Wagon
+1038	1	2010 Mitsubishi Lancer Sportback Ralliart Wagon
+1039	1	2011 Mitsubishi Outlander ES Sport Utility
+1040	1	2011 Mitsubishi Outlander SE Sport Utility
+1041	1	2011 Mitsubishi Outlander XLS Sport Utility
+1042	1	2011 Mitsubishi Outlander GT Sport Utility
+1043	1	2010 Mitsubishi Outlander GT Sport Utility
+1044	1	2011 Mitsubishi Outlander Sport ES Sport Utility
+1045	1	2011 Mitsubishi Outlander Sport SE Sport Utility
+1046	1	2011 Audi A3 Base Hatchback
+1047	1	2011 Audi A3 TDI Hatchback
+1048	1	2010 Audi A3 TDI Hatchback
+1049	1	2011 Audi A4 Base Sedan
+1050	1	2011 Audi A4 Avant Wagon
+1051	1	2010 Audi A4 Base Sedan
+1052	1	2010 Audi A4 Avant Wagon
+1053	1	2011 Audi A5 Base Coupe
+1054	1	2011 Audi A5 Base Convertible
+1055	1	2010 Audi A5 Base Coupe
+1056	1	2010 Audi A5 Base Convertible
+1057	1	2010 Hyundai Accent Blue Hatchback
+1058	1	2010 Hyundai Accent GS Hatchback
+1059	1	2010 Hyundai Accent GLS Sedan
+1060	1	2010 Hyundai Accent SE Hatchback
+1061	1	2011 Audi A6 3.2 Sedan
+1062	1	2011 Audi A6 3.0T Sedan
+1063	1	2011 Audi A6 3.0T Avant Wagon
+1064	1	2011 Audi A6 4.2 Sedan
+1065	1	2011 Audi A8 Base Sedan
+1066	1	2011 Audi A8 L Sedan
+1067	1	2010 Audi A8 Base Sedan
+1068	1	2010 Audi A8 L Sedan
+1069	1	2011 Audi Q5 2.0T Sport Utility
+1070	1	2011 Audi Q5 3.2 Sport Utility
+1071	1	2010 Audi Q5 Base Sport Utility
+1072	1	2011 Audi Q7 3.0 TDI Premium Sport Utility
+1073	1	2010 Audi Q7 4.2 Prestige Sport Utility
+1074	1	2011 Audi R8 Base Coupe
+1075	1	2011 Audi R8 Spyder Convertible
+1076	1	2011 Hyundai Azera GLS Sedan
+1077	1	2011 Hyundai Azera Limited Sedan
+1078	1	2011 Audi S4 Base Sedan
+1079	1	2010 Audi S4 Base Sedan
+1080	1	2011 Audi S5 4.2 Coupe
+1081	1	2011 Audi S5 3.0T Convertible
+1082	1	2010 Audi S5 4.2 Coupe
+1083	1	2010 Audi S5 3.0T Convertible
+1084	1	2011 Audi S6 Base Sedan
+1085	1	2010 Audi S6 Base Sedan
+1086	1	2011 Audi TT Base Coupe
+1087	1	2011 Audi TT Base Roadster
+1088	1	2010 Audi TT Base Coupe
+1089	1	2010 Audi TT Base Roadster
+1090	1	2011 Audi TTS Base Coupe
+1091	1	2011 Audi TTS Base Roadster
+1092	1	2010 Audi TTS Base Coupe
+1093	1	2010 Audi TTS Base Roadster
+1094	1	2011 Jaguar XF Base Sedan
+1095	1	2011 Jaguar XF Premium Sedan
+1096	1	2011 Jaguar XF Supercharged Sedan
+1097	1	2011 Jaguar XF R Sedan
+1098	1	2011 Jaguar XJ-Series XJ Sedan
+1099	1	2011 Jaguar XJ-Series XJL Sedan
+1100	1	2011 Jaguar XJ-Series XJ Supercharged Sedan
+1101	1	2011 Jaguar XJ-Series XJL Supercharged Sedan
+1102	1	2011 Jaguar XJ-Series XJ Supersport Sedan
+1103	1	2011 Jaguar XJ-Series XJL Supersport Sedan
+1104	1	2011 Jaguar XK-Series XK Coupe
+1105	1	2011 Jaguar XK-Series XK Convertible
+1106	1	2011 Jaguar XK-Series XKR Coupe
+1107	1	2011 Jaguar XK-Series XKR Convertible
+1108	1	2011 Nissan 370Z Base Coupe
+1109	1	2011 Nissan 370Z Touring Coupe
+1110	1	2011 Nissan 370Z Base Convertible
+1111	1	2011 Nissan 370Z Nismo Coupe
+1112	1	2011 Nissan 370Z Touring Convertible
+1113	1	2010 Nissan 370Z Base Coupe
+1114	1	2010 Nissan 370Z Touring Coupe
+1115	1	2010 Nissan 370Z Base Convertible
+1116	1	2010 Nissan 370Z Nismo Coupe
+1117	1	2010 Nissan 370Z Touring Convertible
+1118	1	2011 Nissan Altima Base Sedan
+1119	1	2011 Nissan Altima S Sedan
+1120	1	2011 Nissan Altima S Coupe
+1121	1	2011 Nissan Altima SR Sedan
+1122	1	2011 Nissan Altima Hybrid Sedan
+1123	1	2011 Nissan Altima SR Coupe
+1124	1	2010 Nissan Altima Base Sedan
+1125	1	2010 Nissan Altima S Sedan
+1126	1	2010 Nissan Altima S Coupe
+1127	1	2010 Nissan Altima SR Sedan
+1128	1	2010 Nissan Altima Hybrid Sedan
+1129	1	2010 Nissan Altima SR Coupe
+1130	1	2010 Hyundai Elantra Blue Sedan
+1131	1	2011 Nissan Armada SV Sport Utility
+1132	1	2011 Nissan Armada SL Sport Utility
+1133	1	2011 Nissan Armada Platinum Sport Utility
+1134	1	2011 Nissan Frontier S Extended Cab Pickup
+1135	1	2011 Nissan Frontier SV Extended Cab Pickup
+1136	1	2011 Nissan Frontier S Short Bed Crew Cab Pickup
+1137	1	2011 Nissan Frontier SV Short Bed Crew Cab Pickup
+1138	1	2011 Nissan Frontier SV Long Bed Crew Cab Pickup
+1139	1	2011 Nissan Frontier PRO-4X Extended Cab Pickup
+1140	1	2011 Nissan Frontier PRO-4X Short Bed Crew Cab Pickup
+1141	1	2011 Nissan Frontier SL Short Bed Crew Cab Pickup
+1142	1	2011 Nissan Frontier SL Long Bed Crew Cab Pickup
+1143	1	2011 Nissan GT-R Base Coupe
+1144	1	2011 Nissan Juke S Sport Utility
+1145	1	2011 Nissan Juke SV Sport Utility
+1146	1	2011 Nissan Juke SL Sport Utility
+1147	1	2011 Hyundai Elantra Touring GLS Wagon
+1148	1	2011 Hyundai Elantra Touring SE Wagon
+1149	1	2011 Nissan Maxima S Sedan
+1150	1	2011 Nissan Maxima SV Sedan
+1151	1	2011 Nissan Murano S Sport Utility
+1152	1	2011 Nissan Murano SV Sport Utility
+1153	1	2011 Nissan Murano SL Sport Utility
+1154	1	2011 Nissan Murano LE Sport Utility
+1155	1	2011 Nissan Pathfinder S Sport Utility
+1156	1	2011 Nissan Pathfinder SV Sport Utility
+1157	1	2011 Nissan Pathfinder Silver Edition Sport Utility
+1158	1	2011 Nissan Pathfinder LE Sport Utility
+1159	1	2011 Nissan Rogue S Sport Utility
+1160	1	2011 Nissan Rogue SV Sport Utility
+1161	1	2011 Nissan Rogue S Krom Sport Utility
+1162	1	2010 Hyundai Elantra Touring GLS Wagon
+1163	1	2010 Hyundai Elantra Touring SE Wagon
+1164	1	2011 Nissan Sentra 2.0 Sedan
+1165	1	2011 Nissan Sentra 2.0SR Sedan
+1166	1	2011 Nissan Sentra 2.0S Sedan
+1167	1	2011 Nissan Sentra 2.0SL Sedan
+1168	1	2011 Nissan Sentra SE-R Sedan
+1169	1	2011 Nissan Sentra SE-R Spec V Sedan
+1170	1	2011 Nissan Titan S Extended Cab Pickup
+1171	1	2011 Nissan Titan SV Extended Cab Pickup
+1172	1	2011 Nissan Titan S Short Bed Crew Cab Pickup
+1173	1	2011 Nissan Titan SV Short Bed Crew Cab Pickup
+1174	1	2011 Nissan Titan SV Long Bed Crew Cab Pickup
+1175	1	2011 Nissan Titan PRO-4X Extended Cab Pickup
+1176	1	2011 Nissan Titan PRO-4X Short Bed Crew Cab Pickup
+1177	1	2011 Nissan Titan SL Short Bed Crew Cab Pickup
+1178	1	2010 Bentley Azure T Convertible
+1179	1	2010 Bentley Brooklands Base Coupe
+1180	1	2010 Bentley Continental GT Coupe
+1181	1	2010 Bentley Continental GT Speed Coupe
+1182	1	2011 Hyundai Genesis Base Sedan
+1183	1	2010 Hyundai Genesis Base Coupe
+1184	1	2010 Hyundai Genesis Premium Coupe
+1185	1	2010 Hyundai Genesis Track Coupe
+1186	1	2010 Hyundai Genesis Grand Touring Coupe
+1187	1	2010 Hyundai Genesis Base Sedan
+1188	1	2011 Hyundai Genesis Coupe 2.0T Coupe
+1189	1	2011 Hyundai Genesis Coupe R-Spec Coupe
+1190	1	2011 Hyundai Genesis Coupe Premium Coupe
+1191	1	2011 Hyundai Genesis Coupe Grand Touring Coupe
+1192	1	2011 Hyundai Genesis Coupe Track Coupe
+1193	1	2011 Hyundai Santa Fe GLS Sport Utility
+1194	1	2011 Hyundai Santa Fe SE Sport Utility
+1195	1	2011 Hyundai Santa Fe Limited Sport Utility
+1196	1	2010 Hyundai Santa Fe GLS Sport Utility
+1197	1	2010 Hyundai Santa Fe SE Sport Utility
+1198	1	2010 Hyundai Santa Fe Limited Sport Utility
+1199	1	2011 Hyundai Sonata GLS Sedan
+1200	1	2011 Hyundai Sonata SE Sedan
+1201	1	2011 Hyundai Sonata Limited Sedan
+1202	1	2011 Hyundai Tucson GL Sport Utility
+1203	1	2011 Hyundai Tucson GLS Sport Utility
+1204	1	2011 Hyundai Tucson Limited Sport Utility
+1205	1	2010 Hyundai Tucson GLS Sport Utility
+1206	1	2010 Hyundai Tucson Limited Sport Utility
+1207	1	2011 Hyundai Veracruz GLS Sport Utility
+1208	1	2011 Hyundai Veracruz Limited Sport Utility
+1209	1	2011 Jeep Grand Cherokee Laredo Sport Utility
+1210	1	2011 Jeep Grand Cherokee Limited Sport Utility
+1211	1	2011 Jeep Grand Cherokee Overland Sport Utility
+1212	1	2011 Jeep Liberty Sport Sport Utility
+1213	1	2011 Jeep Liberty Limited Edition Sport Utility
+1214	1	2011 Jeep Liberty Renegade Sport Utility
+1215	1	2010 Jeep Liberty Renegade Sport Utility
+1216	1	2011 Jeep Patriot Sport Sport Utility
+1217	1	2011 Jeep Patriot Latitude X Sport Utility
+1218	1	2011 Jeep Wrangler Sport Sport Utility
+1219	1	2011 Jeep Wrangler Unlimited Sport Sport Utility
+1220	1	2011 Jeep Wrangler Sahara Sport Utility
+1221	1	2011 Jeep Wrangler Rubicon Sport Utility
+1222	1	2011 Jeep Wrangler Unlimited Sahara Sport Utility
+1223	1	2011 Jeep Wrangler Unlimited Rubicon Sport Utility
+1224	1	2011 BMW 1-Series 128I Coupe
+1225	1	2011 BMW 1-Series 128I Convertible
+1226	1	2011 BMW 3-Series 328I Sedan
+1227	1	2011 BMW 3-Series 328I xDrive Sedan
+1228	1	2011 BMW 3-Series 328I Wagon
+1229	1	2011 BMW 3-Series 328I Coupe
+1230	1	2011 BMW 3-Series 328I xDrive Wagon
+1231	1	2011 BMW 3-Series 328I xDrive Coupe
+1232	1	2011 BMW 3-Series 335I Coupe
+1233	1	2011 BMW 3-Series 335D Sedan
+1234	1	2011 BMW 3-Series 335I xDrive Coupe
+1235	1	2011 BMW 3-Series 328I Convertible
+1236	1	2011 BMW 3-Series 335IS Coupe
+1237	1	2011 BMW 3-Series 335I Convertible
+1238	1	2011 BMW 3-Series 335IS Convertible
+1239	1	2011 BMW 5-Series 528I Sedan
+1240	1	2011 BMW 5-Series 535I Sedan
+1241	1	2011 BMW 5-Series 535I xDrive Sedan
+1242	1	2011 BMW 5-Series 535I Gran Turismo Hatchback
+1243	1	2011 BMW 5-Series 535I xDrive Gran Turismo Hatchback
+1244	1	2011 BMW 5-Series 550I Sedan
+1245	1	2011 BMW 5-Series 550I xDrive Sedan
+1246	1	2011 BMW 5-Series 550I Gran Turismo Hatchback
+1247	1	2011 BMW 5-Series 550I xDrive Gran Turismo Hatchback
+1248	1	2010 BMW 5-Series 528I Sedan
+1249	1	2010 BMW 5-Series 528XI Sedan
+1250	1	2010 BMW 5-Series 535I Sedan
+1251	1	2010 BMW 5-Series 535XI Sedan
+1252	1	2010 BMW 5-Series 535XI Wagon
+1253	1	2010 BMW 5-Series 535I Grand Turismo Hatchback
+1254	1	2010 BMW 5-Series 550I Sedan
+1255	1	2010 BMW 5-Series 550I Grand Turismo Hatchback
+1256	1	2011 BMW 7-Series 740I Sedan
+1257	1	2011 BMW 7-Series 740LI Sedan
+1258	1	2011 BMW 7-Series 750I Sedan
+1259	1	2011 BMW 7-Series 750I xDrive Sedan
+1260	1	2011 BMW 7-Series 750LI Sedan
+1261	1	2011 BMW 7-Series 750LI xDrive Sedan
+1262	1	2011 BMW 7-Series Alpina B7 Sedan
+1263	1	2011 BMW 7-Series Alpina B7 xDrive Sedan
+1264	1	2011 BMW 7-Series 760LI Sedan
+1265	1	2011 BMW ActiveHybrid 7 750I Sedan
+1266	1	2011 BMW ActiveHybrid 7 750LI Sedan

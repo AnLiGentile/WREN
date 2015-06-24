@@ -1,0 +1,2002 @@
+﻿book	bookdepository	publisher
+2000	1976	1976	603
+0000	1	St. Martin&#039;s Griffin
+0001	1	Atria Books
+0002	1	Atlantic Books
+0003	1	American Psychological Association
+0004	1	Cornerstone
+0005	1	David C Cook Publishing Company
+0006	1	Watson-Guptill Publications
+0007	1	Penguin Books Ltd
+0008	1	Ebury Press
+0009	1	Simon &amp; Schuster
+0010	1	Image Comics
+0011	1	Modern Language Association of America
+0012	1	NavPress Publishing Group
+0013	1	Razorbill
+0014	1	Little, Brown Book Group
+0015	1	Hyperion Books
+0016	1	Lucid Sea, LLC
+0017	1	Pearson Education (US)
+0018	1	Running Press
+0019	1	Workman Publishing
+0020	1	Walker Books Ltd
+0021	1	Phaidon Press Ltd
+0022	1	Roc
+0023	1	Wellness Central
+0024	1	WW Norton &amp; Co
+0025	1	HarperCollins Publishers Inc
+0026	1	Puffin Books
+0027	1	Penguin Books Ltd
+0028	1	Penguin Books Ltd
+0029	1	HarperCollins Publishers
+0030	1	Oni Press,US
+0031	1	Oni Press,US
+0032	1	Chelsea Green Publishing Co
+0033	1	Little, Brown Book Group
+0034	1	Little, Brown Book Group
+0035	1	Little, Brown Book Group
+0036	1	Gallup Press
+0037	1	Peter Pauper Press
+0038	1	Pocket Books
+0039	1	Hachette Children&#039;s Books
+0040	1	Free Press
+0041	1	John Wiley and Sons Ltd
+0042	1	Chronicle Books
+0043	1	Abrams
+0044	1	Broadman &amp; Holman Publishers
+0045	1	Pan Macmillan
+0046	1	Bloomsbury Publishing PLC
+0047	1	Bloomsbury Publishing PLC
+0048	1	CCV
+0049	1	New American Library
+0050	1	Little, Brown &amp; Company
+0051	1	Grand Central Pub
+0052	0	<NULL>
+0053	1	WW Norton &amp; Co
+0054	1	Hodder &amp; Stoughton General Division
+0055	1	Pearson Education (US)
+0056	1	Thomas Dunne Books,US
+0057	1	Penguin Books Ltd
+0058	1	Penguin Books Ltd
+0059	1	Child&#039;s Play International Ltd
+0060	1	Faber and Faber
+0061	1	Random House USA Inc
+0062	1	Hyperion Books
+0063	1	Dial Press
+0064	1	Harper Teen
+0065	1	HarperCollins Publishers Inc
+0066	1	VeloPress
+0067	1	Oni Press,US
+0068	1	Short Books Ltd
+0069	1	Merrell Publishers Ltd
+0070	1	Wordsworth Editions Ltd
+0071	1	Apple Press
+0072	1	Canongate Books Ltd
+0073	1	Hachette Children&#039;s Books
+0074	1	Experiment
+0075	1	Image Comics
+0076	1	Storey Publishing LLC
+0077	1	Counterpoint LLC
+0078	1	MerryMakers
+0079	1	Artisan
+0080	1	Harvard Business School Publishing
+0081	1	Princeton Architectural Press
+0082	0	<NULL>
+0083	1	Simon &amp; Schuster
+0084	1	Simon &amp; Schuster
+0085	1	Gallery Press
+0086	1	Washington Square Press
+0087	1	Bloomsbury Publishing PLC
+0088	1	Whitford Press,U.S.
+0089	1	Self-Realization Fellowship,U.S.
+0090	1	Mira Books
+0091	1	Prima Games
+0092	1	Workman Publishing
+0093	1	Little, Brown Book Group
+0094	1	Little, Brown Book Group
+0095	1	Human Kinetics Publishers
+0096	1	Penguin Books Ltd
+0097	1	Penguin Putnam Inc
+0098	1	Houghton Mifflin
+0099	1	Transworld Publishers Ltd
+0100	1	Bantam Doubleday Dell Publishing Group Inc
+0101	1	Pocket Books
+0102	1	Presidio Press
+0103	1	Random House Inc.
+0104	1	Scholastic Press
+0105	1	Thames &amp; Hudson Ltd
+0106	1	John Wiley and Sons Ltd
+0107	1	John Wiley and Sons Ltd
+0108	1	Penguin Putnam Inc
+0109	1	Signet Book
+0110	1	Random House USA Inc
+0111	1	Penguin Putnam Inc
+0112	1	Bantam Doubleday Dell Publishing Group Inc
+0113	1	Silhouette Books
+0114	1	Hachette Children&#039;s Books
+0115	1	Hachette Children&#039;s Books
+0116	1	Pearson Education (US)
+0117	1	Bedford Books
+0118	1	Picador USA
+0119	1	Golden Books Publishing Company, Inc.
+0120	1	Pearson Education Limited
+0121	1	Pan Macmillan
+0122	1	Oxford University Press
+0123	1	Penguin Books Ltd
+0124	1	Penguin Books Ltd
+0125	1	CCV
+0126	1	Cornerstone
+0127	1	Ebury Press
+0128	1	McGraw-Hill Education - Europe
+0129	1	Harper Paperbacks
+0130	1	HarperTorch
+0131	1	Gallimard
+0132	1	Peace Hill Press
+0133	1	Autism Asperger Publishing Co,US
+0134	1	Stacey International
+0135	1	Amber-Allen Publishing,U.S.
+0136	1	ACP Publishing Pty Ltd
+0137	1	Laurence King Publishing
+0138	1	Wordsworth Editions Ltd
+0139	1	Random House Children&#039;s Books
+0140	1	Penguin Books Ltd
+0141	1	HarperCollins Publishers Inc
+0142	1	Random House USA Inc
+0143	1	Bantam Books
+0144	1	Scholastic Paperbacks
+0145	1	HarperCollins Publishers Inc
+0146	1	Waverley Books Ltd
+0147	1	Quercus Publishing Plc
+0148	1	Quercus Publishing Plc
+0149	1	Atlantic Books
+0150	1	Canongate Books Ltd
+0151	1	Canongate Books Ltd
+0152	1	Alma Books Ltd
+0153	1	Games Workshop
+0154	1	Wordsworth Editions Ltd
+0155	1	Murdoch Books
+0156	1	Lonely Planet Publications Ltd
+0157	1	Lonely Planet Publications Ltd
+0158	1	Lonely Planet Publications Ltd
+0159	1	Lonely Planet Publications Ltd
+0160	1	Image Comics
+0161	1	Rodale Press
+0162	1	That Patchwork Place
+0163	1	Wilder Publications, Limited
+0164	1	Idea &amp; Design Works
+0165	1	Razorbill
+0166	1	Razorbill
+0167	1	Penguin Putnam Inc
+0168	1	Cengage Learning, Inc
+0169	1	Dark Horse Comics,U.S.
+0170	1	Portfolio
+0171	1	Penguin Putnam Inc
+0172	1	Storey Books
+0173	1	Storey Books
+0174	1	Ten Speed Press
+0175	1	Robert Kennedy Publishing
+0176	1	F&amp;W Publications Inc
+0177	1	Free Press
+0178	1	Simon &amp; Schuster
+0179	1	Viz Media, Subs. of Shogakukan Inc
+0180	1	Viz Media, Subs. of Shogakukan Inc
+0181	1	Pocket Books
+0182	1	Simon &amp; Schuster
+0183	1	Simon &amp; Schuster
+0184	1	Elsevier Health Sciences
+0185	1	Bloomsbury Publishing PLC
+0186	1	Bloomsbury Publishing PLC
+0187	1	Walker Books Ltd
+0188	1	Penguin Books Ltd
+0189	1	Hay House Inc
+0190	1	DC Comics
+0191	1	HarperCollins Publishers Inc
+0192	1	Lonely Planet Publications Ltd
+0193	1	Headline Publishing Group
+0194	1	David &amp; Charles
+0195	1	Scholastic Paperbacks
+0196	1	Harlequin
+0197	1	Murdoch Books
+0198	0	<NULL>
+0199	1	Hyperion Books
+0200	1	Anchor Books
+0201	1	ABRAMS
+0202	1	Penguin Putnam Inc
+0203	1	Bantam Doubleday Dell Publishing Group Inc
+0204	1	Vintage Books USA
+0205	1	Penguin Books Ltd
+0206	1	Cornerstone
+0207	1	CCV
+0208	1	HarperCollins Publishers Inc
+0209	1	Avon Books
+0210	1	Oni Press,US
+0211	1	Random House Children&#039;s Books
+0212	1	Wordsworth Editions Ltd
+0213	1	Constable and Robinson
+0214	1	Hyperion Books
+0215	1	St. Martin&#039;s Griffin
+0216	1	Pan Macmillan (Digital)
+0217	1	Pan Macmillan
+0218	1	Europa Editions
+0219	1	Ebury Press
+0220	1	Simon &amp; Schuster Audio
+0221	1	HarperCollins
+0222	0	<NULL>
+0223	1	David C Cook Publishing Company
+0224	1	Atlantic Books
+0225	1	Atlantic Books
+0226	1	Pearson Education Limited
+0227	1	Crown Publishing Group (NY)
+0228	1	Pan Macmillan
+0229	1	Moleskine srl
+0230	1	Large Print Press
+0231	1	Amphoto Books
+0232	1	Caedmon
+0233	1	Penguin Books Ltd
+0234	1	Penguin Books Ltd
+0235	1	Crown Publishing Group (NY)
+0236	1	Houghton Mifflin Harcourt (HMH)
+0237	1	Pan Macmillan
+0238	1	Hodder &amp; Stoughton General Division
+0239	1	Nicholas Brealey Publishing
+0240	1	HarperCollins Publishers Inc
+0241	1	Berkley
+0242	1	Cengage Learning EMEA
+0243	1	Wordsworth Editions Ltd
+0244	1	Simon &amp; Schuster Ltd
+0245	1	Simon &amp; Schuster Ltd
+0246	1	Ebury Press
+0247	1	HarperCollins Publishers Inc
+0248	1	Scholastic Paperbacks
+0249	1	Random House USA Inc
+0250	1	Scholastic Press
+0251	1	F&amp;W Publications Inc
+0252	1	Zondervan
+0253	1	Simon &amp; Schuster
+0254	1	Pan Macmillan
+0255	1	HarperCollins Publishers Inc
+0256	1	Rodale Press
+0257	1	Gotham Books
+0258	1	Focal Press
+0259	1	Globe Pequot Press
+0260	1	Random House Audio
+0261	1	Ballantine Books
+0262	1	Shambhala Publications Inc
+0263	1	Image Comics
+0264	1	Modern Language Assn of Amer
+0265	1	NavPress
+0266	1	Bloomsbury Publishing Plc
+0267	1	Harvard University Press
+0268	1	Bloomsbury Publishing PLC
+0269	1	Free Press
+0270	1	Razorbill
+0271	1	Dutton Books
+0272	1	Algonquin Books of Chapel Hill
+0273	1	Washington Square Press
+0274	1	Ecco
+0275	1	Spiegel &amp; Grau
+0276	1	Back Bay Books
+0277	1	Hachette Book Group USA
+0278	1	Alfred A. Knopf Books for Young Readers
+0279	1	Elsevier Health Sciences
+0280	1	Random House USA Inc
+0281	1	Pearson Education (US)
+0282	0	<NULL>
+0283	1	Penguin Books Ltd
+0284	1	Elsevier Australia
+0285	1	Penguin Books
+0286	1	Hardie Grant Books
+0287	1	Bloomsbury Publishing PLC
+0288	1	Bantam Doubleday Dell Publishing Group Inc
+0289	1	Random House Audio
+0290	1	Bantam Doubleday Dell Publishing Group Inc
+0291	1	Thames &amp; Hudson Ltd
+0292	1	Penguin Putnam Inc
+0293	1	Random House USA Inc
+0294	1	HarperCollins Publishers Inc
+0295	1	Scribner Book Company
+0296	1	Hachette Audio
+0297	1	Macmillan USA
+0298	1	Doubleday Books
+0299	1	Walker Books Ltd
+0300	1	Taylor &amp; Francis Ltd
+0301	1	Tantor Media, Inc
+0302	1	Random House (Digital)
+0303	1	PENGUIN Group (USA) Inc.
+0304	1	Penguin Books
+0305	1	Dial Books
+0306	1	Penguin Group USA
+0307	1	Penguin Books Ltd
+0308	1	Random House USA Inc
+0309	1	Penguin Books Ltd
+0310	1	Penguin Books Ltd
+0311	1	Penguin Books Ltd
+0312	1	Penguin Books Ltd
+0313	1	Penguin Books Ltd
+0314	1	CCV
+0315	1	Ebury Press
+0316	1	HarperAudio
+0317	1	HarperCollins Publishers Inc
+0318	1	ReganBooks
+0319	1	Harper
+0320	1	HarperCollins Publishers
+0321	1	HarperCollins Publishers
+0322	1	Brookings Institution
+0323	1	Kodansha International Ltd
+0324	1	Oxford University Press
+0325	1	Oni Press,US
+0326	1	McSweeney&#039;s Books
+0327	1	Chelsea Green Publishing Co
+0328	1	Thorndike Press
+0329	1	Little, Brown Book Group
+0330	1	ACP Publishing Pty Ltd
+0331	1	Saint Martin&#039;s Press Inc.
+0332	1	MacMillan Audio
+0333	1	Little, Brown Book Group
+0334	1	Audio Renaissance, Div of Holtzbrink Publishers
+0335	1	Little, Brown Book Group
+0336	1	Laurence King Publishing
+0337	1	F&amp;W Publications Inc
+0338	1	Griffin Publishing
+0339	1	Pan Macmillan
+0340	1	HarperCollins Publishers Inc
+0341	1	Grove Press
+0342	1	Granta Books
+0343	1	Saint Martin&#039;s Press Inc.
+0344	1	Ebury Press
+0345	1	Little, Brown Book Group
+0346	1	Ace Books
+0347	1	David &amp; Charles
+0348	1	Stewart, Tabori &amp; Chang Inc
+0349	1	Hyperion Books
+0350	1	Dutton Books
+0351	1	Gallup Press
+0352	1	Gallup Press
+0353	1	Melbourne University Press
+0354	1	Harpercollins Childrens Books
+0355	1	Harpercollins
+0356	1	Hachette Children&#039;s Books
+0357	1	Oxmoor House, Incorporated
+0358	1	Free Press
+0359	1	Chronicle Books
+0360	1	New Holland Publishers Ltd
+0361	1	Hyperion Books
+0362	1	Transworld Publishers Ltd
+0363	0	<NULL>
+0364	1	HarperTorch
+0365	1	Bloomsbury Publishing PLC
+0366	1	Bloomsbury Publishing PLC
+0367	1	Bloomsbury Publishing PLC
+0368	1	Elsevier Health Sciences
+0369	1	Hodder Education
+0370	1	Three Rivers Press
+0371	1	Penguin Putnam Inc
+0372	1	CCV
+0373	1	Oxford University Press
+0374	1	Chronicle Books
+0375	1	Stewart, Tabori &amp; Chang Inc
+0376	1	Chronicle Books
+0377	1	Cornerstone
+0378	1	Simon &amp; Schuster Ltd
+0379	1	Chronicle Books
+0380	1	Outreach Inc
+0381	1	Marvel Comics
+0382	1	Marvel Comics
+0383	1	Mira Books
+0384	1	Mira Books
+0385	1	Hachette Children&#039;s Books
+0386	1	Pan Macmillan
+0387	1	Elsevier Health Sciences
+0388	1	Random House USA Inc
+0389	1	Orion Publishing Co
+0390	1	Penguin Putnam Inc
+0391	1	Audio Verlag Der GmbH
+0392	1	Penguin Books Ltd
+0393	1	Orion Publishing Co
+0394	1	Bantam Doubleday Dell Publishing Group Inc
+0395	1	Digireads.com
+0396	1	Penguin Putnam Inc
+0397	1	Signet Book
+0398	1	NAL Jam Books
+0399	1	Penguin Putnam Inc
+0400	1	New American Library
+0401	1	Elsevier Health Sciences
+0402	1	Bantam Doubleday Dell Publishing Group Inc
+0403	1	Ace Books
+0404	1	Penguin Books Ltd
+0405	1	Putnam Adult
+0406	1	Little Brown and Company
+0407	1	Orion Publishing Co
+0408	1	WW Norton &amp; Co
+0409	1	Perfection Learning
+0410	1	Little, Brown Book Group
+0411	1	Hodder &amp; Stoughton General Division
+0412	1	Open University Press
+0413	1	Pan Macmillan
+0414	1	Random House Publishing Group
+0415	1	Pan Macmillan
+0416	1	Ballantine Books
+0417	1	Book Publishing Company
+0418	1	Pan Macmillan
+0419	1	Pearson Education (US)
+0420	1	Little, Brown &amp; Company
+0421	1	Saint Martin&#039;s Press Inc.
+0422	1	Crown Archetype
+0423	1	HarperCollins Publishers
+0424	1	Delacorte Press Books for Young Readers
+0425	1	Speak
+0426	1	Pan Macmillan
+0427	1	Penguin Books Ltd
+0428	1	Penguin Books Ltd
+0429	1	Penguin Books Ltd
+0430	1	HarperCollins Publishers
+0431	1	Pearson Education (US)
+0432	1	Bellevue Literary Press
+0433	1	CCV
+0434	1	Penguin Books Ltd
+0435	1	HarperCollins Publishers Inc
+0436	1	HarperCollins Publishers Inc
+0437	1	Simon &amp; Schuster
+0438	1	It Books
+0439	1	Blackstone Audiobooks
+0440	1	Razorbill
+0441	1	HarperCollins
+0442	1	New World Library
+0443	1	New World Library
+0444	1	New World Library
+0445	1	Harper Teen
+0446	1	John Murray General Publishing Division
+0447	1	Candlewick Press (MA)
+0448	1	WW Norton &amp; Co
+0449	1	Owl Books (NY)
+0450	1	Avon Books
+0451	1	Harpercollins
+0452	1	HarperCollins Publishers
+0453	1	HarperCollins Publishers
+0454	1	Authentic Media
+0455	1	Little, Brown Book Group
+0456	1	Penguin Books Ltd
+0457	1	Rowman &amp; Littlefield
+0458	1	VeloPress
+0459	1	Methuen Publishing Ltd
+0460	1	Autism Asperger Publishing Co,US
+0461	1	Future Horizons Incorporated
+0462	1	Random House USA Inc
+0463	1	Little, Brown Young Readers
+0464	1	Murdoch Books
+0465	1	Scholastic US
+0466	1	Viz Media
+0467	1	Little, Brown Book Group
+0468	1	Little, Brown &amp; Company
+0469	1	Merrell Publishers Ltd
+0470	1	Audio Renaissance, Div of Holtzbrink Publishers
+0471	1	Wordsworth Editions Ltd
+0472	1	Naxos AudioBooks
+0473	1	Overlook Press
+0474	1	Hay House Inc
+0475	1	Berrett-Koehler
+0476	1	Vintage Books USA
+0477	1	Random House USA Inc
+0478	1	Canongate Books Ltd
+0479	1	Vintage Books USA
+0480	1	Pan Macmillan
+0481	1	Quadrille Publishing Ltd
+0482	1	Simon &amp; Schuster Children&#039;s Publishing
+0483	1	Simon &amp; Schuster Ltd
+0484	1	Blackstone Audiobooks
+0485	0	<NULL>
+0486	1	Quercus Publishing Plc
+0487	1	Quercus Publishing Plc
+0488	1	Quercus Publishing Plc
+0489	1	John Hunt Publishing
+0490	1	Apple Press
+0491	1	Apple Press
+0492	1	Search Press Ltd
+0493	1	David &amp; Charles
+0494	1	Poisoned Pen Press
+0495	1	Penguin Books Ltd
+0496	1	Chronicle Books
+0497	1	Lonely Planet Publications Ltd
+0498	1	Lonely Planet Publications Ltd
+0499	1	Murdoch Books
+0500	1	Image Comics
+0501	1	Cartoon Books,US
+0502	1	Penguin Books Ltd
+0503	1	Avery Publishing Group Inc.,U.S.
+0504	1	Simon &amp; Schuster Ltd
+0505	1	Ebury Press
+0506	1	Chronicle Books
+0507	1	Chronicle Books
+0508	1	Lark Books,U.S.
+0509	1	Paizo Publishing, LLC
+0510	1	Experiment
+0511	1	Left to Write Press
+0512	1	Ryland, Peters &amp; Small Ltd
+0513	1	Riverhead Hardcover
+0514	1	Simon &amp; Schuster Audio
+0515	1	Chelsea House Publishers
+0516	1	Guilford Publications
+0517	1	Guilford Publications
+0518	1	Guilford Publications
+0519	1	Guilford Publications
+0520	1	North Atlantic Books,U.S.
+0521	1	Hay House Inc
+0522	1	Our Sunday Visitor Inc.,U.S.
+0523	1	Houghton Mifflin Harcourt (HMH)
+0524	1	Martingale &amp; Company
+0525	1	That Patchwork Place
+0526	1	Princeton Architectural Press
+0527	1	AVA Publishing SA
+0528	1	Simon &amp; Schuster
+0529	1	Hodder &amp; Stoughton Childrens Division
+0530	1	Hachette Children&#039;s Books
+0531	1	Simon &amp; Schuster
+0532	1	Pocket Books
+0533	1	Berkley
+0534	1	HarperCollins Publishers Inc
+0535	1	Pocket Books
+0536	1	Simon &amp; Schuster
+0537	1	Gallery Press
+0538	1	Citadel Press
+0539	1	Farrar Straus Giroux
+0540	1	Simon &amp; Schuster
+0541	1	Simon &amp; Schuster
+0542	1	Hachette Filipacchi Media
+0543	1	Pan Macmillan (Digital)
+0544	1	Ballantine Books
+0545	1	Simon + Schuster UK
+0546	1	Simon &amp; Schuster Audio
+0547	1	Pocket Star Books
+0548	1	Large Print Press
+0549	1	Orion Publishing Co
+0550	1	Lonely Planet Publications Ltd
+0551	1	HarperCollins Publishers
+0552	1	Hyperion E-Books
+0553	1	Hyperion Books
+0554	1	DC Comics
+0555	1	Image Comics
+0556	1	Titan Books Ltd
+0557	1	DC Comics
+0558	1	Spiegel &amp; Grau
+0559	1	Ebury Press
+0560	1	Anomalos Publishing
+0561	1	WW Norton &amp; Co
+0562	1	Pear Press
+0563	1	Artisan
+0564	1	Lars Muller Publishers
+0565	1	One Club for Art &amp; Copy Inc.,U.S.
+0566	1	Whitford Press,U.S.
+0567	1	Black Belt Communications
+0568	1	Black Belt Communications
+0569	1	Contemporary Books Inc
+0570	1	Self-Realization Fellowship,U.S.
+0571	1	Digireads.com
+0572	1	Digireads.com
+0573	1	Self-Realization Fellowship,U.S.
+0574	1	Self-Realization Fellowship,U.S.
+0575	1	Tor Books
+0576	1	Llewellyn Publications,U.S.
+0577	1	Griffin Publishing
+0578	1	Wizards of the Coast
+0579	1	Wizards of the Coast
+0580	1	Chicago Review Press
+0581	1	Mira Books
+0582	1	Mira Books
+0583	1	Mira Books
+0584	1	Mira Books
+0585	1	Mira Books
+0586	1	Random House Publishing Group
+0587	1	Jones and Bartlett Publishers, Inc
+0588	1	Prima Games
+0589	1	Workman Publishing
+0590	1	Simon &amp; Schuster Ltd
+0591	1	Headline Publishing Group
+0592	1	CCV
+0593	1	Human Kinetics Publishers
+0594	1	Oxford University Press
+0595	1	Ebury Press
+0596	1	Hodder &amp; Stoughton General Division
+0597	1	David &amp; Charles
+0598	1	David &amp; Charles
+0599	1	David &amp; Charles
+0600	0	<NULL>
+0601	1	Penguin Books Ltd
+0602	0	<NULL>
+0603	1	HarperCollins Publishers
+0604	1	Penguin Putnam Inc
+0605	1	Random House USA Inc
+0606	1	Oxford University Press
+0607	1	Faber and Faber
+0608	1	Canongate Books Ltd
+0609	1	Kensington Publishing Corporation
+0610	1	Kensington Publishing
+0611	1	Bantam
+0612	1	Tantor Media, Inc
+0613	1	Bantam
+0614	1	Bantam Doubleday Dell Publishing Group Inc
+0615	1	Random House Children&#039;s Books
+0616	1	Random House Children&#039;s Books
+0617	1	Random House Children&#039;s Books
+0618	1	Tantor Media, Inc
+0619	1	Mariner Books
+0620	1	HarperCollins Publishers
+0621	1	Pan Macmillan
+0622	1	Pan Macmillan
+0623	1	Little Brown and Company
+0624	1	Phaidon Press Ltd
+0625	1	Book Publishing Company
+0626	1	Avery Publishing Group
+0627	1	Aurum Press Ltd
+0628	1	Pan Macmillan
+0629	1	Bantam
+0630	1	Yale University Press
+0631	1	Bloomsbury Publishing PLC
+0632	1	Candlewick Press (MA)
+0633	1	Scholastic US
+0634	1	The University Press Group Ltd
+0635	1	Bantam Doubleday Dell Publishing Group Inc
+0636	1	Penguin Putnam Inc
+0637	1	Brilliance Corporation
+0638	1	Penguin Putnam Inc
+0639	1	Netherlands Architecture Institute (NAi Uitgevers/Publishers)
+0640	1	Oxford University Press (Digital)
+0641	1	The Perseus Books Group
+0642	1	Verso Books
+0643	1	Simon &amp; Schuster Ltd
+0644	1	Roc
+0645	1	Roc
+0646	1	Tor Books
+0647	1	Penguin Putnam Inc
+0648	1	Signet Book
+0649	1	Pocket Books
+0650	1	Penguin Putnam Inc
+0651	1	Signet Book
+0652	1	Vintage Books USA
+0653	1	Hachette Audio
+0654	1	Grand Central Publishing
+0655	1	Warner Books
+0656	1	Warner Vision
+0657	0	<NULL>
+0658	1	HighBridge Audio
+0659	1	Griffin Publishing
+0660	1	Ace Books
+0661	1	Ace Books
+0662	1	Dell Books
+0663	0	<NULL>
+0664	0	<NULL>
+0665	1	Dell Publishing
+0666	1	Dell Publishing Company
+0667	1	Bantam Doubleday Dell Publishing Group Inc
+0668	1	Random House
+0669	1	Dell Publishing Company
+0670	1	Dell
+0671	1	Bantam Doubleday Dell Publishing Group Inc
+0672	1	HarperCollins Publishers Inc
+0673	1	Penguin Putnam Inc
+0674	1	Berkley
+0675	1	Penguin Putnam Inc
+0676	1	Methuen Publishing Ltd
+0677	1	CCV
+0678	1	CCV
+0679	1	WW Norton &amp; Co
+0680	1	Avon Books
+0681	1	Delacorte Press Books for Young Readers
+0682	1	Random House Children&#039;s Books
+0683	1	Random House Books for Young Readers
+0684	1	Random House Books for Young Readers
+0685	1	Random House USA Inc
+0686	1	Random House USA Inc
+0687	1	Random House USA Inc
+0688	1	Farrar, Straus &amp; Giroux Inc
+0689	1	Farrar, Straus &amp; Giroux Inc
+0690	1	Beacon Press
+0691	1	www.bnpublishing.com
+0692	1	Harlequin Mills &amp; Boon
+0693	1	Silhouette Books
+0694	1	Eos
+0695	1	Cornerstone
+0696	1	Cornerstone
+0697	1	Delta
+0698	1	Ballantine Books
+0699	1	Ballantine Books
+0700	1	Ballantine Books
+0701	1	Random House USA Inc
+0702	1	Hodder &amp; Stoughton General Division
+0703	1	Back Bay Books
+0704	1	Celestial Arts
+0705	1	Pan Macmillan
+0706	1	Pearson Education (US)
+0707	1	Peachpit Press
+0708	1	New Riders Publishing
+0709	1	Elsevier Science &amp; Technology
+0710	1	Little, Brown Book Group
+0711	1	Little Brown and Company
+0712	1	Berkley
+0713	1	Bedford Books
+0714	1	Henry Holt &amp; Company
+0715	1	Zondervan
+0716	1	Thomas Nelson Publishers
+0717	1	Zondervan
+0718	1	Zondervan
+0719	1	Zondervan
+0720	1	Three Rivers Press (CA)
+0721	1	Random House Audio
+0722	1	John Wiley and Sons Ltd
+0723	1	Pearson Education Limited
+0724	1	Pan Macmillan
+0725	1	Ignatius Press
+0726	1	Continuum International Publishing Group Ltd.
+0727	1	Penguin Press
+0728	1	Penguin Books Ltd
+0729	1	Random House USA Inc
+0730	1	Puffin Books
+0731	1	Puffin Books
+0732	1	Random House Children&#039;s Books
+0733	1	Penguin Books Ltd
+0734	1	Little, Brown Books for Young Readers
+0735	1	Random House USA Inc
+0736	1	Faber and Faber
+0737	1	Penguin Books Ltd
+0738	1	Penguin Books Ltd
+0739	1	William Morrow &amp; Company
+0740	1	Penguin Books Ltd
+0741	1	Penguin Books Ltd
+0742	1	Penguin Books Ltd
+0743	1	Tantor Media, Inc
+0744	1	Penguin Books Ltd
+0745	1	Quercus Publishing Plc
+0746	1	Harper Paperbacks
+0747	1	Arrow Books Ltd
+0748	1	Ebury Press
+0749	1	Simon &amp; Schuster
+0750	1	McGraw-Hill Education - Europe
+0751	1	HarperCollins Publishers Inc
+0752	1	The University Press Group Ltd
+0753	1	Oxford University Press Inc
+0754	1	St. Martin&#039;s Press
+0755	1	Random House Children&#039;s Books
+0756	1	HarperCollins Publishers Inc
+0757	1	Ecco
+0758	1	Pan Macmillan
+0759	1	Picador USA
+0760	1	HarperCollins Publishers
+0761	1	HarperCollins Publishers
+0762	1	HarperCollins Publishers
+0763	1	Rockport Publishers Inc.
+0764	1	Moleskine srl
+0765	1	Moleskine srl
+0766	1	Steidl Publishers
+0767	1	Taschen GmbH
+0768	1	Distribooks Inc
+0769	1	Editions 84
+0770	1	Marvel Comics
+0771	1	Rodale Press
+0772	1	DeVorss &amp; Co ,U.S.
+0773	1	Peace Hill Press
+0774	1	Jessica Kingsley Publishers
+0775	1	Future Horizons Incorporated
+0776	1	Old Street Publishing
+0777	1	Soho Press
+0778	1	Stacey International
+0779	1	Penguin Books Ltd
+0780	1	Grub Street
+0781	1	Floris Books
+0782	1	Amber-Allen Publishing,U.S.
+0783	1	Sterling Epicure
+0784	1	Wordsworth Editions Ltd
+0785	1	Pan Macmillan
+0786	1	Wildside Press
+0787	1	Wordsworth Editions Ltd
+0788	1	Wordsworth Editions Ltd
+0789	1	Random House USA Inc
+0790	1	Wordsworth Editions Ltd
+0791	1	Razorbill
+0792	1	Cornerstone
+0793	1	Listening Library
+0794	1	CSA WORD
+0795	1	Filiquarian Publishing
+0796	1	Random House Audio
+0797	1	Knopf Publishing Group
+0798	1	Potter Style
+0799	1	Moody Press,U.S.
+0800	1	Cornerstone
+0801	1	Harper Perennial
+0802	1	Random House USA Inc
+0803	1	Random House USA Inc
+0804	1	Simon &amp; Schuster Ltd
+0805	1	Farrar Straus Giroux
+0806	1	Quercus Publishing Plc
+0807	1	Houghton Mifflin Harcourt (HMH)
+0808	1	Quercus Publishing Plc
+0809	1	Quercus Publishing Plc
+0810	1	John Wiley and Sons Ltd
+0811	1	John Wiley and Sons Ltd
+0812	1	Floris Books
+0813	1	Doubleday Books
+0814	1	Riverhead Hardcover
+0815	0	<NULL>
+0816	1	Simon &amp; Schuster
+0817	1	Pocket Books
+0818	1	Touchstone Books
+0819	1	Simon &amp; Schuster Ltd
+0820	1	Simon &amp; Schuster Ltd
+0821	1	HarperCollins Publishers
+0822	1	HarperCollins Publishers
+0823	1	Profile Books Ltd
+0824	1	Penguin Books Ltd
+0825	1	Titan Books Ltd
+0826	1	DC Comics
+0827	1	powerHouse Books,U.S.
+0828	1	Games Workshop
+0829	1	Black Library
+0830	1	PM Press
+0831	1	Daw Books
+0832	1	Daw Books
+0833	1	HarperCollins Publishers
+0834	1	Random House USA Inc
+0835	1	HarperCollins
+0836	1	Faber and Faber
+0837	1	Wordsworth Editions Ltd
+0838	1	Olympia Press
+0839	1	Random House Trade
+0840	1	Brilliance Corporation
+0841	1	Random House Trade
+0842	1	Random House Publishing Group
+0843	1	Murdoch Books
+0844	1	The Five Mile Press Pty Ltd
+0845	1	Lonely Planet Publications Ltd
+0846	1	Lonely Planet Publications Ltd
+0847	1	Lonely Planet Publications Ltd
+0848	1	Lonely Planet Publications Ltd
+0849	1	Lonely Planet Publications Ltd
+0850	1	Lonely Planet Publications Ltd
+0851	1	Lonely Planet Publications Ltd
+0852	1	Lonely Planet Publications Ltd
+0853	1	Lonely Planet Publications Ltd
+0854	1	Edimat Libros
+0855	1	Human Kinetics Publishers
+0856	1	Rodale Press
+0857	1	Storey Publishing LLC
+0858	1	David &amp; Charles
+0859	1	Guilford Publications
+0860	1	Ebury Press
+0861	1	Kalmbach Publishing Company
+0862	1	Idea &amp; Design Works
+0863	1	Idea &amp; Design Works
+0864	1	Titan Books Ltd
+0865	1	NTC Publishing Group,U.S.
+0866	1	Dark Horse Comics,U.S.
+0867	1	Dark Horse Comics,U.S.
+0868	1	St. Martin&#039;s Griffin
+0869	1	Ave Maria Press
+0870	1	No Starch Press,US
+0871	1	Scholastic US
+0872	1	No Starch Press,US
+0873	1	Shambhala Publications Inc
+0874	1	Shambhala Publications Inc
+0875	1	Yale University Press
+0876	1	Scholastic US
+0877	1	Harvard Business School Publishing
+0878	1	Random House Inc
+0879	1	Plural Publishing
+0880	1	Jeremy P. Tarcher
+0881	1	F&amp;W Publications Inc
+0882	1	Pan Macmillan
+0883	1	Stewart, Tabori &amp; Chang Inc
+0884	1	MIT Press Ltd
+0885	1	HarperCollins Publishers Inc
+0886	1	New Holland Publishers Ltd
+0887	1	Ten Speed Press
+0888	1	Fireside
+0889	1	The Perseus Books Group
+0890	1	Springer-Verlag New York Inc.
+0891	1	Penguin Putnam Inc
+0892	1	New Harbinger Publications,U.S.
+0893	1	Ulysses Press
+0894	1	JR Books Ltd
+0895	1	Anova Books
+0896	1	Digital Manga
+0897	1	Digital Manga
+0898	1	Digital Manga
+0899	1	Send The Light
+0900	1	Martingale &amp; Company
+0901	1	Little, Brown &amp; Company
+0902	1	Little, Brown &amp; Company
+0903	1	North Atlantic Books,U.S.
+0904	1	Harlequin
+0905	1	Bantam Doubleday Dell Publishing Group Inc
+0906	1	Harper Teen
+0907	1	Hachette Children&#039;s Books
+0908	1	Hodder &amp; Stoughton General Division
+0909	1	Hodder &amp; Stoughton General Division
+0910	1	Rockport Publishers Inc.
+0911	1	St. Martin&#039;s Press
+0912	1	Pocket Books
+0913	1	Simon &amp; Schuster
+0914	1	Vintage Books USA
+0915	1	Pan Macmillan
+0916	1	Little, Brown Book Group
+0917	1	Picador USA
+0918	1	Elsevier Health Sciences
+0919	1	John Wiley &amp; Sons Inc
+0920	1	Viz Media, Subs. of Shogakukan Inc
+0921	1	Viz Media, Subs. of Shogakukan Inc
+0922	1	Viz Media, Subs. of Shogakukan Inc
+0923	1	Viz Media, Subs. of Shogakukan Inc
+0924	1	Viz Media, Subs. of Shogakukan Inc
+0925	1	Zebra Books
+0926	1	Zebra Books
+0927	1	Kensington Publishing
+0928	1	Greenwillow Books
+0929	1	Margaret K. McElderry Books
+0930	1	Bloomsbury Publishing PLC
+0931	1	Pocket Books
+0932	1	Simon &amp; Schuster
+0933	1	Tyndale House Publishers
+0934	1	Tyndale House Publishers
+0935	1	Tyndale House Publishers
+0936	1	Zondervan
+0937	1	Mira Books
+0938	1	Overlook Press
+0939	1	Random House (NY)
+0940	1	Saint Martin&#039;s Press Inc.
+0941	1	HarperCollins Publishers
+0942	1	Scholastic
+0943	1	Scholastic
+0944	1	Scholastic
+0945	1	Scholastic
+0946	1	Arthur A. Levine Books
+0947	1	Scholastic
+0948	1	Penguin Books Ltd
+0949	1	National Geographic Society
+0950	1	Egmont Childrens Books
+0951	1	Hay House Inc
+0952	1	DC Comics
+0953	1	Image Comics
+0954	1	Idea &amp; Design Works
+0955	1	DC Comics
+0956	1	Vertigo
+0957	1	Dark Horse Comics,U.S.
+0958	1	HarperCollins
+0959	1	Harper
+0960	1	HarperCollins Publishers Inc
+0961	1	McGraw-Hill Education - Europe
+0962	1	Lonely Planet Publications Ltd
+0963	1	Northfield Publishing,U.S.
+0964	1	David &amp; Charles
+0965	1	Penguin Books Ltd
+0966	1	Back Bay Books
+0967	1	B.Dutton Publishing (A Division of Squires Kitchen Magazine Publishing Ltd.)
+0968	1	Simon &amp; Schuster Ltd
+0969	1	Lonely Planet Publications Ltd
+0970	1	House of White Birches
+0971	1	Dark Horse Comics,U.S.
+0972	1	Dark Horse Comics,U.S.
+0973	1	Ten Speed Press
+0974	1	Pearson Education Limited
+0975	1	Delacorte Press
+0976	1	DC Comics
+0977	1	Chronicle Books
+0978	1	Hachette Book Group USA
+0979	1	Bloomsbury Publishing PLC
+0980	1	Faber and Faber
+0981	1	Little, Brown Book Group
+0982	1	Harper Perennial
+0983	1	Random House Audio
+0984	1	Bantam
+0985	1	HighBridge Audio
+0986	1	Pan Macmillan (Digital)
+0987	1	Dutton Books
+0988	1	Feiwel &amp; Friends
+0989	1	Feiwel &amp; Friends
+0990	1	Harvard Business School Publishing
+0991	1	Entrepreneur Press
+0992	1	AVA Publishing SA
+0993	1	Ballantine Books
+0994	1	Random House Audio
+0995	1	Berkley Prime Crime
+0996	1	Icon Books Ltd
+0997	1	Penguin Books Ltd
+0998	1	Simon &amp; Schuster
+0999	1	Knopf Doubleday Publishing Group
+1000	1	John Wiley &amp; Sons Inc
+1001	1	Hachette Audio
+1002	1	Saint Martin&#039;s Press Inc.
+1003	1	Random House Audio
+1004	1	Penguin Press
+1005	1	Penguin Books
+1006	1	Avery Publishing Group Inc.,U.S.
+1007	1	CCV
+1008	1	HarperCollins Publishers Inc
+1009	1	Rosettabooks, LLC
+1010	1	HarperCollins Publishers
+1011	1	Wordsworth Editions Ltd
+1012	1	Wordsworth Editions Ltd
+1013	1	Random House USA Inc
+1014	1	Bloomsbury Publishing PLC
+1015	1	Bantam Doubleday Dell Publishing Group Inc
+1016	1	Pan Macmillan (Digital)
+1017	1	Mariner Books
+1018	1	Random House USA Inc
+1019	1	Riverhead Books
+1020	1	Highbridge Company
+1021	1	Penguin Books Ltd
+1022	1	Harvard Business School Publishing
+1023	1	Penguin Audiobooks
+1024	1	Multnomah Press
+1025	1	Crossway Books
+1026	1	SAGE Publications Ltd
+1027	1	Cengage Learning, Inc
+1028	1	Disney Press
+1029	1	HarperCollins Publishers Inc
+1030	1	HarperCollins Publishers Inc
+1031	1	HarperCollins Publishers Inc
+1032	1	Canongate Books Ltd
+1033	1	David C Cook Publishing Company
+1034	1	Watson-Guptill Publications
+1035	1	Bloomsbury Publishing PLC
+1036	1	Cambridge University Press
+1037	1	Prentice Hall (a Pearson Education company)
+1038	1	Cambridge University Press
+1039	1	WW Norton &amp; Co
+1040	1	Naxos AudioBooks
+1041	1	Penguin Books Ltd
+1042	1	Simon &amp; Schuster Merchandise &amp;
+1043	1	HarperCollins Publishers Inc
+1044	1	Philomel Books
+1045	1	Pan Macmillan
+1046	1	International Law &amp; Taxation
+1047	1	Wildside Press
+1048	1	Simon &amp; Schuster
+1049	1	Knopf Publishing Group
+1050	1	Random House Audio
+1051	1	Simon &amp; Schuster
+1052	1	Ebury Press
+1053	1	Simon &amp; Schuster Audio
+1054	1	Alma Books Ltd
+1055	1	Villard Books
+1056	1	The Perseus Books Group
+1057	1	F&amp;W Publications Inc
+1058	1	Shambhala Publications Inc
+1059	1	Shambhala Publications Inc
+1060	1	Shambhala Publications Inc
+1061	1	Image Comics
+1062	1	Penguin Books Ltd
+1063	1	P &amp; R Publishing Co (Presbyterian &amp; Reformed)
+1064	1	John Wiley &amp; Sons Inc
+1065	1	Penguin Press
+1066	1	Assouline
+1067	1	Brilliance Audio
+1068	1	Crossway Books
+1069	1	Thorndike Press
+1070	1	WW Norton &amp; Co
+1071	1	Anchor Books
+1072	1	CCV
+1073	1	HarperTorch
+1074	1	Little, Brown Book Group
+1075	1	Edinburgh University Press
+1076	1	Hyperion Books
+1077	1	John Wiley and Sons Ltd
+1078	1	North Atlantic Books,U.S.
+1079	1	Chronicle Books
+1080	1	Chronicle Books
+1081	1	Tor Books
+1082	1	NuVision Publications
+1083	1	Hackett Publishing Co, Inc
+1084	1	Dover Publications Inc.
+1085	1	Kodansha International Ltd
+1086	1	Penguin Books Ltd
+1087	1	McGraw-Hill Education - Europe
+1088	1	Iowa State University Press
+1089	1	Harper Perennial
+1090	1	Knopf Publishing Group
+1091	0	<NULL>
+1092	1	Penguin Books Ltd
+1093	1	Faber and Faber
+1094	1	CCV
+1095	1	Grove Press
+1096	1	ELB Publishing
+1097	1	F&amp;W Publications Inc
+1098	1	Pearson Education Limited
+1099	1	Roc
+1100	1	Roc
+1101	1	Digireads.com
+1102	1	Buccaneer Books
+1103	1	Wordsworth Editions Ltd
+1104	1	Penguin Books Ltd
+1105	1	Nabu Press
+1106	1	WW Norton &amp; Co
+1107	1	HarperCollins Publishers Inc
+1108	1	HarperCollins Publishers Inc
+1109	1	Pearson Education (US)
+1110	1	Pearson Education (US)
+1111	1	Little, Brown &amp; Company
+1112	1	Little Brown and Company
+1113	1	Back Bay Books
+1114	1	Portfolio
+1115	1	Knopf Publishing Group
+1116	1	Pantheon Books
+1117	1	Doubleday Publishing
+1118	1	Orion Publishing Co
+1119	1	John Wiley and Sons Ltd
+1120	1	Taylor &amp; Francis Ltd
+1121	1	Penguin Books Ltd
+1122	1	Dover Publications Inc.
+1123	1	Penguin Books Ltd
+1124	1	Penguin Books Ltd
+1125	1	Wordsworth Editions Ltd
+1126	1	Naxos AudioBooks
+1127	1	WW Norton &amp; Co
+1128	1	Back Bay Books
+1129	1	Springer-Verlag Berlin and Heidelberg GmbH &amp; Co. KG
+1130	1	WW Norton &amp; Co
+1131	1	Penguin Books Ltd
+1132	1	HarperCollins Publishers Inc
+1133	1	Penguin Books Ltd
+1134	1	Penguin Books Ltd
+1135	1	Hyperion
+1136	1	Elsevier Science &amp; Technology
+1137	1	Dover Publications Inc.
+1138	1	Dover Publications Inc.
+1139	1	Dover Publications Inc.
+1140	1	Blackstone Audiobooks
+1141	1	Bantam
+1142	1	Blackstone Audiobooks
+1143	1	Dell Publishing
+1144	1	Tantor Media, Inc
+1145	1	Spectra
+1146	1	HarperCollins Publishers
+1147	1	Overlook Press
+1148	1	Manchester University Press
+1149	1	Chouette Editions
+1150	1	Kodansha International Ltd
+1151	1	Shambhala Publications Inc
+1152	1	Kodansha International Ltd
+1153	1	Tuttle Publishing
+1154	1	Tuttle Publishing
+1155	1	McSweeney&#039;s Publishing
+1156	1	WW Norton &amp; Co
+1157	1	Penguin Putnam Inc
+1158	1	Penguin Books Ltd
+1159	1	Storey Books
+1160	1	Alpha Books
+1161	1	Thorndike Press
+1162	1	Harlequin Mills &amp; Boon
+1163	1	Constable and Robinson
+1164	1	Ebury Press
+1165	1	Ebury Press
+1166	1	Saint Martin&#039;s Press Inc.
+1167	1	Audio Renaissance, Div of Holtzbrink Publishers
+1168	1	Taunton Press Inc
+1169	1	Anova Books
+1170	1	Interweave Press Inc
+1171	1	Laurence King Publishing
+1172	1	Avalon Travel Publishing
+1173	1	Lotus Press
+1174	1	Hay House Inc
+1175	1	Hay House UK Ltd
+1176	1	Oneworld Publications
+1177	1	Harperluxe
+1178	1	The University of Chicago Press
+1179	1	Bloomsbury Publishing PLC
+1180	1	The Mercier Press Ltd
+1181	1	Jossey-Bass
+1182	1	Self-Realization Fellowship,U.S.
+1183	1	Thomas Nelson Publishers
+1184	1	Brilliance Corporation
+1185	1	Tor Books
+1186	1	Stewart, Tabori &amp; Chang Inc
+1187	1	Egmont USA
+1188	1	Egmont USA
+1189	1	Ace Books
+1190	1	Ace Books
+1191	1	Gallup Press
+1192	1	McGraw-Hill Education - Europe
+1193	1	Gallup Press
+1194	1	Penguin Putnam Inc
+1195	1	Bearport Publishing
+1196	1	MIT Press Ltd
+1197	1	Agate Publishing
+1198	1	Heinemann USA
+1199	1	Hachette Children&#039;s Books
+1200	1	Hachette Children&#039;s Books
+1201	1	Adams Media Corporation
+1202	1	Little, Brown &amp; Company
+1203	1	St. Martin&#039;s Griffin
+1204	1	Listening Library
+1205	1	Kensington Publishing
+1206	1	HarperCollins Publishers Inc
+1207	1	Headline Publishing Group
+1208	1	W F Howes Ltd
+1209	1	DK Publishing (Dorling Kindersley)
+1210	1	Elsevier Australia
+1211	1	Tantor Media, Inc
+1212	1	Simon &amp; Schuster
+1213	1	Simon &amp; Schuster Ltd
+1214	1	The University of Chicago Press
+1215	1	Primal Body-Primal Mind Publishing
+1216	1	McGraw-Hill Education - Europe
+1217	1	Elsevier Health Sciences
+1218	1	John Wiley and Sons Ltd
+1219	1	Penguin Putnam Inc
+1220	1	Hyperion
+1221	1	Watson-Guptill Publications
+1222	1	Brilliance Audio
+1223	1	Brilliance Audio
+1224	1	CCV
+1225	1	Quercus Publishing Plc
+1226	1	Little, Brown Book Group
+1227	1	Oxford University Press
+1228	1	Chronicle Books
+1229	1	John Wiley and Sons Ltd
+1230	1	Chronicle Books
+1231	1	HarperCollins Publishers
+1232	1	Simon &amp; Schuster
+1233	1	Simon &amp; Schuster Merchandise &amp;
+1234	1	Workman Publishing
+1235	1	Outreach Inc
+1236	1	Marvel Comics
+1237	1	Image Comics
+1238	1	Mira Books
+1239	1	MIRA
+1240	1	MIRA
+1241	1	Faber and Faber
+1242	1	G2 Entertainment Ltd
+1243	1	Eos
+1244	1	Simon &amp; Schuster
+1245	1	Lothian Publishing Company
+1246	1	Cengage Learning, Inc
+1247	1	Penguin Books
+1248	1	Pan Macmillan
+1249	1	Jones and Bartlett Publishers, Inc
+1250	1	Random House Books for Young Readers
+1251	1	W F Howes Ltd
+1252	1	Tantor Media, Inc
+1253	1	Orion Publishing Co
+1254	1	Pan Macmillan
+1255	1	Tantor Media, Inc
+1256	1	Spectra Books
+1257	1	Bantam Books
+1258	1	Bantam
+1259	1	Tor Books
+1260	1	Tor Books
+1261	1	Little Brown and Company
+1262	1	HarperCollins Publishers Inc
+1263	0	<NULL>
+1264	1	Penguin Putnam Inc
+1265	1	Penguin Putnam Inc
+1266	1	Simon &amp; Schuster
+1267	1	Penguin Putnam Inc
+1268	1	Pocket Books
+1269	1	Pageturner
+1270	1	Digireads.com
+1271	1	The Perseus Books Group
+1272	1	Little, Brown &amp; Company
+1273	1	Oxford University Press Inc
+1274	1	Berrett-Koehler
+1275	1	Spice
+1276	1	Penguin Putnam Inc
+1277	1	Saint Martin&#039;s Press Inc.
+1278	1	Bantam Doubleday Dell Publishing Group Inc
+1279	1	Bantam Doubleday Dell Publishing Group Inc
+1280	1	Brilliance Audio
+1281	1	Harlequin Teen
+1282	1	Ballantine Books
+1283	1	Orion Publishing Co
+1284	1	Pocket Books
+1285	1	Arcturus Publishing Ltd
+1286	1	Sterling Publishing Co Inc
+1287	1	Little, Brown Book Group
+1288	1	Hyperion E-Books
+1289	1	Bloomsbury Publishing PLC
+1290	1	Penguin Books Ltd
+1291	1	Random House Inc
+1292	1	AuthorHouse
+1293	1	Hodder &amp; Stoughton General Division
+1294	1	Penguin Books Ltd
+1295	1	Penguin Books Ltd
+1296	1	Pan Macmillan
+1297	1	Souvenir Press Ltd
+1298	1	Partera Press,U.S.
+1299	1	Anagrama
+1300	1	New York Review of Books
+1301	1	New Directions Publishing Corporation
+1302	1	Atlantic Books
+1303	1	Saint Martin&#039;s Press Inc.
+1304	1	Night Shade Books
+1305	1	St Martins Pr
+1306	1	Bloomsbury Publishing PLC
+1307	1	Bloomsbury Publishing PLC
+1308	1	Three Rivers Press (CA)
+1309	1	Harmony
+1310	1	Crown Publishing Group
+1311	1	Knopf Publishing Group
+1312	1	Hardie Grant Books
+1313	1	Scholastic US
+1314	1	Puffin Books
+1315	1	Penguin Group USA
+1316	1	Scribner Book Company
+1317	1	Indiana University Press
+1318	1	Blackstone Audiobooks
+1319	1	Simon &amp; Schuster
+1320	1	Bantam Doubleday Dell Publishing Group Inc
+1321	1	HarperCollins Publishers Inc
+1322	1	CCV
+1323	1	Pearson Education Limited
+1324	1	Pearson Education Limited
+1325	1	Riverhead Hardcover
+1326	1	Cornerstone
+1327	1	Grove Press / Atlantic Monthly Press
+1328	1	CCV
+1329	1	Translit Publishing
+1330	1	Random House USA Inc
+1331	1	Penguin Books Ltd
+1332	1	Avalon Travel Publishing
+1333	1	Penguin Books Ltd
+1334	1	HarperCollins Publishers
+1335	1	HarperCollins Publishers
+1336	1	Minotaur Books
+1337	1	Dell Publishing Company
+1338	1	Center Point Large Print
+1339	1	Little, Brown &amp; Company
+1340	1	St. Martin&#039;s Griffin
+1341	1	New World Library
+1342	1	Dutton Books
+1343	1	New World Library
+1344	1	New World Library
+1345	1	Pan Macmillan
+1346	1	Faber and Faber
+1347	1	Vintage Books USA
+1348	1	Blackstone Audiobooks
+1349	1	Little, Brown Book Group
+1350	1	The Perseus Books Group
+1351	1	Orion Publishing Co
+1352	1	Free Press
+1353	1	Turtleback Books
+1354	1	Harper Teen
+1355	1	Walker Books Ltd
+1356	1	Laurence King Publishing
+1357	1	Turtleback Books
+1358	1	Harper Teen
+1359	1	Bantam Books
+1360	1	Blackstone Audiobooks
+1361	1	Random House Audio
+1362	1	Gill &amp; Macmillan Ltd
+1363	1	Constable and Robinson
+1364	1	Ebury Press
+1365	1	Knopf Publishing Group
+1366	1	Cornerstone
+1367	1	David Fulton Publishers Ltd
+1368	1	David Fulton Publishers Ltd
+1369	1	Rowman &amp; Littlefield
+1370	1	Human Kinetics Publishers
+1371	1	A &amp; C Black Publishers Ltd
+1372	1	Rodale Press
+1373	1	Putnam Publishing Group,U.S.
+1374	1	Michael Wiese Productions
+1375	1	Continuum International Publishing Group Ltd.
+1376	1	Jessica Kingsley Publishers
+1377	1	Lippincott Williams and Wilkins
+1378	1	Lippincott Williams and Wilkins
+1379	1	Elsevier Health Sciences
+1380	1	Random House USA Inc
+1381	1	Carlsen Verlag GmbH
+1382	1	Viz Media
+1383	1	Little, Brown &amp; Company
+1384	1	Child Management Inc
+1385	1	Child Management Inc
+1386	1	Prentice Hall (a Pearson Education company)
+1387	1	Guilford Publications
+1388	1	Random House USA Inc
+1389	1	Roaring Brook Press
+1390	1	Ten Speed Press
+1391	1	Ten Speed Press
+1392	1	Pubone.Info
+1393	1	Scholastic US
+1394	1	Random House USA Inc
+1395	1	Penguin Books Ltd
+1396	1	Benediction Classics
+1397	1	Penguin Books Ltd
+1398	1	Random House USA Inc
+1399	1	Wordsworth Editions Ltd
+1400	1	Modern Library
+1401	1	Oxford University Press
+1402	1	Harvard University Press
+1403	1	Kessinger Publishing Co
+1404	1	Oxford University Press
+1405	1	Penguin Books Ltd
+1406	1	Ebury Press
+1407	1	Amber-Allen Publishing,U.S.
+1408	1	Harmony
+1409	1	Random House USA Inc
+1410	1	Hay House Inc
+1411	1	Canongate Books Ltd
+1412	1	Kevin Neeland
+1413	1	A &amp; C Black Publishers Ltd
+1414	1	La Theatre Works
+1415	1	McGraw-Hill Companies
+1416	1	McGraw-Hill Companies
+1417	1	Vintage Books USA
+1418	1	Farrar Straus Giroux
+1419	1	Bolinda Publishing
+1420	1	Brilliance Corporation
+1421	1	Listening Library
+1422	1	Stanford University Press
+1423	1	Findhorn Press Ltd.
+1424	1	Simon &amp; Schuster Ltd
+1425	1	WW Norton &amp; Co
+1426	1	Telos Publishing Ltd
+1427	1	Aurum Press Ltd
+1428	1	Fair Winds Press
+1429	1	David &amp; Charles
+1430	1	Quirk Books
+1431	1	Search Press Ltd
+1432	1	St. Martin&#039;s Griffin
+1433	1	Stone Bridge Press
+1434	1	Penguin Books
+1435	1	Penguin Books Australia
+1436	1	The University Press Group Ltd
+1437	1	John Wiley and Sons Ltd
+1438	1	Murdoch Books
+1439	1	Lonely Planet Publications Ltd
+1440	1	Lonely Planet Publications Ltd
+1441	1	Lonely Planet Publications Ltd
+1442	1	Lonely Planet Publications Ltd
+1443	1	Lonely Planet Publications Ltd
+1444	1	HarperCollins Publishers
+1445	1	The Perseus Books Group
+1446	1	Xlibris Corporation
+1447	1	Thorndike Press
+1448	1	Green Books
+1449	1	CCV
+1450	1	Vertigo
+1451	1	Tuttle Publishing
+1452	1	Penguin Books Ltd
+1453	1	Ulysses Press
+1454	1	Simon &amp; Schuster
+1455	1	F&amp;W Publications Inc
+1456	1	AMMO Books LLC
+1457	1	Health Communications
+1458	1	The Perseus Books Group
+1459	1	North Atlantic Books,U.S.
+1460	1	International Society of Neuro-Semantics
+1461	1	Chartwell Books
+1462	1	Editorial Benei Noaj
+1463	1	Random House (Digital)
+1464	1	David &amp; Charles
+1465	1	Baker Publishing Group
+1466	1	SCM Press
+1467	1	Blackstone Audiobooks
+1468	1	HighBridge Audio
+1469	1	Oxford University Press
+1470	1	HarperCollins Publishers
+1471	1	Prentice Hall (a Pearson Education company)
+1472	1	Hyperion Books
+1473	1	HarperCollins Publishers Inc
+1474	1	Icon Books Ltd
+1475	1	Ulysses Press
+1476	1	North-South Books (Nord-Sud Verlag AG)
+1477	1	HarperCollins Publishers Inc
+1478	1	Beach Lane Books
+1479	1	Little Hare
+1480	1	Usborne Publishing Ltd
+1481	1	Houghton Mifflin Harcourt (HMH)
+1482	1	Summersdale Publishers
+1483	1	Quercus Publishing Plc
+1484	1	Quercus Publishing Plc
+1485	1	Quercus Publishing Plc
+1486	1	Orion Publishing Co
+1487	1	Berrett-Koehler
+1488	1	Saint Martin&#039;s Press Inc.
+1489	1	Harvard Business School Publishing
+1490	1	Inner Traditions Bear and Company
+1491	1	New Harbinger Publications,U.S.
+1492	1	Lippincott Williams and Wilkins
+1493	1	A &amp; C Black Publishers Ltd
+1494	1	AVA Publishing SA
+1495	1	AVA Publishing SA
+1496	1	A &amp; C Black Publishers Ltd
+1497	1	The Perseus Books Group
+1498	1	New World Library
+1499	1	Penguin Putnam Inc
+1500	1	Penguin Putnam Inc
+1501	1	HarperCollins Publishers Inc
+1502	1	Zebra
+1503	1	Zebra
+1504	1	Zebra Books
+1505	1	Penguin Putnam Inc
+1506	1	Taylor &amp; Francis Ltd
+1507	1	ABC-CLIO
+1508	0	<NULL>
+1509	1	AuthorHouse
+1510	1	MacMillan Audio
+1511	1	Hachette Filipacchi Media
+1512	1	Hachette Filipacchi Media
+1513	1	Abrams
+1514	1	Ryland, Peters &amp; Small Ltd
+1515	1	Random House Publishing Group
+1516	1	Penguin Putnam Inc
+1517	1	Hodder &amp; Stoughton General Division
+1518	1	Cornerstone
+1519	1	Cornerstone
+1520	1	Simon &amp; Schuster Audio
+1521	1	Pocket Books
+1522	1	Cornerstone
+1523	1	Bloomsbury Publishing PLC
+1524	1	HarperCollins Publishers
+1525	1	F&amp;W Publications Inc
+1526	1	BBC Children&#039;s Books
+1527	1	Marvel Comics
+1528	1	Titan Books Ltd
+1529	1	Titan Books Ltd
+1530	1	Indiana University Press
+1531	1	Rizzoli International Publications
+1532	1	Historic Houses Trust of New South Wales
+1533	1	Aperture
+1534	1	Vertigo
+1535	1	Pear Press
+1536	1	Hawthorn Press Ltd
+1537	1	Hay House Inc
+1538	1	Hay House Inc
+1539	1	Hay House Inc
+1540	1	Inner Traditions Bear and Company
+1541	1	Inner Traditions Bear and Company
+1542	1	Black Belt Communications
+1543	1	Contemporary Books Inc
+1544	1	Crystal Clarity,U.S.
+1545	1	Wheeler Publishing
+1546	1	Penguin Group USA
+1547	1	Brilliance Audio
+1548	1	Brilliance Corporation
+1549	1	Walker &amp; Co
+1550	1	MTV Books
+1551	1	Little, Brown &amp; Company
+1552	1	Speak
+1553	1	Wizards of the Coast
+1554	1	Wizards of the Coast
+1555	1	Wizards of the Coast
+1556	1	Mira Books
+1557	1	Blackstone Audiobooks
+1558	1	Dorling Kindersley Inc
+1559	1	Marvel Comics
+1560	1	Marvel Comics
+1561	1	Workman Publishing
+1562	1	Motorbooks International
+1563	1	Max Ellery Publications
+1564	1	Haynes Publishing
+1565	1	McGraw-Hill Education - Europe
+1566	1	TheValueGuide
+1567	1	HarperCollins Publishers Inc
+1568	1	Orion Publishing Co
+1569	1	Jove Books
+1570	1	Putnam Adult
+1571	1	Hqn
+1572	1	Brilliance Audio
+1573	1	HarperCollins Publishers Inc
+1574	1	Indypublish.com
+1575	1	Little, Brown Book Group
+1576	1	Digireads.com
+1577	1	Simon &amp; Schuster
+1578	1	Inner Traditions Bear and Company
+1579	1	HarperCollins Publishers
+1580	1	John Wiley and Sons Ltd
+1581	1	Hodder Education
+1582	1	Ebury Press
+1583	1	Chronicle Books
+1584	1	HarperCollins Publishers
+1585	1	Transworld Publishers Ltd
+1586	1	Penguin Books
+1587	1	Oxford University Press
+1588	1	Penguin Books Ltd
+1589	1	Digireads.com
+1590	1	Sterling Juvenile
+1591	1	Pearson Education, Oxford
+1592	1	Ebookslib
+1593	0	<NULL>
+1594	1	Canongate Books Ltd
+1595	1	Berkley Publishing Group
+1596	1	Anchor Books
+1597	1	HarperCollins Publishers
+1598	1	Random House
+1599	1	WW Norton &amp; Co
+1600	1	Harper Perennial
+1601	1	HarperCollins Publishers Inc
+1602	1	Harper Perennial
+1603	1	Harper Teen
+1604	1	Savas Beatie
+1605	1	Canongate Books Ltd
+1606	1	Blackstone Audiobooks
+1607	1	The University of Chicago Press
+1608	1	Pan Macmillan
+1609	1	Gildan Media Corporation
+1610	1	WW Norton &amp; Co
+1611	1	John Wiley and Sons Ltd
+1612	1	Pan Macmillan
+1613	1	Murdoch Books
+1614	1	John Murray General Publishing Division
+1615	1	Fair Winds Press
+1616	1	John Wiley and Sons Ltd
+1617	1	Insomniac Press
+1618	1	Seal Press
+1619	1	Harvest House Publishers,U.S.
+1620	1	HarperCollins Publishers
+1621	1	Liguori Publications,U.S.
+1622	1	HarperCollins Publishers Inc
+1623	1	HarperAudio
+1624	1	Dark Horse Comics,U.S.
+1625	1	Dark Horse Comics,U.S.
+1626	1	Motorbooks International
+1627	1	Crown Publishers
+1628	1	Orion Publishing Co
+1629	1	Taunton Press Inc
+1630	1	Taunton Press Inc
+1631	1	Brilliance Audio
+1632	1	Workman Publishing
+1633	1	Simon &amp; Schuster
+1634	1	Turtleback Books
+1635	1	Beacon Press
+1636	1	Cambridge Univ Pr
+1637	1	Cambridge University Press
+1638	1	Tantor Media, Inc
+1639	1	Penguin Putnam Inc
+1640	1	Brilliance Corporation
+1641	1	Little, Brown Book Group
+1642	1	Jove Books
+1643	1	Candlewick Press,U.S.
+1644	1	Candlewick Press (MA)
+1645	1	Waking Lion Press
+1646	1	Dover Publications Inc.
+1647	1	New Press
+1648	1	Continuum International Publishing Group Ltd.
+1649	1	Cambridge University Press
+1650	1	Harvard University Press
+1651	1	Oneworld Publications
+1652	1	Penguin Putnam Inc
+1653	1	Autonomedia
+1654	1	Tor Books
+1655	1	Berkley
+1656	1	Turtleback Books
+1657	1	Pan Macmillan Australia
+1658	1	Knopf
+1659	1	Penguin Books Ltd
+1660	1	Little, Brown &amp; Company
+1661	1	Little, Brown &amp; Company
+1662	1	Warner Books
+1663	1	Little Brown and Company
+1664	1	Little, Brown &amp; Company
+1665	1	Hachette Book Group USA
+1666	1	Cahiers du Cinema
+1667	1	Hachette Audio
+1668	1	HarperCollins Publishers Inc
+1669	1	Hyperion
+1670	0	<NULL>
+1671	1	Elsevier Science &amp; Technology
+1672	1	Transworld Publishers Ltd
+1673	1	Delacorte Press
+1674	1	Delacorte Press
+1675	1	c
+1676	1	Jove Books
+1677	1	Random House USA Inc
+1678	1	Thorndike Press
+1679	1	Dell Publishing Company
+1680	1	Random House Children&#039;s Books
+1681	1	Dell Publishing Company
+1682	1	HarperCollins Publishers Inc
+1683	1	Penguin Putnam Inc
+1684	1	Random House Audio Price-Less
+1685	1	Pan Macmillan
+1686	1	Random House USA Inc
+1687	1	Berkley Publishing Group
+1688	1	St. Martin&#039;s Press
+1689	1	Random House USA Inc
+1690	1	Tantor Media, Inc
+1691	1	Berkley Publishing Group
+1692	1	Zebra Books
+1693	1	SAGE Publications Ltd
+1694	1	Minotaur Books
+1695	1	CCV
+1696	1	Mariner Books
+1697	1	Faber and Faber
+1698	1	New American Library
+1699	1	HarperCollins Publishers Inc
+1700	1	Harper Paperbacks
+1701	1	The Perseus Books Group
+1702	1	John Wiley and Sons Ltd
+1703	1	John Wiley and Sons Ltd
+1704	1	Gallimard Education
+1705	1	Penguin Books Ltd
+1706	1	Crown Publishing Group
+1707	1	Titan Books Ltd
+1708	1	D C Comics (a division of Warner Brothers - A Time Warner Entertainment Co.)
+1709	1	Pearson Education, Oxford
+1710	1	CCV
+1711	1	Naxos AudioBooks
+1712	1	Naxos AudioBooks
+1713	1	Knopf Publishing Group
+1714	1	Vintage Books USA
+1715	1	Blackstone Audiobooks
+1716	1	Schocken Books
+1717	1	Hill &amp; Wang Inc.,U.S.
+1718	1	The Perseus Books Group
+1719	1	Little, Brown Book Group
+1720	1	Ivan R Dee, Inc
+1721	1	Blackstone Audiobooks
+1722	1	Dell Publishing Company
+1723	1	Pearson Education (US)
+1724	1	HarperBusiness
+1725	1	Bantam Doubleday Dell Publishing Group Inc
+1726	1	Recorded Books
+1727	1	Dell Publishing Company
+1728	1	Random House Publishing Group
+1729	1	Penguin Putnam Inc
+1730	1	Tor Books
+1731	1	Random House Publishing Group
+1732	1	Hampton Roads Publishing Co
+1733	1	Solaris
+1734	1	Pan Macmillan (Digital)
+1735	1	Random House USA Inc
+1736	1	Pearson Education (US)
+1737	1	Elsevier Australia
+1738	1	Peachpit Press
+1739	1	Pearson Education (US)
+1740	0	<NULL>
+1741	1	Knopf Publishing Group
+1742	1	Blackstone Audiobooks
+1743	1	Digireads.com
+1744	1	Colombia
+1745	1	Harvest House Publishers,U.S.
+1746	1	Harvest House Publishers,U.S.
+1747	1	Zondervan
+1748	1	Zondervan
+1749	1	Zondervan
+1750	1	Inter-Varsity Press
+1751	1	The Perseus Books Group
+1752	1	Zondervan
+1753	1	Zondervan
+1754	1	Ebury Press
+1755	1	Digireads.com
+1756	1	SAGE Publications Inc
+1757	1	John Wiley and Sons Ltd
+1758	1	Pearson Education Limited
+1759	1	Continuum International Publishing Group Ltd.
+1760	1	Dover Publications Inc.
+1761	1	Penguin Books
+1762	1	Harcourt Children&#039;s Books
+1763	1	Tantor Media, Inc
+1764	1	HarperCollins Publishers Inc
+1765	1	Harvard Business School Publishing
+1766	1	Penguin Books Ltd
+1767	1	Penguin Books Ltd
+1768	1	John Wiley &amp; Sons
+1769	1	Philomel Books
+1770	1	Philomel Books
+1771	1	Playaway
+1772	1	Playaway
+1773	1	Indypublish.com
+1774	1	Nuvision Publications
+1775	1	Penguin Books Ltd
+1776	1	CCV
+1777	1	Houghton Mifflin Harcourt (HMH)
+1778	1	Recorded Books
+1779	1	Faber and Faber
+1780	1	Little, Brown Books for Young Readers
+1781	1	Random House USA Inc
+1782	1	Penguin Books Ltd
+1783	1	Caedmon
+1784	1	Pearson Education Limited
+1785	1	Gallimard Education
+1786	1	Penguin Books Ltd
+1787	1	Little, Brown Book Group
+1788	1	WW Norton &amp; Co
+1789	1	CRW Publishing Limited
+1790	1	CRW Publishing Limited
+1791	1	Digireads.com
+1792	1	Random House (Digital)
+1793	1	HarperCollins Publishers
+1794	1	Harper
+1795	1	Simon &amp; Schuster Ltd
+1796	1	Cornerstone
+1797	1	McGraw-Hill Medical
+1798	1	Elsevier Health Sciences
+1799	1	Radcliffe Publishing Ltd
+1800	1	Walker Books Ltd
+1801	1	Little, Brown &amp; Company
+1802	1	HarperCollins
+1803	1	University of Minnesota Press
+1804	1	Avon Books
+1805	1	St. Martin&#039;s Press
+1806	1	Harper
+1807	1	HarperCollins Publishers
+1808	1	Soho Press Inc
+1809	1	HarperTorch
+1810	1	Random House Children&#039;s Books
+1811	1	New Directions Publishing Corporation
+1812	1	HarperCollins Publishers Inc
+1813	1	City Lights Books
+1814	1	HarperCollins Publishers Inc
+1815	1	Harperchildren&#039;s Audio
+1816	1	Harper Children&#039;s Audio
+1817	1	Chicken House Ltd
+1818	1	Penguin Putnam Inc
+1819	1	Cambridge University Press
+1820	1	Cambridge University Press
+1821	1	Nan A. Talese
+1822	1	Random House Audio Assets
+1823	1	Orion Publishing Co
+1824	1	Edition Axel Menges
+1825	1	Oxford University Press
+1826	1	Orion Publishing Co
+1827	1	Kodansha International Ltd
+1828	1	Ten Speed Press
+1829	1	Steidl Publishers
+1830	1	J &amp; L Books
+1831	1	eCruiting Alternatives Inc
+1832	1	Editions J&#039;ai lu
+1833	1	Viz Media, Subs. of Shogakukan Inc
+1834	1	Image Comics
+1835	1	Dynamic Forces Inc
+1836	1	Human Kinetics Publishers
+1837	1	Lonely Planet Publications Ltd
+1838	1	Houghton Mifflin
+1839	1	Random House Children&#039;s Books
+1840	1	Turtleback Books
+1841	1	HarperCollins Publishers Inc
+1842	1	Aladdin Paperbacks
+1843	1	Hachette Children&#039;s Books
+1844	1	Jessica Kingsley Publishers
+1845	1	Autism Asperger Publishing Co,US
+1846	1	Future Horizons Incorporated
+1847	1	Scholastic Paperbacks
+1848	1	Jessica Kingsley Publishers
+1849	1	Chelsea Green Publishing Company
+1850	1	Regnery Publishing Inc
+1851	1	University of Iowa Press
+1852	1	Alfred A. Knopf
+1853	1	Penguin Books Ltd
+1854	1	Scholastic Australia
+1855	1	CRW Publishing Limited
+1856	1	WW Norton &amp; Co
+1857	1	David &amp; Charles
+1858	1	Floris Books
+1859	1	Floris Books
+1860	1	Floris Books
+1861	1	Octopus Publishing Group
+1862	1	North Atlantic Books,U.S.
+1863	1	Ebury Press
+1864	1	Sentient Publications
+1865	1	Jolly Learning Ltd
+1866	1	Bristol Publishing Enterprises Inc.,U.S.
+1867	1	Random House USA Inc
+1868	1	Laurence King Publishing
+1869	1	Bloomsbury Publishing PLC
+1870	1	Hachette Children&#039;s Books
+1871	1	Mission Audio
+1872	1	Random House USA Inc
+1873	1	CCV
+1874	1	Dodo Press
+1875	1	Naxos AudioBooks
+1876	1	Wildside Press
+1877	1	Ebookslib
+1878	1	1st World Library, Ltd
+1879	1	1st World Library
+1880	1	Nuvision Publications
+1881	1	Digireads.com
+1882	1	Bastian Books
+1883	1	Ediciones B
+1884	0	<NULL>
+1885	1	Oxford University Press
+1886	1	Penguin Books Ltd
+1887	1	CCV
+1888	1	Razorbill
+1889	1	Thames &amp; Hudson Ltd
+1890	1	HarperCollins Publishers Inc
+1891	1	Alba &amp; Tromm
+1892	1	Ebury Press
+1893	1	Christian Focus Publications Ltd
+1894	0	<NULL>
+1895	1	Penguin Books Ltd
+1896	1	CCV
+1897	1	W F Howes Ltd
+1898	1	Cornerstone
+1899	1	Anchor Books
+1900	1	Vintage
+1901	1	Yearling Books
+1902	1	Brilliance Corporation
+1903	1	Thorndike Press
+1904	1	Listening Library
+1905	1	Random House USA Inc
+1906	1	WW Norton &amp; Co
+1907	1	WW Norton &amp; Co
+1908	1	Wordsworth Editions Ltd
+1909	1	HarperCollins Publishers Inc
+1910	1	Vintage Books USA
+1911	1	Random House Large Print Publishing
+1912	1	How To Books Ltd
+1913	1	Taylor &amp; Francis Ltd
+1914	1	SAGE Publications Ltd
+1915	1	Open University Press
+1916	1	SAGE Publications Ltd
+1917	1	Sterling Publishing Co Inc
+1918	1	Little, Brown &amp; Company
+1919	0	<NULL>
+1920	1	Turtleback Books
+1921	1	The Perseus Books Group
+1922	1	Penguin Books Australia
+1923	1	Random House USA Inc
+1924	1	Random House USA Inc
+1925	1	Welcome Enterprises, Inc
+1926	1	Thomas Dunne Books
+1927	1	Quercus Publishing Plc
+1928	1	John Wiley &amp; Sons
+1929	1	John Wiley and Sons Ltd
+1930	1	John Wiley and Sons Ltd
+1931	1	Headline Publishing Group
+1932	1	John Wiley and Sons Ltd
+1933	1	Pan Macmillan
+1934	1	Penguin Books
+1935	1	Anchor Books
+1936	1	Playaway
+1937	1	HarperTorch
+1938	1	Grand Central Publishing
+1939	1	Grand Central Publishing
+1940	1	Piccadilly Press Ltd
+1941	1	Luath Press Ltd
+1942	1	Touchstone Books
+1943	1	Simon &amp; Schuster Australia
+1944	0	<NULL>
+1945	1	Canongate Books Ltd
+1946	1	Penguin Books Ltd
+1947	1	Lion Hudson Plc
+1948	1	Fair Winds Press
+1949	1	Digireads.com
+1950	1	Hackett Publishing Co, Inc
+1951	1	Hackett Publishing Co, Inc
+1952	1	Dover Publications Inc.
+1953	1	Dover Publications Inc.
+1954	1	Dover Publications Inc.
+1955	1	Penguin Books Ltd
+1956	1	CCV
+1957	1	Games Workshop
+1958	1	Thames &amp; Hudson Ltd
+1959	1	David R. Godine Publisher Inc
+1960	1	Del Rey Books
+1961	1	Penguin Books Ltd
+1962	1	Random House Children&#039;s Books
+1963	1	Random House Children&#039;s Books
+1964	1	Saint Martin&#039;s Press Inc.
+1965	1	Faber and Faber
+1966	1	Cambridge University Press (Virtual Publishing)
+1967	1	Tantor Media, Inc
+1968	1	Bantam Classics
+1969	1	Wordsworth Editions Ltd
+1970	1	Fine Communications,US
+1971	1	Drawn and Quarterly
+1972	1	Lonely Planet Publications Ltd
+1973	1	Lonely Planet Publications Ltd
+1974	1	Lonely Planet Publications Ltd
+1975	1	Lonely Planet Publications Ltd
+1976	1	Lonely Planet Publications Ltd
+1977	1	Lonely Planet Publications Ltd
+1978	1	Penguin Books Ltd
+1979	1	Vacation - Work
+1980	1	Walker Books Ltd
+1981	1	Lonely Planet Publications Ltd
+1982	1	Lonely Planet
+1983	1	Lonely Planet Publications Ltd
+1984	1	Lonely Planet Publications Ltd
+1985	1	Beck C. H.
+1986	1	DTV Deutscher Taschenbuch
+1987	1	Penguin Books Ltd
+1988	1	Edimat Libros
+1989	1	Edimat Libros
+1990	1	Dover Publications Inc.
+1991	1	Image Comics
+1992	1	Andrews McMeel Publishing
+1993	1	Avery Publishing Group Inc.,U.S.
+1994	1	The Perseus Books Group
+1995	0	<NULL>
+1996	1	www.bnpublishing.com
+1997	1	Workman Publishing
+1998	1	F&amp;W Publications Inc
+1999	1	DC Comics

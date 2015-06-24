@@ -1,0 +1,311 @@
+﻿camera	thenerds	manufacturer
+309	309	870	64
+0000	2	Samsung	SAMSUNG
+0001	3	Sakar	Sakar International, Inc	GIRL GEAR
+0002	2	VuPoint Solutions	VUPOINT SOLUTIONS
+0003	2	Panasonic	PANASONIC
+0004	3	Agfa	Agfa-Gevaert Group	VISTAQUEST
+0005	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0006	2	Panasonic	PANASONIC
+0007	3	Argus	Argus Camera Co., LLC	VISIONTEK
+0008	2	Panasonic	PANASONIC
+0009	2	Panasonic	PANASONIC
+0010	2	Panasonic	PANASONIC
+0011	2	Panasonic	PANASONIC
+0012	3	Cobra	Cobra Electronics Corporation	COBRA ELECTRONICS
+0013	3	Vivitar	Vivitar Corporation	VIVITAR
+0014	3	Casio	Casio Computer Co., Ltd	CASIO
+0015	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0016	3	Canon	Canon, Inc	CANON
+0017	3	Canon	Canon, Inc	CANON
+0018	2	Panasonic	PANASONIC
+0019	2	VuPoint Solutions	VUPOINT SOLUTIONS
+0020	2	Panasonic	PANASONIC
+0021	3	Kodak	Eastman Kodak Company	KODAK
+0022	3	Kodak	Eastman Kodak Company	KODAK
+0023	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0024	3	Vivitar	Vivitar Corporation	VIVITAR
+0025	3	Casio	Casio Computer Co., Ltd	CASIO
+0026	3	Sony	Sony Corporation	SONY
+0027	3	Sony	Sony Corporation	SONY
+0028	3	Kodak	Eastman Kodak Company	KODAK
+0029	3	Nikon	Nikon Corporation	NIKON INC.
+0030	3	Nikon	Nikon Corporation	NIKON INC.
+0031	3	Canon	Canon, Inc	CANON
+0032	3	Canon	Canon, Inc	CANON
+0033	3	Sony	Sony Corporation	SONY
+0034	3	Canon	Canon, Inc	CANON
+0035	3	Canon	Canon, Inc	CANON
+0036	3	Canon	Canon, Inc	CANON
+0037	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0038	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0039	3	GE	General Electric Company	GENERAL ELECTRIC
+0040	3	GE	General Electric Company	GENERAL ELECTRIC
+0041	3	GE	General Imaging Company	GENERAL ELECTRIC
+0042	3	General Imaging	General Imaging Company	GENERAL ELECTRIC
+0043	3	General Imaging	General Imaging Company	GENERAL ELECTRIC
+0044	3	General Imaging	General Imaging Company	GENERAL ELECTRIC
+0045	3	General Imaging	General Imaging Company	GENERAL ELECTRIC
+0046	3	Casio	Casio Computer Co., Ltd	CASIO
+0047	3	Casio	Casio Computer Co., Ltd	CASIO
+0048	3	Casio	Casio Computer Co., Ltd	CASIO
+0049	3	Casio	Casio Computer Co., Ltd	CASIO
+0050	3	Casio	Casio Computer Co., Ltd	CASIO
+0051	3	Casio	Casio Computer Co., Ltd	CASIO
+0052	3	Casio	Casio Computer Co., Ltd	CASIO
+0053	3	Casio	Casio Computer Co., Ltd	CASIO
+0054	3	Casio	Casio Computer Co., Ltd	CASIO
+0055	3	Casio	Casio Computer Co., Ltd	CASIO
+0056	3	Casio	Casio Computer Co., Ltd	CASIO
+0057	3	Casio	Casio Computer Co., Ltd	CASIO
+0058	3	Casio	Casio Computer Co., Ltd	CASIO
+0059	3	Casio	Casio Computer Co., Ltd	CASIO
+0060	3	Casio	Casio Computer Co., Ltd	CASIO
+0061	3	Casio	Casio Computer Co., Ltd	CASIO
+0062	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0063	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0064	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0065	3	Sakar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0066	3	Canon	Canon, Inc	CANON
+0067	3	Canon	Canon, Inc	CANON
+0068	3	Canon	Canon, Inc	CANON
+0069	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0070	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0071	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0072	2	Disney Interactive	DISNEY
+0073	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0074	3	Olympus	Olympus Corporation	OLYMPUS
+0075	3	Intova	International Innovations, Inc	INTERNATIONAL INNOVATIONS
+0076	3	HP	Hewlett-Packard	HEWLETT-PACKARD
+0077	3	HP	Hewlett-Packard	HEWLETT-PACKARD
+0078	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0079	3	GE	General Imaging Company	GENERAL ELECTRIC
+0080	3	General Imaging	General Imaging Company	GENERAL ELECTRIC
+0081	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0082	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0083	3	Kodak	Eastman Kodak Company	KODAK
+0084	3	Kodak	Eastman Kodak Company	KODAK
+0085	3	Kodak	Eastman Kodak Company	KODAK
+0086	3	Kodak	Eastman Kodak Company	KODAK
+0087	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0088	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0089	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0090	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0091	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0092	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0093	3	Kodak	Eastman Kodak Company	KODAK
+0094	3	Kodak	Eastman Kodak Company	KODAK
+0095	2	Panasonic	PANASONIC
+0096	3	Kodak	Eastman Kodak Company	KODAK
+0097	3	Kodak	Eastman Kodak Company	KODAK
+0098	3	Casio	Casio Computer Co., Ltd	CASIO
+0099	3	Casio	Casio Computer Co., Ltd	CASIO
+0100	3	Casio	Casio Computer Co., Ltd	CASIO
+0101	3	Casio	Casio Computer Co., Ltd	CASIO
+0102	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0103	3	Canon	Canon, Inc	CANON
+0104	3	Canon	Canon, Inc	CANON
+0105	3	Canon	Canon, Inc	CANON
+0106	2	Panasonic	PANASONIC
+0107	2	Panasonic	PANASONIC
+0108	2	Panasonic	PANASONIC
+0109	2	Panasonic	PANASONIC
+0110	3	Casio	Casio Computer Co., Ltd	CASIO
+0111	3	Casio	Casio Computer Co., Ltd	CASIO
+0112	3	Casio	Casio Computer Co., Ltd	CASIO
+0113	3	Casio	Casio Computer Co., Ltd	CASIO
+0114	3	Nikon	Nikon Corporation	NIKON INC.
+0115	3	Nikon	Nikon Corporation	NIKON INC.
+0116	3	Nikon	Nikon Corporation	NIKON INC.
+0117	3	Nikon	Nikon Corporation	NIKON INC.
+0118	2	Panasonic	PANASONIC
+0119	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0120	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0121	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0122	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0123	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0124	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0125	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0126	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0127	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0128	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0129	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0130	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0131	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0132	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0133	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0134	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0135	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0136	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0137	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0138	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0139	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0140	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0141	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0142	3	Canon	Canon, Inc	CANON
+0143	3	Canon	Canon, Inc	CANON
+0144	3	Canon	Canon, Inc	CANON
+0145	3	Canon	Canon, Inc	CANON
+0146	3	Canon	Canon, Inc	CANON
+0147	3	Nikon	Nikon Corporation	NIKON INC.
+0148	3	Nikon	Nikon Corporation	NIKON INC.
+0149	3	Nikon	Nikon Corporation	NIKON INC.
+0150	3	Nikon	Nikon Corporation	NIKON INC.
+0151	3	Nikon	Nikon Corporation	NIKON INC.
+0152	3	Nikon	Nikon Corporation	NIKON INC.
+0153	3	Nikon	Nikon Corporation	NIKON INC.
+0154	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0155	3	VistaQuest	VistaQuest Corporation	VISTAQUEST
+0156	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0157	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0158	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0159	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0160	3	Vivitar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0161	3	Sakar	Sakar International, Inc	SAKAR INTERNATIONAL, INC.
+0162	3	GE	General Electric Company	GENERAL ELECTRIC
+0163	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0164	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0165	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0166	3	Casio	Casio Computer Co., Ltd	CASIO
+0167	3	Sony	Sony Corporation	SONY
+0168	3	Canon	Canon, Inc	CANON
+0169	3	Canon	Canon, Inc	CANON
+0170	3	Canon	Canon, Inc	CANON
+0171	3	Canon	Canon, Inc	CANON
+0172	3	Canon	Canon, Inc	CANON
+0173	3	Canon	Canon, Inc	CANON
+0174	3	Canon	Canon, Inc	CANON
+0175	3	Sony	Sony Corporation	SONY
+0176	3	Sony	Sony Corporation	SONY
+0177	3	Sony	Sony Corporation	SONY
+0178	3	Sony	Sony Corporation	SONY
+0179	3	Kodak	Eastman Kodak Company	KODAK
+0180	3	Kodak	Eastman Kodak Company	KODAK
+0181	3	Kodak	Eastman Kodak Company	KODAK
+0182	3	Kodak	Eastman Kodak Company	KODAK
+0183	3	Kodak	Eastman Kodak Company	KODAK
+0184	3	Kodak	Eastman Kodak Company	KODAK
+0185	3	Kodak	Eastman Kodak Company	KODAK
+0186	3	Kodak	Eastman Kodak Company	KODAK
+0187	3	Kodak	Eastman Kodak Company	KODAK
+0188	3	Kodak	Eastman Kodak Company	KODAK
+0189	3	Kodak	Eastman Kodak Company	KODAK
+0190	3	Kodak	Eastman Kodak Company	KODAK
+0191	3	Kodak	Eastman Kodak Company	KODAK
+0192	3	Kodak	Eastman Kodak Company	KODAK
+0193	3	Kodak	Eastman Kodak Company	KODAK
+0194	3	Olympus	Olympus Corporation	OLYMPUS
+0195	3	Olympus	Olympus Corporation	OLYMPUS
+0196	3	Olympus	Olympus Corporation	OLYMPUS
+0197	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0198	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0199	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0200	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0201	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0202	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0203	3	Kodak	Eastman Kodak Company	KODAK
+0204	2	Panasonic	PANASONIC
+0205	2	Panasonic	PANASONIC
+0206	2	Panasonic	PANASONIC
+0207	2	Panasonic	PANASONIC
+0208	2	Panasonic	PANASONIC
+0209	2	Panasonic	PANASONIC
+0210	2	Panasonic	PANASONIC
+0211	2	Panasonic	PANASONIC
+0212	2	Panasonic	PANASONIC
+0213	2	Panasonic	PANASONIC
+0214	2	Panasonic	PANASONIC
+0215	2	Panasonic	PANASONIC
+0216	2	Panasonic	PANASONIC
+0217	2	Panasonic	PANASONIC
+0218	2	Panasonic	PANASONIC
+0219	2	Panasonic	PANASONIC
+0220	2	Panasonic	PANASONIC
+0221	2	Panasonic	PANASONIC
+0222	2	Panasonic	PANASONIC
+0223	2	Panasonic	PANASONIC
+0224	2	Panasonic	PANASONIC
+0225	2	Panasonic	PANASONIC
+0226	2	Panasonic	PANASONIC
+0227	2	Panasonic	PANASONIC
+0228	2	Panasonic	PANASONIC
+0229	2	Panasonic	PANASONIC
+0230	2	Panasonic	PANASONIC
+0231	2	Panasonic	PANASONIC
+0232	2	Panasonic	PANASONIC
+0233	2	Panasonic	PANASONIC
+0234	2	Panasonic	PANASONIC
+0235	2	Panasonic	PANASONIC
+0236	2	Panasonic	PANASONIC
+0237	2	Panasonic	PANASONIC
+0238	2	Panasonic	PANASONIC
+0239	2	Panasonic	PANASONIC
+0240	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0241	3	Pentax	PENTAX Imaging Company	PENTAX U.S.A
+0242	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0243	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0244	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0245	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0246	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0247	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0248	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0249	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0250	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0251	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0252	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0253	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0254	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0255	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0256	3	Nikon	Nikon Corporation	NIKON INC.
+0257	3	Nikon	Nikon Corporation	NIKON INC.
+0258	3	Nikon	Nikon Corporation	NIKON INC.
+0259	3	Nikon	Nikon Corporation	NIKON INC.
+0260	3	Nikon	Nikon Corporation	NIKON INC.
+0261	3	Nikon	Nikon Corporation	NIKON INC.
+0262	3	Nikon	Nikon Corporation	NIKON INC.
+0263	3	Nikon	Nikon Corporation	NIKON INC.
+0264	3	Nikon	Nikon Corporation	NIKON INC.
+0265	3	Nikon	Nikon Corporation	NIKON INC.
+0266	3	Nikon	Nikon Corporation	NIKON INC.
+0267	3	Nikon	Nikon Corporation	NIKON INC.
+0268	3	Nikon	Nikon Corporation	NIKON INC.
+0269	3	Nikon	Nikon Corporation	NIKON INC.
+0270	3	Nikon	Nikon Corporation	NIKON INC.
+0271	3	Nikon	Nikon Corporation	NIKON INC.
+0272	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0273	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0274	3	Fujifilm	Fuji Photo Film Co. Ltd	FUJI
+0275	3	Canon	Canon, Inc	CANON
+0276	3	Canon	Canon, Inc	CANON
+0277	3	Canon	Canon, Inc	CANON
+0278	3	Canon	Canon, Inc	CANON
+0279	3	Canon	Canon, Inc	CANON
+0280	3	Canon	Canon, Inc	CANON
+0281	3	Canon	Canon, Inc	CANON
+0282	3	Canon	Canon, Inc	CANON
+0283	3	Canon	Canon, Inc	CANON
+0284	3	Canon	Canon, Inc	CANON
+0285	3	Canon	Canon, Inc	CANON
+0286	3	Canon	Canon, Inc	CANON
+0287	3	Canon	Canon, Inc	CANON
+0288	3	Canon	Canon, Inc	CANON
+0289	2	Panasonic	PANASONIC
+0290	2	Panasonic	PANASONIC
+0291	2	Panasonic	PANASONIC
+0292	3	Kodak	Eastman Kodak Company	KODAK
+0293	3	Kodak	Eastman Kodak Company	KODAK
+0294	3	Kodak	Eastman Kodak Company	KODAK
+0295	3	Sony	Sony Corporation	SONY
+0296	3	Polaroid	Polaroid Corporation	POLAROID CORPORATION
+0297	3	GE	General Electric Company	GENERAL ELECTRIC
+0298	3	GE	General Electric Company	GENERAL ELECTRIC
+0299	3	GE	General Electric Company	GENERAL ELECTRIC
+0300	3	GE	General Electric Company	GENERAL ELECTRIC
+0301	3	GE	General Electric Company	GENERAL ELECTRIC
+0302	3	GE	General Electric Company	GENERAL ELECTRIC
+0303	3	GE	General Electric Company	GENERAL ELECTRIC
+0304	3	GE	General Electric Company	GENERAL ELECTRIC
+0305	3	GE	General Electric Company	GENERAL ELECTRIC
+0306	3	GE	General Electric Company	GENERAL ELECTRIC
+0307	3	GE	General Electric Company	GENERAL ELECTRIC
+0308	3	GE	General Electric Company	GENERAL ELECTRIC

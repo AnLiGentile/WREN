@@ -1,0 +1,2002 @@
+﻿book	amazon	author
+2000	2000	2294	1441
+0000	1	Stieg Larsson
+0001	1	Stieg Larsson
+0002	1	Glenn Beck
+0003	1	Christopher Reich
+0004	1	Janet Evanovich
+0005	1	Justin Cronin
+0006	1	Naomi Novik
+0007	1	Naomi Novik
+0008	1	Karen Kingsbury
+0009	1	Stephenie Meyer
+0010	1	Jane Austen
+0011	1	Jane Austen
+0012	1	Nelson DeMille
+0013	1	Nelson DeMille
+0014	1	Don Brown
+0015	1	Lee Child
+0016	1	Scott Turow
+0017	1	Peter A. Lillback
+0018	1	Elizabeth Gilbert
+0019	1	Suzanne Collins
+0020	1	Emily Giffin
+0021	1	Stephenie Meyer
+0022	1	Lisa Kleypas
+0023	1	Lisa Kleypas
+0024	1	Nancy Pickard
+0025	1	Eric Van Lustbader
+0026	1	Paul Harding
+0027	1	Paul Harding
+0028	1	Khaled Hosseini
+0029	1	Khaled Hosseini
+0030	1	Laurell K. Hamilton
+0031	1	Stephenie Meyer
+0032	1	Jacob Grimm
+0033	1	J.R. Ward
+0034	1	Stephen King
+0035	1	Nassim Nicholas Taleb
+0036	1	Nassim Nicholas Taleb
+0037	1	Mark Haddon
+0038	1	Oscar Wilde
+0039	1	Charlaine Harris
+0040	1	Dave Eggers
+0041	1	Dave Eggers
+0042	1	Randy; Zaslow, Jeffrey Pausch
+0043	1	Gaston Leroux
+0044	1	Tori Spelling
+0045	1	Karen Kingsbury
+0046	2	Chip Heath	Dan Heath
+0047	2	Chip Heath	Dan Heath
+0048	1	Richelle Mead
+0049	1	Aldous Huxley
+0050	1	Aldous Huxley
+0051	1	David L. Cook
+0052	1	John Steinbeck
+0053	1	Christopher Hitchens
+0054	2	T. Colin Campbell	Thomas M. Campbell II
+0055	2	Heidi Murkoff	Sharon Mazel
+0056	2	Heidi Murkoff	Sharon Mazel
+0057	1	Yann Martel
+0058	1	Douglas;Chi Preston
+0059	1	Kate Morton
+0060	1	Stieg Larsson
+0061	1	Bret Easton Ellis
+0062	1	Bret Easton Ellis
+0063	1	Jules Verne
+0064	1	Jon Krakauer
+0065	1	Stephen R. Covey
+0066	1	Patrick M. Lencioni
+0067	1	Michael Pollan
+0068	1	Jorge Cruise
+0069	1	Daniel Defoe
+0070	1	Jennifer Weiner
+0071	2	Sharon Weiner Green	Ira K. Wolf
+0072	1	Sax Rohmer
+0073	1	Eric Von Hippel
+0074	1	Timothy Ferriss
+0075	1	Janet Evanovich
+0076	1	Karin Slaughter
+0077	2	Jason Fried	David Heinemeier Hansson
+0078	1	Daniel Woodrell
+0079	1	Doug Lemov
+0080	1	Michael Koryta
+0081	1	Jerry Weissman
+0082	1	Alyson Noel
+0083	1	Scott Turow
+0084	1	Jane Green
+0085	1	Mary Monroe
+0086	1	Phillip Margolin
+0087	1	HILARY MANTEL
+0088	1	Lee Child
+0089	1	Daniel H. Pink
+0090	1	Daniel H. Pink
+0091	1	Erik Larson
+0092	1	Ken Denmead
+0093	1	Johanna Lindsey
+0094	1	John Grisham
+0095	1	Thomas W. Phelan
+0096	1	Thomas W. Phelan
+0097	1	Mark R. Levin
+0098	1	Ken Follett
+0099	1	Johann David Wyss
+0100	1	Johann David Wyss
+0101	1	Marcus Luttrell
+0102	1	Lisa Gardner
+0103	1	Lisa Gardner
+0104	1	Emily Giffin
+0105	2	Ron Hall	Denver Moore
+0106	2	Benjamin Graham	Jason Zweig
+0107	2	James Patterson	Maxine Paetro
+0108	1	Ishmael Beah
+0109	1	Candace Bushnell
+0110	1	John Steinbeck
+0111	1	Anthony Bourdain
+0112	2	Sam Kashner	Nancy Schoenberger
+0113	2	Dr. Arthur Agatston MD	Joseph Signorile PhD
+0114	2	Cesar Millan	Melissa Jo Peltier
+0115	2	Cesar Millan	Melissa Jo Peltier
+0116	1	Sally Fallon
+0117	1	Rick Johnson
+0118	1	Robert Greene
+0119	1	Eckhart Tolle
+0120	1	Viktor E. Frankl
+0121	1	Alexandre Dumas
+0122	1	Jeannette Walls
+0123	1	Jeannette Walls
+0124	1	Diana Gabaldon
+0125	1	Eric Schlosser
+0126	1	Larry Schweikart
+0127	1	Leigh L. Thompson
+0128	1	Charlaine Harris
+0129	1	Elizabeth Lowell
+0130	1	Elizabeth Lowell
+0131	1	Dennis Lehane
+0132	1	Mitch Albom
+0133	1	Nicholas Sparks
+0134	1	Lisa See
+0135	1	Sara Shepard
+0136	1	Lee Child
+0137	1	Lee Child
+0138	1	David Barton
+0139	1	Michael Lewis
+0140	1	Michael Lewis
+0141	1	Bonnie McEneaney
+0142	1	Nelson DeMille
+0143	1	Emerson Eggerichs
+0144	3	Larry Bird	Earvin Johnson Jr.	Jackie MacMullan
+0145	1	Carol Burnett
+0146	1	Tracy Kidder
+0147	1	Marc Weissbluth
+0148	2	Po Bronson	Ashley Merryman
+0149	1	Barbara Kingsolver
+0150	1	LASTGraduate Management Admission Council (GMAC)
+0151	1	Steve Harvey
+0152	1	Mary Balogh
+0153	1	Jay Asher
+0154	1	Joseph J. Ellis
+0155	1	Joseph J. Ellis
+0156	1	Claire Cook
+0157	1	H. G. Wells
+0158	1	Herbert George Wells
+0159	1	Bill Bryson
+0160	2	Denise Fields	Alan Fields
+0161	1	Lewis Carroll
+0162	1	Jean Kwok
+0163	1	Jean Kwok
+0164	1	L. Frank Baum
+0165	1	L. Frank Baum
+0166	1	L. Frank Baum
+0167	1	Sarah Young
+0168	3	Heidi Eisenberg Murkoff	Arlene Eisenberg	Sandee Hathaway
+0169	1	David Meerman Scott
+0170	1	Mitch Albom
+0171	1	Timothy Keller
+0172	1	Ayaan Hirsi Ali
+0173	1	Seth Grahame-Smith
+0174	1	Dr. Eric E. And Phinney, Dr. Stephen D. And Volek, Dr. Jeff Westman
+0175	2	John Heilemann	Mark Halperin
+0176	1	Ann Ward Radcliffe
+0177	1	Ann Radcliffe
+0178	1	Nora Roberts
+0179	1	Lisa Scottoline
+0180	1	Stephenie Meyer
+0181	2	Tom Rath	Barry Conchie
+0182	1	Sax Rohmer
+0183	1	Sax Rohmer
+0184	1	Muriel Barbery
+0185	1	Muriel Barbery
+0186	1	Debbie Macomber
+0187	1	Debbie Macomber
+0188	1	Debbie Macomber
+0189	1	Alan Bradley
+0190	1	William Roscoe Thayer
+0191	2	Alex Loyd	Ben Johnson
+0192	2	Don Piper	Cecil Murphey
+0193	1	Arthur Miller
+0194	1	Atul Gawande
+0195	1	Sax Rohmer
+0196	1	Jack Campbell
+0197	1	Jack Campbell
+0198	1	Linda Sue Park
+0199	1	Jennifer Egan
+0200	1	Karen White
+0201	1	Junot D�az
+0202	1	Anne Fadiman
+0203	1	Mark Twain
+0204	1	James C. Dobson
+0205	1	James C. Dobson
+0206	1	Elizabeth Gilbert
+0207	1	Michael Watkins
+0208	1	Daniel Silva
+0209	2	Cheryl Alters Jamison	Bill Jamison
+0210	1	Lee Child
+0211	1	Michael Hiltzik
+0212	1	Janet Evanovich
+0213	1	Janet Evanovich
+0214	1	Sax Rohmer
+0215	1	Carlos Ruiz Zafon
+0216	1	Carlos Ruiz Zaf�n
+0217	1	Jon Krakauer
+0218	1	James Patterson
+0219	2	Chris Crowley	Henry S. Lodge
+0220	1	James Wesley Rawles
+0221	1	Kitty Kelley
+0222	1	Norman Doidge
+0223	1	Norman Doidge
+0224	1	Linda Castillo
+0225	1	Bill O'Reilly
+0226	1	Bill O'Reilly
+0227	1	Nelson Mandela
+0228	1	Janet Evanovich
+0229	1	Janet Evanovich
+0230	1	David Weber
+0231	1	Lee Child
+0232	3	Barbara Kingsolver	Camille Kingsolver	Steven L. Hopp
+0233	1	Barbara Kingsolver
+0234	1	Chinua Achebe
+0235	1	J. R. Ward
+0236	1	The Invisible Committee
+0237	1	Jonathan Kellerman
+0238	1	Olen Steinhauer
+0239	1	Olen Steinhauer
+0240	1	Max Brooks
+0241	1	Sun Tzu
+0242	1	C. S. Lewis
+0243	1	Alice Sebold
+0244	1	Vince Flynn
+0245	1	Suzanne Somers
+0246	1	Sherryl Woods
+0247	1	Doris Kearns Goodwin
+0248	1	Edmund J. Bourne
+0249	1	Edmund J. Bourne
+0250	1	John Grisham
+0251	1	Anne Lamott
+0252	1	Milton Friedman
+0253	1	Matt Ridley
+0254	1	Matt Ridley
+0255	2	David Zinczenko	Matt Goulding
+0256	1	Nora Roberts
+0257	1	Tori Kropp
+0258	1	Rick Warren
+0259	1	Bill Bryson
+0260	1	Bill Bryson
+0261	1	Edward Sylvester Ellis
+0262	2	Eliyahu M. Goldratt	Jeff Cox
+0263	1	Eliyahu M. Goldratt
+0264	2	Christopher Chabris	Daniel Simons
+0265	1	Stephen King
+0266	1	Stephen King
+0267	1	Richard Castle
+0268	1	Napoleon Hill
+0269	1	Stephen King
+0270	1	Iris Johansen
+0271	1	Geoff Colvin
+0272	1	Geoff Colvin
+0273	1	Dave Duncan
+0274	1	John Medina
+0275	1	Bruce H. Lipton Ph.D.
+0276	1	Elie Wiesel
+0277	1	Brad Thor
+0278	1	Brad Thor
+0279	1	Aristotle
+0280	1	Diana Gabaldon
+0281	2	Dr. Henry Cloud	Dr. John Townsend
+0282	2	Henry Cloud	John Townsend
+0283	1	Immanuel Kant
+0284	1	Justin Cronin
+0285	1	Neil Gaiman
+0286	1	Neil Gaiman
+0287	1	Maya Banks
+0288	1	Greg Mortenson
+0289	1	J.K. Rowling
+0290	1	James D. Best
+0291	2	P. C. Cast	Kristin Cast
+0292	1	Vince Flynn
+0293	1	Immacul�e Ilibagiza
+0294	1	Ernest Hemingway
+0295	1	Rachel Caine
+0296	1	CHIP HEATH DAN HEATH
+0297	1	Randy C. Alcorn
+0298	1	Eric Carle
+0299	1	John Knowles
+0300	1	Colm Toibin
+0301	1	Sherry Argov
+0302	1	Matthew Mckay
+0303	1	Frederick Douglass
+0304	1	Brad Thor
+0305	1	John Eldredge
+0306	1	John Eldredge
+0307	2	Guy Fieri	Ann Volkwein
+0308	1	Thomas L. Friedman
+0309	1	Charles Dickens
+0310	1	Ayaan Hirsi Ali
+0311	1	Vince Flynn
+0312	1	Madeleine L'Engle
+0313	1	David A. Kessler MD
+0314	1	William Manchester
+0315	1	William Manchester
+0316	1	Stephen M.R. Covey
+0317	1	Jane Smiley
+0318	1	Lisa Kleypas
+0319	1	Alison Arngrim
+0320	2	Chris Crowley	Henry S. Lodge
+0321	2	Clate Mask	Scott Martineau
+0322	1	Vince Flynn
+0323	1	Vince Flynn
+0324	1	Arthur S. Agatston M.D.
+0325	1	Diana Palmer
+0326	2	W. Cleon Skousen	M. Richard Maxfield
+0327	1	Alejandro Junger
+0328	1	W. Cleon Skousen
+0329	1	W. Cleon Skousen
+0330	1	W. Cleon Skousen
+0331	1	James Rollins
+0332	1	Diana Gabaldon
+0333	1	Lee Child
+0334	1	NORA ROBERTS
+0335	1	Nora Roberts
+0336	1	Ilona Andrews
+0337	1	Patricia Briggs
+0338	1	Mark Twain
+0339	1	Ayn Rand
+0340	1	Lawrence Hill
+0341	1	Robert Louis Stevenson
+0342	2	William Kamkwamba	Bryan Mealer
+0343	1	Philip Geer Ed.M.
+0344	1	Robin Hobb
+0345	1	Lee Strobel
+0346	1	Michael Connelly
+0347	3	Bruce Patton	Douglas Stone	Sheila Heen
+0348	1	Willard F. Harley Jr.
+0349	1	John Kennedy Toole
+0350	1	Lee Child
+0351	2	James Patterson	Maxine Paetro
+0352	2	Allan Pease	Barbara Pease
+0353	1	Joseph Heller
+0354	1	Jillian Michaels
+0355	1	Nicholas Sparks
+0356	1	Nicholas Sparks
+0357	1	Carol Kranowitz
+0358	1	Jodi Picoult
+0359	1	Jacqueline Carey
+0360	2	Sidney Sheldon	Tilly Bagshawe
+0361	1	Lisa Kleypas
+0362	1	Lisa Kleypas
+0363	1	Sarah Blake
+0364	1	Sarah Blake
+0365	1	Sarah Blake
+0366	1	Robert M. Pirsig
+0367	1	George Friedman
+0368	1	George Friedman
+0369	1	Andrew Gross
+0370	1	John Hart
+0371	1	Michael Gruber
+0372	1	Michael Gruber
+0373	1	Laurell K. Hamilton
+0374	1	Liz Vaccariello
+0375	1	Rick Riordan
+0376	1	Peter V. Brett
+0377	1	Naomi Novik
+0378	1	William Dalrymple
+0379	1	Diana Gabaldon
+0380	1	Gregory David Roberts
+0381	1	James Joyce
+0382	3	Stephen C. Lundin	Harry Paul	John Christensen
+0383	1	Vince Flynn
+0384	1	Vince Flynn
+0385	1	Simon Sinek
+0386	1	Diana Gabaldon
+0387	1	Meg Cabot
+0388	1	Kresley Cole
+0389	1	Patricia Briggs
+0390	1	James Patterson and Maxine Paetro
+0391	1	P. G. Wodehouse
+0392	1	P.G. Wodehouse
+0393	1	Karin Slaughter
+0394	2	Sidney Sheldon	Tilly Bagshawe
+0395	1	Dirk Hayhurst
+0396	1	Marshall B. Rosenberg
+0397	1	M. Rosenberg
+0398	1	Ruby K. Payne
+0399	1	Ruby K. Payne
+0400	1	Sherman Alexie
+0401	1	Harold McGee
+0402	1	Harold McGee
+0403	1	Diane Setterfield
+0404	1	Diane Setterfield
+0405	1	Baroness Emmuska Orczy
+0406	1	Grace Lin
+0407	1	Richard Stearns
+0408	1	Gabriel Garcia Marquez
+0409	1	Patricia Briggs
+0410	1	Jhumpa Lahiri
+0411	1	Jhumpa Lahiri
+0412	1	Elin Hilderbrand
+0413	1	Harper Lee
+0414	2	Laura Ling	Lisa Ling
+0415	1	Lisa Kleypas
+0416	1	David Marshall Brooks
+0417	2	Ms. Nancy L. Mace MA	Dr. Peter V. Rabins MD MPH
+0418	1	Nancy Horan
+0419	1	Nancy Horan
+0420	1	Karen Rose
+0421	1	Mark Hyman
+0422	1	J.R. Ward
+0423	1	James Patterson
+0424	2	Milton Friedman	Rose Friedman
+0425	1	Edith Hamilton
+0426	1	Edith Hamilton
+0427	1	Edith Hamilton
+0428	1	Kurt Vonnegut
+0429	1	Debbie Macomber
+0430	1	Ph.D., Ken Robinson
+0431	1	Richard Dawkins
+0432	1	Richard Dawkins
+0433	1	Saul Alinsky
+0434	1	Saul David Alinsky
+0435	1	Saul Alinsky
+0436	1	William R. Forstchen
+0437	1	John Perkins
+0438	1	RICHELLE MEAD
+0439	1	Dean Koontz
+0440	1	Dean Koontz
+0441	2	John Eldredge	Stasi Eldredge
+0442	1	Michael Shaara
+0443	1	Michael Shaara
+0444	1	Jillian Lauren
+0445	1	Jeff Kinney
+0446	1	Garr Reynolds
+0447	1	Charles A. Goodrich
+0448	1	Janet Evanovich
+0449	1	Janet Evanovich
+0450	1	Janet Evanovich
+0451	1	Heidi Murkoff
+0452	1	Aravind Adiga
+0453	2	Robert Lanza	Bob Berman
+0454	1	Carrie James
+0455	2	Rory Freedman	Kim Barnouin
+0456	1	Kim Barnouin & Rory Freedman
+0457	1	Kevin Trudeau
+0458	1	William Morgan
+0459	1	E. Lynn Harris
+0460	1	David Wroblewski
+0461	1	Michael Scott
+0462	1	Fyodor Dostoyevsky
+0463	1	Jon Krakauer
+0464	1	Steve Martini
+0465	1	Jeff Kinney
+0466	1	Nathaniel Philbrick
+0467	1	Nathaniel Philbrick
+0468	1	Dan Brown
+0469	1	Charlaine Harris
+0470	1	Toni Weschler
+0471	1	Jim Butcher
+0472	2	Beto Perez	Maggie Greenwood-Robinson
+0473	1	John Waters
+0474	1	Jeff Shaara
+0475	1	Jeff Shaara
+0476	2	Jesse Ventura	Dick Russell
+0477	1	Leif Enger
+0478	1	Andy Andrews
+0479	1	Kerry Patterson
+0480	1	Jeff Kinney
+0481	2	Christopher Kendris	Theodore Kendris
+0482	2	David Zinczenko	Matt Goulding
+0483	2	John Kotter	Holger Rathgeber
+0484	1	Danny Dreyer
+0485	1	Peter Arnell
+0486	1	John Irving
+0487	1	John Irving
+0488	1	Ilona Andrews
+0489	1	Nelson DeMille
+0490	1	Larry McMurtry
+0491	1	Jonathan Tropper
+0492	1	Clay Shirky
+0493	2	P. C. Cast	Kristin Cast
+0494	2	P.C. Cast	Kristin Cast
+0495	1	Richard Dawkins
+0496	1	Maurice Sendak
+0497	1	Sloane Crosley
+0498	2	Daniel Siegel	Mary Hartzell
+0499	1	Cormac McCarthy
+0500	1	Karl Rove
+0501	1	Eben Weiss
+0502	2	Keith Ferrazzi	Tahl Raz
+0503	2	Keith Ferrazzi	Tahl Raz
+0504	1	Richard Holmes
+0505	2	P. C. Cast	Kristin Cast
+0506	2	P. C. Cast	Kristin Cast
+0507	1	Stieg Larsson
+0508	1	Stieg Larsson
+0509	1	Stieg Larsson
+0510	1	Stieg Larsson
+0511	1	Stieg Larsson
+0512	1	Friedrich A. Hayek
+0513	1	Lisa Gardner
+0514	1	Lisa Gardner
+0515	1	Christopher Reich
+0516	1	Irene Hannon
+0517	1	Lynette Eason
+0518	1	Irene Hannon
+0519	1	Naomi Novik
+0520	1	Karen Kingsbury
+0521	1	Karen Kingsbury
+0522	1	Karen Kingsbury
+0523	1	Janette Oke
+0524	1	Janette Oke
+0525	1	Janette Oke
+0526	1	Janette Oke
+0527	1	Jane Austen
+0528	1	Jane Austen
+0529	1	Jane Austen
+0530	1	Joan Elizabeth Klingel Ray PhD
+0531	1	Nelson DeMille
+0532	1	Nelson DeMille
+0533	1	Charlaine Harris
+0534	1	John Sandford
+0535	2	James Patterson	Maxine Paetro
+0536	1	Paul, D. Moreno
+0537	1	Suzanne Woods Fisher
+0538	2	Leonardo Inghilleri	Micah Solomon
+0539	2	Leonardo Inghilleri	Micah Solomon
+0540	1	Michael Lewis
+0541	1	Robert Louis Stevenson
+0542	1	Robert Louis Stevenson
+0543	1	Robert Louis Stevenson
+0544	1	Leslie Kelly
+0545	1	Leslie Kelly
+0546	1	Leslie Kelly
+0547	2	Travis Bradberry	Jean Greaves
+0548	1	Mark Herringshaw
+0549	2	Henry Cloud	John Townsend
+0550	1	Scott Turow
+0551	1	Scott Turow
+0552	1	Ayn Rand
+0553	1	Florence King
+0554	1	Mary Clement JD; MSW; PhD
+0555	1	Brenda Jackson
+0556	1	Brenda Jackson
+0557	1	Elizabeth Gilbert
+0558	2	Kate Klimo	Buffy Shutt
+0559	1	Neal Shusterman
+0560	1	Eric Jensen
+0561	1	Suzanne Collins
+0562	1	Susan Beth Pfeffer
+0563	1	Raeanne Thayne
+0564	1	Susan Crosby
+0565	2	James Patterson	Maxine Paetro
+0566	1	Nora Roberts
+0567	1	Nora Roberts
+0568	1	Benjamin Franklin
+0569	1	Benjamin Franklin
+0570	1	Elizabeth Rolls
+0571	1	Elizabeth Rolls
+0572	1	Elizabeth Rolls
+0573	1	Stephenie Meyer
+0574	1	Debbie Macomber
+0575	1	Lisa Kleypas
+0576	1	Lisa Kleypas
+0577	1	Lisa Kleypas
+0578	1	Rick Riordan
+0579	1	Steven ""Kelly"" Grayson
+0580	1	Tom Reynolds
+0581	1	Geraldine Brooks
+0582	1	Paul Harding
+0583	1	Khaled Hosseini
+0584	1	Yasunari Kawabata
+0585	1	Jeff Anderson
+0586	1	Shelley Harwayne
+0587	1	Marilyn Herbert
+0588	1	Diana Loevy
+0589	1	Oscar Wilde
+0590	1	Rebecca Skloot
+0591	1	Laurell K. Hamilton
+0592	2	Larry Schweikart	Michael Allen
+0593	1	Dorothea Benton Frank
+0594	1	Dorothea Benton Frank
+0595	1	Danielle McCole
+0596	1	Alice Mills
+0597	1	Marie-Louise von Franz
+0598	1	H. G. Wells
+0599	1	H. G. Wells
+0600	1	Chris Anderson
+0601	1	Scott Plous
+0602	1	William Poundstone
+0603	1	Marilyn Herbert
+0604	1	John Mullan
+0605	1	Dietrich Bonhoeffer
+0606	1	Sir Arthur Conan Doyle
+0607	2	Sir Arthur Conan Doyle	Tricia Hedge
+0608	1	Lee Child
+0609	1	Stephen White
+0610	1	Jeffery Deaver
+0611	1	Nevada Barr
+0612	1	Lee Child
+0613	1	Lee Child
+0614	1	Lee Child
+0615	2	M. Neil Browne	Stuart M. Keeley
+0616	1	Rip Walker
+0617	1	Oscar Wilde
+0618	1	Oscar Wilde
+0619	2	Kevin J. Connolly	Margaret Martlew
+0620	1	Ira Stoll
+0621	1	Jane Austen
+0622	1	Kathleen Morgan
+0623	1	Charlaine Harris
+0624	1	Charlaine Harris
+0625	1	Charlaine Harris
+0626	1	Charlaine Harris
+0627	1	Charlaine Harris
+0628	1	Harlan Coben
+0629	1	Dave Eggers
+0630	1	Randy Pausch
+0631	1	Francesco Clark
+0632	1	Kenzaburo Oe
+0633	1	James Fenimore Cooper
+0634	1	T Baker
+0635	1	Frank J. Dello Stritto
+0636	1	Gaston Leroux
+0637	1	Gaston Leroux
+0638	1	Kendra Wilkinson
+0639	1	Tori Spelling
+0640	1	Marshall Goldsmith
+0641	2	Sheryl Dawson	Kenneth Dawson
+0642	1	Seth Godin
+0643	2	Chip Heath	Dan Heath
+0644	1	Jonathan Haidt
+0645	1	Dale Carnegie
+0646	1	Dale Carnegie
+0647	1	Dale carnegie
+0648	1	Harold Foster
+0649	1	Aldous Huxley
+0650	1	David Allen
+0651	2	Michael Tobis	Irene Tobis
+0652	1	Pat Conroy
+0653	1	Pat Conroy
+0654	1	Richard North Patterson
+0655	1	Terri Blackstock
+0656	1	Terri Blackstock
+0657	1	Terri Blackstock
+0658	1	Terri Blackstock
+0659	1	Terri Blackstock
+0660	1	John Steinbeck
+0661	1	John Steinbeck
+0662	1	Barbara Foley
+0663	1	George Orwell
+0664	1	George Orwell
+0665	2	Karen Brodeur	George Orwell
+0666	1	Christopher Hitchens
+0667	1	Christopher Hitchens
+0668	1	Rick Riordan
+0669	1	Jay McInerney
+0670	1	Miguel De Cervantes Saavedra
+0671	1	Caldwell B. Esselstyn
+0672	1	Sara Donati
+0673	1	Yann Martel
+0674	2	Lincoln Child	Douglas Preston
+0675	2	Douglas Preston	Lincoln Child
+0676	1	Frances Hodgson Burnett
+0677	1	C. S. Lewis
+0678	1	Enid Blyton
+0679	1	Kate Morton
+0680	1	Henning Mankell
+0681	1	Vincent M. Iezzi
+0682	1	Jules Verne
+0683	1	Jules Verne
+0684	1	Elizabeth A. Trembley
+0685	1	Jon Krakauer
+0686	1	Jon Krakauer
+0687	1	Henry David Thoreau
+0688	1	Paula Quinn
+0689	1	Kris Kennedy
+0690	1	Debbie Diller
+0691	1	Emily Dickinson
+0692	1	Edgar Allen Poe
+0693	1	Edgar Allan Poe
+0694	1	Samuel Taylor Coleridge
+0695	1	Henry Ketcham
+0696	1	Jared Smith
+0697	1	David Herbert Donald
+0698	1	David Herbert Donald
+0699	2	Jim Grote	John McGeeney
+0700	1	Valerie Iles
+0701	1	Stephen R. Covey
+0702	1	Margaret Lulic
+0703	1	Mukhtar Mai
+0704	1	Juan Enriquez
+0705	1	Patrick Lencioni
+0706	1	Mollie Martin
+0707	2	Anthony Parinello	Beth Gottfried
+0708	1	Patrick Lencioni
+0709	1	Andy Crowe
+0710	1	Michael Pollan
+0711	1	David Barton
+0712	1	Christiane Northrup
+0713	1	Jorge Cruise
+0714	1	Daniel Defoe
+0715	1	Daniel Defoe
+0716	1	Kaplan
+0717	2	Sharon Weiner Green	Ira K. Wolf Ph.D.
+0718	1	Nicholas Sparks
+0719	1	Nicholas Sparks
+0720	1	Sax Rohmer
+0721	1	Sax Rohmer
+0722	1	Nathan Rosenberg
+0723	1	Steven Weber
+0724	1	Matt Morris
+0725	1	Michael Scott
+0726	1	Janet Evanovich
+0727	1	Penelope Leach
+0728	1	Brette McWhorter Sember
+0729	1	Henry Jenkins
+0730	1	Anya Kamenetz
+0731	1	Linda Darling-Hammond
+0732	1	Karin Slaughter
+0733	1	Karin Slaughter
+0734	1	Karin Slaughter
+0735	1	Karin Slaughter
+0736	1	Dan Ariely
+0737	1	Don Campbell
+0738	1	Maggie Greenwood-Robinson
+0739	2	William Rodman Shankle	Daniel G. Amen
+0740	1	Daniel Woodrell
+0741	1	Daniel Woodrell
+0742	1	Allen Mendler
+0743	1	Michael Koryta
+0744	1	Timothy J. Koegel
+0745	1	William R Steele
+0746	2	Harrison Monarth	Larina Kase
+0747	1	Alyson Noel
+0748	1	Melissa De La Cruz
+0749	1	Lauren Kate
+0750	1	Scott Turow
+0751	1	Scott Turow
+0752	1	Scott Turow
+0753	1	Scott Turow
+0754	1	Jane Green
+0755	1	Mary Monroe
+0756	2	Robert T. Kiyosaki	Sharon L. Lechter
+0757	1	Robert T. Kiyosaki
+0758	1	Zig Ziglar
+0759	1	Garrett Sutton
+0760	1	Phillip Margolin
+0761	1	Lisa Gardner
+0762	1	Walter Kirn
+0763	1	Cormac McCarthy
+0764	1	Jim Rasenberger
+0765	1	Jr., Ron Currie
+0766	1	Dennis Lehane
+0767	1	Dennis Lehane
+0768	1	Cormac McCarthy
+0769	1	Princeton Review
+0770	1	J. D. Hughes
+0771	1	James N. Seiber
+0772	1	Stephen Oppenheimer
+0773	1	Peter Bellwood
+0774	1	Jean-Jacques Rosa
+0775	1	Thomas D. Dillehay
+0776	1	Kazuo Ishiguro
+0777	1	Ian C. Ellis
+0778	1	James Siegel
+0779	1	Daniel H. Pink
+0780	1	Erik Larson
+0781	1	Joe Sherman
+0782	1	Theodore Dreiser
+0783	1	Graham White
+0784	1	Alexander Mccall Smith
+0785	1	Roger Fisher
+0786	1	William Ury
+0787	1	G. Richard Shell
+0788	2	Roger Fisher	William Ury
+0789	1	Andrew S. McFarland
+0790	2	Clifford F. Gray	Erik W. Larson
+0791	1	Larry L. Teply
+0792	2	Jeffrey Cruikshank	Lawrence Susskind
+0793	1	Rick Riordan
+0794	1	Rick Riordan
+0795	1	Jude Deveraux
+0796	1	Thomas W. Phelan
+0797	1	Irene Nemirovsky
+0798	1	Julie Orringer
+0799	1	Mark Levin
+0800	1	E.L. Doctorow
+0801	1	Ken Follett
+0802	1	Rohinton Mistry
+0803	1	Ken Follett
+0804	1	Ken Follett
+0805	1	Ken Follett
+0806	1	Ken Follett
+0807	1	Roberta Gellis
+0808	1	Ken Follett
+0809	1	Johann David Wyss
+0810	1	John Kasich
+0811	1	George W. Bush
+0812	1	Colette Dowling
+0813	1	Judi Hollis
+0814	1	Ed Schultz
+0815	1	Michael Jason Overstreet
+0816	1	Andrew C. McCarthy
+0817	1	Victor Davis Hanson
+0818	1	Michael A Robinson
+0819	1	Charlotte Bronte
+0820	1	Richard Beliveau
+0821	2	Rebecca Katz	Mat Edelson
+0822	1	Verne Varona
+0823	1	Michael Clarkson
+0824	2	Michael J. Durant	Steven Hartov
+0825	1	John Carl Roat
+0826	1	Lisa Gardner
+0827	1	Nick Nolan
+0828	1	Emily Giffin
+0829	2	Sarah Mlynowski	Farrin Jacobs
+0830	1	Lisa Miller
+0831	1	Ralph Waldo Emerson
+0832	1	Henry David Thoreau
+0833	1	Ralph Waldo Emerson
+0834	1	Ira Chernus
+0835	2	Ron Hall	Denver Moore
+0836	1	Charles Martin
+0837	1	Douglas R. Groothuis
+0838	1	Robin Lee Hatcher
+0839	1	Robin Lee Hatcher
+0840	1	Isabel Allende
+0841	1	Benjamin Graham
+0842	1	Robert P. Miles
+0843	1	Geoffrey Poitras
+0844	1	Jason Kelly
+0845	1	Charlotte Bront�
+0846	1	Nicholas Royle
+0847	2	Martin Coles	Christine Hall
+0848	1	Emily Bront�
+0849	1	Emily Bront�
+0850	1	James Cross Giblin
+0851	2	Linda Carnevale M.A.	Roselyn Teukolsky M.S.
+0852	1	Colin Bulman
+0853	2	Kip Kotzen	Thomas Beller
+0854	1	James Scott Bell
+0855	1	Candace Bushnell
+0856	1	Candace Bushnell
+0857	1	Francis Chan
+0858	1	Francis Chan
+0859	1	H.G. Wells
+0860	1	H. G. Wells
+0861	1	Ralph Ellison
+0862	1	H. G. Wells
+0863	1	Susan Van Kirk
+0864	2	Ruth Coleman	Tony Buzan
+0865	1	John Steinbeck
+0866	1	John Steinbeck
+0867	1	John Steinbeck
+0868	1	Anthony Bourdain
+0869	1	Anthony Bourdain
+0870	1	Anthony Bourdain
+0871	1	Anthony Bourdain
+0872	1	Sara Nelson
+0873	1	James L. Morgan
+0874	4	Bob Ashley	Joanne Hollows	Steve Jones	Ben Taylor
+0875	1	Anthony Bourdain
+0876	2	The Culinary Institute of America	Martha Rose Shulman
+0877	1	Poppy Z. Brite
+0878	2	Sam Kashner	Nancy Schoenberger
+0879	1	Mario Puzo
+0880	1	Dr. Arthur Agatston MD
+0881	1	Dr. Arthur Agatston MD
+0882	1	Khaled Hosseini
+0883	1	Charlaine Harris
+0884	1	Kurt Vonnegut
+0885	1	Fred Alan Wolf
+0886	1	Alex Kershaw
+0887	2	Dawn Trimble Bunyak	Lawrence I. Pifer
+0888	1	Kurt Vonnegut
+0889	1	Eden Force
+0890	2	Jay A. Parry	Andrew M. Allison
+0891	2	Cesar Millan	Melissa Jo Peltier
+0892	1	Sandor Ellix Katz
+0893	1	Jordan Rubin
+0894	1	Alan Watson
+0895	1	Rick Johnson
+0896	1	James Wesley Rawles
+0897	1	Elizabeth George
+0898	1	Elizabeth George
+0899	1	Martha Grimes
+0900	1	Elizabeth George
+0901	1	Elizabeth George
+0902	1	Meg Meeker
+0903	2	50 Cent	Robert Greene
+0904	1	Sun-tzu
+0905	1	Grete De Francesco
+0906	3	Philip G. Cerny	Mark Haugaard	Howard H. Lentner
+0907	1	Robert Greene
+0908	1	Peter J. D'Adamo
+0909	1	Peter J. D'Adamo
+0910	2	Michio Kushi	Alex Jack
+0911	1	American College of Legal Medicine Textbook Committee
+0912	1	Peter J. D'Adamo
+0913	1	David D. Burns
+0914	1	Foundation for Inner Peace
+0915	1	Mary Jo McGrath
+0916	1	Jeru Kabbal
+0917	1	Jessica Murray
+0918	1	Tessa Dare
+0919	1	Richard Russo
+0920	1	Richard Russo
+0921	1	Viktor E. Frankl
+0922	1	Melvin Kimble
+0923	1	Viktor E. Frankl
+0924	1	Alexandre Dumas
+0925	1	Alexandre Dumas
+0926	1	Alexandre Dumas p�re
+0927	1	Alexandre Dumas
+0928	1	William Shakespeare
+0929	1	Alexandre Dumas
+0930	1	Alexandre Dumas p�re
+0931	1	Alexandre Dumas
+0932	1	Jeannette Walls
+0933	1	May Christiana Hofmann
+0934	1	Diana Gabaldon
+0935	1	Walter Scott
+0936	1	Orson Scott Card
+0937	1	Orson Scott Card
+0938	1	Orson Scott Card
+0939	1	Patricia C. Wrede
+0940	1	Diana Wynne Jones
+0941	1	Deanne Spears
+0942	2	Kelly D. Brownell	Katherine Battle Horgen
+0943	1	George Ritzer
+0944	1	Dr. James Dobson
+0945	1	Osha Gray Davidson
+0946	1	Elizabeth Noble
+0947	1	Vince Flynn
+0948	2	Richard Marcinko	John Weisman
+0949	1	Leigh L. Thompson
+0950	1	Laurell K. Hamilton
+0951	1	Dennis Lehane
+0952	1	Dennis Lehane
+0953	1	G.m. Ford
+0954	1	Dennis Lehane
+0955	1	Kristi Hiner
+0956	1	Mitch Albom
+0957	1	Mitch Albom
+0958	1	Bernie S. Siegel
+0959	2	Stephen Levine	Ondrea Levine
+0960	1	Nicholas Sparks
+0961	1	Nicholas Sparks
+0962	1	Nicholas Sparks
+0963	1	Bill Hawkins
+0964	1	Lloyd Clark
+0965	1	Lisa See
+0966	1	Lisa See
+0967	1	Lisa See
+0968	1	Lisa See
+0969	1	Nora Roberts
+0970	1	Nora Roberts
+0971	1	Maureen Lipinski
+0972	1	Jim Collins
+0973	2	Gerald I. Kendall	Steve C. Rollins
+0974	2	Jim Collins	Jerry I. Porras
+0975	1	Robin Gerber
+0976	1	H. G. Wells
+0977	1	H. G. Wells
+0978	1	H.G. Wells
+0979	2	Tim LaHaye	David Noebel
+0980	1	Hugh Hewitt
+0981	1	Michael Lewis
+0982	1	Carl von, General Clausewitz
+0983	2	Bryan Burrough	John Helyar
+0984	1	Sarah Myers McGinty
+0985	1	Mary Blount White
+0986	1	Howard Zinn
+0987	1	Kurtz G Stephen
+0988	2	Greg Mortenson	David Oliver Relin
+0989	1	Nelson DeMille
+0990	1	Nelson Demille
+0991	1	Nelson DeMille
+0992	1	Nelson DeMille
+0993	1	Emerson Eggerichs
+0994	2	Shaunti Feldhahn	Lisa A. Rice
+0995	2	Shaunti Feldhahn	Jeff Feldhahn
+0996	1	George R.R. Martin
+0997	2	George R.R. Martin	Lisa Tuttle
+0998	2	Charles N. Brown	Jonathan Strahan
+0999	2	Jackie MacMullan	Larry Bird
+1000	1	Bill Simmons
+1001	1	Seth Davis
+1002	1	Byron Pitts
+1003	1	Byron Pitts
+1004	1	Shawn Levy
+1005	1	Miles Corwin
+1006	1	Warren St. John
+1007	1	Maria Cimperman
+1008	2	Lee B. Reichman	Janice Hopkins Tanne
+1009	1	Selma H. Fraiberg
+1010	1	Andrew Laties
+1011	1	Elizabeth Pantley
+1012	1	Tamara Eberlein
+1013	1	Nicholas G. Carr
+1014	2	Elena Bodrova	Deborah J. Leong
+1015	1	Ann Brashares
+1016	1	Linda Wagner-Martin
+1017	1	Barbara Kingsolver
+1018	1	Daniel H. Pink
+1019	1	Paul Ekman
+1020	1	Joseph Campbell
+1021	1	Marcos Salazar
+1022	1	Romy Miller
+1023	1	Charlaine Harris
+1024	1	Diane Tyrrel
+1025	1	Dave Duncan
+1026	1	Dave Duncan
+1027	1	Sara Zarr
+1028	1	Joseph J. Ellis
+1029	1	Susan A. Miller
+1030	1	Dr. William J. Bennett
+1031	1	Stephen Armstrong
+1032	1	David McCullough
+1033	2	Stanley Elkins	Eric McKitrick
+1034	1	J.R.R. Tolkien
+1035	1	Lee Child
+1036	1	Lee Child
+1037	1	H. G. Wells
+1038	1	H. G. Wells
+1039	1	Bill Bryson
+1040	1	Bill Bryson
+1041	1	Bill Bryson
+1042	1	David L Weiner
+1043	2	Dusti Howell	Deanne K. Howell
+1044	1	Bill Bryson
+1045	1	Glenn Beck
+1046	2	Cliffs	Tamara Castleman
+1047	1	Ese California
+1048	2	Denise Fields	Alan Fields
+1049	1	Adena Raub
+1050	1	Barbara Kingsolver
+1051	1	Robert Frost
+1052	1	Jessica Morrell
+1053	1	Amy Lignitz Harken
+1054	1	Sue Monk Kidd
+1055	1	Jean Kwok
+1056	1	Mark Twain
+1057	2	Mark Twain	Robert Blaisdell
+1058	1	Mark Twain
+1059	1	Professor Denis Donoghue
+1060	1	Geoff Ward
+1061	1	L. Frank Baum
+1062	1	Sarah Young
+1063	1	Sarah Young
+1064	1	Sarah Young
+1065	1	Sarah Young
+1066	1	American Academy Of Pediatrics
+1067	1	American Academy Of Pediatrics
+1068	2	Lawrence G. McDonald	Patrick Robinson
+1069	2	Lon Safko	David K. Brake
+1070	1	David Meerman Scott
+1071	2	Jennifer Grappone	Gradiva Couzin
+1072	1	Mitch Albom
+1073	1	Seth Grahame-Smith
+1074	1	A. E. Moorat
+1075	1	Robert C. Atkins
+1076	1	Andrew Young
+1077	1	James W. Ceaser
+1078	2	John Heilemann	Mark Halperin
+1079	1	Robin Parrish
+1080	1	John Grisham
+1081	1	John Grisham
+1082	1	Timothy Keller
+1083	1	Ann Radcliffe
+1084	1	Frances Burney
+1085	1	Donna Heiland
+1086	1	Wolfram Schmidgen
+1087	1	Spencer Wells
+1088	1	Joel Fuhrman M.D.
+1089	1	Joel Fuhrman
+1090	1	Rob, M.D. MD Myers
+1091	1	Natalia Rose
+1092	1	Nora Roberts
+1093	1	Lisa Scottoline
+1094	1	Sax Rohmer
+1095	1	Henry E. Allison
+1096	1	Debbie Macomber
+1097	1	Debbie Macomber
+1098	1	Sir Arthur Conan Doyle
+1099	1	Douglas Southall Freeman
+1100	1	Stephen C. Meyer
+1101	2	Don Piper	Cecil Murphey
+1102	1	Carl B. Smith
+1103	1	Frances Hill
+1104	1	Carlos Ruiz Zafon
+1105	1	Carlos Ruiz Zafon
+1106	1	Atul Gawande
+1107	1	Heather Jamison
+1108	1	Susie Shellenberger
+1109	1	Sax Rohmer
+1110	1	Jack Campbell
+1111	1	Jack Campbell
+1112	1	Jack Campbell
+1113	1	Jack Campbell
+1114	1	Gordan Korman
+1115	1	Rick Riordan
+1116	1	Jodi Picoult
+1117	1	Jodi Picoult
+1118	1	William Shakespeare
+1119	1	Jodi Picoult
+1120	1	George Sullivan
+1121	1	Dayn Perry
+1122	1	Junot D�az
+1123	1	Junot D�az
+1124	5	Lynn Wecker PhD	Stephanie Watts	Carl Faingold	George Dunaway	Lynn Crespo
+1125	1	Donald A. Willcox
+1126	1	Mark H. Beers
+1127	1	Harlan Coben
+1128	1	Harlan Coben
+1129	1	Harlan Coben
+1130	1	Mark Twain
+1131	1	Mark Twain
+1132	2	Tom Quirk	James Barbour & Quirk
+1133	1	Nan Goodman
+1134	1	Mark Twain
+1135	1	Jules Tygiel
+1136	1	Nicholas C. Burkholder
+1137	3	David S. Neft	Michael L. Neft	Richard M. Cohen
+1138	1	Jeffrey Spivak
+1139	1	Elizabeth Gilbert
+1140	3	George B. Bradt	Jayme A. Check	Jorge E. Pedraza
+1141	1	Judith E. Glaser
+1142	1	Michael E. Gerber
+1143	1	Fritjof Capra
+1144	2	Kelly Coyne	Erik Knutzen
+1145	1	Booker T. Washington
+1146	1	Ann Beattie
+1147	1	Mary Ellen Doyle
+1148	1	Philip Auger
+1149	1	Ernest J. Gaines
+1150	2	Peter D. Schiff	John Downes
+1151	1	Patti Digh
+1152	1	Liz Vaccariello
+1153	2	Liz Vaccariello	Sally Kuzemchak RD
+1154	1	Streetwise Maps
+1155	2	Rick Steves	Steve Smith
+1156	2	Betty J. Ackley MSN EdS RN	Gail B. Ladwig MSN RN CHTP
+1157	1	John Thorne
+1158	1	Dean Fearing
+1159	1	Cheryl Jamison
+1160	1	Cheryl Jamison
+1161	3	James Madison	Alexander Hamilton	John Jay
+1162	3	Alexander Hamilton	James Madison	John Jay
+1163	1	William Rosen
+1164	1	Bev Vincent
+1165	1	Barbara Abercrombie
+1166	1	Frank McCourt
+1167	1	Michael Chabon
+1168	1	Kristen Painter
+1169	1	Hermann Hesse
+1170	1	Hermann Hesse
+1171	1	Hermann Hesse
+1172	1	Carlos Ruiz Zafon
+1173	1	Lev Grossman
+1174	2	Elizabeth Pantley	Harvey Karp
+1175	1	Jodi A. Mindell
+1176	1	Daniel Coyle
+1177	2	Anatoli Boukreev	G. Weston DeWalt
+1178	1	Jon Krakauer
+1179	1	Jon Krakauer
+1180	1	Thomas F. Hornbein
+1181	2	Anatoli Boukreev	G. Weston DeWalt
+1182	1	The Editors of Outside
+1183	1	Outside Magazine Editors
+1184	1	John Hunt
+1185	1	Scholastic
+1186	1	Dr. Seuss
+1187	2	James Patterson	Michael Ledwidge
+1188	2	James Patterson	Michael Ledwidge
+1189	1	J.R. Ward
+1190	1	J.R. Ward
+1191	1	J.R. Ward
+1192	2	Chris Crowley	Henry S. Lodge
+1193	3	Bradley J. Willcox	D. Craig Willcox	Makoto Suzuki
+1194	1	Ruth H. Jacobs
+1195	1	Nora Roberts
+1196	1	Nora Roberts
+1197	1	Nora Roberts
+1198	1	Nora Roberts
+1199	1	Kitty Kelley
+1200	1	David Remnick
+1201	1	Kitty Kelley
+1202	1	Norman Doidge M.D.
+1203	1	Linda Castillo
+1204	1	Chevy Stevens
+1205	1	Linda Castillo
+1206	1	Nelson Mandela
+1207	1	Joanne Grant
+1208	1	Tom Lodge
+1209	1	Nelson Mandela
+1210	1	Janet Evanovich
+1211	1	Janet Evanovich
+1212	1	Janet Evanovich
+1213	1	Janet Evanovich
+1214	1	Janet Evanovich
+1215	1	Miguel Ruiz
+1216	2	Miguel Ruiz	Janet Mills
+1217	1	Chalmers Brothers
+1218	1	Cynthia L. Wall
+1219	1	Charlaine Harris
+1220	1	Charlaine Harris
+1221	1	Cynthia Walker
+1222	3	Barbara Kingsolver	Camille Kingsolver	Steven L. Hopp
+1223	1	Rudolfo Anaya
+1224	1	Jocelyn Kelley
+1225	2	Alice B. McGinty	S. Ward
+1226	1	Lynn Viehl
+1227	1	Tosca Reno
+1228	1	Diane Hart
+1229	1	Jonathan Kellerman
+1230	1	Jonathan Kellerman
+1231	1	Brad Meltzer
+1232	1	Dorie Greenspan
+1233	1	Olen Steinhauer
+1234	1	James Lord
+1235	1	Frederick Exley
+1236	1	David P. Murphy
+1237	1	Max Hardberger
+1238	1	Sun Tzu
+1239	1	Nora Roberts
+1240	1	Wei Chen Hsuan
+1241	1	C. S. Lewis
+1242	1	C. S. Lewis
+1243	2	Terry W. Glaspey	George Grant
+1244	1	Jeremy Langford
+1245	1	Terry W. Glaspey
+1246	2	Theodore Baehr	James Bahr
+1247	1	Gary B. Gorton
+1248	1	Alex Comfort
+1249	1	William Shakespeare
+1250	1	William Shakespeare
+1251	4	David Arp	Claudia Arp	Curt Brown	Natelle Brown
+1252	1	Tom Zinkle
+1253	2	Alan S. Gurman	Neil S. Jacobson
+1254	1	John M. Gottman
+1255	2	Rony Berger	Mo Therese Hannah
+1256	1	Doris Banowsky Arrington
+1257	1	Dana Bedford Hilmer
+1258	1	Trenton Lee Stewart
+1259	1	Douglas Cooper
+1260	1	Douglas Cooper
+1261	2	Cliff Mason	James J. Cramer
+1262	2	Leland Ryken	Philip Graham Ryken
+1263	1	William Strunk Jr.
+1264	1	Sanford Kaye
+1265	2	William Strunk	E. B. White
+1266	1	Kate Chopin
+1267	1	Kate Chopin
+1268	2	Charlotte Bronte	Anna Claybourne
+1269	1	Alice Sebold
+1270	1	Kathy Griffin
+1271	1	Frances Gaines Bennett
+1272	1	Fiona Locke
+1273	1	Greg Iles
+1274	1	Rod Sellers
+1275	1	Vince Flynn
+1276	1	Annie Kubler
+1277	1	Annie Kubler
+1278	1	Suzanne Somers
+1279	1	Suzanne Somers
+1280	1	Sherryl Woods
+1281	1	Sherryl Woods
+1282	1	Sherryl Woods
+1283	1	Dagny D. Bloland
+1284	2	Edmund J. Bourne	Lorna Garano
+1285	1	Robin Norwood
+1286	2	Janice M. Mcdermott	Joan Stewart
+1287	1	Claire Weekes
+1288	3	Martha Davis	Matthew McKay	Elizabeth Robbins Eshelman
+1289	2	Robert L. Leahy	Stephen J. Holland
+1290	1	John Grisham
+1291	1	Anne Lamott
+1292	1	Bill Holm
+1293	1	Carolyn Chute
+1294	1	Claudia H. Johnson
+1295	1	Jennifer Lawler
+1296	1	Anne Lamott
+1297	1	F. A. Hayek
+1298	2	George Lodge	Craig Wilson
+1299	2	Christina Scull	Wayne G. Hammond
+1300	1	J.R.R. Tolkien
+1301	1	Robert Wright
+1302	1	Matt Ridley
+1303	2	David Zinczenko	Matt Goulding
+1304	1	Nora Roberts
+1305	1	Nora Roberts
+1306	1	Tori Kropp
+1307	1	Adam W. Shepard
+1308	1	Jon Kabat-Zinn
+1309	1	James J. Lynch
+1310	2	Myla Kabat-zinn	Jon Kabat-zinn
+1311	1	Jon Kabat-Zinn
+1312	2	John R. McQuaid	Paula E. Carmona
+1313	1	Louise Hay
+1314	1	Louise Hay
+1315	1	Louise Hay
+1316	1	Dawn Breslin
+1317	1	Louise L. Hay
+1318	1	Mary Gardner Holland
+1319	2	E. B. Long	Barbara Long
+1320	1	Richard M. Lee
+1321	1	Robin Oliveira
+1322	1	Peter G. Levine
+1323	1	John Sandford
+1324	1	J. K. Rowling
+1325	1	John Ortberg
+1326	1	Rick Warren
+1327	1	Rick Warren
+1328	1	George Mair
+1329	1	Rick Warren
+1330	1	Moody Press
+1331	1	Warren B. Smith
+1332	1	Bill Bryson; William Roberts
+1333	1	Bill Bryson
+1334	1	Jeffery Smith
+1335	1	Thomas B. McMullen Jr
+1336	1	Patti Davis
+1337	1	Erin George
+1338	1	Avis Cardella
+1339	1	Stephen King
+1340	2	Lynnette Porter	David Lavery
+1341	1	Stephen King
+1342	1	William Styron
+1343	1	Leonidas Donskis
+1344	1	George Orwell
+1345	1	George Orwell
+1346	1	Norman Podhoretz
+1347	2	I. S. Shklovskii	Carl Sagan
+1348	1	Napoleon Hill
+1349	1	Napoleon Hill
+1350	1	Napoleon Hill
+1351	1	Napoleon Hill
+1352	1	Napoleon Hill
+1353	4	Tom Taylor	Colin Wilson	Wes Dzioba	Jo Chen
+1354	1	Stephen King
+1355	1	Richard Dawkins
+1356	1	Richard Dawkins
+1357	1	Richard Dawkins
+1358	1	Victor J. Stenger
+1359	1	Richard Dawkins
+1360	1	Daniel C. Dennett
+1361	1	Christopher Hitchens
+1362	2	Harville, PhD Hendrix	Helen, Ph.D. Hunt
+1363	1	Denis De Rougemont
+1364	1	C. G. Jung
+1365	1	Iris Johansen
+1366	1	Ken Follett
+1367	1	Ernest Dras
+1368	1	Kaplan
+1369	1	Dr. Kevin Leman
+1370	1	Tucker Max
+1371	1	Tucker Max
+1372	1	Susan E. Schenck
+1373	1	Margaret Kocsis Dr Margaret Kocsis
+1374	1	Jay Robb
+1375	1	John Medina
+1376	1	Chloe Neill
+1377	1	Chloe Neill
+1378	1	J.R. Rain
+1379	1	William Golding
+1380	1	William Golding
+1381	1	Bruce H. Lipton
+1382	1	Joseph Conrad
+1383	1	Giles Gunn
+1384	1	Joseph Conrad
+1385	1	Gerald Monsman
+1386	1	Jeremy Hawthorn
+1387	1	F. Scott Fitzgerald
+1388	1	F., Scott Fitzgerald
+1389	1	Arthur C. Brooks
+1390	1	Arthur C. Brooks
+1391	1	Douglas Adams
+1392	2	Mel Williamson	George Cephas Ford
+1393	1	Douglas Adams
+1394	1	Jonathan Safran Foer
+1395	1	The Beatles
+1396	1	Jonathan Safran Foer
+1397	1	Randall E. Stross
+1398	2	C.C. Gaither	Alma E Cavazos-Gaither
+1399	1	Francis Jehl
+1400	1	Elie Wiesel
+1401	1	Elie Wiesel
+1402	1	Terry L. Jordan
+1403	1	John C. Maxwell
+1404	1	John C. Maxwell
+1405	1	John C. Maxwell
+1406	1	Tom Clancy
+1407	1	David Hagberg
+1408	1	Brad Thor
+1409	1	Jean-Jacques Rousseau
+1410	1	Romance Writers of America (Organization)
+1411	2	Henry Cloud	John Townsend
+1412	1	Henry Cloud
+1413	4	Les Parrott	Michael F. McManus	Dr. Les Parrott III	Dr. Leslie Parrott
+1414	2	Henry Cloud	John Townsend
+1415	2	Jan Black	Greg Enns
+1416	1	Immanuel Kant
+1417	1	David Hume
+1418	1	Rene Descartes
+1419	1	Immanuel Kant
+1420	1	Immanuel Kant
+1421	1	Neil Gaiman
+1422	1	Jodi Lynn Anderson
+1423	1	China Mieville
+1424	1	Michael Chabon
+1425	1	Maya Banks
+1426	1	Lorelei James
+1427	1	Keri Arthur
+1428	1	Keri Arthur
+1429	1	Mark Richardson
+1430	1	J.K. Rowling
+1431	1	Mark Cotta Vaz
+1432	1	Colleen A. Sheehan
+1433	1	James D. Best
+1434	1	Kathy Jordan
+1435	1	Jerry Spinelli
+1436	1	Hugh Lofting
+1437	1	Lois Lowry
+1438	1	Lois Lowry
+1439	1	Susie Garber
+1440	1	Suzanne Pavlos
+1441	1	Judy Freeman
+1442	1	John Boyne
+1443	1	Margaret Wise Brown
+1444	1	Dorothy Kunhardt
+1445	1	Margaret Wise Brown
+1446	1	Anita Silvey
+1447	1	Perry Nodelman
+1448	1	Jodi Picoult
+1449	2	David Zinczenko	Matt Goulding
+1450	1	Vince Flynn
+1451	1	Vince Flynn
+1452	1	Brad Thor
+1453	2	Andrew Dornenburg	Karen Page
+1454	1	Ian Hemphill
+1455	1	Sarah Silverman
+1456	1	Catherine Claire Larson
+1457	3	Esther Hicks	Jerry Hicks	Wayne W. Dyer
+1458	1	Rebecca Linder Hintze
+1459	1	Noel R. Fitch
+1460	1	Cary Wolfe
+1461	2	Professor Nancy R. Comley	Professor Robert Scholes
+1462	1	ALBERT J. DEFAZIO III
+1463	1	Valerie Hemingway
+1464	1	Rachel Caine
+1465	1	Mark, M.D. Hyman
+1466	2	Mark Hyman	Mark Liponis
+1467	1	Ayelet Waldman
+1468	1	Randi Kreger
+1469	1	George Williams
+1470	1	David Nadelberg
+1471	2	Cesar Millan	Melissa Jo Peltier
+1472	1	Eric Carle
+1473	1	John Knowles
+1474	3	Charles Higgins	Regina Higgins	Cary M. Roberts
+1475	1	Eric Jager
+1476	1	Lorraine Hansberry
+1477	1	Colm Toibin
+1478	1	Thomas Hardy
+1479	1	Charles Dickens
+1480	1	Thomas Hardy
+1481	1	Thomas Hardy
+1482	1	D. H. Lawrence
+1483	2	Julia Child	Alex Prud'Homme
+1484	1	Julia Child
+1485	1	Nancy Leigh DeMoss
+1486	1	Leigh A. Bortins
+1487	1	David H. Barlow
+1488	1	Thomas Marra
+1489	1	Frederick Douglass
+1490	1	John Chua
+1491	1	Benjamin Quarles
+1492	1	Brad Thor
+1493	1	Brad Thor
+1494	1	Brad Thor
+1495	2	Richard Roberts	David Kynaston
+1496	1	Kate Forsyth
+1497	1	Maggy Thomas
+1498	1	Oliver Johnson
+1499	2	Joyce Meyer	Karen Moore
+1500	1	Joyce Meyer
+1501	1	Steck-Vaughn Company
+1502	1	John Eldredge
+1503	1	John Eldredge
+1504	1	Robert Bly
+1505	1	Ken Clatterbaugh
+1506	2	Jane Stern	Michael Stern
+1507	1	Lisa Lillien
+1508	1	Barbara O'Connor
+1509	1	Scott O'Dell
+1510	1	Thomas L. Friedman
+1511	2	David Edmonds	John Eidinow
+1512	1	Michael H Shuman
+1513	1	Dean, E. Tucker
+1514	2	Ron Hira	Anil Hira
+1515	1	Charles Dickens
+1516	1	Brian McFarlane
+1517	1	Charles Dickens
+1518	1	Gary Chapman
+1519	1	Gary Chapman
+1520	1	Madeleine L'Engle
+1521	1	David Kessler
+1522	2	Cherie Currie	Tony O'neill
+1523	1	Charlotte Hughes
+1524	1	William Manchester
+1525	1	E. G. Rupp
+1526	1	Edward Grant
+1527	1	H. W. Crocker III
+1528	1	Barbara W. Tuchman
+1529	1	Kathleen Grissom
+1530	2	Charles L. Perdue Jr.	Thomas E. Barden
+1531	1	Jane Smiley
+1532	1	Lisa Kleypas
+1533	1	Quinn Keitt
+1534	1	Elliot Valenstein
+1535	1	Elyn R. Saks
+1536	1	Paul Raeburn
+1537	1	Dave Ramsey
+1538	1	Candice Hern
+1539	1	Sasha Lord
+1540	1	Beth Moore
+1541	2	Chris Crowley	Henry S. Lodge
+1542	1	Farley Mowat
+1543	1	James H. Austin
+1544	1	Georgia Varozza
+1545	1	Vince Flynn
+1546	1	Vince Flynn
+1547	1	Wess Roberts
+1548	1	Diane Ravitch
+1549	1	Diana Palmer
+1550	1	Ben Macintyre
+1551	1	Andrew M. Allison
+1552	2	Frank Lipman	Mollie Doyle
+1553	1	James Patterson
+1554	1	W. Cleon Skousen
+1555	1	James Rollins
+1556	1	James Rollins
+1557	1	David Benioff
+1558	1	John Gray
+1559	1	John Gray
+1560	1	John Gray
+1561	1	John Gray
+1562	1	John Grisham
+1563	1	Lee Child
+1564	1	Elin Hilderbrand
+1565	2	Jack Canfield	Mark Victor Hansen
+1566	1	Dave Pelzer
+1567	1	James C. Dobson
+1568	2	Albert Einstein	Francis A. Davis
+1569	1	W.L. Craig
+1570	1	Patricia Briggs
+1571	1	Patricia Briggs
+1572	1	Niall Ferguson
+1573	1	Niall Ferguson
+1574	1	Niall Ferguson
+1575	1	Jen Lancaster
+1576	1	Susan Reinhardt
+1577	3	Mark Twain	Deidre S. Laiken	Pablo Marcos Studio
+1578	1	Mr. Mark J. Twain
+1579	1	Stephen Fishman
+1580	1	Mark Twain
+1581	1	Louisa A. Dyer; Gayatri Erlandson
+1582	1	John Steinbeck
+1583	1	John Steinbeck
+1584	1	Ayn Rand
+1585	1	Ayn Rand
+1586	1	Ayn Rand
+1587	1	Ayn Rand
+1588	1	Leonard Peikoff
+1589	1	Ayn Rand
+1590	1	Jenny McCarthy
+1591	1	Jenny McCarthy
+1592	1	Valerie Martin
+1593	1	Lawrence Hill
+1594	1	F. Scott Fitzgerald
+1595	1	Norman Ollestad
+1596	2	James Patterson	Michael Ledwidge
+1597	2	James Patterson	Michael Ledwidge
+1598	1	David Foster Wallace
+1599	1	David Foster Wallace
+1600	3	Rick Moody	Ann Quin	Silas Flannery
+1601	1	David Foster Wallace
+1602	2	Michael Cocchiarale	Scott Emmert
+1603	1	Rudyard Kipling
+1604	1	Mary Pope Osborne
+1605	1	F. Scott Fitzgerald
+1606	1	Princeton Review
+1607	1	Geralyn Dawson
+1608	1	Patricia Rice
+1609	1	Jeane Westin
+1610	1	Kathleen Kent
+1611	1	Clayton M. Christensen
+1612	3	Duncan Angwin	Stephen Cummings	Chris Smith
+1613	1	Gareth Morgan
+1614	1	LASTDenning
+1615	1	Ph.D. Shawn Talbott Ph.D. FACSM
+1616	1	Anonymous
+1617	1	Richelle Mead
+1618	1	Ina May Gaskin
+1619	2	Ann Douglas	John R. Sussman
+1620	1	Lisa Kleypas
+1621	2	Gail Boushey	Joan Moser
+1622	1	Robin Hobb
+1623	2	Louis Borgenicht	Joe Borgenicht
+1624	1	Lee Strobel
+1625	1	Ian Wilson
+1626	1	William Lane Craig
+1627	1	Arno Ilgner
+1628	1	Josh McDowell
+1629	1	David Baldacci
+1630	1	Geraldine Audre Lorde
+1631	1	Janet L. Abrahm MD
+1632	1	Emily Doskow Attorney
+1633	1	Stephen Larsen
+1634	1	Mary Hunt
+1635	1	Nathaniel Philbrick
+1636	2	James Deetz	Patricia Scott Deetz
+1637	1	John Kennedy Toole
+1638	1	Walker Percy
+1639	1	Mervyn Jones
+1640	1	John Kennedy Toole
+1641	1	Daniel Goleman
+1642	2	Travis Bradberry	Jean Greaves
+1643	1	Dr. Mary Valentis
+1644	1	Adele B. Lynn
+1645	1	Lee Child
+1646	2	James Patterson	Maxine Paetro
+1647	1	Adam Smith
+1648	1	Mary Wollstonecraft
+1649	1	Adam Smith
+1650	1	Jerry Evensky
+1651	2	Paul Ekman	Wallace V. Friesen
+1652	1	Paul Ekman
+1653	2	Mick Randall	Barbara Thornton
+1654	1	Lilly Walters
+1655	1	Joseph Heller
+1656	1	James Jones
+1657	1	Joseph Heller
+1658	1	Brian O'Neill
+1659	1	Nicholas Sparks
+1660	1	Nicholas Sparks
+1661	1	Nicholas Sparks
+1662	1	James Lee Burke
+1663	1	Shaunti Feldhahn
+1664	1	Shaunti Feldhahn
+1665	2	Jeff Feldhahn	Shaunti Feldhahn
+1666	1	Robin Pascoe
+1667	1	Bertrand Russell
+1668	1	George Berkeley
+1669	1	Andrew Newman
+1670	2	G. P. Baker	P. M. S. Hacker
+1671	1	Homer
+1672	1	Stanley P. Baldwin
+1673	1	Homer
+1674	1	Bernard Knox
+1675	2	Homer	Stanley Lombardo
+1676	1	Professor Bernard Knox
+1677	2	Anne Moir	David Jessel
+1678	1	Louann Brizendine M.D.
+1679	1	Jon Zens
+1680	2	Frank Viola	George Barna
+1681	2	Leonard Sweet	Frank Viola
+1682	1	Terri Mauro
+1683	1	Sharon Heller
+1684	1	Kristin Hannah
+1685	1	Harper Lee
+1686	1	Carlos Ruiz Zaf�n
+1687	1	Kristin Hannah
+1688	1	Kristin Hannah
+1689	1	Jodi Picoult
+1690	1	Jodi Picoult
+1691	1	Jacqueline Carey
+1692	1	Jacqueline Carey
+1693	1	Jacqueline Carey
+1694	1	Jacqueline Carey
+1695	1	Rod Serling
+1696	1	Sidney Sheldon
+1697	2	Sidney Sheldon	Tilly Bagshawe
+1698	1	Lisa Kleypas
+1699	1	Jaci Burton
+1700	1	Leila Meacham
+1701	1	Sophie Kinsella
+1702	2	Suzanne Ferriss	Mallory Young
+1703	1	Sophie Kinsella
+1704	1	Sophie Kinsella
+1705	1	Scott Mactavish
+1706	1	Larry Bleidner
+1707	1	Chris Mancini
+1708	1	Joe Deyo
+1709	1	Gary Greenberg
+1710	1	Dorothea Benton Frank
+1711	1	Antonio Vivaldi
+1712	1	Josephine Humphreys
+1713	1	Jayne Ann Krentz
+1714	1	Roger Pinckney
+1715	1	Henry James
+1716	1	George Friedman
+1717	1	John Hart
+1718	1	Michael Gruber
+1719	1	Michael Gruber
+1720	1	Laurell K. Hamilton
+1721	1	Stephen Baker
+1722	1	Jonah Lehrer
+1723	1	Nora Teresa Gedgaudas
+1724	1	George S. Clason
+1725	1	R. H. Conwell
+1726	1	George S. Clason
+1727	1	David McCullough
+1728	1	Juan Williams
+1729	1	Lee Child
+1730	1	Frances McNaughton
+1731	2	Michelle Garcia	Valentin Garcia
+1732	1	Mary-Jane Knight
+1733	1	James Patterson
+1734	1	James Patterson
+1735	2	James Patterson	NaRae Lee
+1736	1	Jeremy Tambling
+1737	1	Leo Tolstoy
+1738	2	Tom Rath	Mary Reckmeyer
+1739	2	Eliot R. Smith	Diane M. Mackie
+1740	4	Henry M. Robert III	William J. Evans	Daniel H. Honemann	Thomas J. Balch
+1741	1	Joyce L. Stephens
+1742	1	General Henry M. Robert
+1743	1	MA, PRP, CPP-T, Nancy Sylvester
+1744	1	William Dalrymple
+1745	1	William Dalrymple
+1746	1	Diana Gabaldon
+1747	1	Jim Denney
+1748	1	Jane O'connor
+1749	1	Jane O'connor
+1750	1	Gregory David Roberts
+1751	1	James Joyce
+1752	1	James Joyce
+1753	1	James Joyce
+1754	1	James Joyce
+1755	1	Sarah Ban Breathnach
+1756	1	Robert D. Ramsey
+1757	1	Vince Flynn
+1758	1	Mark Murphy
+1759	1	Diana Gabaldon
+1760	1	George R.R. Martin
+1761	1	H. Rider Haggard
+1762	1	H. Rider Haggard
+1763	1	Sophie Kinsella
+1764	1	Michael Korda
+1765	1	Dylan Thomas
+1766	1	Richard Adams
+1767	1	Walt Whitman
+1768	1	Patricia Briggs
+1769	1	Patricia Briggs
+1770	1	Patricia Briggs
+1771	1	Patricia Briggs
+1772	1	Edgar Allan Poe
+1773	2	James Patterson	Michael Ledwidge
+1774	2	James Patterson	Maxine Paetro
+1775	1	P.G. Wodehouse
+1776	1	P.G. Wodehouse
+1777	1	P. G. Wodehouse
+1778	1	P. G. Wodehouse
+1779	2	JULIA CHILD	LOUISETTE BERTHOLLE
+1780	1	Karin Slaughter
+1781	1	Sidney Sheldon
+1782	2	Sidney Sheldon	Tilly Bagshawe
+1783	1	Doug Glanville
+1784	1	Dirk Hayhurst
+1785	1	Lucy Leu
+1786	1	Marshall B. Rosenberg
+1787	1	John Powell
+1788	1	Kelly Bryson
+1789	1	Brandon Mull
+1790	1	Ruby K. Payne
+1791	2	Ruby K. Payne	Ph.D.
+1792	1	C. Wright Mills
+1793	1	Ruby K. Payne
+1794	1	Ruby K. Payne
+1795	1	Re'Uven Feuerstein
+1796	1	Paul D. Slocumb; Ed.D.
+1797	1	Gary Paulsen
+1798	1	Gary Paulsen
+1799	1	Philip Yancey
+1800	1	Sherman Alexie
+1801	1	Sherman Alexie
+1802	1	Jane Sharrock
+1803	1	Len Fisher
+1804	2	Pauline Constance Paul	Helen Hanson Palmer
+1805	1	Helen Charley
+1806	1	Bryant L. Myers
+1807	1	Christopher Moore
+1808	1	Christopher Moore
+1809	1	Christopher Moore
+1810	1	Christopher Moore
+1811	1	Christopher Moore
+1812	1	Baroness Orczy
+1813	1	Baroness Orczy
+1814	1	Emmuska Orczy
+1815	1	Phillip M Hoose
+1816	1	Grace Lin
+1817	5	Kerry Patterson	Joseph Grenny	David Maxfield	Ron McMillan	Al Switzler
+1818	1	Gabriel Garcia Marquez
+1819	1	Brenda Cooper
+1820	1	Vladimir Nabokov
+1821	1	Toni Morrison
+1822	1	Lois Lowry
+1823	1	Lois Lowry
+1824	1	Lois Lowry
+1825	1	J. C. Squire
+1826	1	Wolfgang Amadeus Mozart
+1827	1	Angela Knight
+1828	1	Lori Handeland
+1829	1	Marilyn M. Moore
+1830	1	Emily Luchetti
+1831	1	David Lebovitz
+1832	1	Carl Hiaasen
+1833	1	Carl Hiaasen
+1834	1	Robert A. Heinlein
+1835	1	Jhumpa Lahiri
+1836	1	Jhumpa Lahiri
+1837	1	Seamus Heaney
+1838	1	Elin Hilderbrand
+1839	1	Charles E. Wilson Jr.
+1840	3	Mary Brent	Florence Gough	Susan Robinson
+1841	1	Irene Curbelo
+1842	1	Le R. Perry
+1843	1	Arthur E. Adams
+1844	1	Thomas Gray
+1845	1	Truman Capote
+1846	1	Truman Capote
+1847	1	David Marshall Brooks
+1848	1	Victor J. Stenger
+1849	1	David Baldacci
+1850	1	David Baldacci
+1851	1	David Baldacci
+1852	1	James R. Dowling
+1853	3	Lenore Powell	Katie Courtice	Ed.D. Lenore Powell
+1854	1	Joseph E. Stiglitz
+1855	1	Lisa See
+1856	1	Kim Harrison
+1857	1	Kim Harrison
+1858	1	Kim Harrison
+1859	1	Nancy Horan
+1860	1	Carrie Ryan
+1861	1	Susan Beth Pfeffer
+1862	1	Dale Brown
+1863	1	Debra Webb
+1864	1	Karen Rose
+1865	1	Jared Diamond
+1866	1	Jo Anne Van Tilburg
+1867	1	Jared Diamond
+1868	1	Lauraleigh O'Meara
+1869	1	Nancy Milford
+1870	1	Letitia Baldrige
+1871	1	Frank A. Stasiowski
+1872	1	Andrew Lang
+1873	2	Jacob Grimm	Brothers Grimm
+1874	1	Marilyn Jurich
+1875	1	Andrew Lang
+1876	1	Andrew Lang
+1877	1	Elizabeth Wanning Harries
+1878	3	James Stuart Bell	Linda Washington	Carrie Pyykkonen
+1879	2	James Patterson	Andrew Gross
+1880	1	James Patterson
+1881	1	James Patterson
+1882	2	James Patterson	Andrew Gross
+1883	2	James Patterson	Andrew Gross
+1884	1	Rebecca York
+1885	4	Benjamin Ajak	Benson Deng	Alephonsian Deng	Judy Bernstein
+1886	2	John Bul Dau	Michael Sweeney
+1887	1	Joan Hecht
+1888	2	Abraham Nhial	DiAnn Mills
+1889	1	Ken Kesey
+1890	2	John R. Cook	Peter Wright
+1891	1	Ken Kesey
+1892	2	Richard W. Thorington Jr.	Katie E. Ferrell
+1893	2	Donald Stokes	Lillian Stokes
+1894	1	Ian Bremmer
+1895	1	Milton Friedman
+1896	1	Alexandra Chasin
+1897	2	Milton Friedman	Rose D. Friedman
+1898	2	William B. Joiner	Stephen A. Josephs
+1899	1	David Whyte
+1900	1	Apuleius
+1901	1	Euripides
+1902	1	Homer
+1903	1	Sophie Kinsella
+1904	1	Sophie Kinsella
+1905	1	Kurt Vonnegut
+1906	1	Debbie Macomber
+1907	1	Ph.D., Ken Robinson
+1908	1	David Goldblatt
+1909	1	Franklin Foer
+1910	2	Steven D. Stark	Harrison Stark
+1911	1	Felix Salten
+1912	1	Alexis de Tocqueville
+1913	1	Brian O'Connell
+1914	1	Morrison Bonpasse
+1915	1	Saul Alinsky
+1916	1	Betty Smith
+1917	1	Nancy J. Nordenson
+1918	1	E. B. White
+1919	1	N. T. Biblia
+1920	1	Lewis Carroll
+1921	1	Lewis Carroll
+1922	1	Lewis Carroll
+1923	1	Lewis Carroll
+1924	1	William R. Forstchen
+1925	1	Pat Frank
+1926	1	John Perkins
+1927	1	John Perkins
+1928	1	P.W. Singer
+1929	1	Rodriguez
+1930	1	David Malone
+1931	2	P. C. Cast	Kristin Cast
+1932	1	Mel Bartholomew
+1933	1	Michael Stanley
+1934	1	Tarquin Hall
+1935	1	Friedrich Nietzsche
+1936	1	Friedrich Nietzsche
+1937	1	Friedrich Nietzsche
+1938	1	Dean Koontz
+1939	1	Dean Koontz
+1940	1	Isaac Asimov
+1941	1	Isaac Asimov
+1942	1	Isaac Asimov
+1943	1	Isaac Asimov
+1944	1	James Patterson
+1945	1	Patricia Cornwell
+1946	1	John Eldredge; Stasi Eldredge
+1947	2	John Eldredge	Stasi Eldredge
+1948	1	Jeff Shaara
+1949	1	Michael Shaara
+1950	1	Margaret S. Creighton
+1951	1	Robert Underwood Johnson
+1952	1	Michael Shaara
+1953	1	Jeff Shaara
+1954	1	Various
+1955	1	Winston S. Churchill
+1956	1	Virginia Beard Morton
+1957	1	Vanessa Kelly
+1958	1	Christie Kelley
+1959	1	Trenton Lee Stewart
+1960	1	Trenton Lee Stewart
+1961	1	Mark Dutton
+1962	2	Chad Starkey	Jeffrey L. Ryan
+1963	1	M. Saalih
+1964	1	Jeff Kinney
+1965	1	Carmine Gallo
+1966	3	Robert Libby	Patricia Libby	Daniel Short
+1967	1	Jeroen De Flander
+1968	1	Mary W. Green
+1969	1	Benson J. Lossing
+1970	1	Jean Craighead George
+1971	1	Daniel J. Flynn
+1972	1	Samuel Eliot Morison
+1973	1	D. B. Reynolds
+1974	1	Matt Taibbi
+1975	1	Susan Jacoby
+1976	1	Michael Gurian
+1977	1	Katherine White
+1978	1	David Baldacci
+1979	1	Bernard Haisch
+1980	1	David Parrish
+1981	1	Bryan Peterson
+1982	1	Michael Freeman
+1983	1	Michael Freeman
+1984	1	Bryan Peterson
+1985	1	J. K. Rowling
+1986	1	Cornelia Funke
+1987	1	Nancy Thayer
+1988	2	Harvey Diamond	Marilyn Diamond
+1989	1	Max Lucado
+1990	1	Max Lucado
+1991	1	Max Lucado
+1992	1	Vicki Iovine
+1993	1	Vicki Iovine
+1994	1	David E. Hoffman
+1995	1	Jayne Castle
+1996	2	Jordan S. Rubin	Gary Gordon
+1997	1	Larry Cook
+1998	2	Linda Prinster	Leanne Mennemeier
+1999	1	A. W. Tozer

@@ -1,0 +1,2002 @@
+﻿movie	yahoo	mpaa_rating
+2000	1928	1928	972
+0000	1	R for strong perverse sexuality and violence, and for strong language.
+0001	1	PG 13 for some sexual content.
+0002	1	PG-13 for crude humor and nudity.
+0003	1	R for strong sexuality, language, violence and drug content.
+0004	1	PG for mild language and menacing action.
+0005	1	Not Rated
+0006	1	R for strong language, drug use and some violence.
+0007	1	PG-13 for action violence, continuous language and some crude humor.
+0008	1	R for strong sexual content including graphic sex-related dialogue, language, violence.
+0009	1	PG-13 for sex-related material and language.
+0010	1	R for sexuality and some language.
+0011	1	R for violence and language.
+0012	1	PG for mild language and thematic elements.
+0013	1	R for graphic shark attacks, and for language.
+0014	1	R for strong language, drug use and sex-related content.
+0015	1	R for sexuality and language.
+0016	1	G
+0017	1	PG-13 for teen alcohol and drug use, and for language.
+0018	1	PG for mild comic action violence, and for brief language and innuendo.
+0019	1	PG-13 for sex-related situations, partial nudity and crude language.
+0020	1	R
+0021	1	R for strong sexuality, nudity and language.
+0022	1	Not Rated
+0023	1	PG 13 for sensuality, language and a scene of drug use.
+0024	1	R for language and sexual content.
+0025	1	NC-17
+0026	1	R for intense terror violence and gore, strong language and some drug use.
+0027	1	R for violence/ terror and language.
+0028	1	R for strong sensuality and language, and for some violence.
+0029	1	R for some intense violent behavior.
+0030	1	R for strong sexual content and language.
+0031	1	Not Rated
+0032	1	R for language.
+0033	1	R for language and sexual content.
+0034	1	R for sex-related images, language and drug content.
+0035	1	PG-13 for comic action violence and crude humor.
+0036	1	PG 13 for sexual content and brief strong language.
+0037	1	R for language.
+0038	1	PG-13 for some thematic elements emphasizing sexuality, and for language.
+0039	1	R for some strong violence, sexuality and language.
+0040	1	R for language and a scene of sexuality.
+0041	1	G
+0042	1	Not Rated
+0043	1	R for intense prolonged realistically graphic sequences of war violence, and for language.
+0044	1	R for violence, sexuality and brief drug use.
+0045	1	PG for some vulgarity, brief nudity and language.
+0046	1	Not Rated
+0047	1	R for strong graphic violence and sexuality, pervasive strong language and drug use.
+0048	1	PG for adventure violence.
+0049	1	PG-13 for momentary language and some violence.
+0050	1	R for bloody battles and carnage.
+0051	1	R for strong language.
+0052	1	G
+0053	1	PG-13 for language.
+0054	1	R for language, and violence.
+0055	1	R for violence/gore, strong language, drug use and some nudity.
+0056	1	R for some sexuality, a scene of violence, and for brief language.
+0057	1	R for some language.
+0058	1	G
+0059	1	R for strong sexual images, pervasive nudity, violence and language.
+0060	1	Not Rated
+0061	1	R for some sexuality.
+0062	1	R for strong violence, and for language.
+0063	1	R for strong language and sexual content.
+0064	1	G for language.
+0065	1	R for language.
+0066	1	PG 13 for some scenes of violence and brief language.
+0067	1	R for strong language throughout, sexuality and nudity, and some substance abuse.
+0068	1	PG for one scene of mild violence, mild language and thematic elements.
+0069	1	PG-13 for sex related humor, language and some drug content.
+0070	1	PG 13 for action violence, sex references and innuendo.
+0071	1	R for strong sexual content.
+0072	1	PG for some language.
+0073	1	PG-13
+0074	1	R for language and some drug content.
+0075	1	G
+0076	1	R for sexual content and some language.
+0077	1	PG-13
+0078	1	G
+0079	1	R for pervasive strong sexual content, nudity, and language.
+0080	1	R
+0081	1	R for violence including an intense brutal rape scene, sexuality, language and drug use.
+0082	1	PG
+0083	1	R
+0084	1	PG
+0085	1	PG for for mild language and thematic elements.
+0086	1	R for strong violence/gore, teen sexuality, language and some drug content.
+0087	1	PG-13 for crude sexual humor and language.
+0088	1	R for strong violence, sexuality, language and drug content.
+0089	1	PG 13 for crude humor and language.
+0090	1	R for intense violence and gore, a strong sex scene and language.
+0091	1	R for sexuality and language.
+0092	1	PG for an opening accident scene and some mild language.
+0093	1	PG
+0094	1	PG
+0095	1	R for strong violence and language.
+0096	1	R for strong language, including some sex-related dialogue.
+0097	1	Not Rated
+0098	1	R
+0099	1	R for strong sexuality, pervasive drug use and language.
+0100	1	PG-13 for some violence, sensuality and brief strong language.
+0101	1	R for strong horror violence and language.
+0102	1	None
+0103	1	R for language.
+0104	1	R for violence and language.
+0105	1	PG 13 for sex related humor and language.
+0106	1	PG 13 for some intense sci-fi action.
+0107	1	R for strong language, drug use, sexuality and some violence.
+0108	1	R for language and brief sexuality/nudity.
+0109	1	PG-13
+0110	1	R
+0111	1	PG for some menacing action violence and mild language.
+0112	1	PG-13 for some sex-related material and nudity.
+0113	1	PG for a beating, language and brief nudity.
+0114	1	NC-17 for explicit sexual content and dialogue.
+0115	1	PG-13
+0116	1	R for strong violence and some language.
+0117	1	PG 13 for sequences of action/violence and shootings, and for language.
+0118	1	R for pervasive language, drug use, violent antisocial behavior and some sexuality.
+0119	1	R
+0120	1	PG
+0121	1	PG 13 for sexual content, crude humor, brief strong language and teen drinking.
+0122	1	PG-13 for language, sensuality and brief violence.
+0123	1	PG
+0124	1	PG
+0125	1	PG
+0126	1	R for violence, some strong sexuality, language and drug content.
+0127	1	R for pervasive strong language, drug content, sexuality and brief violence.
+0128	1	PG-13
+0129	1	R for scenes of strong sexuality.
+0130	1	Not Rated
+0131	1	R for violence, language and some sex-related material.
+0132	1	PG-13 for sexuality and drug use, including scenes involving children, and for language.
+0133	1	R for language.
+0134	1	R for some elements involving sexuality and drugs.
+0135	1	R for sexuality and brief language.
+0136	1	R for strong language, sexual content and violence.
+0137	1	R
+0138	1	Not Rated
+0139	1	PG 13 for language and some crude sexual humor.
+0140	1	R
+0141	1	PG for action violence, mild sensuality and brief language.
+0142	1	R for some sexuality and nudity.
+0143	1	R for graphic heroin use and resulting depravity, strong language, sex, nudity and violence.
+0144	1	R
+0145	1	R for strong sexual content, nudity, language and drug use.
+0146	1	R for strong, grisly violence, sexuality, drug use and language.
+0147	1	R for violence, language, and sexuality/nudity.
+0148	1	PG
+0149	1	Not Rated
+0150	1	PG
+0151	1	Not Rated
+0152	1	G
+0153	1	PG-13
+0154	1	PG
+0155	1	Not Rated
+0156	1	PG
+0157	1	R for violence and brief nudity.
+0158	1	R
+0159	1	R
+0160	1	R
+0161	1	R
+0162	1	R
+0163	1	PG
+0164	1	PG
+0165	1	R
+0166	1	G
+0167	1	PG
+0168	1	PG
+0169	1	PG for some intense sci-fi action, mild language and thematic elements.
+0170	1	PG-13
+0171	1	R
+0172	1	R
+0173	1	PG-13
+0174	1	R
+0175	1	Not Rated
+0176	1	R
+0177	1	PG
+0178	1	PG
+0179	1	R
+0180	1	R
+0181	1	R
+0182	1	R
+0183	1	GP for mature themes.
+0184	1	R
+0185	1	Not Rated
+0186	1	Not Rated
+0187	1	G
+0188	1	R
+0189	1	R
+0190	1	PG
+0191	1	PG
+0192	1	Not Rated
+0193	1	R
+0194	1	PG
+0195	1	PG
+0196	1	PG
+0197	1	Not Rated
+0198	1	PG
+0199	1	Not Rated
+0200	1	PG
+0201	1	PG
+0202	1	R
+0203	1	R
+0204	1	Not Rated
+0205	1	R
+0206	1	R
+0207	1	PG
+0208	1	R
+0209	1	Not Rated
+0210	1	PG
+0211	1	Not Rated
+0212	1	R
+0213	1	PG
+0214	1	Not Rated
+0215	1	Not Rated
+0216	1	R
+0217	1	R
+0218	1	PG-13
+0219	1	G
+0220	1	R
+0221	1	R
+0222	1	PG
+0223	1	PG-13
+0224	1	R
+0225	1	Not Rated
+0226	1	PG
+0227	1	Not Rated
+0228	1	PG
+0229	1	Not Rated
+0230	1	R
+0231	1	R
+0232	1	Not Rated
+0233	1	G
+0234	1	R
+0235	1	PG
+0236	1	Not Rated
+0237	1	G
+0238	1	PG
+0239	1	Not Rated
+0240	1	PG
+0241	1	PG
+0242	1	Not Rated
+0243	1	PG
+0244	1	PG
+0245	1	R
+0246	1	R
+0247	1	R
+0248	1	Not Rated
+0249	1	PG
+0250	1	R
+0251	1	R
+0252	1	PG
+0253	1	PG
+0254	1	Not Rated
+0255	1	R
+0256	1	R
+0257	1	Not Rated
+0258	1	Not Rated
+0259	1	PG
+0260	1	G
+0261	1	PG
+0262	1	PG
+0263	1	R
+0264	1	R
+0265	1	GP
+0266	1	R
+0267	1	R
+0268	1	G
+0269	1	PG
+0270	1	R
+0271	1	Not Rated
+0272	1	PG
+0273	1	G
+0274	1	PG
+0275	1	PG
+0276	1	PG-13 for holocaust-related thematic elements.
+0277	1	PG
+0278	1	PG
+0279	1	Not Rated
+0280	1	Not Rated
+0281	1	R
+0282	1	R
+0283	1	PG
+0284	1	R
+0285	1	PG
+0286	1	Not Rated
+0287	1	R
+0288	1	PG
+0289	1	R
+0290	1	Not Rated
+0291	1	R
+0292	1	Not Rated
+0293	1	PG
+0294	1	G
+0295	1	R
+0296	1	R
+0297	1	R N/A
+0298	1	R
+0299	1	Not Rated
+0300	1	R
+0301	1	PG
+0302	1	PG
+0303	1	PG-13
+0304	1	R
+0305	1	PG
+0306	1	Not Rated
+0307	1	R
+0308	1	PG-13
+0309	1	R
+0310	1	G
+0311	1	PG
+0312	1	R
+0313	1	R
+0314	1	Not Rated
+0315	1	PG
+0316	1	R
+0317	1	Not Rated
+0318	1	Not Rated
+0319	1	R
+0320	1	G
+0321	1	R
+0322	1	R
+0323	1	R
+0324	1	PG-13
+0325	1	Not Rated
+0326	1	R
+0327	1	PG
+0328	1	PG-13
+0329	1	R
+0330	1	PG
+0331	1	PG
+0332	1	R
+0333	1	R
+0334	1	R
+0335	1	R
+0336	1	PG
+0337	1	R
+0338	1	R
+0339	1	GP
+0340	1	Not Rated
+0341	1	PG-13 for some violence and sexual content.
+0342	1	Not Rated
+0343	1	R
+0344	1	R
+0345	1	PG
+0346	1	PG-13
+0347	1	R
+0348	1	PG
+0349	1	G
+0350	1	R
+0351	1	R
+0352	1	R
+0353	1	G
+0354	1	PG-13
+0355	1	Not Rated
+0356	1	Not Rated
+0357	1	R
+0358	1	Not Rated
+0359	1	PG
+0360	1	R
+0361	1	PG
+0362	1	R
+0363	1	Not Rated
+0364	1	Not Rated
+0365	1	R
+0366	1	PG
+0367	1	G
+0368	1	R
+0369	1	Not Rated
+0370	1	G
+0371	1	Not Rated
+0372	1	Not Rated
+0373	1	PG-13
+0374	1	Not Rated
+0375	1	PG N/A
+0376	1	Not Rated
+0377	1	Not Rated
+0378	1	G
+0379	1	PG
+0380	1	PG
+0381	1	PG
+0382	1	Not Rated
+0383	1	Not Rated
+0384	1	R
+0385	1	R
+0386	1	PG-13
+0387	1	Not Rated
+0388	1	PG
+0389	1	Not Rated
+0390	1	PG
+0391	1	G
+0392	1	Not Rated
+0393	1	R
+0394	1	R
+0395	1	G
+0396	1	Not Rated
+0397	1	Not Rated
+0398	1	PG
+0399	1	R
+0400	1	R
+0401	1	PG
+0402	1	R
+0403	1	PG-13
+0404	1	R
+0405	1	PG-13
+0406	1	R
+0407	1	PG-13
+0408	1	R
+0409	1	R for graphic violence and brief nudity.
+0410	1	R
+0411	1	R
+0412	1	Not Rated
+0413	1	R
+0414	1	R
+0415	1	PG
+0416	1	PG-13
+0417	1	PG
+0418	1	Not Rated
+0419	1	R
+0420	1	PG-13
+0421	1	Not Rated
+0422	1	PG
+0423	1	R for strong violence and sensuality, and for drug use and language.
+0424	1	PG
+0425	1	R
+0426	1	Not Rated
+0427	1	Not Rated
+0428	1	Not Rated
+0429	1	R
+0430	1	PG
+0431	1	R
+0432	1	Not Rated
+0433	1	PG-13
+0434	1	PG
+0435	1	PG-13
+0436	1	G
+0437	1	PG
+0438	1	PG
+0439	1	PG-13
+0440	1	PG
+0441	1	PG-13
+0442	1	R
+0443	1	R
+0444	1	R
+0445	1	R
+0446	1	PG
+0447	1	PG
+0448	1	PG-13
+0449	1	R
+0450	1	PG-13
+0451	1	R for strong western violence.
+0452	1	PG-13
+0453	1	R
+0454	1	PG-13
+0455	1	R
+0456	1	PG-13
+0457	1	Not Rated
+0458	1	R
+0459	1	Not Rated
+0460	1	R for a lot of action/violence and some language.
+0461	1	R
+0462	1	PG 13
+0463	1	PG
+0464	1	PG
+0465	1	R for language and prison violence.
+0466	1	Not Rated
+0467	1	R for extensive use of extremely explicit sex-related dialogue.
+0468	1	PG 13
+0469	1	PG
+0470	1	PG-13
+0471	1	Not Rated
+0472	1	R
+0473	1	R
+0474	1	R
+0475	1	PG 13 for strong stylized action.
+0476	1	R
+0477	1	R
+0478	1	R
+0479	1	G
+0480	1	PG
+0481	1	PG 13
+0482	1	PG-13
+0483	1	R for for grisly afterviews of horrific and bizarre killings, and for strong language.
+0484	1	PG-13
+0485	1	PG-13
+0486	1	R
+0487	1	Not Rated
+0488	1	R
+0489	1	R
+0490	1	R for strong violence and gore, language and nudity.
+0491	1	R
+0492	1	PG-13
+0493	1	PG-13
+0494	1	R
+0495	1	PG 13
+0496	1	R
+0497	1	PG-13
+0498	1	R
+0499	1	R
+0500	1	R
+0501	1	R
+0502	1	R
+0503	1	R for language and sexuality.
+0504	1	PG-13
+0505	1	R
+0506	1	Not Rated
+0507	1	R
+0508	1	PG 13 for strong stylized action and some innuendos.
+0509	1	PG
+0510	1	R
+0511	1	R
+0512	1	Not Rated
+0513	1	G
+0514	1	R for sexuality and some language.
+0515	1	Not Rated
+0516	1	R
+0517	1	PG for intense depiction of thematic elements.
+0518	1	PG 13 for a disturbing accident scene.
+0519	1	R for terror, violence, gore, and language.
+0520	1	PG 13 for some strong language.
+0521	1	Not Rated
+0522	1	R
+0523	1	G
+0524	1	PG
+0525	1	PG 13
+0526	1	PG-13
+0527	1	R
+0528	1	Not Rated
+0529	1	R
+0530	1	PG-13 for (original).
+0531	1	PG-13
+0532	1	R
+0533	1	Not Rated
+0534	1	PG
+0535	1	R
+0536	1	R
+0537	1	R
+0538	1	R
+0539	1	R
+0540	1	G
+0541	1	PG-13
+0542	1	R
+0543	1	G
+0544	1	R for horror violence and gore, sexual images and language.
+0545	1	Not Rated
+0546	1	R for language and sexuality.
+0547	1	R for sexuality including strong sexual dialogue, language and some drug content.
+0548	1	R for some strong sexuality, and for language.
+0549	1	R for strong violence and language.
+0550	1	Not Rated
+0551	1	R
+0552	1	R for sexual content, language, and crude humor.
+0553	1	NONE
+0554	1	R for sexuality and language.
+0555	1	R for some strong sexuality and violent imagery.
+0556	1	R for violence, language, some sexuality and drug content.
+0557	1	PG-13 for language and some sex-related material.
+0558	1	NONE for violence, language, drug content and brief nudity.
+0559	1	R for strong sexuality, and for violence, language and nudity.
+0560	1	PG-13 for sexual content, drug use and language.
+0561	1	R for a scene of sexuality.
+0562	1	R for strong sexuality and nudity, violent images, language and drug content.
+0563	1	PG-13 for violence and brief sexuality.
+0564	1	R for language and drug content.
+0565	1	R for violence, some strong sexuality, language and drug content.
+0566	1	R for sexuality, language and drug use.
+0567	1	PG-13 for some thematic elements, language, and brief sexuality.
+0568	1	PG-13 for mature thematic elements, sexual content, partial nudity and language.
+0569	1	R for language.
+0570	1	R for some language and sexuality.
+0571	1	R for pervasive strong language, drugs and sexual content.
+0572	1	PG-13 for some sexual content.
+0573	1	PG-13 for intense thematic material, language, and sexual content.
+0574	1	Not Rated
+0575	1	R for violence and language.
+0576	1	R for language.
+0577	1	R for drug content and language.
+0578	1	Not Rated
+0579	1	R for language and some drug use.
+0580	1	R for strong violent and sexual content, including related dialogue, and for language and drug use.
+0581	1	R for strong sexual content including graphic dialogue, and for language.
+0582	1	R for strong thematic elements involving teens.
+0583	1	R for language.
+0584	1	R for language.
+0585	1	R for pervasive drug content and language, and for some strong sexuality.
+0586	1	R for strong language and sexual content involving teens.
+0587	1	G
+0588	1	None
+0589	1	PG-13 for some sexuality and language.
+0590	1	R for scenes of war violence, and for language.
+0591	1	Not Rated
+0592	1	R for strong sexual content and some violence.
+0593	1	R for violence, nudity and language.
+0594	1	R for strong sexuality and nudity, and for language.
+0595	1	PG 13 for action violence, some drug humor, language and sensuality.
+0596	1	NONE
+0597	1	R
+0598	1	PG-13 for teen sex-related material, language and substance misuse.
+0599	1	Not Rated
+0600	1	Not Rated
+0601	1	PG-13 for drug content, crude sexual material and language.
+0602	1	PG-13 for thematic elements.
+0603	1	R for pervasive language, strong sexual content, violence, and some drug use.
+0604	1	Not Rated
+0605	1	G
+0606	1	PG-13 for language.
+0607	1	PG for mild language.
+0608	1	Not Rated
+0609	1	R for a sex scene and language.
+0610	1	Not Rated
+0611	1	Not Rated
+0612	1	PG
+0613	1	PG-13
+0614	1	Not Rated
+0615	1	PG 13 for some intense violence and gore.
+0616	1	PG-13
+0617	1	PG-13 for intense sequences of action violence, some sexuality and innuendo.
+0618	1	PG 13 for brief violent images.
+0619	1	Not Rated
+0620	1	Not Rated
+0621	1	R
+0622	1	Not Rated
+0623	1	R
+0624	1	Not Rated
+0625	1	None
+0626	1	G
+0627	1	G
+0628	1	PG for thematic elements and some language.
+0629	1	G
+0630	1	PG
+0631	1	G
+0632	1	PG 13 for sci-fi violence, brief nudity and language.
+0633	1	PG for sustained sequences of sci-fi action/violence.
+0634	1	Not Rated
+0635	1	R for sexuality, language and drug content.
+0636	1	R for violence and some strong sexuality.
+0637	1	No Rating
+0638	1	PG-13 for sexual content.
+0639	1	R for a strong sex scene.
+0640	1	R
+0641	1	R for language, violence and a scene of sexuality.
+0642	1	R for language, some violence and a scene of sexuality.
+0643	1	PG 13 for violence, sexual content, language and brief drug references.
+0644	1	PG for sexuality and language.
+0645	1	R for a scene of sexuality and language.
+0646	1	Not Rated
+0647	1	G
+0648	1	R for strong language and disturbing images.
+0649	1	R for strong violence, pervasive language and a scene of sexuality.
+0650	1	R for language, some sexual content and brief drug use.
+0651	1	PG 13 for mature thematic elements incl. some disturbing violent content, & for a crude sexual reference.
+0652	1	PG for thematic elements.
+0653	1	R for strong sexual content including dialogue, violence and language.
+0654	1	R for language and sexuality.
+0655	1	Not Rated
+0656	1	Not Rated
+0657	1	G
+0658	1	PG-13 for mature elements: substance abuse/recovery, some sexual situations, language and brief violence.
+0659	1	Not Rated
+0660	1	PG-13
+0661	1	R
+0662	1	Not Rated
+0663	1	R
+0664	1	PG-13
+0665	1	Not Rated
+0666	1	Not Rated
+0667	1	Not Rated
+0668	1	R for violence/gore and some nudity.
+0669	1	Not Rated
+0670	1	Not Rated
+0671	1	R
+0672	1	R for language.
+0673	1	R for strong violence, some sexuality, langauge and brief drug content.
+0674	1	PG
+0675	1	G
+0676	1	R for language, sexuality, some drug use and brief violence.
+0677	1	G
+0678	1	PG-13 for sexual content, violence and language.
+0679	1	R for violence and language.
+0680	1	R for language and sexual content.
+0681	1	R
+0682	1	R for bizarre violence and sexual images, nudity and language.
+0683	1	PG-13
+0684	1	R for sexual content and language.
+0685	1	Not Rated
+0686	1	R for pervasive strong violence, and for sexual content and language.
+0687	1	Not Rated
+0688	1	Not Rated
+0689	1	R for sexuality/nudity, language and some violence.
+0690	1	R for strong violence, sexuality and language.
+0691	1	PG-13 for some violence.
+0692	1	PG-13 for a murder and other action sequences in an adventure setting.
+0693	1	Not Rated
+0694	1	R for realistic war violence and language.
+0695	1	PG for thematic elements and brief language.
+0696	1	Not Rated
+0697	1	Not Rated
+0698	1	PG-13 for sexual references and a scene of violence.
+0699	1	R for pervasive language, strong violence and some drug content.
+0700	1	PG 13 for intense sci-fi terror and violence.
+0701	1	G
+0702	1	R for a scene of sexuality and brief violence.
+0703	1	R for strong graphic war violence and some sexuality.
+0704	1	G
+0705	1	PG 13 for sexual content.
+0706	1	Not Rated
+0707	1	Not Rated
+0708	1	R for strong violence, language and nudity.
+0709	1	NONE
+0710	1	PG for bodily humor.
+0711	1	PG-13 for language, violence and sexuality.
+0712	1	PG-13
+0713	1	R for strong violence, language, some drug content and brief sexuality.
+0714	1	Not Rated
+0715	1	R
+0716	1	R for violence/gore.
+0717	1	PG-13 for fantasy action violence.
+0718	1	Not Rated
+0719	1	R for some sexuality, drug content, violence and langauge.
+0720	1	R for language and some sexual content.
+0721	1	PG-13 for crude and sexual humor, language, and thematic material.
+0722	1	R for strong violence, language and some sexuality/nudity.
+0723	1	R for nonstop crude and sexual humor, pervasive strong language, and drug content.
+0724	1	R for violence.
+0725	1	Not Rated
+0726	1	PG-13 for violence.
+0727	1	R for some violence, sexuality and language.
+0728	1	PG-13 for violence, sexual content, and language.
+0729	1	PG for crude humor, language and comic violence.
+0730	1	R for strong sexual content, crude humor and language.
+0731	1	PG-13
+0732	1	R for language.
+0733	1	R for language.
+0734	1	R for strong violent content and language.
+0735	1	PG for thematic material, mild sensuality and language.
+0736	1	R for strong violence, language, sexuality and drug content.
+0737	1	Not Rated
+0738	1	R
+0739	1	Not Rated
+0740	1	R for sexuality, language, and drug content.
+0741	1	R for language and drug content.
+0742	1	R for language and some violent images.
+0743	1	PG-13 for pervasive adventure violence and some partial nudity.
+0744	1	R for violence, sexuality and language.
+0745	1	Not Rated
+0746	1	R for sexuality/nudity and language.
+0747	1	PG-13 for sexual content.
+0748	1	R for language and some sexuality.
+0749	1	R
+0750	1	PG-13 for images of violence and gore.
+0751	1	NONE
+0752	1	R for violence, sexuality, and language.
+0753	1	Not Rated
+0754	1	PG-13 for sex-related content including dialogue.
+0755	1	Not Rated
+0756	1	R for language and some strong sexuality.
+0757	1	Not Rated
+0758	1	PG-13 for language and sex-related material.
+0759	1	Not Rated
+0760	1	PG 13 for adventure violence/swordplay and some sensuality.
+0761	1	PG-13 for some sensuality and thematic elements.
+0762	1	R for language.
+0763	1	R for language and some drug content.
+0764	1	R for violence, a scene of strong sexuality, language and drug use.
+0765	1	PG-13 for language and sexual content.
+0766	1	PG 13 for intense epic battle sequences and frightening images.
+0767	1	R for language and sexuality.
+0768	1	R for strong sexual images and language.
+0769	1	R for language and brief strong violence.
+0770	1	R
+0771	1	R
+0772	1	R for language and sexuality.
+0773	1	R for sexual content and language.
+0774	1	R for strong language.
+0775	1	R for disturbing violent images, language, sexual content and some drug use.
+0776	1	R for strong language.
+0777	1	Not Rated
+0778	1	NONE
+0779	1	PG for language and some violence.
+0780	1	PG 13 for language, sexual/crude humor and battle violence.
+0781	1	R for language including sexual dialogue.
+0782	1	PG-13 for sci-fi action violence and some provocative humor.
+0783	1	PG 13 for intense sequences of action violence and some sensuality.
+0784	1	PG-13 for violence and thematic elements.
+0785	1	PG for mild peril.
+0786	1	R for strong pervasive violence, language, some drug use and sexual content.
+0787	1	G
+0788	1	R for sci-fi violence and some sexuality.
+0789	1	R for strong violence/gore, sexuality, language and drug content.
+0790	1	PG-13 for intense sequences of violent action, some sensuality and language.
+0791	1	R for some language.
+0792	1	R for language and violence.
+0793	1	R
+0794	1	PG for language and some crude humor.
+0795	1	PG-13 for thematic material, violence and some sexual content.
+0796	1	R for strong crude sexual content and humor, language and some drug content.
+0797	1	R for language and some sexual content.
+0798	1	R for language, some violence and sexuality.
+0799	1	PG-13 for violence, brief sexuality and language.
+0800	1	R for disturbing sexual violence, some shootings and strong language.
+0801	1	R
+0802	1	PG 13 for epic battle sequences and some scary images.
+0803	1	PG-13 for brief nudity.
+0804	1	R for language, some violence and nudity.
+0805	1	Not Rated
+0806	1	R for violence.
+0807	1	PG-13 for some sexual content and thematic elements.
+0808	1	R for strong brutal violence and language.
+0809	1	R for sexual content.
+0810	1	Not Rated
+0811	1	R for intense, realistic, graphic war violence, and for language.
+0812	1	G
+0813	1	NONE
+0814	1	R for sexuality/nudity.
+0815	1	PG-13 for language, crude and sexual humor, and substance abuse.
+0816	1	PG
+0817	1	PG-13 for violence and images of destruction.
+0818	1	R for violence, language and some sexuality.
+0819	1	R for some language and brief sexuality.
+0820	1	PG-13 for terror, some sexuality and language.
+0821	1	PG-13 for some violence and a scene of sexuality.
+0822	1	G
+0823	1	R for language and nudity.
+0824	1	PG-13 for language.
+0825	1	R for strong violence and some language.
+0826	1	R for language, sexual content and drug use.
+0827	1	Not Rated
+0828	1	R for sexuality/nudity and some language.
+0829	1	PG-13 for brief strong language.
+0830	1	Not Rated
+0831	1	PG for thematic elements, language and some sensual material.
+0832	1	R for strong violence, pervasive language and brief sexuality.
+0833	1	R for sexuality and language.
+0834	1	R for language, some violence and sexuality.
+0835	1	R for sexuality and some language.
+0836	1	PG-13 for some frightening moments.
+0837	1	R for language and sexual references.
+0838	1	PG-13 for action violence, language and some drug content.
+0839	1	Not Rated
+0840	1	PG-13 for for action/violence and some sensuality.
+0841	1	PG-13 for for some sexual content and brief language.
+0842	1	Not Rated
+0843	1	PG-13 for language, violence, some sensuality and drug material.
+0844	1	R for strong language, sexuality, some violence and drug use.
+0845	1	PG-13 for some sensuality and brief strong language.
+0846	1	PG-13 for violence, sexuality and language.
+0847	1	G for General Audiences.
+0848	1	Not Rated
+0849	1	R for sexual content and language.
+0850	1	R for strong language, sexual content and crude humor.
+0851	1	R for strong violence, pervasive language, drug content and some sexuality.
+0852	1	R for language and some violence.
+0853	1	R for language and some sexuality.
+0854	1	PG-13 for mature thematic elements, language, and brief sensuality.
+0855	1	G
+0856	1	PG for brief mild language.
+0857	1	PG-13 for innuendo and language.
+0858	1	R for language and sexual content.
+0859	1	R for language, sexuality and drug content.
+0860	1	R for violence, language and brief sexuality.
+0861	1	R for for language and some violence.
+0862	1	PG for brief language.
+0863	1	R for for strong violence and language.
+0864	1	R for language and some sexuality/nudity.
+0865	1	PG-13 for some language, sexual references.
+0866	1	Not Rated
+0867	1	R for language, some sexual content and drug use.
+0868	1	PG for action violence and mild language.
+0869	1	R for strong violence.
+0870	1	R for violence and language.
+0871	1	R for language, violence and some sexual content.
+0872	1	PG-13 for mature thematic elements, some disturbing images and brief language.
+0873	1	PG-13 for sci-fi life/death situations and brief strong language.
+0874	1	PG-13 for mature thematic elements, sexual content, disturbing images and language.
+0875	1	Not Rated
+0876	1	R for language, drug use and some violence.
+0877	1	PG-13 for sensuality.
+0878	1	R for scenes of sex, violence and drug use.
+0879	1	PG for mild sensuality.
+0880	1	R
+0881	1	R for some sexual dialogue.
+0882	1	None
+0883	1	R for strong sexual content including graphic dialogue, and for language.
+0884	1	R for sci-fi violence and brief sexual content.
+0885	1	R for strong language and some violence.
+0886	1	R for for strong violence and gore, language and nudity.
+0887	1	R for strong language, sexuality and drug use.
+0888	1	R for strong sexuality, nudity, language, some drug use and violence.
+0889	1	R for pervasive language, strong sexual content and some violence.
+0890	1	R for language, war-related violence.
+0891	1	PG 13 for violence, some images of nudity, sexual references.
+0892	1	PG for thematic elements, language and brief partial nudity.
+0893	1	PG-13 for violence/terror, some sexuality and substance abuse.
+0894	1	PG for quirky situations, action and mild language.
+0895	1	R for some violence.
+0896	1	R for violence and sexuality.
+0897	1	R for pervasive violence and a sexual conversation.
+0898	1	PG-13 for sensuality.
+0899	1	R for violence, language, sexual content.
+0900	1	R for language, sexuality, drug content and some violence.
+0901	1	R for strong violence and gore, disturbing images and rituals, and for language including some sexual dialogue.
+0902	1	PG-13 for mature thematic elements, sexual content, brief violence and language.
+0903	1	PG-13 for some sexual content.
+0904	1	PG-13 for for crude and sex-related humor, drug content and language.
+0905	1	PG 13 for sci-fi action violence and frightening images.
+0906	1	G for General Audiences.
+0907	1	R for violence.
+0908	1	PG-13 for for action, violence and some double entendre.
+0909	1	R for sexual situations and one scene of violence.
+0910	1	PG-13 for some sex related material.
+0911	1	PG-13 for Sexual content, language and brief violence.
+0912	1	R for violence, language, brief sexuality/nudity.
+0913	1	R for language.
+0914	1	PG for comic nudity, crude humor, language.
+0915	1	PG for mild language, crude humor and some thematic elements.
+0916	1	R for strong war violence, brutality, language.
+0917	1	PG for mild language and some crude humor.
+0918	1	PG-13 for crude and sexual humor, language, drug reference.
+0919	1	PG-13 for mature subject matter and some sexual content.
+0920	1	PG for some scary moments.
+0921	1	R for some strong sexual content, nudity and language.
+0922	1	PG-13 for for some sensuality and a conversation about drugs.
+0923	1	R for language, drug use, brief sexual images.
+0924	1	R for pervasive strong violence and gore, language, brief sexuality and some drug use.
+0925	1	PG-13 for sequences of action violence, sexual content, nudity and language.
+0926	1	R
+0927	1	PG-13 for action violence.
+0928	1	R for strong horror violence/gore, sexual content and language.
+0929	1	PG-13 for action violence.
+0930	1	PG for some mild language and crude humor.
+0931	1	PG for for adventure action, some mild sensuality and brief language.
+0932	1	R for language and violence.
+0933	1	PG-13 for drug content, sexual material and language.
+0934	0	<NULL>
+0935	1	PG 13 for sci-fi violence and some intense images.
+0936	1	R for strong violence including disturbing images, language and some sexuality.
+0937	1	R for nudity, sexual content and some language.
+0938	1	Not Rated
+0939	1	PG-13 for suggestive humor, language, some drug references and action violence.
+0940	1	PG-13 for intense battle sequences and brief language.
+0941	1	PG-13 for creature action violence and frightening images, sensuality.
+0942	1	R for violence, sexuality/nudity, and brief language.
+0943	1	R for for a scene of drug use and some sexual references.
+0944	1	G for General Audiences.
+0945	1	PG for sequences of violence/peril and action, language and a couple of suggestive moments.
+0946	1	PG for action violence, scary images.
+0947	1	Not Rated
+0948	1	R for violence, gore, and language.
+0949	1	PG-13 for sexuality, thematic elements and some language.
+0950	1	PG for mild language, innuendo.
+0951	1	G
+0952	1	R for language, gore, sexuality, drug use.
+0953	1	PG-13 for language, sexual content.
+0954	1	R for for violence and brief nudity.
+0955	1	PG 13 for thematic elements, sexual content, nudity, language and crash sequence.
+0956	1	R for violence and brief strong language.
+0957	1	R for violence/gore, language, drug content.
+0958	1	PG 13 for frightening sequences of violence and disturbing images.
+0959	1	PG for mild thematic elements, some adventure action and brief language.
+0960	1	PG-13 for terror/violence, some sexual content and language.
+0961	1	Not Rated
+0962	1	PG-13 for sex-related humor.
+0963	0	<NULL>
+0964	1	PG for some scary action, rude humor and language.
+0965	1	R for sexuality, nudity.
+0966	1	Not Rated
+0967	1	R for sexual content and language.
+0968	1	G for General Audiences.
+0969	1	PG for mild thematic elements and brief language.
+0970	1	PG for mild thematic elements and brief language.
+0971	0	<NULL>
+0972	1	R for language.
+0973	1	PG for for mild sensuality and language.
+0974	1	PG 13 for action violence and some sensuality.
+0975	1	PG-13 for violence, sexuality, language and drug references.
+0976	1	PG-13 for language, sexual content and some drug references.
+0977	1	R for strong sexual content including dialogue, and for language.
+0978	1	R for some violent images and language.
+0979	1	PG for thematic material involving some violent action and a childbirth scene.
+0980	1	PG-13 for sexual content, some violence and language.
+0981	1	R for violence, some gore and brief language.
+0982	1	R for sexuality.
+0983	0	<NULL>
+0984	1	PG for for some mild crude humor.
+0985	1	R for for strong violence/gore, some language.
+0986	1	Not Rated
+0987	1	R for language and some sexual content.
+0988	1	R for language.
+0989	1	PG-13 for elements of violence.
+0990	1	PG for thematic elements and some crude humor.
+0991	1	Not Rated
+0992	1	PG for mild thematic elements and language.
+0993	1	R for sexuality, language and some disturbing images.
+0994	1	Not Rated
+0995	1	PG 13 for sexual humor, language and comic violence.
+0996	1	R for language, violence, sexual content.
+0997	1	R for strong language, sexuality.
+0998	1	PG-13 for brief language, drug reference.
+0999	1	R for strong sexual content including graphic nudity and dialogue.
+1000	1	Not Rated
+1001	1	R for some violence.
+1002	1	G for General Audiences.
+1003	1	R for for sequences of graphic violence. (original).
+1004	1	R for strong language and sexual content.
+1005	1	PG for thematic elements and brief language.
+1006	1	PG-13 for sexual content/humor.
+1007	1	PG-13 for brief strong language.
+1008	1	PG-13 for sexual content and some language.
+1009	1	Not Rated
+1010	1	R for strong brutal violence, sexuality, drug content and language.
+1011	1	PG-13 for crude and sex-related humor, language.
+1012	1	PG-13 for violence, frightening sequences and brief suggestive material.
+1013	1	PG 13 for sexual content, language, crude humor, and some drug references.
+1014	1	PG-13 for rude humor, drug references.
+1015	1	R for language and sexuality.
+1016	1	PG for intense action sequences and language.
+1017	1	R for some language and sexual content.
+1018	1	Not Rated
+1019	1	Not Rated
+1020	1	PG-13 for thematic elements and some obsessive behavior.
+1021	1	R for language.
+1022	1	Not Rated
+1023	1	R for strong sexuality, violence, language, drug use.
+1024	1	R for sexual content, language, drug use.
+1025	1	R for drug use, self destructive violence, language and sexuality.
+1026	1	PG for mild language.
+1027	1	PG for some mildly crude humor.
+1028	1	PG-13 for Horror violence/terror, some sexual references, nudity, language and a brief drug reference.
+1029	1	R for strong sexuality, nudity, language and some violence.
+1030	1	Not Rated
+1031	1	PG-13 for brief sexuality.
+1032	1	Not Rated
+1033	1	PG-13 for brief strong language.
+1034	1	Not Rated
+1035	1	R for violence, brief language and nudity.
+1036	1	Not Rated
+1037	1	PG-13 for brief language, drug reference.
+1038	1	PG-13 for for sequences of intense action violence and some language.
+1039	1	R for language, sexuality, brief violence and drug use.
+1040	1	R for sexuality and language.
+1041	1	PG-13 for some thematic elements and language.
+1042	1	R for violence, cruelty, nudity, sexuality.
+1043	1	PG-13 for violence and some language.
+1044	1	Not Rated
+1045	1	PG-13 for language.
+1046	1	G for General Audiences.
+1047	1	Not Rated
+1048	1	R for for strong sexuality/nudity, language and partying.
+1049	1	PG for sequences of stylized sci-fi violence and brief mild language.
+1050	1	R for strong bloody violence/carnage, language, sexuality and drug use.
+1051	1	NC-17 for explicit sexual content.
+1052	1	R
+1053	1	R for strong sexuality, graphic nudity and language.
+1054	1	R for disturbing images and language.
+1055	1	R for violence.
+1056	1	PG-13 for sexual material/humor and language.
+1057	1	Not Rated
+1058	1	R for pervasive sexual content.
+1059	1	PG-13 for some sexual content and brief drug references.
+1060	1	G for General Audiences.
+1061	1	R for pervasive strong crude and sexual humor, language, nudity and drug content.
+1062	1	R for violence.
+1063	1	Not Rated
+1064	1	PG-13 for brief sexuality and nudity.
+1065	1	R for language and a sex scene.
+1066	1	R for sexuality, nudity. language, drug/alcohol content.
+1067	1	R for violence and language.
+1068	1	R for pervasive brutal violence, language and brief nudity.
+1069	1	PG-13 for sexual content and language.
+1070	1	PG-13 for sexual content, some drug references, and language.
+1071	1	PG 13 for some violence and language.
+1072	1	PG-13 for thematic elements, sexual humor and drug references.
+1073	1	Not Rated
+1074	1	Not Rated
+1075	1	PG 13 for violence and intense action, and brief language.
+1076	1	R for language, sexuality, drug use.
+1077	0	<NULL>
+1078	1	R for language, sexual content, drug use.
+1079	1	R for graphic violence and a brief sex scene.
+1080	1	Not Rated
+1081	1	R for aberrant sexual and violent content, and for language.
+1082	1	R for some violence, language and sexuality/nudity.
+1083	1	PG-13 for crude and sexual humor throughout, some comic violence and language.
+1084	1	Not Rated
+1085	1	PG-13 for mature thematic elements.
+1086	1	G
+1087	1	Not Rated
+1088	1	PG for thematic elements and violent content.
+1089	1	NC-17 for explicit sexual content.
+1090	1	PG-13 for intense sequences of action violence, some sexual content and language.
+1091	1	R for language, including violent and sexual dialogue.
+1092	1	PG for some language.
+1093	1	PG-13 for some sexual material.
+1094	1	R for violence.
+1095	1	R for violence and language.
+1096	1	Not Rated
+1097	1	R for language and sexual situations.
+1098	1	R for strong language and some violent images.
+1099	1	G for General Audiences.
+1100	1	PG-13 for adventure action and violence.
+1101	1	R for sexuality/nudity and language.
+1102	1	R for for language.
+1103	1	R for language, nudity, sexuality.
+1104	1	PG-13 for drug references and some language.
+1105	1	Not Rated
+1106	1	PG for thematic elements and brief mild language.
+1107	1	R for violence, language and sexuality.
+1108	1	PG for brief language and suggestive humor.
+1109	1	R for strong language, drug use, sexuality, violence.
+1110	1	PG-13 for sexual content and language.
+1111	1	PG 13 for sex references and language.
+1112	1	R for sexual references.
+1113	1	R for pervasive drug content, sexuality/nudity, language and some violence.
+1114	1	R for strong violence, language, drug content and sexuality.
+1115	1	Not Rated
+1116	1	R for language and drug use.
+1117	1	R for strong violence and epic warfare.
+1118	1	PG-13 for For thematic elements, violent images, language, and some sexual material.
+1119	1	R for sexual content.
+1120	1	Not Rated
+1121	1	R for language, drug use and a scene of sexuality.
+1122	1	R for sexuality, disturbing behavior and language.
+1123	1	R for strong violence, language and sexuality.
+1124	1	PG
+1125	1	Not Rated
+1126	1	R for sexual references, teen drug and alcohol use.
+1127	1	PG-13 for language, sex and drug references, and a graphic medical procedure.
+1128	1	Not Rated
+1129	1	Not Rated
+1130	1	Not Rated
+1131	1	Not Rated
+1132	1	PG-13 for mild violence, sexual situations.
+1133	1	PG for some crash scenes.
+1134	1	Not Rated
+1135	1	PG for language.
+1136	1	PG-13 for violent images, nudity.
+1137	1	PG-13 for sexuality, violence and language.
+1138	1	PG-13 for intense sequences of adventure violence, including frightening images.
+1139	1	G for General Audiences.
+1140	1	PG for mild thematic elements.
+1141	1	PG-13 for sexual and drug references, thematic elements and language.
+1142	1	R for sexual content and language.
+1143	1	R for language, some sexuality/nudity and underage drinking.
+1144	1	R for language, some nudity.
+1145	1	PG-13 for Thematic material involving alcoholism and domestic abuse.
+1146	1	Not Rated
+1147	1	PG-13 for brief strong language.
+1148	1	PG-13 for brief language and a sexual reference.
+1149	1	R for language and some sexuality.
+1150	1	R for strong violence including scenes of torture, sexuality and pervasive language.
+1151	1	R for violence, language, some sexuality and nudity.
+1152	1	PG-13 for mature thematic elements and some sexual references.
+1153	1	PG 13 for thematic issues, sexual content, language, some teen drinking and rough sports action.
+1154	1	PG 13 for for mature thematic material, disturbing images, terror, violence and some sensuality.
+1155	1	PG-13 for mature thematic material, some violence and brief drug content.
+1156	1	Not Rated
+1157	1	Not Rated
+1158	1	Not Rated
+1159	1	PG-13 for sequences of intense violence and action, and some sexual references.
+1160	1	PG 13 for thematic material, language and some sexual content.
+1161	1	R for strong graphic sequences of war violence.
+1162	1	R for sexual content, some language and drug use.
+1163	1	R for language, drug use, sexuality/nudity and some violence.
+1164	1	R for strong language and sexuality.
+1165	1	Not Rated
+1166	1	R for sequences of graphic sexual dialogue, nudity/sexuality and language.
+1167	1	R for thematic material.
+1168	1	PG-13 for some intense battle sequences.
+1169	1	PG-13 for language and some strong sexual references.
+1170	1	PG-13 for mature thematic material, some violence, sexuality and language.
+1171	1	PG for thematic elements and some scary images.
+1172	1	R for violence.
+1173	1	R for sexual content and language.
+1174	1	Not Rated
+1175	1	Not Rated
+1176	1	Not Rated
+1177	1	R for language, sexual content and some drug references.
+1178	1	PG-13 for sexual content.
+1179	1	Not Rated
+1180	1	R for frightening sequences and violence.
+1181	1	PG for mild crude humor and some language.
+1182	1	R for for violence.
+1183	1	PG-13 for violence, sensuality and language including sexual references.
+1184	1	Not Rated
+1185	1	PG-13 for violence, sexual references, drug material and some teen drinking.
+1186	1	R for a scene of strong sexuality, drug use and language.
+1187	1	Not Rated
+1188	1	Not Rated
+1189	1	PG for sensuality, thematic material and some language.
+1190	1	PG for action violence, language and rude humor.
+1191	1	PG for racial issues including violence and epithets, and mild language.
+1192	1	PG-13 for strong language, scenes of wine drinking, brief pinup nudity.
+1193	1	G
+1194	1	R for violence and some language.
+1195	1	R for sexuality, language, and some drug use.
+1196	1	R for language, sexual content, some drug material.
+1197	1	Not Rated
+1198	1	R for language and some sexual content.
+1199	1	R for sexuality, language and some drug use.
+1200	1	R for sex and drug content, pervasive language and some violence.
+1201	1	R for sexual content and language.
+1202	1	R for disturbing sexual content involving children, and language.
+1203	1	R for sexual content and language.
+1204	1	R for some language and sexuality.
+1205	1	R for language, brief sexuality and nudity.
+1206	1	R for strong brutal violence, sexuality, nudity, pervasive language and drug use.
+1207	1	R for sexuality.
+1208	1	PG for some mild thematic elements and scary images.
+1209	1	Not Rated
+1210	1	R for language.
+1211	1	R for some sexuality and language.
+1212	1	Not Rated
+1213	1	Not Rated
+1214	1	PG for some scary images and action, and brief mild language.
+1215	1	PG-13 for disturbing images, violence, some nudity, thematic material, brief drug references and sexual content.
+1216	1	Not Rated
+1217	1	Not Rated
+1218	1	PG-13 for disturbing images/violence, sexual content and language.
+1219	1	R for strong graphic sexuality, pervasive language, some brutal violence and drug content.
+1220	1	Not Rated
+1221	1	PG-13 for thematic elements, drug content, and language including a sexual reference.
+1222	1	Not Rated
+1223	1	R for language.
+1224	1	R for violence, a scene of sexuality, and language.
+1225	1	R for sexual content/nudity and language.
+1226	1	PG-13 for violence, disturbing images, some partial nudity and thematic material.
+1227	1	R for some violence.
+1228	1	R for language including sexual references, nudity and a scene of violence.
+1229	1	R for violent images and brief strong language.
+1230	1	Not Rated
+1231	1	R for violence, language and sexuality/nudity.
+1232	1	R for for language and some sexual images.
+1233	1	R for language.
+1234	1	R for some sexuality.
+1235	1	R for for violence and language.
+1236	1	R for for language, violence and sexuality/nudity.
+1237	1	R for strong violence and some language.
+1238	1	R for language and crude sexual content.
+1239	1	R for strong violence, language, some drug use, sexuality.
+1240	1	R for pervasive strong violence and gore, some sexuality/nudity and language.
+1241	1	PG for scary images and sequences, thematic elements, some crude humor and brief language.
+1242	1	R for strong violence/gore and language.
+1243	1	Not Rated
+1244	1	R for strong violence, disturbing images and some nudity.
+1245	1	PG-13 for intense creature violence.
+1246	1	R for sexual content and language.
+1247	1	R for language.
+1248	1	G
+1249	1	Not Rated
+1250	1	Not Rated
+1251	1	G
+1252	1	R for language and some disturbing sexual situations.
+1253	1	R for some language and drug use.
+1254	1	Not Rated
+1255	1	PG-13 for language, rude dialogue and some violence.
+1256	1	PG for some crude humor, sensuality and brief mild language.
+1257	1	R for language, some sexual content.
+1258	1	Not Rated
+1259	1	PG-13 for some intense sequences of violence, and language.
+1260	1	Not Rated
+1261	1	Not Rated
+1262	1	PG-13 for some language and sexual humor.
+1263	1	PG-13 for intense prolonged sequences of disaster and peril.
+1264	1	Not Rated
+1265	1	PG for some mild language.
+1266	1	PG for mild language and sensuality.
+1267	1	R for for sexual content, nudity, language and drug use.
+1268	1	PG-13 for brief strong language.
+1269	1	PG-13 for language and some sexuality.
+1270	1	PG-13 for sexuality, nudity and violence.
+1271	1	R for sexuality, language, some violence and drug use.
+1272	1	Not Rated
+1273	1	PG-13 for violence, terror, disturbing images, language, sexuality and a brief drug reference.
+1274	1	PG-13 for Crude and Sexual Humor Throughout, Language and Brief Drug References.
+1275	1	PG-13 for thematic material, including intense/frightening sequences and disturbing images.
+1276	1	Not Rated
+1277	1	R for for language, some violent images, and sexual content/nudity.
+1278	1	R for language, violence and sexuality.
+1279	1	Not Rated
+1280	1	R for strong violence, drug use, language, sexuality.
+1281	1	Not Rated
+1282	1	Not Rated
+1283	1	R for violence, language and some nudity.
+1284	1	PG-13 for some sexual content.
+1285	1	PG-13 for language, suggestive references.
+1286	1	Not Rated
+1287	1	R for strong language and elements of sexuality, violence and substance abuse.
+1288	1	PG for some mild peril and rude humor.
+1289	1	Not Rated
+1290	1	PG-13 for sexual content, drug material and language.
+1291	1	R for strong sexuality, nudity, violence, language and some drug content.
+1292	1	R for strong violence/gore and language.
+1293	1	G
+1294	1	Not Rated
+1295	1	R for language and some violent images.
+1296	1	PG-13 for sexual content including some dialogue.
+1297	1	PG-13 for some brief sexual references.
+1298	1	PG-13 for thematic material involving sexuality, and for language.
+1299	1	R for some strong sexual content, nudity, language, some violence and drug use.
+1300	1	R for nudity and brief language.
+1301	1	PG-13 for sexual content and language.
+1302	1	R for language including some sexual references.
+1303	1	PG for some crude humor, suggestive content and swashbuckling action.
+1304	1	R for strong horror violence and gore, and language.
+1305	1	Not Rated
+1306	1	R for pervasive drug use and language, strong violence, sexuality and nudity.
+1307	1	R for strong sexual content, crude humor, language and drinking involving teens.
+1308	1	Not Rated
+1309	1	R
+1310	1	PG for mild bullying and some crude humor.
+1311	1	R for violence.
+1312	1	PG-13 for language.
+1313	1	R for strong horror violence and gore, disturbing images, and some language.
+1314	1	PG-13 for thematic material, language and some violence.
+1315	1	R for strong horror violence/gore, language and some sexual content.
+1316	1	Not Rated
+1317	1	PG-13 for sexual references.
+1318	1	PG for animated action violence, some scary cartoon images and mild language.
+1319	1	PG-13 for sexual content, partial nudity and innuendo.
+1320	1	R for bizarre and disturbing content, including drug use, sexuality, and gruesome situations.
+1321	1	Not Rated
+1322	1	PG for mild sexual content and some language.
+1323	1	Not Rated
+1324	1	R for language, some drug use and sexuality.
+1325	1	PG for mild rude humor and some peril.
+1326	1	G
+1327	1	PG for some language and a disturbing image.
+1328	1	R for language, some sexuality and nudity.
+1329	1	PG-13 for continuous crude and sexual humor, including language.
+1330	1	Not Rated
+1331	1	R for disturbing violent and aberrant sexual content involving a teen, and for language.
+1332	1	Not Rated
+1333	1	R for pervasive sexual and crude content including abberant sexuality, strong language and some drug material.
+1334	1	PG
+1335	1	PG
+1336	1	R for language, violence and a scene of sexuality.
+1337	1	R
+1338	1	R
+1339	1	R for language, some violence and sexuality.
+1340	1	R for sexuality, violence and language.
+1341	1	R for strong violence, sexuality and language.
+1342	1	R
+1343	0	<NULL>
+1344	1	PG for sequences of fantasy action violence.
+1345	1	R for strong graphic violence and sexuality, nudity, language and some drug use.
+1346	1	R for strong brutal violence, pervasive language, some drug content and sexuality/nudity.
+1347	1	Not Rated
+1348	1	PG for some violence.
+1349	1	R for language and some sexuality.
+1350	1	PG-13 for sequences of violent action throughout, partial nudity and language.
+1351	1	R for language and some sexual content.
+1352	1	R for language, violence and brief sexuality.
+1353	1	R
+1354	0	<NULL>
+1355	0	<NULL>
+1356	1	PG-13 for sexual content and language.
+1357	1	Not Rated
+1358	1	Not Rated
+1359	1	Not Rated
+1360	1	R for language and sexual content.
+1361	1	R for language and sexual content.
+1362	1	PG-13 for brief violence and some suggestive material.
+1363	1	R
+1364	1	Not Rated
+1365	1	PG-13 for violence, some disturbing images and language.
+1366	1	R for language.
+1367	1	R for drug content throughout, language and some sexuality.
+1368	1	Not Rated
+1369	1	Not Rated
+1370	1	R for violence, sexuality, nudity and language.
+1371	1	PG-13 for some intense sequences of violence.
+1372	1	PG-13 for brief strong language and some sexual references.
+1373	1	R for some language.
+1374	1	R for some disturbing Holocaust images including nudity, and brief strong language.
+1375	1	R for language and sexual content.
+1376	1	R for language and some strong violent content.
+1377	1	Not Rated
+1378	1	PG-13 for intense terror, violence and some language.
+1379	1	PG
+1380	1	PG-13 for stylized violence and martial arts action, and some sexual content.
+1381	1	R for some sexuality, nudity and language.
+1382	1	PG for some rude humor, mild action and brief lanuage.
+1383	1	PG-13 for sexual content, drug material and language.
+1384	1	PG-13 for some sexual material.
+1385	1	PG-13 for some mature thematic material, sexual content and language.
+1386	1	PG-13 for mature thematic material, disturbing violence and terror.
+1387	1	Not Rated
+1388	1	PG-13 for risque humor.
+1389	1	R for horror violence and images.
+1390	1	R for aberrant behavior involving nudity, violence, sexuality, and disturbing images.
+1391	1	PG-13 for drug content, language, sexual material and some violence.
+1392	1	R for language and some sexual content.
+1393	1	PG for sports and some mild language.
+1394	1	R for language.
+1395	1	R for violence, disturbing images, some sexual content and nudity.
+1396	1	R for strong brutal violence throughout.
+1397	1	PG-13 for some mature thematic elements and strong language.
+1398	1	PG-13 for some sensuality.
+1399	1	R for strong violence and pervasive language.
+1400	1	R for language, violence, sexual material and some drug use.
+1401	1	PG-13 for some drug content, nudity, sexuality, violence and language.
+1402	1	PG-13 for thematic material involving torture and abuse, violence and brief language.
+1403	1	PG for some off-color elements.
+1404	1	PG for sequences of action peril, some mild crude humor and language.
+1405	1	R for strong sexual content, language, some violence and drug use.
+1406	1	R for language.
+1407	1	R for brief sexuality.
+1408	1	R for strong sexual content, pervasive language and drug use, and some violence.
+1409	1	PG-13 for language, some sexuality and drug content.
+1410	1	Not Rated
+1411	1	R for strong grisly violence, and for language.
+1412	1	Not Rated
+1413	1	PG 13 for sexual references and brief language.
+1414	1	R for language, violence and some sexual content.
+1415	1	PG for thematic elements and some disturbing images.
+1416	1	Not Rated
+1417	1	PG-13 for violence and martial arts action throughout.
+1418	1	R for violence, sexual content, language and drug use.
+1419	1	PG for mild action, language and brief rude humor.
+1420	1	R for extremely crude and dangerous stunts throughout, sexual content, nudity and language.
+1421	1	PG-13 for language, sex and drug references.
+1422	1	PG for emotional thematic material, a crash scene, and mild language.
+1423	1	R for language and some sexual content/nudity.
+1424	0	<NULL>
+1425	1	R for some intense sequences of terror and violence.
+1426	1	PG-13 for sexual content and some strong language.
+1427	1	PG-13 for sensuality, sex references and accident scenes.
+1428	1	R
+1429	1	Not Rated
+1430	1	Not Rated
+1431	1	Not Rated
+1432	1	PG-13 for thematic elements, brief violence and innuendo.
+1433	1	Not Rated
+1434	1	PG-13 for a scene of violence, some sexual material and language.
+1435	1	R for strong violence, some drug content and language.
+1436	1	PG for thematic elements and mild peril.
+1437	1	Not Rated
+1438	0	<NULL>
+1439	1	R for sexual content, nudity, some disturbing violent images and language.
+1440	1	PG-13 for language.
+1441	1	PG-13 for brief sexuality and language.
+1442	1	R for violence, disturbing images, sexuality and language.
+1443	1	R for strong bloody violence, pervasive language, some nudity and drug use.
+1444	0	<NULL>
+1445	1	R
+1446	1	Not Rated
+1447	0	<NULL>
+1448	0	<NULL>
+1449	0	<NULL>
+1450	0	<NULL>
+1451	0	<NULL>
+1452	0	<NULL>
+1453	0	<NULL>
+1454	0	<NULL>
+1455	1	R
+1456	1	R for sexual content and language.
+1457	0	<NULL>
+1458	1	PG for fantasy action and brief suggestive material.
+1459	1	PG-13 for violence, criminality, sensuality and language - all involving teens.
+1460	0	<NULL>
+1461	1	R for strong violence, torture, pervasive terror, grizzly images, language and some sexual material.
+1462	1	PG-13 for some sequences of intense war violence and torture.
+1463	1	R
+1464	1	R for disturbing sexual material involving minors, violence including a rape, language and some drug content.
+1465	1	PG-13 for some violent content, disturbing images, thematic material and brief language.
+1466	1	R for drug use, pervasive language and some sexuality.
+1467	0	<NULL>
+1468	1	R for strong violence, disturbing images and language.
+1469	1	R for graphic violence and some language.
+1470	1	R for violence.
+1471	1	Not Rated
+1472	1	R for pervasive language, sexual content/nudity and drug content.
+1473	1	PG-13 for sexual content, language and thematic elements.
+1474	1	Not Rated
+1475	1	R for non-stop language, drug use, crude and sexual humor.
+1476	1	R for disturbing images, strong sexuality, language and drug content.
+1477	1	PG-13 for brief graphic nudity.
+1478	1	PG-13 for some nudity and brief strong language.
+1479	1	R for some sexual content and language.
+1480	1	R for some violence and disturbing images.
+1481	1	PG-13 for sexual content and language.
+1482	1	R for sexual content and language.
+1483	1	PG-13 for crude & sexual humor, some nudity, and language.
+1484	1	R for strong pervasive sexual content, nudity and language - all involving teens.
+1485	1	R for strong graphic violence, brutality, terror and language.
+1486	1	PG for some scary images and mild innuendo.
+1487	0	<NULL>
+1488	1	R for sexual content, nudity and language.
+1489	1	R for pervasive strong crude and sexual content including graphic nudity, and language.
+1490	1	R for some sexuality.
+1491	1	PG-13 for language, sexual content and brief drug use.
+1492	1	PG-13 for thematic material, brief strong language and teen smoking.
+1493	1	Not Rated
+1494	1	R for war violence and brief language.
+1495	1	R for horror violence, language, some sexual content and brief drug use.
+1496	1	G
+1497	1	R for non-stop violence, language and some nudity.
+1498	1	PG-13 for mature thematic material including violent images, sexual references, language and brief drug content.
+1499	1	Not Rated
+1500	1	PG-13 for thematic elements and some sexual content.
+1501	1	PG for some mild thematic elements and language.
+1502	1	R for violence, drug content and pervasive language.
+1503	1	G
+1504	1	R for sexual content, drug use and language.
+1505	1	PG for some violent content.
+1506	1	R for strong sexual content and language.
+1507	1	PG-13 for violence and scary images.
+1508	1	R for strong bloody violence, language, drug content and some sexuality/nudity.
+1509	1	R for language, drug content and brief nudity.
+1510	1	PG-13 for thematic material, drug and sexual content, some violence and language.
+1511	1	PG for some mild action and rude humor.
+1512	1	PG for intense adventure action and some scary moments.
+1513	1	PG-13
+1514	1	PG-13 for some suggestive references.
+1515	1	R for disturbing war images, language and some sexuality.
+1516	1	PG-13 for language including sexual references, and some drug use.
+1517	1	R for some sexual references.
+1518	1	R for language including sexual references.
+1519	1	R for a scene of violence, brief sexual content and language.
+1520	1	PG-13 for sexual content, thematic material and brief strong language.
+1521	1	PG-13 for some violence and brief language.
+1522	1	PG-13 for some thematic elements and a scene of sexuality.
+1523	1	R for strong bloody violence and language throughout.
+1524	1	R for language including sexual references, and some drug use.
+1525	1	PG for some language including suggestive remarks, and a drug reference.
+1526	1	R for strong violence and some sexual content.
+1527	0	<NULL>
+1528	1	Not Rated
+1529	1	None
+1530	0	<NULL>
+1531	1	PG for some mild language.
+1532	1	R for language, sexual content, some drug material and violence.
+1533	1	PG-13 for violence, disturbing images and terror.
+1534	1	Not Rated
+1535	1	R for strong sexual content, nudity and language.
+1536	1	R for strong violence/gore, terror and language.
+1537	1	PG-13 for some thematic elements, sexual material, a brief accident scene and language.
+1538	1	PG for some mild thematic elements.
+1539	1	R for violence, gore and language.
+1540	1	PG-13 for sexual content.
+1541	1	Not Rated
+1542	1	PG-13 for sexual content, including some frank dialogue, language and smoking.
+1543	1	PG-13 for brief strong language.
+1544	1	Not Rated
+1545	1	NC-17 for some explicit sexuality.
+1546	1	G
+1547	1	R
+1548	1	R for language and a scene of violence.
+1549	1	PG-13 for some rude and sexual behavior, nudity, language and smoking.
+1550	1	R for language, including some sexual references.
+1551	1	PG for scary images, some violence, language and mild sensuality.
+1552	1	PG-13 for some sexual content and brief strong language.
+1553	1	PG-13 for mature thematic material, sexual content, brief strong language and some drug use.
+1554	1	R for strong violence, disturbing content, sexuality, nudity, language and drug use.
+1555	1	R for disturbing images and descriptions of wartime atrocities, including rape.
+1556	1	PG for some mild action and peril.
+1557	1	R for sequences of strong languages.
+1558	1	R for strong sexual content including graphic dialogue, pervasive language, drug content and brief nudity.
+1559	1	PG-13 for brief strong language.
+1560	1	PG-13 for some language, sexual humor and partying.
+1561	1	R for language.
+1562	1	R for strong language.
+1563	1	PG for thematic elements, some violence and language.
+1564	1	PG-13 for thematic elements including some scary images, and sensuality.
+1565	0	<NULL>
+1566	1	PG-13 for crude and sexual content.
+1567	1	PG-13 for some sexual content, a scene of violence, and brief strong language.
+1568	1	Not Rated
+1569	1	R for strong sexual content, nudity and language.
+1570	1	PG-13 for some strong language.
+1571	1	PG-13 for crude and sexual content, some drug material, and language.
+1572	1	None
+1573	1	R for sexual content, graphic nudity, drug use and language.
+1574	1	R for some violence, including torture and language.
+1575	1	R for strong bloody violence, language and some sexual content/nudity.
+1576	1	R for language and some violence.
+1577	1	G for .
+1578	1	R for disturbing images, and content involving torture and graphic nudity.
+1579	1	PG for thematic material involving crimes against humanity.
+1580	1	PG for some mild thematic material.
+1581	1	R for strong bloody violence, language, and some sexuality/nudity.
+1582	1	R for strong violence, rape, drug content throughout, graphic sexuality, nudity and pervasive language.
+1583	1	PG-13 for thematic elements, drug and alcohol content, sexual material and language.
+1584	1	PG-13 for mature thematic material, sexual references and language.
+1585	1	R for sexual content, nudity and some language.
+1586	1	PG for sequences of sci-fi action violence and some thematic elements.
+1587	1	PG for some mild rude humor.
+1588	1	R for strong violence, language, some drug use and brief nudity.
+1589	1	R
+1590	1	PG-13 for brief strong language.
+1591	1	R for strong disturbing violent content including a rape, pervasive language and some sexual references/images.
+1592	1	R for sequences of grisly bloody violence and torture throughout, and for language.
+1593	1	R for brief disturbing content.
+1594	1	R for sexual content, language and some graphic nudity.
+1595	1	R for violence, sexual content, language and some drug material.
+1596	1	Not Rated
+1597	1	R for strong bloody violence, pervasive language, some drug use and a scene of aberrant sexuality.
+1598	1	R for sexuality, nudity and language.
+1599	1	R for sadistic violence and torture, including terror and graphic descriptions.
+1600	1	Not Rated
+1601	1	Not Rated
+1602	1	Not Rated
+1603	1	Not Rated
+1604	1	Not Rated
+1605	0	<NULL>
+1606	1	PG-13 for language, some innuendo and sexuality.
+1607	1	R for sequences of violence.
+1608	1	PG-13 for some sensuality.
+1609	1	Not Rated
+1610	1	R for brief language and sexual references.
+1611	1	PG-13 for crude and sex-related humor.
+1612	1	PG for thematic elements.
+1613	1	R for sequences of strong bloody gruesome violence, grisly images involving nudity, sexual content and language.
+1614	1	PG-13 for some partial nudity and innuendo.
+1615	1	R for strong violence, disturbing images, language and brief nudity.
+1616	1	Not Rated
+1617	1	PG-13 for sexual content and language.
+1618	1	R for strong sexual content, nudity, language and some drug use.
+1619	1	Not Rated
+1620	1	R for language and some sexual content/nudity.
+1621	1	PG-13 for some sexual content.
+1622	1	PG-13 for mature material and sensuality.
+1623	1	Not Rated
+1624	1	PG-13 for some strong language and teen smoking.
+1625	1	PG-13 for mature sexual content, language and thematic material.
+1626	1	R for bloody brutal violence, a scene of sexuality, nudity and pervasive language.
+1627	1	PG for thematic elements, mild peril and language.
+1628	0	<NULL>
+1629	1	R for language including sexual references.
+1630	1	PG-13 for thematic material and brief strong language.
+1631	1	PG-13 for some sexual references.
+1632	1	PG for Thematic material, scary images, action and brief smoking.
+1633	1	PG-13 for drug content, language including sexual references, thematic elements and brief violence.
+1634	1	Not Rated
+1635	1	R for substance abuse, language and some sexual material.
+1636	1	R for war violence and language.
+1637	1	PG-13 for language.
+1638	0	<NULL>
+1639	1	PG-13 for sexual content including innuendos.
+1640	1	PG-13 for brief strong language, some sexual content and a scene of drug use.
+1641	1	PG-13 for violent and disturbing images, thematic material, sexual content, language and teen drinking.
+1642	1	R for pervasive strong and crude sexual content, graphic nudity and language.
+1643	1	R for pervasive language, sexual content and brief drug use.
+1644	1	R for strong language and sexual content throughout, including graphic dialogue and some nudity.
+1645	1	PG for thematic elements and some language.
+1646	1	PG-13 for some sexual and crude content, and language, including a drug reference.
+1647	1	PG for mature thematic material involving sexuality, and violence.
+1648	1	R for crude and sexual content, and pervasive language.
+1649	1	PG-13 for some intense sequences of terror and disturbing images.
+1650	1	R for disturbing violent and graphic sexual content, nudity and language.
+1651	1	Not Rated
+1652	1	R for strong violence and language.
+1653	1	PG for some mild action and rude humor.
+1654	1	R for graphic nudity, sexuality, violence and gore, some language and drug use.
+1655	1	PG-13
+1656	1	PG-13 for mature thematic elements.
+1657	1	PG for some mild peril.
+1658	1	R for language.
+1659	1	PG for sci-fi action and brief historical smoking.
+1660	1	Not Rated
+1661	1	G
+1662	0	<NULL>
+1663	1	Not Rated
+1664	1	PG-13 for crude sexual humor, language and brief nudity.
+1665	1	PG for brief mild thematic elements, language and some crude humor.
+1666	1	PG-13 for some language.
+1667	1	R for child abuse including sexual assault, and pervasive language.
+1668	1	R for strong crude sexual content including dialogue, graphic nudity and pervasive language.
+1669	1	PG-13 for some violence and sexuality.
+1670	1	R for language and a scene of sexuality.
+1671	1	PG-13 for violent content/images.
+1672	1	R for language and nude images.
+1673	1	Not Rated
+1674	1	R for drug and sexual content, language and some nudity.
+1675	1	Not Rated
+1676	1	R for language, some sexuality and brief drug use.
+1677	1	R for some language and brief war images.
+1678	1	PG-13 for some sexuality and nudity, and drug references.
+1679	1	R for sexuality, bloody violence, language and brief drug use.
+1680	1	PG-13 for some language including sexual references.
+1681	0	<NULL>
+1682	1	PG for some mild language and thematic elements.
+1683	1	R
+1684	1	Not Rated
+1685	1	PG for language and some suggestive material.
+1686	1	R for violence and language.
+1687	1	R for language and some threatening behavior.
+1688	1	PG-13 for language including sexual references, and some disturbing images.
+1689	1	R for violent and disturbing content, language and brief drug use.
+1690	1	PG-13 for sexual content and language.
+1691	1	PG-13 for thematic elements, some drug use and language.
+1692	1	Not Rated
+1693	1	Not Rated
+1694	1	Not Rated
+1695	1	Not Rated
+1696	1	Not rated.
+1697	1	R for some disturbing images of atrocities, strong violence, brief nudity and a scene of graphic sexual content.
+1698	1	PG for sci-fi action violence throughout, brief language and momentary smoking.
+1699	1	R for language and some drug use.
+1700	1	PG for action violence, some suggestive humor and language.
+1701	1	Not Rated
+1702	1	PG-13 for some violence, sexual humor and dialogue, language, drug content and brief nudity.
+1703	1	PG-13 for elements of violence, sexuality/nudity, drugs, and brief strong language.
+1704	0	<NULL>
+1705	1	Not Rated
+1706	1	R for language, and some sexual content including brief nudity.
+1707	1	Not Rated
+1708	1	Not Rated
+1709	1	Not Rated
+1710	1	R for violence and pervasive language.
+1711	1	Not Rated
+1712	1	Not Rated
+1713	0	<NULL>
+1714	1	PG for mild action, some rude humor and brief language.
+1715	1	R for language, some violence and sexual content.
+1716	1	PG 13 for mature thematic material involving sexual content, and for smoking.
+1717	1	Not Rated
+1718	1	None
+1719	1	PG-13 for sequences of intense action and violence, some sexual content and drug material.
+1720	1	R for pervasive language, some strong sexuality including dialogue, nudity, and for drug content.
+1721	1	R for brutal bloody violence and brief sexuality.
+1722	1	Not Rated
+1723	1	R for language and sexual content.
+1724	1	None
+1725	0	<NULL>
+1726	1	PG for rude humor and some mild action.
+1727	1	R for language.
+1728	0	<NULL>
+1729	0	<NULL>
+1730	1	R for strong bloody violence, some graphic sexual content, language and drug material.
+1731	1	R for strong bloody violence and pervasive language and including sexual references.
+1732	1	R for scene of sexuality/nudity.
+1733	1	R for sexual content including strong dialogue, and language.
+1734	1	R for drug use, violence, language and some sexuality.
+1735	1	R for language and some sexual content.
+1736	1	R for drug content and language throughout.
+1737	1	Not Rated
+1738	1	PG-13 for intense sequences of violence, disturbing images, language, sexuality and a drug-related scene.
+1739	1	R for language, some sexual content and violence.
+1740	1	PG-13 for thematic elements and brief strong language.
+1741	1	Not Rated
+1742	1	R
+1743	1	R for strong violence, some drug use and brief language.
+1744	0	<NULL>
+1745	1	G
+1746	1	PG-13 for for sequences of intense sci-fi action and violence, and some language.
+1747	0	<NULL>
+1748	1	Not Rated
+1749	1	PG for thematic elements and smoking.
+1750	1	PG for action, smoking and slang humor.
+1751	1	R for language, some sexual content and nudity.
+1752	1	R for some violence.
+1753	0	<NULL>
+1754	1	Not Rated
+1755	1	PG-13 for disaster sequences, disturbing images and brief strong language.
+1756	1	PG-13 for intense sequences of violence and terror, disturbing images, thematic material and language including some sexual refernces.
+1757	1	R for language.
+1758	1	Not Rated
+1759	1	PG-13 for disturbing thematic material and a scene of violence.
+1760	1	PG-13 for sexual content including crude dialogue, language and drug material.
+1761	1	R for some violence, disturbing images and language.
+1762	1	PG-13 for brief strong language.
+1763	1	R for language and some violence.
+1764	1	PG for some sensuality, language, thematic elements and smoking.
+1765	1	R for strong brutal violence and torture, language and some sexuality.
+1766	1	R for graphic nudity, some sexual content, drug use and language.
+1767	1	R for drug use and language throughout, some violence and sexuality.
+1768	1	PG for thematic elements and brief smoking.
+1769	1	PG
+1770	1	Not rated.
+1771	1	PG for thematic material, mild language and brief smoking.
+1772	1	R for strong bloody violence and language.
+1773	1	G for .
+1774	1	R for language and crude sexual humor throughout, and some sexuality.
+1775	0	<NULL>
+1776	1	R for language, some sexual content and brief violence.
+1777	1	Not Rated
+1778	1	R for some sequences of violence and language.
+1779	0	<NULL>
+1780	1	PG for some thematic material and disturbing images.
+1781	1	PG for some disturbing images and brief language. .
+1782	1	PG for brief mild language and incidental smoking.
+1783	1	G
+1784	1	PG-13 for brief strong language.
+1785	1	PG 13 for violence, some sexual content and brief strong language.
+1786	0	<NULL>
+1787	1	Not Rated
+1788	1	R for pervasive language, sexual content including nudity, and some drug material.
+1789	1	PG-13 for some violence, sensuality and brief strong language.
+1790	1	Not Rated
+1791	1	R for strong zombie violence/gore, language and brief sexuality.
+1792	1	Not Rated
+1793	1	R for sexuality and brief violence.
+1794	1	R for language including sexual references.
+1795	0	<NULL>
+1796	1	Not Rated
+1797	1	R for strong bloody violence, language, some sexuality/nudity and partying.
+1798	0	<NULL>
+1799	1	Not Rated
+1800	1	Not Rated
+1801	1	Not Rated
+1802	1	Not Rated
+1803	1	PG-13 for intense fight sequences, some sexuality and brief strong language.
+1804	1	PG-13 for language and some sexual content.
+1805	1	Not Rated
+1806	1	R for violence throughout, and brief sexuality/nudity.
+1807	1	PG-13 for violence and disturbing images, thematic material and some language including sexual references.
+1808	1	PG-13 for thematic elements, violence and disturbing content.
+1809	1	PG for sensuality and language.
+1810	1	R for some disturbing images and nudity/sexual content.
+1811	1	PG 13 for some language including sex and drug references, and brief partial nudity.
+1812	1	PG-13 for brief strong language.
+1813	1	R for some sexual content including references, nudity, drug material and language.
+1814	1	Not Rated
+1815	1	None
+1816	1	Not Rated
+1817	1	None
+1818	1	PG-13 for sequences of intense violence and action, some sexuality and brief language.
+1819	1	PG-13 for thematic material, sexual content and language.
+1820	1	PG-13 for some sexual language and thematic elements.
+1821	1	None
+1822	1	R for strong crude and sexual content, nudity, pervasive language and some drug use.
+1823	0	<NULL>
+1824	1	R for pervasive crude and sexual content, language and drug use.
+1825	1	Not Rated
+1826	1	R for language and some sexual material.
+1827	1	Not Rated
+1828	1	None
+1829	1	Not Rated
+1830	1	PG-13 for some thematic material and brief violent content.
+1831	1	Not Rated
+1832	1	NONE
+1833	1	Not Rated
+1834	1	Not Rated
+1835	1	Not Rated
+1836	1	R for language.
+1837	1	Not Rated
+1838	1	PG-13 for stylized violence, sexual content, language and drug references.
+1839	1	R for some disturbing violent images and brief strong language.
+1840	1	R for language and some violent images.
+1841	1	Not Rated
+1842	1	None
+1843	1	R for sexual content including strong dialogue, and for language.
+1844	1	Not Rated
+1845	1	R for disturbing violent content including rape, grisly images, sexual material, nudity and language.
+1846	1	PG-13 for mature thematic material involving a sexual assault on a minor, violence, drug references and smoking.
+1847	1	R for some language.
+1848	0	<NULL>
+1849	1	PG for fantasy action violence, some mild rude humor and brief language.
+1850	1	Not Rated
+1851	0	<NULL>
+1852	1	R for language and a scene of sexuality.
+1853	1	R for strong violence and language throughout, druguse and sexual content.
+1854	1	NONE.
+1855	1	Not Rated
+1856	1	NONE.
+1857	1	Not Rated
+1858	1	R for some strong sexuality, drug use and language.
+1859	1	R for some disturbing violence including a rape, sexual content and language.
+1860	1	NONE.
+1861	1	R for strong sexual content, nudity and language.
+1862	1	R for sexuality, language and some drug use, all involving teens.
+1863	0	<NULL>
+1864	1	PG-13 for some sexual references and momentary violence.
+1865	1	R for language and some disturbing images.
+1866	1	R for pervasive strong sexual content, nudity and language.
+1867	1	Not Rated
+1868	0	<NULL>
+1869	1	Not Rated
+1870	1	PG for some rude humor, mild language and brief smoking.
+1871	1	R for strong sexuality and violence, and pervasive language.
+1872	1	PG for mild suggestive material, some thematic elements and brief language. .
+1873	1	Not Rated
+1874	1	Not Rated
+1875	1	PG 13 for sexual content including dialogue, language and brief drug references.
+1876	1	R for pervasive sadistic bloody violence, language and some sexuality/nudity.
+1877	1	R for pervasive crude and sexual content, nudity, language and drug use.
+1878	0	<NULL>
+1879	1	PG-13 for language including some crude comments, drug references and brief violence.
+1880	1	Not Rated
+1881	1	PG-13 for some sexual content and brief strong language.
+1882	1	None
+1883	1	R for language and some sexual content.
+1884	1	R for some language.
+1885	1	PG-13 for sequences of intense action and violence, a scene of sensuality and language.
+1886	1	NONE.
+1887	1	Not Rated
+1888	0	<NULL>
+1889	1	Not Rated
+1890	1	Not Rated
+1891	0	<NULL>
+1892	1	None
+1893	1	PG for thematic material, some violence, sensuality and mild language.
+1894	1	Not Rated
+1895	0	<NULL>
+1896	1	R for strong crude and sexual content, violence, language and some nudity.
+1897	1	PG for language and some thematic material.
+1898	1	R for Language and some sexual content.
+1899	0	<NULL>
+1900	1	R for crude and sexual content, nudity, drug use, language and some violence.
+1901	0	<NULL>
+1902	1	PG for brief mild language and rude behavior.
+1903	1	R for language and brief sexuality.
+1904	1	PG for thematic elements involving hardships of climbing, and some historical smoking images.
+1905	1	PG for some thematic elements and brief mild language.
+1906	1	NONE.
+1907	1	PG-13 for sequences of action violence throughout, and brief strong language.
+1908	1	Not Rated
+1909	1	R for strong sexual content, nudity, pervasive language, and some drug material.
+1910	1	R for language, drug use and sexual content.
+1911	1	Not Rated
+1912	1	R for nudity, disturbing images, language and brief sexuality.
+1913	1	R for strong sexual content including graphic dialogue, nudity and language.
+1914	1	R for language.
+1915	0	<NULL>
+1916	1	R for language and some disturbing violent content/bloody images.
+1917	1	PG 13 for sexual material, language and some drug content.
+1918	1	PG for cultural and maternal nudity throughout.
+1919	1	R for language, some drug use and sexual content.
+1920	1	PG 13 for sexual content, drug and alcohol use and language.
+1921	0	<NULL>
+1922	1	R for male nudity, extremely crude and dangerous stunts throughout and for language.
+1923	1	PG
+1924	1	Not Rated
+1925	0	<NULL>
+1926	1	Not Rated
+1927	1	NONE.
+1928	1	PG-13
+1929	1	R for language and sexual humor.
+1930	1	PG for some thematic material, mild language and incidental smoking.
+1931	0	<NULL>
+1932	1	Not Rated
+1933	1	PG-13 for some sexual references.
+1934	1	Not Rated
+1935	1	R for language and sexual content.
+1936	1	Not Rated
+1937	1	Not Rated
+1938	1	None
+1939	0	<NULL>
+1940	0	<NULL>
+1941	1	PG-13 for sequences of crude and sexual content, some partial nudity and language.
+1942	1	Not Rated
+1943	0	<NULL>
+1944	1	R for violence and language.
+1945	0	<NULL>
+1946	1	R for some language.
+1947	1	Not Rated
+1948	1	Not Rated
+1949	0	<NULL>
+1950	0	<NULL>
+1951	0	<NULL>
+1952	1	Not Rated
+1953	1	R for bloody horror violence and gore, language, drug use and some sexuality/nudity.
+1954	1	R for some sexual material, nudity and language.
+1955	1	None
+1956	1	PG-13 for some intense sequences of western violence including disturbing images.
+1957	1	None
+1958	1	R for violence, sexual content and nudity.
+1959	1	R for strong violence and pervasive language including sexual references.
+1960	1	PG-13 for some thematic elements including a nude image and brief violent content.
+1961	0	<NULL>
+1962	1	Not Rated
+1963	1	PG-13 for sexual content, partial nudity, language and some drug material.
+1964	1	PG-13 for brief strong language and some sexual content.
+1965	0	<NULL>
+1966	0	<NULL>
+1967	1	R for strong violence, some sexual material, and brief language.
+1968	0	<NULL>
+1969	1	Not Rated
+1970	0	<NULL>
+1971	1	R for language, some sexual content and brief violence.
+1972	1	None
+1973	0	<NULL>
+1974	1	PG-13 for mature thematic material, some disturbing content, sexuality and language including a drug reference.
+1975	1	R for some violence.
+1976	1	R for language including sexual references, and some drug content.
+1977	1	R for strong language and some sexual content.
+1978	1	Not Rated
+1979	1	R for language and some sexual content.
+1980	1	R for disturbing grisly images, some violence and language.
+1981	1	PG-13 for some strong language.
+1982	1	Not Rated
+1983	1	PG
+1984	1	Not Rated
+1985	1	R for sexual content and nudity.
+1986	1	PG-13 for some strong language and brief sexuality.
+1987	1	R for drug content, language including sexual references, and some violence.
+1988	1	R for strong sexual content, pervasive language, some violence and brief drug use.
+1989	1	PG-13 for some violent and sexual content and teen drinking.
+1990	1	R for some strong disturbing violence and pervasive language.
+1991	1	PG 13 for language including some crude sexual references, drug related material, and brief violence.
+1992	1	PG-13 for some violence, sexual content, language and thematic issues.
+1993	1	R for language and some sexual content.
+1994	1	R for sequences of strong bloody violence, sexuality/nudity and language.
+1995	1	G
+1996	1	R for language, some sexual content and brief nudity.
+1997	1	Not Rated
+1998	1	PG for some mild disturbing images and thematic elements.
+1999	1	R for language, some sexual content and drug use.

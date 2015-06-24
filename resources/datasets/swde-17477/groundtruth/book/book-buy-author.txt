@@ -1,0 +1,2002 @@
+﻿book	buy	author
+2000	1938	2024	1906
+0000	1	Charlaine Harris
+0001	1	Stephenie Meyer
+0002	1	Jonathan Orsay
+0003	1	Wendell Odom
+0004	1	William R./ Gingrich Forstchen
+0005	1	Steven D./ Dubner Levitt
+0006	1	David M. Killoran
+0007	1	Emmett/ Stewart Dulaney
+0008	1	Project Management Institute (COR)
+0009	1	Diana/ Shadrack Grenfell
+0010	1	Kathleen Deska Pagana
+0011	1	Michael R. Lindeburg
+0012	1	Adobe Systems (COR)
+0013	1	Steven (EDT) Ashe
+0014	1	Lee Strobel
+0015	1	Elizabeth/ Tyagi Warren
+0016	1	Andreas Carl
+0017	1	Sam Kean
+0018	1	Jean Andrews
+0019	1	Julia C. Carroll
+0020	1	Joss/ Cassaday Whedon
+0021	1	Jerry/ Krahulik Holkins
+0022	1	Gabor Mate
+0023	1	John Austin
+0024	1	Mathew Patterson
+0025	1	Frank Ching
+0026	1	Jeffrey Zaslow
+0027	1	Geoff/ Reis Johns
+0028	1	Mike/ Mongeon De LA Flor
+0029	1	Josh/ Keown Hamilton
+0030	1	Learning Express (COR)
+0031	1	Shawna (EDT) Gore
+0032	1	Karen C. (EDT) Comerford
+0033	1	Conrad Adobe Systems (COR)/ Chavez
+0034	1	George M. Taber
+0035	1	Vicki Iovine
+0036	1	Janis A. Spring
+0037	1	Sam/ Burchers Burchers
+0038	1	Dan/ Rubenstein O'Hair
+0039	1	Peter H./ Donovan Gott
+0040	1	Robert B. Parker
+0041	1	Ann Prevention Magazine Health Books (EDT)/ Fittante
+0042	1	Khaled Hosseini
+0043	1	Emerson Eggerichs
+0044	0	<NULL>
+0045	1	Christopher Isherwood
+0046	1	Robert T./ Lechter Kiyosaki
+0047	1	J. R. R. Tolkien
+0048	1	Ray Raphael
+0049	1	Erich Maria Remarque
+0050	1	Joseph/ Newman Bak
+0051	1	Ming/ Golden Chew
+0052	1	Kenneth L./ Lampignano Bontrager
+0053	1	Brian/ Sullivan Shields
+0054	1	Debbie Diller
+0055	1	Mari Okazaki
+0056	1	Tim/ Timmis Chester
+0057	1	Charles F. Stanley
+0058	1	Erik/ Jones Oberg
+0059	1	John L./ Conrad Viescas
+0060	2	Zondervan Publishing	W. Phillip Keller
+0061	1	Julie K./ Berg Briggs
+0062	1	Sylvia/ Tunick Bursztyn
+0063	1	Steven D./ Dubner Levitt
+0064	1	Not Available (NA)
+0065	1	Robin Robertson
+0066	1	Aaron (COM) Peckham
+0067	1	Bryan Lee O'Malley
+0068	1	Hamilton B.
+0069	1	Joyce McDonald
+0070	1	Donald K. McKim
+0071	1	Joseph C. Lisiewski
+0072	1	Anna M. Curren
+0073	1	M. Shaun Holt
+0074	1	Anne Bogardus
+0075	1	Jan Axelson
+0076	1	John Bevere
+0077	1	Barbara/ Stone London
+0078	1	Josh/ Keown Hamilton
+0079	1	Sharon Weiner/ Wolf Green
+0080	1	Casey O'Brien/ Amagat Blondes
+0081	1	Sacha Eminem/ Jenkins
+0082	1	Maxine/ Pelzmann Rosenthal
+0083	1	Patricia Ann/ Perry Potter
+0084	1	Joe (ILT) Kubert
+0085	1	Wadsworth (COR)
+0086	1	Craig (EDT) Glenday
+0087	1	Karen/ Pecsenye Lurie
+0088	1	Selena (EDT)/ Leduc Princeton Review (COR)/ Coppock
+0089	1	Princeton Review (COR)
+0090	1	Kaplan Publishing (COR)
+0091	1	David A. Ziser
+0092	1	Reto Meier
+0093	1	Ian/ Thomas McLean
+0094	1	Linda Skidmore-Roth
+0095	1	Mark/ Burton Salisbury
+0096	1	Angela Elwell Hunt
+0097	1	Cadillac Man
+0098	1	Brendan Emmett Quigley
+0099	1	Mike/ Cordell Mearls
+0100	1	Jan/ Walker Beccaloni
+0101	1	Iris Johansen
+0102	1	Susan M. Ford
+0103	1	Rand H./ Noel Morimoto
+0104	1	Hazrat Inayat Khan
+0105	1	Jennifer Weiner
+0106	1	Dirty/ Chou Sanchez
+0107	1	Tom Venuto
+0108	1	Scott Lowe
+0109	1	William/ Killiany Leisner
+0110	1	A. Frederick Collins
+0111	1	Kadri Malk
+0112	1	Chester/ Collins Gould
+0113	1	Harry Lorayne
+0114	1	Lauren/ Cox Cox
+0115	1	Michael Aziz
+0116	1	Vicki Robin
+0117	1	Duane/ Lacombe Swierczynski
+0118	1	Hilary Mantel
+0119	1	Mike/ Gross Carey
+0120	1	Alex Bellos
+0121	1	George A. Bonanno
+0122	1	Sarina/ Brown Singh
+0123	2	Emily/ Chochinov Pilloton	Emily Pilloton
+0124	1	Robert Schmidt
+0125	1	Sue Grafton
+0126	1	Baker Publishing Group (COR)
+0127	1	Jayne Anne Phillips
+0128	1	Bram Stoker
+0129	1	Jonathan/ Rubinstein Kellerman
+0130	1	Joe (EDT) Healy
+0131	1	Kathi Kellenberger
+0132	1	William/ Mealer Kamkwamba
+0133	1	Sophie Kinsella
+0134	1	Brian/ Elliot Jacques
+0135	1	J. D./ Nakata Lester
+0136	1	Moyer V. Hubbard
+0137	1	Murtagh McDermot
+0138	1	Persida/ Himmele Himmele
+0139	1	William R. Steele
+0140	1	Eric Van Van Der Hope
+0141	1	Michael Pollan
+0142	1	Lynne Ewing
+0143	1	Ben Patrick Johnson
+0144	1	Helen Benedict
+0145	1	Not Available (NA)
+0146	1	John Harris/ Singh Dunning
+0147	1	Richard Mckinley
+0148	1	Manish Mehta
+0149	1	Barbara Robinson
+0150	1	Dean Graziosi
+0151	1	James Duke
+0152	1	Jennifer S. Wooddell
+0153	1	Stephanie Manley
+0154	1	Geronimo Stilton
+0155	1	Lydia Brownback
+0156	1	Walter/ Gotz Erhardt
+0157	1	Peter/ Cartier-Bresson Galassi
+0158	1	Black Belt Magazine (EDT)
+0159	1	Timothy/ Porter Ferriss
+0160	1	Suzanne Collins
+0161	1	Bernard Kempinski
+0162	1	Nat Fleischer
+0163	1	Cherie Calbom
+0164	1	Sarah Ruhl
+0165	1	Edward Walter Maunder
+0166	1	Kate Shoup
+0167	0	<NULL>
+0168	1	A. P. Herbert
+0169	1	Eustace Hale Ball
+0170	1	Luke Holter
+0171	1	Laurie Fabiano
+0172	1	David M./ Stein Killoran
+0173	1	Kaplan Publishing (COR)
+0174	1	William Leete Stone
+0175	1	Poultry Ass American Poultry Assocation
+0176	1	Kyo/ Mizuno Shirodaira
+0177	1	Suzanne Brockmann
+0178	1	Pamela C. Corley
+0179	1	Gary L. Rose
+0180	1	Geoff/ Robinson Johns
+0181	1	Marta/ Eby Perry
+0182	1	McGraw-Hill (COR)
+0183	1	Amanda Howells
+0184	1	Nic Pizzolatto
+0185	1	Jorge Luis/ Kodama Borges
+0186	1	Charles/ Schlesinger Peters
+0187	1	Not Available (NA)
+0188	1	Jean-Paul/ Turner Sartre
+0189	1	Joe Daly
+0190	1	Peter T. Deutermann
+0191	1	Martin/ Anderson Anderson
+0192	1	Jean Plaidy
+0193	1	Kathy Griffin
+0194	1	Teresa/ MacLean Giudice
+0195	1	Melanie D. Bragg
+0196	1	Lillian (PHT)/ Himmel Bassman
+0197	1	Stephen Prothero
+0198	1	Rob Sheffield
+0199	1	Matt/ Land Fraction
+0200	1	Fred (CRT) Sokolow
+0201	1	Mike/ Dysart Mignola
+0202	1	Helmut/ Steinmueller Kraus
+0203	1	Stephenie Meyer
+0204	1	Richard Abraham
+0205	1	Adobe Systems (COR)
+0206	3	Ellen/ Anon Anon	Ellen Anon	Josh Anon
+0207	1	Katherine Murray
+0208	1	Zig Ziglar
+0209	1	Joseph Newton
+0210	1	Gene Bedell
+0211	1	Cheryl/ Passwater Garrison
+0212	1	Alan/ Bolland Moore
+0213	1	Amy Johnston
+0214	1	Bob Horan
+0215	1	Horatio Jr. Alger
+0216	1	Lisa Ann/ Disney Storybook Artists (ILT) Marsoli
+0217	1	Troy Taylor
+0218	1	Klaus Heyne
+0219	1	Patricia M./ Vitale Nugent
+0220	1	Yoshiki Nakamura
+0221	1	Lionel (TRN)/ Minford Sun-tzu/ Giles
+0222	1	John/ Spears Klein
+0223	1	Bob/ Baloche Kauflin
+0224	1	Lydia Brownback
+0225	1	DK Publishing
+0226	1	Arthur Koestler
+0227	1	Robin Lee Hatcher
+0228	1	Larry/ Richards Richards
+0229	1	Liane/ Swann Onish
+0230	1	Jonathan Hickman
+0231	1	David G. Myers
+0232	1	David Colbert
+0233	1	Yoshiki Nakamura
+0234	1	Adc (COR)
+0235	1	P. G. Wodehouse
+0236	1	Ramit Sethi
+0237	1	Thomas E. Patterson
+0238	1	Katie MacAlister
+0239	1	Hansen Collin
+0240	1	Gary/ Schultz Gianni
+0241	1	John A./ Haynes Wegmann
+0242	1	Diane Kress
+0243	1	Ken Bible
+0244	1	Ken Akamatsu
+0245	1	Susan C. Thomas
+0246	1	James H./ Hammill O'Keefe
+0247	1	John Pitt
+0248	1	John J./ Goldstein Coleman
+0249	1	Brent Weeks
+0250	1	Frances H. Kennedy
+0251	1	Cicely Mary Barker
+0252	1	Neil/ Hempel Gaiman
+0253	1	Bill/ Buckingham Willingham
+0254	1	David Sedaris
+0255	1	Michelle West
+0256	1	Rosemary Simmons
+0257	1	Dominic Massa
+0258	1	Richard Moore
+0259	1	D. A. Saia
+0260	1	Tom Woloshyn
+0261	1	Greg/ Lente Pak
+0262	1	Alan Weller
+0263	1	Arnold/ Haney Drake
+0264	1	William Whiston
+0265	1	Erin/ Cechin McKenna
+0266	1	Caroline Leaf
+0267	1	Charlaine Harris
+0268	1	Marcus Geduld
+0269	1	O. Wesley Allen
+0270	1	N. T. Wright
+0271	1	Alphonse Chabot
+0272	1	Yoshiki Nakamura
+0273	1	Enfield Uk Ltd Royal Enfield Uk Ltd
+0274	1	Diana Kendall
+0275	1	Agathe Ravert-haevermans
+0276	1	Gary Paulsen
+0277	1	Linda (INT)/ Last Doeser
+0278	1	William Frederick Kirk
+0279	1	Greg Prato
+0280	1	Federal Aviation Administration
+0281	1	Paul W./ Massopust Wang
+0282	1	Myke Hawke
+0283	1	John S. Hockensmith
+0284	1	Jeffrey Gitomer
+0285	1	Graduate Management Admission Council
+0286	1	Jon Gordon
+0287	1	Clinton H. Smoke
+0288	1	Thomas E. King
+0289	1	Robert/ Sarigumba Kao
+0290	1	Marvin L./ Ellenbogen Bittinger
+0291	1	Curtis Sittenfeld
+0292	1	Steven Holzner
+0293	1	Robert/ Negron Cavalier
+0294	1	Stephenie Meyer
+0295	1	The Grey Dhungarvn the Grey
+0296	1	Faithe Wempen
+0297	1	Mike Gendron
+0298	1	Arthur Conan Doyle
+0299	1	Anne/ Vanags Millard
+0300	1	Elizabeth (ADP) Hurchalla
+0301	1	Emma King
+0302	1	Kathleen Deska/ Pagana Pagana
+0303	1	Lynden B. Miller
+0304	1	Mina Rieur (EDT)/ Samuel Weiner
+0305	1	Don Jensen
+0306	1	Ronald B./ Rosenfeld Adler
+0307	1	Carol/ Wallace Wallace
+0308	1	H. A. Garratt
+0309	1	Marjorie Priceman
+0310	1	J. D. Robb
+0311	1	Colleen Patrick-Goudreau
+0312	1	Lifetime Television
+0313	1	Carol Frederick Steele
+0314	1	Dennis/ Cohen Cohen
+0315	1	Jinny Beyer
+0316	1	Julia Chaplin
+0317	1	Pablo Vierci
+0318	1	Noel Streatfeild
+0319	1	Brett Harward
+0320	1	Roger Von Oech
+0321	1	Bob Johnson
+0322	1	Jamie Edwards
+0323	1	Meghan McGinley/ Perez Crowe
+0324	1	Michael R. Lindeburg
+0325	1	Sue Grafton
+0326	1	Amy/ Kang Allen
+0327	1	David M. Killoran
+0328	1	William C. Kozee
+0329	1	Genevieve/ Zinnes Jolliffe
+0330	1	Kentaro/ Johnson Miura
+0331	1	Robert McCloskey
+0332	1	Magda/ Johnson Gerber
+0333	1	Emily Bronte
+0334	1	Guido/ Bigon Regazzoni
+0335	1	Kevin Henkes
+0336	1	Peter Kaminsky
+0337	1	Maxine Hong Kingston
+0338	1	Tetsuya/ Puzzler Magazine (EDT) Nishio
+0339	1	Robert Jordan
+0340	1	Margarita Artschwager Kay
+0341	1	Michael/ Siegel Strassfeld
+0342	1	David (EDT) Wright
+0343	1	Chinua Achebe
+0344	1	William Hanchett
+0345	1	Dennis/ Hill Kimbro
+0346	1	Mary Wollstonecraft/ Stoker Shelley
+0347	1	Roland Barthes
+0348	1	Jack Kerouac
+0349	1	Roland/ Lavers Barthes
+0350	1	Jodi Picoult
+0351	0	<NULL>
+0352	1	William/ Sears Sears
+0353	1	Lorus/ Lorus Milne
+0354	1	Matt Groening
+0355	1	Carl H. Munroe
+0356	1	Susan Drake
+0357	1	J. K./ Dale Rowling
+0358	1	Jeremy (EDT)/ Swafford Kilpatrick
+0359	1	Daniel Kirschenbaum
+0360	1	Jim/ Parker Hamm
+0361	1	Thomas J./ Danko Stanley
+0362	1	Sean Covey
+0363	1	Phillip C. McGraw
+0364	1	Terry Teykl
+0365	1	Elliot D./ Morrison Abravanel
+0366	1	Zig Ziglar
+0367	1	John Marsden
+0368	1	Ira/ Manning Spring
+0369	1	Marcus/ James Pfister
+0370	1	Inc. (EDT) Klutz
+0371	1	Ron L. Engelland
+0372	1	Not Available (NA)
+0373	0	<NULL>
+0374	1	Henrik/ McFarlane Ibsen
+0375	1	Robert McCloskey
+0376	1	Not Available (NA)
+0377	1	Betty Crocker
+0378	1	Laura/ Sherman Torres
+0379	1	Anne Fadiman
+0380	0	<NULL>
+0381	0	<NULL>
+0382	1	Denes (CRT) Agay
+0383	1	Bill Hamon
+0384	1	John Gray
+0385	1	Ray A. D'Inverno
+0386	1	Not Available (NA)
+0387	1	Michael W. Covel
+0388	1	Sarah Vowell
+0389	1	L. D. (EDT) Kapoor
+0390	1	Starr Meade
+0391	1	Michael P. Spradlin
+0392	1	Rick Yancey
+0393	1	Kresley/ Black Cole
+0394	1	Brent Slife
+0395	1	Richard Phillips/ Leighton Feynman
+0396	1	Roger Priddy
+0397	1	Andy Stanley
+0398	1	Jerry/ Baker Baker
+0399	1	Robert O./ Young Young
+0400	1	Maria Faustina Kowalska
+0401	1	Elizabeth Haydon
+0402	1	David/ Spiker Zinczenko
+0403	1	Henry Beston
+0404	1	Robert Boyd (EDT) Munger
+0405	0	<NULL>
+0406	1	Patricia Evans
+0407	1	Jodi Picoult
+0408	1	Jay E. Adams
+0409	1	Mark L. Chambers
+0410	1	American Heart Association
+0411	1	Joyce Meyer
+0412	1	Marie M. Clay
+0413	0	<NULL>
+0414	1	Arlene Cotter
+0415	1	Randy C. Alcorn
+0416	1	Steve W. Williams
+0417	1	Ibis Fernandez
+0418	1	Cheri Huber
+0419	1	Vincent/ Gentry Bugliosi
+0420	1	Kathleen Long Bostrom
+0421	1	Paul Falcone
+0422	1	Paul N. Benware
+0423	1	Kessinger Publishing
+0424	1	F. Scott/ Robbins Fitzgerald
+0425	0	<NULL>
+0426	0	<NULL>
+0427	1	Larry (EDT) Better Homes and Gardens Books (EDT)/ Johnston
+0428	1	Dawn Lerman
+0429	1	Jordan Rubin
+0430	1	Craig/ Swan Cameron
+0431	1	Irwin Chusid
+0432	1	Jon Weil
+0433	1	Alice Hoffman
+0434	1	Lilly/ Mulvaney Pulitzer
+0435	1	Andrew Clements
+0436	1	Tom Wheeler
+0437	0	<NULL>
+0438	1	Stella/ Cox Starsky
+0439	1	Not Available (NA)
+0440	3	Vanessa-Ann	Lael C. Furgeon	Rebecca Carter
+0441	1	Robert/ Bryant De Boron
+0442	1	Anne McCaffrey
+0443	1	Stanley W. Johnson
+0444	1	Stephen King
+0445	3	John M. Braxton	William Luckey	Patricia Helland
+0446	1	William/ Mowat Shakespeare
+0447	2	B. E. Brodsky	B. S. Darkhovsky
+0448	1	Barbara Lee Bleau
+0449	2	Stefan Bergstrvm	Lotta Reberg
+0450	1	Jim/ Porras Collins
+0451	1	Charles M. Frye
+0452	2	Stephen Miller	Robert Huber
+0453	1	Donna M. Genett
+0454	1	Henry Cloud
+0455	1	Susan/ Smith Mattson
+0456	1	Polly Shulman
+0457	1	Ilana (EDT)/ Blank Weitzman
+0458	1	Bev Vincent
+0459	1	Charles F./ Dyer Knight
+0460	1	James (EDT) Patterson
+0461	1	Harold G. Cox
+0462	1	Jim Johnson
+0463	1	Jessica M./ Heckard Utts
+0464	1	Jennie/ Henson Bishop
+0465	1	Eoin Colfer
+0466	1	Esther/ Hicks Hicks
+0467	1	Judge Thomas Troward
+0468	1	Ken Sui-Chong
+0469	1	Not Available (NA)
+0470	1	Agatha Christie
+0471	1	Brian Germain
+0472	1	Neal Thompson
+0473	1	Jim/ Summit Widess
+0474	1	John MacArthur
+0475	1	Chris Welles Feder
+0476	1	Richard D. Weaver
+0477	1	Enokido Yoji
+0478	1	Ginny Redington/ Collings Dawes
+0479	1	John Piper
+0480	1	Paul P. Enns
+0481	1	Hephzibah/ Jolliffe Roskelly
+0482	1	Mark R. Harrigan
+0483	1	Albert C./ Reeves Perrino
+0484	1	Rick Atkinson
+0485	1	Jim/ Mabin McCarter
+0486	1	Sandra Felton
+0487	1	Diana C. Reep
+0488	1	Not Available (NA)
+0489	1	Patricia Cori
+0490	1	Andy Andrews
+0491	1	Yoshiki Nakamura
+0492	1	Eric A. Meyer
+0493	1	Thomas/ Apple McNamee
+0494	1	Jeffrey Lindsay
+0495	1	Jodi Picoult
+0496	1	Diana/ Calderwood Kennedy
+0497	1	Kazu Kibuishi
+0498	1	Karen Delise
+0499	1	Marjorie Canfield Willis
+0500	1	Dan Miller
+0501	1	Robert Simonsen
+0502	1	Lynn V. Andrews
+0503	1	Edwin H./ Treadwell Friedman
+0504	1	Project Management Institute
+0505	1	James/ Gross Patterson
+0506	1	Robin St John
+0507	1	Hikaru/ Matsumoto Hayashi
+0508	1	Helen Thomas
+0509	1	Todd A./ Kim Swanson
+0510	1	Harold Robbins
+0511	1	Leslie Parrott
+0512	1	Carl Deuker
+0513	1	Jay P. Green
+0514	1	Jane Thielemann
+0515	1	Randy J./ Buss Larsen
+0516	1	Ian K. Smith
+0517	1	Daniel J. Levitin
+0518	1	Beverly Engel
+0519	1	Alyssa Satin/ Stott Capucilli
+0520	1	Michael Pollan
+0521	1	Andrew J. Cherlin
+0522	1	John Emory (EDT) Campbell
+0523	1	John E. Girouard
+0524	1	Sophie Kinsella
+0525	1	Mark/ Trattler Gladwin
+0526	1	Sarah Houghton
+0527	1	Terrence Real
+0528	1	Lloyd (CON)/ Rogers Hampton
+0529	1	Garrison Keillor
+0530	1	Wayne (CRT) Shorter
+0531	1	Mark U. Edwards
+0532	0	<NULL>
+0533	2	H. Beam Piper	John J. McGuire
+0534	1	Paul Rosenberg
+0535	1	de Troyes/ Comfort Chretien
+0536	1	Cher/ Derry Threinen-Pendarvis
+0537	1	Ruth Burrows
+0538	1	Karen Marie/ Bean Moning
+0539	1	Phil Hellmuth
+0540	1	Rod Latham
+0541	1	Angela Skinner
+0542	1	Kristie/ Knorr Smith
+0543	1	H. C. Goldsmith
+0544	1	Julie Adair King
+0545	1	Marilynn E./ Moorhouse Doenges
+0546	1	Kevin Trudeau
+0547	1	Not Available (NA)
+0548	1	G. G. Bloomer
+0549	1	Wayne/ Smith Gisslen
+0550	1	Donald Lewis-highcorrell
+0551	1	Maurice (EDT) Ravel (COP)/ Hinson
+0552	1	Charlotte J./ Wilkins Wyche
+0553	1	Wayne W./ Williamson Dyer
+0554	1	Adam Ding
+0555	1	Greg Green
+0556	1	Rose Rosetree
+0557	1	Marilyn Burns
+0558	1	Philip Martin McCaulay
+0559	1	Joan/ Cox Preppernau
+0560	1	Stacy Phillips
+0561	1	William R. (EDT) Yount
+0562	1	Dalmatian Press (EDT)
+0563	1	H. P./ Jones Lovecraft
+0564	1	Brigitte Gabriel
+0565	1	Brian K. Julyan
+0566	1	Kris/ Williamson Carr
+0567	1	Brian (EDT) Sawyer
+0568	1	DK Publishing
+0569	1	Dennis J. Sporre
+0570	2	Ori Brafman	Rod A. Beckstrom
+0571	1	Robert Paul Weston
+0572	1	Patrick McNeil
+0573	1	Nancy/ Bright Moser
+0574	1	Albert Payson Terhune
+0575	1	William Feaver
+0576	1	Byron/ Williams Katie
+0577	1	Crossway Books (COR)
+0578	1	Bruce Wingerd
+0579	1	Wayne/ Thoennes Grudem
+0580	1	Kenneth L. (EDT)/ Stek Barker
+0581	1	Gordon Korman
+0582	1	Rick Riordan
+0583	1	Steven T./ Brooks Boyd
+0584	1	Gary Dessler
+0585	1	Steve/ Millner Harvey
+0586	1	Napoleon Hill
+0587	1	Angela/ Berry Byron
+0588	1	William/ Ryan Yeoward
+0589	1	Sue/ Melamed Whitney
+0590	1	Mark Gungor
+0591	1	Kuriakos
+0592	1	Edward/ Iano Allen
+0593	1	Eugene F./ Houston Brigham
+0594	1	Barbara/ Stoeltie Stoeltie
+0595	1	F. William Engdahl
+0596	1	Donald F. Kettl
+0597	1	Annie/ Street-Porter Kelly
+0598	1	Robert A. Burton
+0599	1	Gordon Korman
+0600	1	Neill Seltzer
+0601	1	Anthony DeStefano
+0602	1	Margaret (EDT) Kelly
+0603	1	Ronald C. White
+0604	1	Richard/ Gaynor Mishaan
+0605	1	Deepak Chopra
+0606	1	Chava/ Leon-Guerrero Frankfort-Nachmias
+0607	1	James/ Slavicsek Wyatt
+0608	1	David Chambers
+0609	1	Dan Bobinski
+0610	1	Stephen/ Stoeker Arterburn
+0611	1	Tom/ Cutting White
+0612	1	E. Clyde/ Schneider Buchanan
+0613	1	Colette Pitcher
+0614	1	Ken Akamatsu
+0615	1	Daniel Ekeroth
+0616	1	John D. Carl
+0617	1	Steven P. Shelov
+0618	1	H. Thomas Johnson
+0619	1	Emily (EDT) Schusterbauer
+0620	1	Christine/ Mueller Mersch
+0621	1	Henry David Thoreau
+0622	1	Rhonda Byrne
+0623	1	Albert/ Pons Valdman
+0624	1	Jacqueline Carey
+0625	1	Mary Ellis
+0626	1	Jerry/ Hayball Holway
+0627	1	Peter Gregory
+0628	1	Armond Fields
+0629	1	Joseph Victor Collins
+0630	3	John J. Vincent	Erica Livingston	Nivaldo J. Tro
+0631	1	Lauraine Snelling
+0632	1	Jeff Bredenberg
+0633	1	Ellen Finkelstein
+0634	1	Martin Jacques
+0635	1	Paul Taylor
+0636	1	Michael/ Penske Argetsinger
+0637	1	Edward T. Martin
+0638	1	Thomas/ Cutler Heggen
+0639	1	Helen Muller
+0640	1	Alan M. (EDT)/ Houston Blankstein
+0641	1	Lester Faigley
+0642	0	<NULL>
+0643	1	Merlin R. Carothers
+0644	1	Thomas S. (EDT) Blanton
+0645	1	John Ross
+0646	1	Charles Williams
+0647	1	Charles Bukowski
+0648	1	Nick Bantock
+0649	1	Norman Grubb
+0650	1	Michael/ Oxenbury Rosen
+0651	0	<NULL>
+0652	0	<NULL>
+0653	1	Peter/ Clancy Mayle
+0654	1	Stephen Crane
+0655	1	Flavius/ Maier Josephus
+0656	1	George S. Clason
+0657	1	Jack Schaefer
+0658	1	Og Mandino
+0659	1	W. P. Kinsella
+0660	1	Bruce/ Gealt Cole
+0661	1	Frank Bettger
+0662	1	Deng Ming-Dao
+0663	1	Don/ Laudeman Casey
+0664	1	John D. MacDonald
+0665	1	Roland/ Miller Barthes
+0666	1	Beverly Cleary
+0667	1	Jean Craighead George
+0668	1	John Reynolds/ Sewall Gardiner
+0669	1	Bathroom Readers' Institute
+0670	1	Tom Brokaw
+0671	1	Dion Fortune
+0672	2	David J. Marcarthy	David J. McCarthy
+0673	1	James Krenov
+0674	1	Pamela Jayne
+0675	1	Carol/ Fisher Beckwith
+0676	1	Ethelbert W. Bullinger
+0677	1	Robert (EDT)/ Ambrose Cowley
+0678	1	O. Robin Sweet
+0679	1	Stewart/ Farrar Farrar
+0680	1	Shunryu Suzuki
+0681	1	Elizabeth Haydon
+0682	1	Elaine B. Johnson
+0683	1	Max/ Knight Lunger
+0684	1	Jessica Teich
+0685	1	Gladys Hunt
+0686	1	John H. Dobson
+0687	1	Olivia St. Claire
+0688	1	Patrick Sebranek
+0689	1	Lauren Leslie
+0690	1	Dave Gerr
+0691	1	Anthony Weston
+0692	1	Vandana Shiva
+0693	1	Robert Louis/ Cordingly Stevenson
+0694	1	John T. Hanou
+0695	1	Sydney Banks
+0696	1	Richard Laurence
+0697	1	Diane Grindol
+0698	1	George/ Fromm Orwell
+0699	1	Lewis (TRN) Geoffrey of Monmouth/ Thorpe
+0700	1	Paramahansa Yogananda
+0701	1	Sherrilyn Kenyon
+0702	2	Patrick C. Olds	Joynce L. Olds
+0703	1	Kurt/ Nord Busiek
+0704	1	Suzanne Somers
+0705	1	James P./ Caher Caher
+0706	1	James Matthew Barrie
+0707	1	Jerry Bridges
+0708	1	Mary Ann/ Westcott Hoberman
+0709	1	Vincent Douglas
+0710	1	Alan J. Flusser
+0711	1	Maya Gottfried
+0712	1	Robert M. Pirsig
+0713	1	Alex Tresniowski
+0714	2	Peter Gray	John Carroll
+0715	1	Greg Perry
+0716	1	Brian K./ Guerra Vaughan
+0717	1	Ralph Waldo/ Ziff Emerson
+0718	1	James Rachels
+0719	1	Adele (EDT)/ Brettler Berlin
+0720	1	Jay G. Foonberg
+0721	1	Anne Bishop
+0722	1	Ben Mezrich
+0723	1	Chuck (EDT) Sher
+0724	1	Kevin D./ Simon Mitnick
+0725	1	Hale Dwoskin
+0726	1	William F. Powell
+0727	1	Ayn Rand
+0728	1	Edgar Rice Burroughs
+0729	1	Frank P. Baron
+0730	0	<NULL>
+0731	1	Geronimo Stilton
+0732	1	Tess Gerritsen
+0733	1	Gary R. Renard
+0734	1	T. A. Barron
+0735	1	Tom/ Wright Wright
+0736	1	Bill McRae
+0737	1	Kenneth Oppel
+0738	1	Agatha Christie
+0739	1	Scot McKnight
+0740	1	Joseph Conrad
+0741	1	Bill Nowlin
+0742	1	Philippe Kruchten
+0743	1	N. T. Wright
+0744	1	FAA Department of Transportation
+0745	1	Lauralee/ Klandorf Sherwood
+0746	2	Kay Arthur	Janna Arndt
+0747	1	Stedman's
+0748	1	McKay Jenkins
+0749	1	Floyd McClung
+0750	1	George Mathieu Barnard
+0751	1	Eric Pascarello
+0752	1	Olympic Mountain Recue
+0753	1	Christian P. Potholm
+0754	1	Mary (ILT) Engelbreit
+0755	1	Conny Mendez
+0756	2	Kitty Dukakis	Larry Tye
+0757	3	Edwin Olmstead	W. Edward Olmstead	Ed Olmstead
+0758	1	Doreen Virtue
+0759	1	Margaret Maron
+0760	1	Charles Agar
+0761	1	Napoleon Hill
+0762	1	Ann Fittante
+0763	1	Marsha Collier
+0764	1	Daniel Kirk
+0765	1	Betty Schrampfer Azar
+0766	1	Jeff/ Francois Hertzberg
+0767	1	Agatha Christie
+0768	2	Arulkumaran Kumaraswamipillai	Sivayini Arulkumaran
+0769	1	Carolyn Jarvis
+0770	1	Kim Clement
+0771	1	Jack/ Rogers Hagerty
+0772	1	Eiji/ Tajima Otsuka
+0773	1	R. Dean (EDT)/ Cebik Straw
+0774	1	Barry J. (EDT) Beitzel
+0775	1	Janet Wittenback
+0776	1	Robert L. Nussbaum
+0777	1	Monte Francis
+0778	1	Marvin L./ Beecher Bittinger
+0779	1	Michael Woodward
+0780	1	michael A. Singer
+0781	1	Marcia Darvin Spada
+0782	1	Robert B. Broyles
+0783	1	Lucinda Bassett
+0784	1	S. L. Hinkle
+0785	1	Herb Miller
+0786	1	Jane Smidor/ Bastien Bastien
+0787	1	Maria Jose De La/ Peris Fuente
+0788	1	Dan Miller
+0789	1	John F./ Hitchcock Walvoord
+0790	1	Koos/ Steur Eissen
+0791	1	Sue Grafton
+0792	1	Lora Leigh
+0793	1	Alex/ Harris Harris
+0794	1	Francis Ray
+0795	1	Bisco Hatori
+0796	1	Jennifer Bradbury
+0797	1	Chris Robinson
+0798	1	Barbara M./ Newman Newman
+0799	1	Jim Friedman
+0800	1	Eduard Imhof
+0801	1	Walter (COM) Carroll
+0802	1	Cesar G. Queyquep
+0803	1	Toys Alex
+0804	1	Franz/ Shaw Mandl
+0805	1	Donald/ Muller Caldwell
+0806	2	Wayne M. Levine	Levine M. Wayne
+0807	2	Bodie Thoene	Brock Thoene
+0808	1	Paul A./ Llewellyn Tipler
+0809	1	David J. Wallin
+0810	2	John Cutnell	Kenneth W. Johnson
+0811	1	Victoria Doudera
+0812	1	George F./ Smith Cole
+0813	1	Robert Lewis
+0814	1	Mercer (ILT)/ Carson-dellosa Publishing (COR) Mayer
+0815	1	Ellen Schroy
+0816	1	Jo Packham
+0817	1	Marthe (EDT) Lark Books (COR)/ Le Van
+0818	1	E. (EDT)/ Aland Nestle
+0819	1	Eric/ Gleason Cornally
+0820	1	Alberts
+0821	1	Patricia Schultz
+0822	1	Bill Johnson
+0823	1	Bill Jelen
+0824	1	Richard Starkings
+0825	1	Napoleon/ Stone Hill
+0826	1	Kenneth Hanson
+0827	1	J. D./ Gregory Vertrees
+0828	1	James J./ Mason Cramer
+0829	0	<NULL>
+0830	1	Jodi Picoult
+0831	1	Mark Grabe
+0832	1	Lynn/ Borgenicht Rosen
+0833	1	Ann Cato
+0834	1	Pamela S./ Goodman Lewis
+0835	1	John/ Rathgeber Kotter
+0836	1	Alan Goldsher
+0837	1	Scott McCloud
+0838	1	Michael (EDT)/ Baur Baur
+0839	1	Jane Archer
+0840	1	Ian W. Toll
+0841	1	Jim Boyce
+0842	1	Robert H. Friis
+0843	1	Jay/ Roth Kopelman
+0844	1	Tom Wheeler
+0845	1	Carol/ Messing Mccloud
+0846	1	Charles M. Schulz
+0847	1	Educational Testing Service
+0848	1	David Knight
+0849	1	Brie Gyncild
+0850	1	Brian Michael/ Lafuente Bendis
+0851	1	Zeb/ Neves Wells
+0852	1	Geneen Roth
+0853	2	Gospel Light (COR)	Gospel Light
+0854	1	John (CRT) Mayer
+0855	1	Jeanette Foster
+0856	1	Rick Riordan
+0857	1	Steven Brooks
+0858	1	Dan S. Kennedy
+0859	1	Kaplan Publishing (COR)
+0860	1	Spencer Borden
+0861	1	Carol Tornquist
+0862	1	J. Godsey
+0863	1	Terry/ Hoye McDermott
+0864	1	Inc. (COR) Kaplan
+0865	1	Marc-andre R Chimonas
+0866	1	Linda Skidmore-Roth
+0867	1	Jacob Fowler
+0868	1	Russell Kelso Carter
+0869	1	Not Available (NA)
+0870	1	David C./ Planchard Planchard
+0871	1	Eric Jensen
+0872	1	Stephen S. Cheung
+0873	1	Edward Chu
+0874	1	Kurt/ Cibraro Claeys
+0875	1	Barbara/ Padova Obermeier
+0876	1	Timothy J. Keller
+0877	1	Barbara (COM)/ Zschock Paulding
+0878	1	Jim/ Marsters Butcher
+0879	1	Rhoda Janzen
+0880	1	Lori/ Burke Tyler
+0881	1	Richard Walter
+0882	1	Lisa Whelchel
+0883	1	Jenny B. Jones
+0884	1	Joanna Ryde
+0885	1	Patrick/ Niemi Swayze
+0886	1	Nelson/ Brick DeMille
+0887	1	Donna J./ Halstead Phinney
+0888	1	Partnership for Public Service (COR)
+0889	1	William Panek
+0890	1	Rick/ Hewitt Steves
+0891	1	Sloane Crosley
+0892	1	Efraim/ Sharda Turban
+0893	1	Sharon/ Bos Vaughn
+0894	1	Pope/ Rausch Benedict
+0895	1	William Powers
+0896	1	Sonny/ Holmstrom Barger
+0897	1	Paullina Simons
+0898	1	Joanna Campbell Slan
+0899	1	Taste of Home
+0900	1	Eric J. Brock
+0901	1	Vicky Ward
+0902	1	Thomas Poffenberger
+0903	1	Samir Riad
+0904	1	Mark Stengler
+0905	1	Chris Marie Green
+0906	1	Michael J. Arata
+0907	1	Joann/ Claborn Zerwekh
+0908	1	David Wiedemer
+0909	1	Robert Elgood
+0910	1	Jean Tannis/ Davis Dennerll
+0911	1	Brunonia Barry
+0912	1	Laura J./ Lannon Gurak
+0913	1	James Bradley
+0914	1	Jun Mochizuki
+0915	1	Sylvan Learning
+0916	1	Nancy/ Janjigian Corzine
+0917	1	Alfred Publishing Staff (COR)
+0918	1	Cornelia Read
+0919	1	J. R. Ward
+0920	1	Steven M. Gillon
+0921	1	George Ehrenhaft
+0922	1	Manfred Au
+0923	1	Robin/ Herschkowitsch Goldstein
+0924	1	Gary Russell
+0925	1	Lynn/ Martin Hunt
+0926	1	Brian/ Vidal May
+0927	1	Leslie Connor
+0928	1	Natalia Rose
+0929	1	Ugo (EDT) LA Pietra
+0930	1	I. J. Schecter
+0931	1	Stephen L. Weiss
+0932	1	Jon McGregor
+0933	1	Lauren Kupillas
+0934	1	Louis C./ Gardiner Dorworth
+0935	1	Robert Dos Remedios
+0936	1	Larry/ Currier Volk
+0937	1	Daniel J. Siegel
+0938	1	Jonathan Stark
+0939	1	Kelly Sullivan Walden
+0940	1	Barbara Lauritsen/ Kockrow Christensen
+0941	1	Nora/ Zackman Roberts
+0942	1	June Jamrich/ Oja Parsons
+0943	1	Shane/ Travis Christensen
+0944	1	Joshua/ Luna Luna
+0945	1	George S. (EDT)/ Michael Cuhaj
+0946	1	David/ Reed Colbert
+0947	1	Andrew/ Reisner McCredie
+0948	1	Barbara/ Yock Irwin
+0949	1	Kaplan Publishing (COR)
+0950	1	Andrew/ Volkwein Swallow
+0951	1	James/ Sato Hansen
+0952	1	Gun Brooke
+0953	1	Ruth A. Roth
+0954	1	Linda Crowsey
+0955	1	Cathryn Berger Kaye
+0956	1	Stieg/ Keeland Larsson
+0957	1	Doris Gates
+0958	1	Kendra/ Warech Wilkinson
+0959	1	Laura Ingraham
+0960	1	James Richardson
+0961	1	Joseph Owens
+0962	3	Joan M. Kanavich	Roxanne Richardson	Press Entrepreneur
+0963	1	Wilda B. Tanner
+0964	1	Kathryn Stockett
+0965	1	John Harold/ Freund Haynes
+0966	1	Marlene Koch
+0967	1	Patricia Barthalow/ Ammeson Koch
+0968	1	Sheba Karim
+0969	1	Derek M./ Sierakowski Steinbacher
+0970	1	Gerald Guess
+0971	1	Not Available (NA)
+0972	1	Chelsea Handler
+0973	1	George Wardman
+0974	0	<NULL>
+0975	0	<NULL>
+0976	1	Ashley Antoinette
+0977	1	D. Bokmiller
+0978	1	Judith/ Bloor Hurwitz
+0979	1	Maggie (EDT) Pannell
+0980	1	Pat Pattison
+0981	1	Alex Williams
+0982	1	Kimberley R. Crouch
+0983	1	Harry L. Rinker
+0984	1	David/ Ulrich Ulrich
+0985	1	John Grisham
+0986	1	Paul/ Deitel Deitel
+0987	1	Conchita Madueno
+0988	1	Press Entrepreneur
+0989	1	A. J. Jacobs
+0990	1	Tracey/ Black Miller-zarneke
+0991	1	Graciela De Vicenti
+0992	0	<NULL>
+0993	1	Christopher (EDT)/ Tobis Styler
+0994	0	<NULL>
+0995	1	Robert N./ McGraw Munsch
+0996	1	Sergio Bergesio
+0997	1	Jose Reveles
+0998	1	Tomas Sarramia Roncero
+0999	1	Michael Spadaccini
+1000	1	Ethel Geue
+1001	1	Francis/ Vance Wheen
+1002	1	Jolie Carpenter
+1003	1	Robert/ Moore Kirkman
+1004	1	Janice Gorzynski Smith
+1005	1	Not Available (NA)
+1006	0	<NULL>
+1007	0	<NULL>
+1008	1	Deepak/ Tirman Tripathi
+1009	3	Abel Delgado	Prevention Health Books	Prevention Magazine
+1010	1	Ben Rapaport
+1011	1	Elaine Petrone
+1012	1	Richard Jazwin
+1013	1	Dorian Yates
+1014	1	Gwynne N. Dawdy
+1015	1	Edgar C. Middleton
+1016	1	Mizuki Hakase
+1017	1	Kenneth W./ Jentz Clarkson
+1018	1	Linda Larsen
+1019	1	Paul McCobb
+1020	1	Ron Urbanczyk
+1021	1	Jim Schutze
+1022	0	<NULL>
+1023	1	Francis (CON)/ Lente Portela
+1024	1	Andrew McNally
+1025	1	Judy Hall
+1026	1	Steve Harpster
+1027	1	Peter Veruki
+1028	0	<NULL>
+1029	1	Carol Gelles
+1030	1	C. I. (EDT) Scofield
+1031	1	American Bookworks Corporation
+1032	1	David R. Klein
+1033	1	T. Lee Baumann
+1034	1	Albert L./ Cox Lehninger
+1035	1	Jimmy/ Kinky Kinky
+1036	1	Richard Price
+1037	1	Donna D. (EDT)/ Workman Ignatavicius
+1038	1	Uri Trajtmann
+1039	1	Jeannine/ Viveros Lee Atkins
+1040	1	Susan/ Hilt Nolen-Hoeksema
+1041	1	John W. Santrock
+1042	1	Margaret L./ Hornsby Lial
+1043	1	Phyllis Meckley
+1044	1	Alastair (EDT)/ March Dougall
+1045	1	Karen/ Timberlake Timberlake
+1046	1	Kajri Jain
+1047	2	Ferm?n Armendia Castro	Ferm Armendia Castro
+1048	1	Gerard J./ Derrickson Tortora
+1049	2	John Bomm	Malinda Bomm
+1050	1	Klutz (COR)
+1051	1	Ayano Yamane
+1052	1	Donald R. Prestly
+1053	1	Prima Games
+1054	1	Vinod Wadhwa
+1055	1	Karl/ Devers Champley
+1056	1	Molly Higgins
+1057	1	R. C. Sproul
+1058	1	Aileen/ Henna Marron
+1059	1	J. I. Packer
+1060	1	Jerry Jones
+1061	1	Bill Shane
+1062	1	Ian (PHT)/ McAllister McAllister
+1063	1	Catherine Hakim
+1064	1	Mark Alan/ O'Toole Stewart
+1065	1	Bruce Lewis
+1066	0	<NULL>
+1067	1	Nancy Bell
+1068	1	Rocky Rockholt
+1069	1	Richard Sigmund
+1070	1	Rand McNally and Company (COR)
+1071	1	Fiona/ Miller Watt
+1072	1	Lonna Weidemann
+1073	0	<NULL>
+1074	1	Domenico/ Gabbana Dolce
+1075	1	Donald F. Reuter
+1076	1	Not Available (NA)
+1077	1	Kyle Coroneos
+1078	1	Rubin "Hurricane" Carter
+1079	0	<NULL>
+1080	1	Stephanie/ Mazille Dunnewind
+1081	1	Hannah Farley
+1082	1	Abigail Johnson Dodge
+1083	1	Samuel Willard Crompton
+1084	0	<NULL>
+1085	1	Winfried J. (EDT)/ Sanner Randerath
+1086	1	Justine Picardie
+1087	1	Leon Gorman
+1088	1	Living Language
+1089	1	Robert J. Grant
+1090	1	Neil A./ Reece Campbell
+1091	1	John H./ Hopson Postlethwait
+1092	1	Janet Evanovich
+1093	1	James Danko
+1094	1	Not Available (NA)
+1095	1	Not Available (NA)
+1096	1	Anton/ Sokol Radevsky
+1097	1	Philip/ Keller Kotler
+1098	1	Sharon Hamblin
+1099	1	John Francis
+1100	1	Neil/ McManus Gaiman
+1101	1	Rhonda Byrne
+1102	2	June Conord	Bruce Conord
+1103	0	<NULL>
+1104	1	Annette/ McDermott Lewis
+1105	1	John E. McMurry
+1106	2	Stephen Hake	John Saxon
+1107	1	Tara McLellan
+1108	1	Barbara Wood Borne
+1109	1	Dottie Rankin
+1110	1	Howard (EDT)/ Hope Ziehm
+1111	1	Margaret Moos Pick
+1112	1	Rath/ Leschensky Price
+1113	1	C.S. Lewis
+1114	1	Dale/ Rose Chihuly
+1115	0	<NULL>
+1116	1	Delton T. Horn
+1117	1	Jaime Garza/ Garza Bores Bores
+1118	0	<NULL>
+1119	1	Kenneth R. Tremblay
+1120	1	BradyGames (COR)
+1121	1	Manhattan Gmat Prep
+1122	1	Jenny Nimmo
+1123	1	Ltd. Compass Maps
+1124	1	James/ Gardini Patterson
+1125	1	Drew/ Fabry Brees
+1126	1	Richelle Mead
+1127	1	Jonathan Alter
+1128	1	Don/ Titlow Bokmiller
+1129	1	Princeton Review (COR)
+1130	1	Robin Nelson
+1131	1	Joan Levy
+1132	1	Derek Kelly
+1133	1	David Pressman
+1134	1	Jerry Terranova
+1135	1	Tucker Max
+1136	1	David Klass
+1137	1	Alanna Jones
+1138	1	David E. Mulcahy
+1139	1	Adam J. Singer
+1140	1	Jon/ Haynes Lacourse
+1141	1	Philip K. Dick
+1142	1	Paul Joseph/ Clukey Shoecraft
+1143	1	Linda S. Blaz
+1144	1	Mike Henry
+1145	1	Judi (EDT)/ Devine Kingry
+1146	1	Ed (EDT)/ Jankowski Masessa
+1147	1	Not Available (NA)
+1148	1	Jose A. Blanco
+1149	1	Julie/ Zaidi Aigner-Clark
+1150	1	Don (EDT) Burgess
+1151	1	Douglas A./ Nash Bernstein
+1152	1	American Diabetes Association (COR)
+1153	1	Walter E. Muller
+1154	1	Robert E. Slavin
+1155	1	Not Available (NA)
+1156	1	David Orsay
+1157	1	Darla M. Castelli
+1158	1	Marissa Starr
+1159	1	Gail/ Scott Abbott
+1160	1	Living Language (COR)
+1161	1	Dennis Day
+1162	1	Kenneth L./ Hoffmans Fisher
+1163	1	Espen/ Jeffery Oino
+1164	1	Elizabeth/ Lluch Lluch
+1165	1	Crossway Books (COR)
+1166	1	Jack D. Schwager
+1167	1	Anne Akers Johnson
+1168	1	Jenna/ Gunter Lloyd
+1169	1	Lois/ Rescek Rock
+1170	1	Sarma Melngailis
+1171	1	Yuko (EDT) Sasaki
+1172	1	Gary B./ Cashman Shelly
+1173	1	Adam (PHT) Raphael
+1174	1	Ruby Moon-Houldson
+1175	1	George Brown/ Shi Tindall
+1176	1	Bruno Gmunder Verlag (COR)
+1177	1	American Girl (COR)
+1178	1	Homer Kelley
+1179	1	Wayne A./ Grudem Grudem
+1180	1	Stephen/ McLarty King
+1181	1	Cosmopolitan (EDT)
+1182	1	Michael S. Block
+1183	1	Patrick M. Lencioni
+1184	1	Not Available (NA)
+1185	1	Beatrice Nash Horowitz
+1186	1	Eloise/ Calvin Greenfield
+1187	1	Marilyn/ Bollen Sadler
+1188	1	Edward L. (EDT)/ Barnhart Thorndike
+1189	1	Gary Solomon
+1190	1	Phyllis York
+1191	1	Kirk/ Black Franklin
+1192	1	Jonathan L. (EDT) Goldman
+1193	1	Maria/ McGowan McBride-Mellinger
+1194	1	Jerry Baker
+1195	3	Robert D. Holtz	R. D. Holtz	William D. Kovacs
+1196	1	Charles H. Green
+1197	3	Joyce Lefever Kee	Evelyn R. Hayes	Linda E. McCuistion
+1198	1	Max Allan/ Woodward Collins
+1199	1	Mark Hyman
+1200	1	Karen J./ Winget Goldfluss
+1201	1	Carl F./ Watts Luckey
+1202	1	Paul-gerard/ Ammon Pasols
+1203	1	John R./ Jamison Wooden
+1204	1	Robert W./ Swedberg Swedberg
+1205	1	Gilda Nissenberg
+1206	1	Irina Ionesco
+1207	1	Carson (ILT)/ Ennis Chronicle Books (CRT)/ Ellis
+1208	1	Regina Lynn
+1209	1	Luisanna Fodde Melis
+1210	1	Terry Eagle
+1211	0	<NULL>
+1212	1	Levi Buchanan
+1213	1	John Vore
+1214	0	<NULL>
+1215	1	Laura Cooper
+1216	1	Rafael (EDT)/ Nisset-Raidon Falcon
+1217	1	Edward B. Garriot
+1218	1	Ian Richard (EDT) Netton
+1219	1	Mark Sisson
+1220	1	Suzanne Rivecca
+1221	1	Fantasy Flight Games (COR)
+1222	1	Lexisnexis Matthew Bender (COR)
+1223	1	John Hagee
+1224	1	Lisi Harrison
+1225	3	Frederic P. Miller	Agnes F. Vandome	John McBrewster
+1226	1	Lincoln Peirce
+1227	1	Brent Weeks
+1228	1	Sharon Weiner/ Wolf Green
+1229	1	Barney/ Kuhn Stinson
+1230	1	Michael Guncheon
+1231	1	Rick Riordan
+1232	1	Debbi Michiko/ Caputo Florence
+1233	1	J. Dennis Thomas
+1234	1	Todd/ Young Klindt
+1235	1	James Lee Burke
+1236	1	Lisi Harrison
+1237	1	Dan Ariely
+1238	1	Wenwu Zhang
+1239	1	Adam Levin
+1240	1	Sadie/ Lee Allison
+1241	1	Tom Wilson
+1242	1	Irene/ Keller Keller
+1243	1	Vicki (EDT) Ingham
+1244	1	Bill/ Clinton Clinton
+1245	0	<NULL>
+1246	1	Denise Austin
+1247	1	Chilton Book Company (EDT)
+1248	0	<NULL>
+1249	1	Frederick Lewis Allen
+1250	1	Grant/ Porter Morrison
+1251	1	Joel Fuhrman
+1252	1	Robert Johns
+1253	1	Jean Morningstar
+1254	3	Porter	Richard A. Cherry	Bryan E. Bledsoe
+1255	1	Christopher Mele
+1256	1	Deborah Harding
+1257	1	Harvey Karp
+1258	0	<NULL>
+1259	1	Ron Davis
+1260	1	Norman Phillips
+1261	1	IBM Redbooks
+1262	1	Tom Gorman
+1263	1	Anabel Ochoa
+1264	1	Catherine Devrye
+1265	1	David E. Gumpert
+1266	1	William H. Sci Fi Network/ Doleman
+1267	1	Og Mandino
+1268	1	Cindy/ Callinan Pawlcyn
+1269	1	Arbinger Institute (EDT)
+1270	1	Doug Stanton
+1271	1	Pamela C. Champe
+1272	1	Stephen M. Miller
+1273	1	Mike Svob
+1274	1	Mark/ McNiven Millar
+1275	1	James Stewart
+1276	1	Carol/ LeMone Taylor
+1277	1	N. Gregory Mankiw
+1278	1	Florencia Piquer
+1279	1	Alastair Chisholm
+1280	1	Marisa De los Santos
+1281	1	Bonnie Burton
+1282	1	Luis (EDT) Lesur
+1283	1	Jane Rendell
+1284	1	Joyce/ Haroun Mitchell
+1285	1	Joy Hakim
+1286	1	Timothy/ Porter Ferris
+1287	1	Steven A./ Gonzalez Safren
+1288	1	Fabian/ Rodriguez Samaniego
+1289	1	Matt Piper
+1290	1	Esther/ Hicks Hicks
+1291	1	Laura Kasischke
+1292	1	Dr Robert Mawire
+1293	2	Patricia A. Potter	Anne Griffin Perry
+1294	1	Aaron/ Whigham Sautter
+1295	1	Diane E./ Olds Papalia
+1296	1	Lawrence O. Richards
+1297	1	Niels Blunch
+1298	1	Sherri Haab
+1299	1	Jithesh Sathyan
+1300	1	Penny Vedrenne
+1301	1	Alan Dunn
+1302	1	Mark Cotta Vaz
+1303	1	Kelley Blue Book
+1304	1	Craig Shaw/ Harper Gardner
+1305	1	Anne Stewart/ Taylor O'donnell
+1306	1	Douglas/ Owens Deuchler
+1307	1	Park It! Guides (COR)
+1308	1	Elinor Klivans
+1309	1	Robin/ Lamb Leonard
+1310	1	Dominique/ Russell-Revesz De Vito
+1311	1	Lynne (EDT)/ Anastas Cooke
+1312	3	Nicholas D./ Wudunn Kristof	Nicholas D. Kristof	Sheryl WuDunn
+1313	1	Heritage Preservation Inc. (COR)/ Endowment for the Humanities (CON)
+1314	1	Nathanael/ Lethem West
+1315	1	J. K. Chambers
+1316	1	Brent L./ Brown Iverson
+1317	1	Eduard Broto
+1318	1	Not Available (NA)
+1319	1	Rick Steves
+1320	1	Crossway Bibles (COR)
+1321	1	Michael Miller
+1322	1	Mary/ Ulkutay Design Group (ILT)/ Choi Man-Kong
+1323	1	Not Available (NA)
+1324	1	Writer's Digest (COR)
+1325	1	Creative Homeowner (COR)
+1326	1	Helen Steiner Rice
+1327	1	Victor (EDT)/ Pellerito Gorelick
+1328	1	Cram101 Textbook Reviews
+1329	1	Khalid A./ Rasmussen Mughal
+1330	1	Tammy Lynn
+1331	1	Cq Products (COR)
+1332	1	Akira/ Toriyama Toriyama
+1333	1	Robert W. Strayer
+1334	1	Sandra Boynton
+1335	1	Cram101 Textbook Reviews
+1336	1	Gooseberry Patch (COR)
+1337	1	Hammond (COR)
+1338	1	Bret Michaels
+1339	1	Kelly Easton
+1340	1	Rius
+1341	1	Carol/ Miller Berkin
+1342	1	Mithridade Davarpanah
+1343	1	Linda H. Gorman
+1344	1	Nivaldo J. Tro
+1345	1	Andrew Keen
+1346	1	M. Gigi Durham
+1347	0	<NULL>
+1348	1	Kaoru Mori
+1349	1	Foundation for Inner Peace (COR)
+1350	0	<NULL>
+1351	1	Shirley O./ Bock Hockett
+1352	2	Neil Matthew	Richard Stones
+1353	1	Heather J. Cuthbertson
+1354	1	Rob Thompson
+1355	1	Arlette (TRN) De Alba
+1356	1	Question Guys
+1357	1	Wendy/ Jestico Denham
+1358	0	<NULL>
+1359	1	Mario F. Triola
+1360	1	Donald E. Thrall
+1361	1	K. Elayn Martin-Gay
+1362	1	Michael Sullivan
+1363	1	Julius Lester
+1364	1	Leland (EDT)/ Ryken Ryken
+1365	1	Richard Kirchmeyer
+1366	1	Louis F. Benson
+1367	1	Shelley/ Ferrett Gaskin
+1368	1	Francine Pappadis Friedman
+1369	1	Jonathan Walford
+1370	1	Reasearch & Education Association
+1371	1	Chelsea Handler
+1372	1	C. S. Lewis
+1373	1	Christian/ King Bauer
+1374	1	5th Edition Myers and Hansen
+1375	1	Ross L. (EDT)/ Demana Finney
+1376	1	Stephenie/ Kadushin Meyer
+1377	1	David Foster Wallace
+1378	2	Abdul K. Abbas	Andrew H. Lichtman
+1379	3	John Baynes	John W. Baynes	Marek H. Dominiczak
+1380	1	Douglas J. Soccio
+1381	1	Howard Weiss
+1382	1	Wedding Magazine (COR)
+1383	1	Kelley Blue Book
+1384	1	Martin Stevens
+1385	0	<NULL>
+1386	1	J. C./ Hotek Mackin
+1387	1	Eugene D./ Long Frank
+1388	1	Mary Packard
+1389	1	Audrey J. Berman
+1390	3	Robert Jurmain	Lynn Kilgore	Wenda Trevathan
+1391	1	Lawrence R. Goodman
+1392	1	William T. Segui
+1393	0	<NULL>
+1394	1	C3 Entertainment Inc
+1395	1	George Foreman
+1396	1	Susan Carol McCarthy
+1397	1	William R. Martini
+1398	1	W. Stanley Jevons
+1399	1	Tom Reichert
+1400	1	Gregory/ Maguire Maguire
+1401	1	Henry/ Townsend Cloud
+1402	1	Leung Ling Pong
+1403	1	Kerry (EDT)/ Grenny Patterson
+1404	1	Joyce Eisenberg
+1405	1	Ian Hickman
+1406	1	Weight Watchers International (EDT)
+1407	1	W. R. Morris
+1408	1	Trent C. (EDT) Butler
+1409	1	Eleanor Burns
+1410	1	Christopher Paul/ Burton Curtis
+1411	0	<NULL>
+1412	1	Ranjit Rai
+1413	1	Philip B. Crosby
+1414	1	John D. Roche
+1415	1	Rainer Maria Rilke
+1416	1	Candida Fernandez (EDT)/ Sarmiento De Calderon
+1417	1	Edward J./ Pinzke Tarbuck
+1418	1	Jean-Paul/ Valette Valette
+1419	1	Rhonda/ Parkinson Lauret Parkinson
+1420	1	Brian/ Bisley Bolland
+1421	1	Denny Hatch
+1422	1	George
+1423	1	Erik Larson
+1424	2	Sid Steiner	Jim Pomerantz
+1425	1	James Grace
+1426	0	<NULL>
+1427	1	Michael Morlan
+1428	1	Lisa Yee
+1429	1	Joel Fuhrman
+1430	1	Not Available (NA)
+1431	1	Berchie Glencoe/McGraw-Hill/ Holliday
+1432	1	Nicole Young
+1433	2	Jeff Imbach	Henri J. M. Nouwen
+1434	1	E. Richard/ Churchill Churchill
+1435	1	Dianne Draze
+1436	1	Virginia B./ Morris Morris
+1437	1	Mary Ann/ McKinney Hogan
+1438	1	Susie Hodge
+1439	1	Marvin L./ Brand Bittinger
+1440	1	McGraw-Hill
+1441	1	Melody
+1442	1	Jerry Baker
+1443	1	Audrey/ Wood Wood
+1444	1	Manning Publications
+1445	1	David R. Jeffries
+1446	1	Melanie/ Griego Gerth
+1447	1	Noam/ Macedo Chomsky
+1448	1	Not Available (NA)
+1449	1	Chilton Book Company/ Seloc
+1450	1	Keith/ Johnson Faulkner
+1451	1	Karen Hesse
+1452	1	David D. Burns
+1453	1	John P. (EDT)/ Coriden Beal
+1454	1	Jeph/ Sale Loeb
+1455	1	Suzy/ Remkiewicz Kline
+1456	1	Tom Tierney
+1457	1	Friedrich/ Ott Friedl
+1458	1	Ray Bondorew
+1459	1	Mamie Webb Hixon
+1460	0	<NULL>
+1461	0	<NULL>
+1462	1	Ralph Ellison
+1463	1	Bill/ Carle Martin
+1464	1	Watchman Nee
+1465	1	Chilton Book Company (EDT)
+1466	1	Sascha Segan
+1467	1	Marcia Sparkles Brown
+1468	1	Health Publica Icon Health Publications
+1469	1	Not Available (NA)
+1470	1	Alan Weiss
+1471	1	Michael H. Granof
+1472	1	Lee Hammond
+1473	1	Henry Ferguson
+1474	1	Gregory Maguire
+1475	2	Aspan	American Society of Post Anesthesia Nurs
+1476	2	Nims	Debra Nims
+1477	2	Mitchell Wing	Jacek F. Gieras
+1478	1	Sean Flynn
+1479	1	William H. Gregory
+1480	1	Marion F. Gooding
+1481	1	Thelma/ Clifford Harms
+1482	1	Gaurav Mangla
+1483	0	<NULL>
+1484	1	Rick/ Rivera King
+1485	1	Mike/ Penders Gallagher
+1486	1	Facts & Comparisons (COR)
+1487	1	Robert J./ Widmaier Brooker
+1488	1	Aguilar (COR)
+1489	1	Kathleen Stassen Berger
+1490	1	Joseph/ Baker Losco
+1491	1	Inc. (COR) Dorling Kindersley
+1492	1	Penelope J. E./ Denny Davies
+1493	1	W. James Popham
+1494	1	Bill McKibben
+1495	1	Princeton Review (COR)
+1496	1	Arlene Gorey
+1497	1	Prof M. M. Ninan
+1498	1	Hal Leonard Publishing Corporation (COR)
+1499	2	Kim/ Vacarra Baer	Kim Baer
+1500	1	Pamela J. Sharpe
+1501	1	Chohei/ Nadelman Kambayashi
+1502	1	Angie Boothroyd
+1503	1	Valentina Alazraki
+1504	1	Warhol Foundation (COR)
+1505	1	Cam/ Baur Banks
+1506	1	Elizabeth/ Bello Siegel
+1507	1	Denise Austin
+1508	1	Selene/ Prevention (COR) Yeager
+1509	1	Elizabeth Cruce (EDT)/ Plocheck Alvarez
+1510	1	Sonia Borg
+1511	1	Matthew Woodring/ Vardeman Stover
+1512	1	Mecca Lamacio Medina
+1513	1	Greg (CON)/ Thomas Green
+1514	1	Steve/ Economides Economides
+1515	1	Dwayne Ridgaway
+1516	1	Stephenie Meyer
+1517	1	Jeffrey Leever
+1518	1	Suzanne Somers
+1519	1	Kentaro Miura
+1520	1	Dona Herweck Rice
+1521	1	Not Available (NA)
+1522	1	Charles Kipps
+1523	1	Life Magazine (COR)
+1524	1	Randy Leffingwell
+1525	1	Francisco J./ Culinary Institute of America (COR)/ Fink Migoya
+1526	1	Darwin Porter
+1527	1	Kimberly (CON)/ Lambert Kotary
+1528	1	Amar Acheraiou
+1529	1	Karen Wilken/ Tietz Braun
+1530	1	Kathie (EDT) Burton
+1531	1	Mike Byrnes
+1532	2	Todd (PHT)/ Arfin Selby	Todd Selby
+1533	1	Sahar T. Rad
+1534	1	Tim Donaghy
+1535	1	Akira Toriyama
+1536	1	Joe L. Hamilton
+1537	1	Duncan Campbell Scott
+1538	1	Richard/ Schwalb Baker
+1539	1	Jon Clinch
+1540	1	Michael/ Fox Langford
+1541	1	Not Available (NA)
+1542	1	Nicholas Jane Leider
+1543	1	Cath Kidston
+1544	1	John Hagee
+1545	1	Annie Proulx
+1546	1	William/ Mowat Shakespeare
+1547	1	Friedrich Wilhelm/ Common Nietzsche
+1548	1	Leisha Kelly
+1549	1	Kyojiro Hata
+1550	1	not availalble (NA)
+1551	1	Jane Tenorio-Coscarelli
+1552	1	Kerry Skinner
+1553	1	Tom/ Kaline Keegan
+1554	1	Rob/ Hind Aalders
+1555	1	Nancy C./ Jordan Ralston
+1556	1	Mark L./ Prophet Prophet
+1557	1	William Ayers
+1558	1	Brian Boyd
+1559	1	William/ Braungart McDonough
+1560	1	Mas Yendo
+1561	1	S. E. Hinton
+1562	1	Rosalia Valdes Julian
+1563	1	John Cleland
+1564	1	David Barbasso
+1565	1	Daniel Rifenburgh
+1566	1	Scott S. Pribyl
+1567	1	Thomas (EDT) Kinkade
+1568	1	Doris Johns Winkles
+1569	1	Douglas C. Giancoli
+1570	1	Eleanora Russo Scarpetta
+1571	1	John (ILT)/ Tremblay Cook's Illustrated Magazine (EDT)/ Burgoyne
+1572	1	Lewis K. Parker
+1573	1	Faith Kids (EDT)
+1574	2	Sonia Weiss	Alan M. Engler
+1575	1	Edward J. Carnot
+1576	1	Liz Palika
+1577	1	Michael Snow
+1578	1	American Cancer Society
+1579	1	Janice VanCleave
+1580	1	Roxann/ Bechtel Kriete
+1581	1	Alan (EDT) Ahlstrand
+1582	1	M. H. (TRN) Shakir
+1583	1	A. Ralph Epperson
+1584	1	Southern Living
+1585	1	J. Chisholm
+1586	1	Kathlyn L. Reed
+1587	1	Norah T. Hunter
+1588	1	Nancy E./ Lovelace Furlong
+1589	1	Neal Stephenson
+1590	0	<NULL>
+1591	1	Barbara/ Sanger Grotkamp-Schepers
+1592	1	Pam Munoz Ryan
+1593	1	Susan Meddaugh
+1594	1	Gene Krupa
+1595	1	Ronald (EDT) Herder
+1596	1	David D. Burns
+1597	1	Hal Leonard Publishing Corporation
+1598	1	Patrick/ Coverdale Chamoiseau
+1599	1	H. G. Wells
+1600	1	A. J. (EDT) Russell
+1601	1	Keith/ Patrick Olbermann
+1602	1	Sue Linker
+1603	1	Joel Rothman
+1604	1	Justo L. Gonzalez
+1605	1	Bruce Alberts
+1606	1	Steve Alterman
+1607	3	Sharon Mantik Lewis	Margaret McLean Heitkemper	Shannon Ruff Dirksen
+1608	1	John Egan
+1609	1	Christina Georgina Rossetti
+1610	0	<NULL>
+1611	1	Malcolm X
+1612	1	Barack Obama
+1613	2	Robert V. Kail	John C. Cavanaugh
+1614	1	Greg/ Peligro Thompson
+1615	1	Marcia L. (EDT)/ Ladewig London
+1616	1	William Scott (TRN) Zeami/ Wilson
+1617	1	Ben Forta
+1618	1	Linda A. LaCharity
+1619	0	<NULL>
+1620	3	Gerald C. Ubben	Larry W. Hughes	Cynthia J. Norris
+1621	1	Peter/ Moore David
+1622	1	Kazuhisa/ Lane Fujie
+1623	1	Kaplan
+1624	1	Lisa Westlake
+1625	1	Michael Pugliese
+1626	2	Susan J. Beebe	Steven A. Beebe
+1627	1	Erwin Chemerinsky
+1628	1	Kathleen E. Miller
+1629	1	Meghan O'Brien
+1630	1	Spiros (EDT)/ Baker Zodhiates
+1631	1	Kaplan
+1632	0	<NULL>
+1633	1	Seth Riggs
+1634	1	Judith McNaught
+1635	2	Kristina Harris	Kristina Seleshanko
+1636	1	Leslie Oren
+1637	1	Carol/ Sunset Books Spier
+1638	1	Dr Randall Maynard
+1639	1	Sean Engard
+1640	1	Timothy/ Porter Ferris
+1641	1	Linda Kennedy
+1642	1	Roland Sweet
+1643	1	Roger Priddy
+1644	2	Neil A. Galin	Amy Peppler
+1645	1	Margaret L./ Hornsby Lial
+1646	1	James Peterson
+1647	1	Ed Bott
+1648	1	Katie Funk Wiebe
+1649	1	Robert/ Rees Harris
+1650	1	Culinary Institute of America (EDT)
+1651	1	Jessica Sitomer
+1652	1	Stanley B./ Hirt Block
+1653	1	Mebane T./ Richardson Faber
+1654	1	Lorena Siminovich
+1655	2	Pimsleur (COR)	Pimsleur
+1656	1	Kevin/ Cooper Ryan
+1657	1	Robert/ Adlard Kirkman
+1658	1	Jon Rogawski
+1659	1	Not Available (NA)
+1660	1	Amy E./ Brogan Breguet
+1661	1	Samuel J. Armijos
+1662	1	Disney Pixar (CRT)
+1663	1	Robert Ph. D. Titzer
+1664	1	DK Publishing
+1665	1	Omar Bradley
+1666	1	D. Stanley/ Zinn Eitzen
+1667	2	Brown &. Dolciani &. Sorgenfrey &. Cole	Cram 101
+1668	1	Moleskine (COR)
+1669	1	Dominic O'Kane
+1670	1	Patti Brady
+1671	1	Angelo/ Kreitner Kinicki
+1672	1	Mike Lupica
+1673	1	Carl S./ Reeve Warren
+1674	1	Silver Dolphin En Espanol (EDT)
+1675	1	Arthur Schaub
+1676	1	Kathy (PHT) Holstad
+1677	1	Ian K. Smith
+1678	1	Victor (EDT)/ Pellerito Gorelick
+1679	1	Wizards Miniatures Team
+1680	1	G. Tyler Miller
+1681	1	Joyce Lefever/ Hayes Kee
+1682	1	Joyce Lefever/ Hayes Kee
+1683	1	Barbara R. Blackburn
+1684	1	American College of Physicians (EDT)
+1685	1	Elizabeth Harrison
+1686	1	Alan Robertson
+1687	1	Dave/ Goulding Zinczenko
+1688	1	James L. Swanson
+1689	1	Theresa Pulido
+1690	1	Scott Tribble
+1691	1	Cliff/ Wentland Rovelto
+1692	0	<NULL>
+1693	1	Dan Gutman
+1694	1	Dan Rahmel
+1695	1	Brad/ Lee Mick
+1696	1	Inc. Fodor's Travel Publications
+1697	1	Takehiko/ Inoue Inoue
+1698	1	Michael Essany
+1699	1	Martin M./ Norton Antony
+1700	1	Ewout W. Steyerberg
+1701	1	Joel McNamara
+1702	1	N. Gregory Mankiw
+1703	1	Sylvia/ Bulseco Weinstock
+1704	1	Hal Leonard Publishing Corporation (COR)
+1705	1	Jane Seymour
+1706	3	Alton Biggs	Lucy Daniel	Ralph M. Feather
+1707	1	Laurell K./ Merlington Hamilton
+1708	1	Yuki Urushibara
+1709	1	Greg/ Lark Rucka
+1710	1	Tom Wolfe
+1711	1	Various
+1712	1	Lisi (CRT) Harrison
+1713	1	George Omura
+1714	1	Michael Kimmel
+1715	1	L. J. Smith
+1716	1	Laura T. Behrendt
+1717	1	Grey/ Larison Larison
+1718	1	David (NRT) Heath
+1719	1	John P. Mullhall
+1720	1	Annie/ Blackall Barrows
+1721	1	Roger/ Stern Price
+1722	1	Eric Carle
+1723	1	Southern Living Magazine
+1724	1	International Association of Fire Chiefs (COR)
+1725	2	Charles Caldwell Ryrie	Charles Ryrie
+1726	1	Steve Bucci
+1727	1	Craig Groeschel
+1728	1	Laura Mars-Proietti
+1729	1	Thomas L./ Crandell Crandell
+1730	1	Avishai Sadan
+1731	1	Living Language (EDT)
+1732	1	Bouvier Servillas
+1733	1	Christopher Paolini
+1734	1	Pat (EDT)/ Harris Embry
+1735	1	Mary (EDT) Miller
+1736	1	Ann (EDT)/ Mcmahon Ehrlich
+1737	1	Rebecca
+1738	1	Peter/ Barisani Herzog
+1739	1	Herbert/ Mansson Poller
+1740	1	Alan Williams
+1741	1	Susan E./ Schuler Jackson
+1742	1	Anonymous
+1743	1	Andy/ McCulloh Harris
+1744	1	Irvin B. Tucker
+1745	1	Marilynn E./ Moorhouse Doenges
+1746	1	Globetrotter
+1747	1	Junzo Terada
+1748	1	Roseanne/ Lin Thong
+1749	1	James Kavanagh
+1750	1	Florence Temko
+1751	1	Not Available (NA)
+1752	1	L. Ron/ Sherr Hubbard
+1753	1	Christopher/ Anestis Black
+1754	1	Norman McKinnel
+1755	1	Off Base Productions
+1756	1	Gary Mak
+1757	1	Sarah Jane/ Beilenson Bryan
+1758	1	Kaplan (COR)
+1759	1	Antony/ Templesmith Johnston
+1760	1	Billie Ann Wilson
+1761	1	David Allen Sibley
+1762	1	Thomas L. Floyd
+1763	1	Garth Stein
+1764	1	James Beckett
+1765	1	Jake/ Jacobsen Colsen
+1766	1	Patricia Dwyer Schull
+1767	1	James/ Paetro Patterson
+1768	1	Mary Ellen/ Loewy Guffey
+1769	1	Kevin T./ Thibodeau Patton
+1770	1	Suki Falconberg
+1771	2	Stuart J. Smith	Olga Maslova
+1772	1	Mari Schuh
+1773	1	David M. Beazley
+1774	1	Evan Perry
+1775	1	Tilly Bagshawe
+1776	1	Paul Foglino
+1777	1	Geoff/ Robinson Martz
+1778	1	James Whitehead
+1779	1	Jon Krakauer
+1780	1	World Service Office (COR)
+1781	1	James J. Paxson
+1782	1	Epls
+1783	1	Jack Hungelmann
+1784	1	Richard A. Lehne
+1785	1	F. Charles Brunicardi
+1786	1	Karen Banfield
+1787	1	Daniel/ Farrell Coyle
+1788	1	Jeannine Stein
+1789	1	Eugene D. Genovese
+1790	1	Ingird Emerick
+1791	1	Danielle/ Foster Steel
+1792	1	Rachel/ Bradley Appleby
+1793	1	Jim Collins
+1794	1	Carol Alexander
+1795	1	Pema Chodron
+1796	1	Johann Friedrich Starck
+1797	1	Druanna Johnston
+1798	1	Karen (EDT) Barnaby
+1799	2	So-Wol Kim	Kim MC
+1800	1	Diana Weynand
+1801	1	Janet Belsky
+1802	1	Jerry H./ Ziegler Bentley
+1803	1	Tim Clifford
+1804	1	Mario/ O'Leary Beauregard
+1805	1	Andrews McMeel Publishing
+1806	1	R. C. Hibbeler
+1807	1	Richard C./ Bishop Dorf
+1808	1	Gene Barretta
+1809	1	German Bible Society
+1810	1	Richard Lovett
+1811	1	Andrea A./ Ruszkiewicz Lunsford
+1812	1	Consumer Dummies
+1813	1	Matt/ Mcqueen Stone
+1814	1	The United States Army
+1815	1	Geoffrey Cocks
+1816	1	Gregg Avedon
+1817	1	Ezra (EDT) Dementia (CRT)/ Mark
+1818	1	Jerry J./ Kimmel Weygandt
+1819	1	Neil D. Jespersen
+1820	1	Ellyn Daugherty
+1821	1	Ann Hogue
+1822	1	Jeffrey H. Gitomer
+1823	1	Not Available (NA)
+1824	1	Mark Dutton
+1825	1	Clifford F./ Larson Gray
+1826	3	O. C. Ferrell	Geoffrey A. Hirt	Linda Ferrell
+1827	1	Terry Goodkind
+1828	1	Elsie Lathrop
+1829	1	Nancy L. Caroline
+1830	1	John Sharp
+1831	1	Noel F. Busch
+1832	1	Robert T. Cochran
+1833	1	Marilyn/ Binkley Stokstad
+1834	1	Jay/ Brennan Withgott
+1835	1	Edward Hall
+1836	3	Willard Palmer	Morton Manus	Amanda Lethco
+1837	1	Kenneth R./ Levine Miller
+1838	1	Noah/ Vitale St. John
+1839	1	Malathi Michelle/ Wanardi Iyengar
+1840	1	Judith S. Heelan
+1841	1	Janet Burleson
+1842	1	Joan Casteel
+1843	1	Davis Biton
+1844	1	Walt/ Breslin Kelly
+1845	1	Conrad/ Reichert Fischer
+1846	1	Peggy Palo/ Met Boyles
+1847	1	Nick Foulkes
+1848	1	Reiko Yoshihara
+1849	1	R. A. Salvatore
+1850	1	Mike (EDT) Pellerito
+1851	1	Bill McCann
+1852	1	Scott/ Kloskowski Kelby
+1853	1	Chris Meyer
+1854	1	Pimsleur
+1855	1	Carol R. Taylor
+1856	1	Adobe Systems (COR)
+1857	1	Kaplan
+1858	2	Gienapp Heyrman Lytle &. Sto Davidson	Cram 101
+1859	1	Kevin/ Vaughan Feldman
+1860	1	Janet Burroway
+1861	1	Nancy L./ Rabins Mace
+1862	1	David (EDT)/ Arterburn Stoop
+1863	0	<NULL>
+1864	1	Dan/ Wong Manalang
+1865	1	Penny/ Gray Warner
+1866	1	Jonathan Mackinney
+1867	1	Marc Spitz
+1868	1	Jeffrey P. Kaplan
+1869	1	Peter Reinhart
+1870	3	James Stewart	Lothar Redlin	Saleem Watson
+1871	1	John Kearney
+1872	1	Robert W. Maxwell
+1873	1	Elisabeth Edwards
+1874	1	Charles F. (EDT) Stanley
+1875	0	<NULL>
+1876	0	<NULL>
+1877	1	Jo Ford
+1878	1	Joseph W. Glannon
+1879	1	Frank Owen
+1880	2	Herbert G. Heneman III	Timothy A. Judge
+1881	1	Suzy/ Abidin Giordano
+1882	1	Not Available (NA)
+1883	1	Henri/ Castelnau Charriere
+1884	1	Frank Conforti
+1885	1	Stefanie Wilder-Taylor
+1886	1	Joe Stahlkuppe
+1887	1	Jeanne (EDT) Huber
+1888	2	Darwin Porter	Danforth Prince
+1889	1	Kurt Finsterbusch
+1890	1	Warren Reiten
+1891	1	Eugene H. (EDT) Peterson
+1892	1	Prima Temp Authors
+1893	1	Graham Faiella
+1894	1	David M. Kennedy
+1895	2	Rice Broocks	Steve Murrell
+1896	1	P. K. Hallinan
+1897	1	Lawrence S./ Holme Brown
+1898	1	Twin Sisters Productions (CRT)
+1899	1	J. D. Robb
+1900	1	Not Available (NA)
+1901	1	Mike/ Haynes Stubblefield
+1902	2	Colleen Belk	Virginia Borden
+1903	1	Kevin R./ Stetz Callahan
+1904	1	Charles P. McKeague
+1905	1	Mental Floss (COR)
+1906	1	Mercer (ILT)/ Carson-dellosa Publishing (COR) Mayer
+1907	1	J. Michael Augustyniak
+1908	1	Benjamin J. Sadock
+1909	1	King James I.
+1910	1	Brooks/Cole
+1911	1	William E. Prentice
+1912	1	Sandra (EDT) Toland
+1913	1	Rod R./ Stephens Seeley
+1914	1	Lois Fichner-Rathus
+1915	1	Renee Schwarz
+1916	1	Ferm Armendia Castro
+1917	1	Helene Schoumann
+1918	1	Bradygames
+1919	1	Karen/ Mogg Karter
+1920	1	Dee Unglaub Silverthorn
+1921	1	Randi Minetor
+1922	1	Jane Dickinson
+1923	1	Ben Carson
+1924	1	John Steventon
+1925	1	Linda E. McCuistion
+1926	1	E. D. Frazier
+1927	1	David Doyle
+1928	1	Emilio Saenzo Olivares
+1929	1	Randall C. Jimenez
+1930	1	Pamela Sharpe
+1931	1	John
+1932	1	Gilberto Gutierrez Lucero
+1933	1	Frank (ILT)/ Williams Cho
+1934	1	Kalman Barsy
+1935	1	Michael D. Iseman
+1936	1	William G. Cunningham
+1937	1	Matthew J. Deluca
+1938	1	S. E. Hinton
+1939	1	Thomas S. Kuhn
+1940	1	Janet Stevens
+1941	1	Marion E./ Potts Morra
+1942	1	Vincent/ Gentry Bugliosi
+1943	1	Henry/ Townsend Cloud
+1944	1	Anne Kent Rush
+1945	1	Renate Sperling
+1946	1	Donald (EDT) Attwater
+1947	1	Rioletta/ Falcato Sabo
+1948	0	<NULL>
+1949	1	William/ Blotner Faulkner
+1950	1	Louis/ Brinckloe Sachar
+1951	0	<NULL>
+1952	1	Francine/ Forrest Shapiro
+1953	1	Arthur Miller
+1954	1	Tom Flowers
+1955	1	Not Available (NA)
+1956	1	Aleister Crowley
+1957	0	<NULL>
+1958	1	Jean-Xavier/ Thomas Guinard
+1959	1	Kim/ Hartwig Lila
+1960	1	V. Gilbert Beers
+1961	1	Takashi Fujitani
+1962	1	Not Available (NA)
+1963	1	Jay Monaghan
+1964	1	Edward M./ Ratey Hallowell
+1965	1	Pat Pattison
+1966	1	Lillian E. Watson
+1967	1	Richard Rodriguez
+1968	1	Deborah/ May Hautzig
+1969	1	Abraham Verghese
+1970	1	Carol P. Christ
+1971	1	Eugene H./ Lyster Peterson
+1972	0	<NULL>
+1973	1	Wendell Berry
+1974	0	<NULL>
+1975	1	Kenneth H./ Johnson Blanchard
+1976	1	Gustavus Hindman Miller
+1977	1	Stan/ Buscema Lee
+1978	1	Joe Edley
+1979	0	<NULL>
+1980	1	Kay Redfield Jamison
+1981	1	David Denby
+1982	1	Erich Maria/ Wheen Remarque
+1983	1	William C. Byham
+1984	1	Keith/ Moseley Moseley
+1985	1	Lonnice Brittenum Bonner
+1986	1	William S. E. Coleman
+1987	1	Scott O'Dell
+1988	1	Laura Huliska-Beith
+1989	1	Jon Stone
+1990	1	Janice Ashcraft
+1991	0	<NULL>
+1992	1	Emma Nathan
+1993	1	Cory J. Herndon
+1994	1	Nicholas Harris
+1995	1	Rachel Ashwell
+1996	1	Thich Nhat Hanh
+1997	1	Eve Ensler
+1998	1	Hank E. O'Panky
+1999	1	Ngaire Genge

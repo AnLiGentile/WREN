@@ -1,0 +1,2002 @@
+﻿job	techcentric	location
+2000	2000	2000	401
+0000	1	United States, Georgia, Norcross
+0001	1	United States, Georgia, Atlanta
+0002	1	United States, Georgia, Atlanta
+0003	1	United States, Georgia, Atlanta
+0004	1	United States, Oregon, Beaverton
+0005	1	United States, Oregon, Portland
+0006	1	United States, Colorado, Denver
+0007	1	United States, Maryland, Windsor Mill
+0008	1	United States, Maine, Augusta
+0009	1	United States, Virginia, Dulles
+0010	1	United States, New Jersey, Warren
+0011	1	United States, New Jersey, Jersey City
+0012	1	United States, New York, New York
+0013	1	United States, New York, Buffalo
+0014	1	United States, New York, New York
+0015	1	United States, New York, New York
+0016	1	United States, New York, New York
+0017	1	United States, New York, New York
+0018	1	United States, New York, New York
+0019	1	United States, Tennessee, Memphis
+0020	1	United States, Maryland, California
+0021	1	United States, New York, Buffalo
+0022	1	United States, California, Concord
+0023	1	United States, New Jersey, Jersey City
+0024	1	United States, New Jersey, Jersey City
+0025	1	United States, New Jersey, Secaucus
+0026	1	United States, New Jersey, Jersey City
+0027	1	United States, New York, New York
+0028	1	United States, New York, New York
+0029	1	United States, New York, New York
+0030	1	United States, Virginia, McLean
+0031	1	United States, Virginia, Virginia Beach
+0032	1	United States, Maryland, Chevy Chase
+0033	1	United States, New York, New York
+0034	1	United States, New York, New York
+0035	1	United States, New York, New York
+0036	1	United States, New York, New York
+0037	1	United States, New York, New York
+0038	1	United States, New York, New York
+0039	1	United States, New York, New York
+0040	1	United States, New York, New York
+0041	1	United States, New York, New York
+0042	1	United States, New York, New York
+0043	1	United States, New York, New York
+0044	1	United States, Washington, Bellevue
+0045	1	United States, Washington, Redmond
+0046	1	United States, Wisconsin, Neenah
+0047	1	United States, Oregon, Portland
+0048	1	United States, Oregon, Portland
+0049	1	United States, New York, New York
+0050	1	United States, New York, New York
+0051	1	United States, New York, New York
+0052	1	United States, New York, New York
+0053	1	United States, New York, New York
+0054	1	United States, Illinois, Chicago
+0055	1	United States, Ohio, Cleveland
+0056	1	United States, District of Columbia, Washington
+0057	1	United States, California, San Francisco
+0058	1	United States, Georgia, Atlanta
+0059	1	United States, Virginia, Richmond
+0060	1	United States, Oregon, Portland
+0061	1	United States, Wisconsin, Milwaukee
+0062	1	United States, Washington, Redmond
+0063	1	United States, Georgia, Atlanta
+0064	1	United States, New York, Syracuse
+0065	1	United States, Georgia, Alpharetta
+0066	1	United States, Georgia, Atlanta
+0067	1	United States, Arizona, Chandler
+0068	1	United States, Georgia, Roswell
+0069	1	United States, Missouri, Saint Louis
+0070	1	United States, Kansas, Shawnee Mission
+0071	1	United States, Michigan, Detroit
+0072	1	United States, Oregon, Portland
+0073	1	United States, Minnesota, Minnetonka
+0074	1	United States, California, North Hollywood
+0075	1	United States, Arizona, Phoenix
+0076	1	United States, Maryland, Baltimore
+0077	1	United States, Oregon, Portland
+0078	1	United States, New York, New York
+0079	1	United States, Virginia, Herndon
+0080	1	United States, New Jersey, Princeton
+0081	1	United States, California, Woodland Hills
+0082	1	United States, Alabama, Birmingham
+0083	1	United States, California, Manhattan Beach
+0084	1	United States, California, Cypress
+0085	1	United States, California, Tustin
+0086	1	United States, California, San Francisco
+0087	1	United States, Connecticut, Stamford
+0088	1	United States, Washington, Redmond
+0089	1	United States, Virginia, Ashburn
+0090	1	United States, Ohio, Richfield
+0091	1	United States, California, Santa Barbara
+0092	1	United States, Minnesota, Eden Prairie
+0093	1	United States, Oregon, Portland
+0094	1	United States, Oklahoma, Hallett
+0095	1	United States, Kentucky, Lexington
+0096	1	United States, Illinois, Chicago
+0097	1	United States, Maryland, Germantown
+0098	1	United States, Maryland, Gwynn Oak
+0099	1	United States, Maine, Falmouth
+0100	1	United States, Michigan, Ann Arbor
+0101	1	United States, New York, Syracuse
+0102	1	United States, Ohio, Cincinnati
+0103	1	United States, Ohio, Cincinnati
+0104	1	United States, Minnesota, Minneapolis
+0105	1	United States, Washington, Redmond
+0106	1	United States, Florida, Jacksonville
+0107	1	United States, California, Pleasanton
+0108	1	United States, California, Brisbane
+0109	1	United States, Texas, San Antonio
+0110	1	United States, Texas, Austin
+0111	1	United States, Texas, Irving
+0112	1	United States, Texas, Austin
+0113	1	United States, Texas, Fort Worth
+0114	1	United States, Texas, Houston
+0115	1	United States, Texas, Dallas
+0116	1	United States, North Carolina, Charlotte
+0117	1	United States, Washington, Bellevue
+0118	1	United States, Washington, Bellevue
+0119	1	United States, Massachusetts, Natick
+0120	1	United States, Maryland, Rockville
+0121	1	United States, Ohio, Cincinnati
+0122	1	United States, Ohio, Cleveland
+0123	1	United States, Illinois, Chicago
+0124	1	United States, California, San Francisco
+0125	1	United States, California, San Jose
+0126	1	United States, California, Mountain View
+0127	1	United States, California, Sunnyvale
+0128	1	United States, California, Pasadena
+0129	1	United States, Texas, Fort Worth
+0130	1	United States, Texas, Fort Worth
+0131	1	United States, Nevada, Reno
+0132	1	United States, Colorado, Boulder
+0133	1	United States, Georgia, Alpharetta
+0134	1	United States, Georgia, Atlanta
+0135	1	United States, Virginia, Chesapeake
+0136	1	United States, Virginia, Richmond
+0137	1	United States, Virginia, McLean
+0138	1	United States, Ohio, Columbus
+0139	1	United States, Illinois, Oak Brook
+0140	1	United States, Massachusetts, Boston
+0141	1	United States, Maryland, Towson
+0142	1	United States, Maryland, Chevy Chase
+0143	1	United States, Maryland, Chevy Chase
+0144	1	United States, New York, Hopewell Junction
+0145	1	United States, Illinois, Oak Brook
+0146	1	United States, Illinois, Naperville
+0147	1	United States, Illinois, Oak Brook
+0148	1	United States, Illinois, Downers Grove
+0149	1	United States, Illinois, Chicago
+0150	1	United States, Kansas, Mission
+0151	1	United States, Kentucky, Louisville
+0152	1	United States, Florida, West Palm Beach
+0153	1	United States, Florida, Orlando
+0154	1	United States, Colorado, Boulder
+0155	1	United States, District of Columbia, Washington
+0156	1	United States, Virginia, Vienna
+0157	1	United States, Washington, Redmond
+0158	1	United States, Pennsylvania, Harrisburg
+0159	1	United States, Minnesota, Minneapolis
+0160	1	United States, New Jersey, Warren
+0161	1	United States, Texas, Plano
+0162	1	United States, Georgia, Atlanta
+0163	1	United States, Ohio, Columbus
+0164	1	United States, Maryland, Oxon Hill
+0165	1	United States, Maryland, Rockville
+0166	1	United States, Maryland, Lutherville Timoni
+0167	1	United States, District of Columbia, Washington
+0168	1	United States, Illinois, Oak Brook
+0169	1	United States, Illinois, Chicago
+0170	1	United States, Illinois, Chicago
+0171	1	United States, Illinois, Chicago
+0172	1	United States, Illinois, Oak Brook
+0173	1	United States, Illinois, Oak Brook
+0174	1	United States, Illinois, Chicago
+0175	1	United States, Florida, Hollywood
+0176	1	United States, Florida, Tampa
+0177	1	United States, Florida, Orlando
+0178	1	United States, California, Glendale
+0179	1	United States, California, Moorpark
+0180	1	United States, California, Moorpark
+0181	1	United States, New Jersey, Ridgefield Park
+0182	1	United States, New York, New York
+0183	1	United States, New Jersey, Warren
+0184	1	United States, New Jersey, Newark
+0185	1	United States, Michigan, Auburn Hills
+0186	1	United States, California, Burbank
+0187	1	United States, North Carolina, Charlotte
+0188	1	United States, Georgia, Atlanta
+0189	1	United States, Rhode Island, Providence
+0190	1	United States, California, Moorpark
+0191	1	United States, New York, New York
+0192	1	United States, Texas, Irving
+0193	1	United States, Texas, Plano
+0194	1	United States, Oregon, Portland
+0195	1	United States, Ohio, Dayton
+0196	1	United States, Wisconsin, Milwaukee
+0197	1	United States, Texas, Plano
+0198	1	United States, California, Universal City
+0199	1	United States, California, Sunnyvale
+0200	1	United States, California, Sunnyvale
+0201	1	United States, California, San Francisco
+0202	1	United States, District of Columbia, Washington
+0203	1	United States, New York, New York
+0204	1	United States, Washington, Redmond
+0205	1	United States, Oregon, Portland
+0206	1	United States, Washington, Redmond
+0207	1	United States, Washington, Seattle
+0208	1	United States, Washington, Redmond
+0209	1	United States, Oregon, Portland
+0210	1	United States, Oregon, Portland
+0211	1	United States, Pennsylvania, Philadelphia
+0212	1	United States, Florida, Kissimmee
+0213	1	United States, Florida, Tampa
+0214	1	United States, North Carolina, Cary
+0215	1	United States, Ohio, Canton
+0216	1	United States, California, Santa Ana
+0217	1	United States, California, Sunnyvale
+0218	1	United States, Georgia, Atlanta
+0219	1	United States, Oregon, Portland
+0220	1	United States, Oregon, Portland
+0221	1	United States, New Jersey, Jersey City
+0222	1	United States, Oregon, Portland
+0223	1	United States, Oregon, Medford
+0224	1	United States, Oregon, Portland
+0225	1	United States, Illinois, Morton Grove
+0226	1	United States, Washington, Seattle
+0227	1	United States, Louisiana, New Orleans
+0228	1	United States, New Jersey, Trenton
+0229	1	United States, Georgia, Duluth
+0230	1	United States, North Carolina, Charlotte
+0231	1	United States, North Carolina, Charlotte
+0232	1	United States, New Jersey, Newark
+0233	1	United States, California, Pleasanton
+0234	1	United States, Ohio, Cincinnati
+0235	1	United States, Ohio, Cincinnati
+0236	1	United States, Ohio, Dayton
+0237	1	United States, Connecticut, Norwalk
+0238	1	United States, Texas, Houston
+0239	1	United States, New Jersey, Trenton
+0240	1	United States, Georgia, Atlanta
+0241	1	United States, Georgia, Atlanta
+0242	1	United States, Georgia, Atlanta
+0243	1	United States, Georgia, Norcross
+0244	1	United States, Alabama, Birmingham
+0245	1	United States, Alabama, Birmingham
+0246	1	United States, Washington, Seattle
+0247	1	United States, North Carolina, Cary
+0248	1	United States, Georgia, Norcross
+0249	1	United States, Illinois, Chicago
+0250	1	United States, Connecticut, Hartford
+0251	1	United States, Virginia, Arlington
+0252	1	United States, Michigan, Detroit
+0253	1	United States, Georgia, Alpharetta
+0254	1	United States, California, Burbank
+0255	1	United States, New Jersey, Jersey City
+0256	1	United States, Washington, Redmond
+0257	1	United States, New York, New York
+0258	1	United States, Massachusetts, Cambridge
+0259	1	United States, Oregon, Portland
+0260	1	United States, New York, New York
+0261	1	United States, New Jersey, Princeton
+0262	1	United States, North Carolina, Charlotte
+0263	1	United States, North Carolina, Raleigh
+0264	1	United States, New York, New York
+0265	1	United States, New Jersey, Jersey City
+0266	1	United States, New Jersey, Warren
+0267	1	United States, New York, New York
+0268	1	United States, New Jersey, Jersey City
+0269	1	United States, New Jersey, Warren
+0270	1	United States, Florida, Florida
+0271	1	United States, Florida, Tampa
+0272	1	United States, Connecticut, Berlin
+0273	1	United States, Georgia, Alpharetta
+0274	1	United States, California, Mountain View
+0275	1	United States, Florida, Maitland
+0276	1	United States, Florida, Orlando
+0277	1	United States, Minnesota, Saint Paul
+0278	1	United States, Virginia, Vienna
+0279	1	United States, Virginia, Herndon
+0280	1	United States, Illinois, Chicago
+0281	1	United States, New York, New York
+0282	1	United States, New York, New York
+0283	1	United States, New York, New York
+0284	1	United States, Ohio, Cincinnati
+0285	1	United States, Washington, Seattle
+0286	1	United States, Washington, Redmond
+0287	1	United States, Michigan, Troy
+0288	1	United States, New York, New York
+0289	1	United States, Georgia, Atlanta
+0290	1	United States, North Carolina, Durham
+0291	1	United States, New York, New York
+0292	1	United States, New York, New York
+0293	1	United States, New York, New York
+0294	1	United States, Illinois, Chicago
+0295	1	United States, New York, New York
+0296	1	United States, New York, New York
+0297	1	United States, New York, New York
+0298	1	United States, Texas, Dallas
+0299	1	United States, Kentucky, Louisville
+0300	1	United States, Kentucky, Lexington
+0301	1	United States, Ohio, Columbus
+0302	1	United States, Georgia, Duluth
+0303	1	United States, Georgia, Alpharetta
+0304	1	United States, Texas, Coppell
+0305	1	United States, New Jersey, Jersey City
+0306	1	United States, Illinois, Chicago
+0307	1	United States, New Jersey, Lambertville
+0308	1	United States, Nebraska, Omaha
+0309	1	United States, Georgia, Alpharetta
+0310	1	United States, New Jersey, Jersey City
+0311	1	United States, New Jersey, Hopewell
+0312	1	United States, Texas, Dallas
+0313	1	United States, Georgia, Conyers
+0314	1	United States, Washington, Redmond
+0315	1	United States, Delaware, Wilmington
+0316	1	United States, Oregon, Hillsboro
+0317	1	United States, Maryland, Rockville
+0318	1	United States, North Carolina, Mebane
+0319	1	United States, Missouri, Saint Louis
+0320	1	United States, Alabama, Birmingham
+0321	1	United States, Texas, Houston
+0322	1	United States, South Carolina, Greenville
+0323	1	United States, Tennessee, Nashville
+0324	1	United States, California, Woodland Hills
+0325	1	United States, California, San Jose
+0326	1	United States, Oregon, Portland
+0327	1	United States, Maryland, Germantown
+0328	1	United States, Kentucky, Louisville
+0329	1	United States, Minnesota, Minneapolis
+0330	1	United States, California, Temecula
+0331	1	United States, Florida, Orlando
+0332	1	United States, Michigan, Auburn Hills
+0333	1	United States, New York, New York
+0334	1	United States, Louisiana, New Orleans
+0335	1	United States, Illinois, Chicago
+0336	1	United States, Florida, Melbourne
+0337	1	United States, Florida, Jacksonville
+0338	1	United States, Minnesota, Saint Paul
+0339	1	United States, Virginia, Ashburn
+0340	1	United States, Virginia, Norfolk
+0341	1	United States, Ohio, Columbus
+0342	1	United States, Ohio, Columbus
+0343	1	United States, Texas, Plano
+0344	1	United States, South Carolina, Columbia
+0345	1	United States, Arizona, Phoenix
+0346	1	United States, New Jersey, Jersey City
+0347	1	United States, Illinois, Chicago
+0348	1	United States, Washington, Vancouver
+0349	1	United States, Virginia, Richmond
+0350	1	United States, Oklahoma, Hallett
+0351	1	United States, Oregon, Portland
+0352	1	United States, Oregon, Beaverton
+0353	1	United States, Minnesota, Minneapolis
+0354	1	United States, Pennsylvania, Harrisburg
+0355	1	United States, Colorado, Denver
+0356	1	United States, Kansas, Olathe
+0357	1	United States, New York, Great Neck
+0358	1	United States, Illinois, Chicago
+0359	1	United States, Illinois, Oak Brook
+0360	1	United States, Kentucky, Lexington
+0361	1	United States, Kansas, Mission
+0362	1	United States, District of Columbia, Washington
+0363	1	United States, New York, New York
+0364	1	United States, New York, Orangeburg
+0365	1	United States, Ohio, Columbus
+0366	1	United States, Oregon, Portland
+0367	1	United States, Georgia, Atlanta
+0368	1	United States, California, Los Angeles
+0369	1	United States, California, Santa Monica
+0370	1	United States, Florida, Lake Mary
+0371	1	United States, Washington, Seattle
+0372	1	United States, Wisconsin, Neenah
+0373	1	United States, Ohio, Cincinnati
+0374	1	United States, New York, New York
+0375	1	United States, Virginia, Roanoke
+0376	1	United States, Wisconsin, Fort Atkinson
+0377	1	United States, New York, New York
+0378	1	United States, New York, New York
+0379	1	United States, Virginia, Reston
+0380	1	United States, Washington, Bellevue
+0381	1	United States, Texas, Houston
+0382	1	United States, Washington, Redmond
+0383	1	United States, Oregon, Portland
+0384	1	United States, Oregon, Portland
+0385	1	United States, Oregon, Portland
+0386	1	United States, Oregon, Portland
+0387	1	United States, New York, New York
+0388	1	United States, Illinois, Glenview
+0389	1	United States, Kentucky, Fort Knox
+0390	1	United States, Illinois, Chicago
+0391	1	United States, Illinois, Chicago
+0392	1	United States, Ohio, Cincinnati
+0393	1	United States, Washington, Bellevue
+0394	1	United States, New York, New York
+0395	1	United States, Virginia, Herndon
+0396	1	United States, Arizona, Scottsdale
+0397	1	United States, Arizona, Tempe
+0398	1	United States, Arkansas, Bentonville
+0399	1	United States, Georgia, Atlanta
+0400	1	United States, Georgia, Alpharetta
+0401	1	United States, Florida, Tampa
+0402	1	United States, Illinois, Chicago
+0403	1	United States, New Jersey, Ridgefield Park
+0404	1	United States, Massachusetts, Westwood
+0405	1	United States, Massachusetts, Cambridge
+0406	1	United States, New Jersey, Trenton
+0407	1	United States, North Carolina, Charlotte
+0408	1	United States, California, San Jose
+0409	1	United States, Arizona, Tempe
+0410	1	United States, New York, Albany
+0411	1	United States, Ohio, Cleveland
+0412	1	United States, New York, Great Neck
+0413	1	United States, Michigan, Detroit
+0414	1	United States, Michigan, Auburn Hills
+0415	1	United States, Texas, Dallas
+0416	1	United States, Washington, Redmond
+0417	1	United States, Ohio, Columbus
+0418	1	United States, Ohio, Canton
+0419	1	United States, Florida, Orlando
+0420	1	United States, California, Anaheim
+0421	1	United States, Delaware, Newark
+0422	1	United States, New York, New York
+0423	1	United States, Illinois, Chicago
+0424	1	United States, North Carolina, Raleigh
+0425	1	United States, Georgia, Atlanta
+0426	1	United States, Ohio, Columbus
+0427	1	United States, Michigan, Dearborn
+0428	1	United States, Pennsylvania, Pittsburgh
+0429	1	United States, Florida, Saint Petersburg
+0430	1	United States, Florida, Saint Petersburg
+0431	1	United States, Virginia, Vienna
+0432	1	United States, California, Burbank
+0433	1	United States, California, Oakland
+0434	1	United States, New Jersey, Readington
+0435	1	United States, New Jersey, Jersey City
+0436	1	United States, Connecticut, Greenwich
+0437	1	United States, Iowa, Waterloo
+0438	1	United States, Alabama, Birmingham
+0439	1	United States, Alabama, Huntsville
+0440	1	United States, New York, New York
+0441	1	United States, New York, Rochester
+0442	1	United States, Colorado, Englewood
+0443	1	United States, Illinois, Decatur
+0444	1	United States, Massachusetts, Waltham
+0445	1	United States, New York, New York
+0446	1	United States, Delaware, Newark
+0447	1	United States, District of Columbia, Washington
+0448	1	United States, Oregon, Portland
+0449	1	United States, Oregon, Portland
+0450	1	United States, Oregon, Portland
+0451	1	United States, Oregon, Portland
+0452	1	United States, Illinois, Chicago
+0453	1	United States, Georgia, Atlanta
+0454	1	United States, New York, New York
+0455	1	United States, Maryland, Chevy Chase
+0456	1	United States, Kentucky, Louisville
+0457	1	United States, District of Columbia, Washington
+0458	1	United States, Missouri, Kansas City
+0459	1	United States, Missouri, Saint Louis
+0460	1	United States, Georgia, Atlanta
+0461	1	United States, New York, Orangeburg
+0462	1	United States, Alabama, Birmingham
+0463	1	United States, Alaska, Juneau
+0464	1	United States, Arizona, Phoenix
+0465	1	United States, Arizona, Tucson
+0466	1	United States, Florida, Tampa
+0467	1	United States, Connecticut, Derby
+0468	1	United States, Georgia, Atlanta
+0469	1	United States, Georgia, Alpharetta
+0470	1	United States, Georgia, Marietta
+0471	1	United States, New Mexico, Albuquerque
+0472	1	United States, Nebraska, Omaha
+0473	1	United States, Texas, Dallas
+0474	1	United States, Texas, Houston
+0475	1	United States, Illinois, Chicago
+0476	1	United States, Utah, Salt Lake City
+0477	1	United States, California, Oakland
+0478	1	United States, California, San Francisco
+0479	1	United States, California, Anaheim
+0480	1	United States, California, Los Angeles
+0481	1	United States, Florida, Tampa
+0482	1	United States, Florida, Largo
+0483	1	United States, Florida, Miami
+0484	1	United States, Georgia, Atlanta
+0485	1	United States, Georgia, Atlanta
+0486	1	United States, Georgia, Calhoun
+0487	1	United States, Michigan, Dearborn
+0488	1	United States, Pennsylvania, Easton
+0489	1	United States, Pennsylvania, Harrisburg
+0490	1	United States, Florida, Jacksonville
+0491	1	United States, Florida, Tampa
+0492	1	United States, California, Los Angeles
+0493	1	United States, New York, Genoa
+0494	1	United States, Illinois, Lemont
+0495	1	United States, Kentucky, Louisville
+0496	1	United States, California, Hayward
+0497	1	United States, California, Anaheim
+0498	1	United States, California, Calabasas
+0499	1	United States, California, Irvine
+0500	1	United States, California, Pleasanton
+0501	1	United States, Nebraska, Kearney
+0502	1	United States, Georgia, Atlanta
+0503	1	United States, Georgia, Atlanta
+0504	1	United States, Illinois, Lake Zurich
+0505	1	United States, District of Columbia, Washington
+0506	1	United States, North Carolina, Charlotte
+0507	1	United States, North Carolina, Charlotte
+0508	1	United States, North Carolina, Charlotte
+0509	1	United States, Alabama, Birmingham
+0510	1	United States, New York, Syracuse
+0511	1	United States, New York, New York
+0512	1	United States, Virginia, Newport News
+0513	1	United States, Virginia, Richmond
+0514	1	United States, Washington, Redmond
+0515	1	United States, District of Columbia, Washington
+0516	1	United States, Maryland, Essex
+0517	1	United States, Maryland, Essex
+0518	1	United States, Maryland, Essex
+0519	1	United States, Indiana, Indianapolis
+0520	1	United States, Colorado, Greeley
+0521	1	United States, Missouri, Saint Louis
+0522	1	United States, New Jersey, Secaucus
+0523	1	United States, Alabama, Birmingham
+0524	1	United States, North Carolina, Charlotte
+0525	1	United States, North Carolina, Charlotte
+0526	1	United States, Missouri, Saint Louis
+0527	1	United States, Washington, Redmond
+0528	1	United States, Washington, Redmond
+0529	1	United States, Washington, Redmond
+0530	1	United States, Utah, Salt Lake City
+0531	1	United States, California, Sacramento
+0532	1	United States, Florida, Jacksonville
+0533	1	United States, Michigan, Farmington
+0534	1	United States, Pennsylvania, Easton
+0535	1	United States, Texas, San Antonio
+0536	1	United States, New Jersey, Livingston
+0537	1	United States, California, San Diego
+0538	1	United States, Florida, Orlando
+0539	1	United States, Florida, Miami
+0540	1	United States, Florida, Tampa
+0541	1	United States, Washington, Redmond
+0542	1	United States, Maryland, Owings Mills
+0543	1	United States, New York, New York
+0544	1	United States, Ohio, Loveland
+0545	1	United States, Georgia, Atlanta
+0546	1	United States, Georgia, Atlanta
+0547	1	United States, Georgia, Atlanta
+0548	1	United States, Georgia, Atlanta
+0549	1	United States, Georgia, Lawrenceville
+0550	1	United States, Georgia, Atlanta
+0551	1	United States, North Carolina, Fayetteville
+0552	1	United States, California, Oakland
+0553	1	United States, California, Pasadena
+0554	1	United States, Florida, Orlando
+0555	1	United States, Florida, Tampa
+0556	1	United States, Florida, Tampa
+0557	1	United States, Florida, Melbourne
+0558	1	United States, Pennsylvania, Pittsburgh
+0559	1	United States, Connecticut, Westport
+0560	1	United States, Virginia, Richmond
+0561	1	United States, California, San Jose
+0562	1	United States, California, Glendale
+0563	1	United States, Illinois, Decatur
+0564	1	United States, Texas, Temple
+0565	1	United States, Texas, Austin
+0566	1	United States, Texas, Irving
+0567	1	United States, North Carolina, Morrisville
+0568	1	United States, North Carolina, Charlotte
+0569	1	United States, Georgia, Norcross
+0570	1	United States, Washington, Redmond
+0571	1	United States, Washington, Seattle
+0572	1	United States, Texas, Houston
+0573	1	United States, Florida, Jacksonville
+0574	1	United States, Virginia, Arlington
+0575	1	United States, New York, New York
+0576	1	United States, New York, New York
+0577	1	United States, Kentucky, Louisville
+0578	1	United States, Illinois, Chicago
+0579	1	United States, California, Woodland Hills
+0580	1	United States, Connecticut, Stamford
+0581	1	United States, Connecticut, Greenwich
+0582	1	United States, Florida, Jacksonville
+0583	1	United States, North Carolina, Charlotte
+0584	1	United States, Texas, Plano
+0585	1	United States, Texas, Dallas
+0586	1	United States, California, Universal City
+0587	1	United States, Oregon, Beaverton
+0588	1	United States, Minnesota, Saint Paul
+0589	1	United States, Washington, Redmond
+0590	1	United States, Massachusetts, Natick
+0591	1	United States, California, Sunnyvale
+0592	1	United States, New Jersey, Florham Park
+0593	1	United States, Texas, Dallas
+0594	1	United States, Florida, Jacksonville
+0595	1	United States, Florida, Jacksonville
+0596	1	United States, Minnesota, Saint Paul
+0597	1	United States, New York, New York
+0598	1	United States, Florida, Melbourne
+0599	1	United States, New York, New York
+0600	1	United States, New York, Schenectady
+0601	1	United States, Virginia, Virginia Beach
+0602	1	United States, California, Manhattan Beach
+0603	1	United States, California, Redwood City
+0604	1	United States, North Carolina, Winston Salem
+0605	1	United States, Wisconsin, Menomonee Falls
+0606	1	United States, New York, New York
+0607	1	United States, New Jersey, Little Falls
+0608	1	United States, New Jersey, Oceanport
+0609	1	United States, North Carolina, Charlotte
+0610	1	United States, North Carolina, Raleigh
+0611	1	United States, North Carolina, Charlotte
+0612	1	United States, North Carolina, Charlotte
+0613	1	United States, North Carolina, Charlotte
+0614	1	United States, North Carolina, Charlotte
+0615	1	United States, Georgia, Atlanta
+0616	1	United States, Georgia, Duluth
+0617	1	United States, Georgia, Alpharetta
+0618	1	United States, Ohio, Cleveland
+0619	1	United States, Washington, Bellevue
+0620	1	United States, Washington, Redmond
+0621	1	United States, Washington, Redmond
+0622	1	United States, Florida, Tampa
+0623	1	United States, Florida, Tampa
+0624	1	United States, Virginia, Hampton
+0625	1	United States, Virginia, Richmond
+0626	1	United States, Virginia, Richmond
+0627	1	United States, New York, New York
+0628	1	United States, New York, New York
+0629	1	United States, New York, New York
+0630	1	United States, Florida, Tampa
+0631	1	United States, Florida, Orlando
+0632	1	United States, California, Carlsbad
+0633	1	United States, Indiana, Pendleton
+0634	1	United States, Indiana, Indianapolis
+0635	1	United States, Kentucky, Louisville
+0636	1	United States, Kentucky, Louisville
+0637	1	United States, Minnesota, Saint Paul
+0638	1	United States, Florida, Tampa
+0639	1	United States, Connecticut, Berlin
+0640	1	United States, Colorado, Arvada
+0641	1	United States, Colorado, Boulder
+0642	1	United States, Pennsylvania, Delaware Water Gap
+0643	1	United States, Pennsylvania, Philadelphia
+0644	1	United States, Florida, Fort Lauderdale
+0645	1	United States, Florida, Fort Lauderdale
+0646	1	United States, Florida, Jacksonville
+0647	1	United States, Florida, Jacksonville
+0648	1	United States, Illinois, Chicago
+0649	1	United States, Illinois, Schaumburg
+0650	1	United States, Indiana, Indianapolis
+0651	1	United States, New Jersey, New Providence
+0652	1	United States, Texas, Dallas
+0653	1	United States, North Carolina, Charlotte
+0654	1	United States, Georgia, Alpharetta
+0655	1	United States, Florida, Orlando
+0656	1	United States, Florida, Tampa
+0657	1	United States, Florida, Orlando
+0658	1	United States, Florida, Orlando
+0659	1	United States, Georgia, Lawrenceville
+0660	1	United States, Texas, Dallas
+0661	1	United States, Texas, Dallas
+0662	1	United States, Connecticut, Stamford
+0663	1	United States, Pennsylvania, Harrisburg
+0664	1	United States, Michigan, Farmington
+0665	1	United States, Florida, Jacksonville
+0666	1	United States, Florida, Tampa
+0667	1	United States, Illinois, North Chicago
+0668	1	United States, Illinois, Morton Grove
+0669	1	United States, Illinois, Hinsdale
+0670	1	United States, Illinois, Chicago
+0671	1	United States, Illinois, Waukegan
+0672	1	United States, Wisconsin, Pleasant Prairie
+0673	1	United States, California, Brisbane
+0674	1	United States, New York, New York
+0675	1	United States, New York, New York
+0676	1	United States, New York, New York
+0677	1	United States, New York, New York
+0678	1	United States, New York, New York
+0679	1	United States, Ohio, Dayton
+0680	1	United States, Colorado, Windsor
+0681	1	United States, Georgia, Alpharetta
+0682	1	United States, Florida, Jacksonville
+0683	1	United States, Florida, Tampa
+0684	1	United States, Missouri, Saint Louis
+0685	1	United States, California, Fremont
+0686	1	United States, California, San Diego
+0687	1	United States, Maryland, Chevy Chase
+0688	1	United States, Georgia, Duluth
+0689	1	United States, Georgia, Suwanee
+0690	1	United States, Georgia, Atlanta
+0691	1	United States, Washington, Redmond
+0692	1	United States, North Carolina, Morrisville
+0693	1	United States, South Carolina, Greenville
+0694	1	United States, Georgia, Buford
+0695	1	United States, Georgia, Atlanta
+0696	1	United States, California, Goleta
+0697	1	United States, California, Los Angeles
+0698	1	United States, California, San Diego
+0699	1	United States, Texas, Dallas
+0700	1	United States, Texas, Amarillo
+0701	1	United States, Ohio, Akron
+0702	1	United States, Ohio, Columbus
+0703	1	United States, Georgia, Lawrenceville
+0704	1	United States, Georgia, Atlanta
+0705	1	United States, Georgia, Atlanta
+0706	1	United States, Texas, Dallas
+0707	1	United States, Texas, Richardson
+0708	1	United States, Texas, Fort Worth
+0709	1	United States, Texas, Hurst
+0710	1	United States, Ohio, Cleveland
+0711	1	United States, Ohio, Cleveland
+0712	1	United States, Texas, Dallas
+0713	1	United States, Georgia, Atlanta
+0714	1	United States, Georgia, Alpharetta
+0715	1	United States, Georgia, Atlanta
+0716	1	United States, California, Goleta
+0717	1	United States, Pennsylvania, Pittsburgh
+0718	1	United States, Florida, Tampa
+0719	1	United States, Virginia, Roanoke
+0720	1	United States, Washington, Seattle
+0721	1	United States, New York, Cortland
+0722	1	United States, Washington, Issaquah
+0723	1	United States, California, Fremont
+0724	1	United States, Michigan, Auburn Hills
+0725	1	United States, California, Burbank
+0726	1	United States, North Carolina, Charlotte
+0727	1	United States, Utah, Salt Lake City
+0728	1	United States, Missouri, Kansas City
+0729	1	United States, California, San Diego
+0730	1	United States, California, Oakland
+0731	1	United States, Kentucky, Louisville
+0732	1	United States, Illinois, Schaumburg
+0733	1	United States, Kansas, Shawnee Mission
+0734	1	United States, California, Glendale
+0735	1	United States, California, San Jose
+0736	1	United States, Wisconsin, Neenah
+0737	1	United States, Virginia, Herndon
+0738	1	United States, Colorado, Denver
+0739	1	United States, Virginia, Lynchburg
+0740	1	United States, Washington, Bellevue
+0741	1	United States, Washington, Redmond
+0742	1	United States, Washington, Bellevue
+0743	1	United States, California, Rancho Cordova
+0744	1	United States, Washington, Issaquah
+0745	1	United States, Washington, Redmond
+0746	1	United States, New York, Rochester
+0747	1	United States, Michigan, Detroit
+0748	1	United States, Florida, Orlando
+0749	1	United States, Kansas, Shawnee Mission
+0750	1	United States, Texas, Houston
+0751	1	United States, Illinois, Chicago
+0752	1	United States, California, San Diego
+0753	1	United States, Georgia, Atlanta
+0754	1	United States, South Dakota, Rapid City
+0755	1	United States, Georgia, Norcross
+0756	1	United States, Washington, Redmond
+0757	1	United States, Oregon, Hillsboro
+0758	1	United States, New York, New York
+0759	1	United States, New York, Albany
+0760	1	United States, Delaware, Wilmington
+0761	1	United States, California, San Francisco
+0762	1	United States, California, San Francisco
+0763	1	United States, California, San Diego
+0764	1	United States, California, Los Angeles
+0765	1	United States, Washington, Redmond
+0766	1	United States, Nevada, Reno
+0767	1	United States, California, Santa Fe Springs
+0768	1	United States, Florida, Jacksonville
+0769	1	United States, Florida, Melbourne
+0770	1	United States, Florida, Tallahassee
+0771	1	United States, Pennsylvania, Pittsburgh
+0772	1	United States, Michigan, Lansing
+0773	1	United States, California, Simi Valley
+0774	1	United States, California, San Diego
+0775	1	United States, Washington, Bellevue
+0776	1	United States, Oregon, Portland
+0777	1	United States, District of Columbia, Washington
+0778	1	United States, Ohio, Columbus
+0779	1	United States, Kentucky, Louisville
+0780	1	United States, Washington, Bellevue
+0781	1	United States, Washington, Redmond
+0782	1	United States, New York, New York
+0783	1	United States, New York, New York
+0784	1	United States, Kansas, Shawnee Mission
+0785	1	United States, North Carolina, Cary
+0786	1	United States, Arkansas, Fayetteville
+0787	1	United States, California, Glendale
+0788	1	United States, California, Agoura Hills
+0789	1	United States, California, San Francisco
+0790	1	United States, Texas, Houston
+0791	1	United States, Michigan, Southfield
+0792	1	United States, Michigan, Dearborn
+0793	1	United States, Michigan, Highland Park
+0794	1	United States, Minnesota, Marshall
+0795	1	United States, Florida, Jacksonville
+0796	1	United States, Florida, Orlando
+0797	1	United States, Florida, Orlando
+0798	1	United States, Arizona, Phoenix
+0799	1	United States, Ohio, Fairfield
+0800	1	United States, Washington, Redmond
+0801	1	United States, Kentucky, Louisville
+0802	1	United States, Kentucky, Lexington
+0803	1	United States, New Jersey, Warren
+0804	1	United States, Virginia, Virginia Beach
+0805	1	United States, California, Pasadena
+0806	1	United States, California, Los Angeles
+0807	1	United States, California, Los Angeles
+0808	1	United States, Maryland, Annapolis
+0809	1	United States, California, Aliso Viejo
+0810	1	United States, New Hampshire, Merrimack
+0811	1	United States, Arizona, Tempe
+0812	1	United States, New York, New York
+0813	1	United States, Colorado, Denver
+0814	1	United States, New Jersey, Blackwood
+0815	1	United States, California, San Francisco
+0816	1	United States, California, Alhambra
+0817	1	United States, California, Burbank
+0818	1	United States, Texas, Houston
+0819	1	United States, Georgia, Atlanta
+0820	1	United States, North Carolina, Charlotte
+0821	1	United States, Missouri, Kansas City
+0822	1	United States, Arizona, Mesa
+0823	1	United States, Arizona, Phoenix
+0824	1	United States, Ohio, Cincinnati
+0825	1	United States, Washington, Issaquah
+0826	1	United States, Washington, Bothell
+0827	1	United States, Michigan, Dearborn
+0828	1	United States, Virginia, Reston
+0829	1	United States, Colorado, Denver
+0830	1	United States, Colorado, Littleton
+0831	1	United States, Nevada, Las Vegas
+0832	1	United States, New York, Syracuse
+0833	1	United States, Colorado, Boulder
+0834	1	United States, Virginia, Alexandria
+0835	1	United States, Florida, Tampa
+0836	1	United States, Florida, Fort Lauderdale
+0837	1	United States, Virginia, Richmond
+0838	1	United States, Kentucky, Lexington
+0839	1	United States, California, Los Angeles
+0840	1	United States, California, San Jose
+0841	1	United States, Virginia, Fairfax
+0842	1	United States, District of Columbia, Washington
+0843	1	United States, Colorado, Denver
+0844	1	United States, Colorado, Denver
+0845	1	United States, Georgia, Atlanta
+0846	1	United States, New York, Suffern
+0847	1	United States, New York, New York
+0848	1	United States, Massachusetts, Boston
+0849	1	United States, Oregon, Portland
+0850	1	United States, Oregon, Portland
+0851	1	United States, Washington, Seattle
+0852	1	United States, Washington, Vancouver
+0853	1	United States, Washington, Seattle
+0854	1	United States, Washington, Seattle
+0855	1	United States, Virginia, Chantilly
+0856	1	United States, Virginia, Arlington
+0857	1	United States, Minnesota, Minneapolis
+0858	1	United States, North Carolina, Mooresville
+0859	1	United States, Texas, Temple
+0860	1	United States, North Carolina, Morrisville
+0861	1	United States, New Jersey, Englewood Cliffs
+0862	1	United States, Georgia, Atlanta
+0863	1	United States, Oregon, Portland
+0864	1	United States, Ohio, Cleveland
+0865	1	United States, California, Oakland
+0866	1	United States, Minnesota, Minneapolis
+0867	1	United States, Arkansas, Little Rock
+0868	1	United States, Georgia, Alpharetta
+0869	1	United States, Georgia, Atlanta
+0870	1	United States, California, Sacramento
+0871	1	United States, Virginia, Roanoke
+0872	1	United States, New Jersey, Summit
+0873	1	United States, Maryland, Chevy Chase
+0874	1	United States, Tennessee, Nashville
+0875	1	United States, Oregon, Portland
+0876	1	United States, Oregon, Beaverton
+0877	1	United States, Wisconsin, Madison
+0878	1	United States, Rhode Island, Providence
+0879	1	United States, Nebraska, Lincoln
+0880	1	United States, New Jersey, Ridgefield Park
+0881	1	United States, New Jersey, Ridgefield Park
+0882	1	United States, Texas, Dallas
+0883	1	United States, Texas, Dallas
+0884	1	United States, Texas, Dallas
+0885	1	United States, California, Glendale
+0886	1	United States, California, Sacramento
+0887	1	United States, California, Burbank
+0888	1	United States, California, Woodland Hills
+0889	1	United States, California, Oakland
+0890	1	United States, California, Oakland
+0891	1	United States, Georgia, Atlanta
+0892	1	United States, North Carolina, Mooresville
+0893	1	United States, Georgia, Atlanta
+0894	1	United States, Georgia, Duluth
+0895	1	United States, North Carolina, Charlotte
+0896	1	United States, North Carolina, Charlotte
+0897	1	United States, North Carolina, Raleigh
+0898	1	United States, Maryland, Elkridge
+0899	1	United States, Maryland, Baltimore
+0900	1	United States, Massachusetts, Wellesley
+0901	1	United States, Massachusetts, Bedford
+0902	1	United States, Illinois, Lake Zurich
+0903	1	United States, Washington, Redmond
+0904	1	United States, Pennsylvania, Canonsburg
+0905	1	United States, Virginia, Virginia Beach
+0906	1	United States, Ohio, Columbus
+0907	1	United States, Washington, Redmond
+0908	1	United States, Washington, Redmond
+0909	1	United States, Washington, Redmond
+0910	1	United States, Illinois, Naperville
+0911	1	United States, Georgia, Atlanta
+0912	1	United States, Ohio, Akron
+0913	1	United States, Pennsylvania, Cranberry Township
+0914	1	United States, Pennsylvania, Pittsburgh
+0915	1	United States, Michigan, Detroit
+0916	1	United States, Georgia, Atlanta
+0917	1	United States, Georgia, Atlanta
+0918	1	United States, Georgia, Atlanta
+0919	1	United States, Georgia, Atlanta
+0920	1	United States, Georgia, Norcross
+0921	1	United States, Georgia, Tate
+0922	1	United States, Georgia, Lawrenceville
+0923	1	United States, Georgia, Atlanta
+0924	1	United States, Georgia, Roswell
+0925	1	United States, Florida, Altamonte Springs
+0926	1	United States, Ohio, Cincinnati
+0927	1	United States, Virginia, Richmond
+0928	1	United States, California, San Francisco
+0929	1	United States, Texas, Houston
+0930	1	United States, Utah, Salt Lake City
+0931	1	United States, Virginia, Alexandria
+0932	1	United States, North Carolina, Charlotte
+0933	1	United States, Georgia, Atlanta
+0934	1	United States, Iowa, Des Moines
+0935	1	United States, Illinois, Chicago
+0936	1	United States, Colorado, Boulder
+0937	1	United States, Maryland, Germantown
+0938	1	United States, Michigan, Dearborn
+0939	1	United States, Michigan, Ada
+0940	1	United States, Wisconsin, Milwaukee
+0941	1	United States, Minnesota, Minneapolis
+0942	1	United States, Florida, Fort Lauderdale
+0943	1	United States, California, San Diego
+0944	1	United States, Oregon, Portland
+0945	1	United States, Oregon, Portland
+0946	1	United States, Oregon, Portland
+0947	1	United States, Oregon, Portland
+0948	1	United States, Oregon, Portland
+0949	1	United States, New York, Sherburne
+0950	1	United States, Georgia, Atlanta
+0951	1	United States, Georgia, Atlanta
+0952	1	United States, Indiana, Indianapolis
+0953	1	United States, Oregon, Portland
+0954	1	United States, Oregon, Portland
+0955	1	United States, Oregon, Portland
+0956	1	United States, New Jersey, Warren
+0957	1	United States, Arizona, Scottsdale
+0958	1	United States, Arkansas, Bentonville
+0959	1	United States, Arkansas, Bentonville
+0960	1	United States, Alabama, Birmingham
+0961	1	United States, Georgia, Tucker
+0962	1	United States, Texas, Houston
+0963	1	United States, North Carolina, Charlotte
+0964	1	United States, Georgia, Alpharetta
+0965	1	United States, Georgia, Alpharetta
+0966	1	United States, North Carolina, Charlotte
+0967	1	United States, Georgia, Alpharetta
+0968	1	United States, Vermont, Burlington
+0969	1	United States, California, Orange
+0970	1	United States, California, Visalia
+0971	1	United States, California, San Jose
+0972	1	United States, California, Pasadena
+0973	1	United States, Nebraska, Lincoln
+0974	1	United States, New Jersey, Newark
+0975	1	United States, Virginia, Virginia Beach
+0976	1	United States, New York, New York
+0977	1	United States, New York, New York
+0978	1	United States, Illinois, Chicago
+0979	1	United States, Illinois, Geneva
+0980	1	United States, Florida, Tampa
+0981	1	United States, Florida, Orlando
+0982	1	United States, Florida, Tampa
+0983	1	United States, Florida, Jacksonville
+0984	1	United States, Georgia, Atlanta
+0985	1	United States, Georgia, Duluth
+0986	1	United States, Georgia, Norcross
+0987	1	United States, Georgia, Atlanta
+0988	1	United States, Georgia, Atlanta
+0989	1	United States, Arizona, Scottsdale
+0990	1	United States, North Carolina, Charlotte
+0991	1	United States, North Carolina, Charlotte
+0992	1	United States, District of Columbia, Washington
+0993	1	United States, District of Columbia, Washington
+0994	1	United States, District of Columbia, Washington
+0995	1	United States, Connecticut, Westport
+0996	1	United States, Ohio, Columbus
+0997	1	United States, New York, New York
+0998	1	United States, New York, New York
+0999	1	United States, New York, New York
+1000	1	United States, New York, New York
+1001	1	United States, New York, New York
+1002	1	United States, New York, Clifton Park
+1003	1	United States, Virginia, Springfield
+1004	1	United States, Illinois, Vernon Hills
+1005	1	United States, Illinois, Villa Park
+1006	1	United States, Virginia, Richmond
+1007	1	United States, Virginia, Newport News
+1008	1	United States, New Jersey, Basking Ridge
+1009	1	United States, North Carolina, Charlotte
+1010	1	United States, California, Oakland
+1011	1	United States, California, Campbell
+1012	1	United States, Tennessee, Memphis
+1013	1	United States, Florida, Tallahassee
+1014	1	United States, Florida, Orlando
+1015	1	United States, California, Rancho Cordova
+1016	1	United States, California, Alhambra
+1017	1	United States, California, Manhattan Beach
+1018	1	United States, California, San Francisco
+1019	1	United States, Illinois, Chicago
+1020	1	United States, California, Los Angeles
+1021	1	United States, Texas, Allen
+1022	1	United States, North Carolina, Durham
+1023	1	United States, North Carolina, Charlotte
+1024	1	United States, Kentucky, Louisville
+1025	1	United States, Kentucky, Louisville
+1026	1	United States, Colorado, Boulder
+1027	1	United States, Maryland, Baltimore
+1028	1	United States, North Carolina, Charlotte
+1029	1	United States, Missouri, Kansas City
+1030	1	United States, Georgia, Atlanta
+1031	1	United States, Georgia, Atlanta
+1032	1	United States, California, San Bruno
+1033	1	United States, California, Los Angeles
+1034	1	United States, Illinois, Chicago
+1035	1	United States, Illinois, Deerfield
+1036	1	United States, Tennessee, Knoxville
+1037	1	United States, Wisconsin, Milwaukee
+1038	1	United States, Ohio, Twinsburg
+1039	1	United States, Colorado, Arvada
+1040	1	United States, District of Columbia, Washington
+1041	1	United States, Kentucky, Lexington
+1042	1	United States, Illinois, Chicago
+1043	1	United States, Illinois, Chicago
+1044	1	United States, Illinois, Chicago
+1045	1	United States, Illinois, Mundelein
+1046	1	United States, Massachusetts, Boston
+1047	1	United States, Minnesota, Minneapolis
+1048	1	United States, Minnesota, Mendota
+1049	1	United States, Minnesota, Minneapolis
+1050	1	United States, Florida, Fort Lauderdale
+1051	1	United States, Maryland, Baltimore
+1052	1	United States, Massachusetts, Boston
+1053	1	United States, Georgia, Alpharetta
+1054	1	United States, Florida, Tampa
+1055	1	United States, Florida, Tampa
+1056	1	United States, Florida, Tampa
+1057	1	United States, Florida, Orlando
+1058	1	United States, Florida, Orlando
+1059	1	United States, Minnesota, Minneapolis
+1060	1	United States, Illinois, Chicago
+1061	1	United States, Illinois, Chicago
+1062	1	United States, Ohio, Cincinnati
+1063	1	United States, Ohio, Columbus
+1064	1	United States, Washington, Seattle
+1065	1	United States, Washington, Redmond
+1066	1	United States, California, Burbank
+1067	1	United States, California, Oakland
+1068	1	United States, North Carolina, Charlotte
+1069	1	United States, Georgia, Atlanta
+1070	1	United States, California, Mountain View
+1071	1	United States, Missouri, Saint Louis
+1072	1	United States, New York, Manhasset
+1073	1	United States, Florida, Jacksonville
+1074	1	United States, Florida, Jacksonville
+1075	1	United States, Texas, Austin
+1076	1	United States, Texas, Houston
+1077	1	United States, Texas, Plano
+1078	1	United States, South Carolina, North Charleston
+1079	1	United States, New Jersey, Hopewell
+1080	1	United States, Nebraska, Lincoln
+1081	1	United States, Washington, Redmond
+1082	1	United States, Illinois, Chicago
+1083	1	United States, Florida, Tampa
+1084	1	United States, North Carolina, Charlotte
+1085	1	United States, Arizona, Phoenix
+1086	1	United States, Michigan, Southfield
+1087	1	United States, Pennsylvania, Philadelphia
+1088	1	United States, Pennsylvania, Wayne
+1089	1	United States, Pennsylvania, Pittsburgh
+1090	1	United States, Kentucky, Louisville
+1091	1	United States, Kentucky, Owensboro
+1092	1	United States, Georgia, Suwanee
+1093	1	United States, Oregon, Portland
+1094	1	United States, Ohio, Akron
+1095	1	United States, Ohio, Columbus
+1096	1	United States, Texas, Houston
+1097	1	United States, Virginia, Reston
+1098	1	United States, Arizona, Scottsdale
+1099	1	United States, Arizona, Chandler
+1100	1	United States, Texas, Houston
+1101	1	United States, Iowa, Des Moines
+1102	1	United States, North Carolina, Charlotte
+1103	1	United States, Georgia, Atlanta
+1104	1	United States, California, San Diego
+1105	1	United States, California, Newport Beach
+1106	1	United States, California, Manhattan Beach
+1107	1	United States, Texas, Plano
+1108	1	United States, New Jersey, Oceanport
+1109	1	United States, New York, New York
+1110	1	United States, New York, New York
+1111	1	United States, Arizona, Phoenix
+1112	1	United States, Illinois, Chicago
+1113	1	United States, Oregon, Portland
+1114	1	United States, Oregon, Portland
+1115	1	United States, Oregon, Portland
+1116	1	United States, Washington, Bellevue
+1117	1	United States, Washington, Renton
+1118	1	United States, Washington, Vancouver
+1119	1	United States, Florida, Orlando
+1120	1	United States, Oregon, Portland
+1121	1	United States, Kentucky, Louisville
+1122	1	United States, District of Columbia, Washington
+1123	1	United States, Georgia, Atlanta
+1124	1	United States, Tennessee, Hendersonville
+1125	1	United States, Tennessee, Nashville
+1126	1	United States, Pennsylvania, Pittsburgh
+1127	1	United States, Illinois, Chicago
+1128	1	United States, Illinois, Chicago
+1129	1	United States, Texas, Fort Worth
+1130	1	United States, Utah, Salt Lake City
+1131	1	United States, Kansas, Topeka
+1132	1	United States, Ohio, Columbus
+1133	1	United States, Washington, Redmond
+1134	1	United States, Pennsylvania, Kennett Square
+1135	1	United States, California, Cupertino
+1136	1	United States, California, San Francisco
+1137	1	United States, Texas, Irving
+1138	1	United States, North Carolina, Charlotte
+1139	1	United States, New York, New York
+1140	1	United States, Michigan, Warren
+1141	1	United States, Georgia, Atlanta
+1142	1	United States, Illinois, Chicago
+1143	1	United States, Illinois, Chicago
+1144	1	United States, Florida, Daytona Beach
+1145	1	United States, Washington, Bellevue
+1146	1	United States, Washington, Bellevue
+1147	1	United States, North Carolina, Charlotte
+1148	1	United States, Washington, Bothell
+1149	1	United States, Washington, Redmond
+1150	1	United States, Washington, Redmond
+1151	1	United States, Washington, Redmond
+1152	1	United States, Washington, Seattle
+1153	1	United States, Ohio, Cincinnati
+1154	1	United States, Ohio, Columbus
+1155	1	United States, Ohio, Fairfield
+1156	1	United States, Kansas, Shawnee Mission
+1157	1	United States, Indiana, Merrillville
+1158	1	United States, Kentucky, Lexington
+1159	1	United States, Illinois, Chicago
+1160	1	United States, Illinois, Chicago
+1161	1	United States, Maryland, Essex
+1162	1	United States, Maryland, Essex
+1163	1	United States, California, San Jose
+1164	1	United States, Utah, South Jordan
+1165	1	United States, Texas, Dallas
+1166	1	United States, Texas, Dallas
+1167	1	United States, Tennessee, Nashville
+1168	1	United States, Georgia, Alpharetta
+1169	1	United States, Michigan, Auburn Hills
+1170	1	United States, Michigan, Troy
+1171	1	United States, Pennsylvania, Plymouth Meeting
+1172	1	United States, Pennsylvania, Pittsburgh
+1173	1	United States, Florida, Tampa
+1174	1	United States, Minnesota, Minneapolis
+1175	1	United States, Florida, West Palm Beach
+1176	1	United States, North Carolina, Durham
+1177	1	United States, North Carolina, Charlotte
+1178	1	United States, South Carolina, Clemson
+1179	1	United States, Texas, Houston
+1180	1	United States, Texas, Irving
+1181	1	United States, Texas, San Antonio
+1182	1	United States, Texas, Temple
+1183	1	United States, Texas, Temple
+1184	1	United States, Washington, Bellevue
+1185	1	United States, Illinois, Chicago
+1186	1	United States, Georgia, Atlanta
+1187	1	United States, Georgia, Duluth
+1188	1	United States, Virginia, Newport News
+1189	1	United States, Virginia, Arlington
+1190	1	United States, New York, Genoa
+1191	1	United States, Washington, Redmond
+1192	1	United States, Illinois, Chicago
+1193	1	United States, Illinois, Chicago
+1194	1	United States, Illinois, Chicago
+1195	1	United States, Indiana, Indianapolis
+1196	1	United States, Kentucky, Louisville
+1197	1	United States, Colorado, Denver
+1198	1	United States, District of Columbia, Washington
+1199	1	United States, Georgia, Atlanta
+1200	1	United States, Georgia, Atlanta
+1201	1	United States, Georgia, Atlanta
+1202	1	United States, North Carolina, Charlotte
+1203	1	United States, Texas, Houston
+1204	1	United States, Texas, Fort Worth
+1205	1	United States, Georgia, Atlanta
+1206	1	United States, Arizona, Phoenix
+1207	1	United States, Arkansas, Little Rock AFB
+1208	1	United States, Pennsylvania, Harrisburg
+1209	1	United States, California, Pasadena
+1210	1	United States, Minnesota, Minneapolis
+1211	1	United States, Oregon, Portland
+1212	1	United States, Oregon, Portland
+1213	1	United States, New York, Rochester
+1214	1	United States, Texas, Fort Worth
+1215	1	United States, California, Milpitas
+1216	1	United States, Arizona, Tempe
+1217	1	United States, Colorado, Colorado Springs
+1218	1	United States, Colorado, Arvada
+1219	1	United States, Colorado, Boulder
+1220	1	United States, Ohio, Cleveland
+1221	1	United States, Florida, Orlando
+1222	1	United States, Florida, Orlando
+1223	1	United States, Florida, Orlando
+1224	1	United States, California, Temecula
+1225	1	United States, California, San Diego
+1226	1	United States, California, Sacramento
+1227	1	United States, California, Venice
+1228	1	United States, Florida, Orlando
+1229	1	United States, New Jersey, Jersey City
+1230	1	United States, New Jersey, Ridgefield Park
+1231	1	United States, South Carolina, Charleston
+1232	1	United States, Arizona, Tempe
+1233	1	United States, Arizona, Scottsdale
+1234	1	United States, Arizona, Phoenix
+1235	1	United States, Kansas, Shawnee Mission
+1236	1	United States, Colorado, Denver
+1237	1	United States, Ohio, Cincinnati
+1238	1	United States, Illinois, Chicago
+1239	1	United States, Illinois, Naperville
+1240	1	United States, Illinois, Hinsdale
+1241	1	United States, Washington, Bellevue
+1242	1	United States, Washington, Bellevue
+1243	1	United States, New York, Syracuse
+1244	1	United States, New York, New York
+1245	1	United States, Virginia, Arlington
+1246	1	United States, Texas, Fort Worth
+1247	1	United States, Texas, Plano
+1248	1	United States, Texas, Houston
+1249	1	United States, Texas, Carrollton
+1250	1	United States, California, Pleasanton
+1251	1	United States, California, Van Nuys
+1252	1	United States, New Jersey, Pennington
+1253	1	United States, Georgia, Duluth
+1254	1	United States, Minnesota, Minneapolis
+1255	1	United States, Missouri, Kansas City
+1256	1	United States, Florida, Orlando
+1257	1	United States, Florida, Saint Petersburg
+1258	1	United States, Florida, Orlando
+1259	1	United States, Florida, Orlando
+1260	1	United States, Michigan, Detroit
+1261	1	United States, Maryland, Windsor Mill
+1262	1	United States, Colorado, Broomfield
+1263	1	United States, Illinois, Chicago
+1264	1	United States, Illinois, Elmwood Park
+1265	1	United States, Texas, Temple
+1266	1	United States, Texas, Hurst
+1267	1	United States, New Jersey, Jersey City
+1268	1	United States, Washington, Redmond
+1269	1	United States, Ohio, Columbus
+1270	1	United States, Michigan, Detroit
+1271	1	United States, California, San Bruno
+1272	1	United States, California, Irvine
+1273	1	United States, Texas, Dallas
+1274	1	United States, California, Mountain View
+1275	1	United States, California, Irvine
+1276	1	United States, New Jersey, Jersey City
+1277	1	United States, New Jersey, Jersey City
+1278	1	United States, New York, Orangeburg
+1279	1	United States, Florida, Hollywood
+1280	1	United States, Kentucky, Louisville
+1281	1	United States, Illinois, Springfield
+1282	1	United States, Illinois, Decatur
+1283	1	United States, Virginia, Richmond
+1284	1	United States, Florida, Orlando
+1285	1	United States, California, San Francisco
+1286	1	United States, California, San Francisco
+1287	1	United States, California, San Francisco
+1288	1	United States, Tennessee, Nashville
+1289	1	United States, Georgia, Atlanta
+1290	1	United States, Alabama, Birmingham
+1291	1	United States, Minnesota, Minneapolis
+1292	1	United States, Missouri, Kansas City
+1293	1	United States, Florida, Orlando
+1294	1	United States, Kentucky, Louisville
+1295	1	United States, Indiana, West Lafayette
+1296	1	United States, North Carolina, Rocky Mount
+1297	1	United States, Missouri, Saint Louis
+1298	1	United States, Minnesota, Minneapolis
+1299	1	United States, California, San Francisco
+1300	1	United States, California, San Francisco
+1301	1	United States, Texas, Austin
+1302	1	United States, Texas, Austin
+1303	1	United States, California, Irvine
+1304	1	United States, California, Santa Rosa
+1305	1	United States, Florida, Melbourne
+1306	1	United States, Texas, Houston
+1307	1	United States, Texas, Dallas
+1308	1	United States, California, Pleasanton
+1309	1	United States, California, San Diego
+1310	1	United States, California, Irvine
+1311	1	United States, California, San Clemente
+1312	1	United States, California, Petaluma
+1313	1	United States, California, Poway
+1314	1	United States, Tennessee, Brentwood
+1315	1	United States, Tennessee, Nashville
+1316	1	United States, Tennessee, Memphis
+1317	1	United States, Arizona, Chandler
+1318	1	United States, Illinois, Downers Grove
+1319	1	United States, Illinois, Chicago
+1320	1	United States, New York, New York
+1321	1	United States, Florida, Tampa
+1322	1	United States, Mississippi, Ridgeland
+1323	1	United States, North Carolina, Charlotte
+1324	1	United States, Wisconsin, Milwaukee
+1325	1	United States, Washington, Redmond
+1326	1	United States, Washington, Redmond
+1327	1	United States, Illinois, Chicago
+1328	1	United States, Illinois, Deerfield
+1329	1	United States, Maryland, Aberdeen Proving G
+1330	1	United States, Washington, Redmond
+1331	1	United States, Washington, Redmond
+1332	1	United States, Wisconsin, Fond du Lac
+1333	1	United States, North Carolina, Raleigh
+1334	1	United States, Washington, Redmond
+1335	1	United States, Washington, Redmond
+1336	1	United States, Washington, Redmond
+1337	1	United States, Texas, Houston
+1338	1	United States, Ohio, Columbus
+1339	1	United States, Florida, Orlando
+1340	1	United States, New York, New York
+1341	1	United States, New York, Syracuse
+1342	1	United States, New York, Syracuse
+1343	1	United States, Florida, Orlando
+1344	1	United States, Indiana, Carmel
+1345	1	United States, Connecticut, Berlin
+1346	1	United States, Georgia, Atlanta
+1347	1	United States, Georgia, Atlanta
+1348	1	United States, Georgia, Atlanta
+1349	1	United States, Iowa, Keokuk
+1350	1	United States, Texas, Plano
+1351	1	United States, Texas, Irving
+1352	1	United States, Texas, Austin
+1353	1	United States, Michigan, Troy
+1354	1	United States, Ohio, Columbus
+1355	1	United States, District of Columbia, Washington
+1356	1	United States, Florida, Jacksonville
+1357	1	United States, Florida, Orlando
+1358	1	United States, Maryland, Windsor Mill
+1359	1	United States, Georgia, Atlanta
+1360	1	United States, Georgia, Alpharetta
+1361	1	United States, Illinois, Waukegan
+1362	1	United States, Georgia, Atlanta
+1363	1	United States, Georgia, Atlanta
+1364	1	United States, Georgia, Atlanta
+1365	1	United States, California, Oakland
+1366	1	United States, California, San Francisco
+1367	1	United States, California, San Francisco
+1368	1	United States, North Carolina, Charlotte
+1369	1	United States, Montana, Billings
+1370	1	United States, Texas, Irving
+1371	1	United States, Ohio, Independence
+1372	1	United States, Florida, Tampa
+1373	1	United States, Florida, Kissimmee
+1374	1	United States, Florida, Kissimmee
+1375	1	United States, Minnesota, Minneapolis
+1376	1	United States, Minnesota, Minneapolis
+1377	1	United States, Pennsylvania, Harrisburg
+1378	1	United States, Illinois, Glenview
+1379	1	United States, Minnesota, Saint Paul
+1380	1	United States, Georgia, Atlanta
+1381	1	United States, Georgia, Alpharetta
+1382	1	United States, California, Simi Valley
+1383	1	United States, Massachusetts, Cambridge
+1384	1	United States, Massachusetts, Natick
+1385	1	United States, Virginia, Roanoke
+1386	1	United States, Texas, Richardson
+1387	1	United States, California, Los Angeles
+1388	1	United States, California, Roseville
+1389	1	United States, California, San Diego
+1390	1	United States, California, Sacramento
+1391	1	United States, Florida, Melbourne
+1392	1	United States, Florida, Orlando
+1393	1	United States, California, San Francisco
+1394	1	United States, California, San Francisco
+1395	1	United States, Tennessee, Nashville
+1396	1	United States, Louisiana, New Orleans
+1397	1	United States, Indiana, Indianapolis
+1398	1	United States, Illinois, Plano
+1399	1	United States, Illinois, Aurora
+1400	1	United States, Ohio, Dayton
+1401	1	United States, Ohio, Cincinnati
+1402	1	United States, Washington, Redmond
+1403	1	United States, Washington, Bellevue
+1404	1	United States, Wisconsin, Racine
+1405	1	United States, Wisconsin, Madison
+1406	1	United States, Wisconsin, Milwaukee
+1407	1	United States, Nevada, Henderson
+1408	1	United States, Georgia, Atlanta
+1409	1	United States, Mississippi, Ridgeland
+1410	1	United States, Maryland, Windsor Mill
+1411	1	United States, California, Modesto
+1412	1	United States, California, Burbank
+1413	1	United States, Ohio, Columbus
+1414	1	United States, Ohio, Columbus
+1415	1	United States, Ohio, Cincinnati
+1416	1	United States, Ohio, Columbus
+1417	1	United States, Texas, Plano
+1418	1	United States, Texas, Dallas
+1419	1	United States, Texas, Dallas
+1420	1	United States, Texas, Grapevine
+1421	1	United States, Texas, Richardson
+1422	1	United States, Texas, Houston
+1423	1	United States, Texas, Houston
+1424	1	United States, New Jersey, Jersey City
+1425	1	United States, New Jersey, Whitehouse
+1426	1	United States, Tennessee, Memphis
+1427	1	United States, Tennessee, Nashville
+1428	1	United States, South Carolina, Columbia
+1429	1	United States, North Carolina, Greensboro
+1430	1	United States, North Carolina, Raleigh
+1431	1	United States, Virginia, Falls Church
+1432	1	United States, Washington, Redmond
+1433	1	United States, Ohio, Mentor
+1434	1	United States, Ohio, Canton
+1435	1	United States, Washington, Bellevue
+1436	1	United States, Kentucky, Louisville
+1437	1	United States, Connecticut, Westport
+1438	1	United States, Georgia, Norcross
+1439	1	United States, Ohio, Cleveland
+1440	1	United States, California, Irvine
+1441	1	United States, Washington, Bellevue
+1442	1	United States, Washington, Redmond
+1443	1	United States, Oklahoma, Oklahoma City
+1444	1	United States, Oregon, Portland
+1445	1	United States, Minnesota, Minneapolis
+1446	1	United States, Minnesota, Minneapolis
+1447	1	United States, Minnesota, Saint Paul
+1448	1	United States, Florida, Tampa
+1449	1	United States, Florida, Orlando
+1450	1	United States, Washington, Bellevue
+1451	1	United States, Wisconsin, Neenah
+1452	1	United States, Ohio, Cincinnati
+1453	1	United States, Ohio, Elyria
+1454	1	United States, Florida, Fort Lauderdale
+1455	1	United States, New York, New York
+1456	1	United States, Florida, Saint Petersburg
+1457	1	United States, Georgia, Atlanta
+1458	1	United States, Georgia, Atlanta
+1459	1	United States, Georgia, Atlanta
+1460	1	United States, Georgia, Alpharetta
+1461	1	United States, Georgia, Atlanta
+1462	1	United States, Georgia, Atlanta
+1463	1	United States, Iowa, Dubuque
+1464	1	United States, Arizona, Chandler
+1465	1	United States, California, Visalia
+1466	1	United States, Colorado, Boulder
+1467	1	United States, Texas, Dallas
+1468	1	United States, Virginia, Alexandria
+1469	1	United States, Louisiana, Metairie
+1470	1	United States, Illinois, Downers Grove
+1471	1	United States, Illinois, Westmont
+1472	1	United States, Illinois, Springfield
+1473	1	United States, Georgia, Atlanta
+1474	1	United States, Georgia, Atlanta
+1475	1	United States, Georgia, Alpharetta
+1476	1	United States, Georgia, Atlanta
+1477	1	United States, North Carolina, Charlotte
+1478	1	United States, North Carolina, Charlotte
+1479	1	United States, Georgia, Atlanta
+1480	1	United States, Georgia, Roswell
+1481	1	United States, Georgia, Roswell
+1482	1	United States, California, Los Angeles
+1483	1	United States, California, Irvine
+1484	1	United States, California, Santa Ana
+1485	1	United States, Florida, Altamonte Springs
+1486	1	United States, Illinois, Chicago
+1487	1	United States, Illinois, Chicago
+1488	1	United States, Washington, Redmond
+1489	1	United States, California, San Francisco
+1490	1	United States, New Jersey, Ridgefield Park
+1491	1	United States, New Jersey, Ridgefield Park
+1492	1	United States, Tennessee, Chattanooga
+1493	1	United States, South Carolina, Greenville
+1494	1	United States, North Carolina, Charlotte
+1495	1	United States, Georgia, Kennesaw
+1496	1	United States, Georgia, Atlanta
+1497	1	United States, Georgia, Atlanta
+1498	1	United States, Arizona, Phoenix
+1499	1	United States, Washington, Redmond
+1500	1	United States, Massachusetts, Boston
+1501	1	United States, Massachusetts, Billerica
+1502	1	United States, Washington, Bellevue
+1503	1	United States, California, Los Angeles
+1504	1	United States, Virginia, Lorton
+1505	1	United States, Virginia, Reston
+1506	1	United States, Virginia, Richmond
+1507	1	United States, New York, Albany
+1508	1	United States, Ohio, Cincinnati
+1509	1	United States, Washington, Bellevue
+1510	1	United States, Washington, Redmond
+1511	1	United States, Washington, Redmond
+1512	1	United States, Oregon, Portland
+1513	1	United States, Illinois, Gurnee
+1514	1	United States, Illinois, Chicago
+1515	1	United States, Illinois, Chicago
+1516	1	United States, Colorado, Denver
+1517	1	United States, Maryland, Baltimore
+1518	1	United States, Maryland, Owings Mills
+1519	1	United States, Maryland, Rockville
+1520	1	United States, California, Hayward
+1521	1	United States, California, Los Angeles
+1522	1	United States, Texas, Dallas
+1523	1	United States, Texas, Houston
+1524	1	United States, Georgia, Alpharetta
+1525	1	United States, Georgia, Atlanta
+1526	1	United States, North Carolina, Charlotte
+1527	1	United States, Missouri, Columbia
+1528	1	United States, Arizona, Phoenix
+1529	1	United States, New Jersey, Jersey City
+1530	1	United States, Texas, Austin
+1531	1	United States, Alabama, Montgomery
+1532	1	United States, Texas, San Antonio
+1533	1	United States, Maryland, Laurel
+1534	1	United States, Texas, Austin
+1535	1	United States, Florida, Orlando
+1536	1	United States, Ohio, Youngstown
+1537	1	United States, Ohio, Lakewood
+1538	1	United States, Florida, Orlando
+1539	1	United States, Florida, Orlando
+1540	1	United States, North Carolina, Charlotte
+1541	1	United States, Alabama, Birmingham
+1542	1	United States, Alabama, Birmingham
+1543	1	United States, California, San Jose
+1544	1	United States, Colorado, Westminster
+1545	1	United States, Alabama, Montgomery
+1546	1	United States, Kansas, Olathe
+1547	1	United States, Maryland, Chevy Chase
+1548	1	United States, Florida, Jacksonville
+1549	1	United States, Florida, West Palm Beach
+1550	1	United States, Pennsylvania, Fort Washington
+1551	1	United States, Texas, Plano
+1552	1	United States, Texas, Irving
+1553	1	United States, Texas, Irving
+1554	1	United States, District of Columbia, Washington
+1555	1	United States, District of Columbia, Washington
+1556	1	United States, Virginia, Arlington
+1557	1	United States, Virginia, Richmond
+1558	1	United States, New York, East Aurora
+1559	1	United States, Washington, Bellevue
+1560	1	United States, Washington, Bothell
+1561	1	United States, Utah, Provo
+1562	1	United States, Washington, Redmond
+1563	1	United States, Minnesota, Minneapolis
+1564	1	United States, Arizona, Phoenix
+1565	1	United States, North Carolina, Greensboro
+1566	1	United States, Georgia, Atlanta
+1567	1	United States, Georgia, Alpharetta
+1568	1	United States, New Jersey, Jersey City
+1569	1	United States, Minnesota, Saint Paul
+1570	1	United States, New Jersey, Warren
+1571	1	United States, Pennsylvania, Pittsburgh
+1572	1	United States, New Jersey, Jersey City
+1573	1	United States, Maryland, College Park
+1574	1	United States, California, Sacramento
+1575	1	United States, Illinois, Naperville
+1576	1	United States, Minnesota, Saint Cloud
+1577	1	United States, Virginia, Falls Church
+1578	1	United States, Virginia, Falls Church
+1579	1	United States, New York, New York
+1580	1	United States, Colorado, Boulder
+1581	1	United States, California, San Clemente
+1582	1	United States, New Jersey, Warren
+1583	1	United States, New York, Hopewell Junction
+1584	1	United States, Florida, Tampa
+1585	1	United States, Pennsylvania, Wayne
+1586	1	United States, Maryland, Chevy Chase
+1587	1	United States, Colorado, Denver
+1588	1	United States, Colorado, Boulder
+1589	1	United States, District of Columbia, Washington
+1590	1	United States, Illinois, Chicago
+1591	1	United States, District of Columbia, Washington
+1592	1	United States, Illinois, Chicago
+1593	1	United States, Illinois, Chicago
+1594	1	United States, Illinois, Chicago
+1595	1	United States, New York, New York
+1596	1	United States, New York, New York
+1597	1	United States, New York, New York
+1598	1	United States, New York, New York
+1599	1	United States, New York, New York
+1600	1	United States, New York, New York
+1601	1	United States, California, San Jose
+1602	1	United States, Florida, Lake Mary
+1603	1	United States, Florida, Tampa
+1604	1	United States, New York, New York
+1605	1	United States, Georgia, Roswell
+1606	1	United States, Texas, Irving
+1607	1	United States, New Jersey, Jersey City
+1608	1	United States, Ohio, Columbus
+1609	1	United States, New Jersey, Warren
+1610	1	United States, New York, New York
+1611	1	United States, New York, New York
+1612	1	United States, Oregon, Portland
+1613	1	United States, Georgia, Duluth
+1614	1	United States, Georgia, Atlanta
+1615	1	United States, Florida, Tampa
+1616	1	United States, Florida, Tampa
+1617	1	United States, Indiana, Indianapolis
+1618	1	United States, Illinois, Hoffman Estates
+1619	1	United States, Texas, Richardson
+1620	1	United States, Texas, Arlington
+1621	1	United States, Texas, Fort Worth
+1622	1	United States, Texas, Austin
+1623	1	United States, Tennessee, Cookeville
+1624	1	United States, New Jersey, Jersey City
+1625	1	United States, Georgia, Atlanta
+1626	1	United States, Georgia, Atlanta
+1627	1	United States, Missouri, Saint Louis
+1628	1	United States, Arizona, Phoenix
+1629	1	United States, Illinois, Park Ridge
+1630	1	United States, Georgia, Augusta
+1631	1	United States, Ohio, Columbus
+1632	1	United States, Ohio, Akron
+1633	1	United States, Illinois, Chicago
+1634	1	United States, Connecticut, Greenwich
+1635	1	United States, Delaware, New Castle
+1636	1	United States, Massachusetts, Needham
+1637	1	United States, New York, New York
+1638	1	United States, New York, New York
+1639	1	United States, New York, New York
+1640	1	United States, New York, New York
+1641	1	United States, New York, New York
+1642	1	United States, New York, New York
+1643	1	United States, New York, New York
+1644	1	United States, New Jersey, Montvale
+1645	1	United States, Texas, Frisco
+1646	1	United States, Tennessee, Nashville
+1647	1	United States, New York, New York
+1648	1	United States, New York, New York
+1649	1	United States, New Jersey, Jersey City
+1650	1	United States, Oregon, Portland
+1651	1	United States, Oregon, Portland
+1652	1	United States, Georgia, Atlanta
+1653	1	United States, Georgia, Atlanta
+1654	1	United States, Georgia, Atlanta
+1655	1	United States, Georgia, Atlanta
+1656	1	United States, Georgia, Roswell
+1657	1	United States, North Carolina, Raleigh
+1658	1	United States, Texas, Irving
+1659	1	United States, Florida, Tampa
+1660	1	United States, Oklahoma, Oklahoma City
+1661	1	United States, Alabama, Birmingham
+1662	1	United States, New Jersey, Warren
+1663	1	United States, New York, New York
+1664	1	United States, Virginia, Broad Run
+1665	1	United States, Florida, Jacksonville
+1666	1	United States, Michigan, Dearborn
+1667	1	United States, Texas, Plano
+1668	1	United States, Illinois, Chicago
+1669	1	United States, New York, New York
+1670	1	United States, Texas, Richardson
+1671	1	United States, Texas, Houston
+1672	1	United States, New York, New York
+1673	1	United States, New York, New York
+1674	1	United States, Washington, Redmond
+1675	1	United States, Arizona, Chandler
+1676	1	United States, Missouri, Saint Louis
+1677	1	United States, Connecticut, Stamford
+1678	1	United States, Georgia, Marietta
+1679	1	United States, Illinois, Rosemont
+1680	1	United States, Illinois, Chicago
+1681	1	United States, Illinois, Chicago
+1682	1	United States, Illinois, Chicago
+1683	1	United States, Illinois, Chicago
+1684	1	United States, Texas, Houston
+1685	1	United States, New York, New York
+1686	1	United States, New York, Rochester
+1687	1	United States, Georgia, Atlanta
+1688	1	United States, Georgia, Atlanta
+1689	1	United States, Georgia, Alpharetta
+1690	1	United States, Georgia, Alpharetta
+1691	1	United States, Georgia, Atlanta
+1692	1	United States, Georgia, Atlanta
+1693	1	United States, Georgia, Kennesaw
+1694	1	United States, Georgia, Atlanta
+1695	1	United States, Arizona, Phoenix
+1696	1	United States, Alabama, Birmingham
+1697	1	United States, California, Irvine
+1698	1	United States, California, San Francisco
+1699	1	United States, New Jersey, Warren
+1700	1	United States, California, San Diego
+1701	1	United States, Pennsylvania, Fort Washington
+1702	1	United States, New Jersey, Bedminster
+1703	1	United States, New Jersey, Iselin
+1704	1	United States, New York, New York
+1705	1	United States, Nebraska, Omaha
+1706	1	United States, Tennessee, Nashville
+1707	1	United States, New York, New York
+1708	1	United States, New York, New York
+1709	1	United States, New York, New York
+1710	1	United States, Ohio, Columbus
+1711	1	United States, Illinois, Champaign
+1712	1	United States, Illinois, Chicago
+1713	1	United States, Illinois, Oak Brook
+1714	1	United States, Florida, Orlando
+1715	1	United States, Florida, Tampa
+1716	1	United States, Florida, Jacksonville
+1717	1	United States, Florida, Jacksonville
+1718	1	United States, Florida, Tampa
+1719	1	United States, Florida, Orlando
+1720	1	United States, Florida, Jacksonville
+1721	1	United States, Ohio, Cleveland
+1722	1	United States, District of Columbia, Washington
+1723	1	United States, District of Columbia, Washington
+1724	1	United States, Connecticut, Hartford
+1725	1	United States, Virginia, Chesapeake
+1726	1	United States, Virginia, Arlington
+1727	1	United States, Washington, Redmond
+1728	1	United States, Washington, Redmond
+1729	1	United States, New York, New York
+1730	1	United States, New York, Great Neck
+1731	1	United States, New York, New York
+1732	1	United States, Indiana, Indianapolis
+1733	1	United States, California, Oakland
+1734	1	United States, New York, New York
+1735	1	United States, New York, New York
+1736	1	United States, New York, New York
+1737	1	United States, New York, New York
+1738	1	United States, New York, Brooklyn
+1739	1	United States, New York, New York
+1740	1	United States, New York, New York
+1741	1	United States, New York, New York
+1742	1	United States, New York, New York
+1743	1	United States, New York, New York
+1744	1	United States, New York, New York
+1745	1	United States, New York, New York
+1746	1	United States, North Carolina, Charlotte
+1747	1	United States, North Carolina, Morrisville
+1748	1	United States, North Carolina, Morrisville
+1749	1	United States, Pennsylvania, Philadelphia
+1750	1	United States, New Jersey, Newark
+1751	1	United States, New Jersey, Jersey City
+1752	1	United States, New Jersey, Warren
+1753	1	United States, New York, New York
+1754	1	United States, New York, New York
+1755	1	United States, New York, New York
+1756	1	United States, New Jersey, Jersey City
+1757	1	United States, Wisconsin, Middleton
+1758	1	United States, Oregon, Portland
+1759	1	United States, New Jersey, Warren
+1760	1	United States, New Jersey, Jersey City
+1761	1	United States, New Jersey, Warren
+1762	1	United States, Illinois, Springfield
+1763	1	United States, Missouri, Kansas City
+1764	1	United States, North Carolina, Raleigh
+1765	1	United States, Nebraska, Lincoln
+1766	1	United States, Minnesota, Saint Paul
+1767	1	United States, New York, New York
+1768	1	United States, New York, New York
+1769	1	United States, New York, New York
+1770	1	United States, New York, New York
+1771	1	United States, Michigan, Detroit
+1772	1	United States, Maryland, Baltimore
+1773	1	United States, Maryland, Columbia
+1774	1	United States, Maryland, Rockville
+1775	1	United States, Maryland, Bowie
+1776	1	United States, Maryland, Aberdeen Proving G
+1777	1	United States, Texas, Austin
+1778	1	United States, Texas, Plano
+1779	1	United States, Oregon, Portland
+1780	1	United States, Texas, Houston
+1781	1	United States, Texas, Plano
+1782	1	United States, Texas, Coppell
+1783	1	United States, Texas, Plano
+1784	1	United States, Texas, Houston
+1785	1	United States, Texas, Irving
+1786	1	United States, Texas, Temple
+1787	1	United States, Texas, Plano
+1788	1	United States, Arkansas, Bentonville
+1789	1	United States, North Carolina, Raleigh
+1790	1	United States, North Carolina, Charlotte
+1791	1	United States, California, San Francisco
+1792	1	United States, Ohio, Columbus
+1793	1	United States, Washington, Redmond
+1794	1	United States, Washington, Redmond
+1795	1	United States, California, Valencia
+1796	1	United States, New Jersey, Warren
+1797	1	United States, Georgia, Alpharetta
+1798	1	United States, New York, New York
+1799	1	United States, New York, New York
+1800	1	United States, New York, Syracuse
+1801	1	United States, New York, New York
+1802	1	United States, Connecticut, Norwalk
+1803	1	United States, Colorado, Denver
+1804	1	United States, California, Sacramento
+1805	1	United States, New York, New York
+1806	1	United States, Georgia, Atlanta
+1807	1	United States, Georgia, Atlanta
+1808	1	United States, New York, New York
+1809	1	United States, Ohio, Cleveland
+1810	1	United States, Illinois, Chicago
+1811	1	United States, Illinois, Hinsdale
+1812	1	United States, Illinois, Chicago
+1813	1	United States, Massachusetts, Waltham
+1814	1	United States, Tennessee, Nashville
+1815	1	United States, New York, New York
+1816	1	United States, New York, New York
+1817	1	United States, Illinois, Bloomington
+1818	1	United States, Georgia, Atlanta
+1819	1	United States, Missouri, Saint Louis
+1820	1	United States, North Carolina, Charlotte
+1821	1	United States, Oklahoma, Hallett
+1822	1	United States, Florida, Orlando
+1823	1	United States, Virginia, Richmond
+1824	1	United States, Ohio, Columbus
+1825	1	United States, Kentucky, Lexington
+1826	1	United States, Tennessee, Nashville
+1827	1	United States, Texas, Temple
+1828	1	United States, Kansas, Topeka
+1829	1	United States, Georgia, Atlanta
+1830	1	United States, Georgia, Duluth
+1831	1	United States, Georgia, Atlanta
+1832	1	United States, Georgia, Atlanta
+1833	1	United States, Wyoming, Cheyenne
+1834	1	United States, Texas, Houston
+1835	1	United States, Michigan, Detroit
+1836	1	United States, Washington, Redmond
+1837	1	United States, North Carolina, Charlotte
+1838	1	United States, California, San Diego
+1839	1	United States, California, San Francisco
+1840	1	United States, Minnesota, Minneapolis
+1841	1	United States, Virginia, Falls Church
+1842	1	United States, Ohio, Independence
+1843	1	United States, New Jersey, Jersey City
+1844	1	United States, New Jersey, Jersey City
+1845	1	United States, Utah, Salt Lake City
+1846	1	United States, New York, New York
+1847	1	United States, New York, New York
+1848	1	United States, Illinois, Chicago
+1849	1	United States, Nebraska, Omaha
+1850	1	United States, New York, New York
+1851	1	United States, Texas, Temple
+1852	1	United States, Texas, Dallas
+1853	1	United States, California, San Francisco
+1854	1	United States, North Carolina, Charlotte
+1855	1	United States, New Jersey, Warren
+1856	1	United States, New Jersey, Jersey City
+1857	1	United States, New York, New York
+1858	1	United States, New York, New York
+1859	1	United States, New York, New York
+1860	1	United States, New York, New York
+1861	1	United States, New York, New York
+1862	1	United States, New York, New York
+1863	1	United States, New York, New York
+1864	1	United States, New York, New York
+1865	1	United States, New York, New York
+1866	1	United States, Michigan, Dearborn
+1867	1	United States, Texas, Fort Worth
+1868	1	United States, North Carolina, Charlotte
+1869	1	United States, Massachusetts, Newton
+1870	1	United States, Massachusetts, Newton
+1871	1	United States, California, Daly City
+1872	1	United States, California, Cupertino
+1873	1	United States, Massachusetts, Charlestown
+1874	1	United States, Massachusetts, Newton
+1875	1	United States, Massachusetts, Newton
+1876	1	United States, Massachusetts, Newton
+1877	1	United States, North Carolina, Raleigh
+1878	1	United States, Georgia, Atlanta
+1879	1	United States, Arizona, Phoenix
+1880	1	United States, Wisconsin, Milwaukee
+1881	1	United States, Pennsylvania, Pittsburgh
+1882	1	United States, Michigan, Lansing
+1883	1	United States, Michigan, Detroit
+1884	1	United States, Minnesota, Minneapolis
+1885	1	United States, Florida, Orlando
+1886	1	United States, Florida, Jacksonville
+1887	1	United States, Missouri, Chesterfield
+1888	1	United States, Georgia, Atlanta
+1889	1	United States, Georgia, Atlanta
+1890	1	United States, Arizona, Phoenix
+1891	1	United States, Nebraska, Lincoln
+1892	1	United States, California, Corona
+1893	1	United States, California, Cypress
+1894	1	United States, Florida, Orlando
+1895	1	United States, Florida, Orlando
+1896	1	United States, Maryland, Owings Mills
+1897	1	United States, Washington, Olympia
+1898	1	United States, California, Oakland
+1899	1	United States, California, Burbank
+1900	1	United States, California, Concord
+1901	1	United States, Texas, Fort Worth
+1902	1	United States, California, Carlsbad
+1903	1	United States, New York, New York
+1904	1	United States, Texas, Houston
+1905	1	United States, North Carolina, Cary
+1906	1	United States, Michigan, Southfield
+1907	1	United States, Illinois, Aurora
+1908	1	United States, California, Anaheim
+1909	1	United States, Massachusetts, Cambridge
+1910	1	United States, Ohio, Cleveland
+1911	1	United States, Florida, Jacksonville
+1912	1	United States, North Carolina, Charlotte
+1913	1	United States, Utah, Sandy
+1914	1	United States, Georgia, Alpharetta
+1915	1	United States, California, San Francisco
+1916	1	United States, California, Los Angeles
+1917	1	United States, Kentucky, Lexington
+1918	1	United States, New York, New York
+1919	1	United States, Oregon, Medford
+1920	1	United States, Oregon, Portland
+1921	1	United States, Tennessee, Knoxville
+1922	1	United States, Georgia, Atlanta
+1923	1	United States, Alabama, Birmingham
+1924	1	United States, Arizona, Phoenix
+1925	1	United States, Washington, Redmond
+1926	1	United States, Washington, Redmond
+1927	1	United States, New York, New York
+1928	1	United States, Oregon, Portland
+1929	1	United States, Oregon, Portland
+1930	1	United States, Oregon, Portland
+1931	1	United States, Georgia, Alpharetta
+1932	1	United States, Virginia, Vienna
+1933	1	United States, Kentucky, Lexington
+1934	1	United States, New York, Brooklyn
+1935	1	United States, New York, New York
+1936	1	United States, Pennsylvania, Philadelphia
+1937	1	United States, North Carolina, Charlotte
+1938	1	United States, Texas, Dallas
+1939	1	United States, California, Escondido
+1940	1	United States, California, San Diego
+1941	1	United States, California, Fresno
+1942	1	United States, California, San Jose
+1943	1	United States, Texas, Austin
+1944	1	United States, Texas, Plano
+1945	1	United States, Texas, Dallas
+1946	1	United States, Texas, Dallas
+1947	1	United States, California, San Francisco
+1948	1	United States, Ohio, Cincinnati
+1949	1	United States, Florida, Orlando
+1950	1	United States, North Carolina, Cary
+1951	1	United States, Ohio, Columbus
+1952	1	United States, Ohio, Cleveland
+1953	1	United States, Illinois, Chicago
+1954	1	United States, Virginia, Reston
+1955	1	United States, Oregon, Portland
+1956	1	United States, Pennsylvania, Pittsburgh
+1957	1	United States, California, Lynwood
+1958	1	United States, Illinois, Mundelein
+1959	1	United States, Florida, Orlando
+1960	1	United States, Oregon, Portland
+1961	1	United States, Washington, Bellevue
+1962	1	United States, Washington, Redmond
+1963	1	United States, Georgia, Atlanta
+1964	1	United States, New Jersey, Jersey City
+1965	1	United States, Washington, Redmond
+1966	1	United States, Washington, Redmond
+1967	1	United States, New York, New York
+1968	1	United States, Washington, Seattle
+1969	1	United States, Oregon, Portland
+1970	1	United States, Texas, Dallas
+1971	1	United States, New Jersey, Iselin
+1972	1	United States, Connecticut, Stamford
+1973	1	United States, District of Columbia, Washington
+1974	1	United States, Delaware, Newark
+1975	1	United States, Delaware, Wilmington
+1976	1	United States, Illinois, Chicago
+1977	1	United States, New Jersey, Warren
+1978	1	United States, California, Chico
+1979	1	United States, California, Westlake Village
+1980	1	United States, California, Santa Ana
+1981	1	United States, California, Brisbane
+1982	1	United States, New York, New York
+1983	1	United States, New York, New York
+1984	1	United States, New York, New York
+1985	1	United States, New York, New York
+1986	1	United States, New York, New York
+1987	1	United States, New York, New York
+1988	1	United States, New York, New York
+1989	1	United States, Texas, Houston
+1990	1	United States, Arizona, Tempe
+1991	1	United States, New York, New York
+1992	1	United States, New York, New York
+1993	1	United States, New York, New York
+1994	1	United States, New York, New York
+1995	1	United States, New York, New York
+1996	1	United States, New York, New York
+1997	1	United States, New York, New York
+1998	1	United States, New Jersey, Jersey City
+1999	1	United States, Ohio, Columbus

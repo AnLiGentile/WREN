@@ -1,0 +1,2002 @@
+﻿restaurant	restaurantica	address
+2000	2000	8000	3296
+0000	4	11700 Old Seward Hwy	Anchorage	AK	99515
+0001	4	12870 Old Seward Highway	Anchorage	AK	99515
+0002	4	3230 Seward Hwy	Anchorage	AK	99503
+0003	4	1204 Agvik St	Barrow	AK	99723
+0004	4	1721 Ogrook St	Barrow	AK	99723
+0005	4	5122 Herman St	Barrow	AK	99723
+0006	4	3551 State Hwy	Bethel	AK	99559
+0007	4	310 3rd Ave	Bethel	AK	99559
+0008	4	238 East Ave	Bethel	AK	99559
+0009	4	272 Tundra St	Bethel	AK	99559
+0010	4	1220 Eddie Hoffman Hwy	Bethel	AK	99559
+0011	4	920 Front St	Bethel	AK	99559
+0012	4	270 6th Ave	Bethel	AK	99559
+0013	4	North Shore Of Big Lake	Big Lake	AK	99652
+0014	4	Mile 3 Big Lake Rd	Big Lake	AK	99652
+0015	4	19235 Old Glenn Hwy	Chugiak	AK	99567
+0016	4	101 Richardson Hwy	Copper Center	AK	99573
+0017	4	616 1st St	Cordova	AK	99574
+0018	4	1001 1st St	Cordova	AK	99574
+0019	4	Mile 265 Richardson Hwy	Delta Junction	AK	99737
+0020	4	Mile Port 1412 12 Alaska Hwy	Delta Junction	AK	99737
+0021	4	5257 Richardson Hwy	Delta Junction	AK	99737
+0022	4	1544 Kanakanak Rd	Dillingham	AK	99576
+0023	4	100 Gilman Rd	Dutch Harbor	AK	99692
+0024	4	543 2nd Ave	Fairbanks	AK	99701
+0025	4	1929 Airport Way	Fairbanks	AK	99701
+0026	4	Building 3703-B	Fort Wainwright	AK	99703
+0027	4	221 Hightower St	Girdwood	AK	99587
+0028	4	1000 S Arlberg	Girdwood	AK	99587
+0029	4	1000 Arlberg Avenue	Girdwood	AK	99587
+0030	4	5 Lindblad Ave	Girdwood	AK	99587
+0031	4	Mi 188.5 Glenn Hwy	Glennallen	AK	99588
+0032	4	11 2nd Ave	Haines	AK	99827
+0033	4	5th Avenue And Dalton St	Haines	AK	99827
+0034	4	39 Mud Bay Rd	Haines	AK	99827
+0035	4	276 Ohlson Ln	Homer	AK	99603
+0036	4	276 Ohlson Ln	Homer	AK	99603
+0037	4	324 Harbor Dr	Hoonah	AK	99829
+0038	4	14692 Big Lake Lodge	Houston	AK	99694
+0039	4	11806 Glacier Hwy	Juneau	AK	99801
+0040	4	740 W 9th St	Juneau	AK	99801
+0041	4	9121 Glacier Hwy	Juneau	AK	99801
+0042	4	127 N Franklin St	Juneau	AK	99801
+0043	4	2 12 Keku Rd	Kake	AK	99830
+0044	4	47 Spur View Dr	Kenai	AK	99611
+0045	4	1000 Mission Ave Ste 111	Kenai	AK	99611
+0046	4	106 S Willow St	Kenai	AK	99611
+0047	4	830 Water St	Ketchikan	AK	99901
+0048	4	830 Water St	Ketchikan	AK	99901
+0049	4	435 Dock St	Ketchikan	AK	99901
+0050	4	516 E Marine Way	Kodiak	AK	99615
+0051	4	326 Shelikof St	Kodiak	AK	99615
+0052	4	2161 Mill Bay Rd	Kodiak	AK	99615
+0053	4	103 Center Ave	Kodiak	AK	99615
+0054	4	587 Bison St	Kotzebue	AK	99752
+0055	4	Mile 288.5 Parks Hwy	Nenana	AK	99760
+0056	4	A St	Nenana	AK	99760
+0057	4	Mile 309 Parks Hwy	Nenana	AK	99760
+0058	4	Mile 135.4 Sterling Hwy	Ninilchik	AK	99639
+0059	4	15730 Sterling Hwy	Ninilchik	AK	99639
+0060	4	537 Saint Nicholas Dr # A	North Pole	AK	99705
+0061	4	2250 Old Richardson Hwy	North Pole	AK	99705
+0062	4	325 E Elmwood Ave	Palmer	AK	99645
+0063	4	Salmon Way	Pelican	AK	99832
+0064	4	1103 S Nordic Dr	Petersburg	AK	99833
+0065	4	11191 Richardson Hwy	Salcha	AK	99714
+0066	4	11191 Richardson Hwy	Salcha	AK	99714
+0067	4	338 4th Ave	Seward	AK	99664
+0068	4	209 Ave 5th	Seward	AK	99664
+0069	4	1316 4th Ave	Seward	AK	99664
+0070	4	4th And Washington	Seward	AK	99664
+0071	4	4th & Washington	Seward	AK	99664
+0072	4	308 N Harbor St	Seward	AK	99664
+0073	4	118 Lincoln St	Sitka	AK	99835
+0074	4	2906 Halibut Point Rd	Sitka	AK	99835
+0075	4	326 Lincoln St	Sitka	AK	99835
+0076	4	130 Lincoln St # 777	Sitka	AK	99835
+0077	4	210 Katlian St	Sitka	AK	99835
+0078	4	524 Lake St Apt 4	Sitka	AK	99835
+0079	4	2nd And Broadway	Skagway	AK	99840
+0080	4	5th Avenue	Skagway	AK	99840
+0081	4	6th And Broadway	Skagway	AK	99840
+0082	4	4th Avenue And State St	Skagway	AK	99840
+0083	4	3rd Ave	Skagway	AK	99840
+0084	4	44758 Sterling Hwy Ste A	Soldotna	AK	99669
+0085	4	34851 Kenai Spur Hwy	Soldotna	AK	99669
+0086	4	45015 Kalifornsky Beach Rd	Soldotna	AK	99669
+0087	4	44332 Sterling Hwy	Soldotna	AK	99669
+0088	4	35618 Kenai Spur Hwy	Soldotna	AK	99669
+0089	4	44695 Sterling Hwy	Soldotna	AK	99669
+0090	4	38515 Barbara St	Sterling	AK	99672
+0091	4	Sterling Hwy	Sterling	AK	99672
+0092	4	Mile 13 & 3/4 Talkeetna Spur Road	Talkeetna	AK	99676
+0093	4	Main St	Talkeetna	AK	99676
+0094	4	565 F St	Talkeetna	AK	99676
+0095	4	139 E Pioneer	Tatitlek	AK	99677
+0096	4	313 Meals	Tatitlek	AK	99677
+0097	4	210 N Harbor Dr	Tatitlek	AK	99677
+0098	4	118 S Meals	Tatitlek	AK	99677
+0099	4	Mm 1313.5 Alaska Hwy	Tok	AK	99780
+0100	4	1 Prospector Wat	Tok	AK	99780
+0101	4	208 Meals Ave	Valdez	AK	99686
+0102	4	112 Egan Dr	Valdez	AK	99686
+0103	4	107 N Harbor Dr	Valdez	AK	99686
+0104	4	310 Egan St	Valdez	AK	99686
+0105	4	2530 E Parks Hwy	Wasilla	AK	99654
+0106	4	1830 E Parks Hwy	Wasilla	AK	99654
+0107	4	1761 Palmer Wasilla Hwy	Wasilla	AK	99654
+0108	4	731 W Parks Hwy	Wasilla	AK	99654
+0109	4	1 Windy Place	Whittier	AK	99693
+0110	4	HC 89 Box 406S Mile 88.2 Parks Hwy	Willow	AK	99688
+0111	4	Mile 71.4 Parks Hwy	Willow	AK	99688
+0112	4	120 Front St	Wrangell	AK	99929
+0113	4	309 Front St	Wrangell	AK	99929
+0114	4	274 Shakes St	Wrangell	AK	99929
+0115	4	274 Shakes St	Wrangell	AK	99929
+0116	4	532 Front St	Wrangell	AK	99929
+0117	4	316 Front St	Wrangell	AK	99929
+0118	4	710 Colonial Promenade Pkwy	Alabaster	AL	35007
+0119	4	149 Buck Creek Plz	Alabaster	AL	35007
+0120	4	807 1st St N	Alabaster	AL	35007
+0121	4	212 N Broad St	Albertville	AL	35950
+0122	4	715 Sampson Cir	Albertville	AL	35950
+0123	4	900 Highland St	Albertville	AL	35951
+0124	4	5270 Martling Rd	Albertville	AL	35951
+0125	4	1630 Dadeville Rd	Alexander City	AL	35010
+0126	4	174 Broad St	Alexander City	AL	35010
+0127	4	145 Alabama St	Alexander City	AL	35010
+0128	4	1116 N Bypass	Andalusia	AL	36420
+0129	4	300 Westgate Plaza	Andalusia	AL	36420
+0130	4	1209 W Bypass	Andalusia	AL	36420
+0131	4	highway 78 , Oxfrod	Anniston	AL	36203
+0132	4	1021 US Highway 431 N Ste 15	Anniston	AL	36206
+0133	4	1708 Quintard Ave	Anniston	AL	36201
+0134	4	1024 Noble St	Anniston	AL	36201
+0135	4	1092 N Brindlee Mountain Pkwy	Arab	AL	35016
+0136	4	1070 N Brindlee Mountain Pkwy	Arab	AL	35016
+0137	4	1938 N Brindlee Mountain Pkwy	Arab	AL	35016
+0138	4	6723 Snake Rd	Athens	AL	35611
+0139	4	1506 US Hwy 72 E	Athens	AL	35611
+0140	4	1331 US Highway 72 E	Athens	AL	35611
+0141	4	102 US Highway 31 S	Athens	AL	35611
+0142	4	1504 S Main St	Atmore	AL	36502
+0143	4	312 E Ridgeley St	Atmore	AL	36502
+0144	4	90 Brookwood Rd	Atmore	AL	36502
+0145	4	140 Lindberg Ave	Atmore	AL	36502
+0146	4	323 Airport Rd	Auburn	AL	36830
+0147	4	114 W Magnolia Ave	Auburn	AL	36830
+0148	4	1627 Opelika Rd	Auburn	AL	36830
+0149	4	806 McMeans Ave	Bay Minette	AL	36507
+0150	4	8060 Hurricane Rd	Bay Minette	AL	36507
+0151	4	251 S US Hwy 31	Bay Minette	AL	36507
+0152	4	204 E 2nd St	Bay Minette	AL	36507
+0153	4	22543 Hwy 69 N	Berry	AL	35546
+0154	4	17628 Highway 18 E	Berry	AL	35546
+0155	4	41 Mf Cannon St	Berry	AL	35546
+0156	4	22711 Hwy 43 N	Berry	AL	35546
+0157	4	17851 Highway 18 E	Berry	AL	35546
+0158	4	304 19th St N	Bessemer	AL	35020
+0159	4	560 W Town Plz	Bessemer	AL	35020
+0160	4	3979 Parkwood Rd SE	Bessemer	AL	35022
+0161	4	5040 Academy Ln	Bessemer	AL	35022
+0162	4	1205 Lake Dr SE	Bessemer	AL	35022
+0163	4	611 21st St S	Birmingham	AL	35233
+0164	4	2409 Acton Rd	Birmingham	AL	35243
+0165	4	345 Gold Kist St	Boaz	AL	35957
+0166	4	612 Miller Dr # D	Boaz	AL	35957
+0167	4	24 The Trl	Brewton	AL	36426
+0168	4	1103 Douglas Ave	Brewton	AL	36426
+0169	4	219 Highway 31 S	Brewton	AL	36426
+0170	4	4570 Highway 31	Calera	AL	35040
+0171	4	4416 Hwy 31	Calera	AL	35040
+0172	4	101 Supercenter Dr	Calera	AL	35040
+0173	4	2220 Hwy 84	Calera	AL	35040
+0174	4	8101 Hwy 31	Calera	AL	35040
+0175	4	3477 County Rd 33	Calera	AL	35040
+0176	4	5300 County Road 22	Centre	AL	35960
+0177	4	800 Alexis Rd	Centre	AL	35960
+0178	4	12365 County Road 22	Centre	AL	35960
+0179	4	503 7th St N	Clanton	AL	35045
+0180	4	664 Clanton Market Pl	Clanton	AL	35045
+0181	4	509 7th St S	Clanton	AL	35045
+0182	4	890 Logan Rd	Clanton	AL	35045
+0183	4	312 N Valley Ave # B	Collinsville	AL	35961
+0184	4	3697 Al Highway 68	Collinsville	AL	35961
+0185	4	795 George Cagle Dr	Collinsville	AL	35961
+0186	4	150 Main St	Collinsville	AL	35961
+0187	4	115 1st Ave SW	Cullman	AL	35055
+0188	4	1850 Cherokee Ave SW	Cullman	AL	35055
+0189	4	4470 Al Hwy 69 N	Cullman	AL	35058
+0190	4	1839 Al Highway 157	Cullman	AL	35058
+0191	4	191 E S St	Dadeville	AL	36853
+0192	4	10611 Highway 49 S	Dadeville	AL	36853
+0193	4	138 E S St	Dadeville	AL	36853
+0194	4	6993 Highway 49 S	Dadeville	AL	36853
+0195	4	92 N Daleville Ave	Daleville	AL	36322
+0196	4	756 N Daleville Ave	Daleville	AL	36322
+0197	4	807 Donnell Blvd Ste H	Daleville	AL	36322
+0198	4	25965 Highway 181	Daphne	AL	36526
+0199	4	Highway 27	Daphne	AL	36526
+0200	4	29075 Highway 98	Daphne	AL	36526
+0201	4	29075 Hwy 98	Daphne	AL	36526
+0202	4	45 Marco Dr	Decatur	AL	35603
+0203	4	2041-A Beltline Rd SW	Decatur	AL	35601
+0204	4	710 US Highway 80 E	Demopolis	AL	36732
+0205	4	928 US Highway 80 E	Demopolis	AL	36732
+0206	4	123 W Washington St	Demopolis	AL	36732
+0207	4	135 Yacht Basin Dr	Demopolis	AL	36732
+0208	4	3050 Ross Clark Cir	Dothan	AL	36301
+0209	4	3340 Ross Clark Cir	Dothan	AL	36303
+0210	4	3411 Ross Clark Cir	Dothan	AL	36303
+0211	4	3522 Ross Clark Cir	Dothan	AL	36303
+0212	4	4485 Kowaliga Rd	Eclectic	AL	36024
+0213	4	2452 Kowaliga Rd	Eclectic	AL	36024
+0214	4	2452 Kowaliga Rd	Eclectic	AL	36024
+0215	4	3 Westpointe Ct # S	Enterprise	AL	36330
+0216	4	2950 Rucker Blvd	Enterprise	AL	36330
+0217	4	637 Boll Weevil Cir	Enterprise	AL	36330
+0218	4	909 Rucker Blvd	Enterprise	AL	36330
+0219	4	623 Boll Weevil Cir	Enterprise	AL	36330
+0220	4	Highway 431 N	Eufaula	AL	36027
+0221	4	26 Mack St	Eufaula	AL	36027
+0222	4	1449 S Eufaula Ave	Eufaula	AL	36027
+0223	4	114 N Eufaula Ave	Eufaula	AL	36027
+0224	4	Highway 43	Eutaw	AL	35462
+0225	4	802 Boligee St	Eutaw	AL	35462
+0226	4	Union Rd Exit 45	Eutaw	AL	35462
+0227	4	Union Rd	Eutaw	AL	35462
+0228	4	101 Hillcrest Dr	Evergreen	AL	36401
+0229	4	316 Perryman St	Evergreen	AL	36401
+0230	4	RR 2 Box 3935	Evergreen	AL	36401
+0231	4	I 65 Ted Bates Rd	Evergreen	AL	36401
+0232	4	7201 Aaron Aronov Dr	Fairfield	AL	35064
+0233	4	6509 E J Oliver Blvd	Fairfield	AL	35064
+0234	4	4101 Veterans Memorial Dr	Fairfield	AL	35064
+0235	4	552 N Section St	Fairhope	AL	36532
+0236	4	2 S Church St	Fairhope	AL	36532
+0237	4	105 Section St S	Fairhope	AL	36532
+0238	4	19270 Scenic Hwy 98	Fairhope	AL	36532
+0239	4	805 S Mobile St	Fairhope	AL	36532
+0240	4	1636 Temple Ave N	Fayette	AL	35555
+0241	4	1037 Temple Ave S	Fayette	AL	35555
+0242	4	226 2nd Ave NE	Fayette	AL	35555
+0243	4	116 N. Court Street	Florence	AL	35630
+0244	4	301 Cox Creek Pkwy	Florence	AL	35630
+0245	4	307 Cox Creek Pkwy	Florence	AL	35630
+0246	4	901 W College St	Florence	AL	35630
+0247	4	2151 Florence Blvd	Florence	AL	35630
+0248	4	2303 S McKenzie St	Foley	AL	36535
+0249	4	14984 US Highway 98	Foley	AL	36535
+0250	4	1145 S McKenzie St	Foley	AL	36535
+0251	4	2401 S Mckenzie St	Foley	AL	36535
+0252	4	110 Gault Ave N	Fort Payne	AL	35967
+0253	4	1824 Glenn Blvd SW	Fort Payne	AL	35968
+0254	4	1907 Scenic Rd E	Fort Payne	AL	35967
+0255	4	1502 Gault Ave S	Fort Payne	AL	35967
+0256	4	1050 Glenn Blvd SW	Fort Payne	AL	35967
+0257	4	1114 Glenn Blvd S.W.	Fort Payne	AL	35967
+0258	4	2200 Gault Ave N	Fort Payne	AL	35967
+0259	4	325 Walker Chapel Plz	Fultondale	AL	35068
+0260	4	1415 Decatur Hwy	Fultondale	AL	35068
+0261	4	1725 Fulton Rd	Fultondale	AL	35068
+0262	4	1214 Decatur Hwy	Fultondale	AL	35068
+0263	4	1501 Decatur Hwy	Fultondale	AL	35068
+0264	4	127 River Rd	Gadsden	AL	35901
+0265	4	825 Rainbow Dr	Gadsden	AL	35901
+0266	4	835 Rainbow Dr	Gadsden	AL	35901
+0267	4	1606 Rainbow Dr	Gadsden	AL	35901
+0268	4	1100 Pecan Ave	Gardendale	AL	35071
+0269	4	901 Fieldstown Rd	Gardendale	AL	35071
+0270	4	961 Main St	Gardendale	AL	35071
+0271	4	835 Odum Rd	Gardendale	AL	35071
+0272	4	807 E Town Ave	Geneva	AL	36340
+0273	4	1500 W Magnolia Ave	Geneva	AL	36340
+0274	4	987 W Maple Ave	Geneva	AL	36340
+0275	4	1000 W Maple Ave	Geneva	AL	36340
+0276	4	805 W Maple Ave	Geneva	AL	36340
+0277	4	112 Interstate Dr	Greenville	AL	36037
+0278	4	1001 Fort Dale Rd	Greenville	AL	36037
+0279	4	134 Butler Sq	Greenville	AL	36037
+0280	4	180 Interstate Dr	Greenville	AL	36037
+0281	4	190 Greenville Byp	Greenville	AL	36037
+0282	4	132 W 1st Ave	Gulf Shores	AL	36542
+0283	4	Hwy 59 Magnolia Plaza	Gulf Shores	AL	36542
+0284	4	1137 Gulf Shores Pkwy	Gulf Shores	AL	36542
+0285	4	11950 US Highway 431	Guntersville	AL	35976
+0286	4	5000 Webb Ave	Guntersville	AL	35976
+0287	4	7004 Val Monte Dr	Guntersville	AL	35976
+0288	4	2053 Gunter Ave	Guntersville	AL	35976
+0289	4	373 Gunter Ave	Guntersville	AL	35976
+0290	4	907 20th St	Haleyville	AL	35565
+0291	4	812 Hwy 13	Haleyville	AL	35565
+0292	4	2110 11th Ave	Haleyville	AL	35565
+0293	4	1918 21st Pl	Haleyville	AL	35565
+0294	4	1717 St Hwy 17	Hamilton	AL	35570
+0295	4	1481 Military St S	Hamilton	AL	35570
+0296	4	1500 Military St S	Hamilton	AL	35570
+0297	4	2086 Bexar Ave E	Hamilton	AL	35570
+0298	4	1465 Bexar Ave W	Hamilton	AL	35570
+0299	4	390 Rock Cliff Rd	Hamilton	AL	35570
+0300	4	814 Main St NE	Hanceville	AL	35077
+0301	4	502 Main St SE	Hanceville	AL	35077
+0302	4	Highway 31	Hanceville	AL	35077
+0303	4	914 Main St NE	Hanceville	AL	35077
+0304	4	9715 Al Hwy 91	Hanceville	AL	35077
+0305	4	1502 SW Barkley Bridge Rd	Hartselle	AL	35619
+0306	4	727 Main St W	Hartselle	AL	35640
+0307	4	649 Hwy 36 E	Hartselle	AL	35640
+0308	4	700 Nance Ford Rd SW	Hartselle	AL	35640
+0309	4	5988 Pulaski Pike	Huntsville	AL	35810
+0310	4	university dr.	Huntsville	AL	35811
+0311	4	109 N Side Sq	Huntsville	AL	35801
+0312	4	Hwy 43 N	Jackson	AL	36545
+0313	4	207 S Kimball Ave	Jackson	AL	36545
+0314	4	718 College Ave	Jackson	AL	36545
+0315	4	206 E Church St	Jackson	AL	36545
+0316	4	1204 College Ave	Jackson	AL	36545
+0317	4	500 Forney Ave NW	Jacksonville	AL	36265
+0318	4	401 Pelham Rd S	Jacksonville	AL	36265
+0319	4	108 Clinton St SE	Jacksonville	AL	36265
+0320	4	1021 Pelham Rd S	Jacksonville	AL	36265
+0321	4	4330 E Hwy 78	Jasper	AL	35501
+0322	4	33080 Hwy 69	Jasper	AL	35504
+0323	4	4098 Hwy 78 E	Jasper	AL	35501
+0324	4	500 Hwy 78 W	Jasper	AL	35501
+0325	4	699 Highway 78 W	Jasper	AL	35501
+0326	4	704 Hwy 231	Laceys Spring	AL	35754
+0327	4	699 Highway 231	Laceys Spring	AL	35754
+0328	4	1139 Hwy 231	Laceys Spring	AL	35754
+0329	4	1916 Broad Ave	Lanett	AL	36863
+0330	4	1100 County Road 212	Lanett	AL	36863
+0331	4	1133 County Road 294	Lanett	AL	36863
+0332	4	2005 Magnolia Rd	Lanett	AL	36863
+0333	4	401 N Gilmer Ave	Lanett	AL	36863
+0334	4	305 S 14th Ave	Lanett	AL	36863
+0335	4	1642 Ashville Rd NE	Leeds	AL	35094
+0336	4	75023 Al Highway 77	Lincoln	AL	35096
+0337	4	670 Magnolia St S	Lincoln	AL	35096
+0338	4	12153 Stemley Rd # B	Lincoln	AL	35096
+0339	4	75905 Al Highway 77	Lincoln	AL	35096
+0340	4	140 Browns Ferry Rd	Madison	AL	35758
+0341	4	8572 Madison Blvd	Madison	AL	35758
+0342	4	101 Ivory Pl	Madison	AL	35758
+0343	4	7830 Hwy 72 W	Madison	AL	35758
+0344	4	3861 Highway 14	Millbrook	AL	36054
+0345	4	3543 Highway 14	Millbrook	AL	36054
+0346	4	3242 Dauphin St	Mobile	AL	36606
+0347	4	6389 Three Notch Rd	Mobile	AL	36619
+0348	4	145 Highway 84 E	Monroeville	AL	36460
+0349	4	55 Highway 84 W	Monroeville	AL	36460
+0350	4	5 N Mount Pleasant Ave	Monroeville	AL	36460
+0351	4	4482 S Alabama Ave	Monroeville	AL	36460
+0352	4	18 Main St	Monroeville	AL	36460
+0353	4	1559 S Alabama Ave	Monroeville	AL	36460
+0354	4	108 Selma Rd	Montevallo	AL	35115
+0355	4	629 Main St	Montevallo	AL	35115
+0356	4	5440 Highway 25	Montevallo	AL	35115
+0357	4	201 Montgomery St	Montgomery	AL	36109
+0358	4	1796 Carter Hill Road	Montgomery	AL	36106
+0359	4	7020 Eastchase Pkwy	Montgomery	AL	36117
+0360	4	7780 Atlanta Hwy	Montgomery	AL	36117
+0361	4	3195 Taylor Rd	Montgomery	AL	36116
+0362	4	115 Montgomery St	Montgomery	AL	36104
+0363	4	11383 Al Highway 157	Moulton	AL	35650
+0364	4	526 County Road 330	Moulton	AL	35650
+0365	4	13533 Al Hwy 157	Moulton	AL	35650
+0366	4	11227 Al Highway 157	Moulton	AL	35650
+0367	4	2405 Woodward Ave	Muscle Shoals	AL	35661
+0368	4	3701 River Rd	Muscle Shoals	AL	35661
+0369	4	2710 Woodward Ave	Muscle Shoals	AL	35661
+0370	4	701 Avalon Ave	Muscle Shoals	AL	35661
+0371	4	2227 Woodward Ave	Muscle Shoals	AL	35661
+0372	4	301 Ford Rd	Muscle Shoals	AL	35661
+0373	4	9425 Jones Rd	Northport	AL	35473
+0374	4	1925 McFarland Blvd	Northport	AL	35476
+0375	4	4700 Rose Blvd	Northport	AL	35475
+0376	4	611 2nd Ave E	Oneonta	AL	35121
+0377	4	912 2nd Ave E	Oneonta	AL	35121
+0378	4	707 Geneva St	Opelika	AL	36801
+0379	4	2501 Gateway Dr	Opelika	AL	36801
+0380	4	1051 Fox Run Ave	Opelika	AL	36801
+0381	4	2301 Birmingham Hwy	Opelika	AL	36801
+0382	4	817 S Railroad Ave	Opelika	AL	36801
+0383	4	920 Columbus Pkwy	Opelika	AL	36801
+0384	4	4986 Al Highway 51	Opelika	AL	36804
+0385	4	407 N Maloy St	Opp	AL	36467
+0386	4	28502 US Highway 84	Opp	AL	36467
+0387	4	113 S Main St	Opp	AL	36467
+0388	4	24621 Perdido Beach Blvd	Orange Beach	AL	36561
+0389	4	27075 Marina Rd	Orange Beach	AL	36561
+0390	4	5749 Bay La Launch Ave	Orange Beach	AL	36561
+0391	4	25405 Perdido Beach Blvd Ste 22	Orange Beach	AL	36561
+0392	4	27267 Perdido Beach Blvd Ste 101	Orange Beach	AL	36561
+0393	4	25405 Perdido Beach Blvd Ste 25	Orange Beach	AL	36561
+0394	4	1809 US Highway 78 E	Oxford	AL	36203
+0395	4	218 Davis Loop	Oxford	AL	36203
+0396	4	515 Quintard Dr	Oxford	AL	36203
+0397	4	220 Morgan Rd	Oxford	AL	36203
+0398	4	218 Davis Loop	Oxford	AL	36203
+0399	4	2308 US Highway 78 W	Oxford	AL	36203
+0400	4	2 Recreation Dr	Oxford	AL	36203
+0401	4	1116 S US Highway 231	Ozark	AL	36360
+0402	4	105 S Highway 231	Ozark	AL	36360
+0403	4	4074 S Us Hwy 231	Ozark	AL	36360
+0404	4	320 Cahaba Valley Rd	Pelham	AL	35124
+0405	4	120 Bishop Cir	Pelham	AL	35124
+0406	4	201 Southgate Dr	Pelham	AL	35124
+0407	4	360 Cahaba Valley Rd	Pelham	AL	35124
+0408	4	3018 Pelham Pkwy Ste 102	Pelham	AL	35124
+0409	4	1911 Martin St S	Pell City	AL	35128
+0410	4	4209 Stemley Bridge Rd	Pell City	AL	35128
+0411	4	962 Airport Rd	Pell City	AL	35128
+0412	4	1205 Martin St N	Pell City	AL	35125
+0413	4	1310 7th Ave	Phenix City	AL	36867
+0414	4	3211 Martin Luther King Jr Pkwy S	Phenix City	AL	36869
+0415	4	5409 Summerville Rd	Phenix City	AL	36867
+0416	4	2025 280 Byp	Phenix City	AL	36867
+0417	4	4502 Center Point Rd	Pinson	AL	35126
+0418	4	8905 Old Hwy 75	Pinson	AL	35126
+0419	4	4468 Center Point Rd	Pinson	AL	35126
+0420	4	109 S Memorial Dr	Prattville	AL	36067
+0421	4	2500 Legends Cir	Prattville	AL	36066
+0422	4	110 Sutton Bridge Rd	Rainbow City	AL	35906
+0423	4	209 W Grand Ave	Rainbow City	AL	35906
+0424	4	115 W Grand Ave	Rainbow City	AL	35906
+0425	4	32498 US Highway 431	Roanoke	AL	36274
+0426	4	3106 Hwy 431	Roanoke	AL	36274
+0427	4	3163 Highway 431	Roanoke	AL	36274
+0428	4	16390 Hwy 72	Rogersville	AL	35652
+0429	4	41 Market Sq	Rogersville	AL	35652
+0430	4	10497 Highway 72	Rogersville	AL	35652
+0431	4	10251 Hwy 72	Rogersville	AL	35652
+0432	4	4266 Highway 101	Rogersville	AL	35652
+0433	4	15385 Hwy 43	Russellville	AL	35653
+0434	4	1444 Industrial Pkwy	Saraland	AL	36571
+0435	4	300 Industrial Pkwy	Saraland	AL	36571
+0436	4	927 Saraland Blvd S	Saraland	AL	36571
+0437	4	407 Highway 43 S	Saraland	AL	36571
+0438	4	1402 County Park Rd	Scottsboro	AL	35769
+0439	4	23980 John T Reid Pkwy	Scottsboro	AL	35768
+0440	4	1519 S Broad St	Scottsboro	AL	35768
+0441	4	907 E Willow St	Scottsboro	AL	35768
+0442	4	145 E Laurel St	Scottsboro	AL	35768
+0443	4	3210 S Broad St	Scottsboro	AL	35769
+0444	4	205 Medical Center Pkwy	Selma	AL	36701
+0445	4	2584 US Highway 80 W	Selma	AL	36701
+0446	4	112 W 3rd St	Sheffield	AL	35660
+0447	4	1205 S Jackson Hwy	Sheffield	AL	35660
+0448	4	900 E 28th St	Sheffield	AL	35660
+0449	4	3382 Battleship Pkwy	Spanish Fort	AL	36527
+0450	4	30500 State Hwy 181 , Suite 134	Spanish Fort	AL	36527
+0451	4	322 Spanish Fort Blvd	Spanish Fort	AL	36527
+0452	4	9971 Spanish Fort Blvd	Spanish Fort	AL	36527
+0453	4	8148 Spanish Fort Blvd	Spanish Fort	AL	36527
+0454	4	30500 State Hwy 181	Spanish Fort	AL	36527
+0455	4	5811 Us Hwy 11	Springville	AL	35146
+0456	4	620 Hull Rd	Sumiton	AL	35148
+0457	4	605 Hwy 78	Sumiton	AL	35148
+0458	4	570 State St	Sumiton	AL	35148
+0459	4	Sumiton Square Shopping Ctr	Sumiton	AL	35148
+0460	4	1175 Main St	Sumiton	AL	35148
+0461	4	215 N Broadway Ave	Sylacauga	AL	35150
+0462	4	US Highway 280	Sylacauga	AL	35150
+0463	4	42701 US Highway 280	Sylacauga	AL	35150
+0464	4	710 Battle St E	Talladega	AL	35160
+0465	4	103 17th St S	Talladega	AL	35160
+0466	4	103 17th St S	Talladega	AL	35160
+0467	4	114 Court Sq S	Talladega	AL	35160
+0468	4	7744 Stemley Bridge Rd	Talladega	AL	35160
+0469	4	2340 Notasulga Rd	Tallassee	AL	36078
+0470	4	2340 Notasulga Rd	Tallassee	AL	36078
+0471	4	1119 Gilmer Ave	Tallassee	AL	36078
+0472	4	7351 Theodore Dawes Rd	Theodore	AL	36582
+0473	4	6171 Hwy 90	Theodore	AL	36582
+0474	4	6354 Highway 90	Theodore	AL	36582
+0475	4	803 Highway 43 N	Thomasville	AL	36784
+0476	4	34200 Hwy 43	Thomasville	AL	36784
+0477	4	4 W Front St	Thomasville	AL	36784
+0478	4	33495 Hwy 43	Thomasville	AL	36784
+0479	4	1112 Highway 231 S	Troy	AL	36081
+0480	4	102-A University Ave	Troy	AL	36081
+0481	4	119 Southland Vlg Ste C	Troy	AL	36079
+0482	4	1208 Highway 231 S	Troy	AL	36081
+0483	4	109 Glenn Ave	Trussville	AL	35173
+0484	4	1128 N Chalkville Rd	Trussville	AL	35173
+0485	4	8156 Gadsden Hwy	Trussville	AL	35173
+0486	4	199 Beechnut St	Trussville	AL	35173
+0487	4	311 Main St # 113	Trussville	AL	35173
+0488	4	1759 Skyland Blvd E	Tuscaloosa	AL	35405
+0489	4	3520 McFarland Blvd E	Tuscaloosa	AL	35405
+0490	4	1825 McFarland Blvd N	Tuscaloosa	AL	35406
+0491	4	2321 University Blvd	Tuscaloosa	AL	35401
+0492	4	400 S Main St	Tuscumbia	AL	35674
+0493	4	1108 Hwy 72 W	Tuscumbia	AL	35674
+0494	4	108 S Main St	Tuscumbia	AL	35674
+0495	4	104 S Main St	Tuscumbia	AL	35674
+0496	4	1100 Boulevard	Valley	AL	36854
+0497	4	3791 20th Ave	Valley	AL	36854
+0498	4	580 Fob James Dr	Valley	AL	36854
+0499	4	2800 20th Ave	Valley	AL	36854
+0500	4	559 Fob James Dr	Valley	AL	36854
+0501	4	3603 20th Ave	Valley	AL	36854
+0502	4	7380 Fairfax Byp	Valley	AL	36854
+0503	4	575 State Highway 160	Warrior	AL	35180
+0504	4	412 Main St N	Warrior	AL	35180
+0505	4	219 Louisa St	Warrior	AL	35180
+0506	4	2430 Corner Rd	Warrior	AL	35180
+0507	4	407 Main St N	Warrior	AL	35180
+0508	4	7585 US Highway 231	Wetumpka	AL	36092
+0509	4	809 Company St	Wetumpka	AL	36092
+0510	4	142 Bankhead Hwy	Winfield	AL	35594
+0511	4	5301 State Hwy 129	Winfield	AL	35594
+0512	4	County Road 49	Winfield	AL	35594
+0513	4	2035 Bankhead Hwy	Winfield	AL	35594
+0514	4	2430 US Highway 43	Winfield	AL	35594
+0515	4	13836 Highway 129	Winfield	AL	35594
+0516	4	1602 Franklin	Altus	AR	72821
+0517	4	3324 Swiss Family Dr	Altus	AR	72821
+0518	4	2805 Pine St	Arkadelphia	AR	71923
+0519	4	Hwy 71 South	Ashdown	AR	71822
+0520	4	120 S Constitution Ave	Ashdown	AR	71822
+0521	4	106 Pump Station Rd	Ashdown	AR	71822
+0522	4	314 Highway 62 W	Ash Flat	AR	72513
+0523	4	633 Highway 62 W	Ash Flat	AR	72513
+0524	4	415 Saddle Club Rd # D	Ash Flat	AR	72513
+0525	4	72 Highway 62-412	Ash Flat	AR	72513
+0526	4	124 E Main St	Ash Flat	AR	72513
+0527	4	Highway 62 # 191	Ash Flat	AR	72513
+0528	4	6 Fish Lake Rd	Atkins	AR	72823
+0529	4	211 E Main St	Atkins	AR	72823
+0530	4	502 N Church St	Atkins	AR	72823
+0531	4	3801 Happy Bend Rd	Atkins	AR	72823
+0532	4	817 N 9th St	Augusta	AR	72006
+0533	4	106 N 2nd St	Augusta	AR	72006
+0534	4	231 E Main St	Batesville	AR	72501
+0535	4	2360 Harrison St	Batesville	AR	72501
+0536	4	763 Batesville Blvd	Batesville	AR	72501
+0537	4	2010 W Dewitt Henry Dr	Beebe	AR	72012
+0538	4	1035 Highway 64 W	Beebe	AR	72012
+0539	4	1404 W Dewitt Henry Dr	Beebe	AR	72012
+0540	4	1204 N Main	Beebe	AR	72012
+0541	4	2002 W Dewitt Henry Dr	Beebe	AR	72012
+0542	4	10 Basore Ln	Bella Vista	AR	72714
+0543	4	426 Town Ctr NE	Bella Vista	AR	72714
+0544	4	638 W Lancashire Blvd	Bella Vista	AR	72715
+0545	4	1929 Landers Dr	Benton	AR	72015
+0546	4	17018 Hwy I-30	Benton	AR	72015
+0547	4	16925 Hwy I-30	Benton	AR	72015
+0548	4	1209 Edison Ave	Benton	AR	72015
+0549	4	1140 N Walton Blvd	Bentonville	AR	72712
+0550	4	2101 SE Walton Blvd	Bentonville	AR	72712
+0551	4	1204 S Walton Blvd	Bentonville	AR	72712
+0552	4	2806 S Walton Blvd	Bentonville	AR	72712
+0553	4	Hwy 62	Berryville	AR	72616
+0554	4	675 Apple Rd	Berryville	AR	72616
+0555	4	412 W Trimble Ave	Berryville	AR	72616
+0556	4	3820 E Main	Blytheville	AR	72315
+0557	4	112 N Division St	Blytheville	AR	72315
+0558	4	1916 W Rose St	Blytheville	AR	72315
+0559	4	1520 E Main St	Blytheville	AR	72315
+0560	4	655 Cypress Rd	Brinkley	AR	72021
+0561	4	101 S New York St	Brinkley	AR	72021
+0562	4	105 W Cypress St	Brinkley	AR	72021
+0563	4	3213 Main St	Bryant	AR	72022
+0564	4	304 N Reynolds Rd Ste 5E	Bryant	AR	72022
+0565	4	105 Commerce St	Bryant	AR	72022
+0566	4	2213 N Reynolds Rd	Bryant	AR	72022
+0567	4	21 Funtastic Dr	Cabot	AR	72023
+0568	4	112 E Main St	Cabot	AR	72023
+0569	4	103 Historic Main St	Calico Rock	AR	72519
+0570	4	901 Highway 56 E	Calico Rock	AR	72519
+0571	4	323 Adams SE	Camden	AR	71701
+0572	4	665 Bradley Ferry Rd	Camden	AR	71701
+0573	4	695 California Ave SW	Camden	AR	71701
+0574	4	114 W Washington St	Camden	AR	71701
+0575	4	1321 N Main St	Cave City	AR	72521
+0576	4	607 N Main St	Cave City	AR	72521
+0577	4	457 Hwy 167	Cave City	AR	72521
+0578	4	1201 S. Rogers Ave	Clarksville	AR	72830
+0579	4	1201 S Rogers St	Clarksville	AR	72830
+0580	4	320 Highway 21	Clarksville	AR	72830
+0581	4	201 Highway 65 N Ste 60	Conway	AR	72032
+0582	4	393 Highway 64 E # A	Conway	AR	72032
+0583	4	600 Skyline Dr	Conway	AR	72032
+0584	4	2104 Harkrider St	Conway	AR	72032
+0585	4	1308 Main St	Crossett	AR	71635
+0586	4	404 N Florida St	Crossett	AR	71635
+0587	4	107 Unity Rd	Crossett	AR	71635
+0588	4	100 Main St Ste U	Crossett	AR	71635
+0589	4	205 Pine St	Crossett	AR	71635
+0590	4	1500 S Florida St	Crossett	AR	71635
+0591	4	1007 Highway 7 S	Dardanelle	AR	72834
+0592	4	111 S Front St	Dardanelle	AR	72834
+0593	4	605 W Collin Raye Dr	De Queen	AR	71832
+0594	4	208 W Collin Raye Dr	De Queen	AR	71832
+0595	4	110 W Stillwell Ave	De Queen	AR	71832
+0596	4	110 W Stillwell Ave	De Queen	AR	71832
+0597	4	904 W Collin Raye Dr	De Queen	AR	71832
+0598	4	312 S Whitehead Dr	De Witt	AR	72042
+0599	4	1306 S Whitehead Dr	De Witt	AR	72042
+0600	4	122 S Main St	De Witt	AR	72042
+0601	4	3950 Arkansas Hwy 5	Diaz	AR	72043
+0602	4	2620 W Cleland Rd	Diaz	AR	72043
+0603	4	819 S Second	Diaz	AR	72043
+0604	4	217 Highway 65 N	Dumas	AR	71639
+0605	4	724 Highway 65 S	Dumas	AR	71639
+0606	4	602 Jones St	Dumas	AR	71639
+0607	4	125 Highway 65 N	Dumas	AR	71639
+0608	4	105 S Main St	Dumas	AR	71639
+0609	4	2740 N West Ave	El Dorado	AR	71730
+0610	4	2004 N College Ave	El Dorado	AR	71730
+0611	4	1112 E Hillsboro St	El Dorado	AR	71730
+0612	4	1370 Front St	Eudora	AR	71640
+0613	4	2925 S Highway 65	Eudora	AR	71640
+0614	4	580 W Van Buren	Eureka Springs	AR	72632
+0615	4	120 E Van Buren	Eureka Springs	AR	72632
+0616	4	5 Center St	Eureka Springs	AR	72632
+0617	4	82 Armstrong St	Eureka Springs	AR	72632
+0618	4	299 N Main St	Eureka Springs	AR	72632
+0619	4	27 S Main St	Eureka Springs	AR	72632
+0620	4	56 Yukon Way	Farmington	AR	72730
+0621	4	11520 Club House Pkwy	Farmington	AR	72730
+0622	4	2135 Main Dr	Fayetteville	AR	72704
+0623	4	4127 W Wedington Dr	Fayetteville	AR	72704
+0624	4	3611 N Shiloh Dr	Fayetteville	AR	72703
+0625	4	741 E Van Asche Dr	Fayetteville	AR	72703
+0626	4	2131 W 6th St	Fayetteville	AR	72701
+0627	4	2334 N College Ave	Fayetteville	AR	72703
+0628	4	109 N First St	Flippin	AR	72634
+0629	4	125 Main St	Flippin	AR	72634
+0630	4	S 1st St	Flippin	AR	72634
+0631	4	Highway 62 E	Flippin	AR	72634
+0632	4	200 Holiday Dr	Forrest City	AR	72335
+0633	4	201 Deadrick Rd	Forrest City	AR	72335
+0634	4	Hwy 1 & I-40	Forrest City	AR	72335
+0635	4	520 E Broadway St	Forrest City	AR	72335
+0636	4	122 Turner	Forrest City	AR	72335
+0637	4	2055 N Washington St	Forrest City	AR	72335
+0638	4	6901 Rogers Ave	Fort Smith	AR	72903
+0639	4	5511 Towson	Fort Smith	AR	72901
+0640	4	8203 Rogers Ave	Fort Smith	AR	72903
+0641	4	5124 Towson Ave	Fort Smith	AR	72901
+0642	4	7401 Rogers Ave	Fort Smith	AR	72903
+0643	4	201 Main St SE	Gravette	AR	72736
+0644	4	655 Highway 65 N	Greenbrier	AR	72058
+0645	4	166 S Broadview St	Greenbrier	AR	72058
+0646	4	624 W Center St	Greenwood	AR	72936
+0647	4	3 S Main	Greenwood	AR	72936
+0648	4	100 E Walnut St	Gurdon	AR	71743
+0649	4	1001 N Elm St	Gurdon	AR	71743
+0650	4	Hwy I-30 & Exit 63	Gurdon	AR	71743
+0651	4	801 N Pine St	Hamburg	AR	71646
+0652	4	100 N Mulberry St	Hamburg	AR	71646
+0653	4	1508 Highway 62	Hardy	AR	72542
+0654	4	307 E Main St	Hardy	AR	72542
+0655	4	107 Main St	Hardy	AR	72542
+0656	4	4200 Highway 62412	Hardy	AR	72542
+0657	4	203 E Main St	Hardy	AR	72542
+0658	4	1112 N Main St	Harrison	AR	72601
+0659	4	1408 N Highway 62 65	Harrison	AR	72601
+0660	4	710 N Highway 62 65	Harrison	AR	72601
+0661	4	1632 Hwy 25N	Heber Springs	AR	72543
+0662	4	425 Highway 110 E	Heber Springs	AR	72543
+0663	4	559 Wilburn Rd	Heber Springs	AR	72543
+0664	4	2121 Hwy 25	Heber Springs	AR	72543
+0665	4	7th & Main	Heber Springs	AR	72543
+0666	4	1088 Hwy 49 W	Helena	AR	72342
+0667	4	523 Cherry Street	Helena	AR	72342
+0668	4	1200 N Hervey St	Hope	AR	71801
+0669	4	511 S Main St	Hope	AR	71801
+0670	4	1300 N Hervey St	Hope	AR	71801
+0671	4	225 S Main St	Hope	AR	71801
+0672	4	200 E 2nd St	Hope	AR	71801
+0673	4	505 Albert Pike Rd	Hot Springs National Park	AR	71913
+0674	4	210 Central	Hot Springs National Park	AR	71901
+0675	4	303 Broadway St	Hot Springs National Park	AR	71901
+0676	4	4426 Central Ave	Hot Springs National Park	AR	71913
+0677	4	102 Clubhouse Dr	Hot Springs Village	AR	71909
+0678	4	104 Cedar Mountain Cir	Hot Springs Village	AR	71909
+0679	4	488 Ponce De Leon Dr	Hot Springs Village	AR	71909
+0680	4	107 Desoto Center Dr # 7A	Hot Springs Village	AR	71909
+0681	4	1802 S Highway 161	Jacksonville	AR	72076
+0682	4	2020 N 1st St	Jacksonville	AR	72076
+0683	4	1400 John Harden Dr	Jacksonville	AR	72076
+0684	4	7404 Batesville Pike	Jacksonville	AR	72076
+0685	4	1109 W Main St	Jacksonville	AR	72076
+0686	4	217 E Court Highway 7	Jasper	AR	72641
+0687	4	2621 Phillips Dr	Jonesboro	AR	72401
+0688	4	2309 E Parker Rd	Jonesboro	AR	72404
+0689	4	1701 E Highland Dr	Jonesboro	AR	72401
+0690	4	118 N Main St	Junction City	AR	71749
+0691	4	4448 Haynesville Hwy	Junction City	AR	71749
+0692	4	4263 Central Ave	Lake Hamilton	AR	71913
+0693	4	3815 Central Ave	Lake Hamilton	AR	71913
+0694	4	4813 Central Ave	Lake Hamilton	AR	71913
+0695	4	4904 Central Ave B	Lake Hamilton	AR	71913
+0696	4	5361 Central Ave	Lake Hamilton	AR	71913
+0697	4	3681 S Highway 65 82	Lake Village	AR	71653
+0698	4	213 N Lakeshore Dr	Lake Village	AR	71653
+0699	4	217 Walnut St	Lewisville	AR	71845
+0700	4	107 Cherry St	Lewisville	AR	71845
+0701	4	5601 Ranch Dr	Little Rock	AR	72223
+0702	4	315 N Bowman Rd	Little Rock	AR	72211
+0703	4	12005 Westhaven	Little Rock	AR	72211
+0704	4	202 Keightly Dr	Little Rock	AR	72207
+0705	4	Hwy 89	Lonoke	AR	72086
+0706	4	903 W Front St	Lonoke	AR	72086
+0707	4	108 E 8th St	Lonoke	AR	72086
+0708	4	511 W Front St	Lonoke	AR	72086
+0709	4	12737 Hickory Creek Rd	Lowell	AR	72745
+0710	4	106 N Bloomington St	Lowell	AR	72745
+0711	4	200 S Bloomington St	Lowell	AR	72745
+0712	4	106 N Bloomington St Ste M	Lowell	AR	72745
+0713	4	1210 N Jackson	Magnolia	AR	71753
+0714	4	309 N Fredrick St	Magnolia	AR	71753
+0715	4	616 E Main St	Magnolia	AR	71753
+0716	4	417 E Main St	Magnolia	AR	71753
+0717	4	1002 W Main St	Magnolia	AR	71753
+0718	4	1103 E Page Ave	Malvern	AR	72104
+0719	4	2071 Oliver Lancaster Blvd	Malvern	AR	72104
+0720	4	30708 Highway 67	Malvern	AR	72104
+0721	4	86 S Florida St	Marianna	AR	72360
+0722	4	381 W Chestnut St	Marianna	AR	72360
+0723	4	219 W Louisiana St	Marianna	AR	72360
+0724	4	11901 Maumelle Blvd	Maumelle	AR	72113
+0725	4	I-40 E	Maumelle	AR	72113
+0726	4	9800 Maumelle	Maumelle	AR	72113
+0727	4	11901 Maumelle Blvd	Maumelle	AR	72113
+0728	4	1100 Highway 71 N # G	Mena	AR	71953
+0729	4	300 Raspberry Ln	Mena	AR	71953
+0730	4	618 Mena St	Mena	AR	71953
+0731	4	123 Strandberg Cir	Mena	AR	71953
+0732	4	1101 Highway 71 N	Mena	AR	71953
+0733	4	208 Morrow St S	Mena	AR	71953
+0734	4	139 N Park Dr	Monticello	AR	71655
+0735	4	149 North Park Drive	Monticello	AR	71655
+0736	4	523 W Gaines St	Monticello	AR	71655
+0737	4	615 W Gaines St	Monticello	AR	71655
+0738	4	1800 Highway 9-B	Morrilton	AR	72110
+0739	4	1222 E Broadway St	Morrilton	AR	72110
+0740	4	1 Prairie Creek Rd	Morrilton	AR	72110
+0741	4	1502 Highway 62 E	Mountain Home	AR	72653
+0742	4	2233 Highway 5 South	Mountain Home	AR	72653
+0743	4	963 Highway 62 E	Mountain Home	AR	72653
+0744	4	1001 Highway 62 E	Mountain Home	AR	72653
+0745	4	1400 Highway 62 E	Mountain Home	AR	72653
+0746	4	503 Sylamore Ave	Mountain View	AR	72560
+0747	4	301 Martin St	Mountain View	AR	72560
+0748	4	612 W Main St	Mountain View	AR	72560
+0749	4	120 E Main St	Mountain View	AR	72560
+0750	4	1032 Park Ave	Mountain View	AR	72560
+0751	4	308 N Main St	Nashville	AR	71852
+0752	4	111 S Main St	Nashville	AR	71852
+0753	4	411 S Main St	Nashville	AR	71852
+0754	4	1034 3 St	Newport	AR	72112
+0755	4	2504 Highway 67 N	Newport	AR	72112
+0756	4	324 E 13th St	North Little Rock	AR	72114
+0757	4	4206 E McCain Blvd	North Little Rock	AR	72117
+0758	4	5107 Warden Rd	North Little Rock	AR	72116
+0759	4	4401 Warden Rd	North Little Rock	AR	72116
+0760	4	Keiser Ave	Osceola	AR	72370
+0761	4	4635 W Keiser Ave	Osceola	AR	72370
+0762	4	Highway 140 W	Osceola	AR	72370
+0763	4	103 S Walnut St	Osceola	AR	72370
+0764	4	209 S 3rd St	Ozark	AR	72949
+0765	4	402 W Commercial St	Ozark	AR	72949
+0766	4	5718 Driftwood Ln	Ozark	AR	72949
+0767	4	Hwy 49	Paragould	AR	72450
+0768	4	1600 W Kingshighway	Paragould	AR	72450
+0769	4	12 E Walnut St	Paris	AR	72855
+0770	4	2301 W Walnut St	Paris	AR	72855
+0771	4	306 N Fourche Ave	Perryville	AR	72126
+0772	4	260 W Court St	Piggott	AR	72454
+0773	4	186 S 2nd Ave	Piggott	AR	72454
+0774	4	3714 Camden Rd	Pine Bluff	AR	71603
+0775	4	1020 S Cherry St	Pine Bluff	AR	71601
+0776	4	3907 Camden Rd	Pine Bluff	AR	71603
+0777	4	1141 Highway 62 W	Pocahontas	AR	72455
+0778	4	4007 Highway 67 S	Pocahontas	AR	72455
+0779	4	706 Townsend Dr	Pocahontas	AR	72455
+0780	4	1011 McQuay Ave	Pocahontas	AR	72455
+0781	4	1827 Tammie Dr	Pocahontas	AR	72455
+0782	4	1756 Highway 62 W	Pocahontas	AR	72455
+0783	4	16325 W Highway 62	Prairie Grove	AR	72753
+0784	4	1102 W Main St	Prescott	AR	71857
+0785	4	117 W 1st St N	Prescott	AR	71857
+0786	4	123 W 1st St Prescott Ar	Prescott	AR	71857
+0787	4	420 N 46th St	Rogers	AR	72756
+0788	4	4005 W Walnut St	Rogers	AR	72756
+0789	4	528 N 47th St	Rogers	AR	72756
+0790	4	1122 N El Paso Ave	Russellville	AR	72801
+0791	4	2621 W Main St	Russellville	AR	72801
+0792	4	2408 N Arkansas Ave	Russellville	AR	72802
+0793	4	13144 E Highway 22	Scranton	AR	72863
+0794	4	315 Main St	Scranton	AR	72863
+0795	4	13144 E Highway 22	Scranton	AR	72863
+0796	4	Junction 109 & 393	Scranton	AR	72863
+0797	4	715 Main St	Scranton	AR	72863
+0798	4	815 N Maple St	Searcy	AR	72143
+0799	4	110 W Race Ave	Searcy	AR	72143
+0800	4	205 S Poplar St	Searcy	AR	72143
+0801	4	700 N Rock St	Sheridan	AR	72150
+0802	4	101 N Rock St	Sheridan	AR	72150
+0803	4	424 S Rock St	Sheridan	AR	72150
+0804	4	117 Country Club Rd	Sherwood	AR	72120
+0805	4	7523 Warden Rd	Sherwood	AR	72120
+0806	4	2010 E Main	Siloam Springs	AR	72761
+0807	4	1270 Highway 412 W Ste A	Siloam Springs	AR	72761
+0808	4	333 E Main St	Siloam Springs	AR	72761
+0809	4	315 Highway 412 W # C	Siloam Springs	AR	72761
+0810	4	1004 S Mount Olive St	Siloam Springs	AR	72761
+0811	4	1951 Highway 412 E	Siloam Springs	AR	72761
+0812	4	118 S. Broadway St.	Siloam Springs	AR	72761
+0813	4	130 W Emma Ave	Springdale	AR	72764
+0814	4	2638 W Sunset Ave	Springdale	AR	72762
+0815	4	765 Creek Ave	Springdale	AR	72764
+0816	4	Highway 81 & Highway 11	Star City	AR	71667
+0817	4	Military Rd	Star City	AR	71667
+0818	4	1506 Lincoln St	Star City	AR	71667
+0819	4	303 S Lincoln Ave	Star City	AR	71667
+0820	4	402 S Lincoln Ave	Star City	AR	71667
+0821	4	225 N Main St	Stuttgart	AR	72160
+0822	4	704 E 22nd St	Stuttgart	AR	72160
+0823	4	1919 S Main St	Stuttgart	AR	72160
+0824	4	405 Highway 463 S	Trumann	AR	72472
+0825	4	505 Highway 463 S	Trumann	AR	72472
+0826	4	424 Highway 463 S	Trumann	AR	72472
+0827	4	125 Main	Trumann	AR	72472
+0828	4	800 W Speedway St	Trumann	AR	72472
+0829	4	Ih 40 & Highway 59	Van Buren	AR	72956
+0830	4	I-40 & Highway 59	Van Buren	AR	72956
+0831	4	511 Broadway St	Van Buren	AR	72956
+0832	4	RR 2 Box 278	Waldron	AR	72958
+0833	4	425 Featherston St	Waldron	AR	72958
+0834	4	Highway 71	Waldron	AR	72958
+0835	4	501 NW 4th St	Walnut Ridge	AR	72476
+0836	4	1604 W Main St	Walnut Ridge	AR	72476
+0837	4	711 Highway 91	Walnut Ridge	AR	72476
+0838	4	1439 S Main St	Warren	AR	71671
+0839	4	201 S Myrtle St	Warren	AR	71671
+0840	4	1420 Bradley 8 Rd N	Warren	AR	71671
+0841	4	Tri County Plaza	West Helena	AR	72390
+0842	4	108 Garland Ave	West Helena	AR	72390
+0843	4	1509 Highway 49	West Helena	AR	72390
+0844	4	1937 Highway 242 S	West Helena	AR	72390
+0845	4	209 Shoppingway Blvd	West Memphis	AR	72301
+0846	4	105 Shoppingway Blvd	West Memphis	AR	72301
+0847	4	1100 Ingram Blvd	West Memphis	AR	72301
+0848	4	7197 Sheridan Rd	White Hall	AR	71602
+0849	4	8021 Dollarway Rd	White Hall	AR	71602
+0850	4	2117 University Dr	White Hall	AR	71602
+0851	4	8300 Dollarway Rd	White Hall	AR	71602
+0852	4	5511 Dollarway Rd	White Hall	AR	71602
+0853	4	4322 Dollarway Rd	White Hall	AR	71602
+0854	4	810 Highway 64 E	Wynne	AR	72396
+0855	4	425 Highway 64 W	Wynne	AR	72396
+0856	4	206 Front St N	Wynne	AR	72396
+0857	4	702 Highway 64 E	Wynne	AR	72396
+0858	4	1920 Falls Blvd N	Wynne	AR	72396
+0859	4	1135 W Hoover St	Ajo	AZ	85321
+0860	4	663 N 2nd Ave	Ajo	AZ	85321
+0861	4	110 N Ajo Way	Ajo	AZ	85321
+0862	4	10633 E Apache Trl	Apache Junction	AZ	85220
+0863	4	1408 W Apache Trl	Apache Junction	AZ	85220
+0864	4	310 N Plaza Dr	Apache Junction	AZ	85220
+0865	4	850 S Ironwood Dr Ste 124	Apache Junction	AZ	85220
+0866	4	1985 W Apache Trail	Apache Junction	AZ	85220
+0867	4	1733 N. Dysart Rd.	Avondale	AZ	85323
+0868	4	606 E Western Ave	Avondale	AZ	85323
+0869	4	10240 W McDowell Rd	Avondale	AZ	85323
+0870	4	1461 N Dysart Rd	Avondale	AZ	85323
+0871	4	714 Grandview Dr	Bagdad	AZ	86321
+0872	4	700 E 4th St	Benson	AZ	85602
+0873	4	577 W 4th St	Benson	AZ	85602
+0874	4	601 W 4th St	Benson	AZ	85602
+0875	4	75 Erie St	Bisbee	AZ	85603
+0876	4	123 Arizona St	Bisbee	AZ	85603
+0877	4	203 Tombstone Canyon Rd	Bisbee	AZ	85603
+0878	4	33150 S Coldwater Rd	Black Canyon City	AZ	85324
+0879	4	34351 S Old Black Canyon Hwy	Black Canyon City	AZ	85324
+0880	4	304 E US Highway 85	Buckeye	AZ	85326
+0881	4	424 E Monroe Ave	Buckeye	AZ	85326
+0882	4	105 E US Highway 85	Buckeye	AZ	85326
+0883	4	1884 Highway 95	Bullhead City	AZ	86442
+0884	4	2101 Highway 95 # 4	Bullhead City	AZ	86442
+0885	4	1630 Finnie Flats Rd	Camp Verde	AZ	86322
+0886	4	288 S Main St	Camp Verde	AZ	86322
+0887	4	77 S Access Rd	Camp Verde	AZ	86322
+0888	4	Cliff Castle Casino	Camp Verde	AZ	86322
+0889	4	358 S Main St	Camp Verde	AZ	86322
+0890	4	348 S Main St	Camp Verde	AZ	86322
+0891	4	34631 N Tom Darlington Dr	Carefree	AZ	85377
+0892	4	34631 N Tom Darlington Dr	Carefree	AZ	85377
+0893	4	99 Easy St	Carefree	AZ	85377
+0894	4	7 Sundial Cir # 4	Carefree	AZ	85377
+0895	4	100 W 2nd St	Casa Grande	AZ	85222
+0896	4	800 N Park Ave	Casa Grande	AZ	85222
+0897	4	6738 E Cave Creek Rd	Cave Creek	AZ	85331
+0898	4	7171 E Cave Creek Rd	Cave Creek	AZ	85331
+0899	4	6710 E Cave Creek Rd	Cave Creek	AZ	85331
+0900	4	31414 N Cave Creek Rd	Cave Creek	AZ	85331
+0901	4	7455 W Chandler Blvd	Chandler	AZ	85226
+0902	4	3015 W Chandler Blvd	Chandler	AZ	85226
+0903	4	141 S ARIZONA AVE	Chandler	AZ	85225
+0904	4	7240 W Ray Rd	Chandler	AZ	85226
+0905	4	2879 N Arizona Trail	Chino Valley	AZ	86323
+0906	4	2235 S US Highway 89	Chino Valley	AZ	86323
+0907	4	1980 S Arizona Blvd	Coolidge	AZ	85228
+0908	4	221 S Main St	Coolidge	AZ	85228
+0909	4	555 S Arizona Blvd	Coolidge	AZ	85228
+0910	4	1955 E Cornville Rd	Cornville	AZ	86325
+0911	4	1160 S Page Springs Rd	Cornville	AZ	86325
+0912	4	991 S Main St	Cottonwood	AZ	86326
+0913	4	747 S Main St	Cottonwood	AZ	86326
+0914	4	888 S Main St	Cottonwood	AZ	86326
+0915	4	1695 E Cottonwood St	Cottonwood	AZ	86326
+0916	4	612 N Main St	Cottonwood	AZ	86326
+0917	4	150 S. Hwy 69 #12	Dewey	AZ	86327
+0918	4	1030 E 19th St	Douglas	AZ	85607
+0919	4	353 E 10th St	Douglas	AZ	85607
+0920	4	1341 F Ave	Douglas	AZ	85607
+0921	4	94 W 5th St	Douglas	AZ	85607
+0922	4	500 E 7th St	Douglas	AZ	85607
+0923	4	536 North Ave	Duncan	AZ	85534
+0924	4	Church Ln	Duncan	AZ	85534
+0925	4	12125 NW Grand Ave	El Mirage	AZ	85335
+0926	4	12010 W Thunderbird Rd	El Mirage	AZ	85335
+0927	4	310 W Frontier St	Eloy	AZ	85231
+0928	4	1500 E Cedar Ave Ste 40	Flagstaff	AZ	86004
+0929	4	360 W Forest Meadows St	Flagstaff	AZ	86001
+0930	4	505 N Main St	Florence	AZ	85232
+0931	4	170 Main St	Florence	AZ	85232
+0932	4	740 S Pinal Pkwy	Florence	AZ	85232
+0933	4	4610 Highway 95	Fort Mohave	AZ	86426
+0934	4	4360 Highway 95	Fort Mohave	AZ	86426
+0935	4	5100 Highway 95 # C	Fort Mohave	AZ	86426
+0936	4	4320 Highway 95 Ste D	Fort Mohave	AZ	86426
+0937	4	4508 Highway 95 # K	Fort Mohave	AZ	86426
+0938	4	11883 N Saguaro Blvd	Fountain Hills	AZ	85268
+0939	4	11849 N Saguaro Blvd	Fountain Hills	AZ	85268
+0940	4	13014 N Saguaro Blvd	Fountain Hills	AZ	85268
+0941	4	16720 E Avenue Of The Fountains	Fountain Hills	AZ	85268
+0942	4	11044 N Saguaro Blvd	Fountain Hills	AZ	85268
+0943	4	16737 E Parkview Ave	Fountain Hills	AZ	85268
+0944	4	610 N Gilbert Rd Ste 300	Gilbert	AZ	85234
+0945	4	3641 E Baseline	Gilbert	AZ	85234
+0946	4	301 N Gilbert Rd	Gilbert	AZ	85234
+0947	4	7146 N 57th Dr	Glendale	AZ	85301
+0948	4	5885 W Bell Rd	Glendale	AZ	85308
+0949	4	6403 N 59th Ave	Glendale	AZ	85301
+0950	4	7450 W Bell Rd	Glendale	AZ	85308
+0951	4	5880 W Thunderbird Rd	Glendale	AZ	85306
+0952	4	20022 N 67th Ave	Glendale	AZ	85308
+0953	4	338 E Ash St	Globe	AZ	85501
+0954	4	1053-5 N Broad St	Globe	AZ	85501
+0955	4	5465 US Highway 68	Golden Valley	AZ	86413
+0956	4	4095 US Highway 68	Golden Valley	AZ	86413
+0957	4	16825 W Yuma Rd	Goodyear	AZ	85338
+0958	4	14175 W Indian School Rd	Goodyear	AZ	85338
+0959	4	101 S La Canada Dr	Green Valley	AZ	85614
+0960	4	101 S La Canada Dr Ste 19	Green Valley	AZ	85614
+0961	4	249 W Esperanza Blvd	Green Valley	AZ	85614
+0962	4	1931 Highway 260	Heber	AZ	85928
+0963	4	3374 Stone Bridge Trl	Heber	AZ	85928
+0964	4	2528 E Apache Pointe Rd	Hereford	AZ	85615
+0965	4	121 W Hopi Dr	Holbrook	AZ	86025
+0966	4	502 Navajo Blvd	Holbrook	AZ	86025
+0967	4	1006 Arizona St	Huachuca City	AZ	85616
+0968	4	200 Hill St	Jerome	AZ	86331
+0969	4	416 Main St	Jerome	AZ	86331
+0970	4	115 Jerome Ave	Jerome	AZ	86331
+0971	4	166 Main St	Jerome	AZ	86331
+0972	4	US Highway 163	Kayenta	AZ	86033
+0973	4	Highway 160 & Highway 163	Kayenta	AZ	86033
+0974	4	Highway 160	Kayenta	AZ	86033
+0975	4	2215 Hualapai Mountain Road	Kingman	AZ	86401
+0976	4	208 W Andy Devine Ave	Kingman	AZ	86401
+0977	4	401 W Beale St	Kingman	AZ	86401
+0978	4	2775 Northern Ave	Kingman	AZ	86409
+0979	4	6000 Flightline Dr	Kingman	AZ	86401
+0980	4	105 E Andy Devine Ave	Kingman	AZ	86401
+0981	4	141 Swanson Ave Ste 5	Lake Havasu City	AZ	86403
+0982	4	2137 W Acoma Blvd	Lake Havasu City	AZ	86403
+0983	4	1900 McCulloch Blvd N	Lake Havasu City	AZ	86403
+0984	4	2025 McCulloch Blvd N	Lake Havasu City	AZ	86403
+0985	4	210 SWanson Ave	Lake Havasu City	AZ	86403
+0986	4	348 W White Mtn Blvd	Lakeside	AZ	85929
+0987	4	4048 Porter Mountain Rd	Lakeside	AZ	85929
+0988	4	3068 W White Mountain Blvd	Lakeside	AZ	85929
+0989	4	102 N Litchfield Rd	Litchfield Park	AZ	85340
+0990	4	300 E Wigwam Blvd	Litchfield Park	AZ	85340
+0991	4	4900 N Litchfield Road Byp Ste B	Litchfield Park	AZ	85340
+0992	4	300 E. Wigwam Boulevard	Litchfield Park	AZ	85340
+0993	4	16001 W El Tiro Rd	Marana	AZ	85653
+0994	4	14000 N Dove Mountain Blvd	Marana	AZ	85653
+0995	4	13915 N Sandario Rd	Marana	AZ	85653
+0996	4	44630 W Maricopa-Casa Grande H	Maricopa	AZ	85239
+0997	4	15055 S Stagecoach Trl	Mayer	AZ	86333
+0998	4	10434 S Highway 69	Mayer	AZ	86333
+0999	4	14599 S Cow Poke Way	Mayer	AZ	86333
+1000	4	13241 S Highway 69	Mayer	AZ	86333
+1001	4	4210 E Main St Ste 3	Mesa	AZ	85205
+1002	4	2111 S Alma School Rd # 19	Mesa	AZ	85210
+1003	4	6149 E Southern Ave	Mesa	AZ	85206
+1004	4	832 W Baseline Rd # 1314	Mesa	AZ	85210
+1005	4	4353 E University Dr	Mesa	AZ	85205
+1006	4	1622 S Stapley Dr	Mesa	AZ	85204
+1007	4	700 Live Oak St	Miami	AZ	85539
+1008	4	8257 Highway 95 # A	Mohave Valley	AZ	86440
+1009	4	204 W Mariposa Rd	Nogales	AZ	85621
+1010	4	226 W 3rd St	Nogales	AZ	85621
+1011	4	683 N Grand Ave	Nogales	AZ	85621
+1012	4	557 N Grand Ave	Nogales	AZ	85621
+1013	4	491 W Mariposa Rd	Nogales	AZ	85621
+1014	4	1975 W American Ave	Oracle	AZ	85623
+1015	4	35530 N Highway 7779	Oracle	AZ	85623
+1016	4	2161 Rockliffe Blvd	Oracle	AZ	85623
+1017	4	819 N Navajo St	Page	AZ	86040
+1018	4	718 Vista Ave	Page	AZ	86040
+1019	4	704 Rim View Dr	Page	AZ	86040
+1020	4	644 N Navajo Dr	Page	AZ	86040
+1021	4	644 N Navajo Dr	Page	AZ	86040
+1022	4	6166 N Scottsdale Rd # 501	Paradise Valley	AZ	85253
+1023	4	10321 N Scottsdale Rd	Paradise Valley	AZ	85253
+1024	4	7171 N Scottsdale Rd	Paradise Valley	AZ	85253
+1025	4	3365 Riverside Dr # 85	Parker	AZ	85344
+1026	4	1000 S Hopi Ave	Parker	AZ	85344
+1027	4	9134 Riverside Dr	Parker	AZ	85344
+1028	4	612 S California Ave	Parker	AZ	85344
+1029	4	904 S California Ave	Parker	AZ	85344
+1030	4	10172 Riverside Dr	Parker	AZ	85344
+1031	4	1007 W Arizona Ave	Parker	AZ	85344
+1032	4	400 W Naugle Ave	Patagonia	AZ	85624
+1033	4	800 W Airport Rd	Payson	AZ	85541
+1034	4	510 S Beeline Hwy	Payson	AZ	85541
+1035	4	803 E State Highway 260	Payson	AZ	85541
+1036	4	16079 N Arrowhead Fountains Ctr Dr	Peoria	AZ	85382
+1037	4	8349 W Bell Rd	Peoria	AZ	85382
+1038	4	9098 W Pinnacle Peak Rd	Peoria	AZ	85383
+1039	4	1616 N 75th Ave	Phoenix	AZ	85035
+1040	4	245 E Bell Rd Ste 9	Phoenix	AZ	85022
+1041	4	455 N 3rd St # 1130	Phoenix	AZ	85004
+1042	4	3691 Hall Ln	Pine	AZ	85544
+1043	4	5076 N Az Highway 87	Pine	AZ	85544
+1044	4	Highway 87	Pine	AZ	85544
+1045	4	984 E White Mountain Blvd	Pinetop	AZ	85935
+1046	4	674 E White Mountain Blvd	Pinetop	AZ	85935
+1047	4	1701 E White Mountain Blvd	Pinetop	AZ	85935
+1048	4	235 E White Mountain Blvd	Pinetop	AZ	85935
+1049	4	1523 E White Mountain Blvd	Pinetop	AZ	85935
+1050	4	436 E White Mountain Blvd	Pinetop	AZ	85935
+1051	4	201 N Cortez St	Prescott	AZ	86301
+1052	4	512 S Montezuma St	Prescott	AZ	86303
+1053	4	112 S Montezuma St	Prescott	AZ	86303
+1054	4	128 N Cortez St	Prescott	AZ	86301
+1055	4	7680 E State Route 69 # 1	Prescott Valley	AZ	86314
+1056	4	8370 E State Route 69	Prescott Valley	AZ	86314
+1057	4	2960 N Centre Ct	Prescott Valley	AZ	86314
+1058	4	2982 N Park Ave	Prescott Valley	AZ	86314
+1059	4	2992 N Park Ave	Prescott Valley	AZ	86314
+1060	4	8156 E Valley Rd	Prescott Valley	AZ	86314
+1061	4	7305 Pav Way	Prescott Valley	AZ	86314
+1062	4	1090 W Main	Quartzsite	AZ	85346
+1063	4	904 W Main St	Quartzsite	AZ	85346
+1064	4	776 E Main St	Quartzsite	AZ	85346
+1065	4	725 Highway 95	Quartzsite	AZ	85346
+1066	4	70 N Central Ave	Quartzsite	AZ	85346
+1067	4	60 W Main	Quartzsite	AZ	85346
+1068	4	225 N Central Ave	Quartzsite	AZ	85346
+1069	4	6185 West Hunt Highway	Queen Creek	AZ	85242
+1070	4	530 E Hunt Hwy	Queen Creek	AZ	85243
+1071	4	2110 E Beaver Creek Rd	Rimrock	AZ	86335
+1072	4	2110 E Beaver Creek Rd	Rimrock	AZ	86335
+1073	4	1135 W Frontage Rd	Rio Rico	AZ	85648
+1074	4	4367 S US Highway 191	Safford	AZ	85546
+1075	4	215 E US Highway 70	Safford	AZ	85546
+1076	4	415 E US Highway 70	Safford	AZ	85546
+1077	4	277 White Mountain Dr	Saint Johns	AZ	85936
+1078	4	66745 E Highway 60 # B	Salome	AZ	85348
+1079	4	539 N Archibald St	San Luis	AZ	85349
+1080	4	647 N Main St	San Luis	AZ	85349
+1081	4	683 N 2nd Ave	San Luis	AZ	85349
+1082	4	26950 S Redington Rd	San Manuel	AZ	85631
+1083	4	7101 E Thunderbird Rd	Scottsdale	AZ	85254
+1084	4	6245 E Bell Rd	Scottsdale	AZ	85254
+1085	4	6989 N Hayden Rd	Scottsdale	AZ	85250
+1086	4	2601 N Scottsdale Rd	Scottsdale	AZ	85257
+1087	4	9325 E. Shea Blvd	Scottsdale	AZ	85260
+1088	4	3000 W Highway 89A	Sedona	AZ	86336
+1089	4	1855 W Hwy 89A	Sedona	AZ	86336
+1090	4	37 Navajo Rd	Sedona	AZ	86351
+1091	4	90 Ridge Trail Dr	Sedona	AZ	86351
+1092	4	415 W Rt 66	Seligman	AZ	86337
+1093	4	103 W Chino Ave	Seligman	AZ	86337
+1094	4	1909 Silver Creek Dr	Show Low	AZ	85901
+1095	4	480 W Deuce Of Clubs	Show Low	AZ	85901
+1096	4	161 E Deuce Of Clubs Ste 13	Show Low	AZ	85901
+1097	4	1457 E Deuce Of Clubs	Show Low	AZ	85901
+1098	4	S State Highway 92	Sierra Vista	AZ	85635
+1099	4	4373 S Highway 92	Sierra Vista	AZ	85650
+1100	4	400 W Fry Blvd Ste 1	Sierra Vista	AZ	85635
+1101	4	2075 El Mercado Loop	Sierra Vista	AZ	85635
+1102	4	862 E Fry Blvd	Sierra Vista	AZ	85635
+1103	4	Snowflake main street	Snowflake	AZ	85939
+1104	4	186 S Main St	Snowflake	AZ	85937
+1105	4	379 S Main St	Snowflake	AZ	85937
+1106	4	680 S Main St	Snowflake	AZ	85937
+1107	4	201 N Bingham Ave	Somerton	AZ	85350
+1108	4	252 W Main St	Somerton	AZ	85350
+1109	4	558 W Main St	Somerton	AZ	85350
+1110	4	65 N D St	Springerville	AZ	85938
+1111	4	10793 Grand Ave	Sun City	AZ	85351
+1112	4	9803 W Bell Rd	Sun City	AZ	85351
+1113	4	10503 W Thunderbird Blvd Ste 102	Sun City	AZ	85351
+1114	4	13930 W Camino Del Sol Ste 111	Sun City West	AZ	85375
+1115	4	13549 W Camino Del Sol	Sun City West	AZ	85375
+1116	4	13573 W Camino Del Sol	Sun City West	AZ	85375
+1117	4	507 W Main St	Superior	AZ	85273
+1118	4	701 S Belmont Ave	Superior	AZ	85273
+1119	4	71 Main	Superior	AZ	85273
+1120	4	19900 N Remington Dr	Surprise	AZ	85374
+1121	4	17119 N Litchfield Rd	Surprise	AZ	85374
+1122	4	13736 W Bell Rd	Surprise	AZ	85374
+1123	4	13736 W Bell Rd	Surprise	AZ	85374
+1124	4	1872 E APACHE BLVD	Tempe	AZ	85281
+1125	4	404 S Mill Ave	Tempe	AZ	85281
+1126	4	3320 S Priest Dr Ste 4	Tempe	AZ	85282
+1127	4	10600 W Buckeye Rd	Tolleson	AZ	85353
+1128	4	8325 W McDowell Rd	Tolleson	AZ	85353
+1129	4	220 E Allen St	Tombstone	AZ	85638
+1130	4	60 S 10th St	Tombstone	AZ	85638
+1131	4	107 E Toughnut St	Tombstone	AZ	85638
+1132	4	104 S 4th	Tombstone	AZ	85638
+1133	4	Edgewater Dr & Main St	Tuba City	AZ	86045
+1134	4	Highway 160	Tuba City	AZ	86045
+1135	4	2027 S Craycroft Rd	Tucson	AZ	85711
+1136	4	3725 W Ina Rd Ste 110	Tucson	AZ	85741
+1137	4	610 N Grande Ave	Tucson	AZ	85745
+1138	4	3930 W Ina Rd	Tucson	AZ	85741
+1139	4	708 W Grant Rd	Tucson	AZ	85705
+1140	4	13005 E Benson Hwy	Vail	AZ	85641
+1141	4	29101 Arizona Ave	Wellton	AZ	85356
+1142	4	19702 E Highway 80	Wellton	AZ	85356
+1143	4	57 N Valentine St	Wickenburg	AZ	85390
+1144	4	530 E Wickenburg Way	Wickenburg	AZ	85390
+1145	4	222 E Wickenburg Way	Wickenburg	AZ	85390
+1146	4	207 E Wickenburg Way	Wickenburg	AZ	85390
+1147	4	170 W Wickenburg Way	Wickenburg	AZ	85390
+1148	4	18040 S. Highway 93	Wikieup	AZ	85360
+1149	4	15797 S Highway 93 Mile 119	Wikieup	AZ	85360
+1150	4	1201 W Rex Allen Dr	Willcox	AZ	85643
+1151	4	308 S Haskell Avenue	Willcox	AZ	85643
+1152	4	130 E Maley St	Willcox	AZ	85643
+1153	4	525 W Route 66	Williams	AZ	86046
+1154	4	642 E Route 66	Williams	AZ	86046
+1155	4	141 W Railroad Ave	Williams	AZ	86046
+1156	4	401 W Route 66	Williams	AZ	86046
+1157	4	411 N Grand Canyon Blvd	Williams	AZ	86046
+1158	4	1919 W Second St	Winslow	AZ	86047
+1159	4	1113 E 3rd St	Winslow	AZ	86047
+1160	4	108 South Gila St.	Yuma	AZ	85365
+1161	4	501 S 4th Ave	Yuma	AZ	85364
+1162	4	2718 W Valley Blvd	Alhambra	CA	91803
+1163	4	17 W Main St	Alhambra	CA	91801
+1164	4	35 North Garfield Ave.	Alhambra	CA	91801
+1165	4	742 W Valley Blvd	Alhambra	CA	91803
+1166	4	28 W Main St	Alhambra	CA	91801
+1167	4	887 S Anaheim Blvd	Anaheim	CA	92805
+1168	4	1208 S Brookhurst St	Anaheim	CA	92804
+1169	4	1545 S Disneyland Dr	Anaheim	CA	92802
+1170	4	8188 E Santa Ana Canyon Rd	Anaheim	CA	92808
+1171	4	211 E Live Oak Ave	Arcadia	CA	91006
+1172	4	233 E. Huntington Drive	Arcadia	CA	91006
+1173	4	302 E Huntington Dr	Arcadia	CA	91006
+1174	4	9000 Ming Ave	Bakersfield	CA	93311
+1175	4	1710 Oak St	Bakersfield	CA	93301
+1176	4	8180 Rosedale Hwy	Bakersfield	CA	93312
+1177	4	2126 Center St	Berkeley	CA	94704
+1178	4	2433 Shattuck Ave	Berkeley	CA	94704
+1179	4	1767 Solano Ave	Berkeley	CA	94707
+1180	4	100 N La Cienega Blvd	Beverly Hills	CA	90211
+1181	4	55 La Cienega Bl	Beverly Hills	CA	90211
+1182	4	9601 Wilshire Blvd	Beverly Hills	CA	90210
+1183	4	3511 W Magnolia Blvd	Burbank	CA	91505
+1184	4	3711 W Magnolia Blvd	Burbank	CA	91505
+1185	4	1110 N Hollywood Way	Burbank	CA	91505
+1186	4	3500 W Olive Ave	Burbank	CA	91505
+1187	4	264 Carlsbad Village Dr	Carlsbad	CA	92008
+1188	4	950 Tamarack Ave	Carlsbad	CA	92008
+1189	4	300 Carlsbad Village Dr	Carlsbad	CA	92008
+1190	4	4901 El Camino Real	Carlsbad	CA	92008
+1191	4	2010 Business Ln	Chico	CA	95928
+1192	4	2040 Business Ln	Chico	CA	95928
+1193	4	243 W 2nd	Chico	CA	95973
+1194	4	2409 Esplanade	Chico	CA	95926
+1195	4	138 Broadway St	Chico	CA	95928
+1196	4	671 Walnut St	Chico	CA	95928
+1197	4	707 E St	Chula Vista	CA	91910
+1198	4	1208 3rd avenue	Chula Vista	CA	91911
+1199	4	1199 3rd Ave	Chula Vista	CA	91911
+1200	4	1016 Tierra Del Rey	Chula Vista	CA	91910
+1201	4	1500 Monument Blvd	Concord	CA	94520
+1202	4	1815 Colfax St	Concord	CA	94520
+1203	4	163 west ontario ave	Corona	CA	92882
+1204	4	150 W Parkridge Ave	Corona	CA	92880
+1205	4	513 W 6th St	Corona	CA	92882
+1206	4	113 Corona Mall	Corona	CA	92879
+1207	4	2340 Harbor Blvd	Costa Mesa	CA	92626
+1208	4	375 Bristol St Ste 40	Costa Mesa	CA	92626
+1209	4	2920 Bristol St	Costa Mesa	CA	92626
+1210	4	1525 Mesa Verde Dr E	Costa Mesa	CA	92626
+1211	4	9411 Culver Blvd	Culver City	CA	90232
+1212	4	3839B Main St	Culver City	CA	90232
+1213	4	11845 Braddock Dr	Culver City	CA	90230
+1214	4	5350 Sepulveda Blvd	Culver City	CA	90230
+1215	4	379 Gellert Blvd	Daly City	CA	94015
+1216	4	201 Southgate Ave	Daly City	CA	94015
+1217	4	2220 westborough blvd , south san francisco	Daly City	CA	94080
+1218	4	12050 Woodruff Ave	Downey	CA	90241
+1219	4	7840 Florence Ave	Downey	CA	90240
+1220	4	11039 Downey Ave	Downey	CA	90241
+1221	4	10025 Lakewood Blvd	Downey	CA	90240
+1222	4	9905 Paramount Blvd	Downey	CA	90240
+1223	4	11946 Paramount Blvd	Downey	CA	90242
+1224	4	15244 Olde Highway 80	El Cajon	CA	92021
+1225	4	569 N 2nd St	El Cajon	CA	92021
+1226	4	1696 Greenfield Dr	El Cajon	CA	92021
+1227	4	1016 W El Norte Pkwy	Escondido	CA	92026
+1228	4	603 W Mission Ave	Escondido	CA	92025
+1229	4	330 W Felicita Ave Ste A1	Escondido	CA	92025
+1230	4	330 W Felicita Ave	Escondido	CA	92025
+1231	4	46531 Mission Blvd	Fremont	CA	94539
+1232	4	41240 Fremont Blvd	Fremont	CA	94538
+1233	4	34265 Fremont Blvd	Fremont	CA	94555
+1234	4	1760 W Bullard Ave	Fresno	CA	93711
+1235	4	7089 N Cedar Av	Fresno	CA	93720
+1236	4	3173 W Shaw Ave Ste 101	Fresno	CA	93711
+1237	4	6087 N Figarden Dr	Fresno	CA	93722
+1238	4	305 N Harbor Blvd Ste 111	Fullerton	CA	92832
+1239	4	118 E Commonwealth Ave	Fullerton	CA	92832
+1240	4	2219 N Harbor Blvd	Fullerton	CA	92835
+1241	4	1841 W Redondo Beach Blvd	Gardena	CA	90247
+1242	4	12823 S Normandie Ave	Gardena	CA	90249
+1243	4	1310 W Artesia Blvd	Gardena	CA	90248
+1244	4	889 W 190th St	Gardena	CA	90248
+1245	4	6082 Chapman Ave	Garden Grove	CA	92845
+1246	4	9738 Westminster Ave	Garden Grove	CA	92844
+1247	4	12532 Garden Grove Blvd	Garden Grove	CA	92843
+1248	4	14241 Euclid St	Garden Grove	CA	92843
+1249	4	8902 Garden Grove Blvd	Garden Grove	CA	92844
+1250	4	211 E Broadway	Glendale	CA	91205
+1251	4	112 North Maryland	Glendale	CA	91206
+1252	4	3211 Glendale Galleria	Glendale	CA	91210
+1253	4	113 N Maryland Ave	Glendale	CA	91206
+1254	4	405 N Verdugo Rd	Glendale	CA	91206
+1255	4	920 "C" Street	Hayward	CA	94543
+1256	4	24546 Industrial Blvd	Hayward	CA	94545
+1257	4	6789 Warner Ave	Huntington Beach	CA	92647
+1258	4	7871 Warner Ave	Huntington Beach	CA	92647
+1259	4	815 Indianapolis Ave	Huntington Beach	CA	92648
+1260	4	1226 Centinela Ave	Inglewood	CA	90302
+1261	4	3008 W Manchester Blvd	Inglewood	CA	90305
+1262	4	4545 W Century Blvd	Inglewood	CA	90304
+1263	4	630 N La Brea Ave Ste 111	Inglewood	CA	90302
+1264	4	16277 Laguna Canyon Rd	Irvine	CA	92618
+1265	4	14370 Culver Dr	Irvine	CA	92604
+1266	4	2961 Michelson Drive	Irvine	CA	92612
+1267	4	3965 Alton Pkwy	Irvine	CA	92606
+1268	4	910 Prospect Street	La Jolla	CA	92037
+1269	4	8707 Villa La Jolla Dr	La Jolla	CA	92037
+1270	4	2000 Spindrift Dr	La Jolla	CA	92037
+1271	4	8657 Villa La Jolla Dr Ste 125	La Jolla	CA	92037
+1272	4	Fay Avenue	La Jolla	CA	92037
+1273	4	1983 W Avenue L	Lancaster	CA	93534
+1274	4	1052 E Avenue J	Lancaster	CA	93535
+1275	4	44206 10th St W	Lancaster	CA	93534
+1276	4	15251 Amar Rd	La Puente	CA	91744
+1277	4	550 Workman Mill Rd	La Puente	CA	91746
+1278	4	581 S Azusa Way	La Puente	CA	91744
+1279	4	2901 E 7th St	Long Beach	CA	90804
+1280	4	210 Atlantic Ave	Long Beach	CA	90802
+1281	4	6210 E Pacific Coast Hwy	Long Beach	CA	90803
+1282	4	5305 E Pacific Coast Hwy	Long Beach	CA	90804
+1283	4	3014 N Studebaker Rd	Long Beach	CA	90808
+1284	4	1612 Orizaba Ave	Long Beach	CA	90804
+1285	4	6277 E Spring St	Long Beach	CA	90808
+1286	4	121 N La Cienega Blvd	Los Angeles	CA	90048
+1287	4	1469 Landess Ave	Milpitas	CA	95035
+1288	4	1720 N Milpitas Blvd	Milpitas	CA	95035
+1289	4	84 Ranch Dr	Milpitas	CA	95035
+1290	4	90 S Park Victoria Dr	Milpitas	CA	95035
+1291	4	3848 McHenry Avenue	Modesto	CA	95356
+1292	4	9th street	Modesto	CA	95253
+1293	4	1100 Carver Rd	Modesto	CA	95350
+1294	4	1016 H St	Modesto	CA	95354
+1295	4	700 Canery Row	Monterey	CA	93940
+1296	4	434 Alvarado St	Monterey	CA	93940
+1297	4	1950 S Atlantic Blvd	Monterey Park	CA	91754
+1298	4	2271 S Atlantic Blvd	Monterey Park	CA	91754
+1299	4	2102 S Atlantic Blvd	Monterey Park	CA	91754
+1300	4	625 S Atlantic Blvd	Monterey Park	CA	91754
+1301	4	2008 S Atlantic Blvd	Monterey Park	CA	91754
+1302	4	22308 Alessandro Blvd	Moreno Valley	CA	92553
+1303	4	660 San Antonio Rd	Mountain View	CA	94040
+1304	4	2680 Bayshore Pkwy	Mountain View	CA	94043
+1305	4	861 Leong Dr	Mountain View	CA	94043
+1306	4	1140 Main Street	Napa	CA	94558
+1307	4	999 Trancas St	Napa	CA	94558
+1308	4	4050 Byway East	Napa	CA	94558
+1309	4	1001 2nd St Ste 112	Napa	CA	94559
+1310	4	3206 Jefferson Street	Napa	CA	94558
+1311	4	2424 Hoover Ave Ste K	National City	CA	91950
+1312	4	740 E 30th St	National City	CA	91950
+1313	4	2400 W Coast Hwy	Newport Beach	CA	92663
+1314	4	630 Lido Park Dr	Newport Beach	CA	92663
+1315	4	4222 Vineland Ave	North Hollywood	CA	91602
+1316	4	5952 Lankershim Blvd	North Hollywood	CA	91601
+1317	4	11314 Vanowen St	North Hollywood	CA	91605
+1318	4	13359 Sherman Way	North Hollywood	CA	91605
+1319	4	8966 Corbin Ave	Northridge	CA	91324
+1320	4	10336 12 Reseda Blvd	Northridge	CA	91326
+1321	4	9250 Reseda Blvd	Northridge	CA	91324
+1322	4	18429 Nordhoff St Ste D	Northridge	CA	91325
+1323	4	8920 Reseda	Northridge	CA	91335
+1324	4	406 North Coast Hwy 101	Oceanside	CA	92054
+1325	4	4121 Oceanside Blvd	Oceanside	CA	92056
+1326	4	1221 Vista Way	Oceanside	CA	92054
+1327	4	1133 W 6th St	Ontario	CA	91762
+1328	4	724 W Holt Blvd	Ontario	CA	91762
+1329	4	4413 Mills Cir	Ontario	CA	91764
+1330	4	1209 E 4th St	Ontario	CA	91764
+1331	4	574 S Glassell St	Orange	CA	92866
+1332	4	595 N Tustin St	Orange	CA	92867
+1333	4	1132 E Katella Ave # A3A4	Orange	CA	92867
+1334	4	650 N Tustin St	Orange	CA	93550
+1335	4	424 S Main St Suite D	Orange	CA	92868
+1336	4	227 E Chapman Ave Ste F	Orange	CA	92866
+1337	4	2094 N Tustin St	Orange	CA	92865
+1338	4	722 N Ventura Rd	Oxnard	CA	93030
+1339	4	610 S Oxnard Blvd	Oxnard	CA	93030
+1340	4	437 S C St	Oxnard	CA	93030
+1341	4	1823 E Palmdale Blvd	Palmdale	CA	93550
+1342	4	1021 W Avenue P	Palmdale	CA	93551
+1343	4	853 W Palmdale Blvd	Palmdale	CA	93551
+1344	4	78375 Varner Rd	Palm Desert	CA	92211
+1345	4	40205 Washington St	Palm Desert	CA	92211
+1346	4	42455 Washington St	Palm Desert	CA	92211
+1347	4	72286 Highway 111	Palm Desert	CA	92260
+1348	4	2500 N Palm Canyon Dr # D3	Palm Springs	CA	92262
+1349	4	1800 N Palm Canyon Dr	Palm Springs	CA	92262
+1350	4	440 S Palm Canyon Dr	Palm Springs	CA	92262
+1351	4	543 Emerson St	Palo Alto	CA	94301
+1352	4	3877 El Camino Real	Palo Alto	CA	94306
+1353	4	136 N Lake Ave	Pasadena	CA	91101
+1354	4	3544 E Foothill Blvd	Pasadena	CA	91107
+1355	4	841 Cordova	Pasadena	CA	91109
+1356	4	369 East Colorado Blvd.	Pasadena	CA	91101
+1357	4	70 West Green	Pasadena	CA	91105
+1358	4	1076 E Colorado Blvd	Pasadena	CA	91106
+1359	4	828 Main St	Pleasanton	CA	94566
+1360	4	163 W. Neal St.	Pleasanton	CA	94566
+1361	4	649 Main St	Pleasanton	CA	94566
+1362	4	2707 Hopyard Rd	Pleasanton	CA	94588
+1363	4	4713 1st St Ste 150	Pleasanton	CA	94566
+1364	4	620 Main St	Pleasanton	CA	94566
+1365	4	309 E Foothill Blvd	Pomona	CA	91767
+1366	4	1371 SE End Ave	Pomona	CA	91766
+1367	4	12 Village Loop Rd	Pomona	CA	91766
+1368	4	3530 W Temple Ave	Pomona	CA	91768
+1369	4	1296 E Holt Ave	Pomona	CA	91767
+1370	4	11849 Foothill Boulvard	Rancho Cucamonga	CA	91730
+1371	4	8153 Aspen Ave	Rancho Cucamonga	CA	91730
+1372	4	10451 Lemon Ave	Rancho Cucamonga	CA	91737
+1373	4	1135 Pine St Ste 101	Redding	CA	96001
+1374	4	1777 Market Str.	Redding	CA	96001
+1375	4	Airport Rd	Redding	CA	96002
+1376	4	2225 Artesia Blvd	Redondo Beach	CA	90278
+1377	4	1718 S. Catalina Avenue	Redondo Beach	CA	90277
+1378	4	1109 S Pacific Coast Hwy	Redondo Beach	CA	90277
+1379	4	112 Fishermans Wharf	Redondo Beach	CA	90277
+1380	4	512 Woodside Rd	Redwood City	CA	94061
+1381	4	820 Veterans Blvd	Redwood City	CA	94063
+1382	4	1053 El Camino Real	Redwood City	CA	94063
+1383	4	1735 Spruce St	Riverside	CA	92507
+1384	4	10328 Arlington Ave	Riverside	CA	92505
+1385	4	3775 Tyler St.	Riverside	CA	92503
+1386	4	181 N Sunrise Ave	Roseville	CA	95661
+1387	4	301 Lincoln St	Roseville	CA	95678
+1388	4	18797 Colima Rd	Rowland Heights	CA	91748
+1389	4	18406 Colima Rd	Rowland Heights	CA	91748
+1390	4	17855 Colima Rd	Rowland Heights	CA	91748
+1391	4	17865 Colima Rd	Rowland Heights	CA	91748
+1392	4	1735 Arden Way	Sacramento	CA	95815
+1393	4	1290 Fulton Ave	Sacramento	CA	95825
+1394	4	2760 Sutterville Rd	Sacramento	CA	95820
+1395	4	7121 Governors Cir	Sacramento	CA	95823
+1396	4	715 56th St	Sacramento	CA	95819
+1397	4	301 E Alisal St	Salinas	CA	93901
+1398	4	1165 s main st	Salinas	CA	93901
+1399	4	111 E Hospitality Ln	San Bernardino	CA	92408
+1400	4	596 N Mount Vernon Ave	San Bernardino	CA	92411
+1401	4	9388 Mira Mesa Blvd	San Diego	CA	92126
+1402	4	3831 Park Blvd	San Diego	CA	92103
+1403	4	3614 FIFTH AVE.	San Diego	CA	92103
+1404	4	632 Post St	San Francisco	CA	94109
+1405	4	1 Ecker Pl	San Francisco	CA	94105
+1406	4	747 Irving St	San Francisco	CA	94122
+1407	4	1351 Church Street	San Francisco	CA	94114
+1408	4	708 Clement St	San Francisco	CA	94118
+1409	4	340 Stockton St.	San Francisco	CA	94108
+1410	4	679 Sutter St	San Francisco	CA	94102
+1411	4	6420 Rosemead Blvd	San Gabriel	CA	91775
+1412	4	504 W Las Tunas Dr	San Gabriel	CA	91776
+1413	4	140 W Valley Blvd Ste 107	San Gabriel	CA	91776
+1414	4	5449 N Rosemead Blvd	San Gabriel	CA	91776
+1415	4	5449 N rosemead blvd	San Gabriel	CA	91775
+1416	4	694 Blossom Hill Rd	San Jose	CA	95123
+1417	4	457 E San Carlos St	San Jose	CA	95112
+1418	4	475 S Bascom Ave	San Jose	CA	95128
+1419	4	699 Lewelling Blvd , #212	San Leandro	CA	94579
+1420	4	134 Pelton Center Way	San Leandro	CA	94577
+1421	4	101 Pelton Center Way	San Leandro	CA	94577
+1422	4	1027 Macarthur Blvd	San Leandro	CA	94577
+1423	4	73 E 3rd Ave	San Mateo	CA	94401
+1424	4	1058 Shell Blvd	San Mateo	CA	94404
+1425	4	4380 Redwood Hwy	San Rafael	CA	94903
+1426	4	869 4th St	San Rafael	CA	94901
+1427	4	809 4th St	San Rafael	CA	94901
+1428	4	1611 W Sunflower Ave Ste E55	Santa Ana	CA	92704
+1429	4	2321 E 4th St	Santa Ana	CA	92705
+1430	4	3700 W Warner Ave	Santa Ana	CA	92704
+1431	4	1611 W Sunflower Ave Ste E59	Santa Ana	CA	92704
+1432	4	404 N Grand Ave , Ste D	Santa Ana	CA	92701
+1433	4	3855 S Bristol St	Santa Ana	CA	92704
+1434	4	Breakwatr	Santa Barbara	CA	93102
+1435	4	361 Hitchcock Way	Santa Barbara	CA	93105
+1436	4	9 W Victoria St	Santa Barbara	CA	93101
+1437	4	220 Stearns Wharf	Santa Barbara	CA	93101
+1438	4	5239 Stevens Creek Blvd	Santa Clara	CA	95051
+1439	4	1595 Franklin St	Santa Clara	CA	95050
+1440	4	3147 Mission College Blvd	Santa Clara	CA	95054
+1441	4	3484 El Camino Real	Santa Clara	CA	95051
+1442	4	2690 El Camino Real	Santa Clara	CA	95051
+1443	4	500 Municipal Wharf	Santa Cruz	CA	95060
+1444	4	1116 Pacific Ave Ste A	Santa Cruz	CA	95060
+1445	4	1010 Cedar St	Santa Cruz	CA	95060
+1446	4	105 S River St	Santa Cruz	CA	95060
+1447	4	241 Town Center West	Santa Maria	CA	93458
+1448	4	1640 Bay Ave	Santa Maria	CA	93454
+1449	4	1135 W Main St	Santa Maria	CA	93458
+1450	4	2047 S Broadway	Santa Maria	CA	93454
+1451	4	1401 Ocean Ave	Santa Monica	CA	90401
+1452	4	2408 Wilshire Blvd	Santa Monica	CA	90403
+1453	4	3554 Round Barn Blvd Ste 202	Santa Rosa	CA	95403
+1454	4	4233 Montgomery Dr	Santa Rosa	CA	95405
+1455	4	975 Piner Rd	Santa Rosa	CA	95403
+1456	4	53 Montgomery Dr	Santa Rosa	CA	95405
+1457	4	5142 Van Nuys Blvd	Sherman Oaks	CA	91403
+1458	4	14062 Burbank	Sherman Oaks	CA	91401
+1459	4	14006 Riverside Dr	Sherman Oaks	CA	91423
+1460	4	4332 Cochran St	Simi Valley	CA	93063
+1461	4	2955 Cochran St	Simi Valley	CA	93065
+1462	4	1590 E Los Angeles Ave	Simi Valley	CA	93065
+1463	4	4250 E Los Angeles Ave	Simi Valley	CA	93063
+1464	4	1744 W. Hammer Lane	Stockton	CA	95207
+1465	4	419 Lincoln Ctr	Stockton	CA	95207
+1466	4	1764 E Hammer Ln	Stockton	CA	95210
+1467	4	2328 Pacific Ave	Stockton	CA	95204
+1468	4	11044 Ventura Blvd	Studio City	CA	91604
+1469	4	12050 Ventura Blvd Ste C202	Studio City	CA	91604
+1470	4	4360 Tujunga Ave	Studio City	CA	91604
+1471	4	11239 Ventura Blvd Ste 218	Studio City	CA	91604
+1472	4	11940 Ventura Blvd	Studio City	CA	91604
+1473	4	10949 Ventura Blvd	Studio City	CA	91604
+1474	4	12745 1-2 Ventura Bl	Studio City	CA	91604
+1475	4	1105 W El Camino Real	Sunnyvale	CA	94087
+1476	4	1205 Wildwood Ave	Sunnyvale	CA	94089
+1477	4	561 E El Camino Real	Sunnyvale	CA	94087
+1478	4	190 S Murphy Ave	Sunnyvale	CA	94086
+1479	4	28465 Front Street	Temecula	CA	92590
+1480	4	31805 Us Highway 79 S	Temecula	CA	92592
+1481	4	3731 E Thousand Oaks Blvd	Thousand Oaks	CA	91362
+1482	4	2404 Sepulveda Blvd	Torrance	CA	90501
+1483	4	1757 W Carson St Ste S	Torrance	CA	90501
+1484	4	13051 Newport Ave	Tustin	CA	92780
+1485	4	13102 Newport Ave	Tustin	CA	92780
+1486	4	2621 Springs Rd	Vallejo	CA	94591
+1487	4	134 Robles Way	Vallejo	CA	94591
+1488	4	630 Broadway St	Vallejo	CA	94590
+1489	4	415 Santa Clara St	Vallejo	CA	94590
+1490	4	13729 Victory Blvd	Van Nuys	CA	91401
+1491	4	6740 White Oak Ave	Van Nuys	CA	91406
+1492	4	16916 Sherman Way	Van Nuys	CA	91406
+1493	4	512 E Main St	Ventura	CA	93001
+1494	4	364 S California Street	Ventura	CA	93001
+1495	4	518 E Main St	Visalia	CA	93292
+1496	4	124 Hanes Pl	Vista	CA	92084
+1497	4	1825 E Vista Way	Vista	CA	92084
+1498	4	1740 E Vista Way	Vista	CA	92084
+1499	4	1275 S Santa Fe Ave	Vista	CA	92083
+1500	4	1522 North Main St.	Walnut Creek	CA	94596
+1501	4	1444 N California Blvd	Walnut Creek	CA	94596
+1502	4	1553 Olympic Blvd	Walnut Creek	CA	94596
+1503	4	1511 Mount Diablo Blvd	Walnut Creek	CA	94596
+1504	4	1627 N Broadway	Walnut Creek	CA	94596
+1505	4	1342 Broadway Plz	Walnut Creek	CA	94596
+1506	4	2625 E Eastland Ctr Dr	West Covina	CA	91791
+1507	4	987 S Glendora Ave	West Covina	CA	91790
+1508	4	8539 W Sunset Blvd	West Hollywood	CA	90069
+1509	4	8615 W Sunset Blvd	West Hollywood	CA	90069
+1510	4	730 N La Cienega Blvd	West Hollywood	CA	90069
+1511	4	7994 Sunset Blvd	West Hollywood	CA	90046
+1512	4	14276 Beach Blvd	Westminster	CA	92683
+1513	4	6061 Westminster Blvd	Westminster	CA	92683
+1514	4	12913 Philadelphia St	Whittier	CA	90601
+1515	4	5331 Workman Mill Rd	Whittier	CA	90601
+1516	4	7011 Greenleaf Ave	Whittier	CA	90602
+1517	4	22721 Ventura Blvd	Woodland Hills	CA	91364
+1518	4	5371 Topanga Canyon Blvd	Woodland Hills	CA	91364
+1519	4	22841 Ventura Blvd	Woodland Hills	CA	91364
+1520	4	20940 Ventura Blvd	Woodland Hills	CA	91364
+1521	4	2065 1st St	Alamosa	CO	81101
+1522	4	408 4th St	Alamosa	CO	81101
+1523	4	400 Main St	Alamosa	CO	81101
+1524	4	425 Main St	Alamosa	CO	81101
+1525	4	620 Main St	Alamosa	CO	81101
+1526	4	14455 W 64th Ave	Arvada	CO	80004
+1527	4	10290 Ralston Rd	Arvada	CO	80004
+1528	4	8711 Wadsworth Blvd	Arvada	CO	80003
+1529	4	7355 Ralston Rd # H	Arvada	CO	80002
+1530	4	8547 W 66th Pl	Arvada	CO	80004
+1531	4	205 S Mill St	Aspen	CO	81611
+1532	4	216 S Monarch St	Aspen	CO	81611
+1533	4	205 S Mill St	Aspen	CO	81611
+1534	4	2323 S Havana St	Aurora	CO	80014
+1535	4	4205 S Buckley Rd	Aurora	CO	80013
+1536	4	2140 Long Spur	Avon	CO	81620
+1537	4	1060 W Beaver Creek Blvd	Avon	CO	81620
+1538	4	0025 Hurd Ln	Avon	CO	81620
+1539	4	103 Offerson Rd	Avon	CO	81620
+1540	4	100 W Beaver Creek Blvd	Avon	CO	81620
+1541	4	94 Lark Ln	Bailey	CO	80421
+1542	4	123 Emma Rd Ste 102	Basalt	CO	81621
+1543	4	165 Midland Ave	Basalt	CO	81621
+1544	4	202 Midland Ave	Basalt	CO	81621
+1545	4	130 Hwy 82	Basalt	CO	81621
+1546	4	381 E Colorado Dr	Bayfield	CO	81122
+1547	4	442 Wolverine Dr	Bayfield	CO	81122
+1548	4	871 County Road 501	Bayfield	CO	81122
+1549	4	239 Welch Ave	Berthoud	CO	80513
+1550	4	903 Mountain Ave	Berthoud	CO	80513
+1551	4	535 3rd St	Berthoud	CO	80513
+1552	4	505 E State Highway 56	Berthoud	CO	80513
+1553	4	1135 13th St	Boulder	CO	80302
+1554	4	4720 Table Mesa Dr	Boulder	CO	80305
+1555	4	1678 30th St	Boulder	CO	80301
+1556	4	3970 Broadway St Ste 101	Boulder	CO	80304
+1557	4	1221 Spruce St	Boulder	CO	80302
+1558	4	600 Park Ave	Breckenridge	CO	80424
+1559	4	500 S. Main	Breckenridge	CO	80424
+1560	4	620 Village Rd # 2	Breckenridge	CO	80424
+1561	4	245 Pavilion Pl	Brighton	CO	80601
+1562	4	1830 E Bridge St	Brighton	CO	80601
+1563	4	1150 E Bridge St	Brighton	CO	80601
+1564	4	25 N Main St	Brighton	CO	80601
+1565	4	75 S Main St	Brighton	CO	80601
+1566	4	9190 Wadsworth Pkwy	Broomfield	CO	80021
+1567	4	11187 Sheridan Blvd Unit 2	Broomfield	CO	80020
+1568	4	10633 Westminster Blvd	Broomfield	CO	80020
+1569	4	635 Flatiron Marketplace Dr	Broomfield	CO	80021
+1570	4	1 W Flatiron Cir	Broomfield	CO	80021
+1571	4	222 Clayton St	Brush	CO	80723
+1572	4	919 Edison St	Brush	CO	80723
+1573	4	1204 N Colorado Ave	Brush	CO	80723
+1574	4	28601 US Highway 34	Brush	CO	80723
+1575	4	112 Clayton St	Brush	CO	80723
+1576	4	1302 Edison St	Brush	CO	80723
+1577	4	2301 Mill St	Brush	CO	80723
+1578	4	314 Charles St	Buena Vista	CO	81211
+1579	4	527 W Lake St	Buena Vista	CO	81211
+1580	4	1905 Fremont Dr	Canon City	CO	81212
+1581	4	1201 Royal Gorge Blvd	Canon City	CO	81212
+1582	4	1641 Fremont Dr	Canon City	CO	81212
+1583	4	1330 Elm Ave	Canon City	CO	81212
+1584	4	625 Main St	Canon City	CO	81212
+1585	4	215 N Cottonwood Ave	Canon City	CO	81212
+1586	4	343 Main St	Carbondale	CO	81623
+1587	4	225 Main St	Carbondale	CO	81623
+1588	4	912 Highway 133	Carbondale	CO	81623
+1589	4	348 Main St	Carbondale	CO	81623
+1590	4	734 S Perry St Unit A	Castle Rock	CO	80104
+1591	4	322 Wilcox St	Castle Rock	CO	80104
+1592	4	850 New Memphis Ct	Castle Rock	CO	80108
+1593	4	500 Jay Ave	Cedaredge	CO	81413
+1594	4	14 S. Tejon Street	Colorado Springs	CO	80903
+1595	4	110 E Costilla St	Colorado Springs	CO	80903
+1596	4	4737 N Academy Blvd	Colorado Springs	CO	80918
+1597	4	30A E Pikes Peak Ave	Colorado Springs	CO	80903
+1598	4	6200 E 64th Ave	Commerce City	CO	80022
+1599	4	7691 Brighton Blvd	Commerce City	CO	80022
+1600	4	10903 U.S Hwy 285	Conifer	CO	80433
+1601	4	10875 US Highway 285 # 202	Conifer	CO	80433
+1602	4	10983 US Highway 285	Conifer	CO	80433
+1603	4	25797 Conifer Rd	Conifer	CO	80433
+1604	4	1430 E Main St	Cortez	CO	81321
+1605	4	332 W Main St	Cortez	CO	81321
+1606	4	1740 E Main St	Cortez	CO	81321
+1607	4	303 W Main St	Cortez	CO	81321
+1608	4	337 W Victory Way	Craig	CO	81625
+1609	4	572 Breeze St	Craig	CO	81625
+1610	4	1111 W Victory Way	Craig	CO	81625
+1611	4	351 Ranney St	Craig	CO	81625
+1612	4	524 Yampa Ave	Craig	CO	81625
+1613	4	994 Yampa Ave	Craig	CO	81625
+1614	4	21 Elk Ave	Crested Butte	CO	81224
+1615	4	222 Elk Ave	Crested Butte	CO	81224
+1616	4	6 Emmons Rd	Crested Butte	CO	81224
+1617	4	332 Elk Ave	Crested Butte	CO	81224
+1618	4	155 Highway 92	Delta	CO	81416
+1619	4	520 Main St	Delta	CO	81416
+1620	4	1205 Main St	Delta	CO	81416
+1621	4	326 Main St Ste 102	Delta	CO	81416
+1622	4	2011 E. 17th St	Denver	CO	80206
+1623	4	497 E 120th Ave	Denver	CO	80233
+1624	4	330 E 6th Ave	Denver	CO	80203
+1625	4	13161 W Alameda Pkwy	Denver	CO	80228
+1626	4	3215 S Wadsworth Blvd	Denver	CO	80227
+1627	4	740 Summit Dr	Dillon	CO	80435
+1628	4	23074 US Highway 6	Dillon	CO	80435
+1629	4	101 11th N	Dolores	CO	81323
+1630	4	811 Railroad Ave	Dolores	CO	81323
+1631	4	104 2nd St	Dolores	CO	81323
+1632	4	108 S 8th St	Dolores	CO	81323
+1633	4	144 E 9th St	Durango	CO	81301
+1634	4	619 Main Ave	Durango	CO	81301
+1635	4	519 12 Main Ave	Durango	CO	81301
+1636	4	32225 Highway 550	Durango	CO	81301
+1637	4	225 Broadway	Eagle	CO	81631
+1638	4	1143 Capitol Street	Eagle	CO	81631
+1639	4	0112 W Chambers Ave	Eagle	CO	81631
+1640	4	824 Chambers Ave	Eagle	CO	81631
+1641	4	422 McIntire St	Eagle	CO	81631
+1642	4	69 Edwards Access Rd #6	Edwards	CO	81632
+1643	4	34185 US Highway 6	Edwards	CO	81632
+1644	4	56 Edwards Village Blvd Unit 120	Edwards	CO	81632
+1645	4	1170 Edwards Village Blvd	Edwards	CO	81632
+1646	4	47 Edwards Village Blvd	Edwards	CO	81632
+1647	4	1140 Edwards Village Blvd	Edwards	CO	81632
+1648	4	8000 E Belleview Ave Ste F10	Englewood	CO	80111
+1649	4	11804 E Oswego St	Englewood	CO	80112
+1650	4	735 Pierce St	Erie	CO	80516
+1651	4	3100 Village Vista Dr	Erie	CO	80516
+1652	4	393 E Elkhorn Ave	Estes Park	CO	80517
+1653	4	153 E Elkhorn Ave	Estes Park	CO	80517
+1654	4	3450 Fall River Rd	Estes Park	CO	80517
+1655	4	157 W Elkhorn Ave	Estes Park	CO	80517
+1656	4	3620 35th Ave	Evans	CO	80620
+1657	4	3230 23rd Ave	Evans	CO	80620
+1658	4	1552 Bergen Pkwy	Evergreen	CO	80439
+1659	4	28215 Hwy 74	Evergreen	CO	80439
+1660	4	121 W Main St	Florence	CO	81226
+1661	4	114 E Main St	Florence	CO	81226
+1662	4	221 W Main St	Florence	CO	81226
+1663	4	129 Church Ave	Florence	CO	81226
+1664	4	2635 S College Ave	Fort Collins	CO	80525
+1665	4	334 E Mountain Ave	Fort Collins	CO	80524
+1666	4	1212 Oakridge Dr	Fort Collins	CO	80525
+1667	4	2601 S Lemay Ave	Fort Collins	CO	80525
+1668	4	1544 Oakridge Dr	Fort Collins	CO	80525
+1669	4	123 1st St	Fort Lupton	CO	80621
+1670	4	11 1st St	Fort Lupton	CO	80621
+1671	4	209 Main St	Fort Morgan	CO	80701
+1672	4	20359 US Highway 34	Fort Morgan	CO	80701
+1673	4	I25 Exit 128	Fountain	CO	80817
+1674	4	110 N Santa Fe Ave	Fountain	CO	80817
+1675	4	6928 Mesa Ridge Pkwy	Fountain	CO	80817
+1676	4	311 N Santa Fe Ave	Fountain	CO	80817
+1677	4	409 E Main	Frisco	CO	80443
+1678	4	0231 Ten Mile Cir	Frisco	CO	80443
+1679	4	555 Raptor Rd # C	Fruita	CO	81521
+1680	4	402 Jurassic Ave	Fruita	CO	81521
+1681	4	412 6th St	Georgetown	CO	80444
+1682	4	601 14th St	Georgetown	CO	80444
+1683	4	208 7th St	Glenwood Springs	CO	81601
+1684	4	2525 Grand Ave	Glenwood Springs	CO	81601
+1685	4	702 Grand Ave	Glenwood Springs	CO	81601
+1686	4	2830 S Glen Ave	Glenwood Springs	CO	81601
+1687	4	729 Grand Ave	Glenwood Springs	CO	81601
+1688	4	840 Tabor St	Golden	CO	80401
+1689	4	14285 W Colfax Ave	Golden	CO	80401
+1690	4	109 N Rubey Dr Ste F	Golden	CO	80403
+1691	4	720 Arapahoe St	Golden	CO	80401
+1692	4	395 E Agate Ave	Granby	CO	80446
+1693	4	200 W Agate Ave	Granby	CO	80446
+1694	4	6862 US Highway 34	Granby	CO	80446
+1695	4	420 E Agate Ave	Granby	CO	80446
+1696	4	62927 US Highway 40	Granby	CO	80446
+1697	4	52 4th St	Granby	CO	80446
+1698	4	546 Main St	Grand Junction	CO	81501
+1699	4	2148 Broadway	Grand Junction	CO	81503
+1700	4	2870 North Ave	Grand Junction	CO	81501
+1701	4	10658 US Highway 34	Grand Lake	CO	80447
+1702	4	10188 US Highway 34	Grand Lake	CO	80447
+1703	4	1131 Grand Ave	Grand Lake	CO	80447
+1704	4	604 Marina Dr	Grand Lake	CO	80447
+1705	4	928 Grand Ave	Grand Lake	CO	80447
+1706	4	2725 W 10th St	Greeley	CO	80634
+1707	4	3000 S 23rd Ave Unit 9	Greeley	CO	80631
+1708	4	3636 W 10th St	Greeley	CO	80634
+1709	4	2729 8th Ave	Greeley	CO	80631
+1710	4	7520 E. Progress Place	Greenwood Village	CO	80111
+1711	4	8000 East Belleview Ave #C-10	Greenwood Village	CO	80111
+1712	4	5970 S. Holly	Greenwood Village	CO	80111
+1713	4	5960 South Holly	Greenwood Village	CO	80111
+1714	4	1415 W Tomichi Ave	Gunnison	CO	81230
+1715	4	37550 US Highway 50	Gunnison	CO	81230
+1716	4	114 N Main St	Gunnison	CO	81230
+1717	4	226 N Main St	Gunnison	CO	81230
+1718	4	328 W Bridge St	Hotchkiss	CO	81419
+1719	4	721 E Bridge St	Hotchkiss	CO	81419
+1720	4	328 W Bridge St	Hotchkiss	CO	81419
+1721	4	140 W Bridge St	Hotchkiss	CO	81419
+1722	4	2736 Colorado Blvd.	Idaho Springs	CO	80452
+1723	4	1743 Miner St	Idaho Springs	CO	80452
+1724	4	1517 Miner Street	Idaho Springs	CO	80452
+1725	4	135 Goddard Ave	Ignacio	CO	81137
+1726	4	135 Goddard Ave	Ignacio	CO	81137
+1727	4	677 Goddard Ave	Ignacio	CO	81137
+1728	4	25940 Highway 74	Kittredge	CO	80457
+1729	4	385 Crossing Drive #109	Lafayette	CO	80026
+1730	4	211 N Public Rd Ste 100	Lafayette	CO	80026
+1731	4	211 N Public Rd	Lafayette	CO	80026
+1732	4	1381 Forest Park Cir	Lafayette	CO	80026
+1733	4	710 W 3rd St	La Junta	CO	81050
+1734	4	1617 Raton Ave	La Junta	CO	81050
+1735	4	114 Colorado Ave	La Junta	CO	81050
+1736	4	418 E 3rd St	La Junta	CO	81050
+1737	4	1221 N Hwy 149	Lake City	CO	81235
+1738	4	808 Gunnison Ave	Lake City	CO	81235
+1739	4	304 Silver St	Lake City	CO	81235
+1740	4	7986 W. Alameda Ave	Lakewood	CO	80226
+1741	4	1910 Wadsworth Blvd	Lakewood	CO	80214
+1742	4	9199 W Alameda Parkway	Lakewood	CO	80226
+1743	4	1701 S Main St	Lamar	CO	81052
+1744	4	100 Savage Ave	Lamar	CO	81052
+1745	4	104 E Beech St	Lamar	CO	81052
+1746	4	715 Elm St	Leadville	CO	80461
+1747	4	4039 Highway 91	Leadville	CO	80461
+1748	4	118 E 2nd St	Leadville	CO	80461
+1749	4	710 Harrison Ave	Leadville	CO	80461
+1750	4	8174 S Kipling Pkwy Unit 110	Littleton	CO	80127
+1751	4	5380 S Wadsworth Blvd	Littleton	CO	80123
+1752	4	2033 Ken Pratt Blvd	Longmont	CO	80501
+1753	4	516 Main St	Longmont	CO	80501
+1754	4	330 S McCaslin Blvd	Louisville	CO	80027
+1755	4	988 W Dillon Rd	Louisville	CO	80027
+1756	4	640 Main St	Louisville	CO	80027
+1757	4	575 S McCaslin Blvd	Louisville	CO	80027
+1758	4	808 Main St	Louisville	CO	80027
+1759	4	1148 W Dillon Rd	Louisville	CO	80027
+1760	4	1323 Eagle Dr	Loveland	CO	80537
+1761	4	213 E 29th St	Loveland	CO	80538
+1762	4	432 Main St	Lyons	CO	80540
+1763	4	12311 US Highway 36	Lyons	CO	80540
+1764	4	112 E Main St	Lyons	CO	80540
+1765	4	228 Main St	Lyons	CO	80540
+1766	4	400 Main St	Lyons	CO	80540
+1767	4	442 High St	Lyons	CO	80540
+1768	4	718 Manitou Ave	Manitou Springs	CO	80829
+1769	4	404 Manitou Ave	Manitou Springs	CO	80829
+1770	4	26 Manitou Ave	Manitou Springs	CO	80829
+1771	4	964 Manitou Ave	Manitou Springs	CO	80829
+1772	4	859 Acequia Dr	Monte Vista	CO	81144
+1773	4	1635 US Highway 285 N	Monte Vista	CO	81144
+1774	4	819 1st Ave	Monte Vista	CO	81144
+1775	4	2099 Sherman Ave	Monte Vista	CO	81144
+1776	4	118 Adams St	Monte Vista	CO	81144
+1777	4	1515 Venture Way	Montrose	CO	81401
+1778	4	1320 SOUTH TOWNSEND , MONTROSE	Montrose	CO	81401
+1779	4	140 2nd St	Monument	CO	80132
+1780	4	481 Highway 105 Unit K	Monument	CO	80132
+1781	4	315 Highway 105	Monument	CO	80132
+1782	4	230 Front St	Monument	CO	80132
+1783	4	263 Highway 105	Monument	CO	80132
+1784	4	415 Bear Creek Ave	Morrison	CO	80465
+1785	4	14011 W Quincy Ave	Morrison	CO	80465
+1786	4	19192 Highway 8	Morrison	CO	80465
+1787	4	121 Jefferson St	Nederland	CO	80466
+1788	4	686 Highway 119 S	Nederland	CO	80466
+1789	4	460 Main	Ouray	CO	81427
+1790	4	505 Main	Ouray	CO	81427
+1791	4	610 Main St	Ouray	CO	81427
+1792	4	740 Main St	Ouray	CO	81427
+1793	4	617 Main St	Ouray	CO	81427
+1794	4	164 N Pagosa Blvd	Pagosa Springs	CO	81147
+1795	4	3505 W Highway 160	Pagosa Springs	CO	81147
+1796	4	10920 S Parker Rd Unit B9	Parker	CO	80134
+1797	4	9932 S Twenty Mile Rd	Parker	CO	80134
+1798	4	19420 E Main St	Parker	CO	80138
+1799	4	19308 Cottonwood Drive	Parker	CO	80138
+1800	4	108 West 3rd	Pueblo	CO	81003
+1801	4	3620 N Freeway Rd	Pueblo	CO	81008
+1802	4	2139 Jerry Murphy Rd	Pueblo	CO	81001
+1803	4	250 Palomino Trail	Ridgway	CO	81432
+1804	4	123 N Lena	Ridgway	CO	81432
+1805	4	121 E 3rd St	Rifle	CO	81650
+1806	4	2178 Railroad Ave	Rifle	CO	81650
+1807	4	401 Railroad Ave	Rifle	CO	81650
+1808	4	1150 Elm Ave	Rocky Ford	CO	81067
+1809	4	907 Railroad Ave	Rocky Ford	CO	81067
+1810	4	501 N Main St	Rocky Ford	CO	81067
+1811	4	136 E 2nd St	Salida	CO	81201
+1812	4	300 W Sackett Ave	Salida	CO	81201
+1813	4	248 E Rainbow Blvd	Salida	CO	81201
+1814	4	1220 E Rainbow Blvd	Salida	CO	81201
+1815	4	347 Blue River Pkwy	Silverthorne	CO	80498
+1816	4	1421 Greene St	Silverton	CO	81433
+1817	4	264 Snowmelt Rd	Snowmass Village	CO	81615
+1818	4	4250 Divide Rd	Snowmass Village	CO	81615
+1819	4	315 Gateway Blvd # 16	Snowmass Village	CO	81615
+1820	4	67 Elbert Ln	Snowmass Village	CO	81615
+1821	4	67 Daly Ln	Snowmass Village	CO	81615
+1822	4	29956 US Highway 160	South Fork	CO	81154
+1823	4	47 W Highway 149	South Fork	CO	81154
+1824	4	29956 US Highway 160	South Fork	CO	81154
+1825	4	76 Highway 149	South Fork	CO	81154
+1826	4	4th & Lincoln	Steamboat Springs	CO	80487
+1827	4	1910 Mount Werner Rd # 101	Steamboat Springs	CO	80487
+1828	4	145 Trafalger Dr	Steamboat Springs	CO	80487
+1829	4	127 11th St	Steamboat Springs	CO	80487
+1830	4	116 Beech St	Sterling	CO	80751
+1831	4	1116 W Main St	Sterling	CO	80751
+1832	4	423 N 3rd Ave	Sterling	CO	80751
+1833	4	126 W Main St	Sterling	CO	80751
+1834	4	333 S Fir	Telluride	CO	81435
+1835	4	400 E Main St	Trinidad	CO	81082
+1836	4	825 San Pedro Ave	Trinidad	CO	81082
+1837	4	418 E Main St	Trinidad	CO	81082
+1838	4	734 E Main St	Trinidad	CO	81082
+1839	4	9995 County Road 69.1	Trinidad	CO	81082
+1840	4	20 Vail Road	Vail	CO	81657
+1841	4	715 W. Lionshead Circle	Vail	CO	81657
+1842	4	675 Lionshead Place	Vail	CO	81657
+1843	4	675 Lionshead Place	Vail	CO	81657
+1844	4	503 W 7th St	Walsenburg	CO	81089
+1845	4	104 E Grand St	Walsenburg	CO	81089
+1846	4	716 Walsen Ave	Walsenburg	CO	81089
+1847	4	110 Ohio	Westcliffe	CO	81252
+1848	4	824 Main St	Westcliffe	CO	81252
+1849	4	8 Bassick Cir	Westcliffe	CO	81252
+1850	4	104 Main St	Westcliffe	CO	81252
+1851	4	6654 County Road 328	Westcliffe	CO	81252
+1852	4	1202 Main St	Westcliffe	CO	81252
+1853	4	110 Ohio St	Westcliffe	CO	81252
+1854	4	10436 Towncenter dr.	Westminster	CO	80021
+1855	4	11950 Bradburn Blvd.	Westminster	CO	80031
+1856	4	5680 W 88th Ave	Westminster	CO	80031
+1857	4	8711 Wadsworth Blvd	Westminster	CO	80003
+1858	4	5581 W 88th Ave	Westminster	CO	80031
+1859	4	4991 W 80th Ave	Westminster	CO	80030
+1860	4	9027 Harlan St	Westminster	CO	80031
+1861	4	7169 Federal Blvd	Westminster	CO	80030
+1862	4	7210 W 38th Ave	Wheat Ridge	CO	80033
+1863	4	3790 Kipling St	Wheat Ridge	CO	80033
+1864	4	4885 Kipling	Wheat Ridge	CO	80033
+1865	4	4990 Kipling St	Wheat Ridge	CO	80033
+1866	4	1215 Main St	Windsor	CO	80550
+1867	4	1294 Main St	Windsor	CO	80550
+1868	4	411 Main St	Windsor	CO	80550
+1869	4	93 Cooper Creek Way	Winter Park	CO	80482
+1870	4	677 Winter Park Dr	Winter Park	CO	80482
+1871	4	78911 US Highway 40	Winter Park	CO	80482
+1872	4	78727 US Highway 40	Winter Park	CO	80482
+1873	4	78336 US Highway 40 # 4	Winter Park	CO	80482
+1874	4	201 Zephyr Ave # B	Winter Park	CO	80482
+1875	4	78437 US Highway 40	Winter Park	CO	80482
+1876	4	720 Browning Ave	Woodland Park	CO	80863
+1877	4	420 E Midland Ave	Woodland Park	CO	80863
+1878	4	111 E Midland Ave	Woodland Park	CO	80863
+1879	4	116 W Midland Ave	Woodland Park	CO	80863
+1880	4	520 Manor Court	Woodland Park	CO	80863
+1881	4	209 E Midland Ave	Woodland Park	CO	80863
+1882	4	204 E Midland Ave	Woodland Park	CO	80863
+1883	4	100 Morning Sun Dr	Woodland Park	CO	80863
+1884	4	420 W 8th Ave	Yuma	CO	80759
+1885	4	602 N Albany St	Yuma	CO	80759
+1886	4	123 S Main St	Yuma	CO	80759
+1887	4	669 Main St	Ansonia	CT	06401
+1888	4	78 Pershing Dr	Ansonia	CT	06401
+1889	4	315 W Main St	Avon	CT	06001
+1890	4	136 Simsbury Rd	Avon	CT	06001
+1891	4	26 W Main St	Avon	CT	06001
+1892	4	24 W Main St	Avon	CT	06001
+1893	4	237 New Britain Rd	Berlin	CT	06037
+1894	4	83 Mill St	Berlin	CT	06037
+1895	4	1240 Farmington Ave	Berlin	CT	06037
+1896	4	246 New Britain Rd	Berlin	CT	06037
+1897	4	55 Stony Hill Rd	Bethel	CT	06801
+1898	4	46 Stony Hill Rd	Bethel	CT	06801
+1899	4	Route 6	Bethel	CT	06801
+1900	4	12 Mountain Ave	Bloomfield	CT	06002
+1901	4	8 Mountain Ave	Bloomfield	CT	06002
+1902	4	705 Park Ave	Bloomfield	CT	06002
+1903	4	715 Park Ave	Bloomfield	CT	06002
+1904	4	1188 Main St	Branford	CT	06405
+1905	4	4 Brushy Plain Rd	Branford	CT	06405
+1906	4	168 Montowese St	Branford	CT	06405
+1907	4	225 Montowese St	Branford	CT	06405
+1908	4	168 N Main St	Branford	CT	06405
+1909	4	1048 Main St	Branford	CT	06405
+1910	4	4485 Main St	Bridgeport	CT	06606
+1911	4	1909 Main St	Bridgeport	CT	06604
+1912	4	1775 Madison Ave	Bridgeport	CT	06606
+1913	4	545 Broadbridge Rd	Bridgeport	CT	06610
+1914	4	64 Matthews St	Bristol	CT	06010
+1915	4	781 King St	Bristol	CT	06010
+1916	4	1444 Farmington Ave	Bristol	CT	06010
+1917	4	294 Middle St	Bristol	CT	06010
+1918	4	2 Divinity St	Bristol	CT	06010
+1919	4	317 Federal Rd	Brookfield	CT	06804
+1920	4	834 Federal Rd	Brookfield	CT	06804
+1921	4	270 Federal Rd	Brookfield	CT	06804
+1922	4	143 Federal Rd	Brookfield	CT	06804
+1923	4	50 Albany Tnpk	Canton	CT	06019
+1924	4	460 Albany Tnpk	Canton	CT	06019
+1925	4	160 Albany Tnpk	Canton	CT	06019
+1926	4	228 Albany Tnpk	Canton	CT	06019
+1927	4	150 Main St	Cheshire	CT	06410
+1928	4	122 Elm St	Cheshire	CT	06410
+1929	4	118 S Main St	Cheshire	CT	06410
+1930	4	1020 S Main St	Cheshire	CT	06410
+1931	4	4 Water St	Chester	CT	06412
+1932	4	318 W Main St	Chester	CT	06412
+1933	4	23 Main St	Chester	CT	06412
+1934	4	114 E Main St	Clinton	CT	06413
+1935	4	192 E Main St	Clinton	CT	06413
+1936	4	163 Glenwood Rd	Clinton	CT	06413
+1937	4	24 E Main St	Clinton	CT	06413
+1938	4	233 E Main St	Clinton	CT	06413
+1939	4	346 E Main St	Clinton	CT	06413
+1940	4	167 Lebanon Ave Unit A	Colchester	CT	06415
+1941	4	232 New London Rd	Colchester	CT	06415
+1942	4	51 Shunpike Rd	Cromwell	CT	06416
+1943	4	30 Berlin Rd	Cromwell	CT	06416
+1944	4	150 Sebethe Dr	Cromwell	CT	06416
+1945	4	111 Berlin Rd	Cromwell	CT	06416
+1946	4	34 Backus Ave	Danbury	CT	06810
+1947	4	4 Starr Street	Danbury	CT	06810
+1948	4	255 White St	Danbury	CT	06810
+1949	4	1973 Post Rd	Darien	CT	06820
+1950	4	14 Grove St	Darien	CT	06820
+1951	4	25 Old Kings Hwy N	Darien	CT	06820
+1952	4	1033 Boston Post Rd	Darien	CT	06820
+1953	4	154 Post Rd	Darien	CT	06820
+1954	4	143 Main St	Derby	CT	06418
+1955	4	5 Main St	Derby	CT	06418
+1956	4	42 E High St	East Hampton	CT	06424
+1957	4	119 Pitkin St	East Hartford	CT	06108
+1958	4	700 Burnside Ave	East Hartford	CT	06108
+1959	4	446 Forbes Av	East Haven	CT	06512
+1960	4	58 Frontage Rd	East Haven	CT	06512
+1961	4	214 Main St	East Haven	CT	06512
+1962	4	672 Main St	East Haven	CT	06512
+1963	4	25 Frontage Rd	East Haven	CT	06512
+1964	4	170 Flanders Rd- Midway Pla	East Lyme	CT	06333
+1965	4	167 Main St	East Lyme	CT	06333
+1966	4	215 Main St	East Lyme	CT	06333
+1967	4	297 S Main St.	East Windsor	CT	06088
+1968	4	58 North Rd	East Windsor	CT	06088
+1969	4	161 Bridge St	East Windsor	CT	06088
+1970	4	122 Prospect Hill	East Windsor	CT	06088
+1971	4	127 West Rd	Ellington	CT	06029
+1972	4	105 West Rd Unit A	Ellington	CT	06029
+1973	4	99 Stafford Rd	Ellington	CT	06029
+1974	4	90 Elm St	Enfield	CT	06082
+1975	4	78 Main St	Essex	CT	06426
+1976	4	125 Westbrook Rd	Essex	CT	06426
+1977	4	78 Main St	Essex	CT	06426
+1978	4	46 Main St	Essex	CT	06426
+1979	4	591 Tunxis Hill Rd	Fairfield	CT	06825
+1980	4	601 King's Highway E	Fairfield	CT	06825
+1981	4	397 State Street Ext	Fairfield	CT	06825
+1982	4	437 Tunxis Hill Rd Fl 1	Fairfield	CT	06825
+1983	4	1053 Farmington Ave	Farmington	CT	06032
+1984	4	230 Farmington Ave	Farmington	CT	06032
+1985	4	1600 S East Rd	Farmington	CT	06032
+1986	4	788 Farmington Ave	Farmington	CT	06032
+1987	4	747 Farmington Ave	Farmington	CT	06032
+1988	4	7 Westwoods Dr	Farmington	CT	06032
+1989	4	124 Hebron Avenue	Glastonbury	CT	06033
+1990	4	185 Glastonbury Blvd	Glastonbury	CT	06033
+1991	4	110 Glastonbury Blvd	Glastonbury	CT	06033
+1992	4	1001 Hebron Ave	Glastonbury	CT	06033
+1993	4	2882 Main St	Glastonbury	CT	06033
+1994	4	569 Salmon Brook St	Granby	CT	06035
+1995	4	357 Salmon Brook St	Granby	CT	06035
+1996	4	328 Pemberwick Road	Greenwich	CT	06831
+1997	4	381 Greenwich Ave	Greenwich	CT	06830
+1998	4	265 Glenville Rd	Greenwich	CT	06831
+1999	4	21 Field Point Rd	Greenwich	CT	06830

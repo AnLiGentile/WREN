@@ -1,0 +1,2002 @@
+﻿movie	rottentomatoes	genre
+2000	1999	4703	21
+0000	2	Musical & Performing Arts	Drama
+0001	2	Drama	Comedy
+0002	3	Drama	Art House & International	Comedy
+0003	4	Drama	Kids & Family	Classics	Science Fiction & Fantasy
+0004	2	Drama	Classics
+0005	5	Drama	Romance	Mystery & Suspense	Classics	Comedy
+0006	2	Drama	Classics
+0007	4	Drama	Art House & International	Classics	Comedy
+0008	2	Documentary	Special Interest
+0009	2	Art House & International	Drama
+0010	2	Comedy	Kids & Family
+0011	2	Comedy	Romance
+0012	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+0013	3	Action & Adventure	Kids & Family	Comedy
+0014	3	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+0015	2	Art House & International	Action & Adventure
+0016	2	Musical & Performing Arts	Drama
+0017	1	Comedy
+0018	3	Animation	Kids & Family	Science Fiction & Fantasy
+0019	2	Action & Adventure	Comedy
+0020	2	Comedy	Kids & Family
+0021	3	Drama	Classics	Comedy
+0022	2	Art House & International	Drama
+0023	4	Drama	Romance	Classics	Comedy
+0024	1	Documentary
+0025	2	Art House & International	Comedy
+0026	1	Musical & Performing Arts
+0027	1	Comedy
+0028	1	Comedy
+0029	1	Special Interest
+0030	2	Art House & International	Drama
+0031	2	Comedy	Kids & Family
+0032	2	Mystery & Suspense	Horror
+0033	2	Comedy	Kids & Family
+0034	3	Drama	Classics	Comedy
+0035	4	Romance	Musical & Performing Arts	Classics	Comedy
+0036	2	Drama	Horror
+0037	2	Comedy	Romance
+0038	2	Mystery & Suspense	Drama
+0039	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+0040	3	Drama	Art House & International	Comedy
+0041	3	Documentary	Western	Special Interest
+0042	3	Documentary	Television	Comedy
+0043	1	Comedy
+0044	3	Action & Adventure	Kids & Family	Science Fiction & Fantasy
+0045	3	Horror	Art House & International	Science Fiction & Fantasy
+0046	3	Romance	Classics	Comedy
+0047	3	Drama	Art House & International	Mystery & Suspense
+0048	1	Comedy
+0049	2	Comedy	Romance
+0050	3	Drama	Mystery & Suspense	Classics
+0051	3	Mystery & Suspense	Classics	Comedy
+0052	3	Drama	Classics	Comedy
+0053	1	Drama
+0054	3	Drama	Action & Adventure	Mystery & Suspense
+0055	3	Action & Adventure	Horror	Science Fiction & Fantasy
+0056	1	Horror
+0057	2	Action & Adventure	Horror
+0058	2	Action & Adventure	Comedy
+0059	1	Comedy
+0060	2	Art House & International	Drama
+0061	3	Drama	Art House & International	Special Interest
+0062	4	Documentary	Faith & Spirituality	Musical & Performing Arts	Special Interest
+0063	4	Drama	Art House & International	Mystery & Suspense	Science Fiction & Fantasy
+0064	3	Drama	Romance	Comedy
+0065	1	Comedy
+0066	5	Horror	Art House & International	Mystery & Suspense	Classics	Cult Movies
+0067	4	Romance	Musical & Performing Arts	Classics	Comedy
+0068	3	Documentary	Musical & Performing Arts	Special Interest
+0069	3	Documentary	Musical & Performing Arts	Special Interest
+0070	2	Documentary	Special Interest
+0071	2	Mystery & Suspense	Drama
+0072	2	Mystery & Suspense	Action & Adventure
+0073	2	Documentary	Special Interest
+0074	4	Drama	Romance	Classics	Comedy
+0075	5	Kids & Family	Musical & Performing Arts	Classics	Science Fiction & Fantasy	Comedy
+0076	3	Drama	Romance	Comedy
+0077	4	Western	Drama	Action & Adventure	Classics
+0078	2	Mystery & Suspense	Drama
+0079	2	Art House & International	Drama
+0080	2	Action & Adventure	Science Fiction & Fantasy
+0081	4	Drama	Horror	Mystery & Suspense	Classics
+0082	3	Drama	Mystery & Suspense	Classics
+0083	1	Comedy
+0084	2	Mystery & Suspense	Horror
+0085	2	Comedy	Kids & Family
+0086	1	Action & Adventure
+0087	4	Action & Adventure	Kids & Family	Art House & International	Science Fiction & Fantasy
+0088	1	Comedy
+0089	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0090	4	Drama	Action & Adventure	Mystery & Suspense	Comedy
+0091	2	Drama	Gay & Lesbian
+0092	3	Drama	Art House & International	Comedy
+0093	3	Drama	Action & Adventure	Comedy
+0094	5	Action & Adventure	Horror	Animation	Mystery & Suspense	Science Fiction & Fantasy
+0095	3	Drama	Romance	Comedy
+0096	3	Drama	Action & Adventure	Mystery & Suspense
+0097	1	Drama
+0098	2	Mystery & Suspense	Drama
+0099	3	Drama	Horror	Classics
+0100	3	Drama	Kids & Family	Comedy
+0101	1	Comedy
+0102	1	Drama
+0103	3	Documentary	Television	Comedy
+0104	3	Romance	Musical & Performing Arts	Comedy
+0105	1	Drama
+0106	2	Art House & International	Science Fiction & Fantasy
+0107	4	Drama	Romance	Classics	Comedy
+0108	5	Drama	Art House & International	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+0109	3	Documentary	Television	Special Interest
+0110	1	Drama
+0111	2	Musical & Performing Arts	Documentary
+0112	3	Documentary	Musical & Performing Arts	Special Interest
+0113	3	Western	Action & Adventure	Comedy
+0114	1	Comedy
+0115	1	Comedy
+0116	1	Comedy
+0117	1	Special Interest
+0118	4	Animation	Anime & Manga	Art House & International	Science Fiction & Fantasy
+0119	3	Drama	Romance	Mystery & Suspense
+0120	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+0121	4	Drama	Romance	Art House & International	Comedy
+0122	1	Drama
+0123	3	Documentary	Musical & Performing Arts	Special Interest
+0124	1	Drama
+0125	2	Mystery & Suspense	Action & Adventure
+0126	4	Drama	Romance	Art House & International	Comedy
+0127	2	Documentary	Special Interest
+0128	2	Drama	Comedy
+0129	1	Comedy
+0130	2	Action & Adventure	Comedy
+0131	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+0132	7	Action & Adventure	Animation	Comedy	Cult Movies	Kids & Family	Musical & Performing Arts	Science Fiction & Fantasy
+0133	3	Action & Adventure	Horror	Science Fiction & Fantasy
+0134	3	Drama	Art House & International	Mystery & Suspense
+0135	1	Action & Adventure
+0136	2	Drama	Comedy
+0137	2	Drama	Classics
+0138	4	Drama	Mystery & Suspense	Classics	Special Interest
+0139	1	Documentary
+0140	2	Drama	Comedy
+0141	2	Drama	Romance
+0142	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0143	1	Drama
+0144	1	Drama
+0145	2	Art House & International	Comedy
+0146	2	Art House & International	Drama
+0147	3	Drama	Art House & International	Comedy
+0148	2	Drama	Romance
+0149	6	Television	Romance	Art House & International	Comedy	Musical & Performing Arts	Science Fiction & Fantasy
+0150	3	Horror	Art House & International	Classics
+0151	3	Western	Drama	Classics
+0152	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+0153	1	Drama
+0154	3	Drama	Romance	Classics
+0155	3	Romance	Science Fiction & Fantasy	Comedy
+0156	2	Mystery & Suspense	Drama
+0157	2	Mystery & Suspense	Drama
+0158	2	Musical & Performing Arts	Romance
+0159	1	Horror
+0160	3	Romance	Classics	Science Fiction & Fantasy
+0161	3	Drama	Classics	Comedy
+0162	5	Drama	Action & Adventure	Art House & International	Mystery & Suspense	Classics
+0163	3	Drama	Art House & International	Classics
+0164	3	Drama	Romance	Classics
+0165	6	Romance	Classics	Comedy	Drama	Mystery & Suspense	Special Interest
+0166	2	Documentary	Special Interest
+0167	2	Animation	Kids & Family
+0168	2	Documentary	Special Interest
+0169	2	Art House & International	Drama
+0170	2	Documentary	Drama
+0171	3	Art House & International	Mystery & Suspense	Comedy
+0172	1	Drama
+0173	2	Comedy	Romance
+0174	1	Comedy
+0175	1	Romance
+0176	2	Drama	Comedy
+0177	2	Drama	Classics
+0178	3	Drama	Action & Adventure	Art House & International
+0179	2	Art House & International	Drama
+0180	2	Documentary	Special Interest
+0181	3	Drama	Romance	Comedy
+0182	2	Drama	Comedy
+0183	2	Art House & International	Drama
+0184	2	Classics	Horror
+0185	2	Mystery & Suspense	Horror
+0186	1	Drama
+0187	4	Horror	Classics	Science Fiction & Fantasy	Comedy
+0188	4	Documentary	Television	Comedy	Special Interest
+0189	2	Drama	Action & Adventure
+0190	3	Drama	Romance	Musical & Performing Arts
+0191	2	Drama	Comedy
+0192	3	Drama	Animation	Kids & Family
+0193	2	Art House & International	Drama
+0194	3	Drama	Art House & International	Comedy
+0195	3	Western	Action & Adventure	Classics
+0196	3	Drama	Musical & Performing Arts	Classics
+0197	2	Drama	Classics
+0198	2	Comedy	Romance
+0199	2	Mystery & Suspense	Drama
+0200	2	Art House & International	Drama
+0201	2	Art House & International	Drama
+0202	2	Drama	Comedy
+0203	3	Drama	Mystery & Suspense	Classics
+0204	3	Drama	Action & Adventure	Art House & International
+0205	2	Art House & International	Drama
+0206	4	Television	Animation	Kids & Family	Comedy
+0207	1	Art House & International
+0208	3	Drama	Art House & International	Comedy
+0209	3	Drama	Television	Romance
+0210	3	Animation	Kids & Family	Comedy
+0211	2	Classics	Science Fiction & Fantasy
+0212	3	Documentary	Television	Special Interest
+0213	3	Romance	Classics	Comedy
+0214	1	Drama
+0215	2	Art House & International	Drama
+0216	1	Drama
+0217	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+0218	1	Comedy
+0219	5	Documentary	Drama	Faith & Spirituality	Comedy	Special Interest
+0220	2	Mystery & Suspense	Drama
+0221	1	Comedy
+0222	4	Western	Television	Art House & International	Comedy
+0223	1	Horror
+0224	3	Drama	Romance	Comedy
+0225	2	Documentary	Special Interest
+0226	3	Drama	Art House & International	Mystery & Suspense
+0227	2	Drama	Action & Adventure
+0228	1	Comedy
+0229	2	Documentary	Special Interest
+0230	2	Documentary	Special Interest
+0231	3	Documentary	Sports & Fitness	Special Interest
+0232	4	Action & Adventure	Kids & Family	Classics	Science Fiction & Fantasy
+0233	3	Drama	Classics	Comedy
+0234	5	Drama	Romance	Art House & International	Science Fiction & Fantasy	Comedy
+0235	3	Drama	Action & Adventure	Art House & International
+0236	3	Drama	Art House & International	Mystery & Suspense
+0237	2	Art House & International	Drama
+0238	2	Action & Adventure	Science Fiction & Fantasy
+0239	2	Drama	Comedy
+0240	2	Musical & Performing Arts	Documentary
+0241	4	Animation	Kids & Family	Classics	Science Fiction & Fantasy
+0242	2	Drama	Classics
+0243	2	Art House & International	Drama
+0244	3	Drama	Romance	Comedy
+0245	3	Drama	Mystery & Suspense	Comedy
+0246	2	Art House & International	Comedy
+0247	2	Comedy	Kids & Family
+0248	3	Drama	Animation	Romance
+0249	2	Action & Adventure	Science Fiction & Fantasy
+0250	1	Documentary
+0251	2	Mystery & Suspense	Drama
+0252	1	Comedy
+0253	1	Comedy
+0254	1	Action & Adventure
+0255	1	Horror
+0256	4	Animation	Kids & Family	Art House & International	Science Fiction & Fantasy
+0257	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+0258	2	Documentary	Special Interest
+0259	2	Drama	Science Fiction & Fantasy
+0260	3	Drama	Art House & International	Comedy
+0261	2	Art House & International	Drama
+0262	3	Drama	Science Fiction & Fantasy	Comedy
+0263	1	Drama
+0264	1	Comedy
+0265	4	Drama	Action & Adventure	Classics	Science Fiction & Fantasy
+0266	4	Action & Adventure	Kids & Family	Musical & Performing Arts	Comedy
+0267	3	Drama	Action & Adventure	Classics
+0268	3	Drama	Science Fiction & Fantasy	Comedy
+0269	3	Drama	Action & Adventure	Comedy
+0270	3	Drama	Horror	Mystery & Suspense
+0271	2	Drama	Classics
+0272	3	Drama	Horror	Classics
+0273	4	Drama	Horror	Classics	Science Fiction & Fantasy
+0274	2	Art House & International	Drama
+0275	2	Art House & International	Drama
+0276	2	Drama	Comedy
+0277	2	Art House & International	Drama
+0278	3	Drama	Art House & International	Comedy
+0279	2	Art House & International	Drama
+0280	2	Art House & International	Drama
+0281	3	Documentary	Art House & International	Special Interest
+0282	4	Documentary	Musical & Performing Arts	Sports & Fitness	Special Interest
+0283	1	Horror
+0284	1	Comedy
+0285	2	Action & Adventure	Comedy
+0286	2	Classics	Horror
+0287	3	Romance	Classics	Comedy
+0288	2	Art House & International	Drama
+0289	2	Documentary	Special Interest
+0290	3	Drama	Mystery & Suspense	Comedy
+0291	1	Drama
+0292	2	Mystery & Suspense	Action & Adventure
+0293	1	Comedy
+0294	3	Drama	Mystery & Suspense	Classics
+0295	2	Art House & International	Drama
+0296	1	Comedy
+0297	1	Comedy
+0298	2	Drama	Action & Adventure
+0299	3	Drama	Mystery & Suspense	Comedy
+0300	3	Drama	Action & Adventure	Mystery & Suspense
+0301	2	Art House & International	Drama
+0302	3	Documentary	Drama	Special Interest
+0303	3	Drama	Art House & International	Comedy
+0304	1	Drama
+0305	1	Drama
+0306	2	Drama	Romance
+0307	1	Kids & Family
+0308	2	Drama	Horror
+0309	3	Drama	Mystery & Suspense	Comedy
+0310	4	Action & Adventure	Kids & Family	Classics	Comedy
+0311	4	Drama	Romance	Classics	Comedy
+0312	3	Horror	Animation	Art House & International
+0313	2	Drama	Action & Adventure
+0314	3	Documentary	Drama	Special Interest
+0315	2	Sports & Fitness	Comedy
+0316	1	Drama
+0317	2	Drama	Comedy
+0318	1	Comedy
+0319	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0320	4	Drama	Action & Adventure	Art House & International	Science Fiction & Fantasy
+0321	3	Drama	Action & Adventure	Kids & Family
+0322	2	Drama	Action & Adventure
+0323	2	Drama	Classics
+0324	3	Drama	Art House & International	Mystery & Suspense
+0325	2	Classics	Comedy
+0326	1	Drama
+0327	5	Action & Adventure	Television	Animation	Kids & Family	Science Fiction & Fantasy
+0328	3	Drama	Action & Adventure	Classics
+0329	3	Drama	Romance	Classics
+0330	2	Drama	Comedy
+0331	1	Drama
+0332	3	Drama	Action & Adventure	Classics
+0333	2	Art House & International	Drama
+0334	2	Mystery & Suspense	Classics
+0335	1	Drama
+0336	2	Art House & International	Drama
+0337	3	Drama	Mystery & Suspense	Classics
+0338	3	Drama	Mystery & Suspense	Classics
+0339	3	Drama	Horror	Mystery & Suspense
+0340	2	Art House & International	Drama
+0341	2	Art House & International	Drama
+0342	3	Drama	Television	Art House & International
+0343	1	Comedy
+0344	3	Drama	Horror	Art House & International
+0345	3	Drama	Mystery & Suspense	Classics
+0346	2	Science Fiction & Fantasy	Comedy
+0347	2	Action & Adventure	Comedy
+0348	3	Drama	Action & Adventure	Mystery & Suspense
+0349	3	Drama	Romance	Comedy
+0350	2	Documentary	Special Interest
+0351	3	Drama	Art House & International	Comedy
+0352	3	Drama	Classics	Comedy
+0353	2	Documentary	Special Interest
+0354	5	Kids & Family	Musical & Performing Arts	Classics	Science Fiction & Fantasy	Comedy
+0355	3	Drama	Classics	Comedy
+0356	2	Art House & International	Drama
+0357	2	Documentary	Special Interest
+0358	3	Documentary	Drama	Special Interest
+0359	3	Drama	Art House & International	Comedy
+0360	1	Comedy
+0361	4	Drama	Romance	Art House & International	Comedy
+0362	3	Drama	Romance	Art House & International
+0363	4	Drama	Action & Adventure	Mystery & Suspense	Classics
+0364	3	Drama	Mystery & Suspense	Classics
+0365	4	Action & Adventure	Kids & Family	Classics	Science Fiction & Fantasy
+0366	2	Comedy	Romance
+0367	1	Drama
+0368	2	Art House & International	Drama
+0369	3	Drama	Art House & International	Comedy
+0370	4	Western	Horror	Romance	Mystery & Suspense
+0371	2	Action & Adventure	Science Fiction & Fantasy
+0372	2	Drama	Comedy
+0373	2	Drama	Romance
+0374	3	Drama	Art House & International	Comedy
+0375	3	Drama	Action & Adventure	Art House & International
+0376	2	Musical & Performing Arts	Documentary
+0377	3	Drama	Art House & International	Mystery & Suspense
+0378	4	Drama	Romance	Art House & International	Comedy
+0379	6	Art House & International	Documentary	Drama	Horror	Science Fiction & Fantasy	Special Interest
+0380	1	Drama
+0381	2	Documentary	Special Interest
+0382	2	Art House & International	Drama
+0383	4	Drama	Romance	Art House & International	Comedy
+0384	1	Drama
+0385	2	Drama	Action & Adventure
+0386	4	Drama	Action & Adventure	Art House & International	Comedy
+0387	1	Drama
+0388	2	Horror	Comedy
+0389	2	Science Fiction & Fantasy	Kids & Family
+0390	2	Drama	Classics
+0391	3	Drama	Art House & International	Comedy
+0392	2	Musical & Performing Arts	Drama
+0393	2	Drama	Action & Adventure
+0394	2	Documentary	Special Interest
+0395	2	Drama	Classics
+0396	3	Drama	Romance	Classics
+0397	3	Western	Action & Adventure	Classics
+0398	2	Drama	Romance
+0399	5	Action & Adventure	Animation	Kids & Family	Romance	Musical & Performing Arts
+0400	3	Drama	Action & Adventure	Mystery & Suspense
+0401	2	Classics	Horror
+0402	2	Drama	Romance
+0403	3	Drama	Romance	Art House & International
+0404	4	Drama	Animation	Kids & Family	Science Fiction & Fantasy
+0405	1	Comedy
+0406	3	Drama	Art House & International	Comedy
+0407	4	Documentary	Drama	Musical & Performing Arts	Special Interest
+0408	3	Drama	Musical & Performing Arts	Comedy
+0409	3	Documentary	Musical & Performing Arts	Special Interest
+0410	2	Drama	Romance
+0411	3	Drama	Action & Adventure	Classics
+0412	3	Drama	Art House & International	Comedy
+0413	2	Drama	Comedy
+0414	5	Drama	Animation	Art House & International	Science Fiction & Fantasy	Comedy
+0415	2	Documentary	Special Interest
+0416	4	Drama	Action & Adventure	Horror	Mystery & Suspense
+0417	1	Drama
+0418	1	Comedy
+0419	1	Animation
+0420	3	Drama	Romance	Comedy
+0421	3	Animation	Kids & Family	Comedy
+0422	4	Drama	Horror	Romance	Science Fiction & Fantasy
+0423	2	Drama	Comedy
+0424	4	Action & Adventure	Animation	Kids & Family	Science Fiction & Fantasy
+0425	1	Mystery & Suspense
+0426	3	Mystery & Suspense	Classics	Comedy
+0427	4	Drama	Action & Adventure	Romance	Classics
+0428	3	Drama	Art House & International	Comedy
+0429	2	Mystery & Suspense	Drama
+0430	2	Classics	Comedy
+0431	2	Drama	Classics
+0432	0	<NULL>
+0433	3	Drama	Art House & International	Comedy
+0434	4	Drama	Horror	Art House & International	Classics
+0435	4	Drama	Action & Adventure	Animation	Comedy
+0436	1	Drama
+0437	2	Musical & Performing Arts	Documentary
+0438	3	Documentary	Musical & Performing Arts	Special Interest
+0439	2	Art House & International	Drama
+0440	4	Drama	Romance	Art House & International	Comedy
+0441	1	Drama
+0442	5	Romance	Sports & Fitness	Art House & International	Comedy	Drama
+0443	2	Sports & Fitness	Drama
+0444	4	Documentary	Drama	Musical & Performing Arts	Special Interest
+0445	1	Documentary
+0446	2	Art House & International	Comedy
+0447	2	Western	Classics
+0448	1	Comedy
+0449	3	Drama	Sports & Fitness	Classics
+0450	3	Drama	Art House & International	Comedy
+0451	2	Western	Classics
+0452	2	Drama	Classics
+0453	3	Drama	Art House & International	Comedy
+0454	3	Documentary	Musical & Performing Arts	Special Interest
+0455	1	Comedy
+0456	1	Drama
+0457	2	Comedy	Romance
+0458	2	Drama	Comedy
+0459	2	Mystery & Suspense	Drama
+0460	1	Action & Adventure
+0461	1	Drama
+0462	2	Drama	Comedy
+0463	2	Drama	Romance
+0464	3	Drama	Mystery & Suspense	Comedy
+0465	1	Special Interest
+0466	1	Comedy
+0467	3	Drama	Art House & International	Mystery & Suspense
+0468	2	Action & Adventure	Science Fiction & Fantasy
+0469	1	Drama
+0470	1	Drama
+0471	2	Art House & International	Drama
+0472	3	Drama	Action & Adventure	Mystery & Suspense
+0473	2	Musical & Performing Arts	Documentary
+0474	2	Art House & International	Drama
+0475	2	Drama	Classics
+0476	2	Art House & International	Drama
+0477	2	Classics	Comedy
+0478	2	Art House & International	Drama
+0479	1	Horror
+0480	3	Drama	Art House & International	Mystery & Suspense
+0481	2	Mystery & Suspense	Drama
+0482	3	Documentary	Musical & Performing Arts	Special Interest
+0483	2	Drama	Comedy
+0484	3	Action & Adventure	Animation	Kids & Family
+0485	2	Drama	Classics
+0486	3	Drama	Action & Adventure	Mystery & Suspense
+0487	2	Drama	Classics
+0488	2	Documentary	Special Interest
+0489	2	Western	Action & Adventure
+0490	4	Drama	Romance	Science Fiction & Fantasy	Comedy
+0491	2	Science Fiction & Fantasy	Horror
+0492	2	Drama	Comedy
+0493	2	Horror	Comedy
+0494	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+0495	3	Action & Adventure	Horror	Science Fiction & Fantasy
+0496	2	Mystery & Suspense	Drama
+0497	2	Art House & International	Comedy
+0498	3	Horror	Science Fiction & Fantasy	Comedy
+0499	3	Documentary	Drama	Special Interest
+0500	3	Drama	Classics	Comedy
+0501	3	Documentary	Musical & Performing Arts	Special Interest
+0502	2	Drama	Comedy
+0503	2	Drama	Comedy
+0504	2	Art House & International	Drama
+0505	2	Art House & International	Drama
+0506	2	Comedy	Kids & Family
+0507	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0508	1	Comedy
+0509	3	Drama	Romance	Comedy
+0510	2	Drama	Action & Adventure
+0511	3	Drama	Kids & Family	Comedy
+0512	2	Mystery & Suspense	Drama
+0513	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0514	2	Mystery & Suspense	Drama
+0515	5	Documentary	Musical & Performing Arts	Classics	Comedy	Special Interest
+0516	2	Art House & International	Drama
+0517	3	Drama	Romance	Comedy
+0518	4	Drama	Mystery & Suspense	Classics	Comedy
+0519	4	Drama	Art House & International	Mystery & Suspense	Comedy
+0520	2	Art House & International	Comedy
+0521	3	Kids & Family	Science Fiction & Fantasy	Comedy
+0522	2	Comedy	Romance
+0523	2	Science Fiction & Fantasy	Comedy
+0524	2	Drama	Romance
+0525	2	Comedy	Kids & Family
+0526	3	Documentary	Musical & Performing Arts	Special Interest
+0527	2	Drama	Science Fiction & Fantasy
+0528	1	Drama
+0529	2	Art House & International	Drama
+0530	3	Drama	Romance	Classics
+0531	2	Drama	Classics
+0532	2	Mystery & Suspense	Kids & Family
+0533	2	Drama	Romance
+0534	1	Drama
+0535	4	Musical & Performing Arts	Art House & International	Classics	Comedy
+0536	4	Romance	Sports & Fitness	Science Fiction & Fantasy	Comedy
+0537	2	Art House & International	Drama
+0538	3	Documentary	Faith & Spirituality	Special Interest
+0539	2	Comedy	Animation
+0540	2	Documentary	Drama
+0541	1	Drama
+0542	3	Drama	Art House & International	Sports & Fitness
+0543	3	Drama	Art House & International	Comedy
+0544	2	Documentary	Special Interest
+0545	3	Action & Adventure	Animation	Kids & Family
+0546	2	Drama	Comedy
+0547	2	Mystery & Suspense	Horror
+0548	1	Drama
+0549	1	Drama
+0550	2	Musical & Performing Arts	Drama
+0551	2	Documentary	Special Interest
+0552	3	Documentary	Musical & Performing Arts	Special Interest
+0553	2	Science Fiction & Fantasy	Kids & Family
+0554	3	Drama	Romance	Comedy
+0555	2	Drama	Classics
+0556	2	Drama	Classics
+0557	1	Comedy
+0558	3	Drama	Horror	Mystery & Suspense
+0559	3	Documentary	Drama	Special Interest
+0560	4	Horror	Classics	Science Fiction & Fantasy	Cult Movies
+0561	2	Art House & International	Drama
+0562	2	Drama	Comedy
+0563	2	Mystery & Suspense	Drama
+0564	2	Art House & International	Drama
+0565	2	Drama	Romance
+0566	1	Comedy
+0567	3	Drama	Romance	Comedy
+0568	3	Documentary	Art House & International	Special Interest
+0569	4	Drama	Action & Adventure	Animation	Kids & Family
+0570	1	Drama
+0571	2	Mystery & Suspense	Drama
+0572	2	Art House & International	Drama
+0573	3	Documentary	Television	Special Interest
+0574	1	Action & Adventure
+0575	3	Drama	Art House & International	Comedy
+0576	4	Action & Adventure	Animation	Kids & Family	Art House & International
+0577	1	Drama
+0578	3	Drama	Art House & International	Comedy
+0579	2	Action & Adventure	Comedy
+0580	3	Drama	Romance	Mystery & Suspense
+0581	1	Mystery & Suspense
+0582	2	Western	Drama
+0583	2	Art House & International	Comedy
+0584	2	Drama	Romance
+0585	3	Drama	Action & Adventure	Mystery & Suspense
+0586	2	Drama	Horror
+0587	1	Documentary
+0588	2	Science Fiction & Fantasy	Horror
+0589	2	Mystery & Suspense	Drama
+0590	3	Documentary	Drama	Art House & International
+0591	3	Action & Adventure	Animation	Kids & Family
+0592	4	Action & Adventure	Horror	Classics	Science Fiction & Fantasy
+0593	3	Drama	Kids & Family	Comedy
+0594	1	Drama
+0595	3	Drama	Art House & International	Comedy
+0596	3	Drama	Art House & International	Comedy
+0597	3	Documentary	Sports & Fitness	Special Interest
+0598	2	Art House & International	Comedy
+0599	3	Drama	Art House & International	Comedy
+0600	3	Action & Adventure	Classics	Science Fiction & Fantasy
+0601	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+0602	3	Drama	Horror	Mystery & Suspense
+0603	2	Mystery & Suspense	Drama
+0604	2	Classics	Horror
+0605	1	Comedy
+0606	2	Drama	Comedy
+0607	2	Art House & International	Drama
+0608	2	Drama	Romance
+0609	2	Documentary	Special Interest
+0610	2	Musical & Performing Arts	Documentary
+0611	1	Drama
+0612	2	Drama	Classics
+0613	2	Mystery & Suspense	Horror
+0614	2	Mystery & Suspense	Horror
+0615	1	Comedy
+0616	2	Drama	Comedy
+0617	2	Drama	Science Fiction & Fantasy
+0618	3	Drama	Art House & International	Mystery & Suspense
+0619	4	Action & Adventure	Animation	Science Fiction & Fantasy	Comedy
+0620	3	Drama	Romance	Comedy
+0621	3	Drama	Romance	Art House & International
+0622	2	Classics	Comedy
+0623	2	Drama	Action & Adventure
+0624	4	Drama	Action & Adventure	Horror	Classics
+0625	2	Art House & International	Drama
+0626	2	Art House & International	Drama
+0627	4	Drama	Musical & Performing Arts	Art House & International	Comedy
+0628	3	Documentary	Drama	Special Interest
+0629	3	Drama	Romance	Classics
+0630	2	Drama	Comedy
+0631	1	Drama
+0632	2	Documentary	Special Interest
+0633	2	Art House & International	Drama
+0634	1	Comedy
+0635	4	Drama	Horror	Romance	Mystery & Suspense
+0636	4	Action & Adventure	Mystery & Suspense	Classics	Comedy
+0637	2	Mystery & Suspense	Action & Adventure
+0638	2	Mystery & Suspense	Drama
+0639	3	Drama	Mystery & Suspense	Classics
+0640	2	Documentary	Art House & International
+0641	2	Documentary	Special Interest
+0642	3	Horror	Mystery & Suspense	Classics
+0643	3	Drama	Romance	Art House & International
+0644	2	Art House & International	Drama
+0645	2	Art House & International	Comedy
+0646	3	Drama	Romance	Comedy
+0647	1	Comedy
+0648	3	Documentary	Musical & Performing Arts	Special Interest
+0649	2	Drama	Action & Adventure
+0650	4	Action & Adventure	Animation	Kids & Family	Art House & International
+0651	2	Art House & International	Drama
+0652	2	Drama	Action & Adventure
+0653	1	Comedy
+0654	2	Art House & International	Drama
+0655	2	Art House & International	Drama
+0656	2	Action & Adventure	Science Fiction & Fantasy
+0657	3	Drama	Art House & International	Comedy
+0658	5	Drama	Art House & International	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+0659	1	Drama
+0660	2	Drama	Action & Adventure
+0661	3	Television	Horror	Science Fiction & Fantasy
+0662	2	Action & Adventure	Science Fiction & Fantasy
+0663	3	Western	Action & Adventure	Art House & International
+0664	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+0665	2	Drama	Comedy
+0666	2	Art House & International	Comedy
+0667	2	Drama	Kids & Family
+0668	2	Drama	Comedy
+0669	2	Mystery & Suspense	Drama
+0670	2	Mystery & Suspense	Drama
+0671	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0672	2	Television	Horror
+0673	2	Classics	Comedy
+0674	3	Drama	Horror	Comedy
+0675	2	Art House & International	Drama
+0676	2	Art House & International	Drama
+0677	2	Drama	Comedy
+0678	1	Drama
+0679	2	Art House & International	Drama
+0680	2	Mystery & Suspense	Drama
+0681	2	Drama	Science Fiction & Fantasy
+0682	1	Drama
+0683	2	Drama	Action & Adventure
+0684	3	Drama	Mystery & Suspense	Classics
+0685	3	Drama	Romance	Comedy
+0686	2	Art House & International	Drama
+0687	2	Documentary	Special Interest
+0688	2	Mystery & Suspense	Action & Adventure
+0689	2	Mystery & Suspense	Drama
+0690	4	Drama	Romance	Musical & Performing Arts	Comedy
+0691	2	Comedy	Romance
+0692	5	Drama	Romance	Art House & International	Sports & Fitness	Comedy
+0693	4	Action & Adventure	Mystery & Suspense	Comedy	Cult Movies
+0694	2	Drama	Comedy
+0695	1	Drama
+0696	3	Horror	Romance	Science Fiction & Fantasy
+0697	2	Documentary	Special Interest
+0698	1	Documentary
+0699	4	Documentary	Drama	Musical & Performing Arts	Special Interest
+0700	3	Documentary	Musical & Performing Arts	Special Interest
+0701	4	Drama	Action & Adventure	Science Fiction & Fantasy	Comedy
+0702	2	Comedy	Romance
+0703	3	Drama	Action & Adventure	Comedy
+0704	3	Drama	Romance	Science Fiction & Fantasy
+0705	2	Science Fiction & Fantasy	Horror
+0706	1	Drama
+0707	3	Drama	Romance	Classics
+0708	2	Mystery & Suspense	Drama
+0709	2	Drama	Action & Adventure
+0710	2	Drama	Romance
+0711	2	Drama	Romance
+0712	3	Animation	Kids & Family	Comedy
+0713	2	Drama	Comedy
+0714	2	Drama	Action & Adventure
+0715	1	Drama
+0716	3	Drama	Romance	Comedy
+0717	2	Mystery & Suspense	Action & Adventure
+0718	2	Comedy	Romance
+0719	1	Drama
+0720	3	Drama	Romance	Comedy
+0721	2	Mystery & Suspense	Action & Adventure
+0722	2	Art House & International	Drama
+0723	2	Documentary	Television
+0724	1	Comedy
+0725	1	Drama
+0726	2	Musical & Performing Arts	Drama
+0727	3	Drama	Animation	Kids & Family
+0728	4	Romance	Musical & Performing Arts	Art House & International	Comedy
+0729	2	Drama	Comedy
+0730	2	Art House & International	Drama
+0731	1	Comedy
+0732	3	Drama	Action & Adventure	Mystery & Suspense
+0733	1	Comedy
+0734	3	Action & Adventure	Romance	Mystery & Suspense
+0735	3	Horror	Science Fiction & Fantasy	Comedy
+0736	2	Art House & International	Drama
+0737	2	Documentary	Television
+0738	1	Drama
+0739	2	Drama	Comedy
+0740	3	Drama	Art House & International	Comedy
+0741	2	Art House & International	Drama
+0742	4	Drama	Art House & International	Mystery & Suspense	Comedy
+0743	1	Drama
+0744	2	Drama	Comedy
+0745	3	Drama	Action & Adventure	Mystery & Suspense
+0746	1	Comedy
+0747	2	Mystery & Suspense	Drama
+0748	1	Drama
+0749	3	Action & Adventure	Horror	Science Fiction & Fantasy
+0750	2	Art House & International	Drama
+0751	1	Drama
+0752	2	Mystery & Suspense	Drama
+0753	3	Action & Adventure	Kids & Family	Science Fiction & Fantasy
+0754	3	Musical & Performing Arts	Classics	Comedy
+0755	3	Drama	Mystery & Suspense	Classics
+0756	2	Musical & Performing Arts	Documentary
+0757	3	Western	Drama	Classics
+0758	4	Drama	Musical & Performing Arts	Art House & International	Science Fiction & Fantasy
+0759	3	Drama	Action & Adventure	Classics
+0760	1	Comedy
+0761	1	Drama
+0762	2	Drama	Classics
+0763	2	Musical & Performing Arts	Romance
+0764	3	Drama	Romance	Comedy
+0765	3	Drama	Action & Adventure	Comedy
+0766	3	Drama	Television	Mystery & Suspense
+0767	1	Drama
+0768	2	Classics	Comedy
+0769	4	Action & Adventure	Animation	Kids & Family	Science Fiction & Fantasy
+0770	1	Action & Adventure
+0771	2	Mystery & Suspense	Horror
+0772	3	Romance	Classics	Comedy
+0773	2	Mystery & Suspense	Drama
+0774	2	Art House & International	Drama
+0775	4	Drama	Romance	Art House & International	Comedy
+0776	2	Drama	Romance
+0777	3	Documentary	Drama	Special Interest
+0778	1	Horror
+0779	2	Drama	Comedy
+0780	4	Drama	Action & Adventure	Art House & International	Classics
+0781	3	Drama	Horror	Mystery & Suspense
+0782	1	Comedy
+0783	2	Documentary	Special Interest
+0784	4	Documentary	Drama	Musical & Performing Arts	Special Interest
+0785	2	Documentary	Special Interest
+0786	3	Drama	Action & Adventure	Art House & International
+0787	3	Drama	Art House & International	Comedy
+0788	2	Art House & International	Drama
+0789	4	Documentary	Drama	Kids & Family	Art House & International
+0790	1	Comedy
+0791	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+0792	2	Classics	Comedy
+0793	1	Comedy
+0794	3	Drama	Action & Adventure	Mystery & Suspense
+0795	2	Art House & International	Drama
+0796	3	Drama	Art House & International	Mystery & Suspense
+0797	2	Mystery & Suspense	Action & Adventure
+0798	3	Drama	Art House & International	Mystery & Suspense
+0799	4	Drama	Romance	Science Fiction & Fantasy	Comedy
+0800	2	Horror	Comedy
+0801	2	Art House & International	Drama
+0802	2	Drama	Comedy
+0803	1	Drama
+0804	3	Drama	Romance	Classics
+0805	3	Drama	Art House & International	Comedy
+0806	2	Art House & International	Drama
+0807	2	Comedy	Romance
+0808	1	Comedy
+0809	2	Animation	Kids & Family
+0810	1	Mystery & Suspense
+0811	1	Drama
+0812	3	Documentary	Comedy	Special Interest
+0813	3	Drama	Romance	Comedy
+0814	2	Mystery & Suspense	Classics
+0815	1	Drama
+0816	3	Drama	Romance	Comedy
+0817	3	Drama	Romance	Science Fiction & Fantasy
+0818	2	Musical & Performing Arts	Drama
+0819	1	Documentary
+0820	4	Documentary	Drama	Television	Special Interest
+0821	1	Documentary
+0822	2	Documentary	Special Interest
+0823	1	Horror
+0824	1	Drama
+0825	4	Action & Adventure	Anime & Manga	Art House & International	Mystery & Suspense
+0826	5	Drama	Romance	Classics	Science Fiction & Fantasy	Comedy
+0827	3	Drama	Art House & International	Comedy
+0828	2	Art House & International	Drama
+0829	3	Drama	Comedy	Special Interest
+0830	2	Documentary	Special Interest
+0831	3	Drama	Art House & International	Comedy
+0832	1	Drama
+0833	2	Mystery & Suspense	Horror
+0834	1	Drama
+0835	1	Documentary
+0836	2	Drama	Television
+0837	2	Drama	Comedy
+0838	3	Drama	Mystery & Suspense	Comedy
+0839	2	Drama	Comedy
+0840	2	Drama	Kids & Family
+0841	1	Drama
+0842	2	Documentary	Sports & Fitness
+0843	4	Action & Adventure	Art House & International	Mystery & Suspense	Comedy
+0844	3	Action & Adventure	Art House & International	Comedy
+0845	2	Art House & International	Drama
+0846	2	Drama	Comedy
+0847	2	Mystery & Suspense	Drama
+0848	1	Drama
+0849	2	Drama	Comedy
+0850	2	Western	Comedy
+0851	2	Mystery & Suspense	Action & Adventure
+0852	4	Documentary	Drama	Musical & Performing Arts	Special Interest
+0853	1	Art House & International
+0854	1	Comedy
+0855	2	Art House & International	Drama
+0856	2	Classics	Science Fiction & Fantasy
+0857	3	Drama	Romance	Science Fiction & Fantasy
+0858	2	Documentary	Special Interest
+0859	3	Documentary	Drama	Special Interest
+0860	1	Documentary
+0861	4	Western	Action & Adventure	Art House & International	Mystery & Suspense
+0862	2	Documentary	Drama
+0863	2	Art House & International	Drama
+0864	3	Drama	Art House & International	Comedy
+0865	2	Action & Adventure	Science Fiction & Fantasy
+0866	3	Drama	Action & Adventure	Mystery & Suspense
+0867	3	Documentary	Art House & International	Special Interest
+0868	4	Drama	Musical & Performing Arts	Art House & International	Comedy
+0869	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+0870	3	Drama	Art House & International	Mystery & Suspense
+0871	2	Documentary	Comedy
+0872	1	Drama
+0873	4	Kids & Family	Art House & International	Science Fiction & Fantasy	Comedy
+0874	2	Mystery & Suspense	Horror
+0875	1	Drama
+0876	3	Drama	Art House & International	Comedy
+0877	1	Drama
+0878	3	Drama	Romance	Classics
+0879	1	Documentary
+0880	2	Mystery & Suspense	Drama
+0881	3	Drama	Romance	Comedy
+0882	1	Comedy
+0883	3	Action & Adventure	Art House & International	Comedy
+0884	2	Art House & International	Drama
+0885	1	Drama
+0886	3	Drama	Musical & Performing Arts	Art House & International
+0887	3	Drama	Romance	Art House & International
+0888	3	Documentary	Musical & Performing Arts	Special Interest
+0889	3	Documentary	Television	Musical & Performing Arts
+0890	4	Drama	Action & Adventure	Classics	Comedy
+0891	4	Documentary	Drama	Musical & Performing Arts	Special Interest
+0892	1	Drama
+0893	2	Mystery & Suspense	Drama
+0894	2	Drama	Comedy
+0895	2	Drama	Comedy
+0896	3	Romance	Art House & International	Comedy
+0897	2	Art House & International	Drama
+0898	2	Art House & International	Comedy
+0899	3	Drama	Art House & International	Science Fiction & Fantasy
+0900	1	Drama
+0901	3	Drama	Art House & International	Mystery & Suspense
+0902	2	Documentary	Special Interest
+0903	1	Drama
+0904	2	Drama	Comedy
+0905	3	Drama	Musical & Performing Arts	Classics
+0906	3	Animation	Kids & Family	Comedy
+0907	1	Comedy
+0908	4	Drama	Romance	Art House & International	Comedy
+0909	4	Drama	Romance	Art House & International	Comedy
+0910	1	Comedy
+0911	2	Art House & International	Drama
+0912	2	Drama	Comedy
+0913	3	Drama	Horror	Art House & International
+0914	2	Art House & International	Drama
+0915	2	Documentary	Special Interest
+0916	1	Comedy
+0917	2	Art House & International	Drama
+0918	2	Art House & International	Drama
+0919	3	Drama	Musical & Performing Arts	Classics
+0920	3	Drama	Romance	Musical & Performing Arts
+0921	2	Sports & Fitness	Drama
+0922	1	Comedy
+0923	3	Drama	Romance	Art House & International
+0924	1	Drama
+0925	2	Science Fiction & Fantasy	Horror
+0926	2	Drama	Comedy
+0927	3	Drama	Romance	Comedy
+0928	2	Documentary	Comedy
+0929	2	Science Fiction & Fantasy	Comedy
+0930	1	Action & Adventure
+0931	2	Documentary	Special Interest
+0932	4	Drama	Kids & Family	Science Fiction & Fantasy	Comedy
+0933	1	Action & Adventure
+0934	1	Action & Adventure
+0935	2	Comedy	Romance
+0936	2	Comedy	Kids & Family
+0937	2	Drama	Comedy
+0938	2	Documentary	Special Interest
+0939	3	Documentary	Musical & Performing Arts	Special Interest
+0940	1	Documentary
+0941	2	Action & Adventure	Science Fiction & Fantasy
+0942	2	Drama	Action & Adventure
+0943	3	Documentary	Drama	Television
+0944	1	Drama
+0945	3	Romance	Science Fiction & Fantasy	Comedy
+0946	1	Comedy
+0947	2	Drama	Action & Adventure
+0948	2	Art House & International	Drama
+0949	1	Documentary
+0950	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+0951	1	Comedy
+0952	4	Drama	Television	Classics	Comedy
+0953	2	Drama	Action & Adventure
+0954	3	Drama	Romance	Art House & International
+0955	2	Drama	Comedy
+0956	3	Drama	Romance	Comedy
+0957	3	Drama	Mystery & Suspense	Classics
+0958	2	Art House & International	Drama
+0959	3	Drama	Action & Adventure	Mystery & Suspense
+0960	3	Drama	Romance	Classics
+0961	2	Art House & International	Drama
+0962	3	Drama	Action & Adventure	Mystery & Suspense
+0963	2	Art House & International	Drama
+0964	3	Drama	Mystery & Suspense	Comedy
+0965	1	Drama
+0966	1	Drama
+0967	2	Documentary	Special Interest
+0968	1	Comedy
+0969	2	Documentary	Special Interest
+0970	3	Drama	Horror	Mystery & Suspense
+0971	2	Art House & International	Drama
+0972	2	Art House & International	Drama
+0973	2	Art House & International	Drama
+0974	3	Drama	Action & Adventure	Mystery & Suspense
+0975	3	Drama	Mystery & Suspense	Science Fiction & Fantasy
+0976	2	Mystery & Suspense	Action & Adventure
+0977	2	Drama	Kids & Family
+0978	1	Drama
+0979	1	Drama
+0980	3	Drama	Mystery & Suspense	Comedy
+0981	3	Action & Adventure	Mystery & Suspense	Comedy
+0982	2	Documentary	Special Interest
+0983	3	Drama	Mystery & Suspense	Comedy
+0984	2	Drama	Comedy
+0985	2	Sports & Fitness	Drama
+0986	2	Mystery & Suspense	Action & Adventure
+0987	2	Comedy	Kids & Family
+0988	4	Drama	Action & Adventure	Classics	Cult Movies
+0989	1	Comedy
+0990	4	Drama	Musical & Performing Arts	Classics	Comedy
+0991	3	Documentary	Drama	Special Interest
+0992	1	Comedy
+0993	2	Drama	Comedy
+0994	1	Action & Adventure
+0995	1	Comedy
+0996	2	Musical & Performing Arts	Drama
+0997	3	Documentary	Art House & International	Special Interest
+0998	1	Drama
+0999	2	Musical & Performing Arts	Documentary
+1000	2	Horror	Comedy
+1001	1	Comedy
+1002	2	Art House & International	Drama
+1003	3	Animation	Art House & International	Comedy
+1004	2	Documentary	Special Interest
+1005	2	Drama	Comedy
+1006	3	Documentary	Musical & Performing Arts	Special Interest
+1007	3	Drama	Art House & International	Mystery & Suspense
+1008	2	Drama	Comedy
+1009	1	Comedy
+1010	2	Drama	Action & Adventure
+1011	2	Action & Adventure	Comedy
+1012	3	Animation	Kids & Family	Comedy
+1013	2	Drama	Comedy
+1014	2	Mystery & Suspense	Science Fiction & Fantasy
+1015	2	Action & Adventure	Science Fiction & Fantasy
+1016	2	Mystery & Suspense	Drama
+1017	4	Drama	Romance	Art House & International	Classics
+1018	2	Musical & Performing Arts	Classics
+1019	3	Horror	Art House & International	Mystery & Suspense
+1020	2	Drama	Comedy
+1021	3	Western	Classics	Comedy
+1022	4	Drama	Horror	Classics	Science Fiction & Fantasy
+1023	3	Classics	Science Fiction & Fantasy	Comedy
+1024	3	Drama	Romance	Classics
+1025	1	Drama
+1026	4	Drama	Action & Adventure	Romance	Classics
+1027	1	Drama
+1028	1	Documentary
+1029	2	Drama	Comedy
+1030	1	Drama
+1031	3	Drama	Action & Adventure	Mystery & Suspense
+1032	3	Drama	Art House & International	Comedy
+1033	3	Horror	Classics	Cult Movies
+1034	3	Musical & Performing Arts	Science Fiction & Fantasy	Comedy
+1035	1	Comedy
+1036	4	Documentary	Drama	Art House & International	Special Interest
+1037	1	Drama
+1038	2	Science Fiction & Fantasy	Comedy
+1039	4	Action & Adventure	Horror	Science Fiction & Fantasy	Comedy
+1040	2	Drama	Comedy
+1041	3	Drama	Romance	Comedy
+1042	3	Drama	Art House & International	Comedy
+1043	3	Animation	Kids & Family	Musical & Performing Arts
+1044	4	Drama	Art House & International	Mystery & Suspense	Comedy
+1045	2	Drama	Action & Adventure
+1046	2	Action & Adventure	Horror
+1047	1	Documentary
+1048	2	Art House & International	Drama
+1049	3	Drama	Art House & International	Comedy
+1050	2	Comedy	Romance
+1051	1	Comedy
+1052	3	Drama	Action & Adventure	Mystery & Suspense
+1053	2	Drama	Action & Adventure
+1054	2	Drama	Action & Adventure
+1055	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+1056	3	Drama	Romance	Classics
+1057	1	Documentary
+1058	2	Documentary	Special Interest
+1059	3	Romance	Art House & International	Comedy
+1060	3	Drama	Art House & International	Mystery & Suspense
+1061	3	Drama	Romance	Comedy
+1062	5	Action & Adventure	Animation	Musical & Performing Arts	Mystery & Suspense	Science Fiction & Fantasy
+1063	3	Drama	Romance	Comedy
+1064	2	Comedy	Kids & Family
+1065	3	Action & Adventure	Kids & Family	Comedy
+1066	2	Art House & International	Drama
+1067	3	Drama	Mystery & Suspense	Comedy
+1068	3	Drama	Art House & International	Comedy
+1069	2	Action & Adventure	Science Fiction & Fantasy
+1070	3	Drama	Art House & International	Mystery & Suspense
+1071	1	Drama
+1072	2	Drama	Comedy
+1073	2	Mystery & Suspense	Action & Adventure
+1074	3	Drama	Romance	Classics
+1075	2	Drama	Comedy
+1076	1	Drama
+1077	3	Drama	Romance	Comedy
+1078	4	Documentary	Drama	Horror	Art House & International
+1079	2	Mystery & Suspense	Drama
+1080	4	Drama	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1081	3	Drama	Art House & International	Mystery & Suspense
+1082	3	Drama	Mystery & Suspense	Comedy
+1083	2	Drama	Romance
+1084	4	Action & Adventure	Animation	Kids & Family	Science Fiction & Fantasy
+1085	2	Musical & Performing Arts	Comedy
+1086	1	Comedy
+1087	1	Drama
+1088	2	Drama	Romance
+1089	2	Art House & International	Drama
+1090	3	Romance	Musical & Performing Arts	Classics
+1091	3	Kids & Family	Musical & Performing Arts	Comedy
+1092	3	Drama	Mystery & Suspense	Classics
+1093	2	Art House & International	Drama
+1094	3	Drama	Art House & International	Mystery & Suspense
+1095	2	Documentary	Drama
+1096	1	Drama
+1097	2	Documentary	Special Interest
+1098	1	Comedy
+1099	2	Drama	Comedy
+1100	3	Drama	Kids & Family	Comedy
+1101	1	Comedy
+1102	3	Drama	Gay & Lesbian	Comedy
+1103	2	Documentary	Special Interest
+1104	1	Drama
+1105	3	Horror	Science Fiction & Fantasy	Cult Movies
+1106	2	Documentary	Television
+1107	3	Horror	Science Fiction & Fantasy	Comedy
+1108	2	Mystery & Suspense	Action & Adventure
+1109	3	Drama	Mystery & Suspense	Comedy
+1110	2	Art House & International	Drama
+1111	2	Mystery & Suspense	Drama
+1112	4	Drama	Romance	Art House & International	Comedy
+1113	3	Drama	Art House & International	Comedy
+1114	3	Drama	Art House & International	Comedy
+1115	3	Horror	Mystery & Suspense	Comedy
+1116	1	Drama
+1117	5	Drama	Horror	Romance	Art House & International	Science Fiction & Fantasy
+1118	5	Drama	Action & Adventure	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1119	4	Drama	Romance	Mystery & Suspense	Science Fiction & Fantasy
+1120	2	Drama	Comedy
+1121	4	Drama	Action & Adventure	Horror	Mystery & Suspense
+1122	5	Drama	Horror	Musical & Performing Arts	Art House & International	Special Interest
+1123	2	Drama	Romance
+1124	4	Drama	Action & Adventure	Art House & International	Classics
+1125	2	Art House & International	Drama
+1126	1	Drama
+1127	2	Action & Adventure	Comedy
+1128	1	Drama
+1129	2	Musical & Performing Arts	Art House & International
+1130	2	Art House & International	Drama
+1131	4	Drama	Action & Adventure	Art House & International	Comedy
+1132	3	Drama	Romance	Comedy
+1133	1	Comedy
+1134	3	Horror	Science Fiction & Fantasy	Comedy
+1135	3	Drama	Art House & International	Mystery & Suspense
+1136	2	Drama	Romance
+1137	2	Drama	Action & Adventure
+1138	2	Art House & International	Drama
+1139	3	Documentary	Drama	Special Interest
+1140	3	Western	Drama	Science Fiction & Fantasy
+1141	3	Drama	Art House & International	Comedy
+1142	3	Western	Action & Adventure	Comedy
+1143	2	Documentary	Special Interest
+1144	2	Art House & International	Drama
+1145	2	Art House & International	Comedy
+1146	1	Drama
+1147	2	Musical & Performing Arts	Documentary
+1148	2	Mystery & Suspense	Drama
+1149	3	Drama	Art House & International	Comedy
+1150	3	Documentary	Faith & Spirituality	Comedy
+1151	3	Documentary	Art House & International	Special Interest
+1152	2	Art House & International	Mystery & Suspense
+1153	2	Documentary	Special Interest
+1154	1	Drama
+1155	2	Drama	Classics
+1156	3	Animation	Kids & Family	Science Fiction & Fantasy
+1157	2	Comedy	Romance
+1158	1	Drama
+1159	2	Documentary	Special Interest
+1160	2	Comedy	Kids & Family
+1161	2	Documentary	Special Interest
+1162	2	Mystery & Suspense	Action & Adventure
+1163	3	Drama	Art House & International	Comedy
+1164	2	Drama	Kids & Family
+1165	2	Art House & International	Comedy
+1166	1	Comedy
+1167	5	Drama	Romance	Art House & International	Science Fiction & Fantasy	Comedy
+1168	3	Documentary	Musical & Performing Arts	Special Interest
+1169	2	Drama	Romance
+1170	1	Drama
+1171	3	Animation	Kids & Family	Comedy
+1172	1	Drama
+1173	3	Drama	Art House & International	Mystery & Suspense
+1174	2	Mystery & Suspense	Drama
+1175	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1176	1	Drama
+1177	1	Kids & Family
+1178	1	Drama
+1179	2	Drama	Romance
+1180	3	Documentary	Drama	Horror
+1181	2	Documentary	Special Interest
+1182	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+1183	3	Drama	Art House & International	Mystery & Suspense
+1184	2	Documentary	Comedy
+1185	2	Mystery & Suspense	Drama
+1186	3	Action & Adventure	Mystery & Suspense	Comedy
+1187	3	Documentary	Musical & Performing Arts	Special Interest
+1188	2	Mystery & Suspense	Action & Adventure
+1189	4	Drama	Romance	Art House & International	Comedy
+1190	1	Drama
+1191	3	Drama	Romance	Art House & International
+1192	3	Drama	Horror	Mystery & Suspense
+1193	3	Drama	Action & Adventure	Mystery & Suspense
+1194	3	Drama	Romance	Comedy
+1195	2	Drama	Action & Adventure
+1196	2	Drama	Action & Adventure
+1197	3	Drama	Action & Adventure	Art House & International
+1198	2	Art House & International	Drama
+1199	2	Art House & International	Drama
+1200	1	Horror
+1201	5	Action & Adventure	Kids & Family	Art House & International	Science Fiction & Fantasy	Comedy
+1202	3	Drama	Action & Adventure	Kids & Family
+1203	2	Art House & International	Drama
+1204	4	Drama	Musical & Performing Arts	Art House & International	Comedy
+1205	2	Art House & International	Drama
+1206	2	Musical & Performing Arts	Documentary
+1207	3	Action & Adventure	Horror	Science Fiction & Fantasy
+1208	3	Drama	Romance	Art House & International
+1209	2	Drama	Comedy
+1210	2	Mystery & Suspense	Action & Adventure
+1211	3	Drama	Art House & International	Comedy
+1212	2	Drama	Comedy
+1213	4	Drama	Romance	Art House & International	Comedy
+1214	4	Documentary	Drama	Art House & International	Special Interest
+1215	3	Drama	Science Fiction & Fantasy	Comedy
+1216	3	Action & Adventure	Horror	Mystery & Suspense
+1217	1	Drama
+1218	1	Drama
+1219	2	Drama	Comedy
+1220	3	Drama	Art House & International	Classics
+1221	3	Drama	Romance	Classics
+1222	3	Drama	Mystery & Suspense	Classics
+1223	3	Drama	Sports & Fitness	Comedy
+1224	1	Comedy
+1225	2	Drama	Romance
+1226	2	Drama	Comedy
+1227	2	Drama	Comedy
+1228	1	Drama
+1229	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1230	1	Action & Adventure
+1231	3	Drama	Art House & International	Special Interest
+1232	3	Drama	Action & Adventure	Comedy
+1233	3	Drama	Action & Adventure	Art House & International
+1234	4	Animation	Faith & Spirituality	Kids & Family	Comedy
+1235	4	Drama	Mystery & Suspense	Classics	Science Fiction & Fantasy
+1236	3	Drama	Art House & International	Comedy
+1237	1	Action & Adventure
+1238	1	Action & Adventure
+1239	2	Mystery & Suspense	Comedy
+1240	2	Mystery & Suspense	Action & Adventure
+1241	1	Comedy
+1242	1	Comedy
+1243	3	Drama	Classics	Comedy
+1244	5	Drama	Action & Adventure	Romance	Mystery & Suspense	Cult Movies
+1245	3	Documentary	Gay & Lesbian	Special Interest
+1246	2	Drama	Comedy
+1247	5	Horror	Art House & International	Classics	Science Fiction & Fantasy	Cult Movies
+1248	1	Mystery & Suspense
+1249	2	Art House & International	Drama
+1250	1	Mystery & Suspense
+1251	4	Action & Adventure	Animation	Kids & Family	Science Fiction & Fantasy
+1252	2	Drama	Romance
+1253	2	Drama	Gay & Lesbian
+1254	1	Drama
+1255	1	Drama
+1256	3	Drama	Romance	Comedy
+1257	1	Comedy
+1258	2	Drama	Romance
+1259	1	Drama
+1260	3	Drama	Romance	Classics
+1261	2	Art House & International	Drama
+1262	2	Art House & International	Horror
+1263	2	Mystery & Suspense	Drama
+1264	3	Drama	Art House & International	Comedy
+1265	1	Comedy
+1266	1	Drama
+1267	4	Action & Adventure	Animation	Kids & Family	Comedy
+1268	2	Drama	Romance
+1269	3	Drama	Romance	Comedy
+1270	4	Animation	Kids & Family	Science Fiction & Fantasy	Comedy
+1271	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+1272	3	Drama	Action & Adventure	Mystery & Suspense
+1273	3	Action & Adventure	Mystery & Suspense	Classics
+1274	2	Mystery & Suspense	Drama
+1275	2	Drama	Comedy
+1276	2	Mystery & Suspense	Drama
+1277	3	Documentary	Musical & Performing Arts	Special Interest
+1278	4	Animation	Kids & Family	Science Fiction & Fantasy	Comedy
+1279	4	Drama	Action & Adventure	Kids & Family	Science Fiction & Fantasy
+1280	1	Mystery & Suspense
+1281	4	Drama	Musical & Performing Arts	Classics	Comedy
+1282	3	Drama	Art House & International	Science Fiction & Fantasy
+1283	1	Comedy
+1284	2	Documentary	Special Interest
+1285	1	Comedy
+1286	5	Drama	Action & Adventure	Horror	Art House & International	Comedy
+1287	2	Documentary	Comedy
+1288	1	Drama
+1289	1	Comedy
+1290	2	Drama	Comedy
+1291	2	Drama	Comedy
+1292	2	Western	Action & Adventure
+1293	1	Comedy
+1294	3	Drama	Mystery & Suspense	Comedy
+1295	4	Western	Drama	Action & Adventure	Classics
+1296	5	Drama	Romance	Sports & Fitness	Gay & Lesbian	Comedy
+1297	2	Documentary	Special Interest
+1298	2	Musical & Performing Arts	Drama
+1299	4	Drama	Romance	Art House & International	Comedy
+1300	3	Drama	Romance	Art House & International
+1301	3	Drama	Mystery & Suspense	Special Interest
+1302	3	Drama	Mystery & Suspense	Comedy
+1303	3	Kids & Family	Science Fiction & Fantasy	Comedy
+1304	2	Art House & International	Drama
+1305	2	Drama	Romance
+1306	3	Kids & Family	Science Fiction & Fantasy	Cult Movies
+1307	2	Mystery & Suspense	Drama
+1308	3	Drama	Romance	Comedy
+1309	2	Drama	Action & Adventure
+1310	2	Art House & International	Drama
+1311	2	Mystery & Suspense	Drama
+1312	3	Drama	Romance	Science Fiction & Fantasy
+1313	1	Comedy
+1314	1	Drama
+1315	2	Mystery & Suspense	Drama
+1316	2	Art House & International	Mystery & Suspense
+1317	1	Drama
+1318	1	Drama
+1319	2	Documentary	Special Interest
+1320	4	Drama	Action & Adventure	Horror	Mystery & Suspense
+1321	2	Musical & Performing Arts	Documentary
+1322	1	Horror
+1323	4	Drama	Horror	Romance	Science Fiction & Fantasy
+1324	3	Drama	Romance	Comedy
+1325	3	Drama	Romance	Comedy
+1326	3	Drama	Kids & Family	Comedy
+1327	3	Drama	Romance	Comedy
+1328	2	Mystery & Suspense	Drama
+1329	2	Drama	Romance
+1330	4	Drama	Action & Adventure	Kids & Family	Art House & International
+1331	1	Comedy
+1332	1	Drama
+1333	4	Drama	Art House & International	Mystery & Suspense	Science Fiction & Fantasy
+1334	1	Drama
+1335	1	Drama
+1336	1	Drama
+1337	2	Drama	Classics
+1338	4	Drama	Action & Adventure	Horror	Mystery & Suspense
+1339	3	Drama	Action & Adventure	Art House & International
+1340	2	Action & Adventure	Horror
+1341	1	Comedy
+1342	2	Action & Adventure	Comedy
+1343	1	Comedy
+1344	2	Mystery & Suspense	Drama
+1345	1	Comedy
+1346	2	Art House & International	Drama
+1347	1	Mystery & Suspense
+1348	3	Action & Adventure	Science Fiction & Fantasy	Cult Movies
+1349	3	Documentary	Action & Adventure	Sports & Fitness
+1350	2	Mystery & Suspense	Drama
+1351	2	Action & Adventure	Comedy
+1352	1	Horror
+1353	2	Drama	Romance
+1354	1	Drama
+1355	1	Drama
+1356	3	Kids & Family	Science Fiction & Fantasy	Comedy
+1357	4	Drama	Art House & International	Comedy	Special Interest
+1358	3	Drama	Action & Adventure	Romance
+1359	2	Science Fiction & Fantasy	Comedy
+1360	2	Drama	Classics
+1361	3	Drama	Musical & Performing Arts	Mystery & Suspense
+1362	2	Drama	Romance
+1363	3	Drama	Horror	Mystery & Suspense
+1364	2	Documentary	Special Interest
+1365	2	Documentary	Special Interest
+1366	1	Horror
+1367	2	Documentary	Special Interest
+1368	2	Art House & International	Science Fiction & Fantasy
+1369	2	Drama	Action & Adventure
+1370	1	Comedy
+1371	2	Mystery & Suspense	Horror
+1372	2	Documentary	Special Interest
+1373	2	Drama	Special Interest
+1374	3	Animation	Kids & Family	Musical & Performing Arts
+1375	2	Action & Adventure	Kids & Family
+1376	2	Mystery & Suspense	Drama
+1377	2	Mystery & Suspense	Drama
+1378	3	Drama	Romance	Comedy
+1379	3	Drama	Action & Adventure	Kids & Family
+1380	4	Drama	Romance	Art House & International	Comedy
+1381	3	Drama	Art House & International	Comedy
+1382	3	Drama	Mystery & Suspense	Classics
+1383	2	Action & Adventure	Comedy
+1384	2	Drama	Comedy
+1385	2	Science Fiction & Fantasy	Comedy
+1386	2	Art House & International	Drama
+1387	1	Drama
+1388	2	Mystery & Suspense	Comedy
+1389	4	Drama	Romance	Gay & Lesbian	Comedy
+1390	2	Drama	Comedy
+1391	1	Drama
+1392	2	Mystery & Suspense	Horror
+1393	2	Documentary	Comedy
+1394	1	Drama
+1395	2	Documentary	Special Interest
+1396	2	Documentary	Special Interest
+1397	1	Comedy
+1398	2	Drama	Comedy
+1399	3	Drama	Art House & International	Comedy
+1400	1	Drama
+1401	3	Drama	Art House & International	Mystery & Suspense
+1402	4	Drama	Musical & Performing Arts	Comedy	Special Interest
+1403	1	Drama
+1404	4	Action & Adventure	Animation	Kids & Family	Comedy
+1405	3	Drama	Classics	Comedy
+1406	2	Western	Classics
+1407	3	Documentary	Action & Adventure	Sports & Fitness
+1408	3	Action & Adventure	Horror	Mystery & Suspense
+1409	2	Comedy	Romance
+1410	1	Drama
+1411	2	Drama	Comedy
+1412	2	Art House & International	Drama
+1413	1	Comedy
+1414	3	Drama	Romance	Mystery & Suspense
+1415	1	Comedy
+1416	2	Mystery & Suspense	Drama
+1417	2	Comedy	Kids & Family
+1418	2	Mystery & Suspense	Drama
+1419	2	Drama	Comedy
+1420	2	Comedy	Romance
+1421	2	Drama	Romance
+1422	2	Drama	Comedy
+1423	2	Action & Adventure	Science Fiction & Fantasy
+1424	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1425	2	Mystery & Suspense	Action & Adventure
+1426	2	Documentary	Special Interest
+1427	4	Drama	Romance	Musical & Performing Arts	Comedy
+1428	2	Drama	Comedy
+1429	1	Comedy
+1430	6	Animation	Anime & Manga	Art House & International	Drama	Mystery & Suspense	Science Fiction & Fantasy
+1431	1	Mystery & Suspense
+1432	1	Comedy
+1433	2	Mystery & Suspense	Drama
+1434	2	Comedy	Cult Movies
+1435	3	Drama	Art House & International	Comedy
+1436	3	Drama	Art House & International	Comedy
+1437	1	Comedy
+1438	2	Documentary	Drama
+1439	2	Drama	Comedy
+1440	3	Documentary	Television	Musical & Performing Arts
+1441	2	Art House & International	Mystery & Suspense
+1442	4	Western	Drama	Action & Adventure	Classics
+1443	3	Horror	Art House & International	Science Fiction & Fantasy
+1444	4	Drama	Action & Adventure	Art House & International	Classics
+1445	2	Art House & International	Comedy
+1446	2	Drama	Comedy
+1447	3	Drama	Art House & International	Comedy
+1448	1	Comedy
+1449	1	Documentary
+1450	3	Action & Adventure	Television	Science Fiction & Fantasy
+1451	2	Classics	Comedy
+1452	2	Documentary	Special Interest
+1453	1	Drama
+1454	3	Horror	Mystery & Suspense	Comedy
+1455	2	Documentary	Special Interest
+1456	3	Romance	Classics	Comedy
+1457	3	Drama	Musical & Performing Arts	Classics
+1458	3	Drama	Action & Adventure	Romance
+1459	2	Drama	Classics
+1460	3	Action & Adventure	Mystery & Suspense	Classics
+1461	5	Drama	Action & Adventure	Mystery & Suspense	Classics	Science Fiction & Fantasy
+1462	2	Documentary	Art House & International
+1463	1	Drama
+1464	3	Drama	Horror	Mystery & Suspense
+1465	3	Drama	Action & Adventure	Mystery & Suspense
+1466	2	Drama	Action & Adventure
+1467	2	Mystery & Suspense	Drama
+1468	4	Drama	Musical & Performing Arts	Art House & International	Comedy
+1469	3	Drama	Art House & International	Comedy
+1470	3	Drama	Romance	Art House & International
+1471	2	Drama	Comedy
+1472	2	Drama	Romance
+1473	2	Comedy	Kids & Family
+1474	1	Drama
+1475	3	Drama	Action & Adventure	Mystery & Suspense
+1476	1	Comedy
+1477	4	Drama	Kids & Family	Science Fiction & Fantasy	Comedy
+1478	2	Drama	Action & Adventure
+1479	5	Action & Adventure	Animation	Kids & Family	Science Fiction & Fantasy	Comedy
+1480	1	Comedy
+1481	1	Drama
+1482	1	Comedy
+1483	1	Comedy
+1484	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+1485	3	Drama	Romance	Comedy
+1486	1	Drama
+1487	3	Drama	Musical & Performing Arts	Art House & International
+1488	3	Animation	Kids & Family	Comedy
+1489	3	Drama	Action & Adventure	Mystery & Suspense
+1490	2	Art House & International	Drama
+1491	3	Drama	Classics	Comedy
+1492	4	Western	Drama	Romance	Classics
+1493	1	Drama
+1494	3	Drama	Action & Adventure	Classics
+1495	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1496	3	Drama	Action & Adventure	Art House & International
+1497	7	Action & Adventure	Romance	Art House & International	Classics	Comedy	Drama	Musical & Performing Arts
+1498	4	Animation	Anime & Manga	Art House & International	Science Fiction & Fantasy
+1499	1	Drama
+1500	4	Action & Adventure	Art House & International	Classics	Science Fiction & Fantasy
+1501	4	Drama	Action & Adventure	Mystery & Suspense	Cult Movies
+1502	2	Documentary	Special Interest
+1503	1	Mystery & Suspense
+1504	2	Gay & Lesbian	Comedy
+1505	1	Comedy
+1506	2	Drama	Science Fiction & Fantasy
+1507	2	Mystery & Suspense	Drama
+1508	2	Drama	Romance
+1509	2	Action & Adventure	Science Fiction & Fantasy
+1510	2	Drama	Gay & Lesbian
+1511	2	Drama	Romance
+1512	3	Drama	Art House & International	Comedy
+1513	1	Drama
+1514	3	Kids & Family	Science Fiction & Fantasy	Comedy
+1515	2	Documentary	Faith & Spirituality
+1516	3	Drama	Art House & International	Science Fiction & Fantasy
+1517	1	Drama
+1518	4	Kids & Family	Romance	Science Fiction & Fantasy	Comedy
+1519	1	Comedy
+1520	3	Drama	Art House & International	Comedy
+1521	4	Drama	Mystery & Suspense	Classics	Cult Movies
+1522	2	Drama	Action & Adventure
+1523	1	Drama
+1524	3	Drama	Romance	Comedy
+1525	2	Drama	Comedy
+1526	1	Action & Adventure
+1527	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+1528	2	Art House & International	Drama
+1529	2	Drama	Comedy
+1530	3	Drama	Action & Adventure	Mystery & Suspense
+1531	2	Drama	Action & Adventure
+1532	3	Romance	Science Fiction & Fantasy	Comedy
+1533	1	Drama
+1534	1	Comedy
+1535	2	Mystery & Suspense	Drama
+1536	4	Action & Adventure	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1537	2	Drama	Action & Adventure
+1538	4	Action & Adventure	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1539	1	Comedy
+1540	2	Mystery & Suspense	Drama
+1541	2	Mystery & Suspense	Horror
+1542	3	Horror	Art House & International	Classics
+1543	1	Comedy
+1544	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1545	1	Comedy
+1546	1	Comedy
+1547	2	Art House & International	Action & Adventure
+1548	3	Drama	Classics	Cult Movies
+1549	1	Comedy
+1550	2	Action & Adventure	Horror
+1551	2	Action & Adventure	Comedy
+1552	3	Action & Adventure	Kids & Family	Science Fiction & Fantasy
+1553	3	Drama	Horror	Mystery & Suspense
+1554	2	Art House & International	Drama
+1555	2	Drama	Comedy
+1556	2	Action & Adventure	Science Fiction & Fantasy
+1557	3	Drama	Romance	Comedy
+1558	2	Action & Adventure	Comedy
+1559	2	Documentary	Special Interest
+1560	3	Animation	Kids & Family	Science Fiction & Fantasy
+1561	2	Drama	Action & Adventure
+1562	3	Drama	Horror	Art House & International
+1563	3	Action & Adventure	Kids & Family	Comedy
+1564	2	Drama	Horror
+1565	1	Drama
+1566	2	Art House & International	Drama
+1567	1	Comedy
+1568	2	Musical & Performing Arts	Comedy
+1569	3	Drama	Gay & Lesbian	Comedy
+1570	2	Art House & International	Drama
+1571	4	Drama	Action & Adventure	Art House & International	Comedy
+1572	4	Action & Adventure	Animation	Kids & Family	Romance
+1573	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1574	3	Drama	Horror	Mystery & Suspense
+1575	3	Action & Adventure	Mystery & Suspense	Comedy
+1576	2	Drama	Romance
+1577	3	Drama	Romance	Comedy
+1578	3	Action & Adventure	Classics	Science Fiction & Fantasy
+1579	4	Animation	Anime & Manga	Art House & International	Science Fiction & Fantasy
+1580	3	Drama	Action & Adventure	Mystery & Suspense
+1581	4	Drama	Art House & International	Classics	Comedy
+1582	2	Art House & International	Drama
+1583	2	Documentary	Special Interest
+1584	1	Drama
+1585	1	Drama
+1586	1	Drama
+1587	1	Comedy
+1588	2	Drama	Action & Adventure
+1589	4	Drama	Art House & International	Comedy	Special Interest
+1590	4	Drama	Romance	Art House & International	Comedy
+1591	3	Drama	Action & Adventure	Mystery & Suspense
+1592	2	Comedy	Kids & Family
+1593	2	Drama	Comedy
+1594	2	Musical & Performing Arts	Comedy
+1595	2	Action & Adventure	Comedy
+1596	2	Science Fiction & Fantasy	Animation
+1597	2	Art House & International	Drama
+1598	4	Drama	Romance	Art House & International	Classics
+1599	3	Documentary	Sports & Fitness	Special Interest
+1600	1	Comedy
+1601	3	Horror	Art House & International	Comedy
+1602	2	Comedy	Romance
+1603	1	Drama
+1604	2	Mystery & Suspense	Drama
+1605	3	Horror	Classics	Comedy
+1606	2	Drama	Action & Adventure
+1607	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1608	1	Comedy
+1609	3	Drama	Action & Adventure	Mystery & Suspense
+1610	2	Drama	Horror
+1611	4	Drama	Art House & International	Sports & Fitness	Comedy
+1612	4	Drama	Horror	Classics	Science Fiction & Fantasy
+1613	2	Comedy	Romance
+1614	4	Drama	Action & Adventure	Art House & International	Mystery & Suspense
+1615	2	Mystery & Suspense	Action & Adventure
+1616	1	Comedy
+1617	1	Comedy
+1618	5	Western	Action & Adventure	Art House & International	Science Fiction & Fantasy	Special Interest
+1619	3	Action & Adventure	Kids & Family	Science Fiction & Fantasy
+1620	3	Drama	Mystery & Suspense	Cult Movies
+1621	2	Art House & International	Drama
+1622	3	Documentary	Sports & Fitness	Special Interest
+1623	3	Documentary	Sports & Fitness	Special Interest
+1624	2	Art House & International	Horror
+1625	2	Musical & Performing Arts	Drama
+1626	4	Action & Adventure	Kids & Family	Science Fiction & Fantasy	Comedy
+1627	4	Horror	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+1628	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1629	3	Drama	Mystery & Suspense	Science Fiction & Fantasy
+1630	1	Comedy
+1631	2	Comedy	Kids & Family
+1632	2	Mystery & Suspense	Drama
+1633	1	Comedy
+1634	1	Drama
+1635	3	Drama	Action & Adventure	Kids & Family
+1636	3	Drama	Kids & Family	Comedy
+1637	2	Documentary	Special Interest
+1638	3	Art House & International	Classics	Comedy
+1639	3	Drama	Musical & Performing Arts	Comedy
+1640	4	Drama	Action & Adventure	Romance	Classics
+1641	4	Drama	Animation	Kids & Family	Special Interest
+1642	3	Drama	Art House & International	Comedy
+1643	3	Drama	Horror	Science Fiction & Fantasy
+1644	1	Comedy
+1645	3	Drama	Romance	Comedy
+1646	2	Comedy	Kids & Family
+1647	3	Drama	Sports & Fitness	Comedy
+1648	2	Drama	Comedy
+1649	3	Drama	Action & Adventure	Classics
+1650	3	Drama	Action & Adventure	Science Fiction & Fantasy
+1651	2	Art House & International	Drama
+1652	4	Documentary	Art House & International	Sports & Fitness	Special Interest
+1653	1	Drama
+1654	4	Drama	Romance	Classics	Comedy
+1655	4	Documentary	Drama	Art House & International	Special Interest
+1656	3	Drama	Mystery & Suspense	Classics
+1657	5	Drama	Art House & International	Mystery & Suspense	Classics	Science Fiction & Fantasy
+1658	2	Sports & Fitness	Comedy
+1659	1	Comedy
+1660	2	Mystery & Suspense	Drama
+1661	2	Art House & International	Drama
+1662	3	Drama	Romance	Comedy
+1663	2	Musical & Performing Arts	Documentary
+1664	4	Documentary	Drama	Art House & International	Special Interest
+1665	3	Drama	Art House & International	Comedy
+1666	2	Science Fiction & Fantasy	Comedy
+1667	2	Art House & International	Western
+1668	1	Comedy
+1669	4	Drama	Romance	Musical & Performing Arts	Classics
+1670	1	Comedy
+1671	2	Art House & International	Drama
+1672	2	Drama	Horror
+1673	1	Drama
+1674	2	Drama	Action & Adventure
+1675	1	Comedy
+1676	2	Classics	Science Fiction & Fantasy
+1677	2	Mystery & Suspense	Drama
+1678	3	Drama	Romance	Classics
+1679	1	Drama
+1680	2	Drama	Classics
+1681	2	Documentary	Special Interest
+1682	2	Documentary	Special Interest
+1683	2	Mystery & Suspense	Drama
+1684	3	Drama	Romance	Comedy
+1685	3	Action & Adventure	Kids & Family	Comedy
+1686	1	Comedy
+1687	1	Comedy
+1688	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+1689	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+1690	3	Drama	Romance	Musical & Performing Arts
+1691	2	Documentary	Sports & Fitness
+1692	1	Comedy
+1693	3	Drama	Mystery & Suspense	Classics
+1694	3	Drama	Mystery & Suspense	Classics
+1695	4	Drama	Art House & International	Mystery & Suspense	Classics
+1696	2	Documentary	Special Interest
+1697	3	Drama	Television	Mystery & Suspense
+1698	3	Drama	Action & Adventure	Mystery & Suspense
+1699	1	Horror
+1700	2	Science Fiction & Fantasy	Comedy
+1701	1	Horror
+1702	2	Comedy	Kids & Family
+1703	2	Mystery & Suspense	Drama
+1704	2	Mystery & Suspense	Drama
+1705	3	Drama	Action & Adventure	Mystery & Suspense
+1706	2	Mystery & Suspense	Science Fiction & Fantasy
+1707	3	Action & Adventure	Romance	Science Fiction & Fantasy
+1708	3	Drama	Musical & Performing Arts	Comedy
+1709	2	Drama	Comedy
+1710	2	Drama	Comedy
+1711	3	Kids & Family	Science Fiction & Fantasy	Comedy
+1712	2	Art House & International	Drama
+1713	3	Drama	Action & Adventure	Classics
+1714	1	Drama
+1715	2	Action & Adventure	Science Fiction & Fantasy
+1716	1	Comedy
+1717	1	Drama
+1718	2	Drama	Comedy
+1719	2	Mystery & Suspense	Horror
+1720	3	Drama	Romance	Art House & International
+1721	1	Comedy
+1722	2	Drama	Comedy
+1723	3	Drama	Action & Adventure	Mystery & Suspense
+1724	2	Mystery & Suspense	Drama
+1725	4	Drama	Action & Adventure	Mystery & Suspense	Comedy
+1726	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+1727	1	Comedy
+1728	3	Drama	Romance	Art House & International
+1729	3	Drama	Mystery & Suspense	Comedy
+1730	2	Art House & International	Comedy
+1731	3	Documentary	Art House & International	Special Interest
+1732	2	Art House & International	Drama
+1733	1	Documentary
+1734	3	Documentary	Television	Special Interest
+1735	3	Drama	Mystery & Suspense	Classics
+1736	2	Art House & International	Science Fiction & Fantasy
+1737	2	Mystery & Suspense	Drama
+1738	3	Western	Action & Adventure	Art House & International
+1739	1	Art House & International
+1740	1	Comedy
+1741	4	Drama	Sports & Fitness	Mystery & Suspense	Comedy
+1742	2	Comedy	Romance
+1743	1	Drama
+1744	3	Drama	Action & Adventure	Classics
+1745	3	Action & Adventure	Horror	Mystery & Suspense
+1746	2	Action & Adventure	Comedy
+1747	1	Comedy
+1748	3	Horror	Classics	Cult Movies
+1749	3	Drama	Romance	Comedy
+1750	2	Documentary	Sports & Fitness
+1751	2	Drama	Comedy
+1752	1	Comedy
+1753	1	Drama
+1754	1	Mystery & Suspense
+1755	2	Art House & International	Drama
+1756	5	Drama	Art House & International	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+1757	2	Documentary	Special Interest
+1758	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1759	1	Comedy
+1760	2	Drama	Comedy
+1761	2	Documentary	Special Interest
+1762	2	Drama	Romance
+1763	3	Kids & Family	Science Fiction & Fantasy	Comedy
+1764	1	Documentary
+1765	4	Documentary	Television	Art House & International	Special Interest
+1766	2	Classics	Science Fiction & Fantasy
+1767	1	Documentary
+1768	2	Comedy	Romance
+1769	2	Drama	Kids & Family
+1770	3	Kids & Family	Science Fiction & Fantasy	Comedy
+1771	4	Drama	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+1772	2	Action & Adventure	Horror
+1773	2	Drama	Action & Adventure
+1774	1	Comedy
+1775	2	Drama	Comedy
+1776	2	Musical & Performing Arts	Comedy
+1777	1	Drama
+1778	3	Drama	Action & Adventure	Mystery & Suspense
+1779	2	Classics	Comedy
+1780	3	Drama	Action & Adventure	Mystery & Suspense
+1781	3	Romance	Art House & International	Comedy
+1782	3	Drama	Art House & International	Comedy
+1783	2	Art House & International	Comedy
+1784	4	Documentary	Drama	Action & Adventure	Special Interest
+1785	2	Documentary	Sports & Fitness
+1786	2	Classics	Action & Adventure
+1787	3	Horror	Science Fiction & Fantasy	Comedy
+1788	2	Horror	Animation
+1789	1	Action & Adventure
+1790	4	Documentary	Drama	Art House & International	Comedy
+1791	2	Drama	Comedy
+1792	2	Art House & International	Drama
+1793	3	Documentary	Musical & Performing Arts	Special Interest
+1794	3	Drama	Romance	Comedy
+1795	2	Mystery & Suspense	Drama
+1796	4	Horror	Romance	Mystery & Suspense	Science Fiction & Fantasy
+1797	3	Action & Adventure	Comedy	Cult Movies
+1798	2	Action & Adventure	Science Fiction & Fantasy
+1799	1	Horror
+1800	2	Mystery & Suspense	Action & Adventure
+1801	1	Drama
+1802	1	Comedy
+1803	2	Drama	Comedy
+1804	1	Action & Adventure
+1805	1	Drama
+1806	4	Drama	Action & Adventure	Mystery & Suspense	Comedy
+1807	1	Drama
+1808	3	Drama	Action & Adventure	Mystery & Suspense
+1809	1	Horror
+1810	2	Comedy	Romance
+1811	2	Drama	Action & Adventure
+1812	3	Drama	Romance	Comedy
+1813	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+1814	1	Comedy
+1815	5	Action & Adventure	Art House & International	Mystery & Suspense	Science Fiction & Fantasy	Comedy
+1816	1	Drama
+1817	1	Drama
+1818	2	Art House & International	Drama
+1819	1	Documentary
+1820	4	Documentary	Animation	Art House & International	Special Interest
+1821	3	Drama	Action & Adventure	Classics
+1822	2	Documentary	Special Interest
+1823	1	Drama
+1824	3	Drama	Action & Adventure	Mystery & Suspense
+1825	3	Drama	Romance	Comedy
+1826	1	Comedy
+1827	3	Documentary	Drama	Art House & International
+1828	3	Drama	Action & Adventure	Kids & Family
+1829	3	Documentary	Television	Art House & International
+1830	2	Drama	Classics
+1831	2	Drama	Television
+1832	2	Western	Classics
+1833	4	Drama	Action & Adventure	Classics	Comedy
+1834	3	Animation	Kids & Family	Comedy
+1835	3	Action & Adventure	Animation	Science Fiction & Fantasy
+1836	3	Drama	Action & Adventure	Comedy
+1837	3	Drama	Action & Adventure	Mystery & Suspense
+1838	2	Mystery & Suspense	Drama
+1839	3	Drama	Mystery & Suspense	Science Fiction & Fantasy
+1840	2	Mystery & Suspense	Drama
+1841	1	Horror
+1842	2	Drama	Comedy
+1843	2	Science Fiction & Fantasy	Comedy
+1844	1	Comedy
+1845	2	Drama	Comedy
+1846	2	Art House & International	Drama
+1847	2	Action & Adventure	Comedy
+1848	3	Drama	Action & Adventure	Mystery & Suspense
+1849	3	Drama	Action & Adventure	Mystery & Suspense
+1850	4	Drama	Horror	Mystery & Suspense	Comedy
+1851	1	Comedy
+1852	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1853	3	Drama	Romance	Comedy
+1854	1	Action & Adventure
+1855	3	Drama	Romance	Mystery & Suspense
+1856	2	Drama	Romance
+1857	3	Drama	Romance	Art House & International
+1858	3	Drama	Mystery & Suspense	Classics
+1859	2	Action & Adventure	Science Fiction & Fantasy
+1860	3	Drama	Horror	Classics
+1861	3	Drama	Mystery & Suspense	Classics
+1862	2	Documentary	Special Interest
+1863	5	Action & Adventure	Television	Animation	Kids & Family	Science Fiction & Fantasy
+1864	1	Horror
+1865	3	Drama	Horror	Mystery & Suspense
+1866	1	Comedy
+1867	3	Drama	Romance	Comedy
+1868	2	Art House & International	Comedy
+1869	3	Drama	Musical & Performing Arts	Special Interest
+1870	1	Drama
+1871	2	Mystery & Suspense	Drama
+1872	2	Art House & International	Drama
+1873	1	Comedy
+1874	1	Comedy
+1875	2	Sports & Fitness	Drama
+1876	3	Documentary	Art House & International	Special Interest
+1877	1	Action & Adventure
+1878	4	Drama	Action & Adventure	Mystery & Suspense	Comedy
+1879	2	Action & Adventure	Comedy
+1880	3	Drama	Science Fiction & Fantasy	Comedy
+1881	2	Action & Adventure	Kids & Family
+1882	2	Classics	Horror
+1883	1	Action & Adventure
+1884	1	Comedy
+1885	3	Drama	Action & Adventure	Mystery & Suspense
+1886	3	Drama	Art House & International	Mystery & Suspense
+1887	1	Comedy
+1888	2	Documentary	Special Interest
+1889	2	Art House & International	Drama
+1890	4	Documentary	Drama	Art House & International	Special Interest
+1891	2	Comedy	Romance
+1892	2	Action & Adventure	Kids & Family
+1893	2	Mystery & Suspense	Drama
+1894	3	Romance	Musical & Performing Arts	Comedy
+1895	3	Drama	Horror	Science Fiction & Fantasy
+1896	2	Drama	Comedy
+1897	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+1898	1	Comedy
+1899	3	Drama	Romance	Comedy
+1900	1	Horror
+1901	2	Art House & International	Drama
+1902	4	Drama	Romance	Art House & International	Comedy
+1903	3	Drama	Mystery & Suspense	Classics
+1904	3	Drama	Romance	Science Fiction & Fantasy
+1905	2	Drama	Action & Adventure
+1906	1	Drama
+1907	2	Action & Adventure	Science Fiction & Fantasy
+1908	1	Comedy
+1909	2	Action & Adventure	Kids & Family
+1910	3	Action & Adventure	Mystery & Suspense	Comedy
+1911	3	Drama	Horror	Science Fiction & Fantasy
+1912	2	Mystery & Suspense	Drama
+1913	3	Drama	Romance	Musical & Performing Arts
+1914	1	Drama
+1915	2	Science Fiction & Fantasy	Kids & Family
+1916	1	Comedy
+1917	1	Comedy
+1918	1	Horror
+1919	2	Drama	Comedy
+1920	1	Comedy
+1921	2	Comedy	Romance
+1922	1	Comedy
+1923	3	Drama	Action & Adventure	Comedy
+1924	3	Drama	Mystery & Suspense	Classics
+1925	3	Documentary	Musical & Performing Arts	Special Interest
+1926	3	Documentary	Television	Art House & International
+1927	1	Horror
+1928	2	Drama	Romance
+1929	2	Comedy	Kids & Family
+1930	3	Drama	Action & Adventure	Mystery & Suspense
+1931	1	Comedy
+1932	2	Mystery & Suspense	Action & Adventure
+1933	1	Drama
+1934	1	Drama
+1935	2	Comedy	Romance
+1936	2	Kids & Family	Romance
+1937	3	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1938	2	Drama	Action & Adventure
+1939	2	Drama	Comedy
+1940	2	Drama	Comedy
+1941	2	Comedy	Kids & Family
+1942	3	Musical & Performing Arts	Art House & International	Classics
+1943	2	Art House & International	Drama
+1944	4	Drama	Mystery & Suspense	Classics	Science Fiction & Fantasy
+1945	2	Documentary	Special Interest
+1946	2	Drama	Romance
+1947	3	Action & Adventure	Kids & Family	Comedy
+1948	6	Action & Adventure	Animation	Anime & Manga	Art House & International	Kids & Family	Science Fiction & Fantasy
+1949	3	Action & Adventure	Science Fiction & Fantasy	Comedy
+1950	3	Action & Adventure	Mystery & Suspense	Science Fiction & Fantasy
+1951	2	Documentary	Special Interest
+1952	2	Drama	Comedy
+1953	3	Drama	Art House & International	Comedy
+1954	2	Science Fiction & Fantasy	Comedy
+1955	4	Animation	Kids & Family	Anime & Manga	Science Fiction & Fantasy
+1956	2	Comedy	Kids & Family
+1957	5	Animation	Kids & Family	Musical & Performing Arts	Classics	Science Fiction & Fantasy
+1958	2	Comedy	Romance
+1959	3	Drama	Mystery & Suspense	Classics
+1960	3	Drama	Romance	Comedy
+1961	1	Comedy
+1962	2	Drama	Comedy
+1963	2	Drama	Classics
+1964	2	Documentary	Special Interest
+1965	1	Comedy
+1966	2	Drama	Comedy
+1967	3	Drama	Action & Adventure	Comedy
+1968	2	Action & Adventure	Horror
+1969	1	Comedy
+1970	1	Comedy
+1971	2	Mystery & Suspense	Horror
+1972	1	Comedy
+1973	4	Action & Adventure	Kids & Family	Mystery & Suspense	Comedy
+1974	2	Drama	Comedy
+1975	4	Drama	Horror	Mystery & Suspense	Science Fiction & Fantasy
+1976	4	Drama	Television	Art House & International	Comedy
+1977	1	Action & Adventure
+1978	2	Mystery & Suspense	Drama
+1979	2	Art House & International	Classics
+1980	4	Drama	Romance	Classics	Comedy
+1981	2	Mystery & Suspense	Classics
+1982	3	Drama	Romance	Classics
+1983	2	Mystery & Suspense	Drama
+1984	3	Documentary	Drama	Musical & Performing Arts
+1985	2	Musical & Performing Arts	Documentary
+1986	3	Drama	Romance	Art House & International
+1987	1	Drama
+1988	2	Documentary	Drama
+1989	2	Science Fiction & Fantasy	Kids & Family
+1990	1	Comedy
+1991	1	Comedy
+1992	1	Comedy
+1993	2	Comedy	Kids & Family
+1994	4	Television	Horror	Mystery & Suspense	Comedy
+1995	2	Drama	Action & Adventure
+1996	4	Documentary	Action & Adventure	Art House & International	Special Interest
+1997	1	Comedy
+1998	3	Drama	Art House & International	Special Interest
+1999	2	Action & Adventure	Comedy

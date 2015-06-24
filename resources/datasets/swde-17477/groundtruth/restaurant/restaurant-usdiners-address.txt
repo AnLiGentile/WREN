@@ -1,0 +1,2002 @@
+﻿restaurant	usdiners	address
+2000	2000	4322	3642
+0000	2	803 Harkrider St,	Conway, AR 72032
+0001	2	Highway 178,	Bull Shoals, AR 72619
+0002	2	7605 E PINNACLE PEAK RD,	Scottsdale, AZ 85255
+0003	2	15680 N PIMA RD,	Scottsdale, AZ 85260
+0004	2	552 1st St,	Encinitas, CA 92024
+0005	2	116 Crown St.,	New Haven, CT 06510
+0006	2	168 YORK ST,	New Haven, CT 06511
+0007	3	100 King St	(At S Union St)	Alexandria, DC 22314
+0008	2	1111 Mississippi Ave.,	St. Louis, MO 63104
+0009	2	1481 Hudson Bridge Rd Ste B,	Stockbridge, GA 30281
+0010	2	307 E PRESIDENT ST,	Savannah, GA 31401
+0011	2	306 N PATTERSON ST,	Valdosta, GA 31601
+0012	2	2401 KAANAPALI PKWY,	Lahaina, HI 96761
+0013	3	1145C 12th Ave.	(bet. Harding & Waialae Aves.)	Honolulu, HI 96816
+0014	2	4400 Sergeant Rd Ste 204,	Sioux City, IA 51106
+0015	2	2150 CHANNING WAY,	Idaho Falls, ID 83404
+0016	2	799 Cheney Dr,	Twin Falls, ID 83301
+0017	3	300 E Ohio St	(At N Columbus Dr)	Chicago, IL 60611
+0018	2	120 W MARKET ST,	Indianapolis, IN 46204
+0019	2	14 W MARYLAND ST,	Indianapolis, IN 46204
+0020	2	1250 BARDSTOWN RD,	Louisville, KY 40204
+0021	3	517 Frenchmen St.	(bet. Chartres & Decatur Sts.)	New Orleans, LA 70116
+0022	2	49 Warren St.,	Boston, MA 02119
+0023	2	2 Wayside Rd,	Burlington, MA 01803
+0024	2	206 TURNPIKE RD,	Westborough, MA 01581
+0025	3	209 Columbus Ave.	(At Berkeley St)	Boston, MA 02116
+0026	2	480 YORK ST,	York Harbor, ME 03911
+0027	2	4226 E 10 MILE RD,	Warren, MI 48091
+0028	2	8510 M 140,	South Haven, MI 49090
+0029	2	26390 EASTGATE BLVD,	Roseville, MI 48066
+0030	2	84 E 8th St,	Holland, MI 49423
+0031	3	1750 Hennepin Ave.	(Vineland Pl.)	Minneapolis, MN 55403
+0032	3	1924 Main St.	(19th St.)	Kansas City, MO 64108
+0033	2	1307 Sw Mo-7,	Blue Springs, MO 64015
+0034	2	12130 S Us-71,	Grandview, MO 64030
+0035	2	6332 NW Barry Rd,	Kansas City, MO 64154
+0036	2	202 Broadway,	Fargo, ND 58102
+0037	2	60 DAMANTE DR,	Concord, NH 03301
+0038	2	8 HOTEL DR,	Dover, NH 03820
+0039	2	360 WINCHESTER ST,	Keene, NH 03431
+0040	2	2454 LAFAYETTE RD,	Portsmouth, NH 03801
+0041	2	RR 16,	North Conway, NH 03860
+0042	2	400 S Rock Blvd,	Sparks, NV 89431
+0043	2	390 N MCCARRAN BLVD,	Sparks, NV 89431
+0044	2	3570 LAS VEGAS BLVD S,	Las Vegas, NV 89109
+0045	3	164 W. 75th St.	(At Amsterdam Ave)	Manhattan, NY 10023
+0046	3	10018 4th Ave	(bet. 100th & 101st Sts.)	Brooklyn, NY 11209
+0047	2	1060 E GENESEE ST,	Syracuse, NY 13210
+0048	2	3120 SUPERIOR AVE E,	Cleveland, OH 44114
+0049	2	981 GROSJEAN RD,	Wooster, OH 44691
+0050	2	2768 Stark Dr,	Willoughby, OH 44094
+0051	3	The Hilton Garden Inn	(At N 11th St)	Philadelphia, PA 19107
+0052	3	1521 Spruce St Apt 101	(Btwn S 15th St & S 16th St)	Philadelphia, PA 19102
+0053	2	2017 E Carson St,	Pittsburgh, PA 15203
+0054	3	211 Old York Rd	(At Summit Ave)	Jenkintown, PA 19046
+0055	2	22 BOWENS WHARF,	Newport, RI 02840
+0056	2	125 Canal St,	Providence, RI 02903
+0057	2	84 HIGH ST,	Westerly, RI 02891
+0058	2	199 CONNELL HWY,	Newport, RI 02840
+0059	2	2008 N Eastman Rd,	Kingsport, TN 37664
+0060	3	1117 Prairie St.	(San Jacinto St.)	Houston, TX 77002
+0061	3	255 E. Basse Rd.	(Jones-Maltsberger Rd.)	San Antonio, TX 78209
+0062	3	2900 Thomas Ave.	(Allen St.)	Dallas, TX 75204
+0063	2	14000 FM 529 RD,	Houston, TX 77041
+0064	2	10614 S 1300 E,	Sandy, UT 84092
+0065	2	428 E 12300 S,	Draper, UT 84020
+0066	2	73 E 1280 N,	Tooele, UT 84074
+0067	2	13292 WARWICK BLVD,	Newport News, VA 23602
+0068	3	219 King St	(At N Lee St)	Alexandria, VA 22314
+0069	3	21 Central Way	(First St.)	Kirkland, WA 98033
+0070	2	204 E COLLEGE AVE,	Appleton, WI 54911
+0071	2	595 LINMAR LN,	Johnson Creek, WI 53038
+0072	2	2128 E LOCUST ST,	Milwaukee, WI 53211
+0073	2	4240 Old Seward Highway Suite 20,	Anchorage, AK 99503
+0074	2	7540 MEMORIAL PKWY SW,	Huntsville, AL 35802
+0075	2	4830 N HILLS BLVD,	North Little Rock, AR 72116
+0076	2	2000 S UNIVERSITY AVE STE A,	Little Rock, AR 72204
+0077	3	3800 plaza Drive	(Sunflower Ave.)	Santa Ana, CA 92704
+0078	2	5350 S PARKER RD,	Aurora, CO 80015
+0079	2	1601 PEARL ST,	Boulder, CO 80302
+0080	2	7777 E HAMPDEN AVE,	Denver, CO 80231
+0081	2	4737 N ACADEMY BLVD,	Colorado Springs, CO 80918
+0082	3	609 Pennsylvania Ave SE #609	(At 6th St SE)	Washington, DC 20003
+0083	3	901 New York Ave. NW	(At 9th St NW)	Washington, DC 20001
+0084	3	2309 Calvert St NW	(Btwn Connecticut Ave NW & Woodley PI NW)	Washington, DC 20008
+0085	2	10011 W Hillsborough Ave,	Tampa, FL 33615
+0086	3	7559 W. Sand Lake Rd.	(bet. Dr. Phillips Blvd. & Turkey Lake Rd.)	Orlando, FL 32819
+0087	2	1934 MANCHESTER EXPY,	Columbus, GA 31904
+0088	2	4776 SUGARLOAF PKWY,	Lawrenceville, GA 30044
+0089	2	5368 N HENRY BLVD,	Stockbridge, GA 30281
+0090	2	10900 MEDLOCK BRIDGE RD,	Duluth, GA 30097
+0091	3	1857 S King St Fl 3	(bet. Hauoli & Pumehana Sts.)	Honolulu, HI 96826
+0092	2	412 Lewers St,	Honolulu, HI 96815
+0093	2	547 Main St,	Ames, IA 50010
+0094	2	3000 DIAL DR,	Council Bluffs, IA 51501
+0095	2	1395 ASSOCIATES DR,	Dubuque, IA 52002
+0096	2	2780 CROSSROADS BLVD,	Waterloo, IA 50702
+0097	2	1002 W Main St,	Boise, ID 83702
+0098	2	2235 THAIN GRADE,	Lewiston, ID 83501
+0099	2	1411 BENCH RD,	Pocatello, ID 83201
+0100	2	7036 N CLARK ST,	Chicago, IL 60626
+0101	3	2148 W. Chicago Ave.	(Btwn N Hoyne Ave & N Leavitt St)	Chicago, IL 60622
+0102	2	5341 S Archer Ave,	Chicago, IL 60632
+0103	2	6620 S SCATTERFIELD RD,	Anderson, IN 46013
+0104	2	8890 E 116TH ST,	Fishers, IN 46038
+0105	2	1008 MASSACHUSETTS ST,	Lawrence, KS 66044
+0106	2	3rd & Poyntz,	Manhattan, KS 66502
+0107	2	3395 NICHOLASVILLE RD,	Lexington, KY 40503
+0108	2	4520 S SHERWOOD FOREST BLVD STE 102,	Baton Rouge, LA 70816
+0109	2	17316 AIRLINE HWY,	Prairieville, LA 70769
+0110	2	2561 Citiplace Ct,	Baton Rouge, LA 70808
+0111	2	985 BELMONT ST,	Brockton, MA 02301
+0112	3	744 Massachusetts Ave	(Btwn Harrison Ave & Albany St)	Cambridge, MA 02139
+0113	2	4632 Wedgewood Blvd,	Frederick, MD 21703
+0114	2	5401 AGER RD,	Hyattsville, MD 20782
+0115	2	4718 Eastern Ave,	Baltimore, MD 21224
+0116	2	111 CENTRE ST,	Bath, ME 04530
+0117	2	4 Oarweed Cove Rd,	Ogunquit, ME 03907
+0118	2	21 LAKE ST,	Frankfort, MI 49666
+0119	2	2675 28TH ST SW,	Wyoming, MI 49519
+0120	2	75700 NORTH AVE,	Armada, MI 48005
+0121	2	46575 HAYES RD,	Utica, MI 48315
+0122	2	14678 CEDAR AVE,	Apple Valley, MN 55124
+0123	2	2152 W BURNSVILLE PKWY,	Burnsville, MN 55337
+0124	2	1779 S GLENSTONE AVE,	Springfield, MO 65804
+0125	2	1839 E INDEPENDENCE ST,	Springfield, MO 65804
+0126	2	1480 W GOVERNMENT ST,	Brandon, MS 39042
+0127	2	3282 N GLOSTER ST,	Tupelo, MS 38804
+0128	2	3200 N 14th St,	Bismarck, ND 58503
+0129	2	1204 19th Ave N,	Fargo, ND 58102
+0130	2	2550 S University Dr,	Fargo, ND 58103
+0131	2	1215 HOWARD ST,	Omaha, NE 68102
+0132	2	3025 FARNAM ST,	Omaha, NE 68131
+0133	2	292 INDIAN BROOK RD,	Dover, NH 03820
+0134	2	310 DANIEL WEBSTER HWY,	Nashua, NH 03060
+0135	2	841 Hamilton St,	Somerset, NJ 08873
+0136	2	1077 STATE ROUTE 34,	Matawan, NJ 07747
+0137	3	777 US Highway 202	(bet. 1st Ave. & Ortho Dr.)	Raritan, NJ 08869
+0138	2	322 Garfield St,	Santa Fe, NM 87501
+0139	2	3667 LAS VEGAS BLVD S,	Las Vegas, NV 89109
+0140	3	7 west 20th street	(Btwn 5th & 6th Ave)	New York, NY 10011
+0141	3	1135 First Avenue	(Btwn 62nd & 63rd St)	New York, NY 10021
+0142	2	1200 E JERICHO TPKE,	Huntington, NY 11743
+0143	2	106 1st Ave,	Stratton, OH 43964
+0144	2	26100 HARVARD RD,	Beachwood, OH 44122
+0145	2	3950 GRAMERCY ST,	Columbus, OH 43219
+0146	2	2420 N FAIRFIELD RD,	Dayton, OH 45431
+0147	2	5600 DEERFIELD CIR,	Mason, OH 45040
+0148	2	513 UNIVERSITY PL,	Durant, OK 74701
+0149	2	3341 W MAIN ST,	Norman, OK 73072
+0150	2	233 SW STARK ST,	Portland, OR 97204
+0151	3	8513 Germantown Ave	(Btwn E Highland Ave & E Evergreen Ave)	Philadelphia, PA 19118
+0152	2	110 LINCOLN HWY,	Fairless Hills, PA 19030
+0153	2	27 AQUIDNECK AVE,	Middletown, RI 02842
+0154	2	2930 DEVINE ST,	Columbia, SC 29205
+0155	2	1117 SAVANNAH HWY,	Charleston, SC 29407
+0156	2	2630 9TH AVE SE,	Watertown, SD 57201
+0157	3	5000 Westheimer Rd Ste 120	(Post Oak Blvd.)	Houston, TX 77056
+0158	2	5892 S State St,	Midvale, UT 84047
+0159	2	10710 S STATE ST,	Sandy, UT 84070
+0160	2	217 E 3300 S,	Salt Lake City, UT 84115
+0161	2	690 N Main St,	Logan, UT 84321
+0162	2	1251 Williston Rd,	South Burlington, VT 05403
+0163	2	121 CONNOR WAY,	Williston, VT 05495
+0164	2	155 DORSET ST STE D18,	South Burlington, VT 05403
+0165	2	RR 7,	Middlebury, VT 05753
+0166	2	2631 W KENNEWICK AVE,	Kennewick, WA 99336
+0167	2	421 CENTRAL AVE S,	Kent, WA 98032
+0168	2	3698 KINSMAN BLVD,	Madison, WI 53704
+0169	2	2952 UNIVERSITY AVE,	Morgantown, WV 26505
+0170	2	1850 CY AVE,	Casper, WY 82604
+0171	2	3617 E Lincolnway,	Cheyenne, WY 82001
+0172	2	4620 Grandview Ave,	Cheyenne, WY 82009
+0173	2	814 N 10th St,	Worland, WY 82401
+0174	2	1140 N 6th St,	Greybull, WY 82426
+0175	2	942 Shoshoni St,	Thermopolis, WY 82443
+0176	2	1850 Cy Ave,	Casper, WY 82604
+0177	2	Olympic Cir,	Girdwood, AK 99587
+0178	2	5456 Old Shell Rd,	Mobile, AL 36608
+0179	2	1802 Quintard Ave,	Anniston, AL 36201
+0180	2	16211 ATHENS-LIMESTONE BLVD,	Athens, AL 35611
+0181	2	4301 PLEASANT CROSSING,	Rogers, AR 72758
+0182	2	111 BILL FOSTER MEMORIAL HWY,	Cabot, AR 72023
+0183	2	20211 N 67TH AVE,	Glendale, AZ 85308
+0184	3	7377 Saint Helena Hwy	(bet. Washington St. & Yount Mill Rd.)	Yountville, CA 94599
+0185	3	665 N. Harbor Dr.	(Btwn Marina Way & W Beryl St)	Redondo Beach, CA 90277
+0186	3	410 Townsend Street	(At 18th St)	San Francisco, CA 94107
+0187	2	14301 E CEDAR AVE,	Aurora, CO 80012
+0188	2	8332 E 49TH AVE,	Denver, CO 80238
+0189	2	8000 E BELLEVIEW AVE,	Englewood, CO 80111
+0190	2	254 CROWN ST,	New Haven, CT 06511
+0191	3	2436 18th St NW	(Btwn Columbia Rd NW & Belmont Rd NW)	Washington, DC 20009
+0192	3	500 8th St SE	(At E St SE)	Washington, DC 20003
+0193	3	425 Hockessin Corner	(Old Lancaster Pike)	Hockessin, DE 19707
+0194	3	835 N. Market St.	(bet. 8th & 9th Sts.)	Wilmington, DE 19801
+0195	2	59 Rehoboth Ave,	Rehoboth Beach, DE 19971
+0196	2	9801 INTERNATIONAL DR,	Orlando, FL 32819
+0197	2	4910 STACK BLVD,	Melbourne, FL 32901
+0198	2	11108 ABERCORN ST,	Savannah, GA 31419
+0199	2	13 E BROUGHTON ST,	Savannah, GA 31401
+0200	2	3900 Fairmount Hwy SE,	Calhoun, GA 30701
+0201	2	814 JUNIPER ST NE,	Atlanta, GA 30308
+0202	2	3636 LOWER HONOAPIILANI RD,	Lahaina, HI 96761
+0203	3	2005 Kalia Rd.	(Ala Moana Blvd.)	Honolulu, HI 96815
+0204	2	1280 S KIHEI RD,	Kihei, HI 96753
+0205	2	2205 SE Delaware Ave,	Ankeny, IA 50021
+0206	2	600 E LOCUST ST,	Des Moines, IA 50319
+0207	2	2320 S Union St,	Des Moines, IA 50315
+0208	2	610 W GROVE ST,	Boise, ID 83702
+0209	2	1253 E 17TH ST,	Idaho Falls, ID 83404
+0210	2	1770 E FAIRVIEW AVE,	Meridian, ID 83642
+0211	3	5018 N Broadway St	(At W Argyle St)	Chicago, IL 60640
+0212	2	2603 W 71ST ST,	Chicago, IL 60629
+0213	3	6404 N California Ave	(At W Devon Ave)	Chicago, IL 60645
+0214	3	2023 N Damen Ave	(At W McLean Ave)	Chicago, IL 60647
+0215	2	745 Us-31 N,	Greenwood, IN 46142
+0216	2	713 E JEFFERSON BLVD,	South Bend, IN 46617
+0217	2	16649 Midland Dr,	Shawnee Mission, KS 66217
+0218	2	11924 W 119th St,	Shawnee Mission, KS 66213
+0219	2	319 SOUTHWIND PL,	Manhattan, KS 66503
+0220	2	11912 S STRANG LINE RD,	Olathe, KS 66062
+0221	2	11309 E KELLOGG DR,	Wichita, KS 67207
+0222	2	3929 Shelbyville Rd.,	Louisville, KY 40207
+0223	2	100 Industrial Rd,	Newport, KY 41076
+0224	3	310 Chartres St	(bet. Bienville & Conti Sts.)	New Orleans, LA 70130
+0225	2	2618 DEREK DR,	Lake Charles, LA 70607
+0226	3	131 Dartmouth St.	(Btwn Columbus Ave & Stuart St)	Boston, MA 02116
+0227	3	107 Salem St.	(Btwn Bartlett Pl & Cooper St)	Boston, MA 02113
+0228	2	100 E JOPPA RD,	Towson, MD 21286
+0229	2	20021 CENTURY BLVD,	Germantown, MD 20874
+0230	2	5102 E 9 MILE RD,	Warren, MI 48091
+0231	2	200 S Main St,	Ann Arbor, MI 48104
+0232	2	22115 Michigan Ave,	Dearborn, MI 48124
+0233	2	2300 Hennepin Ave,	Minneapolis, MN 55405
+0234	2	2280 SHEPHERD OF THE HILLS EXPY,	Branson, MO 65616
+0235	2	3401 CLARK LN,	Columbia, MO 65202
+0236	2	6095 U S HIGHWAY 98,	Hattiesburg, MS 39402
+0237	2	2310 UNIVERSITY WAY,	Bozeman, MT 59715
+0238	2	300 1st Ave S,	Great Falls, MT 59401
+0239	2	485 N 2nd E,	Rexburg, MT 83440
+0240	2	2626 State St,	Bismarck, ND 58503
+0241	2	1904 N DIERS AVE,	Grand Island, NE 68803
+0242	2	1220 N 1ST ST,	Norfolk, NE 68701
+0243	2	25 STARK ST,	Manchester, NH 03101
+0244	2	369 LAFAYETTE RD,	Hampton, NH 03842
+0245	2	406 AMHERST ST,	Nashua, NH 03063
+0246	2	Amherst Street,	Nashua, NH 03063
+0247	3	800 Ridgewood Rd	(Pascack Rd.)	Westwood, NJ 07675
+0248	2	153 1ST ST,	Hoboken, NJ 07030
+0249	2	355 STATE HIGHWAY 528 SE,	Rio Rancho, NM 87124
+0250	2	2550 COORS BLVD NW,	Albuquerque, NM 87120
+0251	2	4056 Cerrillos Rd Ste G,	Santa Fe, NM 87505
+0252	2	336 Mill St,	Reno, NV 89501
+0253	2	1325 W 7th St Ste G,	Reno, NV 89503
+0254	3	661 Old Willets Path	(Engineers Rd.)	Hauppauge, NY 11788
+0255	2	247 W FAYETTE ST,	Syracuse, NY 13202
+0256	3	212 Avenue B	(At 13th St)	New York, NY 10009
+0257	3	680 N High St	(Brickel St.)	Columbus, OH 43215
+0258	2	805 N REYNOLDS RD,	Toledo, OH 43615
+0259	2	5113 BOWEN DR,	Mason, OH 45040
+0260	2	100 E. California,	Oklahoma City, OK 73104
+0261	2	6610 S Peoria Ave Ste G,	Tulsa, OK 74136
+0262	2	820 N ASPEN AVE,	Broken Arrow, OK 74012
+0263	2	3317 E 6th Ave,	Stillwater, OK 74074
+0264	2	9757 SE SUNNYSIDE RD STE E,	Clackamas, OR 97015
+0265	2	845 NW 9TH ST,	Corvallis, OR 97330
+0266	2	1053 NW CIVIC DR,	Gresham, OR 97030
+0267	2	899 NE 25TH AVE,	Hillsboro, OR 97124
+0268	2	1720 Lowrie St,	Pittsburgh, PA 15212
+0269	2	146 E MAIN ST,	Carnegie, PA 15106
+0270	2	120 FORTIN RD,	Kingston, RI 02881
+0271	2	82 E MAIN RD,	Middletown, RI 02842
+0272	2	210 Atwells Ave,	Providence, RI 02903
+0273	2	2135 Devine St,	Columbia, SC 29208
+0274	2	1771 PLEASANT RD,	Fort Mill, SC 29708
+0275	2	2409 Laurens Rd,	Greenville, SC 29607
+0276	2	913 MOUNT RUSHMORE RD,	Rapid City, SD 57701
+0277	2	609 W 33RD ST,	Sioux Falls, SD 57105
+0278	2	909 N WEST AVE,	Sioux Falls, SD 57104
+0279	2	681 Main St,	Deadwood, SD 57732
+0280	2	811 W Pipestone Ave,	Flandreau, SD 57028
+0281	2	1724 CAROUTHERS PKWY STE 100,	Brentwood, TN 37027
+0282	2	5160 Richmond Ave,	Houston, TX 77056
+0283	2	7793 State St,	Midvale, UT 84047
+0284	2	PO BOX 3056,	Park City, UT 84060
+0285	2	1284 Empire Ave,	Park City, UT 84060
+0286	2	126 N MAIN ST,	Cedar City, UT 84720
+0287	2	68 Pearl St,	Burlington, VT 05401
+0288	2	715 King St,	Alexandria, VA 22314
+0289	2	515 SE EVERETT MALL WAY,	Everett, WA 98208
+0290	3	850 N Plankinton Ave	(2nd St.)	Milwaukee, WI 53203
+0291	2	2566 SUN VALLEY DR,	Delafield, WI 53018
+0292	2	506 E BADGER RD,	Madison, WI 53713
+0293	2	2837 S 108th St,	Milwaukee, WI 53227
+0294	2	383 Patteson Dr,	Morgantown, WV 26505
+0295	2	117 Meadowfield Ln,	Princeton, WV 24740
+0296	2	746 4th Ave,	Huntington, WV 25701
+0297	2	1507 STILLWATER AVE,	Cheyenne, WY 82009
+0298	2	55 N Cache St,	Jackson, WY 83001
+0299	2	702 S Main,	Lusk, WY 82225
+0300	2	308 E NORTHERN LIGHTS BLVD,	Anchorage, AK 99503
+0301	2	27200 Perdido Beach Blvd,	Orange Beach, AL 36561
+0302	2	2839 7th Ave S,	Birmingham, AL 35233
+0303	2	520 MAIN ST,	Van Buren, AR 72956
+0304	2	4175 N GOLDWATER BLVD,	Scottsdale, AZ 85251
+0305	3	305 N Harbor Blvd Ste 214	(Wilshire Ave.)	Fullerton, CA 92832
+0306	2	2730 J St,	Sacramento, CA 95816
+0307	3	701 Cole St	(At Waller St)	San Francisco, CA 94117
+0308	3	969 State St	(Edwards Street)	New Haven, CT 06511
+0309	3	725 Boston Post Rd.	(Wall St.)	Madison, CT 06443
+0310	2	24 ATLANTIC ST,	Stamford, CT 06901
+0311	3	910 Chapel St.	(Temple Street)	New Haven, CT 06510
+0312	3	3300 Wisconsin Ave NW	(At Macomb St NW)	Washington, DC 20016
+0313	2	50 Wilmington Ave,	Rehoboth Beach, DE 19971
+0314	3	431 St Armands Cir	(John Ringling Blvd.)	Sarasota, FL 34236
+0315	2	12791 Kenwood Lane,	Fort Myers, FL 33907
+0316	3	2625 Piedmont Rd NE # G40	(Sydney Marcus Blvd.)	Atlanta, GA 30324
+0317	2	3333 BUFORD DR,	Buford, GA 30519
+0318	2	5430 Kahuku Rd,	Princeville, HI 96722
+0319	2	900 FRONT ST STE B5,	Lahaina, HI 96761
+0320	2	4-919 Kuhio Highway,	Kapaa, HI 96746
+0321	2	210 N Milwaukee St,	Boise, ID 83704
+0322	2	612 W GROVE ST,	Boise, ID 83702
+0323	2	106 E APPLEWAY AVE,	Coeur D Alene, ID 83814
+0324	3	3003 E 92nd St	(At S Commercial Ave)	Chicago, IL 60617
+0325	2	4443 N SHERIDAN RD,	Chicago, IL 60640
+0326	2	116 N GRANT ST,	Bloomington, IN 47408
+0327	2	1101 W MCGALLIARD RD,	Muncie, IN 47303
+0328	2	14929 W 119TH ST,	Olathe, KS 66062
+0329	2	3213 N TOBEN ST,	Wichita, KS 67226
+0330	2	649 S 4th Ave,	Louisville, KY 40202
+0331	2	7900 SHELBYVILLE RD,	Louisville, KY 40222
+0332	2	1613 N DIXIE HWY,	Elizabethtown, KY 42701
+0333	2	7521 JEFFERSON HWY,	Baton Rouge, LA 70806
+0334	3	311 Bourbon St.	(Bienville St.)	New Orleans, LA 70130
+0335	2	4041 Williams Blvd Ste B8,	Kenner, LA 70065
+0336	3	3127 Esplanade Ave	(Ponce de Leon St.)	New Orleans, LA 70119
+0337	3	230 Harvard St	(Btwn Sewall Ave & Webster St)	Brookline, MA 02446
+0338	3	939 Boylston St	(At Hereford St)	Boston, MA 02115
+0339	3	611 Dorchester Ave.	(Southampton St.)	South Boston, MA 02127
+0340	3	26 N. Market St.	(Patrick St.)	Frederick, MD 21707
+0341	3	4910 Elm St.	(Woodmont Ave.)	Bethesda, MD 20814
+0342	3	1002 W 36th St	(Roland Ave.)	Baltimore, MD 21211
+0343	2	1020 S Charles St,	Baltimore, MD 21230
+0344	3	185 Main St	(Conduit St.)	Annapolis, MD 21401
+0345	2	15 Oak St,	Rockland, ME 04841
+0346	2	58 PINE ST,	Portland, ME 04102
+0347	2	37 Main St,	Camden, ME 04843
+0348	2	32 Bath Rd,	Brunswick, ME 04011
+0349	2	9 UNION ST,	Portland, ME 04101
+0350	2	122 MAIN ST,	Fairfield, ME 04937
+0351	2	1223 2ND ST SW,	Rochester, MN 55902
+0352	2	7428 WASHINGTON ST,	Kansas City, MO 64114
+0353	2	1589 MARY VANCE LOOP,	Holly Springs, MS 38635
+0354	2	125 GRANDVIEW DR,	Madison, MS 39110
+0355	2	1925 HIGHWAY 15 N,	Laurel, MS 39440
+0356	2	2929 EXPO PKWY,	Missoula, MT 59808
+0357	2	1 Biltmore Ave,	Asheville, NC 28801
+0358	2	305 State St,	Greensboro, NC 27408
+0359	2	4410 17TH AVE S,	Fargo, ND 58103
+0360	2	14520 W MAPLE RD,	Omaha, NE 68116
+0361	2	1620 S 10th St,	Omaha, NE 68108
+0362	2	2 UPJOHN ST,	Bedford, NH 03110
+0363	2	310 DANIEL WEBSTER HWY,	Nashua, NH 03060
+0364	2	115 S ROUTE 73,	Berlin, NJ 08009
+0365	2	78 SPEEDWELL PL,	Morristown, NJ 07960
+0366	2	1590 W MALONEY AVE,	Gallup, NM 87301
+0367	2	4401 N Main St,	Las Cruces, NM 88012
+0368	2	275 West St,	Reno, NV 89501
+0369	3	3200 Las Vegas Blvd. S.	(Spring Mountain Rd.)	Las Vegas, NV 89109
+0370	2	385 North Winton Road,	Rochester, NY 14610
+0371	2	300 COLUMBUS AVE,	Sandusky, OH 44870
+0372	2	2106 State Route 603,	Ashland, OH 44805
+0373	2	2909 PASEO,	Oklahoma City, OK 73103
+0374	2	2905 W MEMORIAL RD,	Oklahoma City, OK 73134
+0375	2	12386 SW Main St,	Portland, OR 97223
+0376	2	6439 SW Macadam Ave,	Portland, OR 97201
+0377	2	384 W 13th Ave,	Eugene, OR 97401
+0378	3	99 S 17th St	(Chestnut St.)	Philadelphia, PA 19103
+0379	3	773 W Sproul Rd	(Btwn State Rd & W Woodland Ave)	Springfield, PA 19064
+0380	3	444 N. Fourth St.	(Btwn Spring Garden St & Callowhill St)	Philadelphia, PA 19123
+0381	2	1 Citizens Plz,	Providence, RI 02903
+0382	2	71 Bradford St,	Providence, RI 02903
+0383	2	1 Cookson Pl # 1,	Providence, RI 02903
+0384	2	1350 BALD HILL RD,	Warwick, RI 02886
+0385	2	1998 Cherry Rd,	Rock Hill, SC 29732
+0386	2	101 COLLEGE ST,	Greenville, SC 29601
+0387	2	2310 S LOUISE AVE,	Sioux Falls, SD 57106
+0388	2	1925 W MAIN ST,	Rapid City, SD 57702
+0389	2	7328 SHALLOWFORD RD,	Chattanooga, TN 37421
+0390	3	2400 Midlane St	(Westheimer Rd.)	Houston, TX 77027
+0391	3	100 Bradford Street	(3rd St.)	Kemah, TX 77565
+0392	2	1800 Parkwest Dr,	Park City, UT 84098
+0393	2	262 UT-73,	Lehi, UT 84043
+0394	2	821 W STATE RD,	American Fork, UT 84003
+0395	2	1460 N MAIN ST,	Logan, UT 84341
+0396	2	7 Fayette Dr,	South Burlington, VT 05403
+0397	2	620 19th St,	Virginia Beach, VA 23451
+0398	3	2901 E Madison St	(29th St.)	Seattle, WA 98112
+0399	2	23 CEDAR PARK DR,	Port Angeles, WA 98362
+0400	3	4220 E Madison St	(43rd Ave.)	Seattle, WA 98112
+0401	3	724 N Milwaukee St	(Mason St.)	Milwaukee, WI 53202
+0402	2	1028 S 9th St,	Milwaukee, WI 53204
+0403	2	550 W Tudor Rd,	Anchorage, AK 99503
+0404	2	101 Cushman St,	Fairbanks, AK 99701
+0405	2	10100 Lee Road 240,	Smiths Station, AL 36877
+0406	2	4920 LEE ROAD 430,	Smiths Station, AL 36877
+0407	2	2837 N POWER RD,	Mesa, AZ 85215
+0408	2	1065 W QUEEN CREEK RD,	Chandler, AZ 85248
+0409	2	16447 N SCOTTSDALE RD,	Scottsdale, AZ 85254
+0410	2	2501 W CAMELBACK RD,	Phoenix, AZ 85017
+0411	2	1674 SHATTUCK AVE,	Berkeley, CA 94709
+0412	3	9737 Santa Monica Blvd	(Btwn N Linden & N Roxbury Dr)	Beverly Hills, CA 90210
+0413	2	6527 Pacific Ave,	Stockton, CA 95207
+0414	2	3970 Broadway St,	Boulder, CO 80304
+0415	2	575 LINCOLN ST,	Denver, CO 80203
+0416	2	4955 S ULSTER ST,	Denver, CO 80237
+0417	2	2922 Baseline Rd,	Boulder, CO 80303
+0418	3	225 W Main St	(Rte. 202)	Avon, CT 06001
+0419	3	924 25th St NW	(bet. I & K Sts.)	Washington, DC 20037
+0420	3	3106 Mount Vernon Ave	(At Kennedy St)	Alexandria, DC 22305
+0421	3	1135 N Highland St	(Btwn Clarendon Blvd & 11th St N)	Arlington, DC 22201
+0422	2	3450 Naamans Rd,	Wilmington, DE 19810
+0423	2	374 E Chestnut Hill Rd,	Newark, DE 19713
+0424	2	107 Main St,	Wilmington, DE 19804
+0425	2	12014 E COLONIAL DR,	Orlando, FL 32826
+0426	3	264 Memorial Dr SE	(Hill St.)	Atlanta, GA 30312
+0427	2	4460 WASHINGTON RD STE 20,	Evans, GA 30809
+0428	2	3960 MARY ELIZA TRCE NW,	Marietta, GA 30064
+0429	2	7102 ABERCORN ST,	Savannah, GA 31406
+0430	3	2552 Kalakaua Ave., 3rd fl.	(Kapahulu Ave.)	Honolulu, HI 96815
+0431	2	75-1027 HENRY ST,	Kailua Kona, HI 96740
+0432	2	127 Lahainaluna Rd,	Lahaina, HI 96761
+0433	2	2600 Dodge St,	Dubuque, IA 52003
+0434	2	383 S 2ND W,	Rexburg, ID 83440
+0435	2	1306 BROADWAY AVE,	Boise, ID 83706
+0436	2	545 Shoshone St S,	Twin Falls, ID 83301
+0437	2	1515 W GROVE ST,	Boise, ID 83702
+0438	3	832 W. Randolph	(At N Green St)	Chicago, IL 60607
+0439	2	12422 ADAMS RD,	Granger, IN 46530
+0440	2	1691 W CURRY RD,	Greenwood, IN 46143
+0441	2	211 S GRANT ST,	Bloomington, IN 47408
+0442	2	10020 LIMA RD STE C,	Fort Wayne, IN 46818
+0443	2	1253 SOUTHPARK DR,	Greenwood, IN 46143
+0444	2	11904 SHAWNEE MISSION PKWY,	Shawnee, KS 66216
+0445	2	3090 HELMSDALE PL BLDG A,	Lexington, KY 40509
+0446	2	573 High St,	Dedham, MA 02026
+0447	2	177 CENTRE ST,	Malden, MA 02148
+0448	2	1 BETHESDA METRO CTR,	Bethesda, MD 20814
+0449	2	1510 CONOWINGO RD,	Bel Air, MD 21014
+0450	2	7101 DEMOCRACY BLVD,	Bethesda, MD 20817
+0451	2	3878 Town Center Blvd,	Bowie, MD 20716
+0452	2	32 Canal St,	Lewiston, ME 04240
+0453	2	20 UNION ST,	Auburn, ME 04210
+0454	2	201 S Main St,	Lawton, MI 49065
+0455	2	49624 VAN DYKE AVE,	Utica, MI 48317
+0456	3	19767 Mack Ave	(Allard Ave.)	Grosse Pointe, MI 48236
+0457	2	3491 12 MILE RD,	Berkley, MI 48072
+0458	2	7804 Olson Memorial Hwy,	Minneapolis, MN 55427
+0459	2	2450 GRAND BLVD STE 124,	Kansas City, MO 64108
+0460	2	1111 E REPUBLIC RD STE 164,	Springfield, MO 65807
+0461	2	310 W MADISON AVE,	Belgrade, MT 59714
+0462	2	770 KING PARK DR,	Billings, MT 59102
+0463	2	3 HOLIDAY WAY,	Butte, MT 59701
+0464	2	1502 W Innes St,	Salisbury, NC 28144
+0465	2	1629 UNIVERSITY DR S,	Fargo, ND 58103
+0466	2	307 Broadway St,	Thompson, ND 58278
+0467	2	219 Railway St,	Enderlin, ND 58027
+0468	2	2502 S 133RD PLZ,	Omaha, NE 68144
+0469	2	1206 HOWARD ST,	Omaha, NE 68102
+0470	2	636 N 114TH ST,	Omaha, NE 68154
+0471	2	2368 S 29 ST.,	Omaha, NE 68105
+0472	2	7 DOVER RD,	Durham, NH 03824
+0473	2	185 Chase Hill,	Albany, NH 03818
+0474	2	21 Roxbury St,	Keene, NH 03431
+0475	2	5 Spit Brook Rd,	Nashua, NH 03060
+0476	2	493 ATLANTIC CITY BLVD,	Bayville, NJ 08721
+0477	2	836 HIGHWAY 491,	Gallup, NM 87301
+0478	2	Academy at Wyoming,	Albuquerque, NM 87101
+0479	2	Coors & Central,	Albuquerque, NM 87121
+0480	2	8010 MOUNTAIN RD NE,	Albuquerque, NM 87110
+0481	2	1170 S. Wells,	Reno, NV 89502
+0482	3	3131 Las Vegas Blvd. S.	(bet. Desert Inn & Spring Mountain Rds.)	Las Vegas, NV 89109
+0483	2	2091 BRIERLEY WAY,	Sparks, NV 89434
+0484	2	624 MORRIS AVE,	Bronx, NY 10451
+0485	2	845 Merrick Rd,	Baldwin, NY 11510
+0486	2	309 COURT ST,	Brooklyn, NY 11231
+0487	2	257 FRANKLIN ST,	Buffalo, NY 14202
+0488	3	575 Hudson St	(Btwn W 11th & Bank St)	New York, NY 10014
+0489	2	44133 FAIRGROUND RD,	Caldwell, OH 43724
+0490	2	805 JEFFERSON ST,	Marietta, OH 45750
+0491	2	11101 E 41st St,	Tulsa, OK 74146
+0492	2	1139 NW 11TH AVE,	Portland, OR 97209
+0493	3	1907 Chestnut St	(At S 19th St)	Philadelphia, PA 19103
+0494	2	232 N York Rd,	Hatboro, PA 19040
+0495	3	328 E Woodland Ave	(Btwn Thatcher Rd & Barker Rd)	Springfield, PA 19064
+0496	2	1925 PAWTUCKET AVE,	East Providence, RI 02914
+0497	2	1070 Mendon Rd,	Cumberland, RI 02864
+0498	2	444 QUAKER LN UNIT 5,	Warwick, RI 02886
+0499	2	920 Axtell Dr,	Cayce, SC 29033
+0500	2	E Highway 16,	Plankinton, SD 57368
+0501	2	2100 HAMILTON PLACE BLVD,	Chattanooga, TN 37421
+0502	2	1655 Leach Rd,	Huntingdon, TN 38344
+0503	2	1916 Columbia Ave,	Franklin, TN 37064
+0504	2	4304 Westheimer At Mid Lane,	Houston, TX 77027
+0505	2	5085 WESTHEIMER RD,	Houston, TX 77056
+0506	2	1545 N CANYON RD,	Provo, UT 84604
+0507	2	196 W 500 S,	Bountiful, UT 84010
+0508	2	1733 W ROYAL HUNTE DR,	Cedar City, UT 84720
+0509	2	1091 N BLUFF ST BLDG 400,	Saint George, UT 84770
+0510	2	142 S MAIN ST,	Rutland, VT 05701
+0511	2	Main Street,	Windsor, VT 05089
+0512	2	612 ALBEMARLE SQ,	Charlottesville, VA 22901
+0513	2	7929 HERITAGE VILLAGE PLZ,	Gainesville, VA 20155
+0514	3	809 Fairview Pl N	(Valley St.)	Seattle, WA 98109
+0515	2	651 W MAIN ST,	Chehalis, WA 98532
+0516	2	1185 N PORT WASHINGTON RD,	Grafton, WI 53024
+0517	2	126 Wisconsin Dells Pkwy,	Lake Delton, WI 53940
+0518	2	122 N GEORGE ST,	Charles Town, WV 25414
+0519	2	489 EMILY DR,	Clarksburg, WV 26301
+0520	2	200 E 18th St,	Cheyenne, WY 82001
+0521	2	977 W Main St,	Lander, WY 82520
+0522	2	1038 E Pershing Blvd,	Cheyenne, WY 82001
+0523	2	1701 8th St,	Cody, WY 82414
+0524	2	3001 Spenard Rd,	Anchorage, AK 99503
+0525	2	1407 Frankiln Rd,	Tuskegee, AL 36083
+0526	2	15228 Interstate 30,	Benton, AR 72015
+0527	2	8909 Rogers Ave,	Fort Smith, AR 72903
+0528	2	5930 W GREENWAY RD,	Glendale, AZ 85306
+0529	2	3554 W GLENDALE AVE,	Phoenix, AZ 85051
+0530	2	11219 E VIA LINDA,	Scottsdale, AZ 85259
+0531	2	1600 GLENARM PL,	Denver, CO 80202
+0532	2	2311 CLOVER BASIN DR,	Longmont, CO 80503
+0533	2	3165 W 38TH AVE,	Denver, CO 80211
+0534	2	142 HOWE ST,	New Haven, CT 06511
+0535	3	986 Farmington Ave	(Main St.)	West Hartford, CT 06107
+0536	3	1532 N Capitol St NW	(At Bates St NW)	Washington, DC 20002
+0537	2	2000 Mt. Vernon Ave.,	Alexandria, VA 22301
+0538	3	111 Bradley Pl	(Btwn S Narcissus Ave & S Flagler Dr)	Palm Beach, FL 33480
+0539	3	230 Sunrise Ave #A	(Btwn Coastal Way & Ocean Cove Dr)	Palm Beach, FL 33480
+0540	2	1283 BAYSHORE BLVD,	Dunedin, FL 34698
+0541	2	63 PRICE QUARTERS RD,	Mcdonough, GA 30253
+0542	3	233 S Wacker Dr	(Btwn W Jackson St & W Van Buren St)	Chicago, IL 60606
+0543	3	1561 N Milwaukee Ave	(At W North Ave)	Chicago, IL 60622
+0544	2	406 POYNTZ AVE,	Manhattan, KS 66502
+0545	2	1909 BLANKENBAKER PKWY,	Louisville, KY 40299
+0546	2	5444 NEW CUT RD,	Louisville, KY 40214
+0547	2	6300 Bardstown Rd,	Louisville, KY 40291
+0548	2	2918 HIKES LN,	Louisville, KY 40218
+0549	2	226 BLANCHARD ST,	West Monroe, LA 71291
+0550	2	1200 N HIGHWAY 190,	Covington, LA 70433
+0551	3	601 Gallier St.	(Chartres St.)	New Orleans, LA 70117
+0552	3	1300 St. Charles Ave.	(Erato St.)	New Orleans, LA 70130
+0553	3	800 Tchoupitoulas St	(Julia St.)	New Orleans, LA 70130
+0554	2	868 Broadway,	Somerville, MA 02144
+0555	3	1271 Cambridge St	(At Prospect St)	Cambridge, MA 02139
+0556	2	1269 CAMBRIDGE ST,	Cambridge, MA 02139
+0557	3	528 Commonwealth Ave.	(At Beacon St.)	Boston, MA 02215
+0558	2	8601 Baltimore Ave,	College Park, MD 20740
+0559	2	4027 EASTERN AVE,	Baltimore, MD 21224
+0560	2	3117 SAINT PAUL ST,	Baltimore, MD 21218
+0561	2	333 Clarks Pond Pkwy,	South Portland, ME 04106
+0562	2	P O Box 149,	Tenants Harbor, ME 04860
+0563	2	6038 KALAMAZOO AVE SE,	Grand Rapids, MI 49508
+0564	2	10999 RED CIRCLE DR,	Hopkins, MN 55343
+0565	2	212 N KINGSHIGHWAY BLVD,	Saint Louis, MO 63108
+0566	2	707 W 47th St,	Kansas City, MO 64112
+0567	2	210 SW STATE ROUTE 7,	Blue Springs, MO 64014
+0568	2	1138 HIGHWAY 15 N,	Laurel, MS 39440
+0569	2	653 ELDORADO RD,	Jackson, MS 39208
+0570	2	902 2nd St NW,	Harlowton, MT 59036
+0571	2	13801 Indian Trl Fairview Rd,	Indian Trail, NC 28079
+0572	2	202 W Nc-54,	Durham, NC 27713
+0573	2	800 N MAIN ST STE J,	Kernersville, NC 27284
+0574	2	RR 1,	Henderson, NE 68371
+0575	2	2 Cote Ln Unit 5,	Bedford, NH 03110
+0576	1	Wolfeboro, NH 03894
+0577	3	322 Chamberlain Ave	(bet. Preakness & Redwood Aves.)	Paterson, NJ 07502
+0578	3	118 Walnut St.	(Forest St.)	Montclair, NJ 07042
+0579	2	1601 S Virginia St,	Reno, NV 89502
+0580	2	4300 MEADOWS LN,	Las Vegas, NV 89107
+0581	3	235 E. Fourth St.	(Btwn Ave B & Ave A)	Manhattan, NY 10009
+0582	3	116A 10th Ave	(Btwn 17th & 18th St)	New York, NY 10011
+0583	2	1319 1st St,	Sandusky, OH 44870
+0584	2	6035 SOM CENTER RD,	Willoughby, OH 44094
+0585	2	7061 Chillicothe Rd,	Mentor, OH 44060
+0586	2	414 W RENO AVE,	Oklahoma City, OK 73102
+0587	2	1845 NW EXPRESSWAY ST,	Oklahoma City, OK 73118
+0588	2	320 SW Alder St,	Portland, OR 97204
+0589	2	4607 SE BOARDMAN AVE,	Portland, OR 97267
+0590	3	1405 Locust St	(At S Broad St)	Philadelphia, PA 19102
+0591	2	2270 E STATE ST,	Hermitage, PA 16148
+0592	2	1149 DIVISION RD,	East Greenwich, RI 02818
+0593	2	205 E Bay St,	Charleston, SC 29401
+0594	2	715 Crowson Rd,	Columbia, SC 29205
+0595	2	741 CROSSROADS PLZ,	Fort Mill, SC 29708
+0596	2	7010 Lee Hwy,	Chattanooga, TN 37421
+0597	2	9045 Hwy 64, Suite 101,	Arlington, TN 38002
+0598	2	401 W Main St,	Lebanon, TN 37087
+0599	2	254 N Church Ave,	Henderson, TN 38340
+0600	2	1880 Highway 69 S,	Paris, TN 38242
+0601	2	3918 N Lamar Blvd,	Austin, TX 78756
+0602	2	418 N Beltway 8,	Houston, TX 77060
+0603	2	5009 Westone Plaza,	Chantilly, VA 20151
+0604	3	146 Maple Ave W	(Btwn Center St S & Courthouse Rd SW)	Vienna, VA 22180
+0605	2	1900 E Main St,	Richmond, VA 23223
+0606	2	5215 PLAZA DR,	Hopewell, VA 23860
+0607	2	2151 Arlington Blvd,	Arlington, VA 22201
+0608	2	1200 COOPER POINT RD SW,	Olympia, WA 98502
+0609	2	1025 STAFFORD DR,	Princeton, WV 24740
+0610	2	226 Three Springs Dr,	Weirton, WV 26062
+0611	2	1900 Glenn Hwy,	Palmer, AK 99645
+0612	2	1240 OLD MORRILTON HWY,	Conway, AR 72032
+0613	2	15603 N 59TH AVE,	Glendale, AZ 85306
+0614	2	8697 San Ysidro Avenue,	Gilroy, CA 95020
+0615	2	1735 19TH ST,	Denver, CO 80202
+0616	2	825 Colorado Blvd,	Denver, CO 80206
+0617	2	1314 Pearl St,	Boulder, CO 80302
+0618	2	8260 S QUEBEC ST,	Englewood, CO 80112
+0619	2	255 S Main St,	Newtown, CT 06470
+0620	2	65 COLUMBUS BLVD,	New Britain, CT 06051
+0621	2	83 ATLANTIC ST,	Stamford, CT 06901
+0622	3	2909 Wilson Blvd	(Btwn N Fillmore St & N Garfield St)	Arlington, DC 22201
+0623	3	600 Franklin St	(At S Washington St)	Alexandria, DC 22314
+0624	2	2045 S. Tamiami Trail,	Venice, FL 34293
+0625	2	3155 Highway 27,	Cataula, GA 31804
+0626	2	157 Commerce Ave.,	Lagrange, GA 30240
+0627	2	3061 "E" North Columbia St.,	Milledgeville, GA 31061
+0628	2	218 Peachtree St NW,	Atlanta, GA 30303
+0629	2	1110 E KIMBERLY RD,	Davenport, IA 52807
+0630	2	4333 YELLOWSTONE AVE,	Pocatello, ID 83202
+0631	2	3161 E FAIRVIEW AVE,	Meridian, ID 83642
+0632	3	1050 E Northwest Hwy	(Kelsey Rd.)	Fox River Grove, IL 60021
+0633	2	1706 W FOSTER AVE,	Chicago, IL 60640
+0634	2	7201 W 25TH ST,	Riverside, IL 60546
+0635	2	1351 VETERANS PKWY,	Clarksville, IN 47129
+0636	2	6402 GRAPE RD,	Mishawaka, IN 46545
+0637	2	127 N MAIN ST,	South Bend, IN 46601
+0638	2	1320 VILLAGE WEST PKWY,	Kansas City, KS 66111
+0639	3	9520 Metcalf Ave	(95th St.)	Shawnee Mission, KS 66212
+0640	2	12040 BLUE VALLEY PKWY,	Overland Park, KS 66213
+0641	2	9916 College Blvd,	Shawnee Mission, KS 66210
+0642	2	4931 HOUSTON RD,	Florence, KY 41042
+0643	2	8605 CITADEL WAY,	Louisville, KY 40220
+0644	2	3398 BARDSTOWN RD,	Louisville, KY 40218
+0645	2	319 East Main St.,	Jonesboro, LA 71251
+0646	2	6252 Hwy. 167 North,	Winnfield, LA 71483
+0647	2	3232 WILLIAMS BLVD,	Kenner, LA 70065
+0648	2	7141 YOUREE DR STE 100,	Shreveport, LA 71105
+0649	2	181 JENNIFER RD,	Annapolis, MD 21401
+0650	2	73 CONGRESS ST STE A,	Portland, ME 04101
+0651	2	8 Bow St,	Freeport, ME 04032
+0652	2	24041 Dequindre Rd,	Hazel Park, MI 48030
+0653	2	32748 WOODWARD AVE,	Royal Oak, MI 48073
+0654	2	201 S. Jefferson,	Hastings, MI 49058
+0655	2	138 S WAVERLY RD,	Lansing, MI 48917
+0656	3	23879 Eureka	(Eureka and Telegraph)	Taylor, MI 48180
+0657	2	15092 Claret Ave.,	Rosemount, MN 55068
+0658	2	103 A West Church Street, P. O. Box 821,	Ozark, MO 65721
+0659	2	997 STATE HIGHWAY 165,	Branson, MO 65616
+0660	2	500 S Canal St,	Natchez, MS 39120
+0661	2	1230 N 7TH AVE,	Bozeman, MT 59715
+0662	2	2915 N RESERVE ST,	Missoula, MT 59808
+0663	2	3035 Legion Road,	Fayetteville, NC 28306
+0664	2	1560 Fairgrove Church Rd.,	Conover, NC 28613
+0665	2	4954 NC 33 East,	Greenville, NC 27858
+0666	2	407 East South Main St.,	Waxhaw, NC 28173
+0667	2	1203 S Croatan Hwy,	Kill Devil Hills, NC 27948
+0668	2	2750 PINE LAKE RD,	Lincoln, NE 68516
+0669	2	140 REGENCY PKWY,	Omaha, NE 68114
+0670	2	456 Daniel Webster Hwy,	Merrimack, NH 03054
+0671	3	331 Bloomfield Ave.	(bet. Grove & Willow Sts.)	Montclair, NJ 07042
+0672	2	619 BLOOMFIELD AVE,	Bloomfield, NJ 07003
+0673	2	14 E MAIN ST,	Freehold, NJ 07728
+0674	2	281 KINDERKAMACK RD,	Oradell, NJ 07649
+0675	2	408 STOKES RD,	Medford, NJ 08055
+0676	2	4301 THE LANE AT 25 NE,	Albuquerque, NM 87109
+0677	2	2400 Central Ave SE,	Albuquerque, NM 87106
+0678	2	2340 E GRIGGS AVE,	Las Cruces, NM 88001
+0679	2	1106 Grand Ave,	Las Vegas, NM 87701
+0680	2	10580 N McCarran Blvd Ste 109,	Reno, NV 89503
+0681	2	3005 Skyline Blvd. Ste 100,	Reno, NV 89509
+0682	2	1290 W WARM SPRINGS RD,	Henderson, NV 89014
+0683	3	8721 W. Charleston Blvd.	(bet. Durango Dr. & Rampart Blvd.)	Las Vegas, NV 89117
+0684	2	413 Park Ave.,	Corning, NY 14830
+0685	3	476 Smith St	(At W 9th St)	Brooklyn, NY 11215
+0686	3	150 E 52nd St	(Btwn Lexington & 3rd Ave)	New York, NY 10022
+0687	3	102 Fox Island Rd.	(Grace Church St.)	Port Chester, NY 10573
+0688	2	09915 US Route 127,	Sherwood, OH 43556
+0689	2	6104 E 71st St,	Tulsa, OK 74136
+0690	2	3031 W MEMORIAL RD,	Oklahoma City, OK 73134
+0691	2	10825 E 71ST ST,	Tulsa, OK 74133
+0692	2	1001 SW First Street,	Canby, OR 97013
+0693	2	639 GREAT RD,	North Smithfield, RI 02896
+0694	2	186 MAIN ST,	East Greenwich, RI 02818
+0695	2	4221 Hardscrabble Rd.,	Columbia, SC 29229
+0696	2	996 PINE LOG RD,	Aiken, SC 29803
+0697	2	105 INTERSTATE BLVD,	Anderson, SC 29621
+0698	2	2143 LOWES DR,	Clarksville, TN 37040
+0699	2	201 KEITH ST SW STE 18,	Cleveland, TN 37311
+0700	2	205 MANUFACTURERS RD,	Chattanooga, TN 37405
+0701	2	7531 Barnett Way,	Powell, TN 37849
+0702	2	4738 BEECHNUT ST,	Houston, TX 77096
+0703	2	214 W 4th St,	Austin, TX 78701
+0704	2	5627 W. 13100 S.,	Herriman, UT 84065
+0705	2	20 S 400 W,	Salt Lake City, UT 84101
+0706	2	393 S RIVER RD,	Saint George, UT 84790
+0707	2	12361 MINUTEMAN DR,	Draper, UT 84020
+0708	2	651 W ANTELOPE DR,	Layton, UT 84041
+0709	2	4870 Yelm Hwy SE,	Lacey, WA 98503
+0710	2	120 BELLEVUE WAY NE,	Bellevue, WA 98004
+0711	2	3301 Perimeter St,	Middleton, WI 53562
+0712	2	10404 N PORT WASHINGTON RD,	Thiensville, WI 53092
+0713	2	23 East Piedmont Street,	Keyser, WV 26726
+0714	2	706 2ND AVE,	Fairbanks, AK 99701
+0715	2	4520 UNION SQUARE DR,	Anchorage, AK 99503
+0716	2	1910 QUINTARD AVE,	Anniston, AL AL
+0717	2	101 CAHABA VALLEY PKWY W,	Pelham, AL 35124
+0718	2	15604 INTERSTATE 30,	Benton, AR 72019
+0719	2	105 E Walnut St,	Paris, AR 72855
+0720	2	6750 W PEORIA AVE,	Peoria, AZ 85345
+0721	2	4400 S RURAL RD,	Tempe, AZ 85282
+0722	2	4420 E Camelback Rd # A,	Phoenix, AZ 85018
+0723	2	1015 9TH ST,	Sacramento, CA 95814
+0724	3	247 N Gaffey St	(At W Santa Cruz St)	San Pedro, CA 90731
+0725	3	2383 Lomita Blvd #102	(At Pennsylvania Ave)	Lomita, CA 90717
+0726	3	982 S. Westlake Blvd.	(Townsgate Rd.)	Westlake Village, CA 91361
+0727	2	1622 BROADWAY ST,	Boulder, CO 80302
+0728	3	1333 Boston Post Rd	(bet. Old Post & Tompkins Rds.)	Old Saybrook, CT 06475
+0729	3	950 15th St NW	(Btwn I St NW & K St NW)	Washington, DC 20005
+0730	3	2465 18th St NW	(Btwn Columbia Rd & Belmond Rd NW)	Washington, DC 20009
+0731	3	727 15th St. NW	(H St.)	Washington, DC 20005
+0732	3	2816 Graham Rd	(Btwn Lee Hwy & Oakland Ave)	Falls Church, DC 22042
+0733	2	2222 Silverside Rd,	Wilmington, DE 19810
+0734	2	36 N Walnut St,	Milford, DE 19963
+0735	3	2389 Wilton Dr.	(Btwn NE 8th Ter & NE 8th Ave)	Wilton Manors, FL 33305
+0736	2	615 CHANNELSIDE DR,	Tampa, FL 33602
+0737	3	2608 Sawgrass Mills Cir , #1303	(At Pink Flamingo Ln)	Sunrise, FL 33323
+0738	2	1205 W WALNUT AVE,	Dalton, GA 30720
+0739	3	2005 Kalia Rd.	(Ala Moana Blvd.)	Honolulu, HI 96815
+0740	2	1 N Kaniku Dr,	Kamuela, HI 96743
+0741	2	5270 UTICA RIDGE RD,	Davenport, IA 52807
+0742	2	6301 UNIVERSITY AVE,	Cedar Falls, IA 50613
+0743	2	1451 CORAL RIDGE AVE,	Coralville, IA 52241
+0744	2	850 YELLOWSTONE AVE,	Pocatello, ID 83201
+0745	2	1823 BLUE LAKES BLVD N,	Twin Falls, ID 83301
+0746	2	800 W IDAHO ST,	Boise, ID 83702
+0747	2	3801 NATIONAL RD E,	Richmond, IN 47374
+0748	2	3451 N Nebo Rd,	Muncie, IN 47304
+0749	2	13505 S MUR-Len Rd,	Olathe, KS 66062
+0750	2	117 E 11TH ST,	Hays, KS 67601
+0751	2	4111 SHAWNEE DR,	Kansas City, KS 66106
+0752	2	8449 US HIGHWAY 42,	Florence, KY 41042
+0753	2	488 ORPHANAGE RD,	Ft Mitchell, KY 41017
+0754	2	100 IKEBANA PATH,	Georgetown, KY 40324
+0755	2	435 HUEY P LONG AVE,	Gretna, LA 70053
+0756	2	5252 S SHERWOOD FOREST BLVD,	Baton Rouge, LA 70816
+0757	2	3110 AMBASSADOR CAFFERY PKWY,	Lafayette, LA 70506
+0758	2	571 TREMONT ST,	Boston, MA 02118
+0759	3	West Hwy.	(Georgia Ave.)	Silver Spring, MD 20910
+0760	2	1053 FOREST AVE,	Portland, ME 04103
+0761	2	42 Maine St,	Brunswick, ME 04011
+0762	2	540 Forest Ave,	Portland, ME 04101
+0763	2	34 Ocean Ave,	Scarborough, ME 04074
+0764	2	68 W Chicago St,	Coldwater, MI 49036
+0765	2	31230 HARPER AVE,	Saint Clair Shores, MI 48082
+0766	2	209 Diamond Ave SE,	Grand Rapids, MI 49506
+0767	2	116 EVERGREEN DR,	Sartell, MN 56377
+0768	2	2917 LYNDALE AVE S,	Minneapolis, MN 55408
+0769	2	3460 Galleria,	Minneapolis, MN 55435
+0770	2	4502 Hampton Avenue,	Saint Louis, MO 63109
+0771	2	2101 W BROADWAY,	Columbia, MO 65203
+0772	2	607 NE WOODS CHAPEL RD,	Lees Summit, MO 64064
+0773	2	73 CHARLESTON CT,	Saint Peters, MO 63376
+0774	2	1404 Old Aberdeen Rd,	Columbus, MS 39705
+0775	2	988 TOP ST,	Flowood, MS 39232
+0776	2	1200 E COUNTY LINE RD STE 221,	Ridgeland, MS 39157
+0777	2	1624 MARKET PLACE DR,	Great Falls, MT 59404
+0778	2	PO Box 160195,	Big Sky, MT 59716
+0779	2	921 Eastchester Dr,	High Point, NC 27262
+0780	2	1506 Us-70 W,	Garner, NC 27529
+0781	2	1331 Gateway Dr,	Fargo, ND 58103
+0782	2	412 Main St,	Gackle, ND 58442
+0783	2	3940 N 26TH ST,	Lincoln, NE 68521
+0784	2	6150 O ST,	Lincoln, NE 68510
+0785	2	330 S 10th St Ste 110,	Lincoln, NE 68508
+0786	2	4412 S 42nd Ave,	Omaha, NE 68107
+0787	2	62 LOWELL ST,	Manchester, NH 03101
+0788	2	325 Lafayette Rd,	Hampton, NH 03842
+0789	2	381 BLOOMFIELD AVE,	Montclair, NJ 07042
+0790	2	77 GODWIN AVE,	Ridgewood, NJ 07450
+0791	2	3500 CENTRAL AVE SE,	Albuquerque, NM 87106
+0792	2	2811 S. Carson St.,	Carson City, NV 89701
+0793	2	3987 Paradise Rd,	Las Vegas, NV 89109
+0794	3	44 W 45th St	(Btwn 5th & 6th Ave)	New York, NY 10036
+0795	2	601 Finley St,	Fostoria, OH 44830
+0796	2	87 West St,	Chagrin Falls, OH 44022
+0797	2	637 OHIO PIKE,	Cincinnati, OH 45245
+0798	2	3009 PASEO,	Oklahoma City, OK 73103
+0799	2	7000 Crossroads Mall,	Oklahoma City, OK 73149
+0800	2	7021 S MEMORIAL DR # 266-B,	Tulsa, OK 74133
+0801	2	423 W SHAWNEE ST,	Muskogee, OK 74401
+0802	2	15775 SE McLoughlin Blvd,	Portland, OR 97267
+0803	2	2588 Willamette St,	Eugene, OR 97405
+0804	2	469 SW 1st Ave,	Canby, OR 97013
+0805	2	77 CLAIRTON BLVD,	Pittsburgh, PA 15236
+0806	2	222 Eden Rd,	Lancaster, PA 17601
+0807	2	641 WARWICK AVE,	Warwick, RI 02888
+0808	2	1251 Warwick Ave,	Warwick, RI 02888
+0809	2	Portman Marina,	Anderson, SC 29621
+0810	2	98 Broad St,	Charleston, SC 29401
+0811	2	679 GERVAIS ST,	Columbia, SC 29201
+0812	2	3015 6th Ave SE,	Aberdeen, SD 57401
+0813	2	7025 Shallowford Rd,	Chattanooga, TN 37421
+0814	2	2811 WILMA RUDOLPH BLVD,	Clarksville, TN 37040
+0815	2	3300 Keith St NW,	Cleveland, TN 37312
+0816	2	340 Highway 64,	Benton, TN 37307
+0817	2	200 PAUL HUFF PKWY NW # 214,	Cleveland, TN 37312
+0818	2	15917 HIGHWAY 105 W,	Montgomery, TX 77356
+0819	2	9415 Burnet Rd Ste 106,	Austin, TX 78758
+0820	2	9105 REDWOOD RD,	West Jordan, UT 84088
+0821	2	185 E 12300 S,	Draper, UT 84020
+0822	2	RR 11 &30,	Manchester Center, VT 05255
+0823	3	722 King St	(bet. Columbus & Washington Sts.)	Alexandria, VA 22314
+0824	2	2816 Graham Rd,	Falls Church, VA 22042
+0825	2	153 College Ave,	Blacksburg, VA 24060
+0826	3	1129 Broadway	(bet S. 11th & S. 13th Sts.)	Tacoma, WA 98402
+0827	2	10015 Main St,	Bothell, WA 98011
+0828	2	23209 56TH AVE W,	Mountlake Terrace, WA 98043
+0829	3	600 Pine St.	(6th St.)	Seattle, WA 98101
+0830	2	610 5TH AVE S,	Edmonds, WA 98020
+0831	2	2105 SHERMAN AVE,	Madison, WI 53704
+0832	2	725 N Mayfair Rd,	Wauwatosa, WI 53226
+0833	2	1109 FOURIER DR,	Madison, WI 53717
+0834	2	9801 Mall Rd,	Morgantown, WV 26501
+0835	2	190 OAK LEE DR,	Ranson, WV 25438
+0836	2	412 NEW GOFF MOUNTAIN RD,	Charleston, WV 25313
+0837	2	126 Main St,	Lander, WY 82520
+0838	2	2700 S Douglas Hwy,	Gillette, WY 82718
+0839	2	718 Muldoon Rd,	Anchorage, AK 99504
+0840	2	2 Marine Way Ste 106,	Juneau, AK 99801
+0841	2	5303 Us-280,	Birmingham, AL 35242
+0842	2	4730 University Dr NW,	Huntsville, AL 35816
+0843	2	2901 N College Ave,	Fayetteville, AR 72703
+0844	2	4143 N Shiloh Dr,	Fayetteville, AR 72703
+0845	2	7014 E CAMELBACK RD,	Scottsdale, AZ 85251
+0846	2	5000 S ARIZONA MILLS CIR,	Tempe, AZ 85282
+0847	2	10321 N SCOTTSDALE RD,	Paradise Valley, AZ 85253
+0848	2	5111 N 7TH ST,	Phoenix, AZ 85014
+0849	3	2927 S Sepulveda Blvd	(Btwn National Blvd & Sardis Ave)	Los Angeles, CA 90064
+0850	2	235 University Ave,	Berkeley, CA 94710
+0851	2	1055 5th Ave,	San Diego, CA 92101
+0852	2	1135 13TH ST,	Boulder, CO 80302
+0853	2	24291 E ORCHARD RD,	Aurora, CO 80016
+0854	3	70 N. Main St.	(West Ave.)	South Norwalk, CT 06854
+0855	2	136 MAIN ST,	New Britain, CT 06051
+0856	2	140 HAMILTON AVE,	Greenwich, CT 06830
+0857	3	4904 Fairmont Ave	(At Norfolk Ave)	Bethesda, DC 20814
+0858	3	10400 Old Georgetown Rd	(At Democracy Blvd)	Bethesda, DC 20814
+0859	2	8225 NATURES WAY,	Bradenton, FL 34202
+0860	2	1424 N Expy,	Griffin, GA 30223
+0861	2	10 F Thomas Grace Annex Lane,	Sharpsburg, GA 30277
+0862	2	110 E Kimberly Rd,	Davenport, IA 52806
+0863	2	2455 Harrison Holw,	Boise, ID 83702
+0864	2	1501 N 13TH ST,	Boise, ID 83702
+0865	2	404 E PARKCENTER BLVD,	Boise, ID 83706
+0866	2	669 PIONEER RD,	Rexburg, ID 83440
+0867	2	123rd & La Grange Rd,	Palos Park, IL 60464
+0868	3	1055 W. Argyle St.	(Btwn N Kenmore & N Winthrop Ave)	Chicago, IL 60640
+0869	2	5460 BROADWAY,	Merrillville, IN 46410
+0870	2	211 E DAY RD,	Mishawaka, IN 46545
+0871	2	418 Poyntz Ave,	Manhattan, KS 66502
+0872	2	11051 Antioch Rd,	Shawnee Mission, KS 66210
+0873	2	608 N 12th St,	Manhattan, KS 66502
+0874	2	1582 BARDSTOWN RD,	Louisville, KY 40205
+0875	2	2807 TOWN CENTER BLVD,	Ft Mitchell, KY 41017
+0876	2	329 FLORIDA ST,	Baton Rouge, LA 70801
+0877	2	3439 HIGHWAY 190,	Mandeville, LA 70471
+0878	2	701 Saint Charles Ave,	New Orleans, LA 70130
+0879	3	23 Dartmouth St	(At Montgomery)	Boston, MA 02116
+0880	2	820 BOSTON POST RD E,	Marlborough, MA 01752
+0881	2	509 Concord St,	Framingham, MA 01702
+0882	2	10400 Old Georgetown Rd,	Bethesda, MD 20814
+0883	2	7301 WOODMONT AVE,	Bethesda, MD 20814
+0884	3	4904 Fairmont Ave	(Norfolk Ave.)	Bethesda, MD 20814
+0885	2	8145 Baltimore Ave.,	College Park, MD 20740
+0886	2	School St,	Unity, ME 04988
+0887	2	517 US Route 1,	Kittery, ME 03904
+0888	2	110 Battle Aly,	Holly, MI 48442
+0889	2	2682 E Grand River Ave,	East Lansing, MI 48823
+0890	2	14000 LAKESIDE CIR,	Sterling Heights, MI 48313
+0891	2	31202 Schoenherr,	Warren, MI 48093
+0892	2	1402 E COLLEGE DR,	Marshall, MN 56258
+0893	2	106 N 3RD ST,	Minneapolis, MN 55401
+0894	3	89 S. 10th St.	(bet. Marquette & Nicollet Aves.)	Minneapolis, MN 55403
+0895	2	12950 ALDRICH AVE S,	Burnsville, MN 55337
+0896	2	State Road Hh,	Lake Ozark, MO 65049
+0897	2	3425 N Highway 67,	Florissant, MO 63033
+0898	2	777 BEACH BLVD,	Biloxi, MS 39530
+0899	2	2807 Old Canton Rd,	Jackson, MS 39216
+0900	2	425 Grand Dr,	Bigfork, MT 59911
+0901	2	2110 Harvard Ave,	Butte, MT 59701
+0902	2	72 Weaverville Rd,	Asheville, NC 28804
+0903	2	2909 S WASHINGTON ST,	Grand Forks, ND 58201
+0904	2	1055 E Interstate Ave,	Bismarck, ND 58503
+0905	2	135 Colton Ave,	Burlington, ND 58722
+0906	2	662 6th Ave N,	Fargo, ND 58102
+0907	2	149 HANOVER ST,	Manchester, NH 03101
+0908	2	327 S BROADWAY,	Salem, NH 03079
+0909	2	11 Lafayette Rd,	Hampton Falls, NH 03844
+0910	2	179 Carter Notch Road,	Jackson, NH 03846
+0911	2	47 THE PROMENADE,	Edgewater, NJ 07020
+0912	2	358 MILLBURN AVE,	Millburn, NJ 07041
+0913	2	1640 Saint Michaels Dr,	Santa Fe, NM 87505
+0914	3	6800 W. Sahara Ave.	(Rainbow Blvd.)	Las Vegas, NV 89146
+0915	3	215 W Main St	(Edgewood Ave.)	Smithtown, NY 11787
+0916	2	3911 BELL BLVD,	Bayside, NY 11361
+0917	2	577 BUCHANAN AVE,	Norman, OK 73069
+0918	2	160 N GULPH RD,	King Of Prussia, PA 19406
+0919	2	16 WILMINGTON W CHESTER PIKE,	Chadds Ford, PA 19317
+0920	2	Baltimore Pike & Route 100,	Chadds Ford, PA 19317
+0921	3	9916 Roosevelt Blvd	(Btwn Red Lion Rd & Whitten St)	Philadelphia, PA 19115
+0922	2	38 WATER ST,	East Greenwich, RI 02818
+0923	2	1210 Oaklawn Ave,	Cranston, RI 02920
+0924	2	10 HAYNE ST,	Charleston, SC 29401
+0925	2	9001 TWO NOTCH RD,	Columbia, SC 29223
+0926	2	102 COMMONS DR,	Greenwood, SC 29649
+0927	2	321 7TH ST,	Rapid City, SD 57701
+0928	2	5912 E Brainerd Rd,	Chattanooga, TN 37421
+0929	3	709 E. Sixth St.	(Colorado St.)	Austin, TX 78701
+0930	2	1000 N 400 E,	Logan, UT 84341
+0931	2	73 E 400 S,	Salt Lake City, UT 84111
+0932	2	4445 W 3500 S,	Salt Lake City, UT 84120
+0933	2	782 Us-7,	Bennington, VT 05201
+0934	2	16 Church St,	Burlington, VT 05401
+0935	3	1026 King St.	(bet. Henry & Patrick Sts.)	Alexandria, VA 22314
+0936	3	4301 Leary Way NW	(bet. 7th & 8th Aves.)	Seattle, WA 98107
+0937	3	2701 E. Madison St.	(27th Ave.)	Seattle, WA 98112
+0938	2	4911 196TH ST SW,	Lynnwood, WA 98036
+0939	3	1410 34th Ave	(Union St.)	Seattle, WA 98122
+0940	2	2178 N PROSPECT AVE,	Milwaukee, WI 53202
+0941	2	6022 US ROUTE 60 E,	Barboursville, WV 25504
+0942	2	3417 University Ave,	Morgantown, WV 26505
+0943	2	587 W Highway 14A,	Byron, WY 82412
+0944	2	1660 Dell Range Blvd,	Cheyenne, WY 82009
+0945	2	400 Sitka St,	Anchorage, AK 99501
+0946	2	3407 ROSS CLARK CIR,	Dothan, AL 36303
+0947	2	3747 HIGHWAY 431 N,	Phenix City, AL 36867
+0948	2	7809 ROGERS AVE,	Fort Smith, AR 72903
+0949	2	3837 CENTRAL AVE,	Hot Springs National Park, AR 71913
+0950	2	4604 W WALNUT ST,	Rogers, AR 72756
+0951	2	11144 N FRANK LLOYD WRIGHT BLVD,	Scottsdale, AZ 85259
+0952	2	502 S COLLEGE AVE,	Tempe, AZ 85281
+0953	2	2064 E FLORENCE BLVD,	Casa Grande, AZ 85222
+0954	2	1675 28TH ST,	Boulder, CO 80301
+0955	3	39 High St	(bet. Chapel & Crown Sts.)	New Haven, CT 06510
+0956	3	1110 Vermont Ave NW	(At L St NW)	Washington, DC 20005
+0957	2	419 Highland Dr.,	Kohler, WI 53044
+0958	2	75 Union Sq.,	Somerville, MA 02143
+0959	3	233 W Lantana Rd	(Btwn N Federal Hway & N 3rd St)	Lake Worth, FL 33462
+0960	2	1657 MICHIGAN AVE,	Miami Beach, FL 33139
+0961	2	320 DIRKSEN DR,	Debary, FL 32713
+0962	2	2514 E WALNUT AVE,	Dalton, GA 30721
+0963	2	19 JEFFERSON ST,	Savannah, GA 31401
+0964	2	1870 E WEST CONNECTOR,	Austell, GA 30106
+0965	2	1510 W WALNUT AVE,	Dalton, GA 30720
+0966	3	1121 Nuuanu Ave	(Hotel St.)	Honolulu, HI 96817
+0967	2	1785 JOHN F KENNEDY RD,	Dubuque, IA 52002
+0968	2	7250 Northwest Blvd,	Davenport, IA 52806
+0969	2	11151 Hickman Rd,	Urbandale, IA 50322
+0970	2	W Golf Rd,	Niles, IL 60714
+0971	2	1935 E 53RD ST,	Anderson, IN 46013
+0972	2	201 S Vine St,	Cherokee, KS 66724
+0973	2	4000 GENERAL HAYS RD,	Hays, KS 67601
+0974	2	1807 E 17TH AVE,	Hutchinson, KS 67501
+0975	2	3400 South I-10 Service Road W,	Metairie, LA 70001
+0976	2	313 Moody St,	Waltham, MA 02453
+0977	2	30 LYMAN ST,	Westborough, MA 01581
+0978	3	818 N. Calvert St.	(Madison St.)	Baltimore, MD 21202
+0979	2	7142 RITCHIE HWY,	Glen Burnie, MD 21061
+0980	2	7925 BELAIR RD,	Nottingham, MD 21236
+0981	2	775 ROCKVILLE PIKE,	Rockville, MD 20852
+0982	2	31117 LITTLE MACK AVE,	Roseville, MI 48066
+0983	2	608 W SAGINAW ST,	Lansing, MI 48933
+0984	2	3796 ALPINE AVE NW,	Comstock Park, MI 49321
+0985	2	4767 WILSON AVE SW,	Grandville, MI 49418
+0986	2	50 COON RAPIDS BLVD NW,	Minneapolis, MN 55448
+0987	2	9443 Olive Blvd,	Saint Louis, MO 63132
+0988	2	110 KATE G LN,	Fenton, MO 63026
+0989	2	5 N US HIGHWAY 67,	Florissant, MO 63031
+0990	2	12128 S US HIGHWAY 71,	Grandview, MO 64030
+0991	2	3965 N GLOSTER ST,	Tupelo, MS 38804
+0992	2	2833 KING AVE W STE A,	Billings, MT 59102
+0993	2	2425 US HIGHWAY 93 N,	Kalispell, MT 59901
+0994	2	1821 N POINTE DR,	Durham, NC 27705
+0995	2	1935 SKIBO RD,	Fayetteville, NC 28314
+0996	2	1450 Us-70 W,	Garner, NC 27529
+0997	2	1759 Route 88,	Brick, NJ 08723
+0998	2	297 Rt-72 W,	Manahawkin, NJ 08050
+0999	2	12 US HIGHWAY 9 N,	Morganville, NJ 07751
+1000	2	1245 EL PASEO RD,	Las Cruces, NM 88001
+1001	2	210 N Sierra St Fl 2,	Reno, NV 89501
+1002	2	6535 AIRPORT HWY,	Holland, OH 43528
+1003	2	185 W INTERSTATE PKWY,	Shawnee, OK 74804
+1004	2	611 N MAIN ST,	Stillwater, OK 74075
+1005	2	2435 HILYARD ST,	Eugene, OR 97405
+1006	2	2224 E CARSON ST,	Pittsburgh, PA 15203
+1007	2	1764 FRUITVILLE PIKE,	Lancaster, PA 17601
+1008	2	1511 LEHIGH ST,	Allentown, PA 18103
+1009	2	110 LINCOLN HWY STE 1,	Fairless Hills, PA 19030
+1010	2	123 Dorrance St,	Providence, RI 02903
+1011	2	520 MAIN ST,	Warren, RI 02885
+1012	2	2318 W Shore Rd,	Warwick, RI 02889
+1013	2	2819 WILMA RUDOLPH BLVD,	Clarksville, TN 37040
+1014	3	7701 N. MacArthur Blvd.	(Lyndon B. Johnson Frwy.)	Irving, TX 75063
+1015	2	2430 PABLO KISEL BLVD,	Brownsville, TX 78526
+1016	2	908 N BURLESON BLVD,	Burleson, TX 76028
+1017	2	920 N Main St,	Layton, UT 84041
+1018	2	336 S 400 E,	Salt Lake City, UT 84111
+1019	2	3179 LINDEN DR,	Bristol, VA 24202
+1020	2	178 SW CAMPUS DR,	Federal Way, WA 98023
+1021	3	1001 Alaskan Way	(Madison St.)	Seattle, WA 98104
+1022	2	4614 E WASHINGTON AVE,	Madison, WI 53704
+1023	2	1400 S KOELLER ST,	Oshkosh, WI 54902
+1024	3	419 Highland Dr.	(School St.)	Kohler, WI 53044
+1025	2	1920 Harper Rd,	Beckley, WV 25801
+1026	2	510 E LATHROP RD,	Evansville, WY 82636
+1027	2	2351 AIRPORT BLVD,	Mobile, AL 36606
+1028	2	3032 JOHN HAWKINS PKWY,	Birmingham, AL 35244
+1029	2	4673 Us-280,	Birmingham, AL 35242
+1030	2	324 W Dickson St,	Fayetteville, AR 72701
+1031	2	5240 W SUNSET AVE,	Springdale, AR 72762
+1032	2	1949 W Ray Rd,	Chandler, AZ 85224
+1033	2	9160 E Shea Blvd Ste 101,	Scottsdale, AZ 85260
+1034	3	8828 Sunset Blvd	(Btwn Palm Ave & Larrabee St)	West Hollywood, CA 90069
+1035	3	887 N Garfield Ave	(At Via Campo)	Montebello, CA 90640
+1036	2	2837 Castro Valley Blvd,	Castro Valley, CA 94546
+1037	2	5435 CLAYTON RD,	Clayton, CA 94517
+1038	3	286 Main St.	(Old Boston Post Rd.)	Old Saybrook, CT 06475
+1039	3	61 Lewis St	(bet. Greenwich Ave. & Mason St.)	Greenwich, CT 06830
+1040	2	516 BOSTON POST RD,	Westbrook, CT 06498
+1041	3	3218 M St NW	(Btwn Wisconsin Ave NW & Potomac St NW)	Washington, DC 20007
+1042	3	1527 17th St. NW	(Btwn Q and Church St)	Washington, DC 20036
+1043	3	1203 Town Center Dr , #119	(At Edna Hibel Way)	Jupiter, FL 33458
+1044	2	8553 W Irlo Bronson Memorial Hwy,	Kissimmee, FL 34747
+1045	2	14366 N DALE MABRY HWY,	Tampa, FL 33618
+1046	2	2323 S Goldenrod Rd,	Orlando, FL 32822
+1047	2	4479 S COBB DR SE,	Smyrna, GA 30080
+1048	2	274 PIIKEA AVE APT 105,	Kihei, HI 96753
+1049	2	3416 Rice St,	Lihue, HI 96766
+1050	2	6800 FLEUR DR,	Des Moines, IA 50321
+1051	2	2016 Howard Ave,	Waterloo, IA 50702
+1052	2	196 W IRONWOOD DR,	Coeur D Alene, ID 83814
+1053	2	7040 W STATE ST,	Garden City, ID 83714
+1054	2	461 N 2ND E,	Rexburg, ID 83440
+1055	2	1501 BLUE LAKES BLVD N,	Twin Falls, ID 83301
+1056	2	1598 Blue Lakes Blvd N,	Twin Falls, ID 83301
+1057	2	10943 S WESTERN AVE,	Chicago, IL 60643
+1058	2	2709 Buford Rd,	South Bend, IN 46601
+1059	2	13410 W 62nd Terr,	Shawnee, KS 66216
+1060	2	743 MASSACHUSETTS ST,	Lawrence, KS 66044
+1061	2	102 OXMOOR CT,	Louisville, KY 40222
+1062	2	410 S HURSTBOURNE PKWY,	Louisville, KY 40222
+1063	3	308 Greenup St	(E. 4th St.)	Covington, KY 41011
+1064	2	1204 W 21ST AVE,	Covington, LA 70433
+1065	2	2722 Williams Blvd,	Kenner, LA 70062
+1066	2	833 WAYNE AVE,	Silver Spring, MD 20910
+1067	2	7401 Greenbelt Rd,	Greenbelt, MD 20770
+1068	2	7901 Harford Rd,	Parkville, MD 21234
+1069	2	1 Spring Point Dr,	South Portland, ME 04106
+1070	2	3971 17 Mile Rd,	Sterling Heights, MI 48310
+1071	2	212 1ST AVE SW,	Rochester, MN 55902
+1072	2	58 CENTER ST,	Winona, MN 55987
+1073	2	16590 MANCHESTER RD,	Grover, MO 63040
+1074	2	4137 S Frontage Rd,	Vicksburg, MS 39180
+1075	2	1067 E COUNTY LINE RD,	Jackson, MS 39211
+1076	2	7501 GOODMAN RD,	Olive Branch, MS 38654
+1077	2	2701 1st Ave N,	Billings, MT 59101
+1078	2	723 N Charlotte Ave,	Monroe, NC 28110
+1079	2	3618 E FRANKLIN BLVD,	Gastonia, NC 28056
+1080	2	504 1st St S,	Fessenden, ND 58438
+1081	2	425 Broadway,	Fargo, ND 58102
+1082	2	1406 W Villard St,	Dickinson, ND 58601
+1083	2	7010 DODGE ST,	Omaha, NE 68132
+1084	2	343 STATE ROUTE 34,	Matawan, NJ 07747
+1085	2	362 Grand Ave,	Englewood, NJ 07631
+1086	2	885 S Orange Ave,	East Orange, NJ 07018
+1087	2	1700 Bosque Farms Blvd,	Bosque Farms, NM 87068
+1088	2	904 Medical Arts Ave NE,	Albuquerque, NM 87102
+1089	2	2100 Menaul Blvd NE,	Albuquerque, NM 87107
+1090	2	1620 Rio Rancho Dr SE,	Rio Rancho, NM 87124
+1091	2	1281 W WARM SPRINGS RD,	Henderson, NV 89014
+1092	2	2457 WEBSTER AVE,	Bronx, NY 10458
+1093	2	1754 SUNRISE HWY,	Bay Shore, NY 11706
+1094	3	736 W 181st St	(Btwn Fort Washington & Bennett Ave)	New York, NY 10033
+1095	2	718 E TREMONT AVE,	Bronx, NY 10457
+1096	2	239 Merrick Rd,	Oceanside, NY 11572
+1097	2	240 Wolf Rd,	Albany, NY 12205
+1098	2	7550 Vantage Dr,	Columbus, OH 43235
+1099	2	4315 Talmadge Rd,	Toledo, OH 43623
+1100	2	283 S Washington St,	Tiffin, OH 44883
+1101	2	1702 W Okmulgee St,	Muskogee, OK 74401
+1102	2	10500 SE 82ND AVE,	Happy Valley, OR 97086
+1103	2	1407 SW 4TH AVE,	Ontario, OR 97914
+1104	3	373 E County Line Rd	(At Willow Ave)	Ardmore, PA 19003
+1105	2	145 Main St,	East Greenwich, RI 02818
+1106	2	1640 SANDIFER BLVD,	Seneca, SC 29678
+1107	2	111 JACOBS HWY,	Clinton, SC 29325
+1108	2	1507 NASHVILLE HWY,	Columbia, TN 38401
+1109	2	40 DOVER CROSSING RD,	Clarksville, TN 37042
+1110	2	214 WARD CIR STE 300,	Brentwood, TN 37027
+1111	2	121 E VISTA RIDGE BLVD,	Coppell, TX 75019
+1112	2	208 E HIGHWAY 90,	Dayton, TX 77535
+1113	2	4810 HIGHLAND CIR,	Salt Lake City, UT 84117
+1114	2	44 Main St,	Montpelier, VT 05602
+1115	2	Main,	East Berkshire, VT 05447
+1116	2	10298 Staples Mill Rd.,	Glen Allen, VA 23060
+1117	2	11975 JEFFERSON AVE,	Newport News, VA 23606
+1118	3	9401 Lee Hwy.	(Circle Woods Dr.)	Fairfax, VA 22031
+1119	2	1404 E High St,	Charlottesville, VA 22902
+1120	2	3800 PACIFIC AVE SE,	Lacey, WA 98503
+1121	2	22736 BOTHELL EVERETT HWY,	Bothell, WA 98021
+1122	2	11800 MUKILTEO SPEEDWAY,	Mukilteo, WA 98275
+1123	2	902 E FRONT ST,	Port Angeles, WA 98362
+1124	2	1319 E Henry Clay St,	Milwaukee, WI 53217
+1125	2	1616 BELD ST,	Madison, WI 53715
+1126	2	328 Flowing Springs Rd,	Charles Town, WV 25414
+1127	2	Mile 29 Chiniak Hwy,	Kodiak, AK 99615
+1128	2	2024 US HIGHWAY 78 W,	Oxford, AL 36203
+1129	2	110 COX CREEK PKWY S,	Florence, AL 35630
+1130	2	903 N WALTON BLVD,	Bentonville, AR 72712
+1131	2	116 BRYANT AVE,	Bryant, AR 72022
+1132	2	23724 Ar-10,	Little Rock, AR 72223
+1133	2	Highway 463,	Bay, AR 72411
+1134	2	5000 S ARIZONA MILLS CIR,	Tempe, AZ 85282
+1135	2	3125 S ALMA SCHOOL RD,	Chandler, AZ 85248
+1136	2	729 J St,	Sacramento, CA 95814
+1137	3	6081 Center Dr , #203	(At Park Terrace Dr)	Los Angeles, CA 90045
+1138	3	1106 14th St.	(Arapahoe St.)	Denver, CO 80202
+1139	2	92 WADSWORTH BLVD,	Denver, CO 80226
+1140	2	29 BANK ST,	Stamford, CT 06901
+1141	2	735 BOSTON POST RD,	Old Saybrook, CT 06475
+1142	3	2333 S Eads St	(Btwn 23rd St S & 24th St S)	Arlington, DC 22202
+1143	2	713 N Broad St,	Middletown, DE 19709
+1144	2	5403 Us 192,	Kissimmee, FL 34746
+1145	2	1600 Main St,	Dunedin, FL 34698
+1146	3	4225 River Green Pkwy	(Peachtree Industrial Blvd)	Duluth, GA 30096
+1147	2	455 Grayson Hwy,	Lawrenceville, GA 30045
+1148	2	7105 STONECREST PKWY,	Lithonia, GA 30038
+1149	2	2360 Kiahuna Plantation Dr,	Koloa, HI 96756
+1150	2	845 Front St Ste A,	Lahaina, HI 96761
+1151	2	1029 Kapahulu Ave,	Honolulu, HI 96816
+1152	2	905 SW 7TH ST,	Atlantic, IA 50022
+1153	2	3160 8TH ST SW,	Altoona, IA 50009
+1154	2	209 Front St,	Clare, IA 50524
+1155	2	1615 4th St SW,	Mason City, IA 50401
+1156	2	8249 W FRANKLIN RD,	Boise, ID 83709
+1157	2	1060 HIGHWAY 20,	Mountain Home, ID 83647
+1158	2	2661 Airport Way,	Boise, ID 83705
+1159	2	3234 N PULASKI RD,	Chicago, IL 60641
+1160	2	1621 Chicago Ave,	Evanston, IL 60201
+1161	2	228 ALTON ST,	Alton, IL 62002
+1162	3	2646 W Devon Ave	(At N Talman Ave)	Chicago, IL 60659
+1163	3	240 E. Ontario St.	(Btwn N Fairbanks Ct & N St Clair St)	Chicago, IL 60611
+1164	3	1320 Shermer Rd.	(Waukegan Rd.)	Northbrook, IL 60062
+1165	2	302 W Jefferson Blvd,	Fort Wayne, IN 46802
+1166	2	703 E 4TH AVE,	Hutchinson, KS 67501
+1167	2	1801 Newburg Rd,	Louisville, KY 40205
+1168	3	416 Chartres St.	(bet. Conti & St. Louis Sts.)	New Orleans, LA 70130
+1169	2	6871 W PARK AVE,	Houma, LA 70364
+1170	2	1005 GREENWOOD ST,	Morgan City, LA 70380
+1171	3	1 Harrison Ave.	(At Essex St)	Boston, MA 02111
+1172	2	290 MAIN ST,	Cambridge, MA 02142
+1173	3	1606 Thames St	(Bond St.)	Baltimore, MD 21231
+1174	2	907 S ANN ST,	Baltimore, MD 21231
+1175	2	709 WASHINGTON AVE,	Chestertown, MD 21620
+1176	2	119 COMMERCIAL ST,	Bath, ME 04530
+1177	2	675 CONGRESS ST,	Portland, ME 04101
+1178	2	70 N ADAMS RD,	Rochester, MI 48309
+1179	2	116 S Main,	Ann Arbor, MI 48104
+1180	2	5113 E 7 Mile Rd,	Detroit, MI 48234
+1181	2	2220 N Larch St,	Lansing, MI 48906
+1182	2	711 W MAIN ST,	Anoka, MN 55303
+1183	2	14150 COUNTY ROAD 5,	Burnsville, MN 55337
+1184	2	1728 MAINSTREET,	Hopkins, MN 55343
+1185	2	1212 CHAMBERS RD,	Saint Louis, MO 63135
+1186	2	17211 CHESTERFIELD AIRPORT RD,	Chesterfield, MO 63005
+1187	2	7301 HACKS CROSS RD,	Olive Branch, MS 38654
+1188	2	231 W Front St,	Missoula, MT 59802
+1189	2	215 Main St,	Shelby, MT 59474
+1190	2	2981 Highway 200,	Trout Creek, MT 59874
+1191	2	202 Vine St,	Silver Creek, NE 68663
+1192	2	85 KEY RD,	Keene, NH 03431
+1193	2	Main St,	Alton, NH 03809
+1194	2	235 NASSAU ST,	Princeton, NJ 08540
+1195	3	817 Belmar Plz	(bet. 8th & 10th Aves.)	Belmar, NJ 07719
+1196	2	3522 ZAFARANO DR STE C,	Santa Fe, NM 87507
+1197	2	3200 CENTRAL AVE SE,	Albuquerque, NM 87106
+1198	2	200 W Estrella Ave,	Tucumcari, NM 88401
+1199	2	5050 KIETZKE LN,	Reno, NV 89511
+1200	3	685 Amsterdam Ave	(Btwn 93rd & 94th St)	New York, NY 10025
+1201	2	5185 Transit Rd,	Williamsville, NY 14221
+1202	2	691 Titus Ave,	Rochester, NY 14617
+1203	3	1153 E. Jericho Tpke.	(bet. Dix Hills Rd. & Park Ave.)	Huntington, NY 11743
+1204	3	475 S. 3rd St.	(Livingston Ave.)	Columbus, OH 43215
+1205	2	295 WEATHERSTONE DR,	Wadsworth, OH 44281
+1206	2	4294 Liberty Ave,	Vermilion, OH 44089
+1207	3	475 S. Third St.	(Livingston Ave.)	Columbus, OH 43215
+1208	2	State Rd,	Kingsville, OH 44048
+1209	2	202 S DOGWOOD ST,	Owasso, OK 74055
+1210	2	1333 E Main St,	Weatherford, OK 73096
+1211	2	338 NW 21ST AVE,	Portland, OR 97209
+1212	2	395 W 5th Ave,	Eugene, OR 97401
+1213	2	2101 BAILEY HILL RD,	Eugene, OR 97405
+1214	3	106 Chestnut St	(Btwen S 2nd St & S Front St)	Philadelphia, PA 19106
+1215	2	1233 N 3RD ST,	Harrisburg, PA 17102
+1216	3	4201 Chestnut St	(At S 42nd St)	Philadelphia, PA 19104
+1217	2	280 Thayer St,	Providence, RI 02906
+1218	2	1155 PONTIAC AVE,	Cranston, RI 02920
+1219	2	261 Thayer St,	Providence, RI 02906
+1220	2	2300 Winchester Pl,	Spartanburg, SC 29301
+1221	2	1008 Fording Island Rd,	Bluffton, SC 29910
+1222	2	1367 W FLOYD BAKER BLVD,	Gaffney, SC 29341
+1223	2	123 E COLUMBIA AVE,	Leesville, SC 29070
+1224	2	8 5TH ST SE,	Watertown, SD 57201
+1225	2	2504 FOX RUN PKWY,	Yankton, SD 57078
+1226	3	6101 W. Park Blvd.	(Dallas Pkwy.)	Plano, TX 75093
+1227	2	439 E STATE RD,	American Fork, UT 84003
+1228	2	962 W SOUTH JORDAN PKWY,	South Jordan, UT 84095
+1229	2	2055 W 3500 S,	Salt Lake City, UT 84119
+1230	2	E Main St,	Alburg, VT 05440
+1231	2	153 S Main St,	Rutland, VT 05701
+1232	2	126 Pearl St,	Essex Junction, VT 05452
+1233	2	3133 Wilson Blvd,	Arlington, VA 22201
+1234	2	2237 W BROAD ST,	Richmond, VA 23220
+1235	3	6813 Redmond Dr	(Chain Bridge Rd.)	Mc Lean, VA 22101
+1236	2	1010 LOFTIS BLVD,	Newport News, VA 23606
+1237	2	Ih 81,	Abingdon, VA 24212
+1238	2	8205 MARTIN WAY E STE L,	Lacey, WA 98516
+1239	2	555 NW GILMAN BLVD,	Issaquah, WA 98027
+1240	2	735 Chestnut Ridge Rd,	Morgantown, WV 26505
+1241	2	101 NICK SAVAS DR,	Logan, WV 25601
+1242	2	395 E Main,	Wardensville, WV 26851
+1243	2	801 E 16th St,	Cheyenne, WY 82001
+1244	2	830 N Federal Blvd,	Riverton, WY 82501
+1245	2	575 1ST AVE,	Fairbanks, AK 99701
+1246	2	312 E 4th Ave,	Anchorage, AK 99501
+1247	2	4133 Mountain View Dr,	Anchorage, AK 99508
+1248	2	99 Euclid Ave,	Birmingham, AL 35213
+1249	2	5101 Governors House Dr SW,	Huntsville, AL 35805
+1250	2	4517 JOHN F KENNEDY BLVD,	North Little Rock, AR 72116
+1251	2	6913 Rogers Ave,	Fort Smith, AR 72903
+1252	3	4410 N. 40th St.	(Campbell Ave.)	Phoenix, AZ 85018
+1253	3	4109 24th Street	(At Castro St)	San Francisco, CA 94114
+1254	3	2654 Main Street	(Btwn Ocean Park Blvd & Hill St)	Santa Monica, CA 90405
+1255	3	122 E Meadow Dr	(I-70)	Vail, CO 81657
+1256	2	14221 E CEDAR AVE,	Aurora, CO 80012
+1257	2	5670 E Evans Ave,	Denver, CO 80222
+1258	2	5750 W 38th Ave,	Denver, CO 80212
+1259	2	500 VILLAGE WALK,	Guilford, CT 06437
+1260	3	1721 Wisconsin Ave. NW	(Btwn R St NW & S St NW)	Washington, DC 20007
+1261	3	2813 M St NW	(At 28th St NW)	Washington, DC 20007
+1262	2	4 Four Seasons Pkwy,	Newark, DE 19702
+1263	2	14432 Dale Mabry Hwy.,	Tampa, FL 33618
+1264	2	231 Del Prado Blvd.,	Cape Coral, FL 33990
+1265	3	11338 Miramar Pkwy	(Btwn S Flamingo & Red Rd)	Miramar, FL 33025
+1266	3	717 Lake Ave.	(Btwn J & K St)	Lake Worth, FL 33460
+1267	2	10801 CORKSCREW RD,	Estero, FL 33928
+1268	2	4170 OLD MILTON PKWY,	Alpharetta, GA 30005
+1269	2	4965 FRIENDSHIP RD,	Buford, GA 30518
+1270	2	4219 PLEASANT HILL RD,	Duluth, GA 30052
+1271	2	1221 HONOAPIILANI HWY,	Lahaina, HI 96761
+1272	2	4-280 Kuhio Hwy,	Kapaa, HI 96746
+1273	2	400 Main St,	Ames, IA 50010
+1274	2	11 2nd St NE,	Mason City, IA 50401
+1275	2	928 W MAIN ST,	Boise, ID 83702
+1276	2	106 N 6TH ST,	Boise, ID 83702
+1277	2	117 S 6TH ST,	Boise, ID 83702
+1278	2	6565 W FAIRVIEW AVE,	Boise, ID 83704
+1279	3	4212 N Milwaukee Ave	(At W Berteau Ave)	Chicago, IL 60641
+1280	2	108 W Washington St,	Bloomington, IL 61701
+1281	2	138 S RIVER RD,	West Lafayette, IN 47906
+1282	2	288 E DUPONT RD,	Fort Wayne, IN 46825
+1283	2	2 W AMITY ST,	Louisburg, KS 66053
+1284	3	333 St. Charles Ave.	(bet. Gravier & Poydras Sts.)	New Orleans, LA 70130
+1285	2	3501 VETERANS MEMORIAL BLVD,	Metairie, LA 70002
+1286	2	1711 N Collins Blvd,	Covington, LA 70433
+1287	2	27 S Summer St,	Edgartown, MA 02539
+1288	2	14611 Main St,	Upper Marlboro, MD 20772
+1289	2	1319 Rockville Pike # H,	Rockville, MD 20852
+1290	2	300 MAINE MALL RD,	South Portland, ME 04106
+1291	2	17201 MACK AVE,	Detroit, MI 48224
+1292	2	100 W COLLEGE DR,	Marshall, MN 56258
+1293	2	20 FRANKLIN ST S,	Glenwood, MN 56334
+1294	2	13060 Riverdale Dr NW,	Minneapolis, MN 55448
+1295	2	1730 NEW BRIGHTON BLVD,	Minneapolis, MN 55413
+1296	2	12344 Olive Blvd,	Saint Louis, MO 63141
+1297	2	107 W CHURCH ST,	Ozark, MO 65721
+1298	2	316 California Ave,	Libby, MT 59923
+1299	2	414 W Granite St,	Butte, MT 59701
+1300	2	1533 W Babcock St,	Bozeman, MT 59715
+1301	2	2917 CENTRAL AVE,	Charlotte, NC 28205
+1302	2	122 S 4TH ST,	Grand Forks, ND 58201
+1303	2	1901 N Broadway,	Minot, ND 58703
+1304	2	222 West Street,	Manchester, NH 03111
+1305	2	385 E DUNSTABLE RD,	Nashua, NH 03062
+1306	2	124 STATE ROUTE 101A,	Amherst, NH 03031
+1307	2	740 Boulevard,	Kenilworth, NJ 07033
+1308	2	53 Route 34,	Marlboro, NJ 07746
+1309	3	16 W Main St # A	(South St.)	Freehold, NJ 07728
+1310	2	5001 Jefferson St NE,	Albuquerque, NM 87109
+1311	2	2325 SAN PEDRO DR NE,	Albuquerque, NM 87110
+1312	2	1279 Baring Blvd,	Sparks, NV 89434
+1313	2	820 Holman Way,	Sparks, NV 89431
+1314	2	3501 S. Virginia St,	Reno, NV 89502
+1315	3	9000 Las Vegas Blvd. S.	(Pebble Rd.)	Las Vegas, NV 89123
+1316	3	3900 Las Vegas Blvd. S.	(bet. Mandalay Bay Rd. & Reno Ave.)	Las Vegas, NV 89119
+1317	3	227 E 67th St	(Btwn 2nd & 3rd Ave)	New York, NY 10021
+1318	2	9500 EUCLID AVE,	Cleveland, OH 44195
+1319	2	180 Main St,	Steubenville, OH 43953
+1320	2	9026 E 71ST ST,	Tulsa, OK 74133
+1321	2	1620 SW 89TH ST,	Oklahoma City, OK 73159
+1322	2	14626 SE Sunnyside Rd,	Clackamas, OR 97015
+1323	2	933 SW 3RD AVE,	Portland, OR 97204
+1324	2	435 WASHINGTON ST,	Coventry, RI 02816
+1325	2	24 PIERCE ST,	Westerly, RI 02891
+1326	2	719 Quaker Ln,	West Warwick, RI 02893
+1327	2	2360 CELANESE RD,	Rock Hill, SC 29732
+1328	2	7651 N KINGS HWY,	Myrtle Beach, SC 29572
+1329	2	110 S Janda Ave,	Tabor, SD 57063
+1330	2	523 6th St,	Rapid City, SD 57701
+1331	2	314 W Main St,	Chattanooga, TN 37408
+1332	2	1913 GUNBARREL RD STE 101,	Chattanooga, TN 37421
+1333	2	774 OLD HICKORY BLVD,	Brentwood, TN 37027
+1334	2	1414 JENKINS RD,	Chattanooga, TN 37421
+1335	2	406 BROAD ST,	Chattanooga, TN 37402
+1336	3	2505 E Grapevine Mills Cir	(Hwy. 121)	Grapevine, TX 76051
+1337	2	4516 BURNET RD,	Austin, TX 78756
+1338	2	1816 S Lamar Blvd,	Austin, TX 78704
+1339	3	2002 W. Gray St.	(bet. McDuffie St. & Shepherd Dr.)	Houston, TX 77019
+1340	2	Windsor Park Shopping Center 158 West 1230 North,	Provo, UT 84604
+1341	2	9565 WASATCH BLVD,	Sandy, UT 84092
+1342	2	333 N MAIN ST,	Springville, UT 84663
+1343	2	816 E 9400 S,	Sandy, UT 84094
+1344	2	213 Railroad St,	Saint Johnsbury, VT 05819
+1345	2	RR 11 &30,	Manchester Center, VT 05255
+1346	2	1037 Edwards Ferry Rd NE,	Leesburg, VA 20176
+1347	3	2320 NW Market St.	(bet. 22nd & 24th Aves.)	Seattle, WA 98107
+1348	3	2411 Second Ave.	(bet. Battery & Wall Sts.)	Seattle, WA 98121
+1349	2	1951 MEAD ST,	Racine, WI 53403
+1350	2	320 W JOHNSON ST,	Madison, WI 53703
+1351	2	156 Clay St,	Morgantown, WV 26501
+1352	2	30 Nitro Market Pl,	Charleston, WV 25313
+1353	2	1310 N Eisenhower Dr,	Beckley, WV 25801
+1354	2	800 S GREELEY HWY,	Cheyenne, WY 82007
+1355	2	1401 W Lincolnway,	Cheyenne, WY 82001
+1356	2	5901 University Dr NW,	Huntsville, AL 35806
+1357	2	7929 VAUGHN RD STE 5B,	Montgomery, AL 36116
+1358	2	6000 W MARKHAM ST,	Little Rock, AR 72205
+1359	2	1636 S 48th St,	Springdale, AR 72762
+1360	2	1909 W Thunderbird Rd,	Phoenix, AZ 85023
+1361	2	12637 S 48TH ST,	Phoenix, AZ 85044
+1362	2	7829 W Thomas Rd,	Phoenix, AZ 85033
+1363	3	1641 W Sunflower Ave	(bet. Bear & Bristol Sts.)	Santa Ana, CA 92704
+1364	3	3316 17st	(Btwn Mission and Valencia St)	San Francisco, CA 94110
+1365	3	1253 Vine St	(Fountain Ave)	Los Angeles, CA 90038
+1366	3	3832 Wilshire Blvd	(At S Manhattan Pl)	Los Angeles, CA 90010
+1367	2	1605 BRIARGATE PKWY,	Colorado Springs, CO 80920
+1368	2	315 TRUMBULL ST,	Hartford, CT 06103
+1369	2	712 BOSTON POST RD,	Madison, CT 06443
+1370	3	1200 19th St NW	(At M St NW)	Washington, DC 20036
+1371	3	1307 N. Scott St.	(bet. 13th & 14th Sts.)	Wilmington, DE 19806
+1372	2	405 S HOWARD AVE,	Tampa, FL 33606
+1373	3	8434 S Dixie Hwy	(Btwn Snapper Creek Expy & SW 70th Ave)	Miami, FL 33143
+1374	2	110 EISENHOWER DR,	Savannah, GA 31406
+1375	3	3368 Peachtree Rd NE	(GA 400)	Atlanta, GA 30326
+1376	2	1015 University Ave,	Honolulu, HI 96826
+1377	2	5264 UTICA RIDGE RD,	Davenport, IA 52807
+1378	2	2328 VALLEY WEST CT,	Clinton, IA 52732
+1379	2	100 S FEDERAL AVE,	Mason City, IA 50401
+1380	2	1016 BROADWAY AVE,	Boise, ID 83706
+1381	2	833 21st St,	Lewiston, ID 83501
+1382	2	2888 W STATE ST,	Boise, ID 83702
+1383	2	102 S Main St,	Moscow, ID 83843
+1384	3	1234 S Michigan Ave	(Btwn E Roosevelt Rd & E 13th St)	Chicago, IL 60605
+1385	2	5109 W FULLERTON AVE,	Chicago, IL 60639
+1386	2	1969 SOUTHLAKE MALL,	Merrillville, IN 46410
+1387	2	106 N Walnut St,	Bloomington, IN 47404
+1388	2	1301 N NATIONAL RD,	Columbus, IN 47201
+1389	2	907 Massachusetts St,	Lawrence, KS 66044
+1390	3	6120 Johnson Dr.	(bet. Beverly Ave. & Horton St.)	Mission, KS 66202
+1391	2	7900 Shelbyville Rd Ste M20,	Louisville, KY 40222
+1392	2	3218 DIXIE HWY,	Erlanger, KY 41018
+1393	2	9925 Mt Zion Rd,	Union, KY 41091
+1394	2	3044 College Dr,	Baton Rouge, LA 70808
+1395	3	439 tremont st	(At Appleton St)	Boston, MA 02116
+1396	3	94 Hartwell Ave	(Cross St.)	Lexington, MA 02421
+1397	3	707 Main St	(Central St.)	Norwell, MA 02061
+1398	3	156 Cambridge St.	(At Hancock St)	Boston, MA 02114
+1399	2	999 S WASHINGTON ST,	North Attleboro, MA 02760
+1400	3	14833 York Rd	(3 mi. north of Shawan Rd.)	Sparks Glencoe, MD 21152
+1401	2	177 Lisbon St,	Lewiston, ME 04240
+1402	2	11 Brown St,	Portland, ME 04101
+1403	2	231 MAIN ST,	Bar Harbor, ME 04609
+1404	2	32729 Northwestern Hwy,	Farmington, MI 48334
+1405	2	2685 SOUTHDALE CTR,	Minneapolis, MN 55435
+1406	2	23 4TH ST NE,	Minneapolis, MN 55413
+1407	2	14889 FLORENCE TRL,	Apple Valley, MN 55124
+1408	2	2500 GRAND BLVD,	Kansas City, MO 64108
+1409	2	14501 MANCHESTER RD,	Ballwin, MO 63011
+1410	2	1200 E COUNTY LINE RD,	Ridgeland, MS 39157
+1411	2	Highway 72 E,	Corinth, MS 38834
+1412	2	301 HIGHWAY 80 E,	Clinton, MS 39056
+1413	2	620 Highway 80 E,	Clinton, MS 39056
+1414	2	801 E Main St,	Laurel, MT 59044
+1415	2	2801 W SUGAR CREEK RD,	Charlotte, NC 28262
+1416	2	3902 13TH AVE S STE 521,	Fargo, ND 58103
+1417	2	2631 State St,	Bismarck, ND 58503
+1418	2	17810 WELCH PLZ,	Omaha, NE 68135
+1419	2	2123 Pierce St,	Omaha, NE 68108
+1420	2	7425 PACIFIC ST,	Omaha, NE 68114
+1421	2	912 Omaha Ave,	Norfolk, NE 68701
+1422	2	301 S 175TH PLZ,	Omaha, NE 68118
+1423	2	185 MAIN ST,	Nashua, NH 03060
+1424	2	70 RIVERSIDE SQ,	Hackensack, NJ 07601
+1425	2	573 Stephanie St,	Henderson, NV 89014
+1426	3	2620 Regatta Dr.	(Breakwater Dr.)	Las Vegas, NV 89128
+1427	2	162-12 South Rd,	Jamaica, NY 11433
+1428	2	2334 SE WASHINGTON BLVD,	Bartlesville, OK 74006
+1429	2	511 SE WASHINGTON BLVD,	Bartlesville, OK 74006
+1430	2	415 WESTSIDE DR,	Durant, OK 74701
+1431	2	439 SW Second Avenue,	Portland, OR 97204
+1432	2	1126 SW 18TH AVE,	Portland, OR 97205
+1433	2	673 Thames St,	Newport, RI 02840
+1434	2	1463 Park Ave,	Cranston, RI 02920
+1435	2	2914 POST RD,	Warwick, RI 02886
+1436	2	5454 POST RD,	East Greenwich, RI 02818
+1437	2	753 CROSSROADS PLZ,	Fort Mill, SC 29708
+1438	2	1800 CAROUTHERS PKWY,	Brentwood, TN 37027
+1439	2	330 FRANKLIN RD,	Brentwood, TN 37027
+1440	2	5402 Brainerd Rd,	Chattanooga, TN 37411
+1441	2	1820 GUNBARREL RD STE 100,	Chattanooga, TN 37421
+1442	2	3860 KEITH ST NW,	Cleveland, TN 37312
+1443	3	316 S. Main Street	(bet. Dallas Rd. & Northwest Hwy.)	Grapevine, TX 76051
+1444	2	24814 KUYKENDAHL RD,	Tomball, TX 77375
+1445	3	2514 Guadalupe St.	(Dean Keaton Pkwy.)	Austin, TX 78705
+1446	2	171 N REDWOOD RD,	Salt Lake City, UT 84116
+1447	2	3362 N UNIVERSITY AVE,	Provo, UT 84604
+1448	2	428 Main St,	Bennington, VT 05201
+1449	2	118 Main St,	Montpelier, VT 05602
+1450	2	808 W CONSTANCE RD,	Suffolk, VA 23434
+1451	3	2001 International Dr	(Rte. 123)	Mc Lean, VA 22102
+1452	2	11800 W BROAD ST,	Richmond, VA 23233
+1453	2	545 S MARKET BLVD,	Chehalis, WA 98532
+1454	2	18411 Highway 99,	Lynnwood, WA 98037
+1455	2	1360 N LOUISIANA ST,	Kennewick, WA 99336
+1456	3	633 N Fifth St	(bet. Michigan St. & Wisconsin Ave.)	Milwaukee, WI 53203
+1457	2	4768 INTEGRITY WAY,	Appleton, WI 54913
+1458	2	15060 W GREENFIELD AVE,	Brookfield, WI 53005
+1459	2	350 S High St,	Morgantown, WV 26505
+1460	2	1400 DELL RANGE BLVD,	Cheyenne, WY 82009
+1461	2	1815 CAREY AVE,	Cheyenne, WY 82001
+1462	2	700 Montgomery Hwy.,	Birmingham, AL 35216
+1463	2	166 W Valley Ave,	Birmingham, AL 35209
+1464	2	5428 ELLSWORTH RD,	Fort Smith, AR 72903
+1465	2	15 N 2ND ST,	Fort Smith, AR 72901
+1466	2	1559 S Gilbert Rd,	Mesa, AZ 85204
+1467	2	1837 W GUADALUPE RD,	Mesa, AZ 85202
+1468	2	1070 E RAY RD,	Chandler, AZ 85225
+1469	2	250 S ARIZONA AVE,	Chandler, AZ 85225
+1470	2	1106 First St.,	Napa, CA 94599
+1471	3	2366 Telegraph Ave.	(bet. Channing Way & Durant Ave.)	Berkeley, CA 94704
+1472	2	2566 TELEGRAPH AVE,	Berkeley, CA 94704
+1473	2	556 CHAPEL HILLS DR,	Colorado Springs, CO 80920
+1474	2	7105 E Hampden Ave,	Denver, CO 80224
+1475	3	75 Broad St.	(Summer St.)	Stamford, CT 06901
+1476	2	850 Boston Post Rd,	Guilford, CT 06437
+1477	2	495 UNION ST STE 2208,	Waterbury, CT 06706
+1478	3	3419 Connecticut Ave NW	(At Orway St NW)	Washington, DC 20008
+1479	3	3819 Mount Vernon Ave	(At Russell Rd)	Alexandria, DC 22305
+1480	3	3150 M St NW	(Btwn 31st St NW & Wisonsin Ave NW)	Washington, DC 20007
+1481	3	153 Glyndon St SE	(Btwn Maple Ave E & Locust St SE)	Vienna, DC 22180
+1482	2	8503 W HILLSBOROUGH AVE,	Tampa, FL 33615
+1483	2	925 25TH ST SE,	Cedar Rapids, IA 52403
+1484	2	5055 Merle Hay Rd,	Johnston, IA 50131
+1485	2	4916 ILLINOIS RD,	Fort Wayne, IN 46804
+1486	2	811 NEW HAMPSHIRE ST,	Lawrence, KS 66044
+1487	2	1829 VILLAGE WEST PKWY,	Kansas City, KS 66111
+1488	2	13412 METCALF AVE,	Overland Park, KS 66213
+1489	2	3938 Dupont Cir,	Louisville, KY 40207
+1490	2	Showcase Cinemas 2745 S. Hurstbourne Pkwy,	Louisville, KY 40220
+1491	2	231 BLANKENBAKER PKWY,	Louisville, KY 40243
+1492	2	11530 BLUEGRASS PKWY,	Louisville, KY 40299
+1493	3	6920 Veterans Memorial Blvd	(David Dr.)	Metairie, LA 70003
+1494	2	4250 BURBANK DR STE 104,	Baton Rouge, LA 70808
+1495	3	4308 Magazine St.	(Napoleon Ave.)	New Orleans, LA 70115
+1496	3	Rte. 1	(bet. Carpenter & Daly Rds.)	Lynnfield, MA 01940
+1497	3	725 Cochituate Rd.	(Speen St.)	Framingham, MA 01701
+1498	3	20 Independence Dr.	(Rte. 132)	Hyannis, MA 02601
+1499	2	50 HOLYOKE ST,	Holyoke, MA 01040
+1500	3	23 Washington St	(Coffin St.)	Nantucket, MA 02554
+1501	3	965 Thayer Ave	(Georgia Ave.)	Silver Spring, MD 20910
+1502	2	2907 ODONNELL ST,	Baltimore, MD 21224
+1503	2	12 W 20TH ST,	Baltimore, MD 21218
+1504	3	4907 Cordell Ave.	(bet. Norfolk Ave. & Old Georgetown Rd.)	Bethesda, MD 20814
+1505	2	50 Maine Mall Rd,	South Portland, ME 04106
+1506	2	650 Center St,	Auburn, ME 04210
+1507	2	24 Topsham Fair Mall Rd,	Topsham, ME 04086
+1508	2	208 UNION AVE NE,	Grand Rapids, MI 49503
+1509	2	15095 N Sheldon Rd,	Plymouth, MI 48170
+1510	2	109 PENNSYLVANIA AVE,	Dowagiac, MI 49047
+1511	2	19019 Mack Ave,	Grosse Pointe, MI 48236
+1512	2	9643 Manchester Rd,	Saint Louis, MO 63119
+1513	2	1617 MAIN ST,	Kansas City, MO 64108
+1514	2	228 Clinton Blvd,	Clinton, MS 39056
+1515	2	1226 CONOVER BLVD W,	Conover, NC 28613
+1516	2	2115 W Roosevelt Blvd,	Monroe, NC 28110
+1517	2	410 WESTINGHOUSE BLVD STE E,	Charlotte, NC 28273
+1518	2	13 8TH ST S,	Fargo, ND 58103
+1519	2	521 S 13TH ST,	Omaha, NE 68102
+1520	2	203 S 72ND ST,	Omaha, NE 68114
+1521	2	310 DANIEL WEBSTER HWY,	Nashua, NH 03060
+1522	2	4941 STELTON RD,	South Plainfield, NJ 07080
+1523	2	5 KINGWOOD AVE,	Frenchtown, NJ 08825
+1524	2	1376 State Route 31 N,	Lebanon, NJ 08833
+1525	2	20 E Ridgewood Ave,	Ridgewood, NJ 07450
+1526	2	2605 MISSOURI AVE,	Las Cruces, NM 88011
+1527	2	310 S Mesquite St,	Las Cruces, NM 88001
+1528	2	5901 WYOMING BLVD NE,	Albuquerque, NM 87109
+1529	2	3667 LAS VEGAS BLVD S STE F-11A,	Las Vegas, NV 89109
+1530	2	13987 S VIRGINIA ST STE 700,	Reno, NV 89511
+1531	2	4983 West Flamingo,	Las Vegas, NV 89103
+1532	3	200 Hamilton Avenue	(Martin Luther King Ave.)	White Plains, NY 10601
+1533	3	458 W 17th St	(Btwn 9th & 10th Ave)	New York, NY 10011
+1534	3	245 Grand St	(Btwn Bowery & Chrystie St)	New York, NY 10002
+1535	2	4708 NW BETHANY BLVD STE E-5,	Portland, OR 97229
+1536	2	8635 SW BEAVERTON HILLSDALE HWY,	Portland, OR 97225
+1537	2	2865 NW Town Center Dr,	Beaverton, OR 97006
+1538	2	1611 E CARSON ST,	Pittsburgh, PA 15203
+1539	2	405 28th Avenue North,	North Myrtle Beach, SC 29577
+1540	2	461 TOWN CENTER PL STE 1,	Columbia, SC 29229
+1541	2	1217 College St,	Columbia, SC 29201
+1542	2	3400 W 49th St Ste 102,	Sioux Falls, SD 57106
+1543	2	4014 Hillsboro Cr.,	Nashville, TN 37215
+1544	2	4594 Yale Rd,	Memphis, TN 38128
+1545	2	Sunny Side Hts,	Mc Minnville, TN 37110
+1546	2	5727 Westheimer #B,	Houston, TX 77057
+1547	2	4750 FM 2920 Rd,	Spring, TX 77388
+1548	2	17470 Northwest Fwy,	Houston, TX 77040
+1549	2	5601 LEGACY DR,	Plano, TX 75024
+1550	2	241 W 2100 S,	Salt Lake City, UT 84115
+1551	2	25 Church St,	Burlington, VT 05401
+1552	3	6804 E Green Lake Way N	(bet. 2nd & 4th Aves.)	Seattle, WA 98115
+1553	2	10426 Northup Way,	Kirkland, WA 98033
+1554	3	408 E. Chicago St.	(Milwaukee St.)	Milwaukee, WI 53202
+1555	2	2148 BELTLINE RD SW,	Decatur, AL 35601
+1556	2	3320 MONTGOMERY HWY,	Dothan, AL 36303
+1557	2	3060 S MCKENZIE ST,	Foley, AL 36535
+1558	2	4 RECREATION DR,	Oxford, AL 36203
+1559	2	190 PAKIS ST,	Hot Springs National Park, AR 71913
+1560	2	4509 W POPLAR ST,	Rogers, AR 72758
+1561	2	321 N HIGHWAY 89A,	Sedona, AZ 86336
+1562	2	8900 E PINNACLE PEAK RD,	Scottsdale, AZ 85255
+1563	2	2960 N CAMPBELL AVE,	Tucson, AZ 85719
+1564	3	722 5th Ave	(G St.)	San Diego, CA 92101
+1565	3	1233 Polk St.	(At Bush St)	San Francisco, CA 94109
+1566	3	1475 Pennsylvania Ave NW	(Btwn 15th St NW & 14th St NW)	Washington, DC 20004
+1567	3	800 16th St NW	(At H St NW)	Washington, DC 20006
+1568	2	RR 13,	Laurel, DE 19956
+1569	2	305 Rocky Run Pkwy,	Wilmington, DE 19803
+1570	2	263 N Dupont Hwy,	Dover, DE 19901
+1571	2	255 13th Avenue So.,	Naples, FL 34102
+1572	2	3138 S ORANGE AVE,	Orlando, FL 32806
+1573	2	3285 COBB PKWY NW,	Acworth, GA 30101
+1574	2	1528 BRADLEY PARK DR,	Columbus, GA 31904
+1575	2	75-5809 ALII DR,	Kailua Kona, HI 96740
+1576	2	1610 S KELLOGG AVE,	Ames, IA 50010
+1577	2	75 2ND ST,	Coralville, IA 52241
+1578	2	140 S JORDAN CREEK PKWY,	West Des Moines, IA 50266
+1579	2	525 W CANFIELD AVE,	Coeur D Alene, ID 83815
+1580	2	2100 W IRVING PARK RD,	Chicago, IL 60618
+1581	2	9300 BRYN MAWR AVE,	Rosemont, IL 60018
+1582	3	4429 N Broadway St	(At W Montrose Ave)	Chicago, IL 60640
+1583	3	900 N Michigan Ave	(At E Delaware Pl)	Chicago, IL 60611
+1584	3	17 S Wabash Ave	(Btwn E Madison & E Monroe St)	Chicago, IL 60603
+1585	2	320 N JACOB DR,	Bloomington, IN 47404
+1586	2	7301 W 91ST ST,	Overland Park, KS 66212
+1587	3	11950 S. Strang Line Rd.	(119th St.)	Olathe, KS 66062
+1588	2	956 Baxter Ave,	Louisville, KY 40204
+1589	2	969 BAXTER AVE,	Louisville, KY 40204
+1590	2	1301 RYAN ST,	Lake Charles, LA 70601
+1591	2	1128 Cambridge St.,	Cambridge, MA 02139
+1592	3	1010 Beacon St	(Btwn St Marys & Carlton St)	Brookline, MA 02446
+1593	3	7921 Norfolk Avenue	(Cordell Ave.)	Bethesda, MD 20814
+1594	2	6 1ST ST,	Topsham, ME 04086
+1595	2	420 MAINE MALL RD,	South Portland, ME 04106
+1596	2	9729 BELLEVILLE RD,	Belleville, MI 48111
+1597	2	38703 7 MILE RD,	Livonia, MI 48152
+1598	2	2555 W 12 Mile Rd,	Berkley, MI 48072
+1599	2	20050 Livernois Ave,	Detroit, MI 48221
+1600	2	212 W 6TH ST,	Royal Oak, MI 48067
+1601	2	14998 GLAZIER AVE,	Apple Valley, MN 55124
+1602	2	1861 ADAMS ST,	Mankato, MN 56001
+1603	2	1451 COUNTY ROAD 42 W,	Burnsville, MN 55306
+1604	2	380 17TH AVE NW,	Rochester, MN 55901
+1605	2	9150 NE BARRY RD,	Kansas City, MO 64157
+1606	2	2204 HIGHWAY K,	O Fallon, MO 63368
+1607	2	4742 Pennsylvania Ave,	Kansas City, MO 64112
+1608	2	250 S FLORISSANT RD,	Saint Louis, MO 63135
+1609	2	1428 OLD SQUARE RD,	Jackson, MS 39211
+1610	2	110 E MAIN ST,	Starkville, MS 39759
+1611	2	2415 N RESERVE ST,	Missoula, MT 59808
+1612	2	3800 Main Ave,	Fargo, ND 58103
+1613	2	415 S 11th St,	Omaha, NE 68102
+1614	2	1941 S 42ND ST,	Omaha, NE 68105
+1615	2	9201 N 30th St,	Omaha, NE 68112
+1616	3	27 Saddle River Rd.	(bet. Brookside Ave. & Northern Dr.)	Fair Lawn, NJ 07410
+1617	2	3 South Ave W,	Cranford, NJ 07016
+1618	2	58 S FEDERAL PL,	Santa Fe, NM 87501
+1619	2	50 Lincoln Ave,	Santa Fe, NM 87501
+1620	2	940 N TELSHOR BLVD,	Las Cruces, NM 88011
+1621	2	2574 CAMINO ENTRADA,	Santa Fe, NM 87507
+1622	3	4423 E Sunset Rd	(Mountain Vista St.)	Henderson, NV 89014
+1623	2	534 Elmwood Ave.,	Buffalo, NY 14222
+1624	2	836 Suffolk Ave,	Brentwood, NY 11717
+1625	2	153 MOHAWK AVE,	Schenectady, NY 12302
+1626	3	56 W 31st St	(Btwn 6th Ave & Bway)	New York, NY 10001
+1627	3	1940 Bellmore Ave	(Natta Blvd.)	Bellmore, NY 11710
+1628	2	23 S MAIN ST STE 102,	Akron, OH 44308
+1629	2	1667 Pearl Rd,	Brunswick, OH 44212
+1630	2	HC 63 Box 5160,	Hodgen, OK 74939
+1631	2	14740 NW Cornell Rd Ste 80,	Portland, OR 97229
+1632	2	555 NW 12th Ave,	Portland, OR 97209
+1633	2	1616 NW 23rd Ave,	Portland, OR 97210
+1634	3	611 S 3rd St	(At South St)	Philadelphia, PA 19147
+1635	3	10 Park Ave	(At Chester Rd)	Swarthmore, PA 19081
+1636	2	579 Warren Ave,	East Providence, RI 02914
+1637	2	1 Shelter Cove Ln,	Hilton Head Island, SC 29928
+1638	2	101 PITT ST,	Mount Pleasant, SC 29464
+1639	2	519 JOHN ROSS PKWY,	Rock Hill, SC 29730
+1640	2	1130 OCEAN BLVD,	Isle Of Palms, SC 29451
+1641	2	4301 W 41ST ST,	Sioux Falls, SD 57106
+1642	2	656 W POPLAR AVE,	Collierville, TN TN
+1643	2	8077 Kingston Pike,	Knoxville, TN 37919
+1644	2	5031 Hixson Pike,	Hixson, TN 37343
+1645	2	112 Broyles St,	Johnson City, TN 37601
+1646	2	1220 N MAIN ST,	Logan, UT 84341
+1647	2	10540 S STATE ST,	Sandy, UT 84070
+1648	2	10540 S STATE ST,	Sandy, UT 84070
+1649	2	I-15 Exit 282 East,	Lehi, UT 84043
+1650	2	71 E Center St,	Provo, UT 84606
+1651	2	150 DORSET ST STE 200,	South Burlington, VT 05403
+1652	2	189 Bank St,	Burlington, VT 05401
+1653	2	4800 Forest Hill Ave,	Richmond, VA 23225
+1654	3	7263 Arlington Blvd	(Btwn Graham Rd & Allen St)	Falls Church, VA 22042
+1655	3	8037 15th Ave NW	(bet. 80th & 83rd Sts.)	Seattle, WA 98117
+1656	3	701 Westlake Ave N	(Broad St.)	Seattle, WA 98109
+1657	3	22606 Bothell Everett Hwy	(228th St. SE)	Bothell, WA 98201
+1658	2	13225 WATERTOWN PLANK RD,	Elm Grove, WI 53122
+1659	2	2856 N Oakland Ave,	Milwaukee, WI 53211
+1660	2	2495 S ONEIDA ST,	Green Bay, WI 54304
+1661	2	835 W JOHNSON ST,	Fond Du Lac, WI 54935
+1662	2	7000 74TH PL,	Kenosha, WI 53142
+1663	2	222 W JEFF DAVIS AVE,	Montgomery, AL 36104
+1664	2	1550 OPELIKA RD,	Auburn, AL 36830
+1665	2	525 25th St S,	Birmingham, AL 35233
+1666	2	10 Meadow View Dr,	Birmingham, AL 35242
+1667	2	2111 S OLD MISSOURI RD,	Springdale, AR 72764
+1668	3	7014 E Camelback Rd	(Scottsdale Rd.)	Scottsdale, AZ 85251
+1669	3	740 S. Mill Ave.	(E. University Dr.)	Tempe, AZ 85281
+1670	3	6610 E. Superstition Springs Blvd.	(Power Rd.)	Mesa, AZ 85206
+1671	2	2001 J Street,	Sacramento, CA 95814
+1672	2	110 Jamacha Rd,	El Cajon, CA 92019
+1673	3	4540 La Jolla Village Dr	(bet. Executive Way & Town Centre Dr.)	San Diego, CA 92122
+1674	2	5915 SKY POND DR,	Loveland, CO 80538
+1675	2	1175 WALNUT ST,	Boulder, CO 80302
+1676	2	1392 E PUTNAM AVE,	Old Greenwich, CT 06870
+1677	2	143 FEDERAL RD,	Brookfield, CT 06804
+1678	2	2450 MAIN ST,	Glastonbury, CT 06033
+1679	2	3120 BERLIN TPKE,	Newington, CT 06111
+1680	3	2915 Connecticut Ave NW	(Btwn Hawthorne St & Cathedral Ave NW)	Washington, DC 20008
+1681	3	1177 15th St. NW	(Btwn L St NW & M St NW)	Washington, DC 20005
+1682	2	4885 MACARTHUR BLVD NW,	Washington, DC 20007
+1683	3	1725 Desales St NW	(Btwn 17th St NW & Connecticut Ave NW)	Washington, DC 20036
+1684	2	810 S State St,	Dover, DE 19901
+1685	2	3403 Lancaster Pike,	Wilmington, DE 19805
+1686	2	4750 S Kirkman Rd,	Orlando, FL 32811
+1687	3	1198 Howell Mill Rd NW	(bet. 14th St. & Huff Rd.)	Atlanta, GA 30318
+1688	2	701 HIGHLAND AVE NE,	Atlanta, GA 30312
+1689	2	1997 Pauoa Rd,	Honolulu, HI 96813
+1690	2	110 S JORDAN CREEK PKWY,	West Des Moines, IA 50266
+1691	2	1500 N EAGLE RD,	Meridian, ID 83642
+1692	3	530 N. Wabash Ave.	(At E Grand St)	Chicago, IL 60611
+1693	3	2361 Fountain Square Dr.	(bet. Butterfield & Meyers Rds.)	Lombard, IL 60148
+1694	3	5 Woodfield Mall	(bet. Frontage & Golf Rds.)	Schaumburg, IL 60173
+1695	3	1204 N. State Pkwy.	(At W Division St)	Chicago, IL 60610
+1696	2	2109 SOUTHLAKE MALL,	Merrillville, IN 46410
+1697	3	5020 W 137th St	(bet. Nall & Roe Aves.)	Leawood, KS 66224
+1698	2	520 W 23RD ST,	Lawrence, KS 66046
+1699	2	15221 W 87TH STREET PKWY,	Lenexa, KS 66219
+1700	2	1359 Bardstown Rd.,	Louisville, KY 40204
+1701	2	115 TOWNE DR,	Elizabethtown, KY 42701
+1702	2	7150 HOUSTON RD,	Florence, KY 41042
+1703	2	9501 TAYLORSVILLE RD,	Louisville, KY 40299
+1704	3	605 Canal St	(Chartres St.)	New Orleans, LA 70130
+1705	3	2533 Constance St	(3rd St.)	New Orleans, LA 70130
+1706	3	8 Park Plaza	(At Charles St S)	Boston, MA 02116
+1707	2	125 HARVARD AVE,	Allston, MA 02134
+1708	3	600 E. Pratt St.	(S. Gay St.)	Baltimore, MD 21202
+1709	3	10300 Little Patuxent Pkwy.	(Wincopin Circle)	Columbia, MD 21044
+1710	3	4439 Lehigh Rd	(At Baltimore Ave)	College Park, MD 20740
+1711	2	37 XAVIER LOOP,	Augusta, ME 04330
+1712	2	1 Stanwood Pl,	Bar Harbor, ME 04609
+1713	2	311 E GRAND RIVER AVE,	Lansing, MI 48906
+1714	2	3055 Tittabawassee Rd,	Saginaw, MI 48604
+1715	2	12071 ELM CREEK BLVD N,	Osseo, MN 55369
+1716	2	1295 Chesterfirld Pkwy E,	Chesterfield, MO 63017
+1717	2	2600 BEACH BLVD,	Biloxi, MS 39531
+1718	2	10443 DIBERVILLE BLVD,	Biloxi, MS 39540
+1719	2	701 N 1ST ST,	Hamilton, MT 59840
+1720	2	3040 BUSCH ST,	Butte, MT 59701
+1721	2	307 N Front St,	Wilmington, NC 28401
+1722	2	106 Statesville Rd,	Huntersville, NC 28078
+1723	2	423 JACKSON PARK RD,	Kannapolis, NC 28083
+1724	2	4525 17TH AVE S,	Fargo, ND 58103
+1725	2	10150 CALIFORNIA ST,	Omaha, NE 68114
+1726	2	1740 N BELL ST,	Fremont, NE 68025
+1727	2	225 LOWELL RD,	Hudson, NH 03051
+1728	2	1100 S MAIN ST STE A,	Roswell, NM 88203
+1729	2	3005 S SAINT FRANCIS DR,	Santa Fe, NM 87505
+1730	2	4320 THE 25 WAY NE STE 100,	Albuquerque, NM 87109
+1731	2	10580 N. McCaran bld. Suite 108,	Reno, NV 89503
+1732	3	150 W. 10th St.	(At Waverly Pl)	Manhattan, NY 10014
+1733	2	2201 W DETROIT ST,	Broken Arrow, OK 74012
+1734	2	815 SW 119TH ST,	Oklahoma City, OK 73170
+1735	2	16251 SE MCLOUGHLIN BLVD,	Portland, OR 97267
+1736	2	12000 SE 82ND AVE,	Happy Valley, OR 97086
+1737	2	21895 NW IMBRIE DR,	Hillsboro, OR 97124
+1738	3	721 Easton Rd.	(County Line Rd.)	Warrington, PA 18976
+1739	3	606 S 2 St	(At South St)	Philadelphia, PA 19153
+1740	3	9241 Roosevelt Blvd	(Btwn Welsh Rd & Grant Ave)	Philadelphia, PA 19114
+1741	2	5 NEW LONDON AVE,	Cranston, RI 02920
+1742	2	1000 DIVISION RD,	East Greenwich, RI 02818
+1743	2	49 LONG WHARF MALL,	Newport, RI 02840
+1744	2	943 MAIN ST,	West Warwick, RI 02893
+1745	2	1127 WOODRUFF RD,	Greenville, SC 29607
+1746	2	103 STONE DR,	Anderson, SC 29625
+1747	2	3405 Forest Dr,	Columbia, SC 29204
+1748	2	4517 FOREST DR,	Columbia, SC 29206
+1749	2	1810 6TH ST,	Brookings, SD 57006
+1750	2	405 N HIGHWAY 281,	Aberdeen, SD 57401
+1751	2	2110 HAMILTON PLACE BLVD,	Chattanooga, TN 37421
+1752	2	375 Sgt Paul Huff Pky Nw,	Cleveland, TN 37312
+1753	2	101 CREEKSIDE XING,	Brentwood, TN 37027
+1754	2	3862 TRENTON RD,	Clarksville, TN 37040
+1755	2	827 BROAD ST,	Chattanooga, TN 37402
+1756	3	2620 Briar Ridge Dr	(Westheimer Rd.)	Houston, TX 77057
+1757	3	10455 Briar Forest Dr.	(Beltway 8)	Houston, TX 77042
+1758	3	2520 Amherst St	(Kirby Dr.)	Houston, TX 77005
+1759	3	18323 N Dallas Parkway	(Frankford Rd.)	Dallas, TX 75287
+1760	3	15900 La Cantera Pkwy.	(N. Loop 1604)	San Antonio, TX 78256
+1761	2	196 N MAIN ST,	Moab, UT 84532
+1762	2	1748 REDSTONE CENTER DR STE 110,	Park City, UT 84098
+1763	2	221 Western Ave,	Brattleboro, VT 05301
+1764	3	1750 Tysons Blvd	(Rte. 123)	Mclean, VA 22102
+1765	3	1502 Pacific Ave	(S. 15th St.)	Tacoma, WA 98402
+1766	2	2012 S 320TH ST,	Federal Way, WA 98003
+1767	2	563 Bellevue Sq,	Bellevue, WA 98004
+1768	3	9801 W Dakota St	(99th St.)	Milwaukee, WI 53227
+1769	3	4016 S Packard Ave	(Tesch St.)	Saint Francis, WI 53235
+1770	2	2237 DEMING WAY,	Middleton, WI 53562
+1771	2	80 University Square,	Madison, WI 53715
+1772	2	1657 S 108TH ST,	Milwaukee, WI 53214
+1773	2	2665 S ONEIDA ST,	Green Bay, WI 54304
+1774	2	224 Harper Park Dr,	Beckley, WV 25801
+1775	2	357 Patteson Dr,	Morgantown, WV 26505
+1776	2	2402 Mountaineer Blvd,	Charleston, WV 25309
+1777	2	72 OAK LEE DR,	Ranson, WV 25438
+1778	2	203 Merchants Walk,	Summersville, WV 26651
+1779	2	601 SE WYOMING BLVD,	Casper, WY 82609
+1780	2	4800 WHITESBURG DR S,	Huntsville, AL 35802
+1781	2	821 QUINTARD AVE,	Anniston, AL AL
+1782	2	669 S MCKENZIE ST STE A101,	Foley, AL 36535
+1783	2	12844 US HIGHWAY 431 STE F,	Guntersville, AL 35976
+1784	2	4935 E CAREFREE HWY,	Cave Creek, AZ 85331
+1785	3	655 S Hope St	(At Wilshire Blvd)	Los Angeles, CA 90017
+1786	2	10940 TRINITY PKWY STE H,	Stockton, CA 95219
+1787	3	8030 W 3rd St	(At S Laurel Ave)	Los Angeles, CA 90048
+1788	3	2115 13th St	(Spruce St.)	Boulder, CO 80302
+1789	2	1801 Central Park Dr,	Steamboat Springs, CO 80487
+1790	2	245 Hope St,	Stamford, CT 06906
+1791	2	641 FARMINGTON AVE STE 33,	Bristol, CT 06010
+1792	2	11421 S DIXIE HWY,	Miami, FL 33156
+1793	2	20 S Wall St,	Cartersville, GA 30120
+1794	2	3022 E 53RD ST,	Davenport, IA 52807
+1795	2	5925 UNIVERSITY AVE STE 1,	Cedar Falls, IA 50613
+1796	2	6427 16TH ST,	Berwyn, IL 60402
+1797	2	1100 COLLINSVILLE CROSSING BLVD,	Collinsville, IL 62234
+1798	2	2383 SYCAMORE RD,	Dekalb, IL 60115
+1799	3	2301 W Roscoe St	(At N Oakley Ave)	Chicago, IL 60618
+1800	2	116 S INDIANA AVE,	Bloomington, IN 47408
+1801	2	2100 E Boulevard,	Kokomo, IN 46902
+1802	2	139 NORTHWESTERN AVE,	West Lafayette, IN 47906
+1803	2	2663 E MAIN ST,	Plainfield, IN 46168
+1804	2	615 Massachusetts St,	Lawrence, KS 66044
+1805	2	2100 S 9TH ST STE A,	Salina, KS 67401
+1806	2	1609 N DIXIE HWY STE 1,	Elizabethtown, KY 42701
+1807	2	305 LEONARDWOOD RD STE 3,	Frankfort, KY 40601
+1808	2	6021 TIMBER RIDGE DR,	Prospect, KY 40059
+1809	2	1800 MACARTHUR DR STE B,	Alexandria, LA 71301
+1810	2	1898 AIRLINE DR STE B,	Bossier City, LA 71112
+1811	2	12807 HIGHWAY 90 STE 104,	Luling, LA 70070
+1812	2	1855 BARATARIA BLVD STE C1,	Marrero, LA 70072
+1813	3	50 Beach St	(Btwn Harrison Ave & Tyler St)	Boston, MA 02111
+1814	2	2157 YORK RD,	Lutherville Timonium, MD 21093
+1815	2	951 BEARDS HILL RD UNIT G,	Aberdeen, MD 21001
+1816	2	573 BALTIMORE PIKE,	Bel Air, MD 21014
+1817	2	2642 W 11 Mile Rd,	Berkley, MI 48072
+1818	2	9912 E GRAND RIVER AVE STE 400,	Brighton, MI 48116
+1819	2	194 PIONEER TRL,	Chaska, MN 55318
+1820	2	6415 HIGHWAY 10 NW,	Anoka, MN 55303
+1821	2	14169 MANCHESTER RD STE F,	Ballwin, MO 63011
+1822	2	128 RICHARDSON XING,	Arnold, MO 63010
+1823	2	1316 E NORTH AVE,	Belton, MO 64012
+1824	2	12419 SAINT CHARLES ROCK RD,	Bridgeton, MO 63044
+1825	2	123 GRANDVIEW DR STE F,	Madison, MS 39110
+1826	2	15 COMMONS WAY,	Kalispell, MT 59901
+1827	2	2405 W MAIN ST STE 8,	Bozeman, MT 59718
+1828	2	1005 BEAVER CREEK COMMONS DR,	Apex, NC 27502
+1829	2	100 W FRANKLIN ST,	Chapel Hill, NC 27516
+1830	2	7731 GATEWAY LN,	Concord, NC 28027
+1831	2	1801 45TH ST S,	Fargo, ND 58103
+1832	2	3551 32ND AVE S,	Grand Forks, ND 58201
+1833	2	2035 N Broadway,	Minot, ND 58703
+1834	2	56 Broadway,	Fargo, ND 58102
+1835	2	6100 O St,	Lincoln, NE 68505
+1836	2	1686 E 23RD ST UNIT N,	Fremont, NE 68025
+1837	2	320 S BURLINGTON AVE,	Hastings, NE 68901
+1838	2	201 E LEOTA ST STE 100,	North Platte, NE 69101
+1839	2	35 LAFAYETTE RD,	North Hampton, NH 03862
+1840	2	599 LAFAYETTE RD STE 5,	Portsmouth, NH 03801
+1841	2	70 ELM ST,	Westfield, NJ 07090
+1842	2	588A BLOOMFIELD AVE,	Bloomfield, NJ 07003
+1843	2	1930 Route 88,	Brick, NJ 08724
+1844	2	4500 ARROWHEAD RIDGE DR SE,	Rio Rancho, NM 87124
+1845	2	893 TAHOE BLVD STE 600,	Incline Village, NV 89451
+1846	2	120 WASHINGTON AVE,	Albany, NY 12210
+1847	2	90-15 Queens Blvd Queens Center Mall,	Elmhurst, NY 11373
+1848	2	9749 KENWOOD RD,	Cincinnati, OH 45242
+1849	2	5030 DEERFIELD BLVD,	Mason, OH 45040
+1850	2	2001 NW MONROE AVE STE 105,	Corvallis, OR 97330
+1851	2	2250 14TH AVE SE UNIT D,	Albany, OR 97322
+1852	2	4801 CENTRE AVE,	Pittsburgh, PA 15213
+1853	3	33 E. City Ave.	(At Conshohocken State Rd)	Bala Cynwyd, PA 19004
+1854	3	1054 Baltimore Pike	(Riverview Rd.)	Springfield, PA 19064
+1855	2	1565 POST RD,	Warwick, RI 02888
+1856	2	4930 CENTRE POINTE DR STE 101,	North Charleston, SC 29418
+1857	2	1754 HIGHWAY 160 W STE 109,	Fort Mill, SC 29708
+1858	2	802 S BATESVILLE RD STE A,	Greer, SC 29650
+1859	2	11 PALMETTO BAY RD STE 103,	Hilton Head Island, SC 29928
+1860	2	741 MOUNTAIN VIEW RD,	Rapid City, SD 57702
+1861	2	49 N 5TH ST,	Custer, SD 57730
+1862	2	5252 HICKORY HOLLOW PKWY STE FC08,	Antioch, TN 37013
+1863	2	4101 S COOPER ST,	Arlington, TX 76015
+1864	2	2713 E 15TH ST,	Plano, TX 75074
+1865	2	2762 W 12600 S,	Riverton, UT 84065
+1866	2	556 S 1750 W,	Springville, UT 84663
+1867	2	166 SYCAMORE ST STE 190,	Williston, VT 05495
+1868	2	100 LINDEN SQUARE DR,	Bristol, VA 24202
+1869	2	909 SE EVERETT MALL WAY,	Everett, WA 98208
+1870	2	136 W HIGH ST,	Centralia, WA 98531
+1871	2	18895 W BLUEMOUND RD,	Brookfield, WI 53045
+1872	2	2476 S ONEIDA ST,	Green Bay, WI 54304
+1873	2	456 High St,	Morgantown, WV 26505
+1874	2	1325 S PARK LOOP RD UNIT B,	Jackson, WY 83001
+1875	2	101 GATEWAY BLVD STE A,	Rock Springs, WY 82901
+1876	2	724 2ND AVE NW,	Cullman, AL 35055
+1877	2	2421 6TH AVE SE,	Decatur, AL 35601
+1878	2	303 E MEIGHAN BLVD,	Gadsden, AL 35903
+1879	2	7401 Rogers Ave,	Fort Smith, AR 72903
+1880	2	695 W VAN ASCHE DR,	Fayetteville, AR 72704
+1881	2	1600 MILITARY RD,	Benton, AR 72015
+1882	2	5830 W BELL RD,	Glendale, AZ 85308
+1883	3	400 S Pacific Ave	(At W 4th St)	San Pedro, CA 90731
+1884	2	2301 Clover Basin Dr,	Longmont, CO 80503
+1885	2	4084 WADSWORTH BLVD,	Wheat Ridge, CO 80033
+1886	2	575 GARDEN OF THE GODS RD,	Colorado Springs, CO 80907
+1887	2	38472 BOULDER CANYON DR,	Boulder, CO 80302
+1888	2	4514 CENTERPLACE DR,	Greeley, CO 80634
+1889	2	1 STATE ST FL 20,	Hartford, CT 06103
+1890	2	990 Chapel,	New Haven, CT 06510
+1891	2	375 GREENWICH AVE,	Greenwich, CT 06830
+1892	3	1801 18 th. street NW	(At S St NW)	Washington, DC 20009
+1893	3	633 D St NW	(Btwn 6th & 7th St NW)	Washington, DC 20004
+1894	3	821 N. Market St.	(bet. 8th & 9th Sts.)	Wilmington, DE 19801
+1895	2	309 Rocky Run Pkwy,	Wilmington, DE 19803
+1896	2	1220 Aliinui Dr.,	Kapolei, HI 96707
+1897	3	226 Lewers St.	(Helumoa Rd.)	Honolulu, HI 96815
+1898	2	3750 WAILEA ALANUI DR,	Kihei, HI 96753
+1899	2	4798 SERGEANT RD,	Sioux City, IA 51106
+1900	2	4508 University Ave,	West Des Moines, IA 50266
+1901	2	3272 E Pine Ave,	Meridian, ID 83642
+1902	2	105 S 6TH ST,	Boise, ID 83702
+1903	3	4709 N Damen Ave	(At W Leland Ave)	Chicago, IL 60625
+1904	3	D121 Woodfield Mall	(bet. Golf & Higgins Rds.)	Schaumburg, IL 60173
+1905	2	212 S ROGERS ST,	Bloomington, IN 47404
+1906	2	2465 SOUTHLAKE MALL,	Merrillville, IN 46410
+1907	2	620 W KIRKWOOD AVE,	Bloomington, IN 47404
+1908	3	11327 W 95th St	(Quivira Rd.)	Overland Park, KS 66214
+1909	2	7222 W 119th St,	Shawnee Mission, KS 66213
+1910	2	2441 N MAIZE RD,	Wichita, KS 67205
+1911	2	21300 W 153RD ST,	Olathe, KS 66061
+1912	2	6230 SW 6TH AVE,	Topeka, KS 66615
+1913	2	2311 Frankfort Ave.,	Louisville, KY 40206
+1914	2	6110 Bluebonnet Blvd,	Baton Rouge, LA 70809
+1915	2	519 Toulouse St,	New Orleans, LA 70130
+1916	2	75 MIDDLESEX TPKE SPC 1050,	Burlington, MA 01803
+1917	3	80 River St	(Btwn William & Auburn St)	Cambridge, MA 02139
+1918	2	8706 BELAIR RD,	Nottingham, MD 21236
+1919	2	10 COTTON ST,	Portland, ME 04101
+1920	2	769 Congress St,	Portland, ME 04102
+1921	2	649 TURNER ST STE 1A,	Auburn, ME 04210
+1922	2	3514 S Saginaw,	Burton, MI 48529
+1923	3	2739 Nicollet Ave. S.	(27th St.)	Minneapolis, MN 55408
+1924	2	319 MINNESOTA AVE NW,	Bemidji, MN 56601
+1925	2	7721 147TH ST W,	Apple Valley, MN 55124
+1926	2	7651 FRANCE AVE S,	Minneapolis, MN 55435
+1927	2	201 N MAIN ST,	Saint Charles, MO 63301
+1928	2	1 FOX VALLEY CTR,	Arnold, MO 63010
+1929	2	826 1ST CAPITOL DR,	Saint Charles, MO 63301
+1930	2	921 W LIBERTY DR,	Liberty, MO 64068
+1931	2	2520 LAKELAND DR,	Flowood, MS 39232
+1932	2	320 S PEARSON RD,	Pearl, MS 39208
+1933	2	Highway 2,	Troy, MT 59935
+1934	2	932 Helena Ave,	Helena, MT 59601
+1935	2	102 E Railroad,	Plains, MT 59859
+1936	2	802 Cary Towne Blvd,	Cary, NC 27511
+1937	2	817 CONOVER BLVD W,	Conover, NC 28613
+1938	2	913 E BROAD ST,	Fuquay Varina, NC 27526
+1939	2	Highway 49 & 200,	Beulah, ND 58523
+1940	2	4947 HOLDREGE ST,	Lincoln, NE 68504
+1941	2	4680 LEIGHTON AVE,	Lincoln, NE 68504
+1942	2	6800 S 27TH ST,	Lincoln, NE 68512
+1943	2	275 AMHERST ST,	Nashua, NH 03063
+1944	2	96 E MAIN ST,	Ramsey, NJ 07446
+1945	2	849 ROUTE 70,	Brick, NJ 08724
+1946	2	2105 Mt Holly Rd,	Burlington, NJ 08016
+1947	2	201 E UNIVERSITY AVE,	Las Cruces, NM 88005
+1948	2	414 OLD SANTA FE TRL,	Santa Fe, NM 87501
+1949	2	3000 San Pedro Dr NE # C,	Albuquerque, NM 87110
+1950	2	1450 E. Prater Way Suite 104,	Sparks, NV 89434
+1951	2	9475 Double R Blvd Ste B1,	Reno, NV 89511
+1952	3	3799 Las Vegas Blvd S	(Tropicana Ave.)	Las Vegas, NV 89109
+1953	2	4999 Kietzke Ln,	Reno, NV 89509
+1954	3	930 Third Ave (Corner of 56th St.)	(At 56th St)	New York, NY 10022
+1955	3	153 Merrick Ave	(bet. Miller Pl. & W. Loines Ave.)	Merrick, NY 11566
+1956	3	408 Fifth Ave.	(Btwn 7th & 8th St)	Brooklyn, NY 11215
+1957	2	404 CLEVELAND RD E,	Huron, OH 44839
+1958	2	1816 N HIGH ST,	Columbus, OH 43201
+1959	2	2823 OLENTANGY RIVER RD,	Columbus, OH 43202
+1960	2	1005 N MAIN ST,	Bowling Green, OH 43402
+1961	2	2110 MICHIGAN ST,	Sidney, OH 45365
+1962	2	1406 REYNOLDS RD,	Maumee, OH 43537
+1963	2	1050 ED NOBLE PKWY,	Norman, OK 73072
+1964	2	1736 S LYNN RIGGS BLVD,	Claremore, OK 74019
+1965	3	120 S 19th St	(Btwn Chestnut St & Sansom St)	Philadelphia, PA 19103
+1966	2	1553 Perry Hwy,	Mercer, PA 16137
+1967	2	1084 HOPE ST,	Providence, RI 02906
+1968	2	348 Thames St,	Newport, RI 02840
+1969	2	275 NEWPORT AVE,	Pawtucket, RI 02861
+1970	2	301 HOPE ST,	Bristol, RI 02809
+1971	2	208 73rd Avenue,	North Myrtle Beach, SC 29582
+1972	2	3607 Highway 17 South,	North Myrtle Beach, SC 29582
+1973	2	2356 BOUNDARY ST,	Beaufort, SC 29902
+1974	2	27 Archer Rd,	Hilton Head Island, SC 29928
+1975	2	10136 TWO NOTCH RD,	Columbia, SC 29229
+1976	2	3009 West End Avenue,	Nashville, TN 37203
+1977	2	5000 KATY MILLS CIR,	Katy, TX 77494
+1978	3	134 W Pierpont Ave	(bet. S. 200 W. & S. West Temple)	Salt Lake City, UT 84101
+1979	2	889 E 9400 S,	Sandy, UT 84094
+1980	2	Highway 128 Mile Marker 14,	Moab, UT 84532
+1981	3	736 W North Temple	(800 West)	Salt Lake City, UT 84116
+1982	2	1261 S 800 E,	Orem, UT 84097
+1983	2	RR 5,	Brattleboro, VT 05301
+1984	3	3804 Mount Vernon Ave	(Glebe Rd.)	Alexandria, VA 22305
+1985	2	1464 Seminole Trl,	Charlottesville, VA 22901
+1986	2	7511-7517 Richmond Hwy& Rte 1,	Alexandria, VA 22306
+1987	3	719 E Pike St	(Harvard Ave.)	Seattle, WA 98122
+1988	3	6049 Seaview Ave NW	(60th St.)	Seattle, WA 98107
+1989	2	N109 STONEY BROOK RD,	Appleton, WI 54915
+1990	2	2605 S ONEIDA ST,	Green Bay, WI 54304
+1991	2	120 E Wilson St,	Madison, WI 53703
+1992	2	9308 W Capitol Dr,	Milwaukee, WI 53222
+1993	2	2 Waterfront Pl,	Morgantown, WV 26501
+1994	2	Radisson Hotel,	Morgantown, WV 26505
+1995	2	925 FOXCROFT AVE,	Martinsburg, WV 25401
+1996	2	1679 SUNSET DR,	Rock Springs, WY 82901
+1997	2	602 S 4th St,	Basin, WY 82410
+1998	2	420 L ST,	Anchorage, AK 99501
+1999	2	120 2nd St,	Juneau, AK 99801

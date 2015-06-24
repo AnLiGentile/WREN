@@ -1,0 +1,2002 @@
+﻿restaurant	zagat	address
+2000	2000	5848	4123
+0000	3	4183 Roswell Rd. NE	(Interlochen Dr.)	Atlanta, GA 30342
+0001	3	621 North Ave. NE	(Glen Iris Dr.)	Atlanta, GA 30308
+0002	2	3829 Clairmont Rd	Atlanta, GA 30341
+0003	5	Park Place Shopping Ctr.	|	4505 Ashford Dunwoody Rd.	(Perimeter Ctr.)	Atlanta, GA 30346
+0004	5	Belvedere	|	560 Dutch Valley Rd.	(Monroe Dr.)	Atlanta, GA 30324
+0005	3	2974 Grandview Ave.	(Pharr Rd.)	Atlanta, GA 30305
+0006	3	3195 Roswell Rd. NW	(Peachtree Rd.)	Atlanta, GA 30305
+0007	5	Midtown Promenade	|	931 Monroe Dr. NE	(Virginia Ave.)	Atlanta, GA 30308
+0008	3	490 E. Paces Ferry Rd. NE	(Maple Dr.)	Atlanta, GA 30305
+0009	3	794 N. Highland Ave. NE	(bet. Greenwood & St. Charles Aves.)	Atlanta, GA 30306
+0010	5	Westside Mktpl.	|	1198 Howell Mill Rd.	(bet. 14th St. & Huff Rd.)	Atlanta, GA 30318
+0011	2	6690 Roswell Rd NE	Atlanta, GA 30328
+0012	3	710 Peachtree St. NE	(3rd St.)	Atlanta, GA 30308
+0013	3	2985 Grandview Ave.	(Pharr Rd.)	Atlanta, GA 30305
+0014	5	Peachtree Ctr.	|	229 Peachtree St. NE	(Andrew Young Int'l Blvd.)	Atlanta, GA 30303
+0015	5	Sovereign Bldg.	|	3344 Peachtree Rd.	(GA 400)	Atlanta, GA 30326
+0016	3	1261 W. Paces Ferry Rd.	(Northside Pkwy.)	Atlanta, GA 30327
+0017	3	3455 Peachtree Rd.	(Lenox Rd.)	Atlanta, GA 30326
+0018	3	375 14th St.	(State St.)	Atlanta, GA 30318
+0019	3	3073 Piedmont Rd. NE	(Paces Ferry Rd.)	Atlanta, GA 30305
+0020	5	Brookwood Square Ctr.	|	2140 Peachtree Rd. NE	(Colonial Homes Dr.)	Atlanta, GA 30309
+0021	5	Peachtree Battle Shopping Ctr.	|	2341 Peachtree Rd. NE	(Peachtree Battle Ave. NW)	Atlanta, GA 30305
+0022	5	Vinings on the River	|	4199 Paces Ferry Rd. NW	(bet. Garraux Rd. & Northside Pkwy.)	Atlanta, GA 30339
+0023	3	3070 Piedmont Rd. NE	(E. Paces Ferry Rd.)	Atlanta, GA 30305
+0024	2	2655 Cobb Pkwy	Atlanta, GA 30339
+0025	3	427 Edgewood Ave.	(bet. Blvd. NE & Jackson St. NE)	Atlanta, GA 30312
+0026	3	40 Seventh St. NE	(Cypress St.)	Atlanta, GA 30308
+0027	2	1715 Howell Mill Rd NW	Atlanta, GA 30318
+0028	5	The Prado Plaza	|	5590 Roswell Rd.	(Lake Placid Dr.)	Atlanta, GA 30342
+0029	2	2625 Piedmont Rd.	Atlanta, GA 30324
+0030	5	Floataway Bldg.	|	1123 Zonolite Rd. NE	(bet. Briarcliff & Johnson Rds.)	Atlanta, GA 30306
+0031	2	4849 Peachtree Rd	Atlanta, GA 30341
+0032	3	1041 N. Highland Ave. NE	(Virginia Ave.)	Atlanta, GA 30306
+0033	3	219 10th St. NE	(Piedmont Ave.)	Atlanta, GA 30309
+0034	5	Atlantic Station	|	264 19th St.	(W. District Ave.)	Atlanta, GA 30363
+0035	3	4320 Powers Ferry Rd. NW	(W. Wieuca Rd.)	Atlanta, GA 30342
+0036	3	3539 Northside Pkwy. NW	(W. Paces Ferry Rd.)	Atlanta, GA 30327
+0037	3	4046 Peachtree Rd. NE	(Dresden Dr. NE)	Atlanta, GA 30319
+0038	3	467 N. Highland Ave. NE	(Colquitt Ave.)	Atlanta, GA 30307
+0039	3	1810 Cheshire Bridge Rd. NE	(bet. Manchester & Piedmont Rds.)	Atlanta, GA 30324
+0040	3	1545 Peachtree St. NE	(Spring St.)	Atlanta, GA 30309
+0041	2	5819 Campbellton Rd SW	Atlanta, GA 30331
+0042	2	234 Hilderbrand Dr NE	Atlanta, GA 30328
+0043	2	2770 Lenox Rd NE	Atlanta, GA 30324
+0044	5	Ansley Sq.	|	1510F Piedmont Ave.	(Monroe Dr.)	Atlanta, GA 30324
+0045	3	1801 Howell Mill Rd.	(I-75)	Atlanta, GA 30318
+0046	3	3861 Roswell Rd.	(bet. Le Brun & Piedmont Rds.)	Atlanta, GA 30342
+0047	3	2225 Cheshire Bridge Rd. NE	(Woodland Ave.)	Atlanta, GA 30324
+0048	3	550 Amsterdam Ave. NE	(Monroe Dr.)	Atlanta, GA 30306
+0049	2	3569 Main St	Atlanta, GA 30337
+0050	5	Perimeter Mall	|	4400 Ashford Dunwoody Rd.	(I-285, exit 29)	Atlanta, GA 30346
+0051	2	320 Peachtree St NE	Atlanta, GA 30308
+0052	3	3209 Maple Dr. NE	(Peachtree Rd.)	Atlanta, GA 30305
+0053	5	Crowne Plaza Atlanta-Buckhead	|	3377 Peachtree Rd. NE	(2 blocks south of Lenox Rd.)	Atlanta, GA 30326
+0054	3	999 Brady Ave.	(Marietta)	Atlanta, GA 30318
+0055	3	619 Edgewood Ave.	(bet. Krog & Randolph Sts.)	Atlanta, GA 30312
+0056	5	Northridge Sq.	|	8290 Roswell Rd.	(Northridge Rd.)	Atlanta, GA 30350
+0057	2	3167 Peachtree Rd NE	Atlanta, GA 30305
+0058	3	1000 Virginia Ave. NE	(N. Highland Ave.)	Atlanta, GA 30306
+0059	3	903 Peachtree St. NE	(8th St.)	Atlanta, GA 30308
+0060	5	West Paces Ferry Shopping Ctr.	|	1284 W. Paces Ferry Rd.	(Northside Pkwy.)	Atlanta, GA 30327
+0061	2	650 Ponce De Leon Ave NE	Atlanta, GA 30308
+0062	3	25 Irby Ave. NW	(Roswell Rd.)	Atlanta, GA 30305
+0063	5	Tara Shopping Ctr.	|	2321 Cheshire Bridge Rd.	(Lavista Rd.)	Atlanta, GA 30324
+0064	5	Orchard Park Shopping Ctr.	|	2090 Dunwoody Club Dr.	(Jett Ferry Rd.)	Atlanta, GA 30350
+0065	5	Westin Buckhead	|	3391 Peachtree Rd. NE	(bet. GA 400 & Lenox Rd.)	Atlanta, GA 30326
+0066	3	25 Andrew Young Int'l Blvd. NW	(Spring St.)	Atlanta, GA 30303
+0067	3	500 Pharr Rd. NE	(Maple Dr.)	Atlanta, GA 30305
+0068	3	656 N. Highland Ave. NE	(bet. North Ave. & Ponce de Leon Blvd.)	Atlanta, GA 30306
+0069	2	318 E Paces Ferry Rd NE	Atlanta, GA 30305
+0070	3	240 Peachtree St. NE	(bet. Andrew Young Int'l Blvd. & Harris St.)	Atlanta, GA 30303
+0071	3	300 Marietta St.	(Baker St.)	Atlanta, GA 30313
+0072	5	TWELVE Centennial Park	|	400 W. Peachtree St. NW	(Ivan Allen Blvd.)	Atlanta, GA 30308
+0073	5	Peachtree Battle Shopping Ctr.	|	2355 Peachtree Rd. NE	(Peachtree Battle Ave.)	Atlanta, GA 30305
+0074	5	Two Buckhead Plaza	|	3050 Peachtree Rd. NW	(W. Paces Ferry Rd.)	Atlanta, GA 30305
+0075	3	879 Ralph David Abernathy Blvd. SW	(Dunn St.)	Atlanta, GA 30310
+0076	3	1144 Crescent Ave. NE	(14th St.)	Atlanta, GA 30309
+0077	3	1051 W. Peachtree St. NE	(11th St.)	Atlanta, GA 30309
+0078	3	5920 Roswell Rd. NE	(Hammond Dr.)	Atlanta, GA 30328
+0079	3	1117 W. 36th St.	(bet. Falls Rd. & Hickory Ave.)	Baltimore, MD 21211
+0080	3	823 N. Charles St.	(bet. Madison & Read Sts.)	Baltimore, MD 21201
+0081	3	1019 E. Lombard St.	(Exeter St.)	Baltimore, MD 21202
+0082	5	Belvedere Square Mkt.	|	529 E. Belvedere Ave.	(York Rd.)	Baltimore, MD 21212
+0083	3	1501 Bolton St.	(Mosher St.)	Baltimore, MD 21217
+0084	3	734 S. Broadway	(Lancaster St.)	Baltimore, MD 21231
+0085	3	1621 Aliceanna St.	(bet. Bethel St. & B'way)	Baltimore, MD 21231
+0086	2	2701 Boston St	Baltimore, MD 21224
+0087	3	438 E. Belvedere Ave.	(York Rd.)	Baltimore, MD 21212
+0088	3	410 S. High St.	(Eastern Ave.)	Baltimore, MD 21202
+0089	3	601 E Fort Ave	(Jackson)	Baltimore, MD 21230
+0090	3	316 N. Charles St.	(Saratoga St.)	Baltimore, MD 21201
+0091	3	1444 Light St.	(Fort Ave.)	Baltimore, MD 21230
+0092	3	236 S. High St.	(bet. Fawn & Stiles Sts.)	Baltimore, MD 21202
+0093	3	217 S. High St.	(Stiles St.)	Baltimore, MD 21202
+0094	2	631 S Broadway	Baltimore, MD 21231
+0095	3	911 W. 36th St.	(Roland Ave.)	Baltimore, MD 21211
+0096	5	Harborplace Pratt Street Pavilion	|	201 E. Pratt St.	(South St.)	Baltimore, MD 21202
+0097	2	6526 Holabird Ave	Baltimore, MD 21224
+0098	2	133 W North Ave	Baltimore, MD 21201
+0099	3	904 N. Charles St.	(Read St.)	Baltimore, MD 21201
+0100	3	3845 Falls Rd.	(41st St.)	Baltimore, MD 21211
+0101	3	100 W. University Pkwy.	(Canterbury Rd.)	Baltimore, MD 21210
+0102	2	319 York Rd	Baltimore, MD 21204
+0103	3	29 Newbury St.	(bet. Arlington & Berkeley Sts.)	Boston, MA 02116
+0104	2	35 Batterymarch St	Boston, MA 02109
+0105	3	2 School St.	(Washington St.)	Marblehead, MA 01945
+0106	2	148 Granite St	Quincy, MA 02169
+0107	3	793 Boylston St.	(Fairfield St.)	Boston, MA 02116
+0108	2	64 Pleasant St	Malden, MA 02148
+0109	3	27 Grove St.	(bet. Central & Spring Sts.)	Wellesley, MA 02482
+0110	2	9 Cummings Park	Woburn, MA 01801
+0111	3	433 Columbus Ave.	(bet. Braddock Park & Holyoke St.)	Boston, MA 02116
+0112	2	890 Broadway	Saugus, MA 01906
+0113	2	1437 Hancock St	Quincy, MA 02169
+0114	2	400 Highland Ave	Salem, MA 01970
+0115	5	Faneuil Hall	|	101 S. Market St.	(Merchants Row)	Boston, MA 02109
+0116	3	761 Beacon St.	(Langley Rd.)	Newton, MA 02459
+0117	3	569 Tremont St.	(Clarendon St.)	Boston, MA 02118
+0118	2	134 Massachusetts Ave	Arlington, MA 02474
+0119	2	30 Leonard St	Belmont, MA 02478
+0120	5	Mandarin Oriental	|	776 Boylston St.	(Fairfield St.)	Boston, MA 02199
+0121	3	555 Talbot Ave.	(Ashmont St.)	Dorchester, MA 02124
+0122	3	50 Hampshire St.	(Webster Ave.)	Cambridge, MA 02139
+0123	3	44 Border St.	(Summer St.)	Cohasset, MA 02025
+0124	5	Seaport Hotel	|	1 Seaport Ln.	(bet. Congress St. & Northern Ave.)	Boston, MA 02210
+0125	3	550 Tremont St.	(Waltham St.)	Boston, MA 02116
+0126	3	1952 Beacon St.	(Chestnut Hill Ave.)	Brighton, MA 02135
+0127	3	167 Massachusetts Ave.	(Belvidere St.)	Boston, MA 02115
+0128	2	76 Haven St	Reading, MA 01867
+0129	3	80½ Pearl St.	(bet. Auburn & William Sts.)	Cambridge, MA 02139
+0130	2	141 Front St	Marblehead, MA 01945
+0131	2	400 Tradecenter Ste 1800	Woburn, MA 01801
+0132	5	The Brewery	|	284 Amory St.	(Boylston St.)	Jamaica Plain, MA 02130
+0133	2	288 Hanover St	Boston, MA 02113
+0134	3	933 Hingham St.	(Commerce Rd.)	Rockland, MA 02370
+0135	3	533 Commonwealth Ave.	(Brookline Ave.)	Boston, MA 02215
+0136	2	322 Revere Beach Blvd	Revere, MA 02151
+0137	3	26 Charles St.	(Beacon St.)	Boston, MA 02114
+0138	3	882 Highland Ave.	(West St.)	Needham, MA 02494
+0139	5	Faneuil Hall Mktpl.	|	1 Faneuil Hall Mktpl.	(bet. N. Market & S. Market Sts.)	Boston, MA 02109
+0140	3	37 Davis Sq.	(College Ave.)	Somerville, MA 02144
+0141	5	Colonnade Hotel	|	120 Huntington Ave.	(W. Newton St.)	Boston, MA 02116
+0142	3	241 Hanover St.	(bet. Cross & Richmond Sts.)	Boston, MA 02113
+0143	3	386 Market St.	(Washington St.)	Brighton, MA 02135
+0144	3	305 Washington St.	(Harvard Sq.)	Brookline, MA 02445
+0145	2	65 Newbury St	Danvers, MA 01923
+0146	3	52A Brattle St.	(Hilliard St.)	Cambridge, MA 02138
+0147	3	40 Brattle St.	(Church St.)	Cambridge, MA 02138
+0148	5	Taj Boston	|	15 Arlington St.	(Newbury St.)	Boston, MA 02116
+0149	3	10 Wayside Rd.	(Cambridge St.)	Burlington, MA 01803
+0150	2	355 Main St	Reading, MA 01867
+0151	3	279 Linden St.	(Kingsbury St.)	Wellesley, MA 02482
+0152	5	Harvard Sq.	|	40 Brattle St.	(Church St.)	Cambridge, MA 02138
+0153	3	669A Centre St.	(bet. Burroughs & Myrtle Sts.)	Jamaica Plain, MA 02130
+0154	2	404 Boston Providence Tp	Norwood, MA 02062
+0155	3	83 Essex St.	(bet. Chauncy & Oxford Sts.)	Boston, MA 02111
+0156	5	Natick Collection	|	1245 Worcester St.	(Speen St.)	Natick, MA 01760
+0157	3	230 Harvard St.	(Webster St.)	Brookline, MA 02446
+0158	3	371 Union St.	(Park St.)	Rockland, MA 02370
+0159	3	237 Quincy Ave.	(bet. Circuit & Faxon Park Rds.)	Quincy, MA 02169
+0160	2	27 Converse Pl	Winchester, MA 01890
+0161	5	Eliot Hotel	|	370A Commonwealth Ave.	(Mass. Ave.)	Boston, MA 02215
+0162	3	284 Washington St.	(Harvard St.)	Brookline, MA 02445
+0163	3	20 North Rd.	(Rte. 62)	Bedford, MA 01730
+0164	2	20 North Rd Ste 1	Bedford, MA 01730
+0165	3	415 Washington St.	(Beacon St.)	Somerville, MA 02143
+0166	2	1236 Dorchester Ave	Dorchester, MA 02125
+0167	3	60-64 Mt. Auburn St.	(Main St.)	Watertown, MA 02472
+0168	3	955 Boylston St.	(Mass. Ave.)	Boston, MA 02115
+0169	2	235 Hull St	Cohasset, MA 02025
+0170	3	246 Elm St.	(Chester St.)	Somerville, MA 02144
+0171	2	987 Main St	Waltham, MA 02451
+0172	3	401 Harvard St.	(Naples Rd.)	Brookline, MA 02446
+0173	3	348 Congress St.	(bet. Farnsworth St. & Thomson Pl.)	Boston, MA 02210
+0174	2	255 State St Lbby	Boston, MA 02109
+0175	3	700 Harrison Ave.	(bet. E. Brookline & E. Canton Sts.)	Boston, MA 02118
+0176	2	216 Sumner St	Newton Center, MA 02459
+0177	2	218 Speen St	Natick, MA 01760
+0178	2	40 Walkers Brook Dr	Reading, MA 01867
+0179	2	1430 Highland Ave	Needham, MA 02492
+0180	5	The Cellar	|	991 Massachusetts Ave.	(Dana St.)	Cambridge, MA 02138
+0181	3	560 Harrison Ave.	(Waltham St.)	Boston, MA 02118
+0182	3	355 Hanover St.	(bet. Fleet & Prince Sts.)	Boston, MA 02113
+0183	3	28 Kingston St.	(bet. Bedford & Summer Sts.)	Boston, MA 02111
+0184	3	26 Congress St.	(Derby St.)	Salem, MA 01970
+0185	2	71 Elm St	Watertown, MA 02472
+0186	3	1 N. Beacon St.	(Cambridge St.)	Allston, MA 02134
+0187	2	89 Winthrop St	Cambridge, MA 02138
+0188	3	37 Bowdoin St.	(bet. Beacon & Cambridge Sts.)	Boston, MA 02114
+0189	3	1248-1250 Cambridge St.	(Prospect St.)	Cambridge, MA 02139
+0190	2	15 Dunster St	Cambridge, MA 02138
+0191	3	150 Highland Ave.	(Central St.)	Somerville, MA 02143
+0192	3	855 Broadway/Rte. 1	(Lynn Fells Pkwy.)	Saugus, MA 01906
+0193	3	1735 Centre St.	(Manthorne Rd.)	West Roxbury, MA 02132
+0194	3	592 Tremont St.	(Dartmouth St.)	Boston, MA 02118
+0195	5	Teele Sq.	|	235 Holland St.	(Broadway)	Somerville, MA 02144
+0196	3	50 Leonard St.	(Moore St.)	Belmont, MA 02478
+0197	2	1001 Massachusetts Ave	Cambridge, MA 02138
+0198	3	49 Temple Pl.	(bet. Tremont & Washington Sts.)	Boston, MA 02111
+0199	2	177 Massachusetts Ave	Lexington, MA 02420
+0200	5	Ritz-Carlton Boston Common	|	10 Avery St.	(Tremont St.)	Boston, MA 02111
+0201	3	256 Elm St.	(Davis Sq.)	Somerville, MA 02144
+0202	3	131 Sherman St.	(bet. Rindge Ave. & Walden St.)	Cambridge, MA 02140
+0203	2	1234 Soldiers Field Rd	Brighton, MA 02135
+0204	3	10 Langley Rd.	(Centre St.)	Newton, MA 02459
+0205	3	1030 Commonwealth Ave.	(Babcock St.)	Brookline, MA 02215
+0206	3	444 Massachusetts Ave.	(Medford St.)	Arlington, MA 02474
+0207	5	Kings Bowling Alley	|	50 Dalton St.	(Scotia St.)	Boston, MA 02115
+0208	3	25 Kingston St.	(bet. Bedford & Summer Sts.)	Boston, MA 02111
+0209	3	948 Broadway/Rte. 1	(Main St.)	Saugus, MA 01906
+0210	3	86 Cambridge St.	(Arlington Rd.)	Burlington, MA 01803
+0211	2	181 Nantasket Ave	Hull, MA 02045
+0212	3	112 Salem St.	(bet. Cooper & Prince Sts.)	Boston, MA 02113
+0213	2	1070 N Main St	Randolph, MA 02368
+0214	3	97 Mt. Vernon St.	(Cedar St.)	Boston, MA 02108
+0215	2	901 Main St	Woburn, MA 01801
+0216	2	417 Salem St	Medford, MA 02155
+0217	3	20 University Rd.	(Eliot St.)	Cambridge, MA 02138
+0218	3	1666 Massachusetts Ave.	(bet. Grant St. & Wallis Ct.)	Lexington, MA 02420
+0219	3	190 North St.	(Richmond St.)	Boston, MA 02113
+0220	2	903 Boylston St	Boston, MA 02115
+0221	3	102 Broad St.	(Wharf St.)	Boston, MA 02110
+0222	3	1391 Washington St.	(bet. Elm St. & Mass. Tpke.)	West Newton, MA 02465
+0223	3	3 Winter Pl.	(bet. Tremont & Washington Sts.)	Boston, MA 02108
+0224	3	92 Hampshire St.	(Windsor St.)	Cambridge, MA 02141
+0225	3	226 Hanover St.	(Richmond St.)	Boston, MA 02113
+0226	2	320 Center St	Randolph, MA 02368
+0227	3	15 State St.	(bet. Front & Washington Sts.)	Marblehead, MA 01945
+0228	3	52 Temple Pl.	(bet. Tremont & Washington Sts.)	Boston, MA 02111
+0229	3	10 Bosworth St.	(Tremont St.)	Boston, MA 02108
+0230	3	233A Elm St.	(Grove St.)	Somerville, MA 02144
+0231	5	Needham Ctr.	|	990 Great Plain Ave.	(Chestnut St.)	Needham, MA 02492
+0232	2	109 Savin Hill Ave	Dorchester, MA 02125
+0233	5	Natick Collection	|	1245 Worcester St.	(Speen St.)	Natick, MA 01760
+0234	3	1124 Cambridge St.	(bet. Elm & Norfolk Sts.)	Cambridge, MA 02139
+0235	2	1282 Worcester St	Natick, MA 01760
+0236	5	World Trade Center East	|	Two Seaport Ln.	(bet. Congress St. & Northern Ave.)	Boston, MA 02210
+0237	3	693 Massachusetts Ave.	(bet. Central & Water Sts.)	Arlington, MA 02476
+0238	3	228 Broadway	(Clark St.)	Cambridge, MA 02139
+0239	3	455 Totten Pond Rd.	(3rd Ave.)	Waltham, MA 02451
+0240	3	63-65 Galen St.	(Aldrich Rd.)	Watertown, MA 02472
+0241	3	417 Hanover St.	(bet. Harris & Salutation Sts.)	Boston, MA 02113
+0242	2	530 Main St	Medfield, MA 02052
+0243	3	16 Mazzeo Dr.	(West St.)	Randolph, MA 02368
+0244	3	40 Court St.	(Tremont St.)	Boston, MA 02108
+0245	3	612 Hammond St.	(Boylston St.)	Chestnut Hill, MA 02467
+0246	3	6 Cypress St.	(Washington St.)	Brookline, MA 2445
+0247	3	102 Oxford St.	(Crescent St.)	Cambridge, MA 02138
+0248	2	487 Cambridge St	Allston, MA 02134
+0249	2	158 Boston Ave	Somerville, MA 02144
+0250	3	468 Commonwealth Ave.	(W. Charlesgate)	Boston, MA 02215
+0251	2	908 Main St	Woburn, MA 01801
+0252	2	1856 Centre St	West Roxbury, MA 02132
+0253	3	257 North St.	(Lewis St.)	Boston, MA 02113
+0254	3	888A Morton St.	(Evans St.)	Mattapan, MA 02126
+0255	5	Arsenal Mall	|	485 Arsenal St., 2	(Elm St.)	Watertown, MA 02472
+0256	3	4515 Washington St.	(Beech St.)	Roslindale, MA 02131
+0257	3	384 Boylston St.	(bet. Arlington & Berkeley Sts.)	Boston, MA 02116
+0258	2	RR 1 Box Old	Danvers, MA 01923
+0259	3	560 Tremont St.	(Clarendon St.)	Boston, MA 02118
+0260	5	Marina Bay	|	305 Victory Rd.	(Miwra Haul Rd.)	North Quincy, MA 2171
+0261	2	70 Union Sq	Somerville, MA 02143
+0262	2	2 Oliver St	Boston, MA 02109
+0263	5	Burlington Mall	|	75 Middlesex Tpke.	(I-95, exit 32B)	Burlington, MA 01803
+0264	2	209 Mystic Ave	Medford, MA 02155
+0265	2	50 Worcester Rd	Framingham, MA 01702
+0266	3	1222 Washington St.	(Perry St.)	Boston, MA 02118
+0267	3	2556 W. Fullerton Ave.	(Rockwell St.)	Chicago, IL 60647
+0268	3	545 N. Milwaukee Ave.	(Lake St.)	Libertyville, IL 60048
+0269	3	3134 N. Lincoln Ave.	(bet. Barry & Belmont Aves.)	Chicago, IL 60657
+0270	2	6358 W Irving Park Rd	Chicago, IL 60634
+0271	3	2171 N. Milwaukee Ave.	(Talman Ave.)	Chicago, IL 60647
+0272	3	3332 N. Broadway St.	(bet. Aldine Ave. & Buckingham Pl.)	Chicago, IL 60657
+0273	2	3115 N Lincoln Ave	Chicago, IL 60657
+0274	3	614 W. Diversey Pkwy.	(Clark St.)	Chicago, IL 60614
+0275	3	1723 N. Halsted St.	(bet. North Ave. & Willow St.)	Chicago, IL 60614
+0276	3	13 N. Cass Ave.	(Burlington Ave.)	Westmont, IL 60559
+0277	3	4559 S Halsted St	(and 47th)	Chicago, IL 60609
+0278	5	American Girl Place, Water Tower Place Mall	|	835 N. Michigan Ave.	(bet. Chestnut & Pearson Sts.)	Chicago, IL 60611
+0279	2	2221 N Lincoln Ave	Chicago, IL 60614
+0280	3	4156 N. Kedzie Ave.	(bet. Irving Park Rd. & Montrose Ave.)	Chicago, IL 60618
+0281	2	12 E Cedar St	Chicago, IL 60611
+0282	2	38 S Weber Rd	Romeoville, IL 60446
+0283	5	Hotel Burnham	|	1 W. Washington St.	(State St.)	Chicago, IL 60602
+0284	5	Peninsula Hotel	|	108 E. Superior St.	(bet. Michigan Ave. & Rush St.)	Chicago, IL 60611
+0285	2	4569 N Elston Ave	Chicago, IL 60630
+0286	3	3107 N. Broadway St.	(Belmont Ave.)	Chicago, IL 60657
+0287	3	1669 Algonquin Rd.	(Golf Rd.)	Rolling Meadows, IL 60008
+0288	2	7585 S Madison St	Burr Ridge, IL 60527
+0289	5	The Elysian	|	11 E. Walton St.	(bet. Rush & State Sts.)	Chicago, IL 60611
+0290	2	1004 W Golf Rd	Hoffman Estates, IL 60179
+0291	3	121 W. Front St.	(bet. Hale & Main Sts.)	Wheaton, IL 60187
+0292	2	1510 E Hintz Rd	Arlington Heights, IL 60004
+0293	5	Foundry Shopping Ctr.	|	700 W. Northwest Hwy.	(Hart Rd.)	Barrington, IL 60010
+0294	2	232 E Main St	Barrington, IL 60010
+0295	2	1899 2nd St Unit 101	Highland Park, IL 60035
+0296	3	52 W. Illinois St.	(Dearborn St.)	Chicago, IL 60654
+0297	5	O'Hare Int'l Airport	|	Concourse C	(I-190)	Chicago, IL 60666
+0298	2	635 N State St	Chicago, IL 60654
+0299	2	6352 N Oakley Ave	Chicago, IL 60659
+0300	2	410 W State St	Geneva, IL 60134
+0301	5	Doubletree Hotel Chicago-Arlington Heights	|	75 W. Algonquin Rd.	(Arlington Heights Rd.)	Arlington Heights, IL 60005
+0302	2	8734 S Stony Island Ave	Chicago, IL 60617
+0303	3	1265 N. Milwaukee Ave.	(bet. Ashland Ave. & Paulina St.)	Chicago, IL 60622
+0304	2	1636 Old Deerfield Rd	Highland Park, IL 60035
+0305	3	2916 Central St.	(Lincolnwood Dr.)	Evanston, IL 60201
+0306	2	2600 Navy Blvd	Glenview, IL 60026
+0307	3	1381 W. Hubbard St.	(Noble St.)	Chicago, IL 60642
+0308	3	4111 N. Lincoln Ave.	(bet. Belle Plaine & Warner Aves.)	Chicago, IL 60618
+0309	3	3651 N. Southport Ave.	(Waveland Ave.)	Chicago, IL 60613
+0310	3	1421 W. Chicago Ave.	(bet. Bishop & Noble Sts.)	Chicago, IL 60642
+0311	3	430 N. Main St.	(Duane St.)	Glen Ellyn, IL 60137
+0312	3	2252 N. Western Ave.	(bet. Belden Ave. & Lyndale St.)	Chicago, IL 60647
+0313	3	5527 Milwaukee Ave.	(bet. Bryn Mawr & Catalpa Aves.)	Chicago, IL 60630
+0314	3	1954 W. North Ave.	(Damen Ave.)	Chicago, IL 60622
+0315	5	Hilton Suites	|	198 E. Delaware Pl.	(Mies van Der Rohe Way)	Chicago, IL 60611
+0316	3	6731 N. Northwest Hwy.	(Oshkosh Ave.)	Chicago, IL 60631
+0317	5	Wyndham Chicago	|	633 N. St. Clair St.	(Ontario St.)	Chicago, IL 60611
+0318	2	12307 S Harlem Ave	Palos Heights, IL 60463
+0319	3	4343 N. Lincoln Ave.	(bet. Montrose & Pensacola Aves.)	Chicago, IL 60618
+0320	2	1800 Ogden Ave	Lisle, IL 60532
+0321	3	1119 W. Taylor St.	(May St.)	Chicago, IL 60607
+0322	3	2018 W. Chicago Ave.	(bet. Damen & Hoyne Aves.)	Chicago, IL 60622
+0323	2	226 Peterson Rd	Libertyville, IL 60048
+0324	2	3152 N Broadway St	Chicago, IL 60657
+0325	2	6030 Route 132nd	Gurnee, IL 60031
+0326	2	6214 N Western Ave	Chicago, IL 60659
+0327	2	4200 N Lincoln Ave	Chicago, IL 60618
+0328	5	theWit Hotel	|	201 N. State St.	(Lake St.)	Chicago, IL 60601
+0329	2	1783 Saint Johns Ave	Highland Park, IL 60035
+0330	5	CityGate Ctr.	|	2020 Calamos Ct.	(Westings Ave.)	Naperville, IL 60563
+0331	5	Lake Point Tower	|	505 N. Lake Shore Dr., 70th fl.	(Navy Pier)	Chicago, IL 60611
+0332	5	Northbrook Court Shopping Ctr.	|	2000 Northbrook Ct.	(bet. Lake Cook Rd. & Northbrook Court Dr.)	Northbrook, IL 60062
+0333	2	781 N Milwaukee Ave	Wheeling, IL 60090
+0334	3	6740 Route 53	(Rt 53 just North of Hobson)	Woodridge, IL 60517
+0335	3	760 Sheridan Rd	(elm place)	Highwood, IL 60040
+0336	3	2045 N. Damen Ave.	(bet. Dickens & McLean Aves.)	Chicago, IL 60647
+0337	3	300 W. Hubbard St.	(Franklin St.)	Chicago, IL 60654
+0338	2	5707 N Central Ave	Chicago, IL 60646
+0339	3	3423 N. Southport Ave.	(bet. Newport Ave. & Roscoe St.)	Chicago, IL 60657
+0340	2	1615 N Wells St	Chicago, IL 60614
+0341	3	410 Sheridan Rd.	(bet. Walker & Webster Aves.)	Highwood, IL 60040
+0342	3	546 N. Wells St.	(Ohio St.)	Chicago, IL 60654
+0343	3	7016 W. Cermak Rd.	(bet. Home & Wenonah Aves.)	Berwyn, IL 60402
+0344	2	2350 Lehigh Ave	Glenview, IL 60026
+0345	3	1114 W. Armitage Ave.	(Seminary Ave.)	Chicago, IL 60614
+0346	3	228 Green Bay Rd.	(Rte. 22)	Highwood, IL 60040
+0347	3	4004 N. Southport Ave.	(Irving Park Rd.)	Chicago, IL 60613
+0348	3	5840 W. Roosevelt Rd.	(bet. Mayfield & Monitor Aves.)	Chicago, IL 60644
+0349	3	39 E. Chicago Ave.	(Wabash Ave.)	Chicago, IL 60611
+0350	2	315 N Dearborn St	Chicago, IL 60654
+0351	3	1512 Sherman Ave.	(bet. Grove & Lake Sts.)	Evanston, IL 60201
+0352	3	2600 N. Clark St.	(Wrightwood Ave.)	Chicago, IL 60614
+0353	2	1831 Tower Dr	Glenview, IL 60026
+0354	2	3829 N Broadway St	Chicago, IL 60613
+0355	3	1112 S. Wabash Ave.	(11th St.)	Chicago, IL 60605
+0356	3	2238 S. Wentworth Ave.	(Cermak Rd.)	Chicago, IL 60616
+0357	3	517 S. State St.	(Congress Pkwy.)	Chicago, IL 60605
+0358	2	224 E Ontario St	Chicago, IL 60611
+0359	3	840 N. Wabash Ave.	(Chestnut St.)	Chicago, IL 60611
+0360	3	15657 S. Harlem Ave.	(bet. 156th & 157th Sts.)	Orland Park, IL 60462
+0361	2	15100 La Grange RD	Orland Park, IL 60462
+0362	3	4600 N. Lincoln Ave.	(Wilson Ave.)	Chicago, IL 60625
+0363	3	2211 N. Clybourn Ave.	(Webster Ave.)	Chicago, IL 60614
+0364	3	3131 Finley Rd.	(Branding Ln.)	Downers Grove, IL 60515
+0365	2	3335 N Halsted St	Chicago, IL 60657
+0366	3	22 E. Chicago Ave.	(Washington St.)	Naperville, IL 60540
+0367	5	Lincolnshire Commons	|	960 Milwaukee Ave.	(Aptakisic Rd.)	Lincolnshire, IL 60069
+0368	3	2100 W. Division St.	(Hoyne Ave.)	Chicago, IL 60622
+0369	2	2717 W Peterson Ave	Chicago, IL 60659
+0370	5	Seneca Hotel	|	200 E. Chestnut St.	(bet. Dewitt Pl. & Seneca St.)	Chicago, IL 60611
+0371	5	Barneys New York	|	15 E. Oak St.	(Rush St.)	Chicago, IL 60611
+0372	3	3755 N. Southport Ave.	(Grace St.)	Chicago, IL 60613
+0373	2	377 N Rand Rd	Lake Zurich, IL 60047
+0374	3	310 Green Bay Rd.	(Highwood Ave.)	Highwood, IL 60040
+0375	3	2075 N. Lincoln Ave.	(Dickens Ave.)	Chicago, IL 60614
+0376	3	1028 N. Rush St.	(Bellevue Pl.)	Chicago, IL 60611
+0377	3	1040 W. Belmont Ave.	(Kenmore Ave.)	Chicago, IL 60657
+0378	2	500 Davis St Ste 100	Evanston, IL 60201
+0379	3	809-13 W. Randolph St.	(Halsted St.)	Chicago, IL 60607
+0380	3	1820 W. Montrose Ave.	(Honore St.)	Chicago, IL 60613
+0381	3	1800 N. Clybourn Ave.	(Sheffield Ave.)	Chicago, IL 60614
+0382	3	217 W. Huron St.	(bet. Franklin & Wells Sts.)	Chicago, IL 60654
+0383	5	Westin Michigan Ave.	|	909 N. Michigan Ave.	(Delaware Pl.)	Chicago, IL 60611
+0384	3	33 W. Monroe St.	(bet. Dearborn & State Sts.)	Chicago, IL 60603
+0385	3	1508 W. Jarvis Ave.	(Greenview Ave.)	Chicago, IL 60626
+0386	3	5400 N. Clark St.	(Balmoral Ave.)	Chicago, IL 60640
+0387	3	2164 S. Archer Ave.	(Cermak Rd.)	Chicago, IL 60616
+0388	3	2411 N. Clark St.	(Fullerton Pkwy.)	Chicago, IL 60614
+0389	5	The Write Inn	|	211 N. Oak Park Ave.	(Ontario St.)	Oak Park, IL 60302
+0390	3	7545 N. Clark St.	(Howard St.)	Chicago, IL 60626
+0391	3	5148 N. Clark St.	(Foster Ave.)	Chicago, IL 60640
+0392	3	3324 N. California Ave.	(Roscoe St.)	Chicago, IL 60618
+0393	2	1673 Algonquin Rd	Rolling Meadows, IL 60008
+0394	2	32 E Lake St	Addison, IL 60101
+0395	3	1235 W. Randolph St.	(Elizabeth St.)	Chicago, IL 60607
+0396	3	59 W. Grand Ave.	(bet. Clark & Dearborn Sts.)	Chicago, IL 60654
+0397	3	5951 N. Broadway St.	(bet. Elmdale & Thorndale Aves.)	Chicago, IL 60660
+0398	2	700 N Milwaukee Ave Ste 105	Vernon Hills, IL 60061
+0399	3	2501 W. Lawrence Ave.	(Campbell Ave.)	Chicago, IL 60625
+0400	3	2545 Prairie Ave.	(Central St.)	Evanston, IL 60201
+0401	2	1331 W Dundee Rd	Arlington Heights, IL 60004
+0402	3	1655 W. Cortland St.	(Paulina St.)	Chicago, IL 60622
+0403	3	600 W. Chicago Ave.	(Larrabee St.)	Chicago, IL 60654
+0404	2	11041 Menard Ave	Chicago Ridge, IL 60415
+0405	3	1045 W. Madison St.	(bet. Aberdeen & Morgan Sts.)	Chicago, IL 60607
+0406	3	2614 Green Bay Rd.	(Central St.)	Evanston, IL 60201
+0407	2	7411 Madison St	Forest Park, IL 60130
+0408	3	4363 N. Lincoln Ave.	(Montrose Ave.)	Chicago, IL 60618
+0409	2	1772 S Randall Rd Ste 190	Geneva, IL 60134
+0410	3	4337 N. Lincoln Ave.	(Montrose Ave.)	Chicago, IL 60618
+0411	5	Doubletree Libertyville-Mundelein	|	510 E. Il. Rte. 83	(Rte. 45)	Mundelein, IL 60060
+0412	3	1901 N. Halsted St.	(Armitage Ave.)	Chicago, IL 60614
+0413	2	2129A S China Pl	Chicago, IL 60616
+0414	2	1816 N Halsted St	Chicago, IL 60614
+0415	3	400 N. Wells St.	(Kinzie St.)	Chicago, IL 60654
+0416	3	2005 W. Roscoe St.	(Damen Ave.)	Chicago, IL 60618
+0417	3	414 N. Orleans St.	(Hubbard St.)	Chicago, IL 60654
+0418	3	560 W. Van Buren St.	(bet. Clinton & Jefferson Sts.)	Chicago, IL 60607
+0419	2	281 Town Sq	Wheaton, IL 60189
+0420	3	431 Temple Ave.	(Waukegan Ave.)	Highland Park, IL 60035
+0421	2	200 N Dunton Ave	Arlington Heights, IL 60004
+0422	2	45 N Wells St	Chicago, IL 60606
+0423	3	5403 N. Clark St.	(Balmoral Ave.)	Chicago, IL 60640
+0424	3	2845 N. Clark St.	(bet. Diversey Pkwy. & Surf St.)	Chicago, IL 60657
+0425	3	5350 N. Broadway St.	(Balmoral Ave.)	Chicago, IL 60640
+0426	2	3638 N Pulaski Rd	Chicago, IL 60641
+0427	3	3011 S. Harlem Ave.	(31st St.)	Berwyn, IL 60402
+0428	3	1507 N. Sedgwick St.	(bet. Blackhawk St. & North Ave.)	Chicago, IL 60610
+0429	2	1352 Shermer Rd	Northbrook, IL 60062
+0430	5	Chinatown Mall	|	2138 S. Archer Ave.	(Cermak Rd.)	Chicago, IL 60616
+0431	3	4920 W. Irving Park Rd.	(bet. Lamon & Laporte Aves.)	Chicago, IL 60641
+0432	2	134 N La Salle St	Chicago, IL 60602
+0433	3	1958 N. Damen Ave.	(Armitage Ave.)	Chicago, IL 60647
+0434	3	1015 W. Dundee Rd.	(Kennicott Ave.)	Arlington Heights, IL 60004
+0435	3	311 E. 75th St.	(bet. Calumet & Prairie Aves.)	Chicago, IL 60619
+0436	3	3455 N. Southport Ave.	(Cornelia Ave.)	Chicago, IL 60657
+0437	2	1045 N Rush St	Chicago, IL 60611
+0438	2	419 S Milwaukee Ave	Libertyville, IL 60048
+0439	3	1856 W. North Ave.	(Wolcott Ave.)	Chicago, IL 60622
+0440	2	267 Peterson Rd	Libertyville, IL 60048
+0441	3	3705 N. Southport Ave.	(Waveland Ave.)	Chicago, IL 60613
+0442	3	4539 N. Lincoln Ave.	(bet. Sunnyside & Wilson Aves.)	Chicago, IL 60625
+0443	5	Palmer House Hilton	|	17 E. Monroe St.	(bet. State St. & Wabash Ave.)	Chicago, IL 60603
+0444	3	2657 N. Kedzie Ave.	(Schubert Ave.)	Chicago, IL 60647
+0445	3	1 S. Roselle Rd.	(Schaumburg Rd.)	Schaumburg, IL 60193
+0446	3	5812 N. Broadway St.	(Ardmore Ave.)	Chicago, IL 60660
+0447	2	514 Main St	Evanston, IL 60202
+0448	3	804 Davis St.	(Sherman Ave.)	Evanston, IL 60201
+0449	3	18 E. Bellevue Pl.	(Rush St.)	Chicago, IL 60611
+0450	2	1234 S Michigan Ave Ste 1	Chicago, IL 60605
+0451	2	748 S Butterfield Rd	Mundelein, IL 60060
+0452	3	1742 W. Division St.	(bet. Paulina & Wood Sts.)	Chicago, IL 60622
+0453	3	144 S. Oak Park Ave.	(bet. Pleasant St. & South Blvd.)	Oak Park, IL 60302
+0454	3	4032 W Peterson Ave	(Pulaski)	Chicago, IL 60646
+0455	3	623 W. Randolph St.	(bet. Desplaines & Jefferson Sts.)	Chicago, IL 60661
+0456	3	301 S Halsted St	(Jackson)	Chicago, IL 60661
+0457	3	2638 N. Lincoln Ave.	(Wrightwood Ave.)	Chicago, IL 60614
+0458	3	1025 Aurora Ave.	(bet. River Rd. & West St.)	Naperville, IL 60540
+0459	3	64 Green Bay Rd.	(Fisher Ln.)	Winnetka, IL 60093
+0460	2	412 N Milwaukee Ave	Libertyville, IL 60048
+0461	2	927 W Golf Rd	Schaumburg, IL 60194
+0462	5	Water Tower Pl.	|	835 N. Michigan Ave., Mezzanine level	(bet. Chestnut & Pearson Sts.)	Chicago, IL 60611
+0463	3	315 W. North Ave.	(North Park Ave.)	Chicago, IL 60610
+0464	2	3935 W Devon Ave	Chicago, IL 60659
+0465	2	839 S Lake St	Mundelein, IL 60060
+0466	2	1824 W Division St	Chicago, IL 60622
+0467	2	6727 N Olmsted Ave	Chicago, IL 60631
+0468	3	1218 W. Morse Ave.	(bet. Lakewood Ave. & Sheridan Rd.)	Chicago, IL 60626
+0469	3	3905 N. Lincoln Ave.	(bet. Byron St. & Larchmont Ave.)	Chicago, IL 60613
+0470	3	630 Church St.	(bet. Chicago & Orrington Aves.)	Evanston, IL 60201
+0471	3	1361 Shermer Rd.	(bet. Meadow Rd. & Walters Ave.)	Northbrook, IL 60062
+0472	3	2030-32 W. Montrose Ave.	(Seeley Ave.)	Chicago, IL 60618
+0473	3	325 W. Huron St.	(Orleans St.)	Chicago, IL 60654
+0474	2	2360 N Lincoln Ave	Chicago, IL 60614
+0475	3	2423 N. Clark St.	(bet. Arlington Pl. & Fullerton Ave.)	Chicago, IL 60614
+0476	3	734 W. Fullerton Ave.	(Halsted St.)	Chicago, IL 60614
+0477	2	3374 N Clark St	Chicago, IL 60657
+0478	2	1575 Ellinwood Ave	Des Plaines, IL 60016
+0479	3	1834 Glenview Rd.	(bet. Church & Pine Sts.)	Glenview, IL 60025
+0480	3	951 W. Fulton Mkt.	(bet. Morgan & Sangamon Sts.)	Chicago, IL 60607
+0481	5	Swissôtel	|	323 E. Wacker Dr.	(bet. Lake Shore Dr. & Michigan Ave.)	Chicago, IL 60601
+0482	3	72 E. Walton St.	(bet. Michigan Ave. & Rush St.)	Chicago, IL 60611
+0483	2	602 W Northwest Hwy	Arlington Heights, IL 60004
+0484	2	1724 S River Rd	Des Plaines, IL 60018
+0485	3	1000 31st St.	(Highland Ave.)	Downers Grove, IL 60515
+0486	2	435 W Diversey Pkwy	Chicago, IL 60614
+0487	2	3901 S Michigan Ave	Chicago, IL 60653
+0488	5	Raffaello Hotel	|	201 E. Delaware Pl.	(Mies Vander Rohe Way)	Chicago, IL 60611
+0489	3	1560 N. Milwaukee Ave.	(Damen Ave.)	Chicago, IL 60622
+0490	2	281 W Townline Rd	Vernon Hills, IL 60061
+0491	3	1252 E. Hwy. 45	(Rte. 21)	Vernon Hills, IL 60061
+0492	3	1020 W. Argyle St.	(bet. Kenmore Ave. & Sheridan Rd.)	Chicago, IL 60640
+0493	2	1642 56th	Chicago, IL 60637
+0494	3	464 N. Halsted St.	(Grand Ave.)	Chicago, IL 60642
+0495	3	1927 W. North Ave.	(Damen Ave.)	Chicago, IL 60622
+0496	3	1033 Davis St.	(Oak St.)	Evanston, IL 60201
+0497	3	1150 Willow Rd.	(bet. Patriot Blvd. & Waukegan Rd.)	Northbrook, IL 60062
+0498	2	260 Hawthorn Village Com	Vernon Hills, IL 60061
+0499	3	29 E. Ohio St.	(Wabash Ave.)	Chicago, IL 60611
+0500	3	116 Crown St.	(bet. Church & Orange Sts.)	New Haven, CT 06510
+0501	2	2 Hopewell	Glastonbury, CT 06033
+0502	2	129 Wooster St	New Haven, CT 06511
+0503	2	4 Hartford Rd	Simsbury, CT 06070
+0504	3	381 Greenwich Ave.	(Grigg St.)	Greenwich, CT 06830
+0505	5	Parker Harding Plaza	|	43 Main St.	(Post Rd. W.)	Westport, CT 06880
+0506	3	1450 Whalley Ave.	(Glenview Terr.)	New Haven, CT 06515
+0507	5	Altnaveigh Inn	|	957 Storrs Rd.	(Spring Hill Rd.)	Storrs, CT 06268
+0508	2	30 Center St	Southington, CT 06489
+0509	2	59 W Broad St	Pawcatuck, CT 06379
+0510	2	1088 N Colony Rd	Wallingford, CT 06492
+0511	2	47 Stony Hill Rd	Bethel, CT 06801
+0512	3	2 Wilton Ave.	(Cross St.)	Norwalk, CT 06851
+0513	3	51 West St.	(bet. Meadow & North Sts.)	Litchfield, CT 06759
+0514	2	110 Wall St	Norwalk, CT 06850
+0515	3	25 High St.	(Messina Dr.)	New Haven, CT 06512
+0516	5	The Mill	|	328 Pemberwick Rd.	(Highview Rd.)	Greenwich, CT 06831
+0517	2	5 Tokeneke Rd	Darien, CT 06820
+0518	5	Blue Back Sq.	|	46 S. Main St.	(Memorial Rd.)	West Hartford, CT 06107
+0519	3	266 College St.	(Chapel St.)	New Haven, CT 06510
+0520	2	88 Ryders Ln	Stratford, CT 06614
+0521	3	181 Main St.	(Plymouth Ave.)	Norwalk, CT 06851
+0522	5	Sconset Sq.	|	15 Myrtle Ave.	(Post Rd.)	Westport, CT 06880
+0523	3	130 Court St.	(Orange St.)	New Haven, CT 06511
+0524	3	616 Post Rd. E.	(bet. Crescent & Rayfield Rds.)	Westport, CT 06880
+0525	3	450 S. Main St.	(New Britain Ave.)	West Hartford, CT 06110
+0526	3	90 Halls Rd.	(Rte. 95)	Old Lyme, CT 06371
+0527	3	954 E. Main St.	(Lincoln Ave.)	Stamford, CT 06902
+0528	2	82 Iroquois Rd	Stamford, CT 06902
+0529	3	13 Marshall St.	(N. Main St.)	South Norwalk, CT 06854
+0530	3	78 LaSalle Rd.	(Farmington Ave.)	West Hartford, CT 06107
+0531	2	49 Bridgeport Ave	Milford, CT 06460
+0532	3	84 Bank St.	(Golden St.)	New London, CT 06320
+0533	3	254 Crown St.	(bet. High & York Sts.)	New Haven, CT 06511
+0534	5	Buckland Hills Plaza	|	1442 Pleasant Valley Rd.	(I-84)	Manchester, CT 06040
+0535	5	Inn at Lafayette	|	725 Boston Post Rd.	(Wall St.)	Madison, CT 06443
+0536	5	The Shops at River Pk.	|	51 E. Main St./Rte. 44	(Rte. 10)	Avon, CT 06001
+0537	2	381 Franklin Ave	Hartford, CT 06114
+0538	3	2 Forest St.	(East Ave.)	New Canaan, CT 06840
+0539	5	Foxwoods Resort Casino	|	39 Norwich Westerly Rd./Rte. 2	(bet. Mains Crossing & Preston Plains Rd.)	Ledyard, CT 06339
+0540	5	Bee & Thistle Inn	|	100 Lyme St./Rte. 1	(I-95, exit 70)	Old Lyme, CT 06371
+0541	3	19 High Ridge Rd.	(Bedford St.)	Stamford, CT 06905
+0542	3	971 Post Rd.	(Center St.)	Darien, CT 06820
+0543	3	860 State St.	(bet. Clark & Humphrey Sts.)	New Haven, CT 06511
+0544	3	377 E. Main St.	(I-95)	Branford, CT 06405
+0545	2	441 Post Rd	Fairfield, CT 06824
+0546	2	942 Main St	Hartford, CT 06103
+0547	2	980 Farmington Ave	West Hartford, CT 06107
+0548	2	343 Main St	Westport, CT 06880
+0549	2	46 N Main St	Norwalk, CT 06854
+0550	2	252 Main	East Lyme, CT 06333
+0551	5	Tower Plaza Shopping Ctr.	|	120 New Canaan Ave.	(Bartlett Ave.)	Norwalk, CT 06850
+0552	2	1261 Boston Post Rd	Westbrook, CT 06498
+0553	3	1712 Boston Post Rd.	(Rte. 166)	Old Saybrook, CT 06475
+0554	3	5 E. Main St.	(bet. Old Farms Rd. & Rte. 44)	Avon, CT 06001
+0555	2	345 Bank St	New London, CT 06320
+0556	2	73 W Wharf Rd	Madison, CT 06443
+0557	2	292 Candlewood Lake Rd	Brookfield, CT 06804
+0558	2	241 Campbell Ave	West Haven, CT 06516
+0559	3	25 Bank St.	(Atlantic St.)	Stamford, CT 06901
+0560	3	695 Main St.	(Grand St.)	Middletown, CT 06457
+0561	3	11 W. Elm St.	(Greenwich Ave.)	Greenwich, CT 06830
+0562	3	490 Summer St.	(bet. Broad & Spring Sts.)	Stamford, CT 06901
+0563	5	Simsbury Inn	|	397 Hopmeadow St./Rte. 10	(Rte. 185)	Simsbury, CT 06070
+0564	3	93 Asylum St.	(bet. Main & Trumbull Sts.)	Hartford, CT 06103
+0565	3	191 Summer St.	(Broad St.)	Stamford, CT 06901
+0566	3	426 Main St.	(Big Shop Ln.)	Ridgefield, CT 06877
+0567	5	Billings Forge	|	539 Broad St.	(bet. Capitol Ave. & Russ St.)	Hartford, CT 06106
+0568	3	22 Chesterfield Rd.	(Rte. 1)	East Lyme, CT 06333
+0569	3	1114 Main St.	(Veto St.)	Branford, CT 06405
+0570	2	35 Atlantic St	Stamford, CT 06901
+0571	3	10 Forest Rd.	(bet. East & Locust Aves.)	New Canaan, CT 06840
+0572	3	99 Washington St.	(bet. Main & Water Sts.)	South Norwalk, CT 06854
+0573	3	2748 Boston Post Rd.	(I-95, exit 9)	Darien, CT 06820
+0574	3	61 Kane St.	(Oakwood Ave.)	West Hartford, CT 06119
+0575	2	100 Bruce Park Ave	Greenwich, CT 06830
+0576	2	255 Boston Post Rd	Milford, CT 06460
+0577	5	Foxwoods Resort Casino	|	39 Norwich Westerly Rd./Rte. 2	(bet. Mains Crossing & Preston Plains Rd.)	Ledyard, CT 06338
+0578	3	2421 Berlin Tpke.	(Toll Gate Rd.)	Berlin, CT 06037
+0579	2	483 Monroe Tpke Ste 2B	Monroe, CT 06468
+0580	2	230 Hope St	Stamford, CT 06906
+0581	3	565 New Park Ave.	(Talcott Rd.)	West Hartford, CT 06110
+0582	2	898 Whalley Ave	New Haven, CT 06515
+0583	5	Main Street Mkt.	|	386 Main St.	(bet. Baylis Ct. & Washington St.)	Middletown, CT 06457
+0584	2	17 1/2 Elm St	New Canaan, CT 06840
+0585	3	61 Lewis St.	(bet. Greenwich Ave. & Mason St.)	Greenwich, CT 06830
+0586	5	South Norwalk Plaza	|	54 N. Main St.	(bet. Ann & Marshall Sts.)	South Norwalk, CT 06854
+0587	3	750 Post Rd.	(Eliot Pl.)	Fairfield, CT 06824
+0588	2	RR 7	New Milford, CT 06776
+0589	5	Evergreen Walk	|	101 Evergreen Way	(Tamarack Ave.)	South Windsor, CT 06074
+0590	2	695 Main St Unit D	Monroe, CT 06468
+0591	3	1451 Whalley Ave.	(Glenview Terr.)	New Haven, CT 06515
+0592	2	388 Westport Ave	Norwalk, CT 06851
+0593	5	Beardsley Park Plaza	|	545 Broadbridge Rd.	(Huntington Tpke.)	Bridgeport, CT 06610
+0594	2	4 Lewis Ct	Greenwich, CT 06830
+0595	5	Stamford Town Ctr.	|	230 Tresser Blvd.	(Greyrock Pl.)	Stamford, CT 06901
+0596	2	27 Main St	New Milford, CT 06776
+0597	3	2931 Fairfield Ave.	(Jetland St.)	Bridgeport, CT 06655
+0598	2	702 Chase Pkwy	Waterbury, CT 06708
+0599	3	168 Main Ave.	(Center Ave.)	Norwalk, CT 06851
+0600	2	26 Commons Dr	Litchfield, CT 06759
+0601	3	226 Talcottville Rd.	(north of Dobson Rd.)	Vernon, CT 06066
+0602	3	59 Ethan Allen Hwy.	(Rte. 102)	Ridgefield, CT 06877
+0603	5	Longwood Country Inn	|	1204 Main St. S.	(bet. Mansion House Rd. & Woodside Circle)	Woodbury, CT 06798
+0604	5	Station House Sq.	|	2505 Main St.	(Broadbridge Ave.)	Stratford, CT 06615
+0605	3	1297 Long Ridge Rd	(near exit 34 off Merrit Parkway)	Stamford, CT 06903
+0606	2	371 Candlewood Lake Rd	Brookfield, CT 06804
+0607	3	249 Main St.	(bet. Clark St. & Washington Blvd.)	Stamford, CT 06901
+0608	2	110 Boston Post Rd	Westbrook, CT 06498
+0609	3	98 Washington St.	(bet. Main & Water Sts.)	South Norwalk, CT 06854
+0610	2	33 Jesup Rd	Westport, CT 06880
+0611	2	39 Jerome Ave	Bloomfield, CT 06002
+0612	3	110 Glastonbury Blvd.	(bet. Main St. & Naubuc Ave.)	Glastonbury, CT 06033
+0613	3	344 Center St.	(Main St.)	Wallingford, CT 06492
+0614	3	15 Orange St.	(bet. Crown & George Sts.)	New Haven, CT 06510
+0615	3	874 State St.	(Humphrey St.)	New Haven, CT 06511
+0616	3	4511 McKinney Ave.	(Armstrong Ave.)	Dallas, TX 75205
+0617	2	17370 Preston Rd Ste 490	Dallas, TX 75252
+0618	3	4217 Oak Lawn Ave.	(bet. Herschel & Wycliff Aves.)	Dallas, TX 75219
+0619	2	4816 Gaston Ave	Dallas, TX 75246
+0620	3	2626 Howell St.	(Routh St.)	Dallas, TX 75204
+0621	3	3810 Congress Ave.	(Oak Lawn Ave.)	Dallas, TX 75219
+0622	3	18101 Preston Rd.	(Frankford Rd.)	Dallas, TX 75252
+0623	3	4300 Lemmon Ave.	(Wycliff Ave.)	Dallas, TX 75219
+0624	3	614 W. Davis St.	(Cedar Hill Ave.)	Dallas, TX 75208
+0625	2	6820 Lyndon B Johnson Fwy	Dallas, TX 75240
+0626	3	24 Highland Park Vill.	(Preston Rd.)	Dallas, TX 75205
+0627	3	8411 Preston Rd.	(Northwest Hwy.)	Dallas, TX 75225
+0628	3	17548 Dallas Pkwy.	(Trinity Mills Rd.)	Dallas, TX 75287
+0629	3	5934 Royal Ln.	(Preston Rd.)	Dallas, TX 75230
+0630	5	Hotel Palomar	|	5680 N. Central Expwy.	(Mockingbird Ln.)	Dallas, TX 75206
+0631	3	11909 Preston Rd.	(Forest Ln.)	Dallas, TX 75230
+0632	3	5757 W. Lovers Ln.	(Dallas N. Tollway)	Dallas, TX 75209
+0633	3	2912 Oak Lawn Ave.	(Congress Ave.)	Dallas, TX 75219
+0634	5	West Vlg.	|	3699 McKinney Ave.	(bet. Blackburn St. & Lemmon Ave.)	Dallas, TX 75204
+0635	2	2723 Elm St	Dallas, TX 75226
+0636	3	5251 Spring Valley Rd.	(Dallas N. Tollway)	Dallas, TX 75254
+0637	3	17062 Preston Rd.	(Campbell Rd.)	Dallas, TX 75248
+0638	5	Hotel ZaZa	|	2332 Leonard St.	(McKinney Ave.)	Dallas, TX 75201
+0639	5	Quadrangle	|	2800 Routh St.	(Howell St.)	Dallas, TX 75201
+0640	2	4347 W Northwest Hwy Ste 100	Dallas, TX 75220
+0641	3	2929 N. Henderson Ave.	(Miller Ave.)	Dallas, TX 75206
+0642	3	2927 N. Henderson Ave.	(Miller Ave.)	Dallas, TX 75206
+0643	5	Casa Linda Plaza	|	1200 N. Buckner Blvd.	(Garland Rd.)	Dallas, TX 75218
+0644	3	3229 Knox St.	(Travis St.)	Dallas, TX 75205
+0645	5	Villages of Preston Hollow	|	4343 W. Northwest Hwy.	(Midway Rd.)	Dallas, TX 75220
+0646	3	2800 Routh St.	(Howell St.)	Dallas, TX 75201
+0647	2	6913 Hillcrest Ave	Dallas, TX 75205
+0648	2	4800 Bryan St	Dallas, TX 75204
+0649	3	5430 Gurley Ave.	(Graham Ave.)	Dallas, TX 75223
+0650	3	2400 Victory Park Ln.	(Museum Way)	Dallas, TX 75219
+0651	5	NorthPark Ctr.	|	8687 N. Central Expwy.	(Park Ln.)	Dallas, TX 75225
+0652	5	Warwick Melrose Hotel	|	3015 Oak Lawn Ave.	(Cedar Springs Rd.)	Dallas, TX 75219
+0653	3	306 N. Market St.	(bet. Elm St. & Ross Ave.)	Dallas, TX 75202
+0654	3	1807 Gould St.	(Beaumont St.)	Dallas, TX 75215
+0655	3	2101 Greenville Ave.	(Richmond Ave.)	Dallas, TX 75206
+0656	3	17552 Dallas Pkwy.	(Trinity Mills Rd.)	Dallas, TX 75287
+0657	3	11909 Preston Rd.	(Forest Ln.)	Dallas, TX 75230
+0658	3	2914 Main St.	(bet. Hall St. & Malcolm X Blvd.)	Dallas, TX 75226
+0659	3	5027 W. Lovers Ln.	(Inwood Rd.)	Dallas, TX 75209
+0660	3	703 McKinney Ave.	(I-35)	Dallas, TX 75202
+0661	3	2816 Fairmount St.	(Cedar Springs St.)	Dallas, TX 75201
+0662	5	Rosewood Crescent Hotel	|	400 Crescent Ct.	(bet. Cedar Springs Rd. & Maple Ave.)	Dallas, TX 75201
+0663	3	4434 Harry Hines Blvd.	(bet. Lucas Dr. & Wycliff Ave.)	Dallas, TX 75219
+0664	3	9049 Vantage Point Dr.	(Greenville Ave.)	Dallas, TX 75243
+0665	5	NorthPark Ctr.	|	225 Northpark Ctr.	(Northwest Hwy.)	Dallas, TX 75225
+0666	2	10960 Composite Dr	Dallas, TX 75220
+0667	3	2911 Elm St.	(bet. Malcolm X Blvd. & Walton St.)	Dallas, TX 75226
+0668	5	Preston Royal Vlg.	|	6025 Royal Ln.	(Preston Rd.)	Dallas, TX 75230
+0669	5	Fairmont Dallas	|	1717 N. Akard St.	(Ross Ave.)	Dallas, TX 75201
+0670	5	Inwood Vill.	|	5360 W. Lovers Ln.	(Inwood Rd.)	Dallas, TX 75209
+0671	3	5858 W. Northwest Hwy.	(Douglas Ave.)	Dallas, TX 75225
+0672	3	2126 Leonard St.	(Woodall Rodgers Frwy.)	Dallas, TX 75201
+0673	5	One Arts Plaza	|	1722 Routh St.	(bet. Flora St. & Ross Ave.)	Dallas, TX 75201
+0674	5	Centrum Bldg.	|	3102 Oak Lawn Ave.	(Cedar Springs Rd.)	Dallas, TX 75219
+0675	2	3604 Oak Lawn Ave	Dallas, TX 75219
+0676	2	6106 Westheimer Rd	Houston, TX 77057
+0677	3	2311 Bissonnet St.	(Greenbriar Dr.)	Houston, TX 77005
+0678	3	1103 S. Shepherd Dr.	(Clay St.)	Houston, TX 77019
+0679	5	Lancaster Hotel	|	701 Texas Ave.	(Louisiana St.)	Houston, TX 77002
+0680	3	11112 Westheimer Rd.	(Wilcrest Dr.)	Houston, TX 77042
+0681	3	13616 Memorial Dr.	(bet. Wilcrest Dr. & Kirkwood Rd.)	Houston, TX 77079
+0682	2	2241 Richmond Ave	Houston, TX 77098
+0683	5	Rice Village Arcade	|	2414 University Blvd.	(Morningside Dr.)	Houston, TX 77005
+0684	2	8505 Cypress St	Houston, TX 77012
+0685	3	4315 Montrose Blvd.	(Richmond Ave.)	Houston, TX 77006
+0686	3	3300 Smith St.	(Stuart St.)	Houston, TX 77006
+0687	3	5161 San Felipe St.	(bet. Post Oak Ln. & Sage Rd.)	Houston, TX 77056
+0688	5	Gray Falls	|	12126 Westheimer Rd.	(Gray Falls Dr.)	Houston, TX 77077
+0689	3	11129 Westheimer Rd.	(Wilcrest Dr.)	Houston, TX 77042
+0690	3	5365 Westheimer Rd.	(Yorktown St.)	Houston, TX 77056
+0691	3	300 Main St.	(Congress St.)	Houston, TX 77002
+0692	2	1602 Leeland St	Houston, TX 77003
+0693	2	6029 Westheimer Rd	Houston, TX 77057
+0694	3	19827 Northwest Frwy.	(Hwy. 6)	Houston, TX 77065
+0695	3	5161 San Felipe	(Sage St.)	Houston, TX 77056
+0696	3	5555 Washington Ave.	(TC Jester Blvd.)	Houston, TX 77007
+0697	3	5761 Woodway Dr.	(Augusta Dr.)	Houston, TX 77057
+0698	4	Galleria Dallas	|	5085 Westheimer Rd.	Houston, TX 77056
+0699	3	3412 W. Lamar St.	(Dunlavy St.)	Houston, TX 77019
+0700	3	3600 Kirby Dr.	(Richmond Ave.)	Houston, TX 77098
+0701	3	1718 Houston Ave.	(Crockett St.)	Houston, TX 77007
+0702	2	1702 Post Oak Blvd	Houston, TX 77056
+0703	2	820 Fm 1960 Rd W Ste 12	Houston, TX 77090
+0704	2	2320 W Alabama St	Houston, TX 77098
+0705	3	309 Gray St.	(bet. Bagby & Baldwin Sts.)	Houston, TX 77002
+0706	3	5085 Westheimer Rd.	(McCue Rd.)	Houston, TX 77056
+0707	3	2243 Richmond Ave.	(Greenbriar Dr.)	Houston, TX 77098
+0708	3	516 Westheimer Rd.	(Whitney St.)	Houston, TX 77006
+0709	2	11103 Westheimer Rd	Houston, TX 77042
+0710	3	616 Westheimer Rd.	(Montrose Blvd.)	Houston, TX 77006
+0711	3	2327 Post Oak Blvd.	(Westheimer Rd.)	Houston, TX 77056
+0712	5	Galleria	|	5061 Westheimer Rd.	(Post Oak Blvd.)	Houston, TX 77056
+0713	2	11360 Bellaire Blvd	Houston, TX 77072
+0714	3	3139 Richmond Ave.	(Eastside St.)	Houston, TX 77098
+0715	3	2703 Montrose Blvd.	(Westheimer Ave.)	Houston, TX 77006
+0716	2	5503 Pinemont Dr	Houston, TX 77092
+0717	3	4726 Richmond Ave.	(I-610)	Houston, TX 77027
+0718	3	5320 Hollister St.	(Northwest Frwy.)	Houston, TX 77040
+0719	3	955 Dairy Ashford St.	(bet. I-10 & Memorial Dr.)	Houston, TX 77079
+0720	3	6000 Richmond Ave.	(Fountain View Dr.)	Houston, TX 77057
+0721	3	3403 Milam St.	(Francis St.)	Houston, TX 77002
+0722	3	5825 Richmond Ave.	(bet. Chimney Rock Rd. & Fountain View Dr.)	Houston, TX 77057
+0723	3	1160 Smith St.	(Dallas St.)	Houston, TX 77002
+0724	3	307 Westheimer Rd.	(Mason St.)	Houston, TX 77006
+0725	2	540 Texas St	Houston, TX 77002
+0726	3	2245 W. Alabama St.	(Greenbriar Dr.)	Houston, TX 77098
+0727	3	4412 Montrose Blvd.	(Richmond Ave.)	Houston, TX 77006
+0728	3	5727 Westheimer Rd	(Chimney Rock)	Houston, TX 77057
+0729	3	4500 Richmond Ave.	(Mid Ln.)	Houston, TX 77027
+0730	5	Omni Hotel Houston	|	4 Riverway	(Hwy. 610)	Houston, TX 77056
+0731	3	812 Westheimer Ave.	(bet. Montrose Blvd. & Stanford St.)	Houston, TX 77006
+0732	2	12310 Kingsride Ln	Houston, TX 77024
+0733	3	2325 University Blvd.	(bet. Greenbriar & Morningside Drs.)	Houston, TX 77005
+0734	3	813 Jackson Hill St.	(bet. Floyd & Lillian Sts.)	Houston, TX 77007
+0735	3	487 Bay Area Blvd.	(bet. Sea Liner & Seawolf Drs.)	Houston, TX 77058
+0736	3	1401 Montrose Blvd.	(bet. Clay & Gray Sts.)	Houston, TX 77019
+0737	5	Four Seasons Hotel	|	1300 Lamar St.	(Austin St.)	Houston, TX 77010
+0738	3	1396 Eldridge Pkwy.	(Forkland Dr.)	Houston, TX 77077
+0739	5	St. Regis Hotel	|	1919 Briar Oaks Ln.	(San Felipe St.)	Houston, TX 77027
+0740	2	3202 South Loop W	Houston, TX 77025
+0741	2	8943 Katy Fwy	Houston, TX 77024
+0742	3	909 Texas Ave.	(Travis St.)	Houston, TX 77002
+0743	3	8979 Westheimer Rd.	(Fondren Rd.)	Houston, TX 77063
+0744	3	1503 Shepherd Dr.	(Maxie St.)	Houston, TX 77007
+0745	5	MGM Grand Hotel	|	3799 Las Vegas Blvd. S.	(Tropicana Ave.)	Las Vegas, NV 89109
+0746	5	New York-New York Hotel	|	3790 Las Vegas Blvd. S.	(Tropicana Ave.)	Las Vegas, NV 89109
+0747	2	7125 N Durango Dr	Las Vegas, NV 89149
+0748	2	8560 W Desert Inn Rd Ste D5	Las Vegas, NV 89117
+0749	5	Mandalay Bay Resort	|	3950 Las Vegas Blvd. S.	(Mandalay Bay Rd.)	Las Vegas, NV 89119
+0750	5	Las Vegas Hilton	|	3000 Paradise Rd.	(bet. Desert Inn Rd. & Karen Ave.)	Las Vegas, NV 89109
+0751	3	412 E. Flamingo Rd.	(Paradise Rd.)	Las Vegas, NV 89109
+0752	5	Mandalay Place	|	3930 Las Vegas Blvd. S.	(Mandalay Bay Rd.)	Las Vegas, NV 89119
+0753	5	Rio All-Suite Hotel	|	3700 W. Flamingo Rd.	(bet. I-15 & Valley View Blvd.)	Las Vegas, NV 89103
+0754	3	8771 W. Charleston Blvd.	(Durango St.)	Las Vegas, NV 89117
+0755	2	1204 S Main St	Las Vegas, NV 89104
+0756	2	129 Fremont St	Las Vegas, NV 89101
+0757	3	7530 Las Vegas Blvd. S.	(Warm Springs Rd.)	Las Vegas, NV 89123
+0758	5	Mandalay Bay Resort	|	3950 Las Vegas Blvd. S.	(Mandalay Bay Rd.)	Las Vegas, NV 89119
+0759	5	Bellagio Hotel	|	3600 Las Vegas Blvd. S.	(Flamingo Rd.)	Las Vegas, NV 89109
+0760	5	Palazzo Hotel	|	3325 Las Vegas Blvd. S.	(Sands Ave.)	Las Vegas, NV 89109
+0761	3	3925 Paradise Rd.	(Corporate Dr.)	Las Vegas, NV 89109
+0762	5	Venetian Hotel	|	3355 Las Vegas Blvd. S.	(bet. Flamingo & Spring Mountain Rds.)	Las Vegas, NV 89109
+0763	5	West Lake Plaza	|	4533 W. Sahara Ave.	(bet. Arville St. & Decatur Blvd.)	Las Vegas, NV 89102
+0764	5	Paris Las Vegas	|	3655 Las Vegas Blvd. S.	(bet. Flamingo Rd. & Harmon Ave.)	Las Vegas, NV 89109
+0765	5	Venetian Hotel	|	3355 Las Vegas Blvd. S.	(bet. Flamingo & Spring Mountain Rds.)	Las Vegas, NV 89109
+0766	5	Palace Station Hotel	|	2411 W. Sahara Ave.	(Rancho Dr.)	Las Vegas, NV 89102
+0767	3	8721 W. Charleston Blvd.	(bet. Durango Dr. & Rampart Blvd.)	Las Vegas, NV 89117
+0768	5	Orleans Hotel	|	4500 W. Tropicana Ave.	(Arville St.)	Las Vegas, NV 89103
+0769	5	Palms Casino Hotel	|	4321 W. Flamingo Rd.	(Arville St.)	Las Vegas, NV 89103
+0770	3	4226 S. Durango Dr.	(Flamingo Rd.)	Las Vegas, NV 89147
+0771	3	4155 S Buffalo Dr Ste 104	(Flamingo & Buffalo)	Las Vegas, NV 89147
+0772	3	3987 Paradise Rd.	(Flamingo Rd.)	Las Vegas, NV 89109
+0773	5	Summerhill Plaza	|	7501 W. Lake Mead Blvd.	(Buffalo Dr.)	Las Vegas, NV 89128
+0774	2	2605 S Decatur Blvd Ste 103	Las Vegas, NV 89102
+0775	5	Imperial Palace	|	3535 Las Vegas Blvd. S.	(Flamingo Rd.)	Las Vegas, NV 89109
+0776	5	Four Queens Hotel	|	202 Fremont St.	(Casino Center Blvd.)	Las Vegas, NV 89101
+0777	5	Caesars Palace	|	3570 Las Vegas Blvd. S.	(Flamingo Rd.)	Las Vegas, NV 89109
+0778	5	Treasure Island Hotel	|	3300 Las Vegas Blvd. S.	(Spring Mountain Rd.)	Las Vegas, NV 89109
+0779	5	Mirage Hotel	|	3400 Las Vegas Blvd. S.	(Spring Mountain Rd.)	Las Vegas, NV 89109
+0780	5	Flamingo Las Vegas	|	3555 Las Vegas Blvd. S.	(Flamingo Rd.)	Las Vegas, NV 89109
+0781	2	11770 W Charleston Blvd Ste 110	Las Vegas, NV 89135
+0782	5	Aria	|	3730 Las Vegas Blvd. S	(Harmon Ave.)	Las Vegas, NV 89109
+0783	5	Town Sq.	|	6605 Las Vegas Blvd. S.	(bet. I-215 & Sunset Rd.)	Las Vegas, NV 89119
+0784	5	Treasure Island Hotel	|	3300 Las Vegas Blvd. S.	(Spring Mountain Rd.)	Las Vegas, NV 89109
+0785	2	6375 S Rainbow Blvd Ste 102	Las Vegas, NV 89118
+0786	5	Planet Hollywood Resort	|	3667 Las Vegas Blvd. S	(Harmon Ave.)	Las Vegas, NV 89109
+0787	5	Beltway Corporate Ctr.	|	8975 S. Eastern Ave.	(I-215)	Las Vegas, NV 89123
+0788	5	Hughes Ctr.	|	4043 Howard Hughes Pkwy.	(Flamingo Rd.)	Las Vegas, NV 89169
+0789	5	Paris Las Vegas	|	3655 Las Vegas Blvd. S.	(bet. Flamingo Rd. & Harmon Ave.)	Las Vegas, NV 89109
+0790	5	Aria	|	3730 Las Vegas Blvd. S.	(Harmon Ave.)	Las Vegas, NV 89109
+0791	3	4864 W. Lone Mountain Rd.	(Decatur Blvd.)	Las Vegas, NV 89130
+0792	3	3965 S. Decatur Blvd.	(Flamingo Rd.)	Las Vegas, NV 89103
+0793	5	Centennial	|	7920 W. Tropical Pkwy.	(I-95)	Las Vegas, NV 89149
+0794	3	2250 E. Warm Springs Rd.	(Eastern Ave.)	Las Vegas, NV 89119
+0795	3	1395 E. Tropicana Ave.	(Maryland Pkwy.)	Las Vegas, NV 89119
+0796	3	400 E. Flamingo Rd.	(Paradise Rd.)	Las Vegas, NV 89169
+0797	2	3945 S Durango Dr Ste A6	Las Vegas, NV 89147
+0798	5	New York-New York Hotel	|	3790 Las Vegas Blvd. S.	(Tropicana Ave.)	Las Vegas, NV 89109
+0799	5	Hard Rock Hotel	|	4455 Paradise Rd.	(bet. Flamingo Rd. & Harmon Ave.)	Las Vegas, NV 89109
+0800	5	Mandalay Bay Resort	|	3950 Las Vegas Blvd. S.	(Mandalay Bay Rd.)	Las Vegas, NV 89119
+0801	5	Palms Casino Hotel	|	4321 W. Flamingo Rd., 51st fl.	(Arville St.)	Las Vegas, NV 89103
+0802	3	2160 W. Charleston Blvd.	(Rancho Dr.)	Las Vegas, NV 89102
+0803	5	Flamingo & Arville Plaza	|	4455 W. Flamingo Rd.	(Arville St.)	Las Vegas, NV 89103
+0804	3	2985 Las Vegas Blvd. S.	(Convention Center Dr.)	Las Vegas, NV 89109
+0805	5	Bellagio Hotel	|	3600 Las Vegas Blvd. S.	(Flamingo Rd.)	Las Vegas, NV 89109
+0806	2	2833 N Green Vly	Las Vegas, NV 89101
+0807	5	Planet Hollywood Resort	|	3667 Las Vegas Blvd. S.	(Harmon Ave.)	Las Vegas, NV 89109
+0808	5	Venetian Hotel	|	3355 Las Vegas Blvd. S.	(bet. Flamingo & Spring Mountain Rds.)	Las Vegas, NV 89109
+0809	2	3200 Las Vegas Blvd S Ste 1132	Las Vegas, NV 89109
+0810	3	5030 Spring Mountain Rd.	(Decatur Blvd.)	Las Vegas, NV 89146
+0811	5	Hard Rock Hotel	|	4455 Paradise Rd.	(bet. Flamingo Rd. & Harmon Ave.)	Las Vegas, NV 89169
+0812	3	2001 N. Rainbow Blvd.	(Lake Mead Blvd.)	Las Vegas, NV 89108
+0813	5	West Sahara Promenade	|	8125 W. Sahara Ave.	(bet. Buffalo Dr. & Cimarron Rd.)	Las Vegas, NV 89117
+0814	3	620 E. Flamingo Rd.	(Swenson St.)	Las Vegas, NV 89119
+0815	5	Chinatown Plaza	|	4215 Spring Mountain Rd.	(bet. Arville St. & Wynn Rd.)	Las Vegas, NV 89102
+0816	2	4604 W Sahara Ave	Las Vegas, NV 89102
+0817	5	Mandalay Bay Resort	|	3950 Las Vegas Blvd. S.	(Mandalay Bay Rd.)	Las Vegas, NV 89119
+0818	3	21 Montauk Hwy.	(Cherry Ave.)	West Sayville, NY 11796
+0819	2	42 Woodcleft Ave	Freeport, NY 11520
+0820	2	1540 Montauk Hwy	Sayville, NY 11782
+0821	2	2074 Jericho Tpke	East Northport, NY 11731
+0822	2	2863 Woods Ave	Oceanside, NY 11572
+0823	3	400 Glen Cove Ave.	(Glenola Ave.)	Sea Cliff, NY 11579
+0824	3	2028 N. Country Rd.	(bet. N. Wading River & Sound Rds.)	Wading River, NY 11792
+0825	3	80 E. Main St.	(bet. Hauppauge Rd. & Maple Ave.)	Smithtown, NY 11787
+0826	2	216 Laurel Rd	East Northport, NY 11731
+0827	2	94 South St	Oyster Bay, NY 11771
+0828	2	2701 Merrick Rd	Bellmore, NY 11710
+0829	2	1401 Old Northern Blvd	Roslyn, NY 11576
+0830	3	90 Deer Park Ave.	(bet. Grove Pl. & Main St.)	Babylon, NY 11702
+0831	2	1 W Main St	Babylon, NY 11702
+0832	2	65 Merrick Rd Ste A	Amityville, NY 11701
+0833	3	636 Franklin Ave.	(bet. 6th & 7th Sts.)	Garden City, NY 11530
+0834	3	66 Newtown Ln.	(bet. Main St. & Osborne Ln.)	East Hampton, NY 11937
+0835	3	275 Jericho Tpke.	(Burke Ln.)	Syosset, NY 11791
+0836	2	Sunrse Hwy & Cntrl A	Baldwin, NY 11510
+0837	3	47 Montauk Hwy.	(bet. Baiting Hollow & Cove Hollow Rds.)	East Hampton, NY 11937
+0838	2	78 Foster Ave	Hampton Bays, NY 11946
+0839	2	2793 Merrick Rd	Bellmore, NY 11710
+0840	3	159 S. Country Rd.	(bet. Station Rd. & Woodruff St.)	Bellport, NY 11713
+0841	3	23 Birch Hill Rd.	(bet. Elm St. & Forest Ave.)	Locust Valley, NY 11560
+0842	2	36 Laurel Rd	East Northport, NY 11731
+0843	3	79 N. Long Beach Rd.	(Sunrise Hwy.)	Rockville Centre, NY 11570
+0844	3	553 Old Montauk Hwy.	(Broadway Ave.)	Sayville, NY 11782
+0845	3	335 Main St.	(Carley Ave.)	Huntington, NY 11743
+0846	2	1000 Old Country Rd	Plainview, NY 11803
+0847	3	26 N. Park Ave.	(bet. Merrick Rd. & Sunrise Hwy.)	Rockville Centre, NY 11570
+0848	2	42 E Montauk Hwy	Hampton Bays, NY 11946
+0849	2	1580 Hempstead Tpke	East Meadow, NY 11554
+0850	2	555 Route 111	Hauppauge, NY 11788
+0851	2	90 N Country Rd	Miller Place, NY 11764
+0852	3	Main St.	(School St.)	Bridgehampton, NY 11932
+0853	3	23 Atlantic Ave.	(bet. Merrick Rd. & Sunrise Hwy.)	Lynbrook, NY 11563
+0854	5	Stony Brook Village Ctr.	|	123 Main St.	(bet. Christian Ave. & Rte. 25A)	Stony Brook, NY 11790
+0855	2	34 Middle Neck Rd	Great Neck, NY 11021
+0856	3	31 Forest Ave.	(bet. Birch Hill Rd. & Weir Ln.)	Locust Valley, NY 11560
+0857	3	1175 W. Main St.	(Mill Rd.)	Riverhead, NY 11901
+0858	2	1966 Deer Park Ave	Deer Park, NY 11729
+0859	3	143 Nassau Blvd. S.	(7th St.)	Garden City, NY 11552
+0860	2	225 Main St Ste A	Northport, NY 11768
+0861	2	49 N Village Ave	Rockville Centre, NY 11570
+0862	3	294 N. Broadway	(16th St.)	Hicksville, NY 11801
+0863	3	20 South Station Plaza	(bet. Barstow & S. Middle Neck Rds.)	Great Neck, NY 11021
+0864	2	730 Smithtown Bypass	Smithtown, NY 11787
+0865	3	1033 Jericho Tpke.	(Cornell Dr.)	Smithtown, NY 11787
+0866	2	363 S Oyster Bay Rd	Plainview, NY 11803
+0867	2	12 Manetto Hill Mall	Plainview, NY 11803
+0868	3	77 Middle Neck Rd.	(bet. Cedar Dr. & Grace Ave.)	Great Neck, NY 11021
+0869	2	253 W Park Ave	Long Beach, NY 11561
+0870	3	901 Broad Hollow Rd.	(Rte. 109)	Farmingdale, NY 11735
+0871	3	367 Central Ave.	(Frost Ln.)	Lawrence, NY 11559
+0872	3	47 E. Main St.	(bet. Bank & Landing Aves.)	Smithtown, NY 11787
+0873	2	33 Montauk Hwy Ste D	Blue Point, NY 11715
+0874	3	149 S. Franklin Ave.	(Station Plaza)	Valley Stream, NY 11580
+0875	3	156 Davison Ave.	(Oceanside Rd.)	Oceanside, NY 11572
+0876	5	Saks Fifth Avenue, Walt Whitman Mall	|	230 Walt Whitman Rd.	(Weston St.)	Huntington Station, NY 11746
+0877	3	1080 Corporate Dr.	(bet. Ellison Ave. & Zeckendorf Blvd.)	Westbury, NY 11590
+0878	3	111 Main St.	(bet. Front St. & Greenport Harbor)	Greenport, NY 11944
+0879	3	22 Pine Hollow Rd.	(bet. High St. & Lexington Ave.)	Oyster Bay, NY 11771
+0880	2	1203 Broadway	Hewlett, NY 11557
+0881	3	149 Main St.	(Library Ave.)	Westhampton Beach, NY 11978
+0882	5	Lake Success Shopping Ctr.	|	1570 Union Tpke.	(New Hyde Park Rd.)	New Hyde Park, NY 11040
+0883	2	4163 Austin Blvd	Island Park, NY 11558
+0884	2	255 Middle Country Rd	Centereach, NY 11720
+0885	2	33 Alhambra Rd	Massapequa, NY 11758
+0886	5	Water Mill Shoppes	|	760 Montauk Hwy., Ste. 5C	(bet. Nowedonah Ave. & Station Rd.)	Water Mill, NY 11976
+0887	3	43 Rockaway Ave.	(E. Lincoln Ave.)	Valley Stream, NY 11580
+0888	3	12 N. Park Ave.	(bet. Merrick Rd. & Sunrise Hwy.)	Rockville Centre, NY 11570
+0889	2	105 W Montauk Hwy	Hampton Bays, NY 11946
+0890	2	94 E Main St	Babylon, NY 11702
+0891	3	62 Jobs Ln.	(S. Main St.)	Southampton, NY 11968
+0892	3	23 Woodcleft Ave.	(Front St.)	Freeport, NY 11520
+0893	3	8 Bond St.	(bet. Grace Ave. & N. Station Plaza)	Great Neck, NY 11021
+0894	2	590 Central Ave	Cedarhurst, NY 11516
+0895	2	514 Park Blvd	Massapequa Park, NY 11762
+0896	3	284 Glen St.	(bet. Elm & Hendrick Aves.)	Glen Cove, NY 11542
+0897	3	400 New York Ave.	(bet. Carver & Fairview Sts.)	Huntington, NY 11743
+0898	3	716 Smithtown Bypass	(Terry Rd.)	Smithtown, NY 11787
+0899	2	868 Horseblock Rd	Farmingville, NY 11738
+0900	5	Gone Fishing Marina	|	467 E. Lake Dr.	(opp. Montauk Airport)	Montauk, NY 11954
+0901	5	Nassau Mall	|	3601 Hempstead Tpke.	(Wantaugh Ave.)	Levittown, NY 11756
+0902	3	58 W. Jericho Tpke.	(bet. Haskett & Oak Drs.)	Syosset, NY 11791
+0903	2	127 Main St	Westhampton Beach, NY 11978
+0904	2	3 E Main St	Patchogue, NY 11772
+0905	2	480 Plandome Rd	Manhasset, NY 11030
+0906	2	3968 Hempstead Tpke	Bethpage, NY 11714
+0907	2	200 Jericho Tpke	Commack, NY 11725
+0908	5	Woodbury Common	|	8285 Jericho Tpke.	(Woodbury Rd.)	Woodbury, NY 11797
+0909	2	688 Central Ave	Cedarhurst, NY 11516
+0910	3	160 Adams Ave.	(bet. Arkay & Commerce Drs.)	Hauppauge, NY 11788
+0911	2	2716 Hempstead Tpke	Levittown, NY 11756
+0912	3	150 Hicksville Rd.	(Hempstead Tpke.)	Bethpage, NY 11714
+0913	2	21 Oakland Ave	Port Jefferson, NY 11777
+0914	3	116 Division St.	(bet. Clare Rose Blvd. & River Ave.)	Patchogue, NY 11772
+0915	3	84 Old Shore Rd.	(Shore Rd.)	Port Washington, NY 11050
+0916	3	416 S. Broadway	(Boehme St.)	Hicksville, NY 11801
+0917	3	340 Woodcleft Ave.	(bet. Atlantic & Guy Lombardo Aves.)	Freeport, NY 11520
+0918	3	1042 Northern Blvd.	(bet. Cedar Path & Searingtown Rd.)	Roslyn Estates, NY 11576
+0919	3	366 Hempstead Ave.	(Arlington Ave.)	Malverne, NY 11565
+0920	2	6 5th St	Valley Stream, NY 11581
+0921	2	127 Montauk Hwy	Lindenhurst, NY 11757
+0922	3	38 Hillside Ave.	(Nassau Blvd.)	Williston Park, NY 11596
+0923	5	Elwood Plaza	|	1965 Jericho Tpke.	(Elwood Rd.)	East Northport, NY 11731
+0924	3	22 E. Park Ave.	(bet. Edwards & Riverside Blvds.)	Long Beach, NY 11561
+0925	3	532 N. Country Rd.	(Lake Ave.)	St. James, NY 11780
+0926	3	86 Deer Park Ave.	(Main St.)	Babylon, NY 11702
+0927	5	Manetto Hill Mall	|	18 Manetto Hill Rd.	(Washington Ave.)	Plainview, NY 11803
+0928	2	70 E Village Grn	Levittown, NY 11756
+0929	3	660 Franklin Ave.	(7th St.)	Garden City, NY 11530
+0930	3	67 W. Main St.	(bet. Karl & Maple Aves.)	Smithtown, NY 11787
+0931	5	Crossroads Shopping Ctr.	|	1137 Old Country Rd.	(Manetto Hill Rd.)	Plainview, NY 11803
+0932	3	47 Shore Rd.	(bet. Mill Pond & Old Shore Rds.)	Port Washington, NY 11050
+0933	2	34 Vanderbilt Motor Pkw	Commack, NY 11725
+0934	2	13 E Main St	Patchogue, NY 11772
+0935	2	3116 Lawson Blvd	Oceanside, NY 11572
+0936	2	60 Atlantic Ave	Oceanside, NY 11572
+0937	2	3240 Sunrise Hwy	Wantagh, NY 11793
+0938	2	345 Deer Park Ave	Babylon, NY 11702
+0939	3	243 Old Walt Whitman Rd.	(bet. Chichester Rd. & Livingston St.)	Huntington Station, NY 11746
+0940	3	240 Love Ln.	(bet. Main Rd./Rte. 25 & Pike St.)	Mattituck, NY 11952
+0941	3	101 E. Main St.	(bet. Bellemeade & Landing Aves.)	Smithtown, NY 11787
+0942	2	526 Middle Neck Rd	Great Neck, NY 11023
+0943	2	401 Central Ave	Bethpage, NY 11714
+0944	2	435 Plandome Rd	Manhasset, NY 11030
+0945	2	19 Hicksville Rd	Massapequa, NY 11758
+0946	5	Gensel Shopping Ctr.	|	526 Jericho Tpke.	(bet. Herricks & Wardwell Rds.)	Mineola, NY 11501
+0947	2	275 Merrick Rd	Lynbrook, NY 11563
+0948	2	3213 Horseblock Rd	Medford, NY 11763
+0949	5	Southgate Shopping Ctr.	|	4958 Merrick Rd.	(Whitewood Dr.)	Massapequa Park, NY 11762
+0950	3	14 Station Rd.	(S. Country Rd.)	Bellport, NY 11713
+0951	2	104 E Main St	East Islip, NY 11730
+0952	2	195 Manorhaven Blvd	Port Washington, NY 11050
+0953	3	275 Bayville Ave.	(Pine Park Ave.)	Bayville, NY 11709
+0954	5	Three Village Inn	|	150 Main St.	(Shore Rd.)	Stony Brook, NY 11790
+0955	3	2756 Long Beach Rd.	(Harrison Ave.)	Oceanside, NY 11572
+0956	3	13 Atlantic Ave.	(South Main St.)	Freeport, NY 11520
+0957	2	30 E Main St # 32	Babylon, NY 11702
+0958	3	301 Main St.	(bet. Green & New Sts.)	Huntington, NY 11743
+0959	3	126 Main St.	(bet. Nassau & Spring Sts.)	Sag Harbor, NY 11963
+0960	3	136 N. Main St.	(bet. Cedar St. & Miller Terrace)	East Hampton, NY 11937
+0961	3	136 Front St.	(bet. 1st & Main Sts.)	Greenport, NY 11944
+0962	2	2194 Nesconset Hwy	Stony Brook, NY 11790
+0963	3	44780 North Rd./Rte. 48	(bet. Hortons Ln. & Youngs Ave.)	Southold, NY 11971
+0964	3	552 N. Country Rd.	(bet. Acron Rd. & Lake Ave.)	St. James, NY 11780
+0965	3	1940 Bellmore Ave.	(bet. Beltagh Ave. & Natta Blvd.)	Bellmore, NY 11710
+0966	5	Sun Dek Marina	|	264 West Ave.	(Mulford St.)	Patchogue, NY 11772
+0967	2	1551 Montauk Hwy	Oakdale, NY 11769
+0968	3	6145 Franklin Ave.	(bet. Argyle Ave. & Gower St.)	Hollywood, CA 90028
+0969	3	1025 S. Baldwin Ave.	(Arcadia Ave.)	Arcadia, CA 91007
+0970	3	2100 W. Oceanfront	(21st St.)	Newport Beach, CA 92663
+0971	3	230 Forest Ave.	(PCH)	Laguna Beach, CA 92651
+0972	2	580 W 1st St	Claremont, CA 91711
+0973	3	410 Boyd St.	(San Pedro St.)	Los Angeles, CA 90013
+0974	2	1087 Manzanita St	Los Angeles, CA 90029
+0975	3	8022 W. Third St.	(bet. Crescent Heights Blvd. & Fairfax Ave.)	Los Angeles, CA 90048
+0976	2	1565 Adams Ave	Costa Mesa, CA 92626
+0977	2	4444 W Sunset Blvd	Los Angeles, CA 90027
+0978	3	29100 Agoura Rd.	(Cornell Rd.)	Agoura Hills, CA 91301
+0979	3	1830 Main St.	(MacArthur Blvd.)	Irvine, CA 92614
+0980	2	1013 Fair Oaks Ave	South Pasadena, CA 91030
+0981	2	15112 Inglewood Ave	Lawndale, CA 90260
+0982	2	6145 Long Beach Blvd	Long Beach, CA 90805
+0983	2	659 E Arrow Hwy	Azusa, CA 91702
+0984	2	9034 Tampa Ave	Northridge, CA 91324
+0985	2	2372 Pacific Coast Hwy	Lomita, CA 90717
+0986	2	2336 Park Ave	Tustin, CA 92782
+0987	2	6114 W Sunset Blvd	Hollywood, CA 90028
+0988	2	4861 Topanga Canyon Blvd	Woodland Hills, CA 91364
+0989	2	2645 Main St	Santa Monica, CA 90405
+0990	2	22721 Ventura Blvd	Woodland Hills, CA 91364
+0991	3	460 Ocean Ave	(Forest Ave.)	Laguna Beach, CA 92651
+0992	3	2460 Wilshire Blvd.	(25th St.)	Santa Monica, CA 90403
+0993	2	8735 W 3rd St	Los Angeles, CA 90048
+0994	3	840 S. Spring St.	(bet. 8th & 9th Sts.)	Los Angeles, CA 90014
+0995	2	528 N Montebello Blvd	Montebello, CA 90640
+0996	2	10200 Venice Blvd Ste 101	Culver City, CA 90232
+0997	3	7470 Melrose Ave.	(bet. Fairfax & La Brea Aves.)	Los Angeles, CA 90046
+0998	2	435 S Los Angeles St	Los Angeles, CA 90013
+0999	2	5119 W El Segundo Blvd	Hawthorne, CA 90250
+1000	3	2903 W. Sunset Blvd.	(bet. Reno St. & Silver Lake Blvd.)	Los Angeles, CA 90026
+1001	5	Rancho Park Plaza	|	2530 Overland Ave.	(bet. Ayres & Cushdon Aves.)	West LA, CA 90064
+1002	3	536 S. Arroyo Pkwy.	(California Blvd.)	Pasadena, CA 91105
+1003	2	8813 Lakewood Blvd	Downey, CA 90240
+1004	3	2027 Sawtelle Blvd.	(bet. La Grange & Mississippi Aves.)	West LA, CA 90025
+1005	5	Mondrian Hotel	|	8440 Sunset Blvd.	(bet. La Cienega Blvd. & Olive Dr.)	West Hollywood, CA 90069
+1006	2	1388 Westwood Blvd	Los Angeles, CA 90024
+1007	3	2497 Park Ave.	(Jamboree Rd.)	Tustin, CA 92782
+1008	2	3923 Portola Pkwy	Irvine, CA 92602
+1009	3	7953 Santa Monica Blvd.	(Hayworth Ave.)	West Hollywood, CA 90046
+1010	2	245 W Valley Blvd	Alhambra, CA 91801
+1011	2	416 N Lakeview Ave	Anaheim, CA 92807
+1012	2	311 Washington Blvd	Marina del Rey, CA 90292
+1013	3	14010 Ventura Blvd.	(bet. Murietta & Costello Aves.)	Sherman Oaks, CA 91423
+1014	3	535 W. Valley Blvd.	(New Ave.)	San Gabriel, CA 91776
+1015	3	23508 Calabasas Rd.	(Valley Circle Blvd.)	Calabasas, CA 91302
+1016	3	109 Santa Monica Blvd.	(Ocean Ave.)	Santa Monica, CA 90401
+1017	5	Beverly Hilton, The	|	9876 Wilshire Blvd.	(Santa Monica Blvd.)	Beverly Hills, CA 90210
+1018	5	Brentwood Country Mart	|	225 26th St.	(San Vicente Blvd.)	Santa Monica, CA 90402
+1019	3	3459 N. Verdugo Rd.	(bet. Oceanview & Sunview Blvds.)	Montrose, CA 91208
+1020	3	217 Marine Ave.	(Park Ave.)	Newport Beach, CA 92662
+1021	3	8475 Melrose Pl.	(La Cienega Blvd.)	West Hollywood, CA 90069
+1022	3	563 W Los Angeles Ave	(Change Name to Cafe Firenze)	Moorpark, CA 93021
+1023	3	1607 Sepulveda Blvd.	(Western Ave.)	Torrance, CA 90501
+1024	3	131½ Main St.	(bet. Central & Ocean Aves.)	Seal Beach, CA 90740
+1025	3	822 Washington Blvd.	(Abbot Kinney Blvd.)	Marina del Rey, CA 90292
+1026	3	662 N. Sepulveda Blvd.	(bet. Moraga Dr. & Ovada Pl.)	Bel-Air, CA 90049
+1027	3	11849 Foothill Blvd	(SW corner with Rochester)	Rancho Cucamonga, CA 91730
+1028	3	25 39th Pl.	(1 block south of Ocean Blvd.)	Long Beach, CA 90803
+1029	2	747 N La Cienega Blvd	West Hollywood, CA 90069
+1030	3	38 N. La Cienega Blvd.	(Wilshire Blvd.)	Beverly Hills, CA 90211
+1031	3	6350 Hollywood Blvd.	(Ivar Ave.)	Hollywood, CA 90028
+1032	3	5051 Hollywood Blvd	(Mariposa)	Los Angeles, CA 90027
+1033	3	11326 W. Pico Blvd.	(Sawtelle Blvd.)	West LA, CA 90064
+1034	3	12950 Ventura Blvd.	(Coldwater Canyon Ave.)	Studio City, CA 91604
+1035	5	Lakeside Ctr.	|	345 N. Pass Ave.	(Rte. 134)	Burbank, CA 91505
+1036	5	Pacific Electric Lofts	|	126 E. Sixth St.	(bet. Los Angeles & Main Sts.)	Los Angeles, CA 90014
+1037	2	1415 Montana Ave	Santa Monica, CA 90403
+1038	2	10740 Wilshire Blvd	Los Angeles, CA 90024
+1039	2	100 S California Ave Ste A	West Covina, CA 91790
+1040	3	742 W. Valley Blvd.	(bet. 7th & 8th Sts.)	Alhambra, CA 91803
+1041	3	12345 Ventura Blvd.	(Whitsett Ave.)	Studio City, CA 91604
+1042	3	3737 Cahuenga Blvd.	(Lankershim Blvd.)	Studio City, CA 91604
+1043	3	12021 W. Pico Blvd.	(Bundy Dr.)	West LA, CA 90064
+1044	3	8690 Wilshire Blvd.	(bet. Hamel & Willaman Drs.)	Beverly Hills, CA 90211
+1045	5	Thompson Beverly Hills Hotel	|	9360 Wilshire Blvd.	(Crescent Dr.)	Beverly Hills, CA 90212
+1046	3	1280 N. Lake Ave.	(Washington Blvd.)	Pasadena, CA 91104
+1047	2	9036 Burton Way	Beverly Hills, CA 90211
+1048	3	270A S. La Cienega Blvd.	(Gregory Way)	Beverly Hills, CA 90211
+1049	2	26543 Bouquet Canyon Rd	Santa Clarita, CA 91350
+1050	2	26 22nd St	Hermosa Beach, CA 90254
+1051	2	515 Long Beach Blvd	Long Beach, CA 90802
+1052	5	London West Hollywood	|	1020 N. San Vicente Blvd.	(Sunset Blvd.)	West Hollywood, CA 90069
+1053	3	22757 Ventura Blvd.	(Fallbrook Ave.)	Woodland Hills, CA 91364
+1054	5	Fashion Island	|	327 Newport Center Dr.	(San Miguel Dr.)	Newport Beach, CA 92660
+1055	3	1319 Third St. Promenade	(bet. Arizona Ave. & Santa Monica Blvd.)	Santa Monica, CA 90401
+1056	3	19565 Parthenia St.	(bet. Corbin & Shirley Aves.)	Northridge, CA 91324
+1057	3	2108 Colorado Blvd.	(Eagle Rock Blvd.)	Eagle Rock, CA 90041
+1058	2	87 Aquarium Way	Long Beach, CA 90802
+1059	3	13390 Jamboree Rd.	(Bryan Ave.)	Irvine, CA 92602
+1060	2	4541 Eagle Rock Blvd	Los Angeles, CA 90041
+1061	3	1261 Cabrillo Ave.	(Torrance Blvd.)	Torrance, CA 90501
+1062	3	535 S. Lake Ave.	(California Blvd.)	Pasadena, CA 91101
+1063	2	305 N Hesperian St	Santa Ana, CA 92703
+1064	2	20929 Ventura Blvd	Woodland Hls, CA 91364
+1065	2	25710 The Old Rd	Stevenson Ranch, CA 91381
+1066	3	4609 Van Nuys Blvd.	(Hortense St.)	Sherman Oaks, CA 91403
+1067	2	7801 Melrose Ave	Los Angeles, CA 90046
+1068	3	1534 N. McCadden Pl.	(Sunset Blvd.)	Hollywood, CA 90028
+1069	2	19346 Rinaldi St	Northridge, CA 91326
+1070	3	1534 Montana Ave.	(16th St.)	Santa Monica, CA 90403
+1071	2	516 S Myrtle Ave	Monrovia, CA 91016
+1072	5	Luxe Hotel Rodeo Dr.	|	360 N. Rodeo Dr.	(bet. Santa Monica & Wilshire Blvds.)	Beverly Hills, CA 90210
+1073	3	3932 W. Sunset Blvd.	(bet. Hyperion & Sanborn Aves.)	Los Angeles, CA 90029
+1074	3	8459 Beverly Blvd.	(La Cienega Blvd.)	Los Angeles, CA 90048
+1075	2	961 E Green St	Pasadena, CA 91106
+1076	2	201 S La Brea Ave	Los Angeles, CA 90036
+1077	2	17923 MacArthur Blvd	Irvine, CA 92614
+1078	2	4716 E 2nd St	Long Beach, CA 90803
+1079	3	6935 Pacific Ave.	(Culver Blvd.)	Playa del Rey, CA 90293
+1080	5	Villa del Sol	|	305 N. Harbor Blvd.	(bet. Chapman & Commonwealth Aves.)	Fullerton, CA 92831
+1081	3	10509 Valley View St.	(Cerritos Ave.)	Cypress, CA 90630
+1082	5	Trump Nat'l Golf Course	|	1 Ocean Trails Dr.	(Palos Verdes Dr.)	Rancho Palos Verdes, CA 90275
+1083	3	1521 N. Vine St.	(Sunset Blvd.)	Hollywood, CA 90028
+1084	3	2005 Westwood Blvd.	(La Grange Ave.)	West LA, CA 90025
+1085	5	Westfield Santa Anita	|	400 S. Baldwin Ave.	(W. Huntington Dr.)	Arcadia, CA 91007
+1086	3	1553 Westwood Blvd.	(Ohio St.)	Los Angeles, CA 90024
+1087	3	2025 Pacific Ave.	(Venice Blvd.)	Venice, CA 90291
+1088	3	831 S. La Brea Ave.	(bet. 8th & 9th Sts.)	Los Angeles, CA 90036
+1089	2	193 Culver Blvd	Playa del Rey, CA 90293
+1090	2	19688 Beach Blvd	Huntingtn Bch, CA 92648
+1091	3	9683 Wilshire Blvd.	(Bedford Dr.)	Beverly Hills, CA 90212
+1092	2	10463 Santa Monica Blvd	Los Angeles, CA 90025
+1093	3	4356 Woodman Ave.	(bet. Moorpark St. & Ventura Blvd.)	Sherman Oaks, CA 91423
+1094	5	High Plaza	|	5112 Hollywood Blvd.	(bet. Normandie Ave. & Winona Blvd.)	Los Angeles, CA 90027
+1095	3	350 S. Grand Ave.	(bet. 3rd & 4th Sts.)	Los Angeles, CA 90071
+1096	2	3900 W Sunset Blvd	Los Angeles, CA 90029
+1097	2	14100 Culver Dr	Irvine, CA 92604
+1098	3	3266 W. Sixth St.	(bet. Berendo St. & New Hampshire Ave.)	Los Angeles, CA 90020
+1099	3	800 E. Whittier Blvd.	(bet. Cypress St. & Harbor Blvd.)	La Habra, CA 90631
+1100	2	6725 W Sunset Blvd	Los Angeles, CA 90028
+1101	3	219 S. Fair Oaks Ave.	(bet. Orange Pl. & Valley St.)	Pasadena, CA 91105
+1102	3	1511 N. Cahuenga Blvd.	(Sunset Blvd.)	Hollywood, CA 90028
+1103	3	2801 W. PCH	(Riverside Dr.)	Newport Beach, CA 92663
+1104	3	7533 W. Sunset Blvd.	(bet. Gardner St. & Sierra Bonita Ave.)	Hollywood, CA 90046
+1105	3	1501 Hermosa Ave.	(15th St.)	Hermosa Beach, CA 90254
+1106	2	6300 Pacific Coast Hwy	Redondo Beach, CA 90501
+1107	2	1441 W Knox St	Torrance, CA 90501
+1108	5	Manhattan Vill.	|	3282 N. Sepulveda Blvd.	(bet. Ardmore Ave. & 30th St.)	Manhattan Beach, CA 90266
+1109	3	3330 W. Olympic Blvd.	(Manhattan Pl.)	Los Angeles, CA 90019
+1110	2	1000 S San Gabriel Blvd	San Gabriel, CA 91776
+1111	2	2406 S Barrington Ave	Los Angeles, CA 90064
+1112	3	617 S. Olive St.	(bet. 6th & 7th Sts.)	Los Angeles, CA 90014
+1113	2	219 N Central Ave	Glendale, CA 91203
+1114	3	7215 N. Rosemead Blvd.	(Huntington Dr.)	San Gabriel, CA 91775
+1115	3	3626 Sunset Blvd.	(Edgecliffe Dr.)	Los Angeles, CA 90026
+1116	2	1104 Highland Ave Ste C	Manhattan Beach, CA 90266
+1117	3	17499 Ventura Blvd.	(Encino Ave.)	Encino, CA 91316
+1118	3	308 N. PCH	(Aster St.)	Laguna Beach, CA 92651
+1119	5	Woodbury Shopping Ctr.	|	6416 Irvine Blvd.	(Sand Canyon Ave.)	Irvine, CA 92620
+1120	3	2200 Newport Blvd.	(22nd St.)	Newport Beach, CA 92663
+1121	3	217 Broadway St	(Pacific Coast Highway)	Laguna Beach, CA 92651
+1122	3	9105 W. Olympic Blvd.	(Doheny Dr.)	Beverly Hills, CA 90212
+1123	2	36 W Colorado Blvd	Pasadena, CA 91105
+1124	2	1521 Griffith Park Blvd	Los Angeles, CA 90026
+1125	2	2130 Sawtelle Blvd	Los Angeles, CA 90025
+1126	3	145 N. Robertson Blvd.	(Burton Way)	West Hollywood, CA 90048
+1127	2	145 S Robertson Blvd	Los Angeles, CA 90048
+1128	3	216 W. Sixth St.	(bet. Broadway & Spring St.)	Los Angeles, CA 90014
+1129	3	9749 Little Santa Monica Blvd.	(bet. Linden & Roxbury Drs.)	Beverly Hills, CA 90210
+1130	2	11288 Ventura Blvd Ste F	Studio City, CA 91604
+1131	3	9023 E. Washington Blvd.	(Rosemead Blvd.)	Pico Rivera, CA 90660
+1132	3	9071 Santa Monica Blvd.	(Doheny Dr.)	West Hollywood, CA 90069
+1133	2	18501 Victory Blvd	Reseda, CA 91335
+1134	2	4822 Laurel Canyon Blvd	Valley Village, CA 91607
+1135	2	24523 Newhall Ave	Newhall, CA 91321
+1136	3	3800 S. Plaza Dr.	(Sunflower Ave.)	Santa Ana, CA 92704
+1137	3	16358 Ventura Blvd.	(Noeline Ave.)	Encino, CA 91436
+1138	3	1250 Cabrillo Ave.	(Torrance Blvd.)	Torrance, CA 90501
+1139	3	1088 S. Baldwin Ave.	(Arcadia Ave.)	Arcadia, CA 91007
+1140	2	2575 W Pico Blvd	Los Angeles, CA 90006
+1141	3	6600 Sunset Blvd.	(Seward St.)	Hollywood, CA 90028
+1142	2	3730 Verdugo Rd	Montrose, CA 91020
+1143	2	23525 Palomino Dr	Diamond Bar, CA 91765
+1144	2	345 N La Brea Ave	Los Angeles, CA 90036
+1145	3	5156 Lankershim Blvd	(Magnolia)	North Hollywood, CA 91601
+1146	2	5156 Lankershim Blvd	North Hollywood, CA 91601
+1147	3	2838 Rowena Ave.	(bet. Glendale Blvd. & Hyperion Ave.)	Los Angeles, CA 90039
+1148	2	4211 Admiralty Way	Marina del Rey, CA 90292
+1149	2	4513 Inglewood Blvd	Culver City, CA 90230
+1150	2	6622 Van Nuys Blvd	Van Nuys, CA 91405
+1151	2	241 N Brand Blvd	Glendale, CA 91203
+1152	2	1528 W Pico Blvd	Los Angeles, CA 90015
+1153	2	636 N Euclid Ave	Ontario, CA 91762
+1154	2	400 E Washington Blvd	Los Angeles, CA 90015
+1155	2	27510 The Old Rd	Valencia, CA 91355
+1156	3	644 S. Figueroa St.	(bet. 7th St. & Wilshire Blvd.)	Los Angeles, CA 90017
+1157	3	6683 Hollywood Blvd.	(Las Palmas Ave.)	Hollywood, CA 90028
+1158	3	7458 Beverly Blvd.	(bet. Gardner & Vista Sts.)	Los Angeles, CA 90036
+1159	3	2960 N Beverly Glen Cir	(near Mulholland)	Los Angeles, CA 90077
+1160	3	9420 W. Pico Blvd.	(Beverly Dr.)	Los Angeles, CA 90035
+1161	2	25336 Crenshaw Blvd	Torrance, CA 90505
+1162	2	726 S Alameda St	Los Angeles, CA 90021
+1163	3	1627 Colorado Blvd.	(Vincent Ave.)	Los Angeles, CA 90041
+1164	2	21830 Nordhoff St	Chatsworth, CA 91311
+1165	3	2702 Main St	(Hill Street)	Santa Monica, CA 90405
+1166	3	11720 Ventura Blvd.	(Colfax Ave.)	Studio City, CA 91604
+1167	3	720 W. First St.	(Hope St.)	Los Angeles, CA 90012
+1168	2	529 S Central Ave	Los Angeles, CA 90013
+1169	2	161 E Orange Grove Ave	Burbank, CA 91502
+1170	2	12740 Culver Blvd	Los Angeles, CA 90066
+1171	3	1017 Manhattan Ave.	(bet. 10th Pl. & 11th St.)	Manhattan Beach, CA 90266
+1172	2	949 N Hill St	Los Angeles, CA 90012
+1173	3	7253 Santa Monica Blvd.	(bet. Formosa Ave. & Poinsettia Dr.)	West Hollywood, CA 90046
+1174	3	7156 Santa Monica Blvd.	(Formosa Ave.)	West Hollywood, CA 90046
+1175	2	11151 Los Alamitos Blvd	Los Alamitos, CA 90720
+1176	3	3505 Highland Ave.	(35th St.)	Manhattan Beach, CA 90266
+1177	2	300 Pacific Coast Hwy Ste 201	Huntington Beach, CA 92648
+1178	2	1936 E 7th St	Los Angeles, CA 90021
+1179	3	4137 E. Anaheim St.	(bet. Belmont & Roswell Aves.)	Long Beach, CA 90804
+1180	3	316 Pier Ave.	(Monterey Blvd.)	Hermosa Beach, CA 90254
+1181	2	19106 Normandie Ave	Torrance, CA 90502
+1182	3	3216 Washington Blvd.	(Lincoln Blvd.)	Marina del Rey, CA 90292
+1183	2	2383 Lomita Blvd Ste 102	Lomita, CA 90717
+1184	5	Westlake Plaza	|	982 S. Westlake Blvd.	(bet. Agoura & Townsgate Rds.)	Westlake Village, CA 91361
+1185	2	6117 Reseda Blvd	Tarzana, CA 91335
+1186	2	1249 W Carson St	Torrance, CA 90502
+1187	3	1109 N. Brand Blvd.	(Dryden St.)	Glendale, CA 91202
+1188	3	27400 PCH	(4 mi. north of Malibu Canyon Rd.)	Malibu, CA 90265
+1189	3	135 Pine Ave.	(bet. B'way & 1st St.)	Long Beach, CA 90802
+1190	5	The Getty Ctr.	|	1200 Getty Center Dr.	(Sepulveda Blvd.)	Los Angeles, CA 90049
+1191	2	22330 Sherman Way	Canoga Park, CA 91303
+1192	3	17300 PCH	(Sunset Blvd.)	Pacific Palisades, CA 90272
+1193	3	134 N. La Cienega Blvd.	(bet. San Vincente & Wilshire Blvds.)	Beverly Hills, CA 90211
+1194	5	Miyako Hybrid Hotel	|	21381 S. Western Ave.	(bet. 213th & 214th Sts.)	Torrance, CA 90501
+1195	2	23802 Lyons Ave	Newhall, CA 91321
+1196	2	11911 W Olympic Blvd	Los Angeles, CA 90064
+1197	2	12265 Ventura Blvd	Studio City, CA 91604
+1198	2	1662 Centinela Ave	Inglewood, CA 90302
+1199	3	69 W. Green St.	(bet. De Lacey & Fair Oaks Aves.)	Pasadena, CA 91105
+1200	5	Hollywood & Highland Ctr.	|	6801 Hollywood Blvd.	(Highland Ave.)	Hollywood, CA 90028
+1201	3	11980 Santa Monica Blvd.	(Bundy Dr.)	West LA, CA 90025
+1202	3	163 N. La Cienega Blvd.	(Clifton Way)	Beverly Hills, CA 90211
+1203	5	The LAB	|	2930 Bristol St.	(bet. Baker St. & Randolph Ave.)	Costa Mesa, CA 92626
+1204	5	South Coast Plaza	|	3333 Bear St.	(S. Coast Dr.)	Costa Mesa, CA 92626
+1205	3	8288 Santa Monica Blvd.	(Sweetzer Ave.)	West Hollywood, CA 90046
+1206	2	11831 Wilshire Blvd	Los Angeles, CA 90025
+1207	2	250 Beach St	Laguna Beach, CA 92651
+1208	2	12222 Wilshire Blvd	Los Angeles, CA 90025
+1209	5	Universal CityWalk	|	1000 Universal Studios Blvd.	(off Rte. 101)	Universal City, CA 91608
+1210	2	1112 N Brookhurst St	Anaheim, CA 92801
+1211	3	750 Terrado Plaza	(bet. Citrus & Workman Aves.)	Covina, CA 91723
+1212	2	313 Manhattan Beach Blvd	Manhattan Beach, CA 90266
+1213	2	11401 Moorpark St	North Hollywood, CA 91602
+1214	5	Hollywood Heights Hotel	|	2005 N. Highland Ave.	(Franklin Ave.)	Hollywood, CA 90068
+1215	3	11058 Santa Monica Blvd.	(Bentley Ave.)	West LA, CA 90025
+1216	2	556 El Camino Real	Tustin, CA 92780
+1217	3	11901 Santa Monica Blvd.	(Armacost Ave.)	West LA, CA 90025
+1218	3	1 W. Main St.	(Garfield Ave.)	Alhambra, CA 91801
+1219	3	1014 Wilshire Blvd.	(bet. 10th & 11th Sts.)	Santa Monica, CA 90401
+1220	3	858 S. PCH	(bet. St. Ann Dr. & Thalia St.)	Laguna Beach, CA 92651
+1221	2	390 E Walnut St	Pasadena, CA 91101
+1222	2	6051 Hollywood Blvd	Los Angeles, CA 90028
+1223	2	4251 Martingale Way	Newport Beach, CA 92660
+1224	3	8741 Sunset Blvd.	(Sherbourne Dr.)	West Hollywood, CA 90069
+1225	2	14130 Culver Dr Ste M	Irvine, CA 92604
+1226	3	3110 Glendale Blvd.	(Glenhurst Ave.)	Los Angeles, CA 90039
+1227	3	11425 Foothill Blvd.	(Milliken Ave.)	Rancho Cucamonga, CA 91730
+1228	5	Kajima Bldg.	|	111 S. San Pedro St.	(1st St.)	Los Angeles, CA 90012
+1229	5	Irvine Spectrum	|	59 Fortune Dr.	(Pacifica)	Irvine, CA 92618
+1230	3	2400 W. PCH	(Tustin Ave.)	Newport Beach, CA 92663
+1231	3	927 E. Colorado Blvd.	(bet. Lake & Mentor Aves.)	Pasadena, CA 91106
+1232	2	339 N Brand Blvd	Glendale, CA 91203
+1233	2	11900 South St	Cerritos, CA 90703
+1234	3	8350 W. Third St.	(bet. Fairfax Ave. & La Cienega Blvd.)	West Hollywood, CA 90048
+1235	3	1023 Abbot Kinney Blvd.	(B'way)	Venice, CA 90291
+1236	3	10516 W. Pico Blvd.	(½ block west of Beverly Glen Blvd.)	Rancho Park, CA 90064
+1237	3	2424 Pico Blvd.	(25th St.)	Santa Monica, CA 90405
+1238	2	451 Manhattan Beach Blvd Ste D122	Manhattan Beach, CA 90266
+1239	5	Hotel Ménage	|	1221 S. Harbor Blvd.	(Ball Rd.)	Anaheim, CA 92805
+1240	3	9240 Culver Blvd.	(Washington Blvd.)	Culver City, CA 90232
+1241	2	3539 E Foothill Blvd	Pasadena, CA 91107
+1242	2	9701 Reseda Blvd	Northridge, CA 91324
+1243	3	8325 Lincoln Blvd.	(bet. 83rd & 84th Sts.)	Westchester, CA 90045
+1244	3	10863 Magnolia Blvd.	(Satsuma Ave.)	North Hollywood, CA 91601
+1245	3	5921 Owensmouth Ave.	(bet. Califa & Oxnard Sts.)	Woodland Hills, CA 91367
+1246	2	252 W Los Angeles Ave	Moorpark, CA 93021
+1247	2	595 N Lake Ave	Pasadena, CA 91101
+1248	2	13400 Washngtn Blvd	Culver City, CA 90230
+1249	2	1607 E Wardlow Rd	Long Beach, CA 90807
+1250	2	265 S Robertson Blvd	Beverly Hills, CA 90211
+1251	2	1023 Montana Ave	Santa Monica, CA 90403
+1252	2	6608 Hollywood Blvd	Hollywood, CA 90028
+1253	2	3179 Los Feliz Blvd	Los Angeles, CA 90039
+1254	3	11838 Ventura Blvd.	(bet. Colfax Ave. & Laurel Canyon Blvd.)	Studio City, CA 91604
+1255	2	3700 N Figueroa St	Los Angeles, CA 90065
+1256	2	2414 S Vermont Ave	Los Angeles, CA 90007
+1257	2	1332 Sartori Ave	Torrance, CA 90501
+1258	2	4030 Gage Ave	Bell, CA 90201
+1259	2	23532 El Toro Rd	Lake Forest, CA 92630
+1260	2	638 N Doheny Dr	West Hollywood, CA 90069
+1261	3	9785 Santa Monica Blvd.	(Wilshire Blvd.)	Beverly Hills, CA 90210
+1262	3	252 N. Beverly Dr.	(bet. Dayton Way & Wilshire Blvd.)	Beverly Hills, CA 90210
+1263	2	44 W Green St	Pasadena, CA 91105
+1264	3	1842 E. First St.	(bet. Boyle Ave. & State St.)	Boyle Heights, CA 90033
+1265	2	710 S Allied Way	El Segundo, CA 90245
+1266	2	856 S Vermont Ave	Los Angeles, CA 90005
+1267	3	107 N. Larchmont Blvd.	(Beverly Blvd.)	Los Angeles, CA 90004
+1268	2	2909 Pico Blvd	Santa Monica, CA 90405
+1269	3	361 Cliff Dr.	(PCH)	Laguna Beach, CA 92651
+1270	3	3441 E. Broadway	(bet. Newport & Redondo Aves.)	Long Beach, CA 90803
+1271	3	11938 Ventura Blvd.	(bet. Carpenter Ave. & Laurel Canyon Blvd.)	Studio City, CA 91604
+1272	2	13290 Jamboree Rd	Irvine, CA 92602
+1273	5	Sunset Plaza	|	8654 W. Sunset Blvd.	(Sunset Plaza Dr.)	West Hollywood, CA 90069
+1274	3	127 N. Larchmont Blvd.	(bet. Beverly Blvd. & 1st St.)	Hancock Park, CA 90004
+1275	3	13360 Ventura Blvd.	(Dixie Canyon Ave.)	Sherman Oaks, CA 91423
+1276	3	11611 Santa Monica Blvd.	(bet. Barry & Federal Aves.)	West LA, CA 90025
+1277	3	9725 Culver Blvd.	(bet. Duquesne Ave. & Lafayette Pl.)	Culver City, CA 90232
+1278	2	10244 Lakewood Blvd	Downey, CA 90241
+1279	2	11403 Victory Blvd	North Hollywood, CA 91606
+1280	3	Helms Ave.	(bet. Venice & Washington Blvds.)	Culver City, CA 90232
+1281	2	3412 E Broadway	Long Beach, CA 90803
+1282	2	1370 S Beach Blvd	La Habra, CA 90631
+1283	2	8902 Garden Grove Blvd	Garden Grove, CA 92844
+1284	3	231 Arizona Ave.	(2nd St.)	Santa Monica, CA 90401
+1285	3	4059 Lincoln Blvd.	(Washington Blvd.)	Marina del Rey, CA 90292
+1286	5	Huntington Plaza	|	7862 Warner Ave.	(bet. Ash St. & Beach Blvd.)	Huntington Beach, CA 92647
+1287	3	1360 N. Vine St.	(De Longpre Ave.)	Hollywood, CA 90028
+1288	2	13011 Newport Ave	Tustin, CA 92780
+1289	2	24130 Lyons Ave	Santa Clarita, CA 91321
+1290	2	10149 Riverside Dr	Toluca Lake, CA 91602
+1291	2	24781 Alicia Pkwy	Laguna Hills, CA 92653
+1292	3	2325 Palos Verdes Dr. W.	(Yarmouth Rd.)	Palos Verdes Estates, CA 90274
+1293	3	223 W. Eighth St.	(Main St.)	Los Angeles, CA 90014
+1294	2	2941 E Broadway	Long Beach, CA 90803
+1295	3	8897 Beverly Blvd.	(Swall Dr.)	West Hollywood, CA 90048
+1296	2	2606 W Sunset Blvd	Los Angeles, CA 90026
+1297	2	3313 N Verdugo Rd	Glendale, CA 91208
+1298	3	6266½ Sunset Blvd.	(bet. Argyle Ave. & Vine St.)	Hollywood, CA 90028
+1299	3	713 E. Green St.	(bet. El Molino & Oak Knoll Aves.)	Pasadena, CA 91101
+1300	3	8620 Wilshire Blvd.	(Carson Rd.)	Beverly Hills, CA 90211
+1301	3	707 N. Stanley Ave.	(Melrose Ave.)	Los Angeles, CA 90046
+1302	2	3011 Newport Blvd	Newport Beach, CA 92663
+1303	2	3012 Newport Blvd	Newport Beach, CA 92663
+1304	3	8165 Santa Monica Blvd.	(Laurel Cyn. Blvd.)	West Hollywood, CA 90046
+1305	2	2125 Sawtelle Blvd	Los Angeles, CA 90025
+1306	3	10962 Ventura Blvd.	(Vineland Ave.)	Studio City, CA 91604
+1307	5	South Coast Plaza	|	3333 Bristol St.	(Anton Blvd.)	Costa Mesa, CA 92626
+1308	3	4905 Santa Monica Blvd.	(Edgemont St.)	Los Angeles, CA 90029
+1309	3	151 E. Walnut St.	(bet. Marengo & Raymond Aves.)	Pasadena, CA 91103
+1310	3	25 22nd St.	(bet. Beach Dr. & Hermosa Ave.)	Hermosa Beach, CA 90254
+1311	2	24250 Town Center Dr Ste 180	Valencia, CA 91355
+1312	5	Terranea Resort	|	6610 Palos Verdes Dr. S.	(Hawthorne Blvd.)	Rancho Palos Verdes, CA 90275
+1313	3	1446 E. Katella Ave.	(Tustin St.)	Orange, CA 92867
+1314	3	13329 W. Washington Blvd.	(Walgrove Ave.)	Venice, CA 90066
+1315	3	2931 E. PCH	(bet. Heliotrope & Iris Aves.)	Corona del Mar, CA 92625
+1316	3	2791 N. Main St.	(Town & Country Rd.)	Santa Ana, CA 92705
+1317	3	190 Marina Dr.	(PCH)	Long Beach, CA 90803
+1318	3	3211 Beverly Blvd.	(Hoover St.)	Los Angeles, CA 90057
+1319	3	12161 Ventura Blvd.	(bet. Laurel Canyon Blvd. & Vantage Ave.)	Studio City, CA 91604
+1320	3	2121 Hillhurst Ave.	(bet. Ambrose Ave. & Avocado St.)	Los Angeles, CA 90027
+1321	3	4741 Eagle Rock Blvd.	(bet. Las Colinas & Ridgeview Aves.)	Los Angeles, CA 90041
+1322	2	13905 Ventura Blvd	Sherman Oaks, CA 91423
+1323	3	1076 Gayley Ave.	(bet. Kinross Ave. & Weyburn Dr.)	Westwood, CA 90024
+1324	3	261 S. Mission Dr.	(W. B'way)	San Gabriel, CA 91776
+1325	2	5227 Mission Oaks Blvd	Camarillo, CA 93012
+1326	2	2212 W Sunset Blvd	Los Angeles, CA 90026
+1327	2	19463 Ventura Blvd	Tarzana, CA 91356
+1328	3	1212 Third St. Promenade	(bet. Arizona Ave. & Wilshire Blvd.)	Santa Monica, CA 90401
+1329	3	11927 Santa Monica Blvd.	(bet. Armacost & Brockton Aves.)	West LA, CA 90025
+1330	3	20356 PCH	(bet. Big Rock Dr. & Las Flores Canyon Rd.)	Malibu, CA 90265
+1331	5	The Grove	|	189 The Grove Dr.	(bet. Beverly Blvd. & 3rd St.)	Los Angeles, CA 90036
+1332	3	1809 Ocean Front Walk	(18th Pl.)	Venice, CA 90291
+1333	3	344 N. Camden Dr.	(bet. Brighton Way & Wilshire Blvd.)	Beverly Hills, CA 90210
+1334	2	341 1/2 E 1st St	Los Angeles, CA 90012
+1335	3	8039 Beach Blvd.	(bet. Crescent & La Palma Aves.)	Buena Park, CA 90620
+1336	2	10405 Burbank Blvd	North Hollywood, CA 91601
+1337	3	903 Manhattan Ave.	(9th St.)	Manhattan Beach, CA 90266
+1338	3	17040 Ventura Blvd.	(Oak Park Ave.)	Encino, CA 91316
+1339	3	7275 Melrose Ave.	(bet. Alta Vista Ave. & Poinsettia Pl.)	Hollywood, CA 90046
+1340	3	424 Wilshire Blvd.	(bet. 4th & 5th Sts.)	Santa Monica, CA 90401
+1341	3	7669 Beverly Blvd.	(Spaulding Ave.)	Los Angeles, CA 90036
+1342	3	1621 Wilshire Blvd.	(bet. 16th & 17th Sts.)	Santa Monica, CA 90403
+1343	2	140 Pier Ave	Hermosa Beach, CA 90254
+1344	2	950 Ontario Mills Dr	Ontario, CA 91764
+1345	2	10830 Warner Ave	Fountain Valley, CA 92708
+1346	2	26870 The Old Rd	Valencia, CA 91381
+1347	3	524 S. Main St.	(bet. 5th & 6th Sts.)	Los Angeles, CA 90013
+1348	2	2764 Rowena Ave	Los Angeles, CA 90039
+1349	5	Mary Brickell Vlg.	|	900 S. Miami Ave.	(bet. 9th & 10th Sts.)	Miami, FL 33130
+1350	5	Four Seasons	|	1435 Brickell Ave.	(bet. SE 14th Ln. & SE 14th Terr.)	Miami, FL 33131
+1351	3	124 S. Federal Hwy.	(SE 2nd St.)	Hallandale, FL 33009
+1352	5	Westin Diplomat Resort	|	3555 S. Ocean Dr.	(E. Hallandale Beach Blvd.)	Hallandale, FL 33019
+1353	2	16375 Biscayne Blvd	Aventura, FL 33160
+1354	2	6255 Stirling Rd	Davie, FL 33314
+1355	5	Conrad Miami Hotel	|	1395 Brickell Ave.	(SE 14th St.)	Miami, FL 33131
+1356	3	7200 SW Eighth St.	(bet. SW 72nd & 73rd Aves.)	West Miami, FL 33144
+1357	2	4 Grove Isle Dr	Miami, FL 33133
+1358	3	109 NE Second Ave.	(NE 1st St.)	Miami, FL 33132
+1359	2	1902 Hollywood Blvd	Hollywood, FL 33020
+1360	3	2884 SW 27th Ave.	(Coconut Ave.)	Coconut Grove, FL 33133
+1361	5	1800 Biscayne Plaza	|	275 NE 18th St.	(entrance on Biscayne Blvd.)	Miami, FL 33132
+1362	5	Dadeland Plaza Mall	|	9519 S. Dixie Hwy.	(Datran Blvd.)	South Miami, FL 33156
+1363	5	Ritz-Carlton Coconut Grove	|	3300 SW 27th Ave.	(bet. Bayshore Dr. & Tigertail Ave.)	Coconut Grove, FL 33133
+1364	3	7201 SW 59th Ave.	(Sunset Dr.)	South Miami, FL 33143
+1365	3	601 Biscayne Blvd.	(bet. 6th & 7th Sts.)	Miami, FL 33132
+1366	5	Bayside Mktpl.	|	401 Biscayne Blvd.	(bet. NE 4th & 5th Sts.)	Miami, FL 33132
+1367	3	1766 Bay Rd.	(bet. Abe Resnick Blvd. & 18th St.)	Miami Beach, FL 33139
+1368	3	850 Ocean Dr.	(bet. 8th & 9th Sts.)	Miami Beach, FL 33139
+1369	3	7310 S. Red Rd.	(bet. 73rd & 74th Sts.)	South Miami, FL 33143
+1370	3	414 71st St.	(Abbott Ave.)	Miami Beach, FL 33141
+1371	2	15406 NW 77th Ct	Hialeah, FL 33016
+1372	3	18600 NW 87th Ave.	(Rte. 75)	Miami Lakes, FL 33018
+1373	2	2437 SW 17th Ave	Miami, FL 33145
+1374	3	19088 NE 29th Ave.	(bet. NE 191st St. & 28th Ave.)	Aventura, FL 33180
+1375	3	3176 Commodore Plaza	(Grand Ave.)	Coconut Grove, FL 33133
+1376	3	840 First St.	(bet. Alton Rd. & Washington Ave.)	Miami Beach, FL 33139
+1377	2	1100 NE 79th St	Miami, FL 33138
+1378	3	264 Giralda Ave.	(bet. Ponce de Leon Blvd. & Salzedo St.)	Coral Gables, FL 33134
+1379	2	3000 Oakwood Blvd	Hollywood, FL 33020
+1380	3	7230 SW 59th Ave.	(SW 72nd St.)	South Miami, FL 33143
+1381	2	4016 S Red Rd	Miami, FL 33155
+1382	3	15450 New Barn Rd.	(67th Ave.)	Miami Lakes, FL 33014
+1383	2	225 SW 17th Ave	Miami, FL 33135
+1384	2	1830 SW 3rd Ave	Miami, FL 33129
+1385	3	712 Atlantic Shores Blvd.	(N. Federal Hwy.)	Hallandale, FL 33009
+1386	3	186 NE 29th St.	(2nd Ave.)	Miami, FL 33137
+1387	2	11415 S Dixie Hwy	Miami, FL 33156
+1388	3	437 Washington Ave.	(bet. 4th & 5th Sts.)	Miami Beach, FL 33139
+1389	2	1558 S Dixie Hwy	Coral Gables, FL 33146
+1390	3	398 NW North River Dr.	(NW 4th St.)	Miami, FL 33128
+1391	2	300 72nd St	Miami Beach, FL 33141
+1392	5	Sabal Chase Shoppes	|	10712 SW 113th Pl.	(107th St.)	Kendall, FL 33176
+1393	3	1201 Brickell Ave.	(12th St.)	Miami, FL 33131
+1394	3	28 NE 40th St.	(N. Miami Ave.)	Miami, FL 33137
+1395	5	Aventura Mall	|	19501 Biscayne Blvd.	(NE 195th St.)	Aventura, FL 33180
+1396	2	905 N Broadwalk	Hollywood, FL 33019
+1397	5	Westin Diplomat Resort	|	3555 S. Ocean Dr.	(E. Hallandale Beach Blvd.)	Hollywood, FL 33019
+1398	3	17355 Biscayne Blvd.	(NE 172nd St.)	North Miami Beach, FL 33179
+1399	5	One Miami Tower	|	335 S. Biscayne Blvd.	(SE 3rd St.)	Miami, FL 33131
+1400	5	Acqualina Hotel	|	17875 Collins Ave.	(bet. 178th & 183rd Sts.)	Sunny Isles Beach, FL 33160
+1401	2	131 26th St	Miami Beach, FL 33140
+1402	2	5650 Stirling Rd Ste 16	Hollywood, FL 33021
+1403	3	1787 Purdy Ave.	(bet. 17th & 18th Sts.)	Miami Beach, FL 33139
+1404	3	11 Washington Ave.	(bet. 1st St. & S. Pointe Dr.)	Miami Beach, FL 33139
+1405	2	8240 NW 36th St	Doral, FL 33166
+1406	2	12895 SW 42nd St	Miami, FL 33175
+1407	3	404 Washington Ave.	(4th St.)	Miami Beach, FL 33139
+1408	3	3805 SW Eighth St.	(Galiano St.)	Coral Gables, FL 33134
+1409	2	117 SW 107th Ave	Miami, FL 33174
+1410	2	8522 SW 8th St	Miami, FL 33144
+1411	2	18090 Collins Ave Ste 3	Sunny Isles Beach, FL 33160
+1412	2	7665 Pines Blvd	Pembroke Pines, FL 33024
+1413	2	1116 Ocean Dr	Miami Beach, FL 33139
+1414	2	11920 SW 8th St	Miami, FL 33184
+1415	3	709 NE 79th St.	(Biscayne Blvd.)	Miami, FL 33138
+1416	3	225 Altara Ave.	(bet. Aurora St. & Ponce de Leon Blvd.)	Coral Gables, FL 33146
+1417	3	4312 NE Second Ave.	(NE 43rd & 44th)	Miami, FL 33137
+1418	2	251 NE 14th St	Miami, FL 33132
+1419	5	The Shops at Sunset Pl.	|	5701 Sunset Dr.	(SW 57th Ave.)	South Miami, FL 33143
+1420	2	5751 Seminole Way	Ft. Lauderdale, FL 33314
+1421	3	5759 Bird Rd.	(bet. Red Rd. & SW 58th Ave.)	South Miami, FL 33155
+1422	3	15749 Pines Blvd.	(bet. NE 155th Ave. & Westfork Plaza Way)	Pembroke Pines, FL 33028
+1423	2	1363 Coral Way	Miami, FL 33145
+1424	3	20 Biscayne Blvd.	(Flagler St.)	Miami, FL 33132
+1425	5	Atlas Plaza	|	130 NE 40th St.	(bet. NE 1st & 2nd Aves.)	Miami, FL 33137
+1426	3	276 Alhambra Circle	(bet. Ponce de Leon Blvd. & Salzedo St.)	Coral Gables, FL 33134
+1427	2	28 NE 29th St	Miami, FL 33137
+1428	3	3445 Griffin Rd.	(SW 34th Terr.)	Dania, FL 33312
+1429	5	Shore Club	|	1901 Collins Ave.	(20th St.)	Miami Beach, FL 33139
+1430	2	11433 SW 40th St	Miami, FL 33165
+1431	5	Sanctuary Hotel	|	1745 James Ave.	(bet. 17th & 18th Sts.)	Miami Beach, FL 33139
+1432	2	935 Willow Ave	Hoboken, NJ 07030
+1433	2	US Highway 130 N	Trenton, NJ 08610
+1434	2	524 Washington St	Cape May, NJ 08204
+1435	2	128 Talmadge Rd	Edison, NJ 08817
+1436	3	141 Main St.	(Ravine Dr.)	Matawan, NJ 07747
+1437	3	2637 Main St.	(bet. Craven Ln. & Phillips Ave.)	Lawrenceville, NJ 08648
+1438	2	33 Paterson St	Newark, NJ 07105
+1439	3	594 Valley Rd.	(Bellevue Ave.)	Upper Montclair, NJ 07043
+1440	2	437 Park Ave	Scotch Plains, NJ 07076
+1441	3	912 Washington St.	(bet. 9th & 10th Sts.)	Hoboken, NJ 07030
+1442	2	58 Kossuth St	Newark, NJ 07105
+1443	3	63 Cedar Ln.	(bet. Broad St. & Teaneck Rd.)	Teaneck, NJ 07666
+1444	2	US Highway 130 N	Hightstown, NJ 08520
+1445	2	1700 W Elizabeth Ave	Linden, NJ 07036
+1446	2	18 Prospect St	Waldwick, NJ 07463
+1447	3	147 Morris St.	(bet. Elm & King Sts.)	Morristown, NJ 07960
+1448	5	Swann Hotel	|	43 S. Main St.	(Swan St.)	Lambertville, NJ 08530
+1449	3	41 Central Ave.	(bet. Greenwood & Madison Aves.)	Midland Park, NJ 07432
+1450	2	180 Maplewood Ave	Maplewood, NJ 07040
+1451	2	99 Taylor Ave	Manasquan, NJ 08736
+1452	2	33 Broad St	Red Bank, NJ 07701
+1453	3	619 S. New York Rd.	(bet. Brook Ln. & Holly Brook Dr.)	Galloway Township, NJ 08205
+1454	3	600 Ocean Ave.	(bet. Norwood & Woodland Aves.)	Avon-by-the-Sea, NJ 07717
+1455	3	1595 Rte. 22 W.	(Raymond Ave.)	Watchung, NJ 07069
+1456	2	513 Cedar Ln	Teaneck, NJ 07666
+1457	2	185 Madisonville Rd	Basking Ridge, NJ 07920
+1458	2	700 Haddonfield Berlin R Ste 17	Voorhees, NJ 08043
+1459	3	1099 Broad St.	(Watchung Ave.)	Bloomfield, NJ 07003
+1460	3	1 First St.	(River Rd.)	Rumson, NJ 07760
+1461	3	122 Bay Ave.	(Cornwell St.)	Highlands, NJ 07732
+1462	3	28 Oak St.	(bet. Franklin & Ridgewood Aves.)	Ridgewood, NJ 07450
+1463	2	500 W Hand Ave	Wildwood, NJ 08260
+1464	2	18 Downing St	Newark, NJ 07105
+1465	2	1640 Broad St	Bloomfield, NJ 07003
+1466	2	112 Stevens Ave	Little Falls, NJ 07424
+1467	3	600 Main St.	(Brinley Ave.)	Bradley Beach, NJ 07720
+1468	2	1 Lukach Ct	Milltown, NJ 08850
+1469	2	460 Ridgedale Ave	East Hanover, NJ 07936
+1470	3	7 E. Front St.	(Wharf Ave.)	Red Bank, NJ 07701
+1471	2	1051 Raritan Rd	Clark, NJ 07066
+1472	3	9th Street	(Bay Avenue)	Beach Haven, NJ 08008
+1473	3	14 Broad St.	(bet. Front & Mechanic Sts.)	Red Bank, NJ 07701
+1474	5	Grand Victorian Hotel	|	1505 Ocean Ave.	(bet. Madison & Newark Aves.)	Spring Lake, NJ 07762
+1475	2	21 E Palisade Ave	Englewood, NJ 07631
+1476	5	Congress Hall Hotel	|	251 Beach Ave.	(bet. Congress & Perry Sts.)	Cape May, NJ 08204
+1477	2	103 Valley Rd	Clifton, NJ 07013
+1478	5	Center 18 Mall	|	1020 Rte. 18 N.	(bet. Gunia St. & Hillsdale Rd.)	East Brunswick, NJ 08816
+1479	2	553 Main St	Fort Lee, NJ 07024
+1480	3	39 S. Main St.	(Coates St.)	Medford, NJ 08055
+1481	2	428 Stokes Rd	Medford, NJ 08055
+1482	3	99 Monroe St.	(bet. Ferry & Lafayette Sts.)	Newark, NJ 07105
+1483	2	35 Edison Pl	Newark, NJ 07102
+1484	5	Willow Pointe Shopping Ctr.	|	184 Rte. 9	(Union Hill Rd.)	Marlboro, NJ 07726
+1485	3	146 Kings Hwy. E.	(Centre St.)	Haddonfield, NJ 8033
+1486	2	380 Broad St	Bloomfield, NJ 07003
+1487	3	7 W. Broad St.	(Greenwood Ave.)	Hopewell, NJ 08525
+1488	2	2 Morford Pl	Red Bank, NJ 07701
+1489	2	426 Jersey Ave	Jersey City, NJ 07302
+1490	2	234 Somerset St	New Brunswick, NJ 08901
+1491	3	1044 Ave. C	(50th St.)	Bayonne, NJ 07002
+1492	3	167 Park Ave.	(bet. Highland Cross & Park Pl.)	Rutherford, NJ 07070
+1493	2	309 Millburn Ave	Millburn, NJ 07041
+1494	2	477 State Route 10	Randolph, NJ 07869
+1495	2	537 Washington Blvd	Jersey City, NJ 07310
+1496	3	2011 Marlton Pike W.	(Haddonfield Rd.)	Cherry Hill, NJ 08002
+1497	3	219 High St.	(Pearl St.)	Burlington, NJ 08016
+1498	5	Kitchen Expo Plaza	|	1 Rte. 31	(Rte. 202)	Flemington, NJ 08822
+1499	2	17 Washington St	Toms River, NJ 08753
+1500	5	Quarter at the Tropicana	|	2801 Pacific Ave.	(Iowa Ave.)	Atlantic City, NJ 08401
+1501	3	162 Main St.	(bet. Cookman & Lake Aves.)	Asbury Park, NJ 07712
+1502	2	1438 Sussex Tpke	Randolph, NJ 07869
+1503	3	563 Haddon Ave.	(Knight Ave.)	Collingswood, NJ 08108
+1504	2	25 Route 73 S	Marlton, NJ 08053
+1505	2	630 Broad Ave	Ridgefield, NJ 07657
+1506	2	811 Highway 33	Trenton, NJ 08619
+1507	2	1454 US Highway 9	Howell, NJ 07731
+1508	2	33 US Highway 9 N # 9	Freehold, NJ 07728
+1509	2	163 S Livingston Ave	Livingston, NJ 07039
+1510	3	183 Rte. 130	(Elizabeth St.)	Bordentown, NJ 08505
+1511	2	342 Valley Rd	Gillette, NJ 07933
+1512	2	200 Broad Ave	Palisades Park, NJ 07650
+1513	2	328 White Horse Pike	Clementon, NJ 08021
+1514	5	Colts Towne Plaza Shopping Ctr.	|	317 Rte. 34	(bet. Professional Circle & Rte. 537)	Colts Neck, NJ 07722
+1515	3	12 Church St.	(Bloomfield Ave.)	Montclair, NJ 07042
+1516	2	2117 Springfield Ave	Union, NJ 07083
+1517	2	32 W Main St	Freehold, NJ 07728
+1518	3	56-58 14th St.	(bet. Hudson & Washington Sts.)	Hoboken, NJ 07030
+1519	2	1109 Elizabeth Ave Ste A	Elizabeth, NJ 07201
+1520	2	637 Market St	Newark, NJ 07105
+1521	3	29 Main Rd.	(Morris Ave.)	Montville, NJ 07045
+1522	3	910 Haddonfield-Berlin Rd.	((Ritz Center))	Voorhees, NJ 08043
+1523	2	285 US Highway 202 N	Flemington, NJ 08822
+1524	3	541 River Rd.	(Gorge Rd.)	Edgewater, NJ 07020
+1525	2	292 Princeton Ave	Brick, NJ 08724
+1526	2	216 US Highway 46	Fairfield, NJ 07004
+1527	2	1500 Saint Georges Ave	Avenel, NJ 07001
+1528	3	427 Springfield Ave.	(Summit Ave.)	Summit, NJ 07901
+1529	3	11 Bridge Ave.	(Front St.)	Red Bank, NJ 07701
+1530	2	324 Park Ave	Rutherford, NJ 07070
+1531	3	54 N. Franklin St.	(Coryell St.)	Lambertville, NJ 08530
+1532	3	428 Springfield Ave.	(Lone Pine Dr.)	Berkeley Heights, NJ 07922
+1533	3	2691 Main St.	(Gordon Ave.)	Lawrenceville, NJ 08648
+1534	2	1073 Raritan Rd	Clark, NJ 07066
+1535	3	259 Johnson Ave.	(Madison Ave.)	River Edge, NJ 07661
+1536	2	461 Bloomfield Ave	Caldwell, NJ 07006
+1537	2	191 Woodport Rd	Sparta, NJ 07871
+1538	3	58 Rte. 46 W.	(bet. Chapin & Van Winkle Rds.)	Pine Brook, NJ 07058
+1539	2	404 Broad Ave	Palisades Park, NJ 07650
+1540	2	17 Main St	Annandale, NJ 08801
+1541	3	58 Broad St.	(Front St.)	Keyport, NJ 07735
+1542	3	107 Morristown Rd.	(Finley Ave.)	Bernardsville, NJ 07924
+1543	2	368 Cedar Ln	Teaneck, NJ 07666
+1544	2	32 Easton Ave	New Brunswick, NJ 08901
+1545	3	1405 Teaneck Rd.	(bet. Rte. 4 & Tryon Ave.)	Teaneck, NJ 07666
+1546	2	508 Washington St	Hoboken, NJ 07030
+1547	5	Pennington Shopping Ctr.	|	25 Rte. 31 S.	(bet. Delaware & Franklin Aves.)	Pennington, NJ 08534
+1548	3	205 Paramus Rd.	(bet. Century Rd. & Rte. 4)	Paramus, NJ 07652
+1549	5	Stella Towne Ctr.	|	1246 Rte. 166	(Hilltop Rd.)	Toms River, NJ 08753
+1550	3	40 W. Main St.	(Court St.)	Freehold, NJ 07728
+1551	3	10 Second St.	(bet. Anderson & Thompson Sts.)	Raritan, NJ 08869
+1552	2	1409 Palisade Ave	Teaneck, NJ 07666
+1553	3	135 Farnsworth Ave.	(Railroad Ave.)	Bordentown, NJ 08505
+1554	3	2633 Main St.	(bet. Craven Ln. & Phillips Ave.)	Lawrenceville, NJ 08648
+1555	2	173 Mercer St.	Hightstown, NJ 08520
+1556	2	327 12th St	Hammonton, NJ 08037
+1557	5	Westfield Garden State Plaza	|	1 Garden State Plaza	(E. Passaic St.)	Paramus, NJ 07652
+1558	3	248 Fort Lee Rd.	(Broad Ave.)	Leonia, NJ 07605
+1559	5	Borgata Hotel, Casino & Spa	|	Borgata Way	(Huron Ave.)	Atlantic City, NJ 08401
+1560	3	28 Church Rd.	(bet. I-295 & Kings Hwy.)	Maple Shade, NJ 08052
+1561	2	1353 Stelton Rd	Piscataway, NJ 08854
+1562	2	67 Ellis St	Haddonfield, NJ 08033
+1563	2	1475 Bergen Blvd	Fort Lee, NJ 07024
+1564	2	414 Richmond Ave	Point Pleasant Beach, NJ 08742
+1565	2	810 The Plz	Sea Girt, NJ 08750
+1566	2	3681 US Highway 9 Ste 21	Freehold, NJ 07728
+1567	2	31 W Front St	Red Bank, NJ 07701
+1568	2	1954 State Route 57	Hackettstown, NJ 07840
+1569	3	23 Bridge St.	(Union St.)	Lambertville, NJ 08530
+1570	2	1 Elm Row	New Brunswick, NJ 08901
+1571	3	10 Wallace St.	(Broad St.)	Red Bank, NJ 07701
+1572	2	15 S Orange Ave	South Orange, NJ 07079
+1573	3	400 Adams St.	(4th St.)	Hoboken, NJ 07030
+1574	2	67 Morris St	Morristown, NJ 07960
+1575	2	84 Highway 94	Franklin, NJ 07416
+1576	2	775 Mantoloking Rd	Brick, NJ 08723
+1577	3	661 Midland Ave.	(Plauderville Ave.)	Garfield, NJ 07026
+1578	3	136 Baldwin Rd	(RTE 46 W)	Parsippany, NJ 07054
+1579	3	225 US Highway 202	(Route 287)	Basking Ridge, NJ 07920
+1580	5	Garden St. Plaza	|	1 Garden St. Plaza	(Garden St. Pl. Way)	Paramus, NJ 07652
+1581	2	467 Broadway	Westwood, NJ 07675
+1582	2	3119 Route 88	Point Pleasant, NJ 08742
+1583	2	14 Park St	Montclair, NJ 07042
+1584	5	Grenville Hotel	|	345 Main Ave.	(bet. Harris & Karge Sts.)	Bay Head, NJ 08742
+1585	2	135 State Route 33	Manalapan, NJ 07726
+1586	5	Trump Taj Mahal	|	1000 Boardwalk	(S. Virginia Ave.)	Atlantic City, NJ 08401
+1587	3	7904 Long Beach Blvd.	(79th St.)	Harvey Cedars, NJ 08008
+1588	3	1345 Palisade Ave.	(Harmon Ave.)	Fort Lee, NJ 07024
+1589	3	1980 N. Olden Ave	(Olden Ave and Parkway Ave)	Trenton, NJ 08610
+1590	2	14 US Highway 46	Fairfield, NJ 07004
+1591	2	319 Hackensack St	Carlstadt, NJ 07072
+1592	3	633 Rte. 10	(Whippany Rd.)	Whippany, NJ 07981
+1593	2	933 W Park Ave	Ocean, NJ 07712
+1594	3	387 Bloomfield Ave.	(Willow St.)	Montclair, NJ 07042
+1595	3	74 S. Union St.	(Mt. Hope St.)	Lambertville, NJ 08530
+1596	3	164 St. James Pl.	(bet. The Boardwalk & Pacific Ave.)	Atlantic City, NJ 08401
+1597	3	575 W Mount Pleasant Ave	(Route 10)	Livingston, NJ 07039
+1598	2	516 Arnold Ave	Point Pleasant Beach, NJ 08742
+1599	3	1611 Palisade Ave.	(Angioletti St.)	Fort Lee, NJ 07024
+1600	2	900 Delsea Dr N	Glassboro, NJ 08028
+1601	2	31 Montgomery Ave	Long Branch, NJ 07740
+1602	2	30 Oak St	Ridgewood, NJ 07450
+1603	2	177 Washington Valley Rd	Warren, NJ 07059
+1604	2	1069 Inman Ave	Edison, NJ 08820
+1605	2	208 Kings Hwy E	Haddonfield, NJ 08033
+1606	2	114 Central Ave	Westfield, NJ 07090
+1607	2	Highway 36	Hazlet, NJ 07730
+1608	5	Garden State Plaza	|	1 Garden State Plaza	(Roosevelt Ave.)	Paramus, NJ 07652
+1609	3	9407 Ventnor Ave.	(Jefferson Ave. and Adams Ave.)	Margate, NJ 08402
+1610	2	133 Main St	Hackettstown, NJ 07840
+1611	3	708 River Rd.	(bet. 7th & 8th Aves.)	Belmar, NJ 07719
+1612	5	Sawmill Village	|	404 Rte. 70 W.	(Sawmill Rd.)	Cherry Hill, NJ 08034
+1613	2	2389 State Route 36	Atlantic Highlands, NJ 07716
+1614	3	291 Essex St	(Main St)	Millburn, NJ 07041
+1615	3	40 E. Gibbsboro Rd.	(White Horse Pike)	Lindenwold, NJ 08021
+1616	2	230 Decatur St	New Orleans, LA 70130
+1617	5	Audubon Pk.	|	6500 Magazine St.	(East Dr.)	New Orleans, LA 70118
+1618	2	4401 Jefferson Hwy	New Orleans, LA 70121
+1619	5	Loews	|	300 Poydras St.	(S. Peters St.)	New Orleans, LA 70130
+1620	5	French Mkt.	|	800 Decatur St.	(St. Ann St.)	New Orleans, LA 70116
+1621	3	923 Decatur St.	(bet. Dumaine & St. Philip Sts.)	New Orleans, LA 70116
+1622	3	4510 Dryades St.	(bet. Cadiz & Jena Sts.)	New Orleans, LA 70115
+1623	2	124 Royal St	New Orleans, LA 70130
+1624	3	1403 Washington Ave.	(Coliseum St.)	New Orleans, LA 70130
+1625	3	620 Iberville St.	(Exchange Pl.)	New Orleans, LA 70130
+1626	3	841 Iberville St.	(bet. Bourbon & Dauphine Sts.)	New Orleans, LA 70112
+1627	3	900 Dumaine St.	(Dauphine St.)	New Orleans, LA 70116
+1628	3	739 Iberville St.	(Bourbon St.)	New Orleans, LA 70130
+1629	2	4938 Prytania St	New Orleans, LA 70115
+1630	3	1136 Decatur St.	(bet. Governor Nicholls St. & Ursuline Ave.)	New Orleans, LA 70116
+1631	3	209 Bourbon St.	(Iberville St.)	New Orleans, LA 70130
+1632	3	3100 Magazine St.	(bet. Louisiana & Washington Aves.)	New Orleans, LA 70115
+1633	3	307 Exchange Pl.	(Bienville St.)	New Orleans, LA 70130
+1634	3	329 Decatur St	(Between Conti and Iberville)	New Orleans, LA 70130
+1635	3	4200 Magazine St.	(Milan St.)	New Orleans, LA 70115
+1636	3	430 Barracks St.	(bet. Decatur St. & French Market Pl.)	New Orleans, LA 70116
+1637	3	417 S. Rampart St.	(Perdido St.)	New Orleans, LA 70112
+1638	3	1732 ST Charles	(Polymnia)	New Orleans, LA 70130
+1639	3	833 Conti St.	(bet. Bourbon & Dauphine Sts.)	New Orleans, LA 70112
+1640	3	7808 Maple St.	(Burdette St.)	New Orleans, LA 70118
+1641	3	857 Fulton St.	(St. Joseph St.)	New Orleans, LA 70130
+1642	5	Maison Dupuy Hotel	|	1001 Toulouse St.	(Burgundy St.)	New Orleans, LA 70112
+1643	2	337 Dauphine St	New Orleans, LA 70112
+1644	3	7623 Maple St.	(bet. Adams & Hillary Sts.)	New Orleans, LA 70118
+1645	3	1820 St. Charles Ave.	(bet. Felicity & St. Mary Sts.)	New Orleans, LA 70130
+1646	3	133 St. Charles Ave.	(bet. Canal & Common Sts.)	New Orleans, LA 70130
+1647	5	Renaissance Pere Marquette	|	817 Common St.	(bet. Baronne & Carondelet Sts.)	New Orleans, LA 70112
+1648	2	2601 Royal St	New Orleans, LA 70117
+1649	3	1212 Royal St.	(bet. Barracks & Governor Nicholls Sts.)	New Orleans, LA 70116
+1650	3	500 Chartres St.	(St. Louis St.)	New Orleans, LA 70130
+1651	3	739 Conti St	(Bourbon)	New Orleans, LA 70130
+1652	3	14367 Chef Menteur Hwy.	(Alcee Fortier Blvd.)	New Orleans, LA 70129
+1653	3	4238 S. Claiborne Ave.	(General Pershing St.)	New Orleans, LA 70125
+1654	5	International House Hotel	|	217 Camp St.	(bet. Common & Gravier Sts.)	New Orleans, LA 70130
+1655	3	115 Bourbon St.	(bet. Canal & Iberville Sts.)	New Orleans, LA 70130
+1656	5	Omni Royal Orleans	|	621 St. Louis St.	(Chartres St.)	New Orleans, LA 70130
+1657	3	7801 Panola St.	(Burdette St.)	New Orleans, LA 70118
+1658	5	Harrah's Hotel	|	525 Fulton St.	(Poydras St.)	New Orleans, LA 70130
+1659	5	JW Marriott	|	614 Canal St.	(Camp St.)	New Orleans, LA 70130
+1660	5	Duane Street Hotel	|	130 Duane St.	(Church St.)	Manhattan, NY 10013
+1661	3	98 Rivington St.	(Ludlow St.)	Manhattan, NY 10002
+1662	5	Chelsea Mkt.	|	75 Ninth Ave.	(bet. 15th & 16th Sts.)	Manhattan, NY 10011
+1663	3	168 Ave. B	(bet. 10th & 11th Sts.)	Manhattan, NY 10009
+1664	3	162 E. 33rd St.	(bet. Lexington & 3rd Aves.)	Manhattan, NY 10016
+1665	3	621 9th Ave	(44th Street & 9th Ave)	Manhattan, NY 10036
+1666	3	68 Greenpoint Ave	(Franklin St & West St)	Brooklyn, NY 11222
+1667	2	2211 86th St	Brooklyn, NY 11214
+1668	3	22 W. Eighth St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10011
+1669	2	151 E 43rd St Frnt B	Manhattan, NY 10017
+1670	3	259 Fifth Ave.	(Garfield Pl.)	Brooklyn, NY 11215
+1671	5	Blakely Hotel	|	136 W. 55th St.	(bet. 6th & 7th Aves.)	Manhattan, NY 10019
+1672	3	409 W. 14th St.	(bet. 9th Ave. & Washington St.)	Manhattan, NY 10014
+1673	3	1407 Broadway	(bet. 38th & 39th Sts.)	Manhattan, NY 10018
+1674	3	213 E. 45th St.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10017
+1675	2	256 W 116th St	Manhattan, NY 10026
+1676	2	807 Lexington Ave	Manhattan, NY 10021
+1677	3	802 Ninth Ave.	(bet. 53rd & 54th Sts.)	Manhattan, NY 10019
+1678	2	330 E 53rd St	Manhattan, NY 10022
+1679	3	1068 First Ave.	(58th St.)	Manhattan, NY 10022
+1680	2	14 Mott St	Manhattan, NY 10013
+1681	3	19 W. 46th St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10036
+1682	3	1425 York Ave.	(bet. 75th & 76th Sts.)	Manhattan, NY 10021
+1683	2	13216 14th Ave	Queens, NY 11356
+1684	2	3620 Ditmars Blvd	Queens, NY 11105
+1685	3	31 W. 17th St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10011
+1686	2	8 Maiden Ln	Manhattan, NY 10038
+1687	3	187 Columbia St., 2nd fl.	(Degraw St.)	Brooklyn, NY 11231
+1688	3	2588 Broadway	(bet. 97th & 98th Sts.)	Manhattan, NY 10025
+1689	3	66 Mott St.	(bet. Bayard & Canal Sts.)	Manhattan, NY 10013
+1690	2	44 1st Ave	Manhattan, NY 10009
+1691	3	624 Vanderbilt Ave.	(Prospect Pl.)	Brooklyn, NY 11238
+1692	3	300 E. 12th St.	(bet. 1st & 2nd Aves.)	Manhattan, NY 10003
+1693	3	258 W. 44th St.	(bet. B'way & 8th Ave.)	Manhattan, NY 10036
+1694	3	2110 Avenue X	(bet. E.21st & E. 22nd Streets)	Brooklyn, NY 11235
+1695	3	112 Suffolk St	(bet. Rivington & Delancey)	Manhattan, NY 10002
+1696	2	234 W 48th St	Manhattan, NY 10036
+1697	3	60 Third Ave.	(bet. 10th & 11th Sts.)	Manhattan, NY 10003
+1698	2	159 E 55th St	Manhattan, NY 10022
+1699	2	1451 Richmond Ave	Staten Island, NY 10314
+1700	2	2276 Bartow Ave	Bronx, NY 10475
+1701	2	773 Fulton St	Brooklyn, NY 11217
+1702	5	Plaza Athénée Hotel	|	37 E. 64th St.	(bet. Madison & Park Aves.)	Manhattan, NY 10065
+1703	2	7427 37th Ave	Queens, NY 11372
+1704	3	141 W. 38th St.	(bet. B'way & 7th Ave.)	Manhattan, NY 10018
+1705	3	2290 Broadway	(bet. 82nd & 83rd Sts.)	Manhattan, NY 10024
+1706	3	1617 York Ave	(on the corner of 85th street)	Manhattan, NY 10028
+1707	5	Morgans Hotel	|	237 Madison Ave.	(bet. 37th & 38th Sts.)	Manhattan, NY 10016
+1708	2	247 5th Ave	Brooklyn, NY 11215
+1709	3	70 Grand St.	(Wythe Ave.)	Brooklyn, NY 11211
+1710	3	11 West 31st Street	(bet. B'way & 5th Ave.)	Manhattan, NY 10001
+1711	2	127 2nd Ave	Manhattan, NY 10003
+1712	3	240 E. 75th St.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10021
+1713	3	320 W. 46th St.	(bet. 8th & 9th Aves.)	Manhattan, NY 10036
+1714	2	984 Coney Island Ave	Brooklyn, NY 11230
+1715	2	3703 Broadway	Queens, NY 11103
+1716	2	9510 3rd Ave	Brooklyn, NY 11209
+1717	3	193 Spring St.	(bet. Sullivan & Thompson Sts.)	Manhattan, NY 10012
+1718	2	435 3rd Ave	Manhattan, NY 10016
+1719	3	69-12 Austin St.	(bet. 69th Rd. & Yellowstone Blvd.)	Queens, NY 11375
+1720	3	37 St. Marks Pl.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10003
+1721	3	1900 Broadway	(bet. 63rd & 64th Sts.)	Manhattan, NY 10023
+1722	3	65 Second Ave.	(bet. 3rd & 4th Sts.)	Manhattan, NY 10003
+1723	3	268 Sixth Ave.	(bet. Bleecker & Houston Sts.)	Manhattan, NY 10014
+1724	2	225 Front St	Manhattan, NY 10038
+1725	3	775 Washington St.	(bet. Jane & W. 12th Sts.)	Manhattan, NY 10014
+1726	2	5625 Broadway Frnt 4	Bronx, NY 10463
+1727	3	398 W. Broadway	(bet. Broome & Spring Sts.)	Manhattan, NY 10012
+1728	3	676 Ninth Ave.	(bet. 46th & 47th Sts.)	Manhattan, NY 10036
+1729	2	1112 Forest Ave	Staten Island, NY 10310
+1730	2	458 W 145th St	Manhattan, NY 10031
+1731	2	120 W 3rd St Bsmt	Manhattan, NY 10012
+1732	3	638 Bergen St.	(Vanderbilt Ave.)	Brooklyn, NY 11238
+1733	3	355 W. 46th St.	(bet. 8th & 9th Aves.)	Manhattan, NY 10036
+1734	2	81 Pearl St Frnt A	Manhattan, NY 10004
+1735	3	211. w. 43rd street	(bet. 7th and 8th aves.)	Manhattan, NY 10036
+1736	3	209 W. 38th St.	(bet. 7th & 8th Aves.)	Manhattan, NY 10018
+1737	2	163 Mulberry St	Manhattan, NY 10013
+1738	3	102 Lexington Ave	(bet. 27th & 28th Street)	Manhattan, NY 10016
+1739	2	43 Murray St	Manhattan, NY 10007
+1740	3	1596 Second Ave.	(83rd St.)	Manhattan, NY 10028
+1741	3	70 W. 71st St.	(bet. Columbus Ave. & CPW)	Manhattan, NY 10023
+1742	3	67 Mott St.	(bet. Bayard & Canal Sts.)	Manhattan, NY 10013
+1743	2	57 E 54th St	Manhattan, NY 10022
+1744	2	149 1st Ave Frnt 2	Manhattan, NY 10003
+1745	3	260 W. 29th St.	(8th Ave.)	Manhattan, NY 10001
+1746	3	415 Third Ave.	(29th St.)	Manhattan, NY 10016
+1747	2	37 E 60th St	Manhattan, NY 10022
+1748	3	1113 First Ave.	(61st St.)	Manhattan, NY 10065
+1749	3	218 3rd Ave	(bet. 18th & 19th Streets)	Manhattan, NY 10003
+1750	2	8 W 38th St	Manhattan, NY 10018
+1751	3	137 W 33rd St	(7th Avenue)	Manhattan, NY 10001
+1752	2	281 Bleecker St	Manhattan, NY 10014
+1753	3	111 E. 22nd St.	(bet. Lexington Ave. & Park Ave. S.)	Manhattan, NY 10010
+1754	3	106 E. 57th St.	(bet. Lexington & Park Aves.)	Manhattan, NY 10022
+1755	5	Citi Field	|	126th St. & Roosevelt Ave.	(behind the scoreboard)	Queens, NY 11368
+1756	3	31 Union Sq. W.	(16th St.)	Manhattan, NY 10003
+1757	3	216 Grand St.	(Elizabeth St.)	Manhattan, NY 10013
+1758	2	234 7th Ave	Manhattan, NY 10011
+1759	2	95 Chambers St	Manhattan, NY 10007
+1760	3	9 St. Marks Pl.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10003
+1761	3	53 W. 19th St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10011
+1762	3	772 Ninth Ave.	(bet. 51st & 52nd Sts.)	Manhattan, NY 10019
+1763	2	13415 20th Ave	Queens, NY 11356
+1764	3	300 W. 46th St.	(8th Ave.)	Manhattan, NY 10036
+1765	3	45 Rockefeller Plaza	(enter on 50th St., bet. 5th & 6th Aves.)	Manhattan, NY 10111
+1766	2	700 2nd Ave	Manhattan, NY 10016
+1767	2	328 W 46th St Frnt	Manhattan, NY 10036
+1768	5	Ace Hotel	|	16 W. 29th St.	(bet. B'way & 5th Ave.)	Manhattan, NY 10001
+1769	3	304 W. 56th St.	(bet. 8th & 9th Aves.)	Manhattan, NY 10019
+1770	2	9011 3rd Ave	Brooklyn, NY 11209
+1771	3	174 New Dorp Ln.	(9th St.)	Staten Island, NY 10306
+1772	2	315 W 46th St	Manhattan, NY 10036
+1773	3	162 Fifth Ave.	(bet. Degraw & Douglass Sts.)	Brooklyn, NY 11217
+1774	3	61 Hester St.	(bet. Essex & Ludlow Sts.)	Manhattan, NY 10002
+1775	3	1 Bruckner Blvd.	(3rd Ave.)	Bronx, NY 10454
+1776	3	1501 Broadway	(bet. 43rd & 44th Sts.)	Manhattan, NY 10036
+1777	2	4345 40th St	Queens, NY 11104
+1778	2	1750 2nd Ave	Manhattan, NY 10128
+1779	5	Waldorf-Astoria	|	301 Park Ave.	(enter on Lexington Ave. & 49th St.)	Manhattan, NY 10022
+1780	2	94 University Pl	Manhattan, NY 10003
+1781	2	50 E 8th St	Manhattan, NY 10003
+1782	3	30 Water St.	(bet. Broad St. & Coenties Slip)	Manhattan, NY 10004
+1783	3	125 W. 43rd St.	(bet. B'way & 6th Ave.)	Manhattan, NY 10036
+1784	2	2702 Astoria Blvd	Queens, NY 11102
+1785	3	50 Carmine St.	(bet. Bedford & Bleecker Sts.)	Manhattan, NY 10014
+1786	2	18 W 38th St	Manhattan, NY 10018
+1787	5	MetLife Bldg.	|	200 Park Ave.	(45th St.)	Manhattan, NY 10166
+1788	2	270 Smith St	Brooklyn, NY 11231
+1789	3	78 Carmine St.	(bet. Bedford St. & 7th Ave. S.)	Manhattan, NY 10014
+1790	2	240 W 54th St	Manhattan, NY 10019
+1791	2	32 Grand St	Manhattan, NY 10013
+1792	3	41 Saint Marks Pl	(2nd Ave.)	Manhattan, NY 10003
+1793	3	123 W. 44th St.	(bet. B'way & 6th Ave.)	Manhattan, NY 10036
+1794	3	236 E. 77th St.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10021
+1795	3	881 Eighth Ave.	(bet. 52nd & 53rd Sts.)	Manhattan, NY 10019
+1796	3	112 DeKalb Ave.	(bet. Ashland Pl. & St. Felix St.)	Brooklyn, NY 11201
+1797	3	265 Lafayette St.	(Prince St.)	Manhattan, NY 10012
+1798	3	1695 Second Ave.	(88th St.)	Manhattan, NY 10128
+1799	3	368 Columbus Ave.	(bet. 77th & 78th Sts.)	Manhattan, NY 10024
+1800	5	Neue Galerie	|	1048 Fifth Ave.	(86th St.)	Manhattan, NY 10028
+1801	2	2735 Broadway	Manhattan, NY 10025
+1802	2	61 7th Ave S Frnt	Manhattan, NY 10014
+1803	5	The Shops at Atlas Park	|	71-03 80th St.	(Forest Pkwy.)	Queens, NY 11385
+1804	2	2241 1st Ave	Manhattan, NY 10029
+1805	3	2888 Broadway	(bet. 112th & 113th Sts.)	Manhattan, NY 10025
+1806	2	7316 3rd Ave	Brooklyn, NY 11209
+1807	3	1825 N Railroad Ave	(off guyon avenue)	Staten Island, NY 10306
+1808	2	1056 Morris Park Ave	Bronx, NY 10461
+1809	2	327 2nd Ave	Manhattan, NY 10003
+1810	3	405 E. Sixth St.	(1st Ave.)	Manhattan, NY 10009
+1811	5	Carlyle Hotel	|	35 E. 76th St.	(Madison Ave.)	Manhattan, NY 10021
+1812	3	1571 Richmond Rd.	(bet. Four Corners Rd. & Seaview Ave.)	Staten Island, NY 10304
+1813	3	52 Irving Pl.	(17th St.)	Manhattan, NY 10003
+1814	3	211 W. Broadway	(Franklin St.)	Manhattan, NY 10013
+1815	3	241 W. Broadway	(N. Moore St.)	Manhattan, NY 10013
+1816	2	930 8th Ave	Manhattan, NY 10019
+1817	2	761 9th Ave	Manhattan, NY 10019
+1818	3	3923 Bell Blvd	(40th & 39th Avenue)	Queens, NY 11361
+1819	2	206 9th Ave	Manhattan, NY 10011
+1820	3	129 E. 27th St.	(Park Ave. S.)	Manhattan, NY 10016
+1821	2	306 E 6th St	Manhattan, NY 10003
+1822	3	211 DeKalb Ave.	(Adelphi St.)	Brooklyn, NY 11205
+1823	3	8530 Third Ave.	(bet. 85th & 86th Sts.)	Brooklyn, NY 11209
+1824	3	688 Sixth Ave.	(bet. 21st & 22nd Sts.)	Manhattan, NY 10010
+1825	3	203 E. 10th St.	(bet. 1st & 2nd Aves.)	Manhattan, NY 10003
+1826	3	50 Ave. B	(bet. 3rd & 4th Sts.)	Manhattan, NY 10009
+1827	3	1650 3rd Ave	(92 street)	Manhattan, NY 10128
+1828	3	129 Atlantic Ave.	(Henry St.)	Brooklyn, NY 11201
+1829	2	1198B Forest Ave	Staten Island, NY 10310
+1830	3	55 W. 35th St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10001
+1831	2	380 3rd Ave Frnt 1	Manhattan, NY 10016
+1832	3	165 E. 52nd St.	(bet. Lexington & 3rd Aves.)	Manhattan, NY 10022
+1833	3	308 Bleecker St.	(bet. Grove St. & 7th Ave. S.)	Manhattan, NY 10014
+1834	2	6443 108th St	Queens, NY 11375
+1835	2	316 W 23rd St	Manhattan, NY 10011
+1836	2	606 2nd Ave	Manhattan, NY 10016
+1837	2	3932 Bell Blvd	Queens, NY 11361
+1838	2	194 Prospect Park W	Brooklyn, NY 11215
+1839	3	132 E. 61st St.	(bet. Lexington & Park Aves.)	Manhattan, NY 10065
+1840	3	320 Amsterdam Ave.	(75th St.)	Manhattan, NY 10023
+1841	3	85 10th Ave.	(bet. 15th & 16th Sts.)	Manhattan, NY 10011
+1842	3	417 Lafayette St.	(bet. Astor Pl. & 4th St.)	Manhattan, NY 10003
+1843	5	New Yorker Hotel	|	481 Eighth Ave.	(35th St.)	Manhattan, NY 10001
+1844	3	378 Third Ave.	(bet. 27th & 28th Sts.)	Manhattan, NY 10016
+1845	2	226 Church Ave	Brooklyn, NY 11218
+1846	2	Red Hook Ballfields & Brooklyn Flea	Brooklyn, NY
+1847	2	96 E 161st St	Bronx, NY 10451
+1848	3	259 Front St.	(Dover St.)	Manhattan, NY 10038
+1849	3	43 E. 19th St.	(bet. B'way & Park Ave. S.)	Manhattan, NY 10003
+1850	3	900 Broadway	(bet. 19th & 20th Sts.)	Manhattan, NY 10003
+1851	2	135 Ludlow St	Manhattan, NY 10002
+1852	3	684 Third Ave.	(43rd St.)	Manhattan, NY 10017
+1853	3	240 W. 14th St.	(bet. 7th & 8th Aves.)	Manhattan, NY 10011
+1854	2	1731 Crosby Ave	Bronx, NY 10461
+1855	3	24 Fifth Ave.	(bet. 9th & 10th Sts.)	Manhattan, NY 10011
+1856	3	80 Sixth Ave.	(St. Marks Pl.)	Brooklyn, NY 11217
+1857	3	87 E. Fourth St.	(bet. Bowery & 2nd Ave.)	Manhattan, NY 10003
+1858	3	359 W. Broadway	(bet. Broome & Grand Sts.)	Manhattan, NY 10013
+1859	3	42-18 31st Ave.	(bet. 42nd & 43rd Sts.)	Queens, NY 11103
+1860	2	220 W 49th St	Manhattan, NY 10019
+1861	3	71-51 Yellowstone Blvd.	(bet. Clyde & Dartmouth Sts.)	Queens, NY 11375
+1862	3	325 W. 42nd St.	(bet. 8th & 9th Aves.)	Manhattan, NY 10036
+1863	3	1265 Third Ave.	(bet. 72nd & 73rd Sts.)	Manhattan, NY 10021
+1864	2	611 9th Ave	Manhattan, NY 10036
+1865	3	59 Fifth Ave.	(bet. 12th & 13th Sts.)	Manhattan, NY 10003
+1866	2	16812 Union Tpke	Queens, NY 11366
+1867	5	Bloomingdale's	|	150 E. 59th St.	(bet. Lexington & 3rd Aves.)	Manhattan, NY 10022
+1868	3	133 E. 61st St.	(bet. Lexington & Park Aves.)	Manhattan, NY 10065
+1869	3	239 E. Fifth St.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10003
+1870	2	166 Kings Hwy	Brooklyn, NY 11223
+1871	2	508 E 12th St	Manhattan, NY 10009
+1872	3	1841 Hobart Ave	(Westchester Avenue)	Bronx, NY 10461
+1873	3	204 W. 14th St.	(7th Ave. S.)	Manhattan, NY 10011
+1874	3	633 Third Ave.	(40th St.)	Manhattan, NY 10017
+1875	2	5724 Roosevelt Ave	Queens, NY 11377
+1876	3	373 Park Ave. S.	(bet. 26th & 27th Sts.)	Manhattan, NY 10016
+1877	3	103 W. 77th St.	(Columbus Ave.)	Manhattan, NY 10024
+1878	3	149 Broadway	(bet. Bedford & Driggs Aves.)	Brooklyn, NY 11211
+1879	3	432 Union Ave.	(bet. Devoe St. & Metropolitan Ave.)	Brooklyn, NY 11211
+1880	2	4513 Queens Blvd	Queens, NY 11104
+1881	3	1064 Madison Ave.	(bet. 80th & 81st Sts.)	Manhattan, NY 10028
+1882	3	53 W. 72nd St.	(bet. Columbus Ave. & CPW)	Manhattan, NY 10023
+1883	3	42-07 Main St.	(bet. Franklin & Maple Aves.)	Queens, NY 11355
+1884	2	10529 Metropolitan Ave	Queens, NY 11375
+1885	2	174 5th Ave	Manhattan, NY 10010
+1886	2	86 University Pl	Manhattan, NY 10003
+1887	2	113 Rivington St	Manhattan, NY 10002
+1888	3	5592 Broadway	(231st St.)	Bronx, NY 10463
+1889	2	10 Hillside Ave	Manhattan, NY 10040
+1890	3	1703 Second Ave.	(bet. 88th & 89th Sts.)	Manhattan, NY 10128
+1891	3	58 E. First St.	(bet. 1st & 2nd Aves.)	Manhattan, NY 10003
+1892	3	11 Madison Ave.	(24th St.)	Manhattan, NY 10010
+1893	3	510 Hudson St.	(bet. Christopher & W. 10th Sts.)	Manhattan, NY 10014
+1894	3	539 La Guardia Pl.	(bet. Bleecker & W. 3rd Sts.)	Manhattan, NY 10012
+1895	3	27 Hyatt St.	(Central Ave.)	Staten Island, NY 10301
+1896	3	402 W. 43rd St.	(9th Ave.)	Manhattan, NY 10036
+1897	3	833 Annadale Rd	(jefferson blvd)	Staten Island, NY 10312
+1898	3	352 W. 44th St.	(bet. 8th & 9th Aves.)	Manhattan, NY 10036
+1899	3	905 First Ave.	(51st St.)	Manhattan, NY 10022
+1900	3	125 W 53rd St	(6th Ave.)	Manhattan, NY 10019
+1901	3	79 Clinton St.	(Rivington St.)	Manhattan, NY 10002
+1902	2	1827 2nd Ave	Manhattan, NY 10128
+1903	3	71 Clinton St.	(bet. Rivington & Stanton Sts.)	Manhattan, NY 10002
+1904	3	543 La Guardia Pl.	(bet. Bleecker & W. 3rd Sts.)	Manhattan, NY 10012
+1905	3	243 E. 58th St.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10022
+1906	3	4055 Broadway	(bet. 170th & 171st Sts.)	Manhattan, NY 10032
+1907	2	250 Vesey St Fl 4	Manhattan, NY 10080
+1908	3	54 Spring St.	(bet. Lafayette & Mulberry Sts.)	Manhattan, NY 10012
+1909	5	Omni Berkshire Place Hotel	|	19 E. 52nd St.	(bet. 5th & Madison Aves.)	Manhattan, NY 10022
+1910	3	9218 Fourth Ave.	(92nd St.)	Brooklyn, NY 11209
+1911	3	135 E. 62nd St.	(bet. Lexington & Park Aves.)	Manhattan, NY 10065
+1912	2	7205 Austin St	Queens, NY 11375
+1913	3	174 E. 82nd St.	(bet. Lexington & 3rd Aves.)	Manhattan, NY 10028
+1914	2	185 Sullivan St	Manhattan, NY 10012
+1915	2	192 Grand St	Manhattan, NY 10013
+1916	3	115 Mulberry St.	(bet. Canal & Hester Sts.)	Manhattan, NY 10013
+1917	3	88 Second Ave.	(bet. 5th & 6th Sts.)	Manhattan, NY 10003
+1918	2	222 W Broadway	Manhattan, NY 10013
+1919	3	295 Flatbush Ave.	(bet. Prospect Pl. & St. Marks Ave.)	Brooklyn, NY 11217
+1920	3	40 E. 52nd St.	(bet. Madison & Park Aves.)	Manhattan, NY 10022
+1921	3	2110 Richmond Rd.	(Lincoln Ave.)	Staten Island, NY 10306
+1922	3	688 Columbus Ave.	(bet. 93rd & 94th Sts.)	Manhattan, NY 10025
+1923	3	149 W 4th St	(bet. MacDougal St. & 6th Ave.)	Manhattan, NY 10012
+1924	3	228 W. 52nd St.	(bet. B'way & 8th Ave.)	Manhattan, NY 10019
+1925	3	370 Columbus Ave.	(bet. 77th & 78th Sts.)	Manhattan, NY 10024
+1926	3	158 Eighth Ave.	(bet. 17th & 18th Sts.)	Manhattan, NY 10011
+1927	5	Bowery Hotel	|	335 Bowery	(bet. 2nd & 3rd Sts.)	Manhattan, NY 10003
+1928	2	73 W 11th St	Manhattan, NY 10011
+1929	2	1805 Edison Ave	Bronx, NY 10461
+1930	2	13811 Queens Blvd	Queens, NY 11435
+1931	2	8655 Queens Blvd	Queens, NY 11373
+1932	2	283 Bleecker St	Manhattan, NY 10014
+1933	2	4437 Douglaston Pkwy	Queens, NY 11363
+1934	3	27 E. 21st St.	(bet. B'way & Park Ave. S.)	Manhattan, NY 10010
+1935	3	337 E. 10th St.	(bet. Aves. A & B)	Manhattan, NY 10009
+1936	3	50 Bowery	(Canal St.)	Manhattan, NY 10013
+1937	2	173 E 99th St	Manhattan, NY 10029
+1938	5	London NYC Hotel	|	151 W. 54th St.	(bet. 6th & 7th Aves.)	Manhattan, NY 10019
+1939	3	201 E. 71st St.	(bet. 2nd & 3rd Aves.)	Manhattan, NY 10021
+1940	5	Metropolitan Opera House	|	Lincoln Center Plaza, 2nd fl.	(bet. 63rd & 65th Sts.)	Manhattan, NY 10023
+1941	3	54 Great Jones St.	(bet. Bowery & Lafayette St.)	Manhattan, NY 10012
+1942	5	Douglaston Plaza	|	242-02 61st Ave.	(bet. Douglaston Pkwy. & 244th St.)	Queens, NY 11362
+1943	3	186 Ave. B	(bet. 11th & 12th Sts.)	Manhattan, NY 10009
+1944	3	67 1st Ave	(4th Street)	Manhattan, NY 10003
+1945	3	1187 Amsterdam Ave.	(bet. 118th & 119th Sts.)	Manhattan, NY 10026
+1946	2	2425 Broadway	Manhattan, NY 10024
+1947	2	53 W 35th St	Manhattan, NY 10001
+1948	3	350 Seventh Ave.	(10th St.)	Brooklyn, NY 11215
+1949	2	1410 Madison Ave Frnt 1	Manhattan, NY 10029
+1950	2	1167 2nd Ave Frnt 1	Manhattan, NY 10065
+1951	5	Yankee Stadium	|	1 E. 161st St., Gate 6	(River Ave.)	Bronx, NY 10451
+1952	3	355 Greenwich St.	(Harrison St.)	Manhattan, NY 10013
+1953	3	280 Park Ave.	(enter on 48th St., bet. Madison & Park Aves.)	Manhattan, NY 10017
+1954	2	6310 Woodhaven Blvd	Queens, NY 11374
+1955	3	100 Second Ave.	(bet. 5th & 6th Sts.)	Manhattan, NY 10003
+1956	3	127 W. 43rd St.	(bet. B'way & 6th Ave.)	Manhattan, NY 10036
+1957	3	354 Bowery	(bet. 4th & Great Jones Sts.)	Manhattan, NY 10012
+1958	3	329 Henry St.	(bet. Altantic & Pacific Sts.)	Brooklyn, NY 11201
+1959	3	150 W. 10th St.	(bet. Greenwich Ave. & Waverly Pl.)	Manhattan, NY 10014
+1960	2	574 Avenue of the Americas	Manhattan, NY 10011
+1961	3	347 Van Brunt St.	(Wolcott St.)	Brooklyn, NY 11231
+1962	2	68 Mott St	Manhattan, NY 10013
+1963	3	72 Bayard St.	(Mott St.)	Manhattan, NY 10013
+1964	5	Hudson Hotel	|	356 W. 58th St.	(bet. 8th & 9th Aves.)	Manhattan, NY 10019
+1965	3	192 E. Second St.	(bet. Aves. A & B)	Manhattan, NY 10009
+1966	3	191 Seventh Ave.	(bet. 21st & 22nd Sts.)	Manhattan, NY 10014
+1967	3	176 Prince St.	(bet. Sullivan & Thompson Sts.)	Manhattan, NY 10012
+1968	3	125 Mulberry St.	(bet. Canal & Hester Sts.)	Manhattan, NY 10013
+1969	3	413 Greenwich St.	(Hubert St.)	Manhattan, NY 10013
+1970	3	151 Mulberry St.	(bet. Grand & Hester Sts.)	Manhattan, NY 10013
+1971	3	16 W. 56th St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10019
+1972	2	139 Court St	Brooklyn, NY 11201
+1973	2	7407 3rd Ave	Brooklyn, NY 11209
+1974	3	175 E 83rd St	(bet. Lexington & 3rd Aves.)	Manhattan, NY 10028
+1975	3	357 E 50th St Frnt	(bet. 1st & 2nd Aves.)	Manhattan, NY 10022
+1976	3	325 Park Ave.	(50th St.)	Manhattan, NY 10022
+1977	5	Michelangelo Hotel	|	777 Seventh Ave.	(bet. 50th & 51st Sts.)	Manhattan, NY 10019
+1978	3	13 W 46th St	(btn 5th and 6th)	Manhattan, NY 10036
+1979	3	56 Pine St.	(bet. Pearl & William Sts.)	Manhattan, NY 10005
+1980	3	605 Carlton Ave.	(St. Marks Ave.)	Brooklyn, NY 11238
+1981	3	100 W. Houston St.	(bet. La Guardia Pl. & Thompson St.)	Manhattan, NY 10012
+1982	3	1619 Second Ave.	(84th St.)	Manhattan, NY 10028
+1983	5	Trump Int'l Hotel	|	1 Central Park W.	(bet. 60th & 61st Sts.)	Manhattan, NY 10023
+1984	5	Trump Int'l Hotel	|	1 Central Park W.	(bet. 60th & 61st Sts.)	Manhattan, NY 10023
+1985	2	2715 Broadway	Manhattan, NY 10025
+1986	3	258 W. 31st St.	(bet. 7th & 8th Aves.)	Manhattan, NY 10001
+1987	3	24 W. 56th St.	(bet. 5th & 6th Aves.)	Manhattan, NY 10019
+1988	2	38 W 39th St Ste Frnt	Manhattan, NY 10018
+1989	2	1114 8th Ave	Brooklyn, NY 11215
+1990	3	25 W. 51st St., downstairs	(bet. 5th & 6th Aves.)	Manhattan, NY 10019
+1991	2	9703 3rd Ave	Brooklyn, NY 11209
+1992	3	347 E. 54th St.	(bet. 1st & 2nd Aves.)	Manhattan, NY 10022
+1993	3	65 St. Marks Pl.	(bet. 1st & 2nd Aves.)	Manhattan, NY 10003
+1994	5	Grand Central	|	lower level	(42nd St. & Vanderbilt Ave.)	Manhattan, NY 10017
+1995	2	136 Greenpoint Ave	Brooklyn, NY 11222
+1996	3	856 Ninth Ave.	(56th St.)	Manhattan, NY 10019
+1997	3	53 Sixth Ave.	(bet. Bergen & Dean Sts.)	Brooklyn, NY 11217
+1998	2	842 2nd Ave	Manhattan, NY 10017
+1999	3	36 E. 20th St.	(bet. B'way & Park Ave. S.)	Manhattan, NY 10003

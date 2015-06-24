@@ -1,0 +1,2002 @@
+﻿job	dice	location
+2000	2000	2000	460
+0000	1	San Francisco, CA
+0001	1	Oakland, CA
+0002	1	Boston, MA
+0003	1	Reading, MA
+0004	1	El Segundo, CA
+0005	1	Washington, DC
+0006	1	New York, NY
+0007	1	georgetown, CT
+0008	1	Mclean, VA
+0009	1	Jersey City, NJ
+0010	1	San Jose, CA
+0011	1	Provo, UT
+0012	1	Charlotte, NC
+0013	1	Sunnyvale, CA
+0014	1	Atlanta, GA
+0015	1	Warrenton, VA
+0016	1	New York City, NY
+0017	1	Stamford, CT
+0018	1	Lake Forest, CA
+0019	1	LA, CA
+0020	1	princeton, NJ
+0021	1	Provo, UT
+0022	1	New York, NY
+0023	1	San Francisco, CA
+0024	1	RARITAN, NJ
+0025	1	Minneapolis, MN
+0026	1	Redwood City, CA
+0027	1	Minneapolis, MN
+0028	1	Jacksonville, FL
+0029	1	New york, NY
+0030	1	Charlotte, NC
+0031	1	Hanover, MD
+0032	1	Carlsbad, CA
+0033	1	King of Prussia, PA
+0034	1	Chelmsford, MA
+0035	1	New York, NY
+0036	1	Charlotte, NC
+0037	1	Reston, VA
+0038	1	Phoenix, AZ
+0039	1	Warren, NJ
+0040	1	San Jose, CA
+0041	1	Herndon, VA
+0042	1	New York, NY
+0043	1	Portland, OR
+0044	1	New York, NY
+0045	1	Waltham, MA
+0046	1	New York, NY
+0047	1	Washington, DC
+0048	1	Chicago, IL
+0049	1	Fremont, CA
+0050	1	New York, NY
+0051	1	Albany, NY
+0052	1	Attleboro, MA
+0053	1	San Jose, CA
+0054	1	Springfield, MA
+0055	1	Gray, TN
+0056	1	Denver, CO
+0057	1	Boston, MA
+0058	1	portland, OR
+0059	1	Chantilly, VA
+0060	1	San Jose, CA
+0061	1	San Antonio, TX
+0062	1	San Jose, CA
+0063	1	San Francisco, CA
+0064	1	San Jose, CA
+0065	1	Dallas, TX
+0066	1	Chicago, IL
+0067	1	Alpharetta, GA
+0068	1	Muscatine, IA
+0069	1	Fort George G Meade, MD
+0070	1	Dallas, TX
+0071	1	Cambridge, MA
+0072	1	Irving, TX
+0073	1	New York, NY
+0074	1	San Francisco, CA
+0075	1	Middletown, CT
+0076	1	Portland, OR
+0077	1	Fort Collins, CO
+0078	1	Warren, NJ
+0079	1	Boston, MA
+0080	1	Phoenix, AZ
+0081	1	New York City, NY
+0082	1	Ann Arbor, MI
+0083	1	Washington, DC
+0084	1	Buffalo, NY
+0085	1	San Jose, CA
+0086	1	Wilkes Barre, PA
+0087	1	Denver, CO
+0088	1	Washington, DC
+0089	1	Suitland, MD
+0090	1	San Francisco, CA
+0091	1	San Jose, CA
+0092	1	Manhattan, NY
+0093	1	New York, NY
+0094	1	San Jose, CA
+0095	1	Washington, DC
+0096	1	New York, NY
+0097	1	Pullman, WA
+0098	1	St. Louis, MO
+0099	1	Provo, UT
+0100	1	New York, NY
+0101	1	Las Vegas, NV
+0102	1	Cleveland, OH
+0103	1	Springfield, IL
+0104	1	Herndon, VA
+0105	1	Reston, VA
+0106	1	Herndon, VA
+0107	1	Miami Lakes, FL
+0108	1	Chicago, IL
+0109	1	Lometa, TX
+0110	1	Los Angeles, CA
+0111	1	Cranbury, NJ
+0112	1	Princeton, NJ
+0113	1	St. Louis, MO
+0114	1	Collegeville, PA
+0115	1	New York, NY
+0116	1	Santa Clara, CA
+0117	1	San Carlos, CA
+0118	1	Ashburn, VA
+0119	1	Washington, DC
+0120	1	Campbell, CA
+0121	1	San Bernardino, CA
+0122	1	San diego, CA
+0123	1	Arlington, VA
+0124	1	Lake Forest, CA
+0125	1	Princeton, NJ
+0126	1	Irvine, CA
+0127	1	Saint Petersburg, FL
+0128	1	Irvine, CA
+0129	1	Portland, OR
+0130	1	Washington, DC
+0131	1	Ewing, NJ
+0132	1	madison, WI
+0133	1	Woodlawn, MD
+0134	1	Milpitas, CA
+0135	1	Irvine, CA
+0136	1	Rochester, NY
+0137	1	Chanhassen, MN
+0138	1	Milwaukee, WI
+0139	1	Jersey City, NJ
+0140	1	Pittsburgh, PA
+0141	1	Santa Clara, CA
+0142	1	Austin, TX
+0143	1	cincinnati, OH
+0144	1	Irvine, CA
+0145	1	Pullman, WA
+0146	1	New York, NY
+0147	1	Raritan, NJ
+0148	1	Chicago, IL
+0149	1	Houston, TX
+0150	1	Jersey City, NJ
+0151	1	Centennial, CO
+0152	1	McLean, VA
+0153	1	Columbia, MD
+0154	1	San Francisco, CA
+0155	1	Dallas, TX
+0156	1	Pleasant Prairie, WI
+0157	1	san francisco, CA
+0158	1	San Diego, CA
+0159	1	Warner Robins, GA
+0160	1	Campbell, CA
+0161	1	Boston, MA
+0162	1	New York, NY
+0163	1	Hingham, MA
+0164	1	Oklahoma City, OK
+0165	1	Suitland, MD
+0166	1	Fullerton, CA
+0167	1	Sunnyvale, CA
+0168	1	Unspecified, MA
+0169	1	Austin, TX
+0170	1	Cary, NC
+0171	1	Bowling Green, KY
+0172	1	Miami, FL
+0173	1	Denver, CO
+0174	1	Rosslyn, VA
+0175	1	Atlanta, GA
+0176	1	Buffalo, NY
+0177	1	Bozeman, MT
+0178	1	Sacramento, CA
+0179	1	Fairfax, VA
+0180	1	New York, NY
+0181	1	Winchester, VA
+0182	1	Fremont, CA
+0183	1	Herndon, VA
+0184	1	New York, NY
+0185	1	Juno Beach, FL
+0186	1	Chicago, IL
+0187	1	Chelmsford, MA
+0188	1	Beverly Hills, CA
+0189	1	Tampa, FL
+0190	1	Iselin, NJ
+0191	1	Washington, DC
+0192	1	Hartford, CT
+0193	1	Portland, OR
+0194	1	Santa Clara, CA
+0195	1	Chicago, IL
+0196	1	New York, NY
+0197	1	Atlanta, GA
+0198	1	Los Angeles, CA
+0199	1	Wayne, PA
+0200	1	Wilkes Barre, PA
+0201	1	New York City, NY
+0202	1	Pittsburgh, PA
+0203	1	Portland, OR
+0204	1	Waltham, MA
+0205	1	New York, NY
+0206	1	Portland, OR
+0207	1	washington, DC
+0208	1	Arlington, VA
+0209	1	Irvine, CA
+0210	1	Burlington, MA
+0211	1	Chanhassen, MN
+0212	1	Oakland, CA
+0213	1	Herndon, VA
+0214	1	Edison, NJ
+0215	1	San Francisco, CA
+0216	1	Jersey City, NJ
+0217	1	Broomfield, CO
+0218	1	Washington, DC
+0219	1	Mahwah, NJ
+0220	1	Herndon, VA
+0221	1	Atlanta, GA
+0222	1	Jacksonville, FL
+0223	1	Arlington, VA
+0224	1	Santa Monica, CA
+0225	1	New York, NY
+0226	1	santa clara, CA
+0227	1	Fargo, ND
+0228	1	Centennial, CO
+0229	1	San Francisco, CA
+0230	1	Cincinnati, OH
+0231	1	Phoenix, AZ
+0232	1	New York, NY
+0233	1	Chicago, IL
+0234	1	Boston, MA
+0235	1	Atlanta, GA
+0236	1	Minneapolis, MN
+0237	1	Fremont, CA
+0238	1	Chicago, IL
+0239	1	Portland, OR
+0240	1	Dallas, TX
+0241	1	Minneapolis, MN
+0242	1	Phoenix, AZ
+0243	1	NEW YORK, NY
+0244	1	Indianapolis, IN
+0245	1	Springfield, IL
+0246	1	Santa Clara, CA
+0247	1	Charleston, WV
+0248	1	El Dorado Hills, CA
+0249	1	San Francisco, CA
+0250	1	SAN MATEO, CA
+0251	1	New York, NY
+0252	1	Farmington, CT
+0253	1	Pittsburgh, PA
+0254	1	Princeton, NJ
+0255	1	Dulles, VA
+0256	1	Larkspur, CA
+0257	1	Arlington, VA
+0258	1	Herndon, VA
+0259	1	Rockville, MD
+0260	1	New York, NY
+0261	1	Herndon, VA
+0262	1	Research Triangle Park, NC
+0263	1	NYC, NY
+0264	1	Monrovia, CA
+0265	1	Scottsdale, AZ
+0266	1	Charlotte, NC
+0267	1	Rockville, MD
+0268	1	Indianapolis, IN
+0269	1	Allen, TX
+0270	1	Pittsburgh, PA
+0271	1	Manhattan, NY
+0272	1	NY, NY
+0273	1	NEW YORK, NY
+0274	1	Washington, DC
+0275	1	Milwaukee, WI
+0276	1	St. Louis, MO
+0277	1	The Woodlands, TX
+0278	1	Fort George G Meade, MD
+0279	1	San Jose, CA
+0280	1	Manhattan, NY
+0281	1	Santa Clara, CA
+0282	1	Oakland, CA
+0283	1	San Jose, CA
+0284	1	Memphis, TN
+0285	1	Redmond, WA
+0286	1	New York, NY
+0287	1	Philadelphia, PA
+0288	1	Denver, CO
+0289	1	Jacksonville, FL
+0290	1	Mechanicsburg, PA
+0291	1	Memphis, TN
+0292	1	Roseland, NJ
+0293	1	Woonsocket, RI
+0294	1	Redwood City, CA
+0295	1	New York, NY
+0296	1	Duluth, GA
+0297	1	Dallas, TX
+0298	1	San Antonio, TX
+0299	1	Washington, DC
+0300	1	Santa Clara, CA
+0301	1	New York, NY
+0302	1	Shelton, CT
+0303	1	Roanoke, VA
+0304	1	Santa Barbara, CA
+0305	1	San Jose, CA
+0306	1	Detroit, MI
+0307	1	Fremont, CA
+0308	1	Alpharetta, GA
+0309	1	Fort Wayne, IN
+0310	1	Chicago, IL
+0311	1	Houston, TX
+0312	1	Houston, TX
+0313	1	New York, NY
+0314	1	East Hartford, CT
+0315	1	Minneapolis, MN
+0316	1	Reston, VA
+0317	1	Petaluma, CA
+0318	1	Miami, FL
+0319	1	Rochester, NY
+0320	1	San Jose, CA
+0321	1	Woburn, MA
+0322	1	Denver, CO
+0323	1	Newport News, VA
+0324	1	Boston, MA
+0325	1	York, PA
+0326	1	Washington, DC
+0327	1	Wilmington, DE
+0328	1	Santa Clara, CA
+0329	1	SOMERSET, NJ
+0330	1	Arlington, VA
+0331	1	New York, NY
+0332	1	Brooklyn Park, MN
+0333	1	Portland, OR
+0334	1	Buffalo, NY
+0335	1	Cleveland, OH
+0336	1	Los Angeles, CA
+0337	1	Oakland, CA
+0338	1	Salem, OR
+0339	1	Houston, TX
+0340	1	San Francisco, CA
+0341	1	San Mateo, CA
+0342	1	Centennial, CO
+0343	1	Atlanta, GA
+0344	1	Los Angeles, CA
+0345	1	Summit, NJ
+0346	1	Miami Lakes, FL
+0347	1	Austin, TX
+0348	1	Mclean, VA
+0349	1	Mountain View, CA
+0350	1	Alpharetta, GA
+0351	1	North Charleston, SC
+0352	1	New York, NY
+0353	1	Alpharetta, GA
+0354	1	Saint Paul, MN
+0355	1	Tempe, AZ
+0356	1	Bedford, TX
+0357	1	new york, NY
+0358	1	benton, AR
+0359	1	Cleveland, OH
+0360	1	Herndon, VA
+0361	1	Westport, CT
+0362	1	Bala Cynwyd, PA
+0363	1	Campbell, CA
+0364	1	San Jose, CA
+0365	1	Palo Alto, CA
+0366	1	Grapevine, TX
+0367	1	Fairmont, WV
+0368	1	Boston, MA
+0369	1	Richmond, VA
+0370	1	San Francisco, CA
+0371	1	New York City, NY
+0372	1	Waltham, MA
+0373	1	New York, NY
+0374	1	Waltham, MA
+0375	1	Vienna, VA
+0376	1	Center Valley, PA
+0377	1	Syracuse, NY
+0378	1	Mount Laurel, NJ
+0379	1	New York, NY
+0380	1	Tempe, AZ
+0381	1	Pittsburgh, PA
+0382	1	Omaha, NE
+0383	1	Sun Prairie, WI
+0384	1	Philadelphia, PA
+0385	1	philadelphia, PA
+0386	1	Hartford, CT
+0387	1	Atlanta, GA
+0388	1	New York, NY
+0389	1	Santa Barbara, CA
+0390	1	Palo Alto, CA
+0391	1	Pleasant Prairie, WI
+0392	1	Ann Arbor, MI
+0393	1	Reston, VA
+0394	1	Somerset, NJ
+0395	1	Windsor, CT
+0396	1	Santa Fe Springs, CA
+0397	1	Littleton, MA
+0398	1	Annapolis, MD
+0399	1	Houston, TX
+0400	1	New York, NY
+0401	1	Redlands, CA
+0402	1	Chicago, IL
+0403	1	Scottsdale, AZ
+0404	1	Miami, FL
+0405	1	Washington, DC
+0406	1	New York, NY
+0407	1	Pittsburgh, PA
+0408	1	San Jose, CA
+0409	1	Holden, MA
+0410	1	NY, NY
+0411	1	HerndoN, VA
+0412	1	Seattle, WA
+0413	1	New York, NY
+0414	1	new york, NY
+0415	1	Los Angeles, CA
+0416	1	Minneapolis, MN
+0417	1	chicago, IL
+0418	1	Nashville, TN
+0419	1	Santa Clara, CA
+0420	1	Rockville, VA
+0421	1	Washington, DC
+0422	1	Houston, TX
+0423	1	Dallas, TX
+0424	1	Saint Paul, MN
+0425	1	Chicago, IL
+0426	1	Torrance, CA
+0427	1	Foster City, CA
+0428	1	Reston, VA
+0429	1	Plano, TX
+0430	1	San Jose, CA
+0431	1	San Jose, CA
+0432	1	Richmond, VA
+0433	1	Wilton, CT
+0434	1	Dallas, TX
+0435	1	Columbus, OH
+0436	1	Tempe, AZ
+0437	1	Oak Brook, IL
+0438	1	New York, NY
+0439	1	New York, NY
+0440	1	New York, NY
+0441	1	Portland, OR
+0442	1	Bellevue, WA
+0443	1	Secaucus, NJ
+0444	1	Alpharetta, GA
+0445	1	NY, NY
+0446	1	Washington, DC
+0447	1	Winona, MN
+0448	1	Redwood City, CA
+0449	1	Irvine, CA
+0450	1	Shelton, CT
+0451	1	Washington, DC
+0452	1	Orlando, FL
+0453	1	Winston-Salem, NC
+0454	1	New York, NY
+0455	1	Herndon, VA
+0456	1	New York, NY
+0457	1	The Woodlands, TX
+0458	1	Fairfax, VA
+0459	1	Miami, FL
+0460	1	Buffalo, NY
+0461	1	Windsor Mill, MD
+0462	1	Jackson, WY
+0463	1	New York, NY
+0464	1	West Palm Beach, FL
+0465	1	Baltimore, MD
+0466	1	Branchburg, NJ
+0467	1	Washington, DC
+0468	1	Plano, TX
+0469	1	Aberdeen, MD
+0470	1	New York, NY
+0471	1	St. Louis, MO
+0472	1	New York, NY
+0473	1	Alpharetta, GA
+0474	1	Herndon, VA
+0475	1	Little Rock, AR
+0476	1	Jacksonville, FL
+0477	1	New York, NY
+0478	1	Darien, IL
+0479	1	Pittsburgh, PA
+0480	1	Denver, CO
+0481	1	Anaheim, CA
+0482	1	New York, NY
+0483	1	Chicago, IL
+0484	1	New York City, NY
+0485	1	Los Angeles, CA
+0486	1	Boca Raton, FL
+0487	1	Indianapolis, IN
+0488	1	Lemont Furnace, PA
+0489	1	Clinton, IA
+0490	1	Dayton, OH
+0491	1	Roswell, GA
+0492	1	Dallas, TX
+0493	1	Cleveland, OH
+0494	1	Boston, MA
+0495	1	Denver, CO
+0496	1	Phoenix, AZ
+0497	1	San Jose, CA
+0498	1	Houston, TX
+0499	1	Bellevue, WA
+0500	1	Bellwood, PA
+0501	1	New York, NY
+0502	1	Irvine, CA
+0503	1	Easton, PA
+0504	1	Waltham, MA
+0505	1	New York, NY
+0506	1	New York, NY
+0507	1	Philadelphia, PA
+0508	1	Provo, UT
+0509	1	Portland, OR
+0510	1	New York, NY
+0511	1	Sparta, NJ
+0512	1	Austin, TX
+0513	1	Chicago, IL
+0514	1	new york, NY
+0515	1	Pleasant Prairie, WI
+0516	1	Seattle, WA
+0517	1	columbus, OH
+0518	1	Portland, OR
+0519	1	Raleigh, NC
+0520	1	Chicago, IL
+0521	1	Arlington, VA
+0522	1	Cleveland, OH
+0523	1	Gaithersburg, MD
+0524	1	Washington, DC
+0525	1	Sunrise, FL
+0526	1	Seattle, WA
+0527	1	Chicago, IL
+0528	1	Minneapolis, MN
+0529	1	Framingham, MA
+0530	1	Louisville, KY
+0531	1	Rockville, MD
+0532	1	Chicago, IL
+0533	1	Ann Arbor, MI
+0534	1	Denver, CO
+0535	1	Roseland, NJ
+0536	1	Fairfax, VA
+0537	1	WASHINGTON, DC
+0538	1	Bellevue, WA
+0539	1	San Jose, CA
+0540	1	Brooklyn, NY
+0541	1	Manhattan, NY
+0542	1	Hoffman Estates, IL
+0543	1	Santa Clara, CA
+0544	1	North Charleston, SC
+0545	1	Houston, TX
+0546	1	Oakland, CA
+0547	1	Washington, DC
+0548	1	Creve Coeur, MO
+0549	1	Baltimore, MD
+0550	1	New York, NY
+0551	1	New York, NY
+0552	1	Chicago, IL
+0553	1	Atlanta, GA
+0554	1	Walsh, CO
+0555	1	Phoenix, AZ
+0556	1	wilton, CT
+0557	1	Silver Spring, MD
+0558	1	Raleigh, NC
+0559	1	New York, NY
+0560	1	New York, NY
+0561	1	Santa Barbara, CA
+0562	1	Warren, NJ
+0563	1	Reston, VA
+0564	1	Los Angeles, CA
+0565	1	Plano, TX
+0566	1	Panama City, FL
+0567	1	Santa Clara, CA
+0568	1	Springfield, IL
+0569	1	Jersey City, NJ
+0570	1	Atlanta, GA
+0571	1	Los Angeles, CA
+0572	1	San Diego, CA
+0573	1	Rockville, MD
+0574	1	McLean, VA
+0575	1	morristown, NJ
+0576	1	New York, NY
+0577	1	Durham, NC
+0578	1	Unspecified, CA
+0579	1	Jersey City, NJ
+0580	1	Seattle, WA
+0581	1	Ann Arbor, MI
+0582	1	New York City, NY
+0583	1	Nashville, TN
+0584	1	Boise, ID
+0585	1	Boulder Creek, CA
+0586	1	Washington, DC
+0587	1	Cherry Hill, NJ
+0588	1	Cincinnati, OH
+0589	1	lyndhurst, NJ
+0590	1	New York, NY
+0591	1	Emeryville, CA
+0592	1	Pittsburgh, PA
+0593	1	Arlington, VA
+0594	1	Melville, NY
+0595	1	San Francisco, CA
+0596	1	silver spring, MD
+0597	1	Wilkes Barre, PA
+0598	1	Chicago, IL
+0599	1	New York, NY
+0600	1	New York, NY
+0601	1	New york, NY
+0602	1	Minneapolis, MN
+0603	1	Boulder, CO
+0604	1	Rochester, NY
+0605	1	New York City, NY
+0606	1	Houston, TX
+0607	1	Vienna, VA
+0608	1	Denver, CO
+0609	1	Raleigh, NC
+0610	1	Detroit, MI
+0611	1	Woodland Hills, CA
+0612	1	Rockville, MD
+0613	1	New York, NY
+0614	1	El Segundo, CA
+0615	1	New York, NY
+0616	1	New York, NY
+0617	1	Rock Hill, SC
+0618	1	Pittsburgh, PA
+0619	1	Herndon, VA
+0620	1	Atlanta, GA
+0621	1	Cranbury, NJ
+0622	1	Santa Clara, CA
+0623	1	St. Louis, MO
+0624	1	New York, NY
+0625	1	FORT GEORGE G MEADE, MD
+0626	1	santa clara, CA
+0627	1	Portland, OR
+0628	1	Hollywood, FL
+0629	1	New York, NY
+0630	1	Plano, TX
+0631	1	New York, NY
+0632	1	Reston, VA
+0633	1	Owings Mills, MD
+0634	1	Minneapolis, MN
+0635	1	Brooklyn, NY
+0636	1	Rockville, MD
+0637	1	Chicago, IL
+0638	1	Union City, CA
+0639	1	Santa Clara, CA
+0640	1	Tampa, FL
+0641	1	Mountain View, CA
+0642	1	Dallas, TX
+0643	1	New York, NY
+0644	1	San Bernardino, CA
+0645	1	Simi Valley, CA
+0646	1	Seattle, WA
+0647	1	portland, OR
+0648	1	New Orleans, LA
+0649	1	Mechanicsburg, PA
+0650	1	San Jose, CA
+0651	1	San Jose, CA
+0652	1	Syracuse, NY
+0653	1	Washington, DC
+0654	1	Provo, UT
+0655	1	Bellevue, WA
+0656	1	New York City, NY
+0657	1	Denver, CO
+0658	1	Woburn, MA
+0659	1	Austin, TX
+0660	1	New York, NY
+0661	1	Pullman, WA
+0662	1	silver spring, MD
+0663	1	Fort Worth, TX
+0664	1	Pittsburgh, PA
+0665	1	Washington, DC
+0666	1	Austin, TX
+0667	1	Dayton, OH
+0668	1	Olathe, KS
+0669	1	San Jose, CA
+0670	1	New York, NY
+0671	1	Merrimack, NH
+0672	1	Chicago, IL
+0673	1	Washington, DC
+0674	1	Newton, MA
+0675	1	Harrisburg, PA
+0676	1	Brentwood, TN
+0677	1	New York, NY
+0678	1	Melville, NY
+0679	1	Minneapolis, MN
+0680	1	New York City, NY
+0681	1	San Jose, CA
+0682	1	White Plains, NY
+0683	1	Dallas, TX
+0684	1	New York, NY
+0685	1	New York, NY
+0686	1	Dallas, TX
+0687	1	New York, NY
+0688	1	Houston, TX
+0689	1	Windsor Mill, MD
+0690	1	Minneapolis, MN
+0691	1	Bellwood, PA
+0692	1	Jacksonville, FL
+0693	1	Chicago, IL
+0694	1	Denver, CO
+0695	1	Washington, DC
+0696	1	San Bernardino, CA
+0697	1	Foster City, CA
+0698	1	Chicago, IL
+0699	1	Pleasant Prairie, WI
+0700	1	Columbus, OH
+0701	1	Baltimore, MD
+0702	1	Santa Clara, CA
+0703	1	Highlands Ranch, CO
+0704	1	Harrisburg, PA
+0705	1	Santa Clara, CA
+0706	1	New York, NY
+0707	1	Brackenridge, PA
+0708	1	Durham, NC
+0709	1	Phoenix, AZ
+0710	1	san francisco, CA
+0711	1	Santa Barbara, CA
+0712	1	New York, NY
+0713	1	wilton, CT
+0714	1	Norcross, GA
+0715	1	Downers Grove, IL
+0716	1	New York, NY
+0717	1	Pittsburgh, PA
+0718	1	Santa Monica, CA
+0719	1	New York, NY
+0720	1	Herndon, VA
+0721	1	Chicago, IL
+0722	1	Springfield, IL
+0723	1	Boston, MA
+0724	1	Glen Allen, VA
+0725	1	Minneapolis, MN
+0726	1	Reston, VA
+0727	1	Newport News, VA
+0728	1	Kansas City, KS
+0729	1	Farmington Hills, MI
+0730	1	Englewood Cliffs, NJ
+0731	1	Oakland, CA
+0732	1	New York, NY
+0733	1	Santa Clara, CA
+0734	1	Irvine, CA
+0735	1	Manhattan, NY
+0736	1	Saint Petersburg, FL
+0737	1	Boston, MA
+0738	1	Washington, DC
+0739	1	Saint Paul, MN
+0740	1	New York City, NY
+0741	1	Denver, CO
+0742	1	Reston, VA
+0743	1	New York, NY
+0744	1	Redmond, WA
+0745	1	Forest Hills, NY
+0746	1	Richmond, VA
+0747	1	Pittsburgh, PA
+0748	1	Raleigh, NC
+0749	1	Santa Barbara, CA
+0750	1	Dallas, TX
+0751	1	Somerset, NJ
+0752	1	Plano, TX
+0753	1	Salt Lake City, UT
+0754	1	Santa Monica, CA
+0755	1	Lawrenceville, NJ
+0756	1	Boston, MA
+0757	1	Centennial, CO
+0758	1	Dallas, TX
+0759	1	Indianapolis, IN
+0760	1	Dallas, TX
+0761	1	Indianapolis, IN
+0762	1	San Francisco, CA
+0763	1	Draper, UT
+0764	1	Little Rock, AR
+0765	1	Waltham, MA
+0766	1	Green Bay, WI
+0767	1	Hartford, CT
+0768	1	Owings Mills, MD
+0769	1	Columbia, MD
+0770	1	Nashville, TN
+0771	1	Auburn Hills, MI
+0772	1	Jacksonville, FL
+0773	1	Salt Lake City, UT
+0774	1	Atlanta, GA
+0775	1	Waukegan, IL
+0776	1	san francisco, CA
+0777	1	Austin, TX
+0778	1	New York, NY
+0779	1	Reston, VA
+0780	1	Glenview, IL
+0781	1	Santa Clara, CA
+0782	1	Bear, DE
+0783	1	Culver City, CA
+0784	1	baltimore, MD
+0785	1	Stennis Space Center, MS
+0786	1	Torrance, CA
+0787	1	Santa Clara, CA
+0788	1	Denver, CO
+0789	1	San Diego, CA
+0790	1	Pittsburgh, PA
+0791	1	Sunnyvale, CA
+0792	1	San Mateo, CA
+0793	1	warren, NJ
+0794	1	Minneapolis, MN
+0795	1	Harrisburg, PA
+0796	1	Minneapolis, MN
+0797	1	morristown, NJ
+0798	1	Albany, NY
+0799	1	Redwood City, CA
+0800	1	Washington, DC
+0801	1	McLean, VA
+0802	1	New York, NY
+0803	1	Dallas, TX
+0804	1	Atlanta, GA
+0805	1	Saint Petersburg, FL
+0806	1	Washington, DC
+0807	1	Milwaukee, WI
+0808	1	Palo Alto, CA
+0809	1	Houston, TX
+0810	1	St. Louis, MO
+0811	1	Pullman, WA
+0812	1	Durham, NC
+0813	1	New York, NY
+0814	1	Bedford, NH
+0815	1	Los Angeles, CA
+0816	1	Upton, NY
+0817	1	Cleveland, OH
+0818	1	Braintree, MA
+0819	1	Atlanta, GA
+0820	1	Bellevue, WA
+0821	1	Easton, MD
+0822	1	JERSEY CITY, NJ
+0823	1	Monmouth Junction, NJ
+0824	1	Larkspur, CA
+0825	1	San Francisco, CA
+0826	1	Indianapolis, IN
+0827	1	Centennial, CO
+0828	1	Edwardsport, IN
+0829	1	New York, NY
+0830	1	Westborough, MA
+0831	1	Herndon, VA
+0832	1	New York, NY
+0833	1	Raleigh, NC
+0834	1	NYC, NY
+0835	1	Oklahoma City, OK
+0836	1	Orlando, FL
+0837	1	Columbia, MD
+0838	1	Bellevue, WA
+0839	1	Fort Lauderdale, FL
+0840	1	St. Louis, MO
+0841	1	Sunrise, FL
+0842	1	Richmond, VA
+0843	1	Philadelphia, PA
+0844	1	White Plains, NY
+0845	1	Herndon, VA
+0846	1	Glen Allen, VA
+0847	1	Seattle, WA
+0848	1	Somerset, NJ
+0849	1	Austin, TX
+0850	1	New York, NY
+0851	1	Melville, NY
+0852	1	New York, NY
+0853	1	Portland, OR
+0854	1	Detroit, MI
+0855	1	Los Angeles, CA
+0856	1	Raritan, NJ
+0857	1	New York, NY
+0858	1	San Francisco, CA
+0859	1	Pittsburgh, PA
+0860	1	San Francisco, CA
+0861	1	Jersey City, NJ
+0862	1	Plano, TX
+0863	1	Jacksonville, FL
+0864	1	Norcross, GA
+0865	1	Seattle, WA
+0866	1	New York, NY
+0867	1	San Francisco, CA
+0868	1	Whippany, NJ
+0869	1	Boston, MA
+0870	1	Rockville, MD
+0871	1	San Francisco, CA
+0872	1	Rockville, MD
+0873	1	Oxon Hill, MD
+0874	1	Sandy Springs, GA
+0875	1	Fall River, MA
+0876	1	Kansas City, MO
+0877	1	Dallas, TX
+0878	1	Raleigh, NC
+0879	1	NEW YORK, NY
+0880	1	Boston, MA
+0881	1	San Ramon, CA
+0882	1	Bedford, NH
+0883	1	Redmond, WA
+0884	1	Petaluma, CA
+0885	1	Los Angeles, CA
+0886	1	Dallas, TX
+0887	1	Englewood, CO
+0888	1	carson, CA
+0889	1	New York, NY
+0890	1	San Diego, CA
+0891	1	Golden, CO
+0892	1	Denver, CO
+0893	1	Woodland Hills, CA
+0894	1	CHANTILLY, VA
+0895	1	Phoenix, AZ
+0896	1	Chantilly, VA
+0897	1	Braintree, MA
+0898	1	New York, NY
+0899	1	Pittsburgh, PA
+0900	1	Santa Clara, CA
+0901	1	Dallas, TX
+0902	1	Arlington, VA
+0903	1	New York, NY
+0904	1	Portland, OR
+0905	1	Boston, MA
+0906	1	San Jose, CA
+0907	1	Roseland, NJ
+0908	1	Manhattan, NY
+0909	1	Jacksonville, FL
+0910	1	St. Louis, MO
+0911	1	New York, NY
+0912	1	Burlingame, CA
+0913	1	portland, OR
+0914	1	Indianapolis, IN
+0915	1	New York, NY
+0916	1	Santa Barbara, CA
+0917	1	Redmond, WA
+0918	1	San Francisco, CA
+0919	1	Orange, CA
+0920	1	Atlanta, GA
+0921	1	New York, NY
+0922	1	Herndon, VA
+0923	1	Grain Valley, MO
+0924	1	Clearwater, FL
+0925	1	Charlotte, NC
+0926	1	St. Louis, MO
+0927	1	St. Louis, MO
+0928	1	Washington, DC
+0929	1	Grandville, MI
+0930	1	Redlands, CA
+0931	1	Miami, FL
+0932	1	Reston, VA
+0933	1	Waltham, MA
+0934	1	Jersey City, NJ
+0935	1	Boston, MA
+0936	1	Brooklyn Park, MN
+0937	1	Santa Clara, CA
+0938	1	Atlanta, GA
+0939	1	Herndon, VA
+0940	1	Cincinnati, OH
+0941	1	Boulder, CO
+0942	1	Arlington, VA
+0943	1	New York City, NY
+0944	1	Milwaukee, WI
+0945	1	New York, NY
+0946	1	Chicago, IL
+0947	1	Waltham, MA
+0948	1	Milwaukee, WI
+0949	1	Dallas, TX
+0950	1	Miami, FL
+0951	1	Broomfield, CO
+0952	1	Hartford, CT
+0953	1	Wellesley Hills, MA
+0954	1	New York, NY
+0955	1	Duluth, GA
+0956	1	Pittsburgh, PA
+0957	1	San Francisco, CA
+0958	1	Dearborn, MI
+0959	1	Memphis, TN
+0960	1	McLean, VA
+0961	1	Florham Park, NJ
+0962	1	Minnetonka, MN
+0963	1	Omaha, NE
+0964	1	San Francisco, CA
+0965	1	McLean, VA
+0966	1	New york city, NY
+0967	1	Herndon, VA
+0968	1	Lake Success, NY
+0969	1	Acton, MA
+0970	1	Norcross, GA
+0971	1	San Jose, CA
+0972	1	Herndon, VA
+0973	1	Memphis, TN
+0974	1	RARITAN, NJ
+0975	1	San Francisco, CA
+0976	1	Lewisville, TX
+0977	1	Livingston, NJ
+0978	1	Santa Clara, CA
+0979	1	Owings Mills, MD
+0980	1	North Little Rock, AR
+0981	1	Somerset, NJ
+0982	1	Middletown, NY
+0983	1	Dulles, VA
+0984	1	Columbia, MD
+0985	1	Washington, DC
+0986	1	Charlotte, NC
+0987	1	Chicago, IL
+0988	1	naperville, IL
+0989	1	Lexington, KY
+0990	1	Santa Clara, CA
+0991	1	Plano, TX
+0992	1	Lawrence, MA
+0993	1	Rochester, NY
+0994	1	ATLANTA, GA
+0995	1	New York, NY
+0996	1	new york, NY
+0997	1	Cambridge, MA
+0998	1	Jersey City, NJ
+0999	1	Sunnyvale, CA
+1000	1	San Diego, CA
+1001	1	Stamford, CT
+1002	1	New York, NY
+1003	1	San Francisco, CA
+1004	1	Denver, CO
+1005	1	New York, NY
+1006	1	New York, NY
+1007	1	Cleveland, OH
+1008	1	San Francisco, CA
+1009	1	SAN DIEGO, CA
+1010	1	Austin, TX
+1011	1	Alexandria, VA
+1012	1	San Francisco, CA
+1013	1	Washington, DC
+1014	1	New York, NY
+1015	1	New York, NY
+1016	1	New York, NY
+1017	1	Denver, CO
+1018	1	Framingham, MA
+1019	1	New York, NY
+1020	1	Glendale, CA
+1021	1	Milwaukee, WI
+1022	1	New York, NY
+1023	1	Bowling Green, KY
+1024	1	Chicago, IL
+1025	1	Bloomington, MN
+1026	1	New York, NY
+1027	1	Duluth, GA
+1028	1	Denver, CO
+1029	1	Irvine, CA
+1030	1	New York, NY
+1031	1	Reston, VA
+1032	1	Washington, DC
+1033	1	Seattle, WA
+1034	1	Chicago, IL
+1035	1	Jacksonville, FL
+1036	1	Redwood City, CA
+1037	1	Muscatine, IA
+1038	1	Santa Clara, CA
+1039	1	Phoenix, AZ
+1040	1	Ann Arbor, MI
+1041	1	Framingham, MA
+1042	1	Holmdel, NJ
+1043	1	morristown, NJ
+1044	1	Seattle, WA
+1045	1	Cleveland, OH
+1046	1	Jersey City, NJ
+1047	1	New York, NY
+1048	1	Memphis, TN
+1049	1	Somerset, NJ
+1050	1	Los Angeles, CA
+1051	1	Herndon, VA
+1052	1	Westborough, MA
+1053	1	Melville, NY
+1054	1	NYC, NY
+1055	1	Raleigh, NC
+1056	1	cranston, RI
+1057	1	San Jose, CA
+1058	1	San Jose, CA
+1059	1	McLean, VA
+1060	1	Saint Paul, MN
+1061	1	Baltimore, MD
+1062	1	San Diego, CA
+1063	1	Jersey City, NJ
+1064	1	Palo alto, CA
+1065	1	Egg Harbor Township, NJ
+1066	1	Washington, DC
+1067	1	FREMONT, CA
+1068	1	Austin, TX
+1069	1	Charlotte, NC
+1070	1	West Chester, PA
+1071	1	Warren, NJ
+1072	1	Boston, MA
+1073	1	Saint Petersburg, FL
+1074	1	Phoenix, AZ
+1075	1	Pittsburgh, PA
+1076	1	New York, NY
+1077	1	Santa Clara, CA
+1078	1	San Jose, CA
+1079	1	Edison, NJ
+1080	1	Anaheim, CA
+1081	1	Boston, MA
+1082	1	New York, NY
+1083	1	Culver City, CA
+1084	1	Atlanta, GA
+1085	1	Atlanta, GA
+1086	1	Pittsburgh, PA
+1087	1	Panama City, FL
+1088	1	Pasadena, CA
+1089	1	Phoenix, AZ
+1090	1	Hartford, CT
+1091	1	Santa Clara, CA
+1092	1	San Francisco, CA
+1093	1	Melville, NY
+1094	1	Pittsburgh, PA
+1095	1	Vernon Hills, IL
+1096	1	San Carlos, CA
+1097	1	Stennis Space Center, MS
+1098	1	Phoenix, AZ
+1099	1	Dallas, TX
+1100	1	Bellevue, WA
+1101	1	Irvine, CA
+1102	1	Springfield, VA
+1103	1	New York, NY
+1104	1	San Diego, CA
+1105	1	St. Louis, MO
+1106	1	Boston, MA
+1107	1	Reston, VA
+1108	1	Woodlawn, MD
+1109	1	Irvine, CA
+1110	1	Princeton, NJ
+1111	1	Duluth, GA
+1112	1	Dallas, TX
+1113	1	Santa Clara, CA
+1114	1	Los Angeles, CA
+1115	1	Livingston, NJ
+1116	1	Philadelphia, PA
+1117	1	Stennis Space Center, MS
+1118	1	New York, NY
+1119	1	Redwood City, CA
+1120	1	Boston, MA
+1121	1	new york, NY
+1122	1	New York, NY
+1123	1	Denver, CO
+1124	1	New York, NY
+1125	1	Duluth, GA
+1126	1	Miami, FL
+1127	1	wilmington, DE
+1128	1	Santa Clara, CA
+1129	1	Las Vegas, NV
+1130	1	Los Angeles, CA
+1131	1	Scranton, PA
+1132	1	Indianapolis, IN
+1133	1	Atlanta, GA
+1134	1	Seattle, WA
+1135	1	New York, NY
+1136	1	Redmond, WA
+1137	1	Agoura Hills, CA
+1138	1	New York City, NY
+1139	1	New York City, NY
+1140	1	Houston, TX
+1141	1	Suitland, MD
+1142	1	New York, NY
+1143	1	New York, NY
+1144	1	Trenton, NJ
+1145	1	Pasadena, CA
+1146	1	Beaverton, OR
+1147	1	Fremont, CA
+1148	1	new york, NY
+1149	1	Fort Worth, TX
+1150	1	Schaumburg, IL
+1151	1	Santa Clara, CA
+1152	1	Parsippany, NJ
+1153	1	Scottsdale, AZ
+1154	1	Lebanon, NH
+1155	1	Bowling Green, KY
+1156	1	beaverton, OR
+1157	1	King Of Prussia, PA
+1158	1	Hartford, CT
+1159	1	Detroit, MI
+1160	1	Seattle, WA
+1161	1	Portland, OR
+1162	1	Las Vegas, NV
+1163	1	San Francisco, CA
+1164	1	Duluth, GA
+1165	1	Fort Collins, CO
+1166	1	San Mateo, CA
+1167	1	Atlanta, GA
+1168	1	Brackenridge, PA
+1169	1	Sacramento, CA
+1170	1	Brooklyn, NY
+1171	1	Herndon, VA
+1172	1	Washington, DC
+1173	1	Northbrook, IL
+1174	1	San Mateo, CA
+1175	1	Alpharetta, GA
+1176	1	Irving, TX
+1177	1	Chicago, IL
+1178	1	louisville, KY
+1179	1	Chicago, IL
+1180	1	San Jose, CA
+1181	1	New York, NY
+1182	1	Jersey City, NJ
+1183	1	Bedford, NH
+1184	1	Irvine, CA
+1185	1	New York, NY
+1186	1	New York, NY
+1187	1	Northbrook, IL
+1188	1	Washington, DC
+1189	1	Naperville, IL
+1190	1	Turlock, CA
+1191	1	Edison, NJ
+1192	1	Rockville, MD
+1193	1	Stennis Space Center, MS
+1194	1	Manhasset, NY
+1195	1	Stamford, CT
+1196	1	Seattle, WA
+1197	1	New York, NY
+1198	1	New York, NY
+1199	1	Columbus, OH
+1200	1	NEW YORK, NY
+1201	1	Redmond, WA
+1202	1	Raleigh, NC
+1203	1	New York, NY
+1204	1	Jacksonville, FL
+1205	1	New York, NY
+1206	1	Portland, ME
+1207	1	San Francisco, CA
+1208	1	COLUMBUS, OH
+1209	1	Reston, VA
+1210	1	New York, NY
+1211	1	Irving, TX
+1212	1	Warrenton, VA
+1213	1	Seattle, WA
+1214	1	Los Angeles, CA
+1215	1	Upton, NY
+1216	1	New York, NY
+1217	1	Newport News, VA
+1218	1	New York, NY
+1219	1	Jersey City, NJ
+1220	1	Bowling Green, KY
+1221	1	Petaluma, CA
+1222	1	Houston, TX
+1223	1	Atlanta, GA
+1224	1	Boca Raton, FL
+1225	1	Sunrise, FL
+1226	1	Reston, VA
+1227	1	Alexandria, VA
+1228	1	Wellesley, MA
+1229	1	Centennial, CO
+1230	1	New York, NY
+1231	1	Seattle, WA
+1232	1	Wilmington, DE
+1233	1	Livingston, NJ
+1234	1	Charlotte, NC
+1235	1	Bedford, TX
+1236	1	Minneapolis, MN
+1237	1	San Francisco, CA
+1238	1	Costa Mesa, CA
+1239	1	San Jose, CA
+1240	1	Anchorage, AK
+1241	1	watchung, NJ
+1242	1	Peabody, MA
+1243	1	San Francisco, CA
+1244	1	Fairfax, VA
+1245	1	Rochester, OH
+1246	1	New York, NY
+1247	1	New York, NY
+1248	1	Bethlehem, PA
+1249	1	ALBANY, NY
+1250	1	Pittsburgh, PA
+1251	1	Modesto, CA
+1252	1	New York, NY
+1253	1	Los Angeles, CA
+1254	1	Franklin Lakes, NJ
+1255	1	Richmond, VA
+1256	1	Troy, MI
+1257	1	Falls Church, VA
+1258	1	Warner Robins, GA
+1259	1	ALBANY, NY
+1260	1	Chantilly, VA
+1261	1	Lorton, VA
+1262	1	Farmington Hills, MI
+1263	1	Atlanta, GA
+1264	1	Bellevue, WA
+1265	1	Washington, DC
+1266	1	NYC, NY
+1267	1	Dallas, TX
+1268	1	Midvale, UT
+1269	1	Philadelphia, PA
+1270	1	Orlando, FL
+1271	1	Oakland, CA
+1272	1	New York, NY
+1273	1	Juno Beach, FL
+1274	1	Easton, PA
+1275	1	Phoenix, AZ
+1276	1	Rockville, MD
+1277	1	New York, NY
+1278	1	Teaneck, NJ
+1279	1	Tampa, FL
+1280	1	Grand Rapids, MI
+1281	1	Bellevue, WA
+1282	1	Petaluma, CA
+1283	1	Boulder, CO
+1284	1	San Ramon, CA
+1285	1	San Jose, CA
+1286	1	Irvine, CA
+1287	1	Bellevue, WA
+1288	1	Tewksbury, MA
+1289	1	San Fernando, CA
+1290	1	Boston, MA
+1291	1	Farmington Hills, MI
+1292	1	Bowling Green, KY
+1293	1	New York, NY
+1294	1	Columbus, OH
+1295	1	Redwood City, CA
+1296	1	Washington, DC
+1297	1	Columbus, OH
+1298	1	El Segundo, CA
+1299	1	fort worth, TX
+1300	1	Chicago, IL
+1301	1	Toledo, OH
+1302	1	Dallas, TX
+1303	1	Las Vegas, NV
+1304	1	Orlando, FL
+1305	1	Fort Worth, TX
+1306	1	McLean, VA
+1307	1	New York, NY
+1308	1	New York, NY
+1309	1	Atlanta, GA
+1310	1	New York, NY
+1311	1	New York, NY
+1312	1	Somerset, NJ
+1313	1	Sunnyvale, CA
+1314	1	New York, NY
+1315	1	Newark, NJ
+1316	1	Niles, IL
+1317	1	Mountain View, CA
+1318	1	Middletown, RI
+1319	1	Denver, CO
+1320	1	Los Angeles, CA
+1321	1	Bowling Green, KY
+1322	1	Raleigh, NC
+1323	1	Petaluma, CA
+1324	1	Pullman, WA
+1325	1	New York City, NY
+1326	1	Atlanta, GA
+1327	1	Dallas, TX
+1328	1	Irving, TX
+1329	1	York, PA
+1330	1	Rockville, MD
+1331	1	Boston, MA
+1332	1	Madison, WI
+1333	1	Santa Barbara, CA
+1334	1	New York, NY
+1335	1	Miami, FL
+1336	1	LEWISVILLE, TX
+1337	1	New York, NY
+1338	1	Edison, NJ
+1339	1	Stamford, CT
+1340	1	Dearborn, MI
+1341	1	San Francisco, CA
+1342	1	Overland Park, KS
+1343	1	East Granby, CT
+1344	1	SCHAUMBURG, IL
+1345	1	Campbell, CA
+1346	1	West Des Moines, IA
+1347	1	New York, NY
+1348	1	San Mateo, CA
+1349	1	New York, NY
+1350	1	Santa Clara, CA
+1351	1	Midland, PA
+1352	1	Pittsburgh, PA
+1353	1	New York, NY
+1354	1	Simi Valley, CA
+1355	1	San Francisco, CA
+1356	1	Ann Arbor, MI
+1357	1	New York, NY
+1358	1	Stamford, CT
+1359	1	Boston, MA
+1360	1	Kalamazoo, MI
+1361	1	Boston, MA
+1362	1	Cleveland, OH
+1363	1	Edinburg, VA
+1364	1	Kansas City, MO
+1365	1	Falls Church, VA
+1366	1	Fort Washington, PA
+1367	1	Cleveland, OH
+1368	1	new york, NY
+1369	1	San Jose, CA
+1370	1	Washington, DC
+1371	1	Londonderry, NH
+1372	1	Boston, MA
+1373	1	Austin, TX
+1374	1	Schenectady, NY
+1375	1	New York, NY
+1376	1	San Francisco, CA
+1377	1	New York, NY
+1378	1	Chicago, IL
+1379	1	Foster City, CA
+1380	1	San Carlos, CA
+1381	1	morristown, NJ
+1382	1	Chicago, IL
+1383	1	Sunnyvale, CA
+1384	1	Dallas, TX
+1385	1	Seattle, WA
+1386	1	Seattle, WA
+1387	1	Minnetonka, MN
+1388	1	Los Angeles, CA
+1389	1	BRISBANE, CA
+1390	1	Brackenridge, PA
+1391	1	San Francisco, CA
+1392	1	Ann Arbor, MI
+1393	1	New York, NY
+1394	1	Jersey City, NJ
+1395	1	Aberdeen, MD
+1396	1	Fort Worth, TX
+1397	1	Chicago, IL
+1398	1	santa clara, CA
+1399	1	Cambridge, MA
+1400	1	PHILADELPHIA, PA
+1401	1	Maplewood, NJ
+1402	1	Houston, TX
+1403	1	New York, NY
+1404	1	New York, NY
+1405	1	Saint Petersburg, FL
+1406	1	New York, NY
+1407	1	Washington, DC
+1408	1	Naples, FL
+1409	1	Dulles, VA
+1410	1	Overland Park, KS
+1411	1	Emeryville, CA
+1412	1	Sunrise, FL
+1413	1	Indianapolis, IN
+1414	1	San Bruno, CA
+1415	1	Scottsdale, AZ
+1416	1	Austin, TX
+1417	1	Atlanta, GA
+1418	1	San Jose, CA
+1419	1	New York, NY
+1420	1	White Plains, NY
+1421	1	Woodland Hills, CA
+1422	1	Minnetonka, MN
+1423	1	orlando, FL
+1424	1	Des Moines, IA
+1425	1	dallas, TX
+1426	1	New York, NY
+1427	1	Redwood City, CA
+1428	1	Minneapolis, MN
+1429	1	Pittsburgh, PA
+1430	1	Pittsburgh, PA
+1431	1	Pittsburgh, PA
+1432	1	New York, NY
+1433	1	Sacramento, CA
+1434	1	Vienna, VA
+1435	1	Dallas, TX
+1436	1	Hauppauge, NY
+1437	1	Bangor, ME
+1438	1	Boston, MA
+1439	1	Philadelphia, PA
+1440	1	Saint Petersburg, FL
+1441	1	Schaumburg, IL
+1442	1	Dallas, TX
+1443	1	Sunrise, FL
+1444	1	Irvine, CA
+1445	1	Jersey City, NJ
+1446	1	San Jose, CA
+1447	1	Winchester, VA
+1448	1	Reston, VA
+1449	1	San Jose, CA
+1450	1	Troy, MI
+1451	1	New York, NY
+1452	1	Falls Church, VA
+1453	1	New York, NY
+1454	1	Minnetonka, MN
+1455	1	Carlsbad, CA
+1456	1	Raleigh, NC
+1457	1	Milwaukee, WI
+1458	1	Westborough, MA
+1459	1	Minneapolis, MN
+1460	1	Chicago, IL
+1461	1	Lorton, VA
+1462	1	Houston, TX
+1463	1	Fremont, CA
+1464	1	Herndon, VA
+1465	1	San Jose, CA
+1466	1	New York City, NY
+1467	1	Los Angeles, CA
+1468	1	Purchase, NY
+1469	1	Melville, NY
+1470	1	Los Angeles, CA
+1471	1	El Segundo, CA
+1472	1	Houston, TX
+1473	1	Fairfax, VA
+1474	1	New York, NY
+1475	1	Rochester, NY
+1476	1	Boston, MA
+1477	1	Plano, TX
+1478	1	New York, NY
+1479	1	Raritan, NJ
+1480	1	NEW YORK, NY
+1481	1	New York, NY
+1482	1	Monroe, LA
+1483	1	Phoenix, AZ
+1484	1	Pullman, WA
+1485	1	Joliet, IL
+1486	1	Los Angeles, CA
+1487	1	Las Vegas, NV
+1488	1	Washington, DC
+1489	1	Springfield, IL
+1490	1	Houston, TX
+1491	1	Huntsville, AL
+1492	1	Raleigh, NC
+1493	1	Charlotte, NC
+1494	1	Dallas, TX
+1495	1	Mclean, VA
+1496	1	Overland Park, KS
+1497	1	Boston, MA
+1498	1	Santa Clara, CA
+1499	1	Gray, TN
+1500	1	Salt Lake City, UT
+1501	1	Herndon, VA
+1502	1	New York, NY
+1503	1	Salt Lake City, UT
+1504	1	Centennial, CO
+1505	1	Los Angeles, CA
+1506	1	Scottsdale, AZ
+1507	1	Buffalo, NY
+1508	1	Cleveland, OH
+1509	1	New York City, NY
+1510	1	Atlanta, GA
+1511	1	Jersey City, NJ
+1512	1	Chicago, IL
+1513	1	Shelton, CT
+1514	1	Lafayette, CO
+1515	1	Washington, DC
+1516	1	Northbrook, IL
+1517	1	New York, NY
+1518	1	Santa Clara, CA
+1519	1	AUSTIN, TX
+1520	1	New York City, NY
+1521	1	Herndon, VA
+1522	1	Parsippany, NJ
+1523	1	Des Moines, IA
+1524	1	New York City, NY
+1525	1	Warrenton, VA
+1526	1	Plano, TX
+1527	1	Chanhassen, MN
+1528	1	Melville, NY
+1529	1	Houston, TX
+1530	1	Santa Monica, CA
+1531	1	Dulles, VA
+1532	1	Campbell, CA
+1533	1	Chicago, IL
+1534	1	Chicago, IL
+1535	1	Greenwood Village, CO
+1536	1	Kansas city, MO
+1537	1	Santa Clara, CA
+1538	1	Dallas, TX
+1539	1	Foster City, CA
+1540	1	Washington, DC
+1541	1	San Mateo, CA
+1542	1	New York, NY
+1543	1	fort worth, TX
+1544	1	San Mateo, CA
+1545	1	Minneapolis, MN
+1546	1	Coconut Creek, FL
+1547	1	San Francisco, CA
+1548	1	New York City, NY
+1549	1	Arlington, VA
+1550	1	Herndon, VA
+1551	1	NEW YORK, NY
+1552	1	Santa Barbara, CA
+1553	1	Pittsburgh, PA
+1554	1	Philadelphia, PA
+1555	1	San Mateo, CA
+1556	1	new york, NY
+1557	1	Reston, VA
+1558	1	Washington, DC
+1559	1	Charlotte, NC
+1560	1	Redmond, WA
+1561	1	Edison, NJ
+1562	1	New York, NY
+1563	1	Boston, MA
+1564	1	Tempe, AZ
+1565	1	Edison, NJ
+1566	1	Detroit, MI
+1567	1	Muscatine, IA
+1568	1	Indianapolis, IN
+1569	1	Englewood, CO
+1570	1	Fall River, MA
+1571	1	atlanta, GA
+1572	1	Bowie, MD
+1573	1	Boston, MA
+1574	1	Somerset, NJ
+1575	1	Port Orange, FL
+1576	1	SAN MATEO, CA
+1577	1	Atlanta, GA
+1578	1	DENVER, CO
+1579	1	Dallas, TX
+1580	1	Birmingham, AL
+1581	1	Raleigh, NC
+1582	1	New York City, NY
+1583	1	New york, NY
+1584	1	Seattle, WA
+1585	1	New York, NY
+1586	1	San francisco, CA
+1587	1	Fort Lauderdale, FL
+1588	1	Framingham, MA
+1589	1	Washington, DC
+1590	1	Shelton, CT
+1591	1	Redwood City, CA
+1592	1	Stamford, CT
+1593	1	Columbia, MD
+1594	1	Atlanta, GA
+1595	1	Pittsburgh, PA
+1596	1	Akron, OH
+1597	1	Pleasanton, CA
+1598	1	Alexandria, VA
+1599	1	Fort Lauderdale, FL
+1600	1	RARITAN, NJ
+1601	1	Indianapolis, IN
+1602	1	Kansas City, MO
+1603	1	San Mateo, CA
+1604	1	Dallas, TX
+1605	1	Alpharetta, GA
+1606	1	Salt Lake City, UT
+1607	1	Lehi, UT
+1608	1	New York, NY
+1609	1	Mansfield, TX
+1610	1	Grand Rapids, MI
+1611	1	Tewksbury, MA
+1612	1	McLean, VA
+1613	1	Bellevue, WA
+1614	1	Boston, MA
+1615	1	Denver, CO
+1616	1	New York, NY
+1617	1	Kansas City, MO
+1618	1	Franklin, TN
+1619	1	Bellevue, WA
+1620	1	New York, NY
+1621	1	Oxford, OH
+1622	1	Atlanta, GA
+1623	1	New York, NY
+1624	1	New York, NY
+1625	1	Stamford, CT
+1626	1	El Segundo, CA
+1627	1	New York, NY
+1628	1	Durham, NC
+1629	1	Jersey City, NJ
+1630	1	San Francisco, CA
+1631	1	Redlands, CA
+1632	1	Nashville, TN
+1633	1	San Jose, CA
+1634	1	Dallas, TX
+1635	1	New York, NY
+1636	1	Raleigh, NC
+1637	1	Herndon, VA
+1638	1	Santa Monica, CA
+1639	1	Orlando, FL
+1640	1	Charlotte, NC
+1641	1	Brooklyn, NY
+1642	1	Pottstown, PA
+1643	1	Indianapolis, IN
+1644	1	Petaluma, CA
+1645	1	Warner Robins, GA
+1646	1	New York City, NY
+1647	1	Richmond, VA
+1648	1	Houston, TX
+1649	1	Washington, DC
+1650	1	New York, NY
+1651	1	Harrisburg, PA
+1652	1	New York, NY
+1653	1	Houston, TX
+1654	1	Woburn, MA
+1655	1	Chicago, IL
+1656	1	Alpharetta, GA
+1657	1	Unspecified, PA
+1658	1	Pittsburgh, PA
+1659	1	Atlanta, GA
+1660	1	Culver City, CA
+1661	1	new york, NY
+1662	1	St. Louis, MO
+1663	1	Mansfield, TX
+1664	1	red wing, MN
+1665	1	Seattle, WA
+1666	1	Winston-Salem, NC
+1667	1	dallas, TX
+1668	1	Richmond, VA
+1669	1	Marlborough, MA
+1670	1	Somerset, NJ
+1671	1	Washington, DC
+1672	1	Irving, TX
+1673	1	New York City, NY
+1674	1	Miramar, FL
+1675	1	Overland Park, KS
+1676	1	Lanham, MD
+1677	1	Jersey City, NJ
+1678	1	Toledo, OH
+1679	1	Boston, MA
+1680	1	new york, NY
+1681	1	Washington, DC
+1682	1	Salt Lake City, UT
+1683	1	Grand Rapids, MI
+1684	1	New York, NY
+1685	1	South San Francisco, CA
+1686	1	Richardson, TX
+1687	1	Acton, MA
+1688	1	Charlotte, NC
+1689	1	Mountain View, CA
+1690	1	San Francisco, CA
+1691	1	Santa Clara, CA
+1692	1	New York City, NY
+1693	1	San Francisco, CA
+1694	1	San Francisco, CA
+1695	1	Irvine, CA
+1696	1	Boston, MA
+1697	1	Washington, DC
+1698	1	Sandy, UT
+1699	1	Costa Mesa, CA
+1700	1	Washington, DC
+1701	1	Rockville, MD
+1702	1	Sparks, MD
+1703	1	Suitland, MD
+1704	1	San Francisco, CA
+1705	1	Pittsburgh, PA
+1706	1	Mountain View, CA
+1707	1	Miami, FL
+1708	1	Ann Arbor, MI
+1709	1	San Mateo, CA
+1710	1	Herndon, VA
+1711	1	Philadelphia, PA
+1712	1	Somerset, NJ
+1713	1	Fairfax, VA
+1714	1	Los Angeles, CA
+1715	1	Reston, VA
+1716	1	New York, NY
+1717	1	Boston, MA
+1718	1	Rockville, MD
+1719	1	Paramus, NJ
+1720	1	Colorado, CO
+1721	1	Charlotte, NC
+1722	1	San Jose, CA
+1723	1	Denver, CO
+1724	1	New York, NY
+1725	1	San Francisco, CA
+1726	1	Franklin Lakes, NJ
+1727	1	New York, NY
+1728	1	Irving, TX
+1729	1	San Antonio, TX
+1730	1	New York, NY
+1731	1	Buffalo, NY
+1732	1	Muscatine, IA
+1733	1	Charlotte, NC
+1734	1	Irvine, CA
+1735	1	Dallas, TX
+1736	1	Denver, CO
+1737	1	Shelton, CT
+1738	1	Raleigh, NC
+1739	1	San Francisco, CA
+1740	1	Seattle, WA
+1741	1	Chicago, IL
+1742	1	Boston, MA
+1743	1	Boca Raton, FL
+1744	1	Bowling Green, KY
+1745	1	Somerset, NJ
+1746	1	Washington, DC
+1747	1	West Boylston, MA
+1748	1	Los Angeles, CA
+1749	1	Jersey City, NJ
+1750	1	San Jose, CA
+1751	1	Somerset, NJ
+1752	1	Atlanta, GA
+1753	1	Washington, DC
+1754	1	Palo Alto, CA
+1755	1	RESTON, VA
+1756	1	Schaumburg, IL
+1757	1	Stennis Space Center, MS
+1758	1	Englewood, CO
+1759	1	Redmond, WA
+1760	1	Culver City, CA
+1761	1	Las Vegas, NV
+1762	1	Irving, TX
+1763	1	Duluth, GA
+1764	1	Bellevue, WA
+1765	1	Lansing, MI
+1766	1	Newport News, VA
+1767	1	Bethesda, MD
+1768	1	Pittsburgh, PA
+1769	1	Brooklyn, NY
+1770	1	los angeles, CA
+1771	1	Austin, TX
+1772	1	San Francisco, CA
+1773	1	austin, TX
+1774	1	Herndon, VA
+1775	1	Woodland Hills, CA
+1776	1	Bellevue, WA
+1777	1	San Francisco, CA
+1778	1	Boston, MA
+1779	1	Falls Church, VA
+1780	1	Provo, UT
+1781	1	St. Louis, MO
+1782	1	New York, NY
+1783	1	Los Angeles, CA
+1784	1	Braintree, MA
+1785	1	Bellwood, PA
+1786	1	Tampa, FL
+1787	1	kansas city, MO
+1788	1	New York, NY
+1789	1	Richmond, VA
+1790	1	Dallas, TX
+1791	1	Pittsburgh, PA
+1792	1	redmond, WA
+1793	1	New York, NY
+1794	1	Van Nuys, CA
+1795	1	Jacksonville, FL
+1796	1	New York, NY
+1797	1	Darien, IL
+1798	1	New York, NY
+1799	1	San Antonio, TX
+1800	1	columbus, OH
+1801	1	Aberdeen, MD
+1802	1	Somerset, NJ
+1803	1	Austin, TX
+1804	1	Redmond, WA
+1805	1	Irvine, CA
+1806	1	New york city, NY
+1807	1	New York City, NY
+1808	1	Plano, TX
+1809	1	Indianapolis, IN
+1810	1	Bellevue, WA
+1811	1	New York, NY
+1812	1	Simi Valley, CA
+1813	1	Fargo, ND
+1814	1	New York, NY
+1815	1	Austin, TX
+1816	1	Fairfax, VA
+1817	1	Columbia, SC
+1818	1	El Segundo, CA
+1819	1	Des Moines, IA
+1820	1	New York, NY
+1821	1	New York, NY
+1822	1	New York, NY
+1823	1	Atlanta, GA
+1824	1	San Diego, CA
+1825	1	Denver, CO
+1826	1	Costa Mesa, CA
+1827	1	Cambridge, MA
+1828	1	Gray, TN
+1829	1	boston, MA
+1830	1	Pittsburgh, PA
+1831	1	New York, NY
+1832	1	DENVER, CO
+1833	1	Sunnyvale, CA
+1834	1	Phoenix, AZ
+1835	1	Denver, CO
+1836	1	Pleasanton, CA
+1837	1	Niskayuna, NY
+1838	1	Salt Lake City, UT
+1839	1	Waltham, MA
+1840	1	Seattle, WA
+1841	1	Raleigh, NC
+1842	1	New York, NY
+1843	1	atlanta, GA
+1844	1	McLean, VA
+1845	1	East Berkshire, VT
+1846	1	San Jose, CA
+1847	1	Little Rock, AR
+1848	1	New York, NY
+1849	1	Washington, DC
+1850	1	Pittsburgh, PA
+1851	1	Raleigh, NC
+1852	1	Rockwall, TX
+1853	1	New York, NY
+1854	1	San Jose, CA
+1855	1	Alpharetta, GA
+1856	1	Herndon, VA
+1857	1	Minneapolis, MN
+1858	1	Salt Lake City, UT
+1859	1	Chicago, IL
+1860	1	Rochester, NY
+1861	1	King of Prussia, PA
+1862	1	Minneapolis, MN
+1863	1	Livingston, NJ
+1864	1	Wilton, CT
+1865	1	Marlborough, MA
+1866	1	new york, NY
+1867	1	Boston, MA
+1868	1	Washington, DC
+1869	1	Worcester, MA
+1870	1	Atlanta, GA
+1871	1	Atlanta, GA
+1872	1	San Jose, CA
+1873	1	Cleveland, OH
+1874	1	Minneapolis, MN
+1875	1	Washington, DC
+1876	1	Fort Bragg, NC
+1877	1	Santa Clara, CA
+1878	1	Washington, DC
+1879	1	St. Louis, MO
+1880	1	SAN MATEO, CA
+1881	1	Cincinnati, OH
+1882	1	Overland Park, KS
+1883	1	Mclean, VA
+1884	1	Bowling Green, VA
+1885	1	Durham, NC
+1886	1	Schaumburg, IL
+1887	1	Fairfax, VA
+1888	1	Rancho Cordova, CA
+1889	1	Pittsburgh, PA
+1890	1	Chanhassen, MN
+1891	1	Houston, TX
+1892	1	Manhattan, NY
+1893	1	Germantown, MD
+1894	1	Foster City, CA
+1895	1	Warren, NJ
+1896	1	Purchase, NY
+1897	1	Chantilly, VA
+1898	1	Austin, TX
+1899	1	Mountain View, CA
+1900	1	Hauppauge, NY
+1901	1	New York City, NY
+1902	1	NYC, NY
+1903	1	Washington, DC
+1904	1	Dallas, TX
+1905	1	San Diego, CA
+1906	1	Middletown, CT
+1907	1	Dallas, TX
+1908	1	Atlanta, GA
+1909	1	Boston, MA
+1910	1	Boston, MA
+1911	1	Foxboro, MA
+1912	1	Irving, TX
+1913	1	cherry hill, NJ
+1914	1	New York City, NY
+1915	1	St. Louis, MO
+1916	1	Rockville, MD
+1917	1	Cambridge, MA
+1918	1	Irving, TX
+1919	1	Seattle, WA
+1920	1	Boston, MA
+1921	1	Los Angeles, CA
+1922	1	Jersey City, NJ
+1923	1	Boston, MA
+1924	1	Washington, DC
+1925	1	Chicago, IL
+1926	1	San Carlos, CA
+1927	1	Herndon, VA
+1928	1	Herndon, VA
+1929	1	Woburn, MA
+1930	1	Cleveland, OH
+1931	1	Minneapolis, MN
+1932	1	San Jose, CA
+1933	1	Topsfield, MA
+1934	1	warren, NJ
+1935	1	Des Moines, IA
+1936	1	East Granby, CT
+1937	1	Roseland, NJ
+1938	1	Atlanta, GA
+1939	1	King of Prussia, PA
+1940	1	Dayton, OH
+1941	1	Saint Petersburg, FL
+1942	1	New York, NY
+1943	1	Herndon, VA
+1944	1	Chantilly, VA
+1945	1	Bridgewater, NJ
+1946	1	Salt Lake City, UT
+1947	1	MCLEAN, VA
+1948	1	Princeton, NJ
+1949	1	Washington, DC
+1950	1	Broomfield, CO
+1951	1	Pittsburgh, PA
+1952	1	St. Louis, MO
+1953	1	Cambridge, MA
+1954	1	Palo Alto, CA
+1955	1	San Diego, CA
+1956	1	Denver, CO
+1957	1	Chicago, IL
+1958	1	Farmington, MI
+1959	1	Plano, TX
+1960	1	Atlanta, GA
+1961	1	Hopkinton, MA
+1962	1	San Jose, CA
+1963	1	San Francisco, CA
+1964	1	Herndon, VA
+1965	1	Boston, MA
+1966	1	Buffalo, NY
+1967	1	Saint Paul, MN
+1968	1	Fairfax, VA
+1969	1	Indianapolis, IN
+1970	1	Fairfax, VA
+1971	1	Northern Virginia, VA
+1972	1	Pittsburgh, PA
+1973	1	Worcester, MA
+1974	1	Omaha, NE
+1975	1	Buffalo, NY
+1976	1	Jersey City, NJ
+1977	1	Kansas City, KS
+1978	1	Denver, CO
+1979	1	New York, NY
+1980	1	Anchorage, AK
+1981	1	South San Francisco, CA
+1982	1	St. Louis, MO
+1983	1	Cambridge, MA
+1984	1	New York, NY
+1985	1	Palo Alto, CA
+1986	1	New York, NY
+1987	1	Herndon, VA
+1988	1	Fort Lauderdale, FL
+1989	1	new york, NY
+1990	1	New York, NY
+1991	1	Richmond, VA
+1992	1	Redmond, WA
+1993	1	Pleasant Prairie, WI
+1994	1	Pittsburgh, PA
+1995	1	St. Louis, MO
+1996	1	Dallas, TX
+1997	1	Great Neck, NY
+1998	1	Troy, MI
+1999	1	New York, NY

@@ -1,0 +1,2002 @@
+﻿university	collegenavigator	type
+2000	2000	2000	12
+0000	1	4-year, Private not-for-profit
+0001	1	2-year, Private not-for-profit
+0002	1	4-year, Private not-for-profit
+0003	1	&lt; 2-year, Public
+0004	1	4-year, primarily associate's, Private for-profit
+0005	1	2-year, Public
+0006	1	4-year, Public
+0007	1	4-year, Public
+0008	1	2-year, Public
+0009	1	2-year, Public
+0010	1	&lt; 2-year, Private for-profit
+0011	1	2-year, Public
+0012	1	&lt; 2-year, Private for-profit
+0013	1	2-year, Private not-for-profit
+0014	1	4-year, Private not-for-profit
+0015	1	4-year, Private not-for-profit
+0016	1	2-year, Private for-profit
+0017	1	2-year, Private for-profit
+0018	1	4-year, primarily associate's, Public
+0019	1	4-year, primarily associate's, Public
+0020	1	4-year, primarily associate's, Private not-for-profit
+0021	1	2-year, Private for-profit
+0022	1	2-year, Private for-profit
+0023	1	4-year, primarily associate's, Private for-profit
+0024	1	4-year, primarily associate's, Public
+0025	1	4-year, Private for-profit
+0026	1	4-year, Private for-profit
+0027	1	4-year, Private for-profit
+0028	1	4-year, Private for-profit
+0029	1	4-year, Private for-profit
+0030	1	4-year, Private for-profit
+0031	1	4-year, Private not-for-profit
+0032	1	2-year, Private for-profit
+0033	1	4-year, primarily associate's, Private for-profit
+0034	1	4-year, Private not-for-profit
+0035	1	4-year, Private not-for-profit
+0036	1	4-year, Public
+0037	1	2-year, Public
+0038	1	2-year, Private for-profit
+0039	1	&lt; 2-year, Private for-profit
+0040	1	4-year, Private not-for-profit
+0041	1	4-year, Public
+0042	1	4-year, Private for-profit
+0043	1	4-year, Public
+0044	1	2-year, Public
+0045	1	2-year, Public
+0046	1	4-year, Private not-for-profit
+0047	1	2-year, Public
+0048	1	4-year, Private for-profit
+0049	1	&lt; 2-year, Private for-profit
+0050	1	4-year, Private not-for-profit
+0051	1	2-year, Public
+0052	1	&lt; 2-year, Private for-profit
+0053	1	4-year, primarily associate's, Private for-profit
+0054	1	2-year, Public
+0055	1	2-year, Public
+0056	1	4-year, Private not-for-profit
+0057	1	2-year, Public
+0058	1	4-year, Private not-for-profit
+0059	1	2-year, Public
+0060	1	2-year, Public
+0061	1	2-year, Public
+0062	1	4-year, Private not-for-profit
+0063	1	&lt; 2-year, Private for-profit
+0064	1	4-year, Public
+0065	1	2-year, Public
+0066	1	&lt; 2-year, Private for-profit
+0067	1	2-year, Public
+0068	1	2-year, Public
+0069	1	2-year, Public
+0070	1	4-year, Public
+0071	1	2-year, Private for-profit
+0072	1	&lt; 2-year, Private for-profit
+0073	1	&lt; 2-year, Private for-profit
+0074	1	2-year, Private for-profit
+0075	1	&lt; 2-year, Private for-profit
+0076	1	4-year, primarily associate's, Private for-profit
+0077	1	4-year, Private not-for-profit
+0078	1	&lt; 2-year, Private for-profit
+0079	1	4-year, Private not-for-profit
+0080	1	4-year, Private not-for-profit
+0081	1	&lt; 2-year, Private for-profit
+0082	1	2-year, Public
+0083	1	2-year, Private for-profit
+0084	1	4-year, Private not-for-profit
+0085	1	4-year, Private not-for-profit
+0086	1	2-year, Public
+0087	1	&lt; 2-year, Private not-for-profit
+0088	1	4-year, Private not-for-profit
+0089	1	2-year, Public
+0090	1	2-year, Public
+0091	1	4-year, Private not-for-profit
+0092	1	4-year, Private for-profit
+0093	1	4-year, Private for-profit
+0094	1	4-year, Public
+0095	1	&lt; 2-year, Private for-profit
+0096	1	4-year, Public
+0097	1	4-year, Private for-profit
+0098	1	4-year, Private for-profit
+0099	1	4-year, Public
+0100	1	2-year, Public
+0101	1	&lt; 2-year, Private for-profit
+0102	1	2-year, Private for-profit
+0103	1	2-year, Public
+0104	1	4-year, Public
+0105	1	4-year, primarily associate's, Private for-profit
+0106	1	2-year, Public
+0107	1	2-year, Public
+0108	1	&lt; 2-year, Private for-profit
+0109	1	&lt; 2-year, Private for-profit
+0110	1	2-year, Public
+0111	1	2-year, Public
+0112	1	4-year, primarily associate's, Public
+0113	1	2-year, Public
+0114	1	4-year, Private not-for-profit
+0115	1	4-year, primarily associate's, Private not-for-profit
+0116	1	2-year, Private for-profit
+0117	1	4-year, Private for-profit
+0118	1	&lt; 2-year, Private for-profit
+0119	1	4-year, Private not-for-profit
+0120	1	4-year, Private not-for-profit
+0121	1	2-year, Public
+0122	1	4-year, primarily associate's, Private not-for-profit
+0123	1	4-year, Private not-for-profit
+0124	1	4-year, Private not-for-profit
+0125	1	4-year, Private not-for-profit
+0126	1	2-year, Public
+0127	1	2-year, Public
+0128	1	2-year, Private for-profit
+0129	1	2-year, Private for-profit
+0130	1	2-year, Private for-profit
+0131	1	4-year, Public
+0132	1	4-year, Private not-for-profit
+0133	1	4-year, Private for-profit
+0134	1	4-year, Private not-for-profit
+0135	1	2-year, Public
+0136	1	2-year, Public
+0137	1	2-year, Private for-profit
+0138	1	4-year, Public
+0139	1	4-year, Private for-profit
+0140	1	&lt; 2-year, Private for-profit
+0141	1	4-year, Private not-for-profit
+0142	1	4-year, Private not-for-profit
+0143	1	4-year, Private not-for-profit
+0144	1	4-year, primarily associate's, Private for-profit
+0145	1	2-year, Public
+0146	1	2-year, Private for-profit
+0147	1	2-year, Private for-profit
+0148	1	2-year, Private for-profit
+0149	1	4-year, Private not-for-profit
+0150	1	2-year, Private for-profit
+0151	1	4-year, Private for-profit
+0152	1	4-year, Private for-profit
+0153	1	4-year, Private for-profit
+0154	1	4-year, primarily associate's, Private for-profit
+0155	1	&lt; 2-year, Private for-profit
+0156	1	4-year, Private for-profit
+0157	1	&lt; 2-year, Public
+0158	1	&lt; 2-year, Private for-profit
+0159	1	&lt; 2-year, Private for-profit
+0160	1	&lt; 2-year, Private for-profit
+0161	1	&lt; 2-year, Private for-profit
+0162	1	&lt; 2-year, Private for-profit
+0163	1	4-year, Private not-for-profit
+0164	1	4-year, primarily associate's, Private for-profit
+0165	1	2-year, Public
+0166	1	2-year, Public
+0167	1	2-year, Public
+0168	1	4-year, Private not-for-profit
+0169	1	4-year, Private not-for-profit
+0170	1	4-year, Private not-for-profit
+0171	1	4-year, Private not-for-profit
+0172	1	&lt; 2-year, Private for-profit
+0173	1	4-year, Private not-for-profit
+0174	1	&lt; 2-year, Private for-profit
+0175	1	&lt; 2-year, Private for-profit
+0176	1	&lt; 2-year, Private for-profit
+0177	1	&lt; 2-year, Private for-profit
+0178	1	2-year, Private for-profit
+0179	1	&lt; 2-year, Private for-profit
+0180	1	2-year, Public
+0181	1	&lt; 2-year, Private for-profit
+0182	1	&lt; 2-year, Private for-profit
+0183	1	4-year, primarily associate's, Private for-profit
+0184	1	4-year, primarily associate's, Private for-profit
+0185	1	2-year, Public
+0186	1	2-year, Public
+0187	1	2-year, Private for-profit
+0188	1	4-year, Private not-for-profit
+0189	1	2-year, Public
+0190	1	4-year, Private not-for-profit
+0191	1	4-year, Private not-for-profit
+0192	1	4-year, primarily associate's, Private for-profit
+0193	1	&lt; 2-year, Private for-profit
+0194	1	4-year, Private not-for-profit
+0195	1	&lt; 2-year, Private for-profit
+0196	1	4-year, Private not-for-profit
+0197	1	4-year, Private not-for-profit
+0198	1	2-year, Private for-profit
+0199	1	4-year, Private not-for-profit
+0200	1	4-year, Private for-profit
+0201	1	2-year, Public
+0202	1	&lt; 2-year, Private for-profit
+0203	1	&lt; 2-year, Private for-profit
+0204	1	4-year, primarily associate's, Private for-profit
+0205	1	4-year, Private for-profit
+0206	1	&lt; 2-year, Private for-profit
+0207	1	&lt; 2-year, Private for-profit
+0208	1	&lt; 2-year, Private for-profit
+0209	1	&lt; 2-year, Private for-profit
+0210	1	&lt; 2-year, Private for-profit
+0211	1	2-year, Public
+0212	1	2-year, Public
+0213	1	4-year, Private not-for-profit
+0214	1	4-year, Private not-for-profit
+0215	1	&lt; 2-year, Private for-profit
+0216	1	4-year, Private for-profit
+0217	1	2-year, Private for-profit
+0218	1	&lt; 2-year, Private for-profit
+0219	1	4-year, Public
+0220	1	&lt; 2-year, Private for-profit
+0221	1	2-year, Public
+0222	1	4-year, Public
+0223	1	4-year, Private not-for-profit
+0224	1	4-year, Private not-for-profit
+0225	1	4-year, Private for-profit
+0226	1	4-year, Private not-for-profit
+0227	1	&lt; 2-year, Private for-profit
+0228	1	&lt; 2-year, Private for-profit
+0229	1	&lt; 2-year, Private for-profit
+0230	1	4-year, primarily associate's, Private not-for-profit
+0231	1	4-year, Private not-for-profit
+0232	1	&lt; 2-year, Private for-profit
+0233	1	4-year, Private not-for-profit
+0234	1	4-year, Public
+0235	1	4-year, Public
+0236	1	&lt; 2-year, Private for-profit
+0237	1	4-year, Private not-for-profit
+0238	1	2-year, Private for-profit
+0239	1	2-year, Private for-profit
+0240	1	2-year, Private for-profit
+0241	1	4-year, Private not-for-profit
+0242	1	&lt; 2-year, Private for-profit
+0243	1	2-year, Private for-profit
+0244	1	4-year, Public
+0245	1	4-year, primarily associate's, Private for-profit
+0246	1	4-year, Private not-for-profit
+0247	1	4-year, Private not-for-profit
+0248	1	&lt; 2-year, Private for-profit
+0249	1	4-year, Private not-for-profit
+0250	1	&lt; 2-year, Private for-profit
+0251	1	2-year, Private for-profit
+0252	1	4-year, primarily associate's, Private for-profit
+0253	1	4-year, primarily associate's, Private for-profit
+0254	1	2-year, Private for-profit
+0255	1	&lt; 2-year, Private for-profit
+0256	1	4-year, Public
+0257	1	4-year, Public
+0258	1	4-year, Public
+0259	1	4-year, Private not-for-profit
+0260	1	2-year, Private for-profit
+0261	1	4-year, primarily associate's, Private for-profit
+0262	1	2-year, Public
+0263	1	2-year, Public
+0264	1	&lt; 2-year, Private for-profit
+0265	1	2-year, Private for-profit
+0266	1	2-year, Private for-profit
+0267	1	2-year, Private for-profit
+0268	1	4-year, primarily associate's, Private not-for-profit
+0269	1	4-year, Private not-for-profit
+0270	1	&lt; 2-year, Private for-profit
+0271	1	&lt; 2-year, Private for-profit
+0272	1	4-year, Public
+0273	1	&lt; 2-year, Private for-profit
+0274	1	&lt; 2-year, Private for-profit
+0275	1	2-year, Private not-for-profit
+0276	1	&lt; 2-year, Private for-profit
+0277	1	4-year, Private not-for-profit
+0278	1	&lt; 2-year, Private for-profit
+0279	1	4-year, Private not-for-profit
+0280	1	4-year, Private not-for-profit
+0281	1	4-year, Private not-for-profit
+0282	1	4-year, Private not-for-profit
+0283	1	2-year, Public
+0284	1	&lt; 2-year, Private for-profit
+0285	1	&lt; 2-year, Private for-profit
+0286	1	&lt; 2-year, Private for-profit
+0287	1	4-year, Private not-for-profit
+0288	1	4-year, Private not-for-profit
+0289	1	2-year, Public
+0290	1	4-year, Private not-for-profit
+0291	1	2-year, Private for-profit
+0292	1	4-year, Private not-for-profit
+0293	1	4-year, Private not-for-profit
+0294	1	&lt; 2-year, Public
+0295	1	2-year, Public
+0296	1	4-year, Private not-for-profit
+0297	1	2-year, Public
+0298	1	4-year, primarily associate's, Public
+0299	1	2-year, Public
+0300	1	2-year, Public
+0301	1	2-year, Public
+0302	1	4-year, Public
+0303	1	4-year, primarily associate's, Private for-profit
+0304	1	2-year, Public
+0305	1	2-year, Public
+0306	1	&lt; 2-year, Private for-profit
+0307	1	&lt; 2-year, Private for-profit
+0308	1	4-year, Private for-profit
+0309	1	4-year, Private not-for-profit
+0310	1	4-year, Private not-for-profit
+0311	1	4-year, Private not-for-profit
+0312	1	&lt; 2-year, Private for-profit
+0313	1	4-year, Private not-for-profit
+0314	1	4-year, Private not-for-profit
+0315	1	4-year, Private not-for-profit
+0316	1	4-year, Private not-for-profit
+0317	1	4-year, primarily associate's, Private for-profit
+0318	1	4-year, primarily associate's, Private for-profit
+0319	1	2-year, Private for-profit
+0320	1	2-year, Private for-profit
+0321	1	2-year, Private for-profit
+0322	1	2-year, Private for-profit
+0323	1	&lt; 2-year, Private not-for-profit
+0324	1	2-year, Private for-profit
+0325	1	2-year, Public
+0326	1	&lt; 2-year, Private for-profit
+0327	1	4-year, primarily associate's, Private for-profit
+0328	1	4-year, primarily associate's, Private for-profit
+0329	1	2-year, Public
+0330	1	2-year, Private for-profit
+0331	1	4-year, Private not-for-profit
+0332	1	4-year, primarily associate's, Private for-profit
+0333	1	2-year, Private for-profit
+0334	1	4-year, Private not-for-profit
+0335	1	2-year, Public
+0336	1	4-year, Private not-for-profit
+0337	1	4-year, primarily associate's, Private for-profit
+0338	1	4-year, Private not-for-profit
+0339	1	4-year, Private not-for-profit
+0340	1	4-year, Private not-for-profit
+0341	1	4-year, Public
+0342	1	4-year, Public
+0343	1	&lt; 2-year, Private for-profit
+0344	1	&lt; 2-year, Private for-profit
+0345	1	&lt; 2-year, Private for-profit
+0346	1	4-year, primarily associate's, Private for-profit
+0347	1	4-year, Private not-for-profit
+0348	1	&lt; 2-year, Private for-profit
+0349	1	&lt; 2-year, Private for-profit
+0350	1	2-year, Private for-profit
+0351	1	2-year, Private not-for-profit
+0352	1	2-year, Private for-profit
+0353	1	2-year, Private for-profit
+0354	1	2-year, Public
+0355	1	2-year, Public
+0356	1	2-year, Private for-profit
+0357	1	2-year, Private for-profit
+0358	1	4-year, Private not-for-profit
+0359	1	2-year, Public
+0360	1	4-year, Public
+0361	1	4-year, Public
+0362	1	4-year, Public
+0363	1	4-year, Private not-for-profit
+0364	1	4-year, Public
+0365	1	&lt; 2-year, Private for-profit
+0366	1	2-year, Private for-profit
+0367	1	&lt; 2-year, Private for-profit
+0368	1	2-year, Public
+0369	1	&lt; 2-year, Private for-profit
+0370	1	2-year, Private for-profit
+0371	1	2-year, Private for-profit
+0372	1	&lt; 2-year, Private for-profit
+0373	1	2-year, Public
+0374	1	&lt; 2-year, Private for-profit
+0375	1	4-year, Private not-for-profit
+0376	1	2-year, Private for-profit
+0377	1	&lt; 2-year, Private for-profit
+0378	1	&lt; 2-year, Private for-profit
+0379	1	4-year, Private not-for-profit
+0380	1	&lt; 2-year, Public
+0381	1	4-year, Private not-for-profit
+0382	1	&lt; 2-year, Private for-profit
+0383	1	2-year, Private for-profit
+0384	1	4-year, Private not-for-profit
+0385	1	&lt; 2-year, Public
+0386	1	2-year, Public
+0387	1	4-year, primarily associate's, Private not-for-profit
+0388	1	4-year, Private not-for-profit
+0389	1	4-year, Private not-for-profit
+0390	1	4-year, Private not-for-profit
+0391	1	4-year, Private not-for-profit
+0392	1	4-year, Private not-for-profit
+0393	1	4-year, Private not-for-profit
+0394	1	4-year, Public
+0395	1	2-year, Public
+0396	1	2-year, Private for-profit
+0397	1	2-year, Public
+0398	1	4-year, Private not-for-profit
+0399	1	4-year, Private not-for-profit
+0400	1	4-year, Private not-for-profit
+0401	1	&lt; 2-year, Private for-profit
+0402	1	&lt; 2-year, Private for-profit
+0403	1	4-year, Private not-for-profit
+0404	1	&lt; 2-year, Private for-profit
+0405	1	4-year, Public
+0406	1	4-year, Private not-for-profit
+0407	1	4-year, Private not-for-profit
+0408	1	&lt; 2-year, Private for-profit
+0409	1	4-year, Private not-for-profit
+0410	1	2-year, Private not-for-profit
+0411	1	&lt; 2-year, Private for-profit
+0412	1	&lt; 2-year, Private for-profit
+0413	1	&lt; 2-year, Private for-profit
+0414	1	4-year, Private not-for-profit
+0415	1	4-year, Private not-for-profit
+0416	1	2-year, Public
+0417	1	2-year, Public
+0418	1	&lt; 2-year, Private for-profit
+0419	1	4-year, Private not-for-profit
+0420	1	2-year, Private for-profit
+0421	1	4-year, Private not-for-profit
+0422	1	4-year, primarily associate's, Private for-profit
+0423	1	4-year, Private not-for-profit
+0424	1	4-year, Private not-for-profit
+0425	1	4-year, Private not-for-profit
+0426	1	2-year, Public
+0427	1	2-year, Public
+0428	1	2-year, Private for-profit
+0429	1	&lt; 2-year, Public
+0430	1	4-year, Private not-for-profit
+0431	1	2-year, Public
+0432	1	4-year, Private not-for-profit
+0433	1	4-year, Private for-profit
+0434	1	4-year, Private not-for-profit
+0435	1	2-year, Public
+0436	1	2-year, Private for-profit
+0437	1	&lt; 2-year, Private for-profit
+0438	1	&lt; 2-year, Private for-profit
+0439	1	4-year, Private not-for-profit
+0440	1	4-year, Private not-for-profit
+0441	1	4-year, Private not-for-profit
+0442	1	&lt; 2-year, Private for-profit
+0443	1	2-year, Private for-profit
+0444	1	4-year, Public
+0445	1	4-year, Public
+0446	1	4-year, Public
+0447	1	4-year, Private for-profit
+0448	1	&lt; 2-year, Public
+0449	1	2-year, Private not-for-profit
+0450	1	4-year, Private not-for-profit
+0451	1	4-year, Private not-for-profit
+0452	1	4-year, Public
+0453	1	&lt; 2-year, Private for-profit
+0454	1	2-year, Public
+0455	1	&lt; 2-year, Private for-profit
+0456	1	2-year, Public
+0457	1	2-year, Public
+0458	1	4-year, primarily associate's, Private for-profit
+0459	1	4-year, Private not-for-profit
+0460	1	&lt; 2-year, Private for-profit
+0461	1	4-year, Private not-for-profit
+0462	1	&lt; 2-year, Private for-profit
+0463	1	4-year, Private not-for-profit
+0464	1	4-year, primarily associate's, Private not-for-profit
+0465	1	&lt; 2-year, Private for-profit
+0466	1	4-year, Public
+0467	1	4-year, Private not-for-profit
+0468	1	4-year, Private for-profit
+0469	1	2-year, Public
+0470	1	&lt; 2-year, Private for-profit
+0471	1	4-year, Private not-for-profit
+0472	1	4-year, primarily associate's, Private for-profit
+0473	1	2-year, Private for-profit
+0474	1	&lt; 2-year, Private for-profit
+0475	1	&lt; 2-year, Private for-profit
+0476	1	&lt; 2-year, Private for-profit
+0477	1	4-year, Private not-for-profit
+0478	1	2-year, Private for-profit
+0479	1	2-year, Public
+0480	1	&lt; 2-year, Private for-profit
+0481	1	&lt; 2-year, Private for-profit
+0482	1	4-year, Private not-for-profit
+0483	1	&lt; 2-year, Private for-profit
+0484	1	2-year, Private for-profit
+0485	1	2-year, Public
+0486	1	4-year, Private not-for-profit
+0487	1	4-year, Public
+0488	1	&lt; 2-year, Private for-profit
+0489	1	&lt; 2-year, Private for-profit
+0490	1	4-year, Public
+0491	1	4-year, Public
+0492	1	4-year, Public
+0493	1	2-year, Public
+0494	1	4-year, Private not-for-profit
+0495	1	2-year, Public
+0496	1	&lt; 2-year, Private for-profit
+0497	1	4-year, primarily associate's, Private not-for-profit
+0498	1	4-year, primarily associate's, Private not-for-profit
+0499	1	4-year, primarily associate's, Private not-for-profit
+0500	1	&lt; 2-year, Private for-profit
+0501	1	2-year, Private for-profit
+0502	1	4-year, Public
+0503	1	4-year, Private not-for-profit
+0504	1	4-year, Private not-for-profit
+0505	1	4-year, Private not-for-profit
+0506	1	4-year, Private not-for-profit
+0507	1	4-year, Private not-for-profit
+0508	1	4-year, Private not-for-profit
+0509	1	4-year, primarily associate's, Private for-profit
+0510	1	&lt; 2-year, Private for-profit
+0511	1	4-year, Private not-for-profit
+0512	1	&lt; 2-year, Private for-profit
+0513	1	&lt; 2-year, Private for-profit
+0514	1	2-year, Public
+0515	1	4-year, Private not-for-profit
+0516	1	4-year, Private not-for-profit
+0517	1	&lt; 2-year, Private for-profit
+0518	1	4-year, primarily associate's, Private for-profit
+0519	1	4-year, primarily associate's, Private for-profit
+0520	1	4-year, primarily associate's, Private for-profit
+0521	1	2-year, Public
+0522	1	2-year, Public
+0523	1	2-year, Public
+0524	1	4-year, Private not-for-profit
+0525	1	&lt; 2-year, Private for-profit
+0526	1	&lt; 2-year, Private for-profit
+0527	1	4-year, Private not-for-profit
+0528	1	4-year, Public
+0529	1	4-year, Public
+0530	1	2-year, Public
+0531	1	2-year, Public
+0532	1	2-year, Public
+0533	1	2-year, Public
+0534	1	2-year, Public
+0535	1	4-year, Private not-for-profit
+0536	1	&lt; 2-year, Private for-profit
+0537	1	&lt; 2-year, Private for-profit
+0538	1	&lt; 2-year, Private for-profit
+0539	1	&lt; 2-year, Private for-profit
+0540	1	&lt; 2-year, Private for-profit
+0541	1	&lt; 2-year, Private for-profit
+0542	1	2-year, Private for-profit
+0543	1	4-year, primarily associate's, Private for-profit
+0544	1	4-year, Private not-for-profit
+0545	1	&lt; 2-year, Private for-profit
+0546	1	&lt; 2-year, Private for-profit
+0547	1	&lt; 2-year, Private for-profit
+0548	1	4-year, Public
+0549	1	&lt; 2-year, Private for-profit
+0550	1	4-year, Private for-profit
+0551	1	2-year, Public
+0552	1	2-year, Public
+0553	1	4-year, Private not-for-profit
+0554	1	4-year, Private not-for-profit
+0555	1	4-year, Private not-for-profit
+0556	1	2-year, Public
+0557	1	4-year, Private not-for-profit
+0558	1	4-year, Public
+0559	1	4-year, Private for-profit
+0560	1	2-year, Public
+0561	1	4-year, Private for-profit
+0562	1	&lt; 2-year, Private for-profit
+0563	1	&lt; 2-year, Private for-profit
+0564	1	2-year, Public
+0565	1	4-year, primarily associate's, Private for-profit
+0566	1	2-year, Private for-profit
+0567	1	2-year, Public
+0568	1	2-year, Private for-profit
+0569	1	4-year, Private not-for-profit
+0570	1	2-year, Public
+0571	1	4-year, primarily associate's, Private for-profit
+0572	1	4-year, primarily associate's, Private for-profit
+0573	1	&lt; 2-year, Private for-profit
+0574	1	&lt; 2-year, Private for-profit
+0575	1	4-year, Private for-profit
+0576	1	4-year, primarily associate's, Private for-profit
+0577	1	2-year, Public
+0578	1	2-year, Public
+0579	1	4-year, Private not-for-profit
+0580	1	&lt; 2-year, Private for-profit
+0581	1	4-year, Private for-profit
+0582	1	4-year, Private for-profit
+0583	1	4-year, primarily associate's, Private for-profit
+0584	1	&lt; 2-year, Private for-profit
+0585	1	&lt; 2-year, Private for-profit
+0586	1	2-year, Public
+0587	1	2-year, Public
+0588	1	2-year, Public
+0589	1	2-year, Public
+0590	1	4-year, Public
+0591	1	4-year, Private not-for-profit
+0592	1	4-year, Public
+0593	1	4-year, Private not-for-profit
+0594	1	2-year, Public
+0595	1	2-year, Private not-for-profit
+0596	1	4-year, Private not-for-profit
+0597	1	4-year, Private not-for-profit
+0598	1	&lt; 2-year, Public
+0599	1	4-year, Private for-profit
+0600	1	4-year, Private not-for-profit
+0601	1	2-year, Private for-profit
+0602	1	4-year, Private not-for-profit
+0603	1	2-year, Private for-profit
+0604	1	&lt; 2-year, Private for-profit
+0605	1	2-year, Private for-profit
+0606	1	4-year, Private not-for-profit
+0607	1	4-year, Private not-for-profit
+0608	1	4-year, Private not-for-profit
+0609	1	&lt; 2-year, Public
+0610	1	4-year, Private not-for-profit
+0611	1	2-year, Private not-for-profit
+0612	1	2-year, Private not-for-profit
+0613	1	4-year, Private not-for-profit
+0614	1	&lt; 2-year, Private for-profit
+0615	1	&lt; 2-year, Public
+0616	1	4-year, primarily associate's, Private for-profit
+0617	1	4-year, Private not-for-profit
+0618	1	4-year, primarily associate's, Private for-profit
+0619	1	4-year, Public
+0620	1	&lt; 2-year, Private for-profit
+0621	1	2-year, Private for-profit
+0622	1	4-year, Private not-for-profit
+0623	1	&lt; 2-year, Public
+0624	1	4-year, Private not-for-profit
+0625	1	&lt; 2-year, Private for-profit
+0626	1	4-year, Public
+0627	1	4-year, Private not-for-profit
+0628	1	4-year, Private not-for-profit
+0629	1	2-year, Public
+0630	1	2-year, Public
+0631	1	2-year, Public
+0632	1	4-year, Private not-for-profit
+0633	1	&lt; 2-year, Public
+0634	1	4-year, Private not-for-profit
+0635	1	&lt; 2-year, Public
+0636	1	2-year, Public
+0637	1	2-year, Public
+0638	1	&lt; 2-year, Public
+0639	1	4-year, Public
+0640	1	4-year, Private not-for-profit
+0641	1	4-year, primarily associate's, Private not-for-profit
+0642	1	&lt; 2-year, Private for-profit
+0643	1	2-year, Public
+0644	1	4-year, Private not-for-profit
+0645	1	4-year, Private not-for-profit
+0646	1	4-year, Private not-for-profit
+0647	1	4-year, Private not-for-profit
+0648	1	4-year, Private not-for-profit
+0649	1	4-year, Private not-for-profit
+0650	1	&lt; 2-year, Private for-profit
+0651	1	&lt; 2-year, Public
+0652	1	2-year, Public
+0653	1	4-year, Private not-for-profit
+0654	1	2-year, Public
+0655	1	&lt; 2-year, Private for-profit
+0656	1	4-year, Public
+0657	1	4-year, Private for-profit
+0658	1	4-year, Private for-profit
+0659	1	2-year, Private for-profit
+0660	1	4-year, primarily associate's, Private for-profit
+0661	1	2-year, Private for-profit
+0662	1	2-year, Private not-for-profit
+0663	1	4-year, Private not-for-profit
+0664	1	2-year, Public
+0665	1	2-year, Public
+0666	1	2-year, Public
+0667	1	&lt; 2-year, Private for-profit
+0668	1	2-year, Public
+0669	1	&lt; 2-year, Private for-profit
+0670	1	2-year, Public
+0671	1	2-year, Public
+0672	1	&lt; 2-year, Private for-profit
+0673	1	4-year, Public
+0674	1	2-year, Public
+0675	1	4-year, Private not-for-profit
+0676	1	4-year, Public
+0677	1	4-year, Public
+0678	1	4-year, Private not-for-profit
+0679	1	&lt; 2-year, Private for-profit
+0680	1	&lt; 2-year, Private for-profit
+0681	1	2-year, Private for-profit
+0682	1	2-year, Public
+0683	1	2-year, Public
+0684	1	2-year, Public
+0685	1	4-year, Public
+0686	1	2-year, Public
+0687	1	4-year, Public
+0688	1	2-year, Public
+0689	1	4-year, Private not-for-profit
+0690	1	4-year, Public
+0691	1	4-year, Private not-for-profit
+0692	1	4-year, primarily associate's, Private not-for-profit
+0693	1	4-year, Private not-for-profit
+0694	1	2-year, Public
+0695	1	&lt; 2-year, Private for-profit
+0696	1	2-year, Public
+0697	1	4-year, Private not-for-profit
+0698	1	2-year, Public
+0699	1	4-year, Private for-profit
+0700	1	2-year, Public
+0701	1	4-year, Private for-profit
+0702	1	4-year, Private not-for-profit
+0703	1	2-year, Public
+0704	1	2-year, Public
+0705	1	2-year, Public
+0706	1	4-year, Public
+0707	1	4-year, Private not-for-profit
+0708	1	&lt; 2-year, Private for-profit
+0709	1	4-year, Public
+0710	1	2-year, Public
+0711	1	4-year, Private not-for-profit
+0712	1	2-year, Public
+0713	1	4-year, Private not-for-profit
+0714	1	4-year, primarily associate's, Private for-profit
+0715	1	4-year, primarily associate's, Private not-for-profit
+0716	1	2-year, Public
+0717	1	4-year, Private not-for-profit
+0718	1	4-year, Private not-for-profit
+0719	1	2-year, Private not-for-profit
+0720	1	4-year, primarily associate's, Private for-profit
+0721	1	2-year, Public
+0722	1	4-year, Private not-for-profit
+0723	1	4-year, Private for-profit
+0724	1	4-year, Private for-profit
+0725	1	&lt; 2-year, Private for-profit
+0726	1	2-year, Private for-profit
+0727	1	2-year, Public
+0728	1	4-year, Public
+0729	1	4-year, Public
+0730	1	4-year, Private not-for-profit
+0731	1	2-year, Public
+0732	1	2-year, Public
+0733	1	2-year, Public
+0734	1	2-year, Public
+0735	1	4-year, Private for-profit
+0736	1	&lt; 2-year, Private for-profit
+0737	1	4-year, Public
+0738	1	4-year, Public
+0739	1	4-year, Private for-profit
+0740	1	2-year, Public
+0741	1	2-year, Public
+0742	1	4-year, Private not-for-profit
+0743	1	2-year, Private not-for-profit
+0744	1	2-year, Public
+0745	1	2-year, Public
+0746	1	4-year, Private not-for-profit
+0747	1	2-year, Private for-profit
+0748	1	2-year, Private for-profit
+0749	1	2-year, Private for-profit
+0750	1	4-year, Private not-for-profit
+0751	1	4-year, Public
+0752	1	2-year, Private for-profit
+0753	1	2-year, Private not-for-profit
+0754	1	4-year, Public
+0755	1	4-year, Private not-for-profit
+0756	1	4-year, Private not-for-profit
+0757	1	2-year, Private not-for-profit
+0758	1	2-year, Private for-profit
+0759	1	2-year, Private for-profit
+0760	1	4-year, Private not-for-profit
+0761	1	&lt; 2-year, Private for-profit
+0762	1	&lt; 2-year, Private for-profit
+0763	1	4-year, Private not-for-profit
+0764	1	2-year, Private for-profit
+0765	1	2-year, Public
+0766	1	4-year, primarily associate's, Private for-profit
+0767	1	2-year, Private for-profit
+0768	1	4-year, Private not-for-profit
+0769	1	&lt; 2-year, Private for-profit
+0770	1	4-year, Public
+0771	1	4-year, Public
+0772	1	2-year, Public
+0773	1	2-year, Public
+0774	1	&lt; 2-year, Private for-profit
+0775	1	&lt; 2-year, Private for-profit
+0776	1	4-year, Public
+0777	1	&lt; 2-year, Private for-profit
+0778	1	&lt; 2-year, Private for-profit
+0779	1	2-year, Public
+0780	1	4-year, Private for-profit
+0781	1	4-year, Private not-for-profit
+0782	1	2-year, Public
+0783	1	&lt; 2-year, Private for-profit
+0784	1	&lt; 2-year, Private for-profit
+0785	1	&lt; 2-year, Private for-profit
+0786	1	2-year, Public
+0787	1	2-year, Public
+0788	1	&lt; 2-year, Private for-profit
+0789	1	4-year, Private not-for-profit
+0790	1	2-year, Private for-profit
+0791	1	2-year, Private for-profit
+0792	1	4-year, Private not-for-profit
+0793	1	4-year, Private not-for-profit
+0794	1	4-year, Private not-for-profit
+0795	1	2-year, Public
+0796	1	2-year, Private not-for-profit
+0797	1	4-year, Public
+0798	1	&lt; 2-year, Private for-profit
+0799	1	2-year, Private for-profit
+0800	1	2-year, Private for-profit
+0801	1	2-year, Public
+0802	1	&lt; 2-year, Private for-profit
+0803	1	4-year, Private not-for-profit
+0804	1	&lt; 2-year, Private for-profit
+0805	1	&lt; 2-year, Private for-profit
+0806	1	4-year, primarily associate's, Private not-for-profit
+0807	1	&lt; 2-year, Private for-profit
+0808	1	&lt; 2-year, Private for-profit
+0809	1	4-year, Public
+0810	1	2-year, Private not-for-profit
+0811	1	&lt; 2-year, Private for-profit
+0812	1	4-year, Private not-for-profit
+0813	1	&lt; 2-year, Private for-profit
+0814	1	&lt; 2-year, Private for-profit
+0815	1	&lt; 2-year, Private for-profit
+0816	1	&lt; 2-year, Private for-profit
+0817	1	2-year, Public
+0818	1	4-year, Private not-for-profit
+0819	1	4-year, Public
+0820	1	4-year, Public
+0821	1	4-year, Public
+0822	1	4-year, Private not-for-profit
+0823	1	2-year, Private for-profit
+0824	1	4-year, Public
+0825	1	2-year, Private for-profit
+0826	1	2-year, Private for-profit
+0827	1	2-year, Public
+0828	1	2-year, Private for-profit
+0829	1	4-year, Public
+0830	1	4-year, Public
+0831	1	2-year, Public
+0832	1	2-year, Public
+0833	1	4-year, Private not-for-profit
+0834	1	&lt; 2-year, Private for-profit
+0835	1	2-year, Public
+0836	1	4-year, Private not-for-profit
+0837	1	4-year, Public
+0838	1	4-year, Private not-for-profit
+0839	1	4-year, primarily associate's, Private not-for-profit
+0840	1	4-year, Public
+0841	1	2-year, Public
+0842	1	2-year, Public
+0843	1	&lt; 2-year, Private for-profit
+0844	1	4-year, Private not-for-profit
+0845	1	4-year, Public
+0846	1	4-year, Public
+0847	1	4-year, Public
+0848	1	2-year, Private for-profit
+0849	1	2-year, Private for-profit
+0850	1	4-year, Public
+0851	1	2-year, Private for-profit
+0852	1	4-year, Private for-profit
+0853	1	4-year, Public
+0854	1	4-year, Private for-profit
+0855	1	4-year, Private not-for-profit
+0856	1	4-year, primarily associate's, Public
+0857	1	&lt; 2-year, Private for-profit
+0858	1	&lt; 2-year, Private for-profit
+0859	1	&lt; 2-year, Private for-profit
+0860	1	4-year, Private not-for-profit
+0861	1	&lt; 2-year, Private for-profit
+0862	1	4-year, Private not-for-profit
+0863	1	4-year, Private not-for-profit
+0864	1	&lt; 2-year, Private for-profit
+0865	1	&lt; 2-year, Private for-profit
+0866	1	4-year, Private for-profit
+0867	1	4-year, Private for-profit
+0868	1	2-year, Private not-for-profit
+0869	1	2-year, Public
+0870	1	2-year, Private for-profit
+0871	1	2-year, Private for-profit
+0872	1	4-year, Private not-for-profit
+0873	1	&lt; 2-year, Private for-profit
+0874	1	&lt; 2-year, Private for-profit
+0875	1	&lt; 2-year, Private for-profit
+0876	1	&lt; 2-year, Public
+0877	1	&lt; 2-year, Public
+0878	1	4-year, Private not-for-profit
+0879	1	&lt; 2-year, Private for-profit
+0880	1	4-year, Private not-for-profit
+0881	1	2-year, Private not-for-profit
+0882	1	2-year, Public
+0883	1	&lt; 2-year, Public
+0884	1	4-year, Private not-for-profit
+0885	1	4-year, Private not-for-profit
+0886	1	4-year, Private not-for-profit
+0887	1	&lt; 2-year, Private for-profit
+0888	1	4-year, Private not-for-profit
+0889	1	4-year, primarily associate's, Private not-for-profit
+0890	1	2-year, Public
+0891	1	2-year, Public
+0892	1	4-year, Public
+0893	1	4-year, Public
+0894	1	4-year, Public
+0895	1	4-year, Public
+0896	1	4-year, Public
+0897	1	4-year, Public
+0898	1	2-year, Private for-profit
+0899	1	2-year, Public
+0900	1	4-year, primarily associate's, Public
+0901	1	4-year, Private not-for-profit
+0902	1	2-year, Private not-for-profit
+0903	1	2-year, Private not-for-profit
+0904	1	2-year, Private for-profit
+0905	1	4-year, Private not-for-profit
+0906	1	&lt; 2-year, Private for-profit
+0907	1	4-year, primarily associate's, Private not-for-profit
+0908	1	&lt; 2-year, Private for-profit
+0909	1	&lt; 2-year, Private not-for-profit
+0910	1	4-year, Private not-for-profit
+0911	1	&lt; 2-year, Private for-profit
+0912	1	4-year, Private not-for-profit
+0913	1	4-year, Private not-for-profit
+0914	1	2-year, Public
+0915	1	&lt; 2-year, Private for-profit
+0916	1	4-year, Private not-for-profit
+0917	1	4-year, Private for-profit
+0918	1	2-year, Private for-profit
+0919	1	2-year, Private not-for-profit
+0920	1	2-year, Private for-profit
+0921	1	4-year, Private not-for-profit
+0922	1	4-year, Private not-for-profit
+0923	1	4-year, primarily associate's, Private not-for-profit
+0924	1	2-year, Private not-for-profit
+0925	1	2-year, Private not-for-profit
+0926	1	2-year, Private not-for-profit
+0927	1	&lt; 2-year, Private for-profit
+0928	1	2-year, Public
+0929	1	4-year, Private not-for-profit
+0930	1	4-year, Private for-profit
+0931	1	&lt; 2-year, Private for-profit
+0932	1	&lt; 2-year, Private for-profit
+0933	1	4-year, Private not-for-profit
+0934	1	&lt; 2-year, Private for-profit
+0935	1	&lt; 2-year, Private for-profit
+0936	1	2-year, Private for-profit
+0937	1	2-year, Private for-profit
+0938	1	2-year, Private for-profit
+0939	1	2-year, Private for-profit
+0940	1	2-year, Private for-profit
+0941	1	&lt; 2-year, Private for-profit
+0942	1	4-year, Private not-for-profit
+0943	1	2-year, Private not-for-profit
+0944	1	&lt; 2-year, Private for-profit
+0945	1	4-year, Private not-for-profit
+0946	1	4-year, Private not-for-profit
+0947	1	4-year, Private not-for-profit
+0948	1	2-year, Public
+0949	1	&lt; 2-year, Public
+0950	1	4-year, Private not-for-profit
+0951	1	4-year, primarily associate's, Private not-for-profit
+0952	1	4-year, Private not-for-profit
+0953	1	2-year, Private not-for-profit
+0954	1	&lt; 2-year, Private for-profit
+0955	1	&lt; 2-year, Private not-for-profit
+0956	1	4-year, Private not-for-profit
+0957	1	4-year, Private not-for-profit
+0958	1	4-year, Private not-for-profit
+0959	1	4-year, Private not-for-profit
+0960	1	4-year, Private not-for-profit
+0961	1	2-year, Private for-profit
+0962	1	2-year, Private not-for-profit
+0963	1	4-year, Private not-for-profit
+0964	1	2-year, Private for-profit
+0965	1	&lt; 2-year, Private not-for-profit
+0966	1	4-year, Private not-for-profit
+0967	1	2-year, Private not-for-profit
+0968	1	4-year, Private not-for-profit
+0969	1	4-year, Private not-for-profit
+0970	1	&lt; 2-year, Private for-profit
+0971	1	&lt; 2-year, Private for-profit
+0972	1	4-year, Public
+0973	1	&lt; 2-year, Public
+0974	1	4-year, Public
+0975	1	4-year, Public
+0976	1	4-year, Public
+0977	1	4-year, Public
+0978	1	4-year, Public
+0979	1	2-year, Private not-for-profit
+0980	1	2-year, Private not-for-profit
+0981	1	2-year, Private for-profit
+0982	1	&lt; 2-year, Private for-profit
+0983	1	4-year, Private not-for-profit
+0984	1	&lt; 2-year, Public
+0985	1	4-year, Private not-for-profit
+0986	1	4-year, Private not-for-profit
+0987	1	4-year, Private not-for-profit
+0988	1	&lt; 2-year, Private for-profit
+0989	1	4-year, primarily associate's, Private for-profit
+0990	1	4-year, Private not-for-profit
+0991	1	4-year, Private not-for-profit
+0992	1	4-year, Private not-for-profit
+0993	1	2-year, Public
+0994	1	4-year, Private not-for-profit
+0995	1	2-year, Public
+0996	1	4-year, Public
+0997	1	2-year, Private for-profit
+0998	1	2-year, Private for-profit
+0999	1	2-year, Private for-profit
+1000	1	4-year, primarily associate's, Private for-profit
+1001	1	&lt; 2-year, Public
+1002	1	2-year, Private not-for-profit
+1003	1	&lt; 2-year, Private not-for-profit
+1004	1	4-year, Public
+1005	1	2-year, Private not-for-profit
+1006	1	&lt; 2-year, Public
+1007	1	4-year, Private not-for-profit
+1008	1	2-year, Public
+1009	1	4-year, Private not-for-profit
+1010	1	&lt; 2-year, Private for-profit
+1011	1	&lt; 2-year, Private for-profit
+1012	1	4-year, primarily associate's, Private not-for-profit
+1013	1	4-year, Private not-for-profit
+1014	1	2-year, Public
+1015	1	2-year, Private for-profit
+1016	1	2-year, Private for-profit
+1017	1	&lt; 2-year, Private for-profit
+1018	1	&lt; 2-year, Public
+1019	1	&lt; 2-year, Private for-profit
+1020	1	4-year, Private for-profit
+1021	1	4-year, Private not-for-profit
+1022	1	4-year, Private not-for-profit
+1023	1	2-year, Private for-profit
+1024	1	&lt; 2-year, Private for-profit
+1025	1	&lt; 2-year, Private for-profit
+1026	1	4-year, Private not-for-profit
+1027	1	4-year, Private not-for-profit
+1028	1	2-year, Private for-profit
+1029	1	4-year, Private not-for-profit
+1030	1	2-year, Private for-profit
+1031	1	4-year, primarily associate's, Public
+1032	1	2-year, Public
+1033	1	2-year, Public
+1034	1	2-year, Public
+1035	1	&lt; 2-year, Public
+1036	1	4-year, Public
+1037	1	2-year, Private for-profit
+1038	1	4-year, Private not-for-profit
+1039	1	4-year, Private not-for-profit
+1040	1	&lt; 2-year, Private for-profit
+1041	1	2-year, Private for-profit
+1042	1	2-year, Private for-profit
+1043	1	2-year, Private for-profit
+1044	1	&lt; 2-year, Private not-for-profit
+1045	1	2-year, Public
+1046	1	2-year, Private for-profit
+1047	1	4-year, Private not-for-profit
+1048	1	4-year, Private not-for-profit
+1049	1	2-year, Public
+1050	1	&lt; 2-year, Private for-profit
+1051	1	4-year, Private not-for-profit
+1052	1	&lt; 2-year, Private for-profit
+1053	1	4-year, Private not-for-profit
+1054	1	&lt; 2-year, Public
+1055	1	4-year, Private not-for-profit
+1056	1	2-year, Public
+1057	1	4-year, Public
+1058	1	4-year, Public
+1059	1	4-year, primarily associate's, Public
+1060	1	4-year, primarily associate's, Public
+1061	1	4-year, primarily associate's, Public
+1062	1	4-year, Public
+1063	1	4-year, Private not-for-profit
+1064	1	2-year, Public
+1065	1	&lt; 2-year, Public
+1066	1	&lt; 2-year, Public
+1067	1	&lt; 2-year, Private for-profit
+1068	1	2-year, Private for-profit
+1069	1	2-year, Public
+1070	1	2-year, Private for-profit
+1071	1	2-year, Private for-profit
+1072	1	2-year, Private for-profit
+1073	1	2-year, Private not-for-profit
+1074	1	4-year, Private for-profit
+1075	1	4-year, Private for-profit
+1076	1	&lt; 2-year, Private for-profit
+1077	1	4-year, Private not-for-profit
+1078	1	2-year, Private for-profit
+1079	1	2-year, Private not-for-profit
+1080	1	2-year, Private for-profit
+1081	1	2-year, Private for-profit
+1082	1	2-year, Private for-profit
+1083	1	4-year, primarily associate's, Private not-for-profit
+1084	1	2-year, Private for-profit
+1085	1	4-year, Private not-for-profit
+1086	1	2-year, Public
+1087	1	4-year, Public
+1088	1	4-year, Private not-for-profit
+1089	1	4-year, primarily associate's, Private not-for-profit
+1090	1	4-year, Private for-profit
+1091	1	4-year, Private not-for-profit
+1092	1	2-year, Public
+1093	1	4-year, primarily associate's, Public
+1094	1	2-year, Public
+1095	1	2-year, Public
+1096	1	2-year, Public
+1097	1	4-year, Private not-for-profit
+1098	1	2-year, Private not-for-profit
+1099	1	2-year, Private for-profit
+1100	1	&lt; 2-year, Private for-profit
+1101	1	4-year, primarily associate's, Private not-for-profit
+1102	1	&lt; 2-year, Private for-profit
+1103	1	4-year, primarily associate's, Private for-profit
+1104	1	&lt; 2-year, Public
+1105	1	&lt; 2-year, Private for-profit
+1106	1	&lt; 2-year, Private for-profit
+1107	1	&lt; 2-year, Private for-profit
+1108	1	&lt; 2-year, Private for-profit
+1109	1	&lt; 2-year, Private for-profit
+1110	1	2-year, Public
+1111	1	4-year, Private for-profit
+1112	1	&lt; 2-year, Private for-profit
+1113	1	4-year, Private not-for-profit
+1114	1	2-year, Public
+1115	1	&lt; 2-year, Public
+1116	1	&lt; 2-year, Public
+1117	1	2-year, Public
+1118	1	2-year, Public
+1119	1	2-year, Public
+1120	1	&lt; 2-year, Public
+1121	1	&lt; 2-year, Public
+1122	1	&lt; 2-year, Private for-profit
+1123	1	4-year, Public
+1124	1	4-year, primarily associate's, Public
+1125	1	4-year, Public
+1126	1	4-year, primarily associate's, Public
+1127	1	2-year, Public
+1128	1	4-year, Private not-for-profit
+1129	1	4-year, Public
+1130	1	4-year, Private not-for-profit
+1131	1	&lt; 2-year, Private for-profit
+1132	1	&lt; 2-year, Public
+1133	1	4-year, Public
+1134	1	4-year, Private for-profit
+1135	1	2-year, Public
+1136	1	2-year, Public
+1137	1	2-year, Public
+1138	1	2-year, Public
+1139	1	&lt; 2-year, Private for-profit
+1140	1	2-year, Private for-profit
+1141	1	2-year, Public
+1142	1	2-year, Private for-profit
+1143	1	4-year, primarily associate's, Private for-profit
+1144	1	2-year, Public
+1145	1	2-year, Public
+1146	1	4-year, Private not-for-profit
+1147	1	4-year, Private not-for-profit
+1148	1	4-year, Private not-for-profit
+1149	1	2-year, Private for-profit
+1150	1	&lt; 2-year, Private for-profit
+1151	1	4-year, Private not-for-profit
+1152	1	4-year, Private not-for-profit
+1153	1	2-year, Private for-profit
+1154	1	2-year, Private for-profit
+1155	1	2-year, Private for-profit
+1156	1	2-year, Private for-profit
+1157	1	2-year, Private for-profit
+1158	1	2-year, Private for-profit
+1159	1	2-year, Private not-for-profit
+1160	1	2-year, Public
+1161	1	4-year, Private not-for-profit
+1162	1	2-year, Public
+1163	1	2-year, Public
+1164	1	2-year, Public
+1165	1	2-year, Public
+1166	1	2-year, Public
+1167	1	&lt; 2-year, Private for-profit
+1168	1	4-year, Public
+1169	1	4-year, Private not-for-profit
+1170	1	2-year, Private for-profit
+1171	1	4-year, Private not-for-profit
+1172	1	4-year, Private not-for-profit
+1173	1	&lt; 2-year, Private for-profit
+1174	1	4-year, Private not-for-profit
+1175	1	4-year, Private not-for-profit
+1176	1	&lt; 2-year, Private for-profit
+1177	1	4-year, Private not-for-profit
+1178	1	2-year, Private for-profit
+1179	1	2-year, Private not-for-profit
+1180	1	2-year, Private for-profit
+1181	1	4-year, Private not-for-profit
+1182	1	2-year, Public
+1183	1	2-year, Private for-profit
+1184	1	&lt; 2-year, Public
+1185	1	2-year, Private for-profit
+1186	1	4-year, Private not-for-profit
+1187	1	4-year, Private not-for-profit
+1188	1	&lt; 2-year, Public
+1189	1	4-year, Private not-for-profit
+1190	1	4-year, Private not-for-profit
+1191	1	2-year, Public
+1192	1	4-year, Private not-for-profit
+1193	1	2-year, Public
+1194	1	2-year, Public
+1195	1	2-year, Public
+1196	1	2-year, Private not-for-profit
+1197	1	2-year, Public
+1198	1	2-year, Public
+1199	1	&lt; 2-year, Private for-profit
+1200	1	&lt; 2-year, Public
+1201	1	4-year, Private not-for-profit
+1202	1	4-year, Private not-for-profit
+1203	1	2-year, Private for-profit
+1204	1	2-year, Private for-profit
+1205	1	4-year, Public
+1206	1	&lt; 2-year, Public
+1207	1	&lt; 2-year, Private for-profit
+1208	1	&lt; 2-year, Private for-profit
+1209	1	&lt; 2-year, Private for-profit
+1210	1	&lt; 2-year, Private for-profit
+1211	1	&lt; 2-year, Private for-profit
+1212	1	2-year, Private for-profit
+1213	1	2-year, Private for-profit
+1214	1	2-year, Private for-profit
+1215	1	4-year, Private not-for-profit
+1216	1	4-year, Private not-for-profit
+1217	1	2-year, Private for-profit
+1218	1	4-year, Private not-for-profit
+1219	1	4-year, Private not-for-profit
+1220	1	2-year, Private not-for-profit
+1221	1	2-year, Public
+1222	1	2-year, Private not-for-profit
+1223	1	&lt; 2-year, Public
+1224	1	&lt; 2-year, Private for-profit
+1225	1	4-year, Private not-for-profit
+1226	1	2-year, Private for-profit
+1227	1	2-year, Private for-profit
+1228	1	2-year, Private not-for-profit
+1229	1	4-year, Private not-for-profit
+1230	1	4-year, Private not-for-profit
+1231	1	4-year, primarily associate's, Private not-for-profit
+1232	1	&lt; 2-year, Private for-profit
+1233	1	2-year, Private for-profit
+1234	1	2-year, Private for-profit
+1235	1	4-year, Public
+1236	1	4-year, Public
+1237	1	2-year, Private for-profit
+1238	1	4-year, primarily associate's, Private not-for-profit
+1239	1	&lt; 2-year, Private for-profit
+1240	1	&lt; 2-year, Private for-profit
+1241	1	4-year, primarily associate's, Private for-profit
+1242	1	2-year, Private for-profit
+1243	1	4-year, Private not-for-profit
+1244	1	2-year, Private for-profit
+1245	1	2-year, Private for-profit
+1246	1	2-year, Private for-profit
+1247	1	&lt; 2-year, Public
+1248	1	4-year, Public
+1249	1	4-year, Private not-for-profit
+1250	1	4-year, Private not-for-profit
+1251	1	&lt; 2-year, Private for-profit
+1252	1	2-year, Public
+1253	1	&lt; 2-year, Public
+1254	1	2-year, Private for-profit
+1255	1	&lt; 2-year, Private not-for-profit
+1256	1	4-year, Public
+1257	1	4-year, Public
+1258	1	4-year, Public
+1259	1	4-year, Public
+1260	1	4-year, Private not-for-profit
+1261	1	4-year, Private not-for-profit
+1262	1	4-year, Private not-for-profit
+1263	1	2-year, Private not-for-profit
+1264	1	2-year, Private for-profit
+1265	1	4-year, Private not-for-profit
+1266	1	4-year, Private not-for-profit
+1267	1	4-year, Private not-for-profit
+1268	1	2-year, Private for-profit
+1269	1	4-year, Private not-for-profit
+1270	1	4-year, Private not-for-profit
+1271	1	4-year, Private not-for-profit
+1272	1	4-year, Private not-for-profit
+1273	1	2-year, Private for-profit
+1274	1	2-year, Private not-for-profit
+1275	1	4-year, Private for-profit
+1276	1	4-year, Private not-for-profit
+1277	1	4-year, Private not-for-profit
+1278	1	&lt; 2-year, Private for-profit
+1279	1	2-year, Public
+1280	1	4-year, Private not-for-profit
+1281	1	4-year, Private not-for-profit
+1282	1	&lt; 2-year, Private for-profit
+1283	1	2-year, Public
+1284	1	2-year, Private for-profit
+1285	1	2-year, Public
+1286	1	2-year, Private for-profit
+1287	1	&lt; 2-year, Private for-profit
+1288	1	&lt; 2-year, Private for-profit
+1289	1	2-year, Private for-profit
+1290	1	2-year, Public
+1291	1	4-year, Private for-profit
+1292	1	2-year, Public
+1293	1	4-year, Private not-for-profit
+1294	1	4-year, Private not-for-profit
+1295	1	2-year, Private for-profit
+1296	1	4-year, Private not-for-profit
+1297	1	4-year, Private for-profit
+1298	1	2-year, Private not-for-profit
+1299	1	4-year, Public
+1300	1	4-year, Private not-for-profit
+1301	1	4-year, Private not-for-profit
+1302	1	4-year, Private not-for-profit
+1303	1	4-year, Private not-for-profit
+1304	1	2-year, Private not-for-profit
+1305	1	4-year, Public
+1306	1	2-year, Private not-for-profit
+1307	1	4-year, Private not-for-profit
+1308	1	4-year, Private not-for-profit
+1309	1	4-year, Private not-for-profit
+1310	1	4-year, Private not-for-profit
+1311	1	2-year, Private for-profit
+1312	1	4-year, Private not-for-profit
+1313	1	&lt; 2-year, Public
+1314	1	2-year, Private for-profit
+1315	1	2-year, Private for-profit
+1316	1	4-year, Private not-for-profit
+1317	1	&lt; 2-year, Private for-profit
+1318	1	&lt; 2-year, Private for-profit
+1319	1	4-year, Private not-for-profit
+1320	1	&lt; 2-year, Private for-profit
+1321	1	2-year, Private for-profit
+1322	1	2-year, Private for-profit
+1323	1	4-year, primarily associate's, Public
+1324	1	4-year, primarily associate's, Private for-profit
+1325	1	2-year, Private for-profit
+1326	1	4-year, Private not-for-profit
+1327	1	&lt; 2-year, Private for-profit
+1328	1	2-year, Private for-profit
+1329	1	2-year, Private for-profit
+1330	1	2-year, Private for-profit
+1331	1	2-year, Private for-profit
+1332	1	4-year, Private not-for-profit
+1333	1	4-year, Private not-for-profit
+1334	1	&lt; 2-year, Private for-profit
+1335	1	4-year, Private not-for-profit
+1336	1	2-year, Public
+1337	1	&lt; 2-year, Private for-profit
+1338	1	&lt; 2-year, Private for-profit
+1339	1	4-year, Private not-for-profit
+1340	1	&lt; 2-year, Private not-for-profit
+1341	1	2-year, Private for-profit
+1342	1	&lt; 2-year, Private for-profit
+1343	1	4-year, primarily associate's, Private for-profit
+1344	1	4-year, Private not-for-profit
+1345	1	&lt; 2-year, Private for-profit
+1346	1	&lt; 2-year, Private for-profit
+1347	1	4-year, Private not-for-profit
+1348	1	4-year, Private not-for-profit
+1349	1	4-year, Private for-profit
+1350	1	4-year, Public
+1351	1	4-year, Public
+1352	1	4-year, Private not-for-profit
+1353	1	4-year, Private not-for-profit
+1354	1	&lt; 2-year, Private for-profit
+1355	1	4-year, Private not-for-profit
+1356	1	4-year, Private not-for-profit
+1357	1	2-year, Private not-for-profit
+1358	1	4-year, Public
+1359	1	4-year, Private not-for-profit
+1360	1	4-year, Private not-for-profit
+1361	1	2-year, Public
+1362	1	2-year, Private for-profit
+1363	1	&lt; 2-year, Private for-profit
+1364	1	4-year, Private for-profit
+1365	1	4-year, Private not-for-profit
+1366	1	4-year, Private not-for-profit
+1367	1	4-year, Private not-for-profit
+1368	1	&lt; 2-year, Private for-profit
+1369	1	2-year, Public
+1370	1	2-year, Private for-profit
+1371	1	4-year, Private not-for-profit
+1372	1	&lt; 2-year, Public
+1373	1	2-year, Public
+1374	1	2-year, Private for-profit
+1375	1	2-year, Public
+1376	1	&lt; 2-year, Private for-profit
+1377	1	&lt; 2-year, Private for-profit
+1378	1	&lt; 2-year, Private for-profit
+1379	1	4-year, Private not-for-profit
+1380	1	&lt; 2-year, Public
+1381	1	4-year, Public
+1382	1	2-year, Public
+1383	1	4-year, Private not-for-profit
+1384	1	2-year, Public
+1385	1	&lt; 2-year, Private for-profit
+1386	1	4-year, Private for-profit
+1387	1	4-year, Private not-for-profit
+1388	1	4-year, Private for-profit
+1389	1	4-year, Private for-profit
+1390	1	&lt; 2-year, Private for-profit
+1391	1	4-year, Public
+1392	1	2-year, Public
+1393	1	2-year, Public
+1394	1	4-year, primarily associate's, Private for-profit
+1395	1	2-year, Private not-for-profit
+1396	1	2-year, Private for-profit
+1397	1	2-year, Public
+1398	1	4-year, Private for-profit
+1399	1	4-year, primarily associate's, Public
+1400	1	4-year, Public
+1401	1	2-year, Private for-profit
+1402	1	4-year, Private not-for-profit
+1403	1	&lt; 2-year, Private for-profit
+1404	1	4-year, Private not-for-profit
+1405	1	2-year, Public
+1406	1	4-year, Private not-for-profit
+1407	1	2-year, Private for-profit
+1408	1	2-year, Private for-profit
+1409	1	2-year, Private for-profit
+1410	1	2-year, Private for-profit
+1411	1	2-year, Private for-profit
+1412	1	4-year, Private not-for-profit
+1413	1	4-year, primarily associate's, Private for-profit
+1414	1	4-year, primarily associate's, Private for-profit
+1415	1	&lt; 2-year, Private for-profit
+1416	1	&lt; 2-year, Private not-for-profit
+1417	1	4-year, Private not-for-profit
+1418	1	4-year, primarily associate's, Private not-for-profit
+1419	1	&lt; 2-year, Private for-profit
+1420	1	4-year, primarily associate's, Private for-profit
+1421	1	4-year, primarily associate's, Private for-profit
+1422	1	4-year, Private not-for-profit
+1423	1	4-year, Private not-for-profit
+1424	1	4-year, Private not-for-profit
+1425	1	4-year, Private not-for-profit
+1426	1	4-year, Private not-for-profit
+1427	1	4-year, Private not-for-profit
+1428	1	4-year, Public
+1429	1	2-year, Private for-profit
+1430	1	2-year, Public
+1431	1	&lt; 2-year, Private for-profit
+1432	1	2-year, Private for-profit
+1433	1	&lt; 2-year, Private for-profit
+1434	1	4-year, primarily associate's, Private for-profit
+1435	1	4-year, Private not-for-profit
+1436	1	2-year, Public
+1437	1	4-year, Private for-profit
+1438	1	4-year, Private for-profit
+1439	1	4-year, Private for-profit
+1440	1	&lt; 2-year, Private for-profit
+1441	1	&lt; 2-year, Private for-profit
+1442	1	&lt; 2-year, Private for-profit
+1443	1	2-year, Public
+1444	1	2-year, Public
+1445	1	2-year, Public
+1446	1	2-year, Public
+1447	1	2-year, Public
+1448	1	2-year, Public
+1449	1	2-year, Public
+1450	1	2-year, Public
+1451	1	2-year, Public
+1452	1	2-year, Public
+1453	1	2-year, Public
+1454	1	4-year, Private not-for-profit
+1455	1	&lt; 2-year, Private for-profit
+1456	1	4-year, Public
+1457	1	4-year, Private not-for-profit
+1458	1	4-year, Private not-for-profit
+1459	1	4-year, Private not-for-profit
+1460	1	4-year, Private not-for-profit
+1461	1	4-year, Private not-for-profit
+1462	1	2-year, Private for-profit
+1463	1	2-year, Public
+1464	1	&lt; 2-year, Private for-profit
+1465	1	4-year, Private not-for-profit
+1466	1	2-year, Private for-profit
+1467	1	4-year, Private not-for-profit
+1468	1	2-year, Public
+1469	1	4-year, Private not-for-profit
+1470	1	2-year, Private not-for-profit
+1471	1	4-year, Private not-for-profit
+1472	1	&lt; 2-year, Private for-profit
+1473	1	&lt; 2-year, Private for-profit
+1474	1	&lt; 2-year, Private for-profit
+1475	1	&lt; 2-year, Private for-profit
+1476	1	4-year, Private for-profit
+1477	1	&lt; 2-year, Private for-profit
+1478	1	4-year, Private not-for-profit
+1479	1	2-year, Public
+1480	1	2-year, Public
+1481	1	&lt; 2-year, Private for-profit
+1482	1	2-year, Public
+1483	1	2-year, Public
+1484	1	2-year, Public
+1485	1	2-year, Public
+1486	1	2-year, Private for-profit
+1487	1	4-year, Private not-for-profit
+1488	1	&lt; 2-year, Private for-profit
+1489	1	&lt; 2-year, Private for-profit
+1490	1	2-year, Private for-profit
+1491	1	&lt; 2-year, Private not-for-profit
+1492	1	4-year, Private not-for-profit
+1493	1	4-year, Private not-for-profit
+1494	1	4-year, Private not-for-profit
+1495	1	2-year, Private for-profit
+1496	1	&lt; 2-year, Private for-profit
+1497	1	&lt; 2-year, Private for-profit
+1498	1	&lt; 2-year, Private for-profit
+1499	1	2-year, Private for-profit
+1500	1	&lt; 2-year, Private for-profit
+1501	1	&lt; 2-year, Private for-profit
+1502	1	4-year, primarily associate's, Private for-profit
+1503	1	2-year, Private for-profit
+1504	1	4-year, Private not-for-profit
+1505	1	&lt; 2-year, Private for-profit
+1506	1	&lt; 2-year, Private for-profit
+1507	1	4-year, Private not-for-profit
+1508	1	&lt; 2-year, Private not-for-profit
+1509	1	4-year, primarily associate's, Private for-profit
+1510	1	2-year, Private for-profit
+1511	1	4-year, primarily associate's, Private for-profit
+1512	1	2-year, Private for-profit
+1513	1	2-year, Private for-profit
+1514	1	2-year, Private for-profit
+1515	1	2-year, Private for-profit
+1516	1	2-year, Private for-profit
+1517	1	2-year, Private for-profit
+1518	1	2-year, Public
+1519	1	4-year, Private not-for-profit
+1520	1	2-year, Private for-profit
+1521	1	4-year, Private not-for-profit
+1522	1	&lt; 2-year, Private for-profit
+1523	1	&lt; 2-year, Private for-profit
+1524	1	&lt; 2-year, Private for-profit
+1525	1	&lt; 2-year, Private for-profit
+1526	1	4-year, Private for-profit
+1527	1	2-year, Public
+1528	1	4-year, Private not-for-profit
+1529	1	&lt; 2-year, Private for-profit
+1530	1	&lt; 2-year, Private for-profit
+1531	1	2-year, Public
+1532	1	4-year, Private not-for-profit
+1533	1	4-year, Private not-for-profit
+1534	1	&lt; 2-year, Private for-profit
+1535	1	&lt; 2-year, Private for-profit
+1536	1	&lt; 2-year, Private for-profit
+1537	1	&lt; 2-year, Private for-profit
+1538	1	&lt; 2-year, Private for-profit
+1539	1	2-year, Private for-profit
+1540	1	4-year, Private not-for-profit
+1541	1	4-year, Private not-for-profit
+1542	1	2-year, Public
+1543	1	2-year, Public
+1544	1	&lt; 2-year, Private for-profit
+1545	1	4-year, primarily associate's, Private for-profit
+1546	1	4-year, primarily associate's, Private for-profit
+1547	1	4-year, primarily associate's, Private for-profit
+1548	1	&lt; 2-year, Private for-profit
+1549	1	4-year, Private not-for-profit
+1550	1	&lt; 2-year, Private for-profit
+1551	1	&lt; 2-year, Private for-profit
+1552	1	&lt; 2-year, Private for-profit
+1553	1	&lt; 2-year, Private for-profit
+1554	1	2-year, Public
+1555	1	4-year, primarily associate's, Private not-for-profit
+1556	1	4-year, Private not-for-profit
+1557	1	4-year, Private not-for-profit
+1558	1	2-year, Public
+1559	1	4-year, Public
+1560	1	4-year, Public
+1561	1	4-year, Public
+1562	1	&lt; 2-year, Private for-profit
+1563	1	&lt; 2-year, Private for-profit
+1564	1	&lt; 2-year, Private for-profit
+1565	1	&lt; 2-year, Private for-profit
+1566	1	4-year, Private not-for-profit
+1567	1	4-year, Private not-for-profit
+1568	1	4-year, Private for-profit
+1569	1	&lt; 2-year, Private for-profit
+1570	1	2-year, Public
+1571	1	4-year, Public
+1572	1	4-year, Private not-for-profit
+1573	1	2-year, Private for-profit
+1574	1	&lt; 2-year, Private for-profit
+1575	1	4-year, Private not-for-profit
+1576	1	4-year, Public
+1577	1	4-year, Public
+1578	1	4-year, Public
+1579	1	4-year, Public
+1580	1	4-year, Public
+1581	1	&lt; 2-year, Private for-profit
+1582	1	&lt; 2-year, Private for-profit
+1583	1	4-year, Private not-for-profit
+1584	1	&lt; 2-year, Private for-profit
+1585	1	2-year, Private for-profit
+1586	1	4-year, Public
+1587	1	4-year, Public
+1588	1	4-year, Public
+1589	1	4-year, Private for-profit
+1590	1	4-year, Private not-for-profit
+1591	1	2-year, Private for-profit
+1592	1	&lt; 2-year, Private for-profit
+1593	1	4-year, Private not-for-profit
+1594	1	2-year, Private for-profit
+1595	1	2-year, Private for-profit
+1596	1	2-year, Public
+1597	1	4-year, primarily associate's, Private for-profit
+1598	1	4-year, Private not-for-profit
+1599	1	2-year, Private for-profit
+1600	1	2-year, Private for-profit
+1601	1	&lt; 2-year, Private for-profit
+1602	1	2-year, Private for-profit
+1603	1	2-year, Public
+1604	1	4-year, primarily associate's, Private for-profit
+1605	1	4-year, Private for-profit
+1606	1	4-year, Private for-profit
+1607	1	2-year, Public
+1608	1	4-year, Private for-profit
+1609	1	4-year, primarily associate's, Private for-profit
+1610	1	2-year, Private for-profit
+1611	1	2-year, Private for-profit
+1612	1	2-year, Private not-for-profit
+1613	1	2-year, Private for-profit
+1614	1	&lt; 2-year, Private for-profit
+1615	1	4-year, Private for-profit
+1616	1	&lt; 2-year, Private for-profit
+1617	1	2-year, Public
+1618	1	2-year, Private for-profit
+1619	1	2-year, Private for-profit
+1620	1	2-year, Private for-profit
+1621	1	&lt; 2-year, Private for-profit
+1622	1	2-year, Public
+1623	1	2-year, Public
+1624	1	4-year, Public
+1625	1	4-year, Private for-profit
+1626	1	2-year, Public
+1627	1	&lt; 2-year, Private for-profit
+1628	1	4-year, primarily associate's, Public
+1629	1	4-year, Public
+1630	1	4-year, Private not-for-profit
+1631	1	4-year, Private not-for-profit
+1632	1	4-year, Private not-for-profit
+1633	1	4-year, Private not-for-profit
+1634	1	2-year, Private for-profit
+1635	1	&lt; 2-year, Private for-profit
+1636	1	2-year, Private for-profit
+1637	1	2-year, Private for-profit
+1638	1	2-year, Private for-profit
+1639	1	2-year, Public
+1640	1	2-year, Public
+1641	1	4-year, Private for-profit
+1642	1	2-year, Private for-profit
+1643	1	2-year, Private for-profit
+1644	1	4-year, Private not-for-profit
+1645	1	&lt; 2-year, Private for-profit
+1646	1	4-year, primarily associate's, Private for-profit
+1647	1	4-year, Private not-for-profit
+1648	1	2-year, Public
+1649	1	2-year, Private for-profit
+1650	1	2-year, Private for-profit
+1651	1	2-year, Private for-profit
+1652	1	2-year, Private for-profit
+1653	1	2-year, Private for-profit
+1654	1	2-year, Public
+1655	1	&lt; 2-year, Private for-profit
+1656	1	4-year, Private not-for-profit
+1657	1	4-year, primarily associate's, Private for-profit
+1658	1	4-year, primarily associate's, Private for-profit
+1659	1	4-year, primarily associate's, Private for-profit
+1660	1	4-year, Private not-for-profit
+1661	1	2-year, Public
+1662	1	4-year, Public
+1663	1	4-year, Private not-for-profit
+1664	1	2-year, Public
+1665	1	4-year, Private not-for-profit
+1666	1	4-year, primarily associate's, Private for-profit
+1667	1	2-year, Private for-profit
+1668	1	4-year, Private not-for-profit
+1669	1	4-year, Private not-for-profit
+1670	1	&lt; 2-year, Private for-profit
+1671	1	2-year, Public
+1672	1	4-year, Private for-profit
+1673	1	4-year, Private for-profit
+1674	1	4-year, Private for-profit
+1675	1	4-year, Private for-profit
+1676	1	4-year, Private for-profit
+1677	1	4-year, Private for-profit
+1678	1	&lt; 2-year, Private for-profit
+1679	1	4-year, Public
+1680	1	4-year, Private for-profit
+1681	1	4-year, Public
+1682	1	4-year, Public
+1683	1	4-year, Private not-for-profit
+1684	1	4-year, Public
+1685	1	2-year, Public
+1686	1	2-year, Public
+1687	1	4-year, Private not-for-profit
+1688	1	4-year, Private not-for-profit
+1689	1	4-year, Private not-for-profit
+1690	1	4-year, Private not-for-profit
+1691	1	2-year, Public
+1692	1	2-year, Public
+1693	1	&lt; 2-year, Private for-profit
+1694	1	4-year, Private not-for-profit
+1695	1	&lt; 2-year, Public
+1696	1	4-year, Public
+1697	1	2-year, Public
+1698	1	4-year, Public
+1699	1	4-year, Private not-for-profit
+1700	1	4-year, Private not-for-profit
+1701	1	4-year, Private not-for-profit
+1702	1	4-year, Private not-for-profit
+1703	1	4-year, primarily associate's, Private for-profit
+1704	1	4-year, Private not-for-profit
+1705	1	4-year, Private not-for-profit
+1706	1	4-year, Private not-for-profit
+1707	1	4-year, Private not-for-profit
+1708	1	4-year, Private not-for-profit
+1709	1	4-year, Private not-for-profit
+1710	1	2-year, Public
+1711	1	2-year, Private for-profit
+1712	1	4-year, Private not-for-profit
+1713	1	2-year, Public
+1714	1	4-year, Private for-profit
+1715	1	&lt; 2-year, Private for-profit
+1716	1	2-year, Private not-for-profit
+1717	1	2-year, Private for-profit
+1718	1	2-year, Private for-profit
+1719	1	2-year, Public
+1720	1	2-year, Private for-profit
+1721	1	&lt; 2-year, Private for-profit
+1722	1	2-year, Public
+1723	1	&lt; 2-year, Private for-profit
+1724	1	2-year, Private for-profit
+1725	1	4-year, primarily associate's, Private for-profit
+1726	1	4-year, Private not-for-profit
+1727	1	4-year, primarily associate's, Public
+1728	1	2-year, Private not-for-profit
+1729	1	2-year, Public
+1730	1	2-year, Private for-profit
+1731	1	2-year, Public
+1732	1	4-year, primarily associate's, Public
+1733	1	4-year, Private not-for-profit
+1734	1	2-year, Public
+1735	1	&lt; 2-year, Private for-profit
+1736	1	4-year, Private not-for-profit
+1737	1	4-year, Public
+1738	1	4-year, Public
+1739	1	2-year, Public
+1740	1	2-year, Private not-for-profit
+1741	1	&lt; 2-year, Private for-profit
+1742	1	2-year, Public
+1743	1	4-year, Public
+1744	1	&lt; 2-year, Private for-profit
+1745	1	4-year, Private not-for-profit
+1746	1	4-year, Public
+1747	1	2-year, Public
+1748	1	2-year, Public
+1749	1	2-year, Public
+1750	1	2-year, Private for-profit
+1751	1	&lt; 2-year, Private not-for-profit
+1752	1	4-year, Private not-for-profit
+1753	1	&lt; 2-year, Private not-for-profit
+1754	1	4-year, primarily associate's, Private for-profit
+1755	1	4-year, Private not-for-profit
+1756	1	4-year, Private not-for-profit
+1757	1	2-year, Private for-profit
+1758	1	2-year, Private for-profit
+1759	1	2-year, Private for-profit
+1760	1	2-year, Public
+1761	1	4-year, Private for-profit
+1762	1	4-year, primarily associate's, Private for-profit
+1763	1	4-year, Private for-profit
+1764	1	&lt; 2-year, Private for-profit
+1765	1	4-year, Private not-for-profit
+1766	1	&lt; 2-year, Private not-for-profit
+1767	1	4-year, Private not-for-profit
+1768	1	2-year, Public
+1769	1	2-year, Private for-profit
+1770	1	2-year, Private for-profit
+1771	1	4-year, Public
+1772	1	4-year, Public
+1773	1	4-year, Public
+1774	1	2-year, Private for-profit
+1775	1	2-year, Public
+1776	1	&lt; 2-year, Private for-profit
+1777	1	&lt; 2-year, Private for-profit
+1778	1	&lt; 2-year, Private for-profit
+1779	1	&lt; 2-year, Private for-profit
+1780	1	2-year, Private for-profit
+1781	1	2-year, Public
+1782	1	4-year, Public
+1783	1	2-year, Public
+1784	1	2-year, Private for-profit
+1785	1	&lt; 2-year, Public
+1786	1	&lt; 2-year, Public
+1787	1	2-year, Public
+1788	1	2-year, Public
+1789	1	&lt; 2-year, Public
+1790	1	2-year, Private for-profit
+1791	1	&lt; 2-year, Private not-for-profit
+1792	1	&lt; 2-year, Public
+1793	1	4-year, Public
+1794	1	2-year, Private for-profit
+1795	1	4-year, Public
+1796	1	4-year, Public
+1797	1	2-year, Public
+1798	1	2-year, Public
+1799	1	4-year, Private for-profit
+1800	1	4-year, Public
+1801	1	&lt; 2-year, Private for-profit
+1802	1	&lt; 2-year, Private for-profit
+1803	1	&lt; 2-year, Private for-profit
+1804	1	&lt; 2-year, Private for-profit
+1805	1	&lt; 2-year, Private for-profit
+1806	1	4-year, primarily associate's, Private not-for-profit
+1807	1	2-year, Public
+1808	1	2-year, Public
+1809	1	&lt; 2-year, Private for-profit
+1810	1	&lt; 2-year, Private for-profit
+1811	1	4-year, Private not-for-profit
+1812	1	4-year, Private not-for-profit
+1813	1	&lt; 2-year, Private for-profit
+1814	1	4-year, Private not-for-profit
+1815	1	2-year, Private for-profit
+1816	1	&lt; 2-year, Private for-profit
+1817	1	&lt; 2-year, Private for-profit
+1818	1	4-year, Private not-for-profit
+1819	1	4-year, Private not-for-profit
+1820	1	&lt; 2-year, Private for-profit
+1821	1	2-year, Private for-profit
+1822	1	4-year, primarily associate's, Private for-profit
+1823	1	2-year, Public
+1824	1	4-year, Public
+1825	1	4-year, Public
+1826	1	4-year, Public
+1827	1	4-year, Public
+1828	1	4-year, Private for-profit
+1829	1	4-year, Public
+1830	1	4-year, primarily associate's, Private for-profit
+1831	1	4-year, primarily associate's, Private for-profit
+1832	1	2-year, Private for-profit
+1833	1	&lt; 2-year, Private for-profit
+1834	1	4-year, Private not-for-profit
+1835	1	2-year, Private for-profit
+1836	1	2-year, Private for-profit
+1837	1	2-year, Private for-profit
+1838	1	4-year, Public
+1839	1	2-year, Private for-profit
+1840	1	4-year, Public
+1841	1	2-year, Public
+1842	1	4-year, Private not-for-profit
+1843	1	4-year, Private for-profit
+1844	1	4-year, Private not-for-profit
+1845	1	2-year, Public
+1846	1	&lt; 2-year, Public
+1847	1	2-year, Public
+1848	1	2-year, Private for-profit
+1849	1	2-year, Public
+1850	1	&lt; 2-year, Private for-profit
+1851	1	4-year, Private for-profit
+1852	1	4-year, Private for-profit
+1853	1	2-year, Public
+1854	1	4-year, Public
+1855	1	4-year, Private for-profit
+1856	1	2-year, Public
+1857	1	&lt; 2-year, Private for-profit
+1858	1	&lt; 2-year, Private for-profit
+1859	1	&lt; 2-year, Public
+1860	1	&lt; 2-year, Private for-profit
+1861	1	&lt; 2-year, Private not-for-profit
+1862	1	&lt; 2-year, Public
+1863	1	4-year, Private not-for-profit
+1864	1	2-year, Public
+1865	1	2-year, Private for-profit
+1866	1	2-year, Private for-profit
+1867	1	2-year, Private for-profit
+1868	1	4-year, Private not-for-profit
+1869	1	2-year, Public
+1870	1	&lt; 2-year, Private for-profit
+1871	1	4-year, Private for-profit
+1872	1	&lt; 2-year, Private for-profit
+1873	1	&lt; 2-year, Private for-profit
+1874	1	2-year, Public
+1875	1	4-year, Private not-for-profit
+1876	1	4-year, Private not-for-profit
+1877	1	&lt; 2-year, Private for-profit
+1878	1	&lt; 2-year, Private for-profit
+1879	1	2-year, Public
+1880	1	&lt; 2-year, Private for-profit
+1881	1	4-year, Private not-for-profit
+1882	1	4-year, Public
+1883	1	4-year, Private not-for-profit
+1884	1	4-year, Private not-for-profit
+1885	1	4-year, Private for-profit
+1886	1	2-year, Private not-for-profit
+1887	1	4-year, Private not-for-profit
+1888	1	&lt; 2-year, Private for-profit
+1889	1	4-year, Private not-for-profit
+1890	1	4-year, Private not-for-profit
+1891	1	4-year, Private for-profit
+1892	1	4-year, Private not-for-profit
+1893	1	4-year, Public
+1894	1	4-year, Public
+1895	1	2-year, Public
+1896	1	&lt; 2-year, Private for-profit
+1897	1	4-year, Public
+1898	1	4-year, Private not-for-profit
+1899	1	&lt; 2-year, Private not-for-profit
+1900	1	&lt; 2-year, Private for-profit
+1901	1	&lt; 2-year, Private for-profit
+1902	1	4-year, primarily associate's, Private for-profit
+1903	1	4-year, Private for-profit
+1904	1	&lt; 2-year, Private for-profit
+1905	1	4-year, primarily associate's, Private not-for-profit
+1906	1	2-year, Public
+1907	1	2-year, Public
+1908	1	2-year, Public
+1909	1	&lt; 2-year, Private for-profit
+1910	1	4-year, Private for-profit
+1911	1	&lt; 2-year, Private for-profit
+1912	1	2-year, Private for-profit
+1913	1	4-year, Private not-for-profit
+1914	1	&lt; 2-year, Private for-profit
+1915	1	2-year, Public
+1916	1	&lt; 2-year, Private for-profit
+1917	1	2-year, Public
+1918	1	4-year, primarily associate's, Public
+1919	1	2-year, Public
+1920	1	4-year, primarily associate's, Private not-for-profit
+1921	1	2-year, Private not-for-profit
+1922	1	4-year, primarily associate's, Private not-for-profit
+1923	1	4-year, Private not-for-profit
+1924	1	2-year, Private for-profit
+1925	1	2-year, Private for-profit
+1926	1	&lt; 2-year, Private for-profit
+1927	1	2-year, Public
+1928	1	2-year, Private for-profit
+1929	1	2-year, Private for-profit
+1930	1	2-year, Private for-profit
+1931	1	4-year, primarily associate's, Public
+1932	1	4-year, Private for-profit
+1933	1	4-year, Private not-for-profit
+1934	1	4-year, Private not-for-profit
+1935	1	4-year, Private not-for-profit
+1936	1	&lt; 2-year, Private for-profit
+1937	1	&lt; 2-year, Private for-profit
+1938	1	2-year, Private for-profit
+1939	1	2-year, Private for-profit
+1940	1	4-year, primarily associate's, Private for-profit
+1941	1	4-year, Private not-for-profit
+1942	1	&lt; 2-year, Private for-profit
+1943	1	&lt; 2-year, Private for-profit
+1944	1	4-year, Private not-for-profit
+1945	1	4-year, Public
+1946	1	4-year, Private not-for-profit
+1947	1	4-year, primarily associate's, Private not-for-profit
+1948	1	2-year, Private for-profit
+1949	1	2-year, Public
+1950	1	&lt; 2-year, Private for-profit
+1951	1	2-year, Private for-profit
+1952	1	&lt; 2-year, Private for-profit
+1953	1	4-year, primarily associate's, Private for-profit
+1954	1	2-year, Private not-for-profit
+1955	1	4-year, Private not-for-profit
+1956	1	2-year, Private for-profit
+1957	1	&lt; 2-year, Private for-profit
+1958	1	2-year, Public
+1959	1	&lt; 2-year, Private for-profit
+1960	1	&lt; 2-year, Private for-profit
+1961	1	4-year, Private not-for-profit
+1962	1	2-year, Private for-profit
+1963	1	4-year, Public
+1964	1	4-year, primarily associate's, Public
+1965	1	&lt; 2-year, Private for-profit
+1966	1	4-year, primarily associate's, Private for-profit
+1967	1	2-year, Public
+1968	1	&lt; 2-year, Private for-profit
+1969	1	4-year, Private for-profit
+1970	1	&lt; 2-year, Private for-profit
+1971	1	4-year, primarily associate's, Private for-profit
+1972	1	4-year, Private for-profit
+1973	1	4-year, Private for-profit
+1974	1	4-year, Private for-profit
+1975	1	4-year, Private for-profit
+1976	1	4-year, Private for-profit
+1977	1	4-year, Private for-profit
+1978	1	4-year, Private for-profit
+1979	1	4-year, Private for-profit
+1980	1	4-year, Private for-profit
+1981	1	2-year, Public
+1982	1	2-year, Public
+1983	1	&lt; 2-year, Private for-profit
+1984	1	2-year, Public
+1985	1	&lt; 2-year, Private for-profit
+1986	1	2-year, Private for-profit
+1987	1	&lt; 2-year, Private for-profit
+1988	1	2-year, Private for-profit
+1989	1	2-year, Public
+1990	1	&lt; 2-year, Private for-profit
+1991	1	4-year, Private not-for-profit
+1992	1	4-year, primarily associate's, Public
+1993	1	&lt; 2-year, Private for-profit
+1994	1	2-year, Public
+1995	1	4-year, Private for-profit
+1996	1	4-year, Private for-profit
+1997	1	2-year, Public
+1998	1	4-year, Private not-for-profit
+1999	1	4-year, primarily associate's, Public

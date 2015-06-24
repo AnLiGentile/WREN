@@ -1,0 +1,2002 @@
+﻿job	careerbuilder	location
+2000	2000	2000	625
+0000	1	US-MO-Kansas City
+0001	1	US-DC-downtown DC
+0002	1	US-FL-Miami
+0003	1	US-CA-San Diego
+0004	1	US-IL-Chicago
+0005	1	US-CA-Mountain View
+0006	1	US-CA-Santa Ana
+0007	1	US-NY-New York
+0008	1	US-NY-New York
+0009	1	US-NY-New York
+0010	1	US-NY-New York
+0011	1	US-MD-Potomac
+0012	1	US-IL-Chicago
+0013	1	US-IL-Chicago
+0014	1	US-IL-Chicago
+0015	1	US-MA-Newton
+0016	1	US-CA-San Francisco
+0017	1	US-TX-Austin
+0018	1	US-MA-Quincy
+0019	1	US-CT-Hartford
+0020	1	US-PA-Pittsburgh
+0021	1	US-PA-Pittsburgh
+0022	1	US-MO-Kansas City
+0023	1	US-OH-Sidney
+0024	1	US-RI-Providence
+0025	1	US-CA-San Jose
+0026	1	US-TX-Dallas
+0027	1	US-VA-Herndon
+0028	1	US-VA-Dulles
+0029	1	US-NY-New York
+0030	1	US-TN-Chattanooga
+0031	1	US-MD-Lanham
+0032	1	US-MI-Warren
+0033	1	US-GA-Atlanta
+0034	1	US-VA-Herndon
+0035	1	US-NY-New York
+0036	1	US-DC-Washington
+0037	1	US-KS-Wichita
+0038	1	US-TX-DFW
+0039	1	US-VA-Reston
+0040	1	US-MA-Andover
+0041	1	US-FL-Oldsmar
+0042	1	US-TX-Houston
+0043	1	US-DC-Washington
+0044	1	US-MA-western Boston suburbs
+0045	1	US-TX-Dallas
+0046	1	US-TX-Dallas
+0047	1	US-IL-Chicago
+0048	1	US-NY-Bethpage
+0049	1	US-TX-Dallas
+0050	1	US-TX-Dallas
+0051	1	US-IL-Chicago
+0052	1	US-IN-Indianapolis
+0053	1	US-MA-Burlington
+0054	1	US-VA-Falls Church
+0055	1	US-NY-New York
+0056	1	US-CA-Glendale
+0057	1	US-IL-Naperville
+0058	1	US-NY-Rye
+0059	1	US-RI-Providence
+0060	1	US-VA-Dulles
+0061	1	US-IN-Position Posted- 11/22
+0062	1	US-VA-Fairfax
+0063	1	US-DC-Washington
+0064	1	US-VA-Reston
+0065	1	US-VA-Reston
+0066	1	US-DC-Washington
+0067	1	US-DC-Washington
+0068	1	US-VA-Arlington
+0069	1	US-DC-Washington
+0070	1	US-VA-Reston
+0071	1	US-NC-Raleigh
+0072	1	US-TX-Houston
+0073	1	US-MA-New Bedford
+0074	1	US-GA-North Atlanta
+0075	1	US-MO-Kansas City--Western Edge
+0076	1	US-IN-INDIANA
+0077	1	US-CA-Santa Ana
+0078	1	US-TX-Houston
+0079	1	US-VA-Herndon
+0080	1	US-OH-Columbus
+0081	1	US-GA-Alpharetta
+0082	1	US-CA-Fremont
+0083	1	US-CA-El Dorado Hills
+0084	1	US-MA-Woburn
+0085	1	US-CO-Denver
+0086	1	US-CA-Fremont
+0087	1	US-CA-San Francisco
+0088	1	US-VA-Herndon
+0089	1	US-AL-Huntsville
+0090	1	US-IL-Chicago
+0091	1	US-MO-Kansas City
+0092	1	US-IL-Oak Brook
+0093	1	US-IN-Indianapolis
+0094	1	US-DC-Washington
+0095	1	US-AZ-Tempe
+0096	1	US-CA-San Francisco
+0097	1	US-TN-Nashville
+0098	1	US-IL-Vernon Hills
+0099	1	US-GA-Atlanta
+0100	1	US-CA-Long Beach
+0101	1	US-CA-Redondo Beach
+0102	1	US-TX-Austin
+0103	1	US-NJ-Jersey City
+0104	1	US-PA-Pittsburgh
+0105	1	US-PA-Philadelphia
+0106	1	US-CA-Los Angeles
+0107	1	US-TX-Irving
+0108	1	US-OH-Wickliffe
+0109	1	US-IL-Chicago
+0110	1	US-VA-Herndon
+0111	1	US-VA-Herndon
+0112	1	US-OH-Cleveland
+0113	1	US-MA-Boston
+0114	1	US-NV-Las Vegas
+0115	1	US-MD-Baltimore
+0116	1	US-NC-Charlotte
+0117	1	US-MN-Minneapolis
+0118	1	US-NY-New York
+0119	1	US-CO-Denver
+0120	1	US-OR-Pendleton
+0121	1	US-MA-Andover
+0122	1	US-VA-Alexandria
+0123	1	US-FL-Jacksonville
+0124	1	US-FL-North Lauderdale
+0125	1	US-TX-San Antonio
+0126	1	US-NY-Albany
+0127	1	US-MO-Kansas City
+0128	1	US-FL-Orlando
+0129	1	US-NC-Charlotte
+0130	1	US-IN-Huntington
+0131	1	US-DE-Newark
+0132	1	US-FL-Tampa
+0133	1	US-TX-Plano
+0134	1	US-IN-Indianapolis
+0135	1	US-CA-San Mateo
+0136	1	US-CA-Glendale
+0137	1	US-ID-Boise
+0138	1	US-VT-Burlington
+0139	1	US-PA-Horsham
+0140	1	US-WA-Kennewick
+0141	1	US-MO-Kansas City
+0142	1	US-VA-Norfolk
+0143	1	US-MI-Ann Arbor
+0144	1	US-FL-Tallahassee
+0145	1	US-CA-Stockton
+0146	1	US-SD-Sioux Falls
+0147	1	US-TX-Fort Worth
+0148	1	US-OH-Cleveland
+0149	1	US-OR-Klamath Falls
+0150	1	US-TX-San Antonio
+0151	1	US-NY-Syracuse
+0152	1	US-AL-Birmingham
+0153	1	US-NJ-Jersey City
+0154	1	US-VA-Richmond
+0155	1	US-MN-Saint Cloud
+0156	1	US-OH-Columbus
+0157	1	US-NY-New York
+0158	1	US-NE-Omaha
+0159	1	US-PA-Conshohocken
+0160	1	US-KS-Wichita
+0161	1	US-LA-Alexandria
+0162	1	US-IA-Des Moines
+0163	1	US-IL-Peoria
+0164	1	US-LA-Shreveport
+0165	1	US-AR-Little Rock
+0166	1	US-LA-New Orleans
+0167	1	US-CA-San Luis Obispo
+0168	1	US-TX-Houston
+0169	1	US-CA-Los Angeles
+0170	1	US-OK-Oklahoma City
+0171	1	US-MI-Grand Rapids
+0172	1	US-NJ-Cherry Hill
+0173	1	US-OH-Dayton
+0174	1	US-VA-Chantilly
+0175	1	US-TN-Memphis
+0176	1	US-OH-Cincinnati
+0177	1	US-CA-San Francisco
+0178	1	US-KY-Lexington
+0179	1	US-VA-Reston
+0180	1	US-WI-Milwaukee
+0181	1	US-AL-Huntsville
+0182	1	US-FL-Clearwater
+0183	1	US-CA-Oakland
+0184	1	US-GA-Augusta
+0185	1	US-CA-Torrance
+0186	1	US-CO-Boulder
+0187	1	US-CO-Fort Collins
+0188	1	US-MA-Boston
+0189	1	US-GA-Alpharetta
+0190	1	US-FL-Hialeah
+0191	1	US-FL-Jacksonville
+0192	1	US-VA-Vienna
+0193	1	US-NC-Asheville
+0194	1	US-CO-Englewood
+0195	1	US-CA-Riverside
+0196	1	US-NY-Poughkeepsie
+0197	1	US-IN-Evansville
+0198	1	US-RI-Providence
+0199	1	US-MS-Biloxi
+0200	1	US-TN-Nashville
+0201	1	US-SC-Columbia
+0202	1	US-CA-Santa Barbara
+0203	1	US-AZ-Chandler
+0204	1	US-SC-Charleston
+0205	1	US-FL-Orlando
+0206	1	US-TX-Richardson
+0207	1	US-IA-Des Moines
+0208	1	US-PA-Pennsylvania
+0209	1	US-PA-Pennsylvania
+0210	1	US-PA-Pennsylvania
+0211	1	US-PA-Pennsylvania
+0212	1	US-CA-Long Beach
+0213	1	US-AR-Bentonville
+0214	1	US-CA-Bakersfield
+0215	1	US-PA-Reading
+0216	1	US-MS-Jackson
+0217	1	US-CT-Hartford
+0218	1	US-NY-Binghamton
+0219	1	US-WA-Olympia
+0220	1	US-CA-Newport Beach
+0221	1	US-AZ-Mesa
+0222	1	US-WI-Appleton
+0223	1	US-IN-Fort Wayne
+0224	1	US-FL-Saint Petersburg
+0225	1	US-GA-Columbus
+0226	1	US-IL-Northbrook
+0227	1	US-IL-Naperville
+0228	1	US-TX-El Paso
+0229	1	US-NY-Melville
+0230	1	US-NV-Las Vegas
+0231	1	US-NE-Lincoln
+0232	1	US-AZ-Scottsdale
+0233	1	US-PA-King of Prussia
+0234	1	US-NJ-Asbury Park
+0235	1	US-NY-Albany
+0236	1	US-FL-Fort Lauderdale
+0237	1	US-VA-Herndon
+0238	1	US-MA-Framingham
+0239	1	US-CA-Costa Mesa
+0240	1	US-PA-Philadelphia
+0241	1	US-TN-Knoxville
+0242	1	US-MI-Detroit
+0243	1	US-VA-Arlington
+0244	1	US-IL-Oak Brook
+0245	1	US-GA-Atlanta
+0246	1	US-IL-Aurora
+0247	1	US-IA-Cedar Rapids
+0248	1	US-NV-Reno
+0249	1	US-WI-Madison
+0250	1	US-KS-Lenexa
+0251	1	US-SC-Greenville
+0252	1	US-FL-Fort Myers
+0253	1	US-KS-Kansas City
+0254	1	US-OH-Akron
+0255	1	US-MD-Bethesda
+0256	1	US-NJ-Edison
+0257	1	US-CA-San Diego
+0258	1	US-DC-Washington
+0259	1	US-NY-Buffalo
+0260	1	US-FL-Sarasota
+0261	1	US-GA-Savannah
+0262	1	US-CA-Irvine
+0263	1	US-VA-Fairfax
+0264	1	US-PA-Harrisburg
+0265	1	US-NJ-Newark
+0266	1	US-TX-Irving
+0267	1	US-MN-Minneapolis
+0268	1	US-CA-San Jose
+0269	1	US-MA-Worcester
+0270	1	US-TX-Corpus Christi
+0271	1	US-KY-Louisville
+0272	1	US-CA-Modesto
+0273	1	US-CT-New Haven
+0274	1	US-WI-Green Bay
+0275	1	US-CA-Mountain View
+0276	1	US-CA-Sunnyvale
+0277	1	US-FL-Bradenton
+0278	1	US-FL-Pensacola
+0279	1	US-NC-Raleigh
+0280	1	US-HI-Honolulu
+0281	1	US-RI-Westerly
+0282	1	US-CO-Denver
+0283	1	US-IN-South Bend
+0284	1	US-NJ-Princeton
+0285	1	US-FL-Melbourne
+0286	1	US-WA-Everett
+0287	1	US-PA-Pittsburgh
+0288	1	US-VA-McLean
+0289	1	US-IL-Springfield
+0290	1	US-IL-Deerfield
+0291	1	US-FL-Gainesville
+0292	1	US-NY-Brooklyn
+0293	1	US-NJ-Trenton
+0294	1	US-IL-Rockford
+0295	1	US-CA-Ontario
+0296	1	US-GA-Macon
+0297	1	US-IL-Chicago
+0298	1	US-VA-Newport News
+0299	1	US-GA-Marietta
+0300	1	US-MA-Cambridge
+0301	1	US-NY-Long Island
+0302	1	US-CA-Fremont
+0303	1	US-WA-Redmond
+0304	1	US-AZ-Tempe
+0305	1	US-WA-Bellevue
+0306	1	US-CA-Fresno
+0307	1	US-MI-Lansing
+0308	1	US-WA-Spokane
+0309	1	US-FL-Hollywood
+0310	1	US-LA-Monroe
+0311	1	US-NJ-Parsippany
+0312	1	US-NJ-Morristown
+0313	1	US-MD-Baltimore
+0314	1	US-CA-Pasadena
+0315	1	US-NC-Charlotte
+0316	1	US-TN-Chattanooga
+0317	1	US-MI-Troy
+0318	1	US-KS-Topeka
+0319	1	US-VA-Virginia Beach
+0320	1	US-IN-Lafayette
+0321	1	US-CA-Orange
+0322	1	US-WA-Tacoma
+0323	1	US-VA-Roanoke
+0324	1	US-CA-Santa Monica
+0325	1	US-MA-Waltham
+0326	1	US-NC-Greensboro
+0327	1	US-MD-Frederick
+0328	1	US-FL-Tampa
+0329	1	US-CO-Aurora
+0330	1	US-NJ-Paramus
+0331	1	US-OH-Toledo
+0332	1	US-CA-Santa Ana
+0333	1	US-CA-Santa Clara
+0334	1	US-TX-Houston
+0335	1	US-LA-Lafayette
+0336	1	US-MI-Southfield
+0337	1	US-FL-Tampa
+0338	1	US-CA-Belmont
+0339	1	US-TX-Beaumont
+0340	1	US-VA-Richmond
+0341	1	US-MI-Grand Rapids
+0342	1	US-GA-Atlanta
+0343	1	US-OH-West Chester
+0344	1	US-TX-Plano
+0345	1	US-IL-Moline
+0346	1	US-PA-King of Prussia, PA
+0347	1	US-OH-Dublin
+0348	1	US-MD-Columbia
+0349	1	US-UT-Salt Lake City
+0350	1	US-VA-Alexandria
+0351	1	US-MN-Minneapolis
+0352	1	US-MA-Concord
+0353	1	US-MD-Columbia
+0354	1	US-KY-Louisville
+0355	1	US-VA-Fairfax
+0356	1	US-IL-Chicago
+0357	1	US-IL-Westchester
+0358	1	US-GA-Memorial Health- Savannah GA
+0359	1	US-GA-Memorial Health- Savannah GA
+0360	1	US-NV-Reno
+0361	1	US-MI-Ada
+0362	1	US-CA-Orange County
+0363	1	US-IA-Central/Des Moines
+0364	1	US-VA-McLean/Arlington
+0365	1	US-RI-West Kingston
+0366	1	US-MO-St. Louis
+0367	1	US-SC-Hopkins
+0368	1	US-KY-Florence
+0369	1	US-TX-Carrollton
+0370	1	US-NH-Northern
+0371	1	US-NC-Charlotte
+0372	1	US-NV-Las Vegas
+0373	1	US-NJ-Roseland
+0374	1	US-FL-Winter Park
+0375	1	US-NE-Omaha
+0376	1	US-FL-Orlando
+0377	1	US-OH-Dayton
+0378	1	US-MD-Rockville
+0379	1	US-NJ-Teterboro
+0380	1	US-CA-Hercules
+0381	1	US-OH-Dayton
+0382	1	US-VA-Manassas
+0383	1	US-VA-Arlington
+0384	1	US-NJ-Mount Olive
+0385	1	US-OH-Dayton
+0386	1	US-AR-El Dorado
+0387	1	US-VA-Arlington
+0388	1	US-VA-Arlington
+0389	1	US-AR-El Dorado
+0390	1	US-PA-Doylestown
+0391	1	US-GA-Athens
+0392	1	US-IL-Chicago Loop
+0393	1	US-IL-Chicago
+0394	1	US-IL-Chicago
+0395	1	US-DC-Washington
+0396	1	US-IL-Chicago Loop
+0397	1	US-IL-Chicago
+0398	1	US-IL-Chicago
+0399	1	US-WI-Madison
+0400	1	US-TX-Richardson
+0401	1	US-IL-Naperville
+0402	1	US-IL-Chicago
+0403	1	US-IL-Chicago
+0404	1	US-TX-Richardson
+0405	1	US-OH-Dayton
+0406	1	US-FL-Saint Petersburg
+0407	1	US-VA-Reston
+0408	1	US-NJ-Weehawken
+0409	1	US-FL-Tampa
+0410	1	US-MI-Troy
+0411	1	US-TN-Memphis
+0412	1	US-MI-Livonia
+0413	1	US-FL-Orlando
+0414	1	US-MI-Troy
+0415	1	US-FL-Tampa
+0416	1	US-AZ-Tempe
+0417	1	US-MI-Troy
+0418	1	US-NY-Glens Falls
+0419	1	US-TX-Houston
+0420	1	US-OH-Dayton
+0421	1	US-NJ-New York
+0422	1	US-CA-Hayward
+0423	1	US-NC-Charlotte
+0424	1	US-IL-Chicago
+0425	1	US-WA-Seattle
+0426	1	US-MO-Saint Joseph
+0427	1	US-WI-Menomonee Falls
+0428	1	US-IL-Deerfield
+0429	1	US-WI-Menomonee Falls
+0430	1	US-KS-Olathe
+0431	1	US-NJ-Summit
+0432	1	US-NH-Nashua
+0433	1	US-VA-Mc Lean
+0434	1	US-OH-Cleveland
+0435	1	US-OH-Canton
+0436	1	US-OH-Columbus
+0437	1	US-VA-Arlington
+0438	1	US-VA-Mc Lean
+0439	1	US-OH-Columbus
+0440	1	US-WA-Seattle
+0441	1	US-AZ-Phoenix
+0442	1	US-OH-Dublin
+0443	1	US-TN-Chattanooga
+0444	1	US-VA-Mc Lean
+0445	1	US-MN-Saint Paul
+0446	1	US-IL-Chicago
+0447	1	US-SC-Charleston
+0448	1	US-CO-Colorado Springs
+0449	1	US-OR-Portland
+0450	1	US-FL-Orlando
+0451	1	US-RI-Providence
+0452	1	US-IL-Chicago
+0453	1	US-IL-Moline
+0454	1	US-NY-Johnson City
+0455	1	US-VA-McLean
+0456	1	US-CO-Pueblo
+0457	1	US-CO-Boulder
+0458	1	US-CO-Denver
+0459	1	US-NJ-Weehawken
+0460	1	US-TX-Richardson
+0461	1	US-NY-New York
+0462	1	US-IA-Des Moines
+0463	1	US-IL-Chicago
+0464	1	US-FL-Orlando
+0465	1	US-KY-Louisville
+0466	1	US-WI-Menomonee Falls
+0467	1	US-CO-Colorado Springs
+0468	1	US-IL-Chicago
+0469	1	US-TN-Collierville
+0470	1	US-VA-Fairfax
+0471	1	US-MI-Southfield
+0472	1	US-CA-northern CA
+0473	1	US-TN-Collierville
+0474	1	US-VA-Arlington
+0475	1	US-IL-Schaumburg
+0476	1	US-VA-Fairfax
+0477	1	US-CA-Sunnyvale
+0478	1	US-MO-Kansas City
+0479	1	US-TN-Nashville
+0480	1	US-PA-West Chester
+0481	1	US-GA-South Atlanta
+0482	1	US-TX-Austin
+0483	1	US-GA-Alpharetta
+0484	1	US-TX-Fort Worth
+0485	1	US-NY-New York
+0486	1	US-NJ-Parsippany
+0487	1	US-CT-Hartford
+0488	1	US-FL-Jacksonville
+0489	1	US-NJ-Plainsboro
+0490	1	US-VA-Manassas
+0491	1	US-KY-Louisville
+0492	1	US-PA-Pittsburgh
+0493	1	US-CA-San Diego
+0494	1	US-VA-Annandale
+0495	1	US-VA-Fairfax
+0496	1	US-IA-Iowa City
+0497	1	US-IL-Chicago
+0498	1	US-TX-Houston
+0499	1	US-SC-Greenville
+0500	1	US-GA-Atlanta
+0501	1	US-NY-Sleepy Hollow
+0502	1	US-MI-Galesburg
+0503	1	US-MD-Cumberland
+0504	1	US-TN-Nashville
+0505	1	US-CA-San Francisco
+0506	1	US-FL-Tampa
+0507	1	US-CA-Cupertino
+0508	1	US-FL-Tampa
+0509	1	US-TX-San Antonio
+0510	1	US-IL-Oakbrook Terrace
+0511	1	US-IL-Naperville
+0512	1	US-IL-Loop
+0513	1	US-IL-northern suburbs
+0514	1	US-NC-Charlotte
+0515	1	US-IL-northern suburbs
+0516	1	US-TX-College Station
+0517	1	US-CA-San Francisco
+0518	1	US-CA-southern CA
+0519	1	US-MN-Minneapolis
+0520	1	US-NC-Charlotte
+0521	1	US-MN-Mountain Iron
+0522	1	US-IL-Northbrook
+0523	1	US-NY-Rochester
+0524	1	US-NY-New York
+0525	1	US-TX-Roanoke
+0526	1	US-PA-Pittsburgh
+0527	1	US-IL-Chicago
+0528	1	US-IL-Chicago
+0529	1	US-CA-Aliso Viejo
+0530	1	US-GA-Atlanta
+0531	1	US-CA-Los Angeles
+0532	1	US-TX-Dallas
+0533	1	US-IL-Evanston
+0534	1	US-CA-northern CA
+0535	1	US-VA-Alexandria
+0536	1	US-LA-Shreveport
+0537	1	US-CO-Denver
+0538	1	US-NY-Syracuse
+0539	1	US-KY-Louisville
+0540	1	US-PA-Bryn Mawr
+0541	1	US-CO-Westminster
+0542	1	US-NY-Staten Island
+0543	1	US-MD-Silver Spring
+0544	1	US-VA-Alexandria
+0545	1	US-OH-Dublin
+0546	1	US-CA-San Diego
+0547	1	US-MN-Saint Paul
+0548	1	US-IL-Naperville
+0549	1	US-CA-Agoura Hills
+0550	1	US-IL-Chicago
+0551	1	US-MA-Framingham
+0552	1	US-NC-Charlotte
+0553	1	US-CO-Denver
+0554	1	US-DC-Washington
+0555	1	US-TN-Nashville
+0556	1	US-NE-Lincoln
+0557	1	US-NC-CHARLOTTE
+0558	1	US-CA-SAN FRANCISCO
+0559	1	US-WA-Redmond
+0560	1	US-GA-Atlanta
+0561	1	US-OH-Columbus
+0562	1	US-WA-Redmond
+0563	1	US-TN-Memphis
+0564	1	US-PA-Pittsburgh
+0565	1	US-NY-New York
+0566	1	US-WA-Seattle
+0567	1	US-CA-Los Angeles
+0568	1	US-CA-Los Angeles
+0569	1	US-CA-Los Angeles
+0570	1	US-CA-Los Angeles
+0571	1	US-CA-Emeryville
+0572	1	US-CA-Emeryville
+0573	1	US-WA-Seattle
+0574	1	US-MI-Dearborn
+0575	1	US-NV-Reno
+0576	1	US-MN-Minneapolis
+0577	1	US-MN-Minneapolis
+0578	1	US-MN-Minneapolis
+0579	1	US-IL-Chicago
+0580	1	US-NJ-New Jersey
+0581	1	US-WA-Longview
+0582	1	US-MN-Blaine
+0583	1	US-NY-New York
+0584	1	US-TX-Houston
+0585	1	US-SC-Columbia
+0586	1	US-IL-Moline
+0587	1	US-UT-Salt Lake City
+0588	1	US-CA-San Francisco
+0589	1	US-CA-Redwood City
+0590	1	US-NC-Charlotte
+0591	1	US-FL-Miami
+0592	1	US-IL-Chicago
+0593	1	US-IL-Chicago
+0594	1	US-FL-Fort Lauderdale
+0595	1	US-NY-New York
+0596	1	US-NC-Charlotte
+0597	1	US-NC-Charlotte
+0598	1	US-AZ-Tempe
+0599	1	US-CA-San Francisco
+0600	1	US-MN-Minneapolis
+0601	1	US-CA-San Francisco
+0602	1	US-CA-San Francisco
+0603	1	US-CA-San Francisco
+0604	1	US-CA-San Francisco
+0605	1	US-TX-Dallas
+0606	1	US-IN-Indianapolis
+0607	1	US-NY-Rye
+0608	1	US-NY-Rye
+0609	1	US-FL-Pompano Beach
+0610	1	US-CA-Los Angeles
+0611	1	US-CA-Huntington Beach
+0612	1	US-CA-Huntington Beach
+0613	1	US-MD-Annapolis Junction
+0614	1	US-CA-San Diego
+0615	1	US-WI-Green Bay
+0616	1	US-OH-Wright Patterson AFB
+0617	1	US-IL-North Chicago
+0618	1	US-TX-San Antonio
+0619	1	US-TX-San Antonio
+0620	1	US-KY-Georgetown
+0621	1	US-CA-Sacramento
+0622	1	US-NY-New York
+0623	1	US-CA-Anaheim
+0624	1	US-CO-Colorado Springs
+0625	1	US-NV-Las Vegas
+0626	1	US-KY-Lexington
+0627	1	US-NJ-Newark
+0628	1	US-CT-Hartford
+0629	1	US-AZ-Phoenix
+0630	1	US-FL-Gainesville
+0631	1	US-CA-Pleasanton
+0632	1	US-FL-Tampa
+0633	1	US-MD-Annapolis
+0634	1	US-NJ-Middletown
+0635	1	US-TX-Richardson
+0636	1	US-TX-Richardson
+0637	1	US-VA-Richmond
+0638	1	US-MD-Baltimore
+0639	1	US-VA-Arlington
+0640	1	US-MD-Baltimore
+0641	1	US-NC-Morrisville
+0642	1	US-NJ-Florham Park
+0643	1	US-NJ-Summit
+0644	1	US-MD-Baltimore
+0645	1	US-NC-Charlotte
+0646	1	US-MD-Baltimore
+0647	1	US-NJ-Florham Park
+0648	1	US-NJ-Trenton
+0649	1	US-TX-Plano
+0650	1	US-PA-Upper Gwynedd
+0651	1	US-MD-Baltimore
+0652	1	US-TX-Plano
+0653	1	US-MI-Detroit
+0654	1	US-MI-Detroit
+0655	1	US-IN-Indianapolis
+0656	1	US-VA-Oakton
+0657	1	US-CA-San Diego
+0658	1	US-MI-Pontiac
+0659	1	US-OH-Mason
+0660	1	US-VA-Alexandria
+0661	1	US-IL-Deerfield
+0662	1	US-VA-Arlington
+0663	1	US-TN-Memphis
+0664	1	US-NC-Charlotte
+0665	1	US-CA-Redlands
+0666	1	US-WI-Madison
+0667	1	US-NC-Durham
+0668	1	US-NC-Durham
+0669	1	US-IL-Chicago
+0670	1	US-VA-Herndon
+0671	1	US-NJ-Bedminster
+0672	1	US-NJ-Middletown
+0673	1	US-NY-Rochester
+0674	1	US-GA-Atlanta
+0675	1	US-IN-Indianapolis
+0676	1	US-TX-Austin
+0677	1	US-RI-Providence
+0678	1	US-CT-North Haven
+0679	1	US-GA-Alpharetta
+0680	1	US-GA-Atlanta
+0681	1	US-PA-Wilkes-Barre
+0682	1	US-OK-Oklahoma City
+0683	1	US-MO-Kansas City
+0684	1	US-TX-Dallas
+0685	1	US-TX-Fort Worth
+0686	1	US-NJ-Middletown
+0687	1	US-GA-Atlanta
+0688	1	US-NJ-Middletown
+0689	1	US-NJ-Florham Park
+0690	1	US-NJ-Florham Park
+0691	1	US-NJ-Middletown
+0692	1	US-NJ-Florham Park
+0693	1	US-MO-Saint Louis
+0694	1	US-WI-Milwaukee
+0695	1	US-IL-Hoffman Estates
+0696	1	US-WA-Bothell
+0697	1	US-UT-Salt Lake City
+0698	1	US-FL-Jacksonville
+0699	1	US-CA-Los Angeles
+0700	1	US-MD-Baltimore
+0701	1	US-CA-Calabasas
+0702	1	US-CA-Valencia
+0703	1	US-TX-Houston
+0704	1	US-CA-Carson
+0705	1	US-CO-Grand Junction
+0706	1	US-OH-Columbus
+0707	1	US-NY-New York
+0708	1	US-NC-Charlotte
+0709	1	US-TX-Westlake
+0710	1	US-NY-New York
+0711	1	US-FL-Jacksonville
+0712	1	US-OH-Columbus
+0713	1	US-NY-Syracuse
+0714	1	US-AZ-Phoenix
+0715	1	US-NJ-Princeton
+0716	1	US-WA-Seattle
+0717	1	US-WA-Seattle
+0718	1	US-CA-Chico
+0719	1	US-MO-Saint Louis
+0720	1	US-CO-Thornton
+0721	1	US-CA-Los Angeles
+0722	1	US-NC-Wilmington
+0723	1	US-CO-colorado Springs
+0724	1	US-CO-Denver
+0725	1	US-CO-Grand Junction
+0726	1	US-NV-Las Vegas
+0727	1	US-CA-Los Angeles
+0728	1	US-CO-Denver
+0729	1	US-WI-Milwaukee
+0730	1	US-MN-Minneapolis
+0731	1	US-TX-Austin
+0732	1	US-SC-Charleston
+0733	1	US-TX-Fort Worth
+0734	1	US-TX-San Antonio
+0735	1	US-TX-Houston
+0736	1	US-TX-El Paso
+0737	1	US-TX-Dallas
+0738	1	US-IN-Indianapolis
+0739	1	US-IN-Fort Wayne
+0740	1	US-CA-Brea
+0741	1	US-MD-Annapolis
+0742	1	US-NJ-Middletown
+0743	1	US-TX-Richardson
+0744	1	US-TX-Richardson
+0745	1	US-MD-Baltimore
+0746	1	US-VA-Richmond
+0747	1	US-VA-Arlington
+0748	1	US-MD-Baltimore
+0749	1	US-NC-Morrisville
+0750	1	US-NJ-Summit
+0751	1	US-NC-Charlotte
+0752	1	US-MD-Baltimore
+0753	1	US-CO-Highlands Ranch
+0754	1	US-KY-Louisville
+0755	1	US-NY-New York
+0756	1	US-GA-Downtown
+0757	1	US-NJ-Mount Laurel
+0758	1	US-OK-Fort Sill
+0759	1	US-FL-Orlando
+0760	1	US-NV-Reno
+0761	1	US-CA-Huntington Beach
+0762	1	US-CA-Huntington Beach
+0763	1	US-VA-Herndon
+0764	1	US-VA-Herndon
+0765	1	US-VA-Herndon
+0766	1	US-VA-Herndon
+0767	1	US-MO-Jefferson City
+0768	1	US-NY-New York
+0769	1	US-VA-Richmond
+0770	1	US-TX-Houston
+0771	1	US-TX-Austin
+0772	1	US-TX-Work at Home
+0773	1	US-TX-San Antonio
+0774	1	US-TX-El Paso
+0775	1	US-AZ-Tucson
+0776	1	US-DC-Washington
+0777	1	US-FL-Tampa
+0778	1	US-TX-Austin
+0779	1	US-VA-McLean
+0780	1	US-NE-Lincoln
+0781	1	US-NC-Chapel Hill
+0782	1	US-GA-UNITED STATES-GA-MARIETTA
+0783	1	US-OH-Columbus
+0784	1	US-IL-Mundelein
+0785	1	US-IL-Batavia
+0786	1	US-IL-Chicago
+0787	1	US-IL-NORTHWEST SUBURBS
+0788	1	US-NV-Reno
+0789	1	US-MD-Annapolis Junction
+0790	1	US-VA-Herndon
+0791	1	US-OR-Hillsboro
+0792	1	US-WI-Verona
+0793	1	US-GA-Atlanta
+0794	1	US-WI-Milwaukee
+0795	1	US-MN-Minneapolis
+0796	1	US-MO-Kansas City
+0797	1	US-IL-Chicago
+0798	1	US-WA-Seattle
+0799	1	US-WI-Verona
+0800	1	US-NJ-Cherry Hill
+0801	1	US-MI-Benton Harbor
+0802	1	US-MI-Benton Harbor
+0803	1	US-IL-Chicago
+0804	1	US-NC-Durham
+0805	1	US-CA-San Francisco
+0806	1	US-VA-Richmond
+0807	1	US-GA-Atlanta
+0808	1	US-CA-San Francisco
+0809	1	US-KY-Manchester
+0810	1	US-KY-Manchester
+0811	1	US-KY-Manchester
+0812	1	US-IL-Chicago
+0813	1	US-VA-Arlington
+0814	1	US-OH-Akron
+0815	1	US-NJ-Keasbey
+0816	1	US-UT-Salt Lake City
+0817	1	US-UT-Salt Lake City
+0818	1	US-CA-Irvine
+0819	1	US-UT-Salt Lake City
+0820	1	US-NY-New York
+0821	1	US-NY-New York
+0822	1	US-TX-Temple
+0823	1	US-MI-Southfield
+0824	1	US-MN-Alexandria
+0825	1	US-SC-Sumter
+0826	1	US-TX-Houston
+0827	1	US-MI-Southfield
+0828	1	US-NC-Charlotte
+0829	1	US-VA-Suffolk
+0830	1	US-MA-Boston
+0831	1	US-MA-Boston
+0832	1	US-IL-NORTHERN SUBURBS
+0833	1	US-KS-Olathe
+0834	1	US-IN-*update 12/2
+0835	1	US-VA-Alexandria
+0836	1	US-IL-Niles
+0837	1	US-MN-Minneapolis
+0838	1	US-ME-Portland
+0839	1	US-KS-Overland Park
+0840	1	US-NC-Durham
+0841	1	US-IL-LOOP
+0842	1	US-IL-Chicago
+0843	1	US-CO-Westminster
+0844	1	US-KY-Louisville
+0845	1	US-KY-Louisville
+0846	1	US-KY-Louisville
+0847	1	US-MD-Silver Spring
+0848	1	US-MO-Saint Louis
+0849	1	US-KY-Louisville
+0850	1	US-MN-Arlington
+0851	1	US-TX-Irving
+0852	1	US-GA-Roswell
+0853	1	US-GA-Alpharetta
+0854	1	US-IL-Itasca
+0855	1	US-MO-Troy
+0856	1	US-NY-Rochester
+0857	1	US-NY-Rochester
+0858	1	US-IN-Indianapolis
+0859	1	US-TN-Nashville
+0860	1	US-PA-West Chester
+0861	1	US-CO-Colorado Springs
+0862	1	US-FL-Maitland
+0863	1	US-TX-Houston
+0864	1	US-MO-Saint Louis
+0865	1	US-KS-Kansas City
+0866	1	US-FL-Miami Beach
+0867	1	US-NC-Cary
+0868	1	US-RI-Woonsocket
+0869	1	US-IL-Mettawa
+0870	1	US-TX-Houston
+0871	1	US-IL-Peoria
+0872	1	US-OH-Columbus
+0873	1	US-OH-Dublin
+0874	1	US-OH-Dublin
+0875	1	US-OH-Dublin
+0876	1	US-IL-Deerfield
+0877	1	US-CA-Vandenberg AFB
+0878	1	US-VA-Alexandria
+0879	1	US-VA-Chesapeake
+0880	1	US-GA-Atlanta
+0881	1	US-TX-Houston
+0882	1	US-IL-Naperville
+0883	1	US-MO-Springfield
+0884	1	US-GA-Atlanta
+0885	1	US-CA-Cupertino
+0886	1	US-CA-Redwood City
+0887	1	US-WA-Redmond
+0888	1	US-CA-Newport Beach
+0889	1	US-GA-Norcross
+0890	1	US-WA-Redmond
+0891	1	US-KY-La Grange
+0892	1	US-PA-Cranberry Township
+0893	1	US-NY-Latham
+0894	1	US-MN-Saint Paul
+0895	1	US-DC-Washington
+0896	1	US-OH-Dublin
+0897	1	US-OR-Portland
+0898	1	US-SC-Greenville
+0899	1	US-SC-Greenville
+0900	1	US-TX-San Antonio
+0901	1	US-GA-Atlanta
+0902	1	US-GA-Atlanta
+0903	1	US-FL-Juno Beach
+0904	1	US-FL-Sunrise
+0905	1	US-CO-Englewood
+0906	1	US-CT-Hartford
+0907	1	US-CT-Hartford
+0908	1	US-MA-Hadley
+0909	1	US-CA-San Diego
+0910	1	US-TX-Houston
+0911	1	US-WI-Wisconsin Rapids
+0912	1	US-TN-Parsons
+0913	1	US-MI-Grand Rapids
+0914	1	US-MI-Grand Rapids
+0915	1	US-GA-Marietta
+0916	1	US-KS-Shawnee
+0917	1	US-GA-Norcross
+0918	1	US-MN-Eden Prairie
+0919	1	US-TX-Dallas
+0920	1	US-CT-Danbury
+0921	1	US-MA-Boston
+0922	1	US-IL-Lisle
+0923	1	US-WI-Brookfield
+0924	1	US-MO-Jefferson City
+0925	1	US-NY-Troy
+0926	1	US-TN-Nashville
+0927	1	US-MI-Ann Arbor
+0928	1	US-NY-New York
+0929	1	US-MA-Waltham
+0930	1	US-FL-Alachua
+0931	1	US-TN-Memphis
+0932	1	US-NC-Charlotte
+0933	1	US-NJ-Princeton
+0934	1	US-GA-Norcross
+0935	1	US-CA-Santa Ana
+0936	1	US-MA-Boston
+0937	1	US-TX-Houston
+0938	1	US-SC-Greenville
+0939	1	US-WA-Bellevue
+0940	1	US-TX-DALLAS
+0941	1	US-CA-SUNNYVALE
+0942	1	US-CA-Bay Area
+0943	1	US-IL-Deerfield
+0944	1	US-GA-Alpharetta
+0945	1	US-CA-Irvine
+0946	1	US-MO-Creve Coeur
+0947	1	US-CT-Hartford
+0948	1	US-RI-Providence
+0949	1	US-NY-New York
+0950	1	US-AL-Birmingham
+0951	1	US-WI-Greenfield
+0952	1	US-NJ-Middletown
+0953	1	US-MD-Rockville
+0954	1	US-MA-Wellesley
+0955	1	US-TN-Johnson City
+0956	1	US-NM-Albuquerque
+0957	1	US-IL-Chicago
+0958	1	US-MI-Troy
+0959	1	US-VA-Richmond
+0960	1	US-GA-Flowery Branch
+0961	1	US-CA-Torrance
+0962	1	US-WI-Milwaukee
+0963	1	US-CO-Broomfield
+0964	1	US-DC-Washington
+0965	1	US-TX-Dallas
+0966	1	US-CA-San Jose
+0967	1	US-TX-Hutchins
+0968	1	US-WI-Milwaukee
+0969	1	US-NJ-Middletown
+0970	1	US-NY-Syracuse
+0971	1	US-MA-Norwood
+0972	1	US-NY-Syracuse
+0973	1	US-DC-Washington
+0974	1	US-CO-Denver
+0975	1	US-MN-Richfield
+0976	1	US-TX-Fort Worth
+0977	1	US-NV-Rena
+0978	1	US-NJ-New Brunswick
+0979	1	US-OR-Beaverton
+0980	1	US-FL-Jacksonville
+0981	1	US-AZ-PHOENIX
+0982	1	US-MN-MINNEAPOLIS
+0983	1	US-CA-SAN FRANCISCO
+0984	1	US-NC-CHARLOTTE
+0985	1	US-CA-Monterey
+0986	1	US-FL-Melbourne
+0987	1	US-KY-Louisville
+0988	1	US-CA-West Sacramento
+0989	1	US-TX-Richardson
+0990	1	US-TX-Dallas
+0991	1	US-IL-Warrenville
+0992	1	US-CO-Colorado Springs
+0993	1	US-MD-Lexington Park
+0994	1	US-MD-Lexington Park
+0995	1	US-TX-Dallas
+0996	1	US-TX-Dallas
+0997	1	US-GA-Fort Benning
+0998	1	US-TX-San Antonio
+0999	1	US-TX-Houston
+1000	1	US-TX-San Antonio
+1001	1	US-TX-Addison
+1002	1	US-KY-Louisville
+1003	1	US-TX-Dallas
+1004	1	US-IL-Lombard
+1005	1	US-CA-Los Angeles
+1006	1	US-VA-Crystal City
+1007	1	US-NY-Rochester
+1008	1	US-TX-Dallas
+1009	1	US-CA-Los Angeles
+1010	1	US-CA-Los Angeles
+1011	1	US-KS-Rolla
+1012	1	US-OK-Guymon
+1013	1	US-CT-Hartford
+1014	1	US-VT-Burlington
+1015	1	US-CT-Connecticut
+1016	1	US-CT-Hartford
+1017	1	US-CA-Pleasanton
+1018	1	US-FL-Miami Beach
+1019	1	US-OH-Cincinnati/OH;Dayton/OH;Lexington/KY:Louisville/KY;Columbus/OH
+1020	1	US-UT-Lindon
+1021	1	US-MD-Silver Spring
+1022	1	US-MO-Saint Louis
+1023	1	US-MO-Saint Louis
+1024	1	US-MO-Saint Louis
+1025	1	US-MO-Saint Louis
+1026	1	US-MO-Saint Louis
+1027	1	US-MO-Saint Louis
+1028	1	US-MO-Saint Louis
+1029	1	US-MO-Saint Louis
+1030	1	US-MO-Fenton
+1031	1	US-MO-Fenton
+1032	1	US-NE-Omaha
+1033	1	US-CA-Anaheim
+1034	1	US-CA-Orange County
+1035	1	US-NY-Edgewood
+1036	1	US-NJ-Jersey City
+1037	1	US-GA-Atlanta
+1038	1	US-OR-Hillsboro
+1039	1	US-CA-Clovis
+1040	1	US-VA-Northern
+1041	1	US-PA-Cranberry Township
+1042	1	US-VA-Stafford
+1043	1	US-OH-Cincinnati
+1044	1	US-IN-Columbus
+1045	1	US-MA-Somerville
+1046	1	US-MA-Boston
+1047	1	US-FL-Tampa/st. Petersburg
+1048	1	US-FL-Tampa/st. Petersburg
+1049	1	US-MA-Boston
+1050	1	US-MA-Somerville
+1051	1	US-MA-Boston
+1052	1	US-MA-Boston
+1053	1	US-MA-Somerville
+1054	1	US-FL-Lake Mary
+1055	1	US-MA-Springfield
+1056	1	US-TX-Fort Worth
+1057	1	US-TN-Nashville
+1058	1	US-MI-Flint
+1059	1	US-MI-Troy
+1060	1	US-PA-King of Prussia
+1061	1	US-TN-Goodlettsville
+1062	1	US-MI-Saginaw
+1063	1	US-MI-Grand Rapids
+1064	1	US-NY-New York
+1065	1	US-SC-Greenville
+1066	1	US-IL-Warrenville
+1067	1	US-NY-New York
+1068	1	US-NY-New York
+1069	1	US-GA-Alpharetta
+1070	1	US-NJ-Warren
+1071	1	US-NJ-Warren
+1072	1	US-MI-Auburn Hills
+1073	1	US-MI-Auburn Hills
+1074	1	US-MI-Auburn Hills
+1075	1	US-MI-Auburn Hills
+1076	1	US-MI-Auburn Hills
+1077	1	US-MO-Saint Louis
+1078	1	US-NJ-Edison
+1079	1	US-NJ-Edison
+1080	1	US-NJ-Edison
+1081	1	US-NJ-Edison
+1082	1	US-NJ-Edison
+1083	1	US-IL-Chicago
+1084	1	US-TX-Austin
+1085	1	US-GA-Atlanta
+1086	1	US-GA-Atlanta
+1087	1	US-NJ-Woodbridge
+1088	1	US-SC-Greenville
+1089	1	US-VA-Richmond
+1090	1	US-GA-Atlanta
+1091	1	US-IL-Melrose Park
+1092	1	US-CO-Littleton
+1093	1	US-IL-Chicago
+1094	1	US-PA-West Chester
+1095	1	US-IL-Melrose Park
+1096	1	US-IL-Melrose Park
+1097	1	US-PA-West Chester
+1098	1	US-MN-Minneapolis
+1099	1	US-MD-Baltimore
+1100	1	US-CO-Lakewood
+1101	1	US-MD-Towson
+1102	1	US-NY-New York
+1103	1	US-CO-Colorado Springs
+1104	1	US-CO-Fort Carson
+1105	1	US-TX-Houston
+1106	1	US-TX-Pasadena
+1107	1	US-MO-Earth City
+1108	1	US-CT-Danbury
+1109	1	US-CA-Los Angeles
+1110	1	US-IL-Lincolnshire
+1111	1	US-CA-South San Francisco
+1112	1	US-CO-Arvada
+1113	1	US-WI-Fond du Lac
+1114	1	US-IL-Lisle
+1115	1	US-NY-New York
+1116	1	US-MN-Bloomington
+1117	1	US-CT-Hartford
+1118	1	US-NJ-Parsippany
+1119	1	US-IL-Melrose Park
+1120	1	US-VA-McLean
+1121	1	US-CA-Los Angeles
+1122	1	US-NJ-Clinton
+1123	1	US-IL-Chicago
+1124	1	US-CO-Denver
+1125	1	US-CO-Denver
+1126	1	US-NC-Research Triangle Park
+1127	1	US-UT-Utah County
+1128	1	US-CA-Orange County
+1129	1	US-UT-Salt Lake City
+1130	1	US-UT-Salt Lake City
+1131	1	US-CO-Denver
+1132	1	US-CA-Orange County
+1133	1	US-CO-Denver
+1134	1	US-UT-Salt Lake City
+1135	1	US-CA-Orange County
+1136	1	US-UT-Salt Lake City
+1137	1	US-CA-Orang County
+1138	1	US-UT-Orem
+1139	1	US-CO-Denver
+1140	1	US-TX-AUSTIN
+1141	1	US-NY-New York
+1142	1	US-AR-El Dorado
+1143	1	US-MA-Cambridge
+1144	1	US-IL-Oak Brook
+1145	1	US-IL-Chicago
+1146	1	US-OH-Columbus
+1147	1	US-DC-Washington
+1148	1	US-UT-Salt Lake City
+1149	1	US-MO-Kansas City
+1150	1	US-WA-Seattle
+1151	1	US-MA-Cambridge
+1152	1	US-DC-Washington
+1153	1	US-IL-Chicago
+1154	1	US-TN-Nashville
+1155	1	US-MA-Holyoke
+1156	1	US-PA-Pittsburgh
+1157	1	US-PA-Pittsburgh
+1158	1	US-MD-Baltimore
+1159	1	US-CT-Hartford
+1160	1	US-OH-Columbus
+1161	1	US-VA-Herndon
+1162	1	US-NJ-WESTAMPTON TOWNSHIP
+1163	1	US-CO-colorado springs
+1164	1	US-FL-Tampa
+1165	1	US-FL-Zephyrhills
+1166	1	US-FL-Tampa
+1167	1	US-FL-Tampa
+1168	1	US-CA-Burbank
+1169	1	US-CA-San Mateo
+1170	1	US-VA-Falls Church
+1171	1	US-CT-Norwalk
+1172	1	US-MA-Waltham
+1173	1	US-NJ-Florham Park
+1174	1	US-NJ-Middletown
+1175	1	US-NE-Lincoln
+1176	1	US-CA-Anaheim
+1177	1	US-CA-Anaheim
+1178	1	US-CA-Anaheim
+1179	1	US-TX-Plano
+1180	1	US-NV-Las Vegas
+1181	1	US-TX-The Woodlands
+1182	1	US-OR-Hillsboro
+1183	1	US-OR-Hillsboro
+1184	1	US-CA-Santa Rosa
+1185	1	US-TX-Richardson
+1186	1	US-OR-Hillsboro
+1187	1	US-NY-Corning
+1188	1	US-MO-Saint Louis
+1189	1	US-CA-Riverside County
+1190	1	US-WI-Madison
+1191	1	US-MA-Boston
+1192	1	US-GA-Atlanta
+1193	1	US-GA-Atlanta
+1194	1	US-MA-Pittsfield
+1195	1	US-MO-Saint Louis
+1196	1	US-MA-Pittsfield
+1197	1	US-MA-Pittsfield
+1198	1	US-TX-Garland
+1199	1	US-MA-Pittsfield
+1200	1	US-WA-Seattle
+1201	1	US-KY-Louisville
+1202	1	US-MI-Benton Harbor
+1203	1	US-MI-Troy
+1204	1	US-MA-Boston
+1205	1	US-WI-Verona
+1206	1	US-OH-Columbus
+1207	1	US-CO-Denver
+1208	1	US-IL-Chicago
+1209	1	US-GA-Atlanta
+1210	1	US-WI-Madison
+1211	1	US-MO-Kansas City
+1212	1	US-CA-Mountain View
+1213	1	US-MN-Minneapolis
+1214	1	US-NY-New York
+1215	1	US-NC-Charlotte
+1216	1	US-GA-Atlanta
+1217	1	US-IN-Indianapolis
+1218	1	US-MI-Dearborn
+1219	1	US-MA-Boston
+1220	1	US-MI-Dearborn
+1221	1	US-MD-Largo
+1222	1	US-VA-Reston
+1223	1	US-MD-Largo
+1224	1	US-OK-Oklahoma City
+1225	1	US-WI-Green Bay
+1226	1	US-MA-Newton
+1227	1	US-MI-Detroit
+1228	1	US-OR-Portland
+1229	1	US-WI-Madison
+1230	1	US-TN-Knoxville
+1231	1	US-TX-Houston
+1232	1	US-VA-Norfolk
+1233	1	US-CO-Denver
+1234	1	US-CA-Fresno
+1235	1	US-WI-Milwaukee
+1236	1	US-SC-Greenville
+1237	1	US-CA-Palm Springs
+1238	1	US-FL-Orlando
+1239	1	US-FL-Jacksonville
+1240	1	US-GA-Atlanta
+1241	1	US-NY-Rochester
+1242	1	US-NY-West Seneca
+1243	1	US-VA-McLean
+1244	1	US-MA-Boston
+1245	1	US-TX-Plano
+1246	1	US-NC-Raleigh
+1247	1	US-PA-Philadelphia
+1248	1	US-MI-NoMetro Detroit
+1249	1	US-VA-McLean
+1250	1	US-MD-Annapolis Junction
+1251	1	US-NV-Reno
+1252	1	US-VA-Richmond
+1253	1	US-KY-Louisville
+1254	1	US-NC-Morrisville
+1255	1	US-MD-Annapolis Junction
+1256	1	US-OH-Dayton
+1257	1	US-OH-Dayton
+1258	1	US-GA-Columbus
+1259	1	US-NY-New York
+1260	1	US-NY-New York
+1261	1	US-NY-New York
+1262	1	US-MA-Canton
+1263	1	US-GA-Atlanta
+1264	1	US-VA-Hampton
+1265	1	US-NC-Cary
+1266	1	US-GA-Alpharetta
+1267	1	US-VA-Falls Church
+1268	1	US-IN-Bedford
+1269	1	US-DE-Newark
+1270	1	US-TX-San Antonio
+1271	1	US-VA-Hampton
+1272	1	US-DE-Wilmington
+1273	1	US-OH-Dayton
+1274	1	US-CA-Hayward
+1275	1	US-GA-Lawrenceville
+1276	1	US-NY-New York
+1277	1	US-IL-Lisle
+1278	1	US-IL-Lisle
+1279	1	US-IL-Lisle
+1280	1	US-WA-Seattle
+1281	1	US-FL-Orlando
+1282	1	US-IL-Lisle
+1283	1	US-CA-Vernon
+1284	1	US-MO-Saint Louis
+1285	1	US-VA-Richmond
+1286	1	US-SC-Greenville
+1287	1	US-MI-Midland
+1288	1	US-TX-Ft Worth
+1289	1	US-VA-Oakton
+1290	1	US-NC-Charlotte
+1291	1	US-MI-Midland
+1292	1	US-GA-Atlanta
+1293	1	US-GA-Atlanta
+1294	1	US-CA-San Francisco
+1295	1	US-DC-Washington
+1296	1	US-RI-Providence
+1297	1	US-MI-Southfield
+1298	1	US-NW-Djibouti, Africa
+1299	1	US-FL-Orlando
+1300	1	US-TX-Dallas/Fort Worth
+1301	1	US-PA-Warrendale
+1302	1	US-CA-Ontario
+1303	1	US-WA-Seattle
+1304	1	US-WA-Seattle
+1305	1	US-NC-Charlotte
+1306	1	US-NC-Camp Lejeune
+1307	1	US-CA-Santa Ana
+1308	1	US-WI-Madison
+1309	1	US-CA-Santa Ana
+1310	1	US-CO-Denver
+1311	1	US-MI-Grand Rapids
+1312	1	US-VA-Fairfax
+1313	1	US-PA-Pittsburgh
+1314	1	US-GA-Atlanta
+1315	1	US-IL-Schaumburg
+1316	1	US-MN-Saint Paul
+1317	1	US-FL-Delray
+1318	1	US-MA-Boston
+1319	1	US-IL-Naperville
+1320	1	US-TX-Houston
+1321	1	US-IL-Bensenville
+1322	1	US-VA-Reston
+1323	1	US-IL-Chicago Western Suburbs
+1324	1	US-IL-Chicago
+1325	1	US-VA-Most Major US Cities
+1326	1	US-IL-Chicago Western Suburbs
+1327	1	US-PA-Philadelphia
+1328	1	US-NC-Charlotte
+1329	1	US-KS-Shawnee
+1330	1	US-MO-Maryland Heights
+1331	1	US-CA-San Jose
+1332	1	US-CA-Orange County
+1333	1	US-VA-Roanoke
+1334	1	US-VA-Roanoke
+1335	1	US-IL-Naperville
+1336	1	US-FL-Jacksonville
+1337	1	US-CA-Foster City
+1338	1	US-FL-Jacksonville
+1339	1	US-NY-Rochester
+1340	1	US-PA-Pittsburgh
+1341	1	US-TX-Brownsville
+1342	1	US-CA-Campbell
+1343	1	US-CA-Campbell
+1344	1	US-FL-Tampa
+1345	1	US-UT-Salt Lake City
+1346	1	US-UT-Salt Lake City
+1347	1	US-UT-Salt Lake City
+1348	1	US-UT-Salt Lake City
+1349	1	US-IN-Valparaiso
+1350	1	US-NY-New York
+1351	1	US-NY-New York
+1352	1	US-CA-Emeryville
+1353	1	US-CA-Los Angeles
+1354	1	US-NJ-Warren
+1355	1	US-IA-Urbandale
+1356	1	US-CA-Sunnyvale
+1357	1	US-IL-Schaumburg
+1358	1	US-NY-New York
+1359	1	US-DE-Wilmington
+1360	1	US-FL-Tampa
+1361	1	US-OH-Columbus
+1362	1	US-CA-San Diego
+1363	1	US-IL-Riverwoods
+1364	1	US-FL-Tampa
+1365	1	US-OH-Columbus
+1366	1	US-TN-Downtown Nashville
+1367	1	US-TN-Nashville
+1368	1	US-TN-Nashville
+1369	1	US-IL-Lisle
+1370	1	US-NC-Cary
+1371	1	US-CA-San Francisco
+1372	1	US-MI-Midland
+1373	1	US-FL-Jacksonville
+1374	1	US-FL-Miami
+1375	1	US-FL-Orlando
+1376	1	US-NJ-Stratford
+1377	1	US-GA-Alpharetta, GA
+1378	1	US-GA-Atlanta
+1379	1	US-MO-Saint Louis
+1380	1	US-CA-San Francisco
+1381	1	US-ME-Scarborough
+1382	1	US-FL-Jacksonville
+1383	1	US-WA-Seattle
+1384	1	US-IL-Lisle
+1385	1	US-VA-Arlington
+1386	1	US-ME-Scarborough
+1387	1	US-ME-Scarborough
+1388	1	US-CA-CALIFORNIA-SAN FRANCISCO
+1389	1	US-TX-Carrollton
+1390	1	US-NJ-Summit
+1391	1	US-TX-Dallas
+1392	1	US-TX-Houston
+1393	1	US-WI-Madison
+1394	1	US-TX-Richardson
+1395	1	US-TX-Dallas
+1396	1	US-TX-Dallas
+1397	1	US-CA-Sunnyvale
+1398	1	US-IL-Downers Grove
+1399	1	US-CA-Sunnyvale
+1400	1	US-CA-Sacramento
+1401	1	US-NY-New York
+1402	1	US-TN-Nashville Or Akron, Oh
+1403	1	US-CT-East Hartford
+1404	1	US-CT-East Hartford
+1405	1	US-CT-East Hartford
+1406	1	US-CT-East Hartford
+1407	1	US-NY-Horseheads
+1408	1	US-GA-Atlanta
+1409	1	US-NJ-Middletown
+1410	1	US-IL-Chicago
+1411	1	US-IL-Chicago
+1412	1	US-CA-San Francisco
+1413	1	US-MO-Saint Louis
+1414	1	US-PA-Wayne
+1415	1	US-CA-Glendale
+1416	1	US-CA-San Bernardino
+1417	1	US-TX-Irving
+1418	1	US-WA-Tacoma
+1419	1	US-NC-Winston Salem
+1420	1	US-CA-Oxnard
+1421	1	US-CA-Los Angeles
+1422	1	US-NY-New York
+1423	1	US-AZ-Phoenix
+1424	1	US-IL-Chicago Northwest Suburbs
+1425	1	US-TX-Dallas
+1426	1	US-WA-Seattle
+1427	1	US-FL-Tampa
+1428	1	US-VA-Arlington
+1429	1	US-MA-Worcester
+1430	1	US-VA-Newport News
+1431	1	US-CA-Newhall
+1432	1	US-AZ-Gilbert
+1433	1	US-FL-Fort Lauderdale
+1434	1	US-IL-Aurora
+1435	1	US-CA-Rancho Cucamonga
+1436	1	US-CA-Garden Grove
+1437	1	US-KS-Mission
+1438	1	US-KS-Overland Park
+1439	1	US-AZ-Chandler
+1440	1	US-WI-Green Bay
+1441	1	US-VA-Chantilly
+1442	1	US-MI-East Lansing
+1443	1	US-MI-East Lansing
+1444	1	US-DC-Washington
+1445	1	US-DC-Washington
+1446	1	US-TX-Austin
+1447	1	US-DC-Washington
+1448	1	US-NY-Rochester
+1449	1	US-DC-Washington
+1450	1	US-CA-Hawthorne
+1451	1	US-NY-Emeryville
+1452	1	US-CO-Colorado Springs
+1453	1	US-NY-Yorktown Heights
+1454	1	US-NY-Armonk
+1455	1	US-NY-Armonk
+1456	1	US-NY-Armonk
+1457	1	US-NY-Armonk
+1458	1	US-GA-Atlanta
+1459	1	US-NY-Armonk
+1460	1	US-VA-Bentonville
+1461	1	US-NC-Charlotte
+1462	1	US-DC-Washington
+1463	1	US-MI-East Lansing
+1464	1	US-NY-Armonk
+1465	1	US-NY-Armonk
+1466	1	US-MI-East Lansing
+1467	1	US-NY-Armonk
+1468	1	US-NY-Armonk
+1469	1	US-NY-Armonk
+1470	1	US-NY-Armonk
+1471	1	US-NY-Armonk
+1472	1	US-NY-Armonk
+1473	1	US-NY-Armonk
+1474	1	US-TX-Austin
+1475	1	US-MO-Columbia
+1476	1	US-NY-Armonk
+1477	1	US-MO-Columbia
+1478	1	US-NY-Armonk
+1479	1	US-NY-Armonk
+1480	1	US-MO-Columbia
+1481	1	US-MO-Columbia
+1482	1	US-MO-Columbia
+1483	1	US-MO-Columbia
+1484	1	US-IA-Dubuque
+1485	1	US-NY-Armonk
+1486	1	US-CT-Westford
+1487	1	US-NY-Armonk
+1488	1	US-NY-Armonk
+1489	1	US-NY-Armonk
+1490	1	US-NY-Armonk
+1491	1	US-NY-Armonk
+1492	1	US-NY-Armonk
+1493	1	US-NY-Armonk
+1494	1	US-NY-Armonk
+1495	1	US-NY-Armonk
+1496	1	US-MO-Columbia
+1497	1	US-MO-Columbia
+1498	1	US-MO-Columbia
+1499	1	US-CO-Colorado Springs
+1500	1	US-MO-Columbia
+1501	1	US-MO-Columbia
+1502	1	US-NY-Armonk
+1503	1	US-NY-Armonk
+1504	1	US-MD-Annapolis Junction
+1505	1	US-DC-Washington
+1506	1	US-IA-Dubuque
+1507	1	US-NY-Armonk
+1508	1	US-CA-Hawthorne
+1509	1	US-NY-Armonk
+1510	1	US-NY-Armonk
+1511	1	US-NY-Armonk
+1512	1	US-NY-Armonk
+1513	1	US-DC-Washington
+1514	1	US-CA-Walnut Creek
+1515	1	US-NY-Armonk
+1516	1	US-NY-Armonk
+1517	1	US-NY-Armonk
+1518	1	US-NY-Armonk
+1519	1	US-NY-Armonk
+1520	1	US-NY-Armonk
+1521	1	US-NY-Armonk
+1522	1	US-NY-Armonk
+1523	1	US-NY-Armonk
+1524	1	US-MO-Columbia
+1525	1	US-IL-Chicago
+1526	1	US-NY-Armonk
+1527	1	US-CA-Hawthorne
+1528	1	US-MO-Columbia
+1529	1	US-NY-Armonk
+1530	1	US-IA-Dubuque
+1531	1	US-NY-Armonk
+1532	1	US-NY-Armonk
+1533	1	US-IN-Cincinnati
+1534	1	US-CA-San Jose
+1535	1	US-NY-Armonk
+1536	1	US-TX-Dallas
+1537	1	US-OH-Springfield
+1538	1	US-CO-Littleton
+1539	1	US-NY-Armonk
+1540	1	US-NY-Armonk
+1541	1	US-NY-Armonk
+1542	1	US-AK-Mountain View
+1543	1	US-NY-Armonk
+1544	1	US-NY-Armonk
+1545	1	US-CA-San Jose
+1546	1	US-CO-Boulder
+1547	1	US-MA-Lowell
+1548	1	US-NC-Research Triangle Park
+1549	1	US-NC-Research Triangle Park
+1550	1	US-NY-Armonk
+1551	1	US-NY-Armonk
+1552	1	US-NY-Armonk
+1553	1	US-NY-Armonk
+1554	1	US-NY-Armonk
+1555	1	US-NY-Rochester
+1556	1	US-MD-Bethesda
+1557	1	US-CA-San Jose
+1558	1	US-NY-Armonk
+1559	1	US-NY-Armonk
+1560	1	US-TX-Austin
+1561	1	US-NY-Armonk
+1562	1	US-NY-Dublin
+1563	1	US-NY-New York
+1564	1	US-CA-Hawthorne
+1565	1	US-NY-Armonk
+1566	1	US-CA-Hawthorne
+1567	1	US-MI-East Lansing
+1568	1	US-MI-East Lansing
+1569	1	US-MI-East Lansing
+1570	1	US-VT-Essex Junction
+1571	1	US-NY-Armonk
+1572	1	US-MD-Annapolis Junction
+1573	1	US-TX-Austin
+1574	1	US-NY-Armonk
+1575	1	US-OR-Beaverton
+1576	1	US-MA-Cambridge
+1577	1	US-OR-Beaverton
+1578	1	US-MO-Columbia
+1579	1	US-MO-Columbia
+1580	1	US-MO-Columbia
+1581	1	US-WA-Seattle
+1582	1	US-NY-New York
+1583	1	US-MD-Baltimore
+1584	1	US-AZ-Phoenix
+1585	1	US-MO-Jefferson City
+1586	1	US-FL-Miami
+1587	1	US-OR-Hillsboro
+1588	1	US-OR-Hillsboro
+1589	1	US-MN-Minneapolis
+1590	1	US-MI-Grand Rapids
+1591	1	US-CA-Los Angeles
+1592	1	US-MD-Bethesda
+1593	1	US-FL-Naples
+1594	1	US-PA-Hartford
+1595	1	US-FL-Tampa
+1596	1	US-MA-Boston
+1597	1	US-KS-Wichita
+1598	1	US-MI-Detroit
+1599	1	US-FL-Saint Petersburg
+1600	1	US-NY-New York
+1601	1	US-NY-New York
+1602	1	US-GA-Norcross
+1603	1	US-VA-Richmond
+1604	1	US-MA-Woburn
+1605	1	US-MA-Boston
+1606	1	US-CA-Lake Forest
+1607	1	US-CA-Lake Forest
+1608	1	US-CA-Lake Forest
+1609	1	US-CA-Lake Forest
+1610	1	US-CA-Lake Forest
+1611	1	US-NY-New York
+1612	1	US-PA-Pittsburgh
+1613	1	US-GA-Norcross
+1614	1	US-GA-Atlanta
+1615	1	US-IN-Jeffersonville
+1616	1	US-CA-Pleasanton
+1617	1	US-IL-Deerfield
+1618	1	US-IL-Deerfield
+1619	1	US-IL-Deerfield
+1620	1	US-WI-Milwaukee
+1621	1	US-KY-Louisville
+1622	1	US-IL-Hoffman Estates
+1623	1	US-TX-San Antonio
+1624	1	US-VA-Hampton
+1625	1	US-ID-Boise
+1626	1	US-VA-Richmond
+1627	1	US-GA-Alpharetta
+1628	1	US-KY-Louisville
+1629	1	US-OH-Dayton
+1630	1	US-KY-Louisville
+1631	1	US-MN-Minneapolis
+1632	1	US-CO-Denver
+1633	1	US-IL-Batavia
+1634	1	US-DC-Most Major US Cities
+1635	1	US-IL-Most Major US Cities
+1636	1	US-IL-Chicago Loop
+1637	1	US-TX-Austin or Houston, TX
+1638	1	US-UT-Ogden
+1639	1	US-UT-Provo
+1640	1	US-CA-Irvine
+1641	1	US-IL-Evanston
+1642	1	US-VA-Hampton
+1643	1	US-VA-Richmond
+1644	1	US-IL-Chicago
+1645	1	US-KY-Lexington
+1646	1	US-NM-Las Cruces
+1647	1	US-IL-Hoffman Estates
+1648	1	US-KY-Louisville
+1649	1	US-PA-Pittsburgh
+1650	1	US-TX-Austin
+1651	1	US-VA-Hampton
+1652	1	US-NJ-Newark
+1653	1	US-MO-Liberty
+1654	1	US-KY-Louisville
+1655	1	US-FL-Saint Petersburg
+1656	1	US-CT-New Haven
+1657	1	US-NC-Charlotte
+1658	1	US-IN-Indianapolis
+1659	1	US-PA-Newtown Square
+1660	1	US-CA-Carlsbad
+1661	1	US-IL-Melrose Park
+1662	1	US-CA-Calabasas
+1663	1	US-CO-Denver
+1664	1	US-CA-Calabasas
+1665	1	US-CA-Irvine
+1666	1	US-MA-Boston
+1667	1	US-TX-San Antonio
+1668	1	US-NC-Morrisville
+1669	1	US-TN-Memphis
+1670	1	US-PA-Moosic
+1671	1	US-FL-Miramar
+1672	1	US-FL-Miramar
+1673	1	US-NC-Charlotte
+1674	1	US-MI-Pontiac
+1675	1	US-NY-Purchase
+1676	1	US-FL-Tampa
+1677	1	US-WA-Seattle
+1678	1	US-ID-Boise
+1679	1	US-IA-Des Moines
+1680	1	US-NC-Charlotte
+1681	1	US-SC-Greenville
+1682	1	US-IL-Deerfield
+1683	1	US-MN-Twin Cities
+1684	1	US-NY-Goshen
+1685	1	US-PA-Plymouth Meeting
+1686	1	US-OH-Columbus
+1687	1	US-GA-Atlanta
+1688	1	US-OH-Dayton
+1689	1	US-CO-Lakewood
+1690	1	US-CO-Denver
+1691	1	US-NY-New York
+1692	1	US-IL-Chicago
+1693	1	US-NC-Charlotte
+1694	1	US-VA-McLean
+1695	1	US-IL-Chicago
+1696	1	US-AZ-Scottsdale
+1697	1	US-IL-Deerfield
+1698	1	US-MN-Twin Cities
+1699	1	US-CA-Sacramento
+1700	1	US-GA-Atlanta
+1701	1	US-GA-Alpharetta, GA
+1702	1	US-GA-Lawrenceville
+1703	1	US-NY-New York
+1704	1	US-MI-Detroit
+1705	1	US-NJ-Iselin
+1706	1	US-FL-Miami Beach
+1707	1	US-PA-Horsham
+1708	1	US-MA-Boston
+1709	1	US-NJ-New Jersey
+1710	1	US-CA-San Francisco
+1711	1	US-CA-San Francisco
+1712	1	US-CA-San Francisco
+1713	1	US-KS-Wichita
+1714	1	US-FL-Tampa
+1715	1	US-CA-Los Angeles
+1716	1	US-IL-Northbrook
+1717	1	US-NY-New York
+1718	1	US-CO-Denver
+1719	1	US-MI-Southfield
+1720	1	US-MI-Troy
+1721	1	US-VA-Oakton
+1722	1	US-VA-Fairfax
+1723	1	US-TX-Harlingen
+1724	1	US-VA-Fairfax
+1725	1	US-TX-San Antonio
+1726	1	US-DC-Washington
+1727	1	US-KS-Wichita
+1728	1	US-IL-Oak Brook
+1729	1	US-IL-Moline
+1730	1	US-NY-New York
+1731	1	US-MI-Lansing
+1732	1	US-MI-Flint
+1733	1	US-PA-Wilkes Barre
+1734	1	US-NJ-Mount Laurel
+1735	1	US-CA-East Bay
+1736	1	US-AZ-Scottsdale
+1737	1	US-MO-Saint Charles
+1738	1	US-ID-Boise
+1739	1	US-IL-Lincolnshire
+1740	1	US-NY-New York
+1741	1	US-NC-Greensboro
+1742	1	US-IL-Chicago
+1743	1	US-TX-Plano
+1744	1	US-NY-New York
+1745	1	US-NY-New York
+1746	1	US-CA-Sunnyvale
+1747	1	US-FL-Altamonte Springs
+1748	1	US-MA-Dorchester
+1749	1	US-UT-Provo
+1750	1	US-CA-Sunnyvale
+1751	1	US-CA-Milpitas
+1752	1	US-OR-Portland
+1753	1	US-CA-San Mateo
+1754	1	US-CA-Santa Clara
+1755	1	US-WA-Redmond
+1756	1	US-CA-Sunnyvale
+1757	1	US-VA-Richmond
+1758	1	US-KY-Lexington
+1759	1	US-FL-Tampa
+1760	1	US-IL-Melrose Park
+1761	1	US-NJ-Florham Park
+1762	1	US-NY-Poughkeepsie
+1763	1	US-CT-Middletown
+1764	1	US-CO-Fort Collins
+1765	1	US-NC-Raleigh
+1766	1	US-NC-Raleigh
+1767	1	US-NC-Raleigh
+1768	1	US-NC-Raleigh
+1769	1	US-CA-Campbell
+1770	1	US-CA-Westlake Village
+1771	1	US-NC-Raleigh
+1772	1	US-WI-Madison
+1773	1	US-NY-Painted Post
+1774	1	US-KY-Louisville
+1775	1	US-TX-McAllen
+1776	1	US-NY-Armonk
+1777	1	US-NY-Armonk
+1778	1	US-NY-Armonk
+1779	1	US-NY-Armonk
+1780	1	US-NY-Armonk
+1781	1	US-NY-Armonk
+1782	1	US-NC-Durham
+1783	1	US-NY-New York
+1784	1	US-IA-Dubuque
+1785	1	US-WV-Rocket Center
+1786	1	US-AZ-Tucson
+1787	1	US-NY-Yorktown Heights
+1788	1	US-IN-Ft Wayne
+1789	1	US-CO-Wheat Ridge
+1790	1	US-NY-Edgewood
+1791	1	US-CA-Orange County
+1792	1	US-CA-Clovis
+1793	1	US-TX-Coppell
+1794	1	US-NH-Northern
+1795	1	US-AZ-Phoenix
+1796	1	US-NC-Charlotte
+1797	1	US-NV-Las Vegas
+1798	1	US-NC-Charlotte
+1799	1	US-TN-Nashville
+1800	1	US-MA-Boston
+1801	1	US-IL-Chicago
+1802	1	US-OH-Dublin
+1803	1	US-FL-Orlando
+1804	1	US-MA-Babson Park
+1805	1	US-MI-Detroit
+1806	1	US-FL-Alachua
+1807	1	US-FL-Alachua
+1808	1	US-WA-Seattle
+1809	1	US-MI-Kalamazoo
+1810	1	US-NC-Raleigh
+1811	1	US-MA-Andover
+1812	1	US-MO-Kansas City
+1813	1	US-MA-Dorchester
+1814	1	US-CT-Newington
+1815	1	US-IL-Bloomington
+1816	1	US-IL-Villa Park
+1817	1	US-NC-Charlotte
+1818	1	US-MD-Lexington Park
+1819	1	US-IL-Harvey
+1820	1	US-VA-Falls Church
+1821	1	US-DC-Washington
+1822	1	US-KS-Shawnee
+1823	1	US-MA-Boston
+1824	1	US-NY-New York
+1825	1	US-WI-Fond du Lac
+1826	1	US-NY-New York
+1827	1	US-DC-Washington
+1828	1	US-PA-Pittsburgh
+1829	1	US-KS-Rolla
+1830	1	US-MO-Saint Louis
+1831	1	US-AL-Detroit
+1832	1	US-CA-San Diego
+1833	1	US-DE-Wilmington
+1834	1	US-NY-Hicksville
+1835	1	US-MI-Ann Arbor
+1836	1	US-PA-Broomall
+1837	1	US-MA-Boston
+1838	1	US-VA-Quantico
+1839	1	US-NC-Morrisville
+1840	1	US-TN-Memphis
+1841	1	US-VA-Afghanistan
+1842	1	US-IL-Hoffman Estates
+1843	1	US-PA-Greensburg
+1844	1	US-IN-*Updated 11/22
+1845	1	US-TX-Plano
+1846	1	US-WA-Redmond
+1847	1	US-KY-Louisville
+1848	1	US-CA-Bay Area
+1849	1	US-NC-Raleigh
+1850	1	US-WI-Milwaukee
+1851	1	US-MO-Clayton
+1852	1	US-VA-Reston
+1853	1	US-CA-San Diego
+1854	1	US-GA-Alpharetta
+1855	1	US-MA-Boston
+1856	1	US-FL-Coral Gables
+1857	1	US-WA-Tacoma
+1858	1	US-WA-Seattle
+1859	1	US-CA-Los Angeles
+1860	1	US-OH-Akron
+1861	1	US-VA-Alexandria
+1862	1	US-NM-Albuquerque
+1863	1	US-NY-Albany
+1864	1	US-GA-Alpharetta
+1865	1	US-CA-Anaheim
+1866	1	US-MD-Annapolis
+1867	1	US-AK-Anchorage
+1868	1	US-MI-Ann Arbor
+1869	1	US-WI-Appleton
+1870	1	US-TX-Arlington
+1871	1	US-VA-Arlington
+1872	1	US-NJ-Asbury Park
+1873	1	US-GA-Atlanta
+1874	1	US-GA-Augusta
+1875	1	US-CO-Aurora
+1876	1	US-NC-Asheville
+1877	1	US-IL-Aurora
+1878	1	US-TX-Austin
+1879	1	US-CA-Bakersfield
+1880	1	US-LA-Baton Rouge
+1881	1	US-WA-Bellevue
+1882	1	US-IL-Belleville
+1883	1	US-MD-Baltimore
+1884	1	US-AR-Bentonville
+1885	1	US-NY-Binghamton
+1886	1	US-MS-Biloxi
+1887	1	US-MA-Boston
+1888	1	US-AL-Birmingham
+1889	1	US-CO-Boulder
+1890	1	US-NY-Buffalo
+1891	1	US-FL-Bradenton
+1892	1	US-CA-Burbank
+1893	1	US-MA-Cambridge
+1894	1	US-NC-Charlotte
+1895	1	US-TN-Chattanooga
+1896	1	US-AZ-Chandler
+1897	1	US-VA-Chantilly
+1898	1	US-TN-Nashville
+1899	1	US-CA-Torrance
+1900	1	US-CA-Pleasanton
+1901	1	US-VA-Herndon
+1902	1	US-NC-11/24/2010
+1903	1	US-OH-Columbus
+1904	1	US-MD-Germantown
+1905	1	US-FL-Tampa
+1906	1	US-IL-Naperville
+1907	1	US-MI-Genesee County, MI
+1908	1	US-UT-Salt Lake City
+1909	1	US-MA-Boston
+1910	1	US-TX-Dallas
+1911	1	US-OH-Cincinnati
+1912	1	US-IL-Chicago
+1913	1	US-MA-Boston
+1914	1	US-SC-Greenville
+1915	1	US-MI-Troy
+1916	1	US-NY-Ithaca
+1917	1	US-MA-Boston
+1918	1	US-NY-New York
+1919	1	US-VA-Dunn Loring
+1920	1	US-VA-Fairfax
+1921	1	US-MD-Potomac
+1922	1	US-MD-Potomac
+1923	1	US-WI-Pleasant Prairie
+1924	1	US-VA-Vienna
+1925	1	US-VA-DC Metro
+1926	1	US-IN-Indianapolis
+1927	1	US-VA-Arlington
+1928	1	US-MA-Boston
+1929	1	US-GA-Marietta
+1930	1	US-CO-Denver
+1931	1	US-AZ-Phoenix
+1932	1	US-GA-Atlanta
+1933	1	US-GA-Atlanta
+1934	1	US-VA-Reston
+1935	1	US-VA-Vienna
+1936	1	US-VA-Reston
+1937	1	US-VA-Chantilly
+1938	1	US-NY-any US city - telecommute
+1939	1	US-GA-Atlanta
+1940	1	US-IL-Westmont
+1941	1	US-WI-Madison
+1942	1	US-IA-Des Moines
+1943	1	US-MA-Boston
+1944	1	US-SC-Charleston
+1945	1	US-SC-Charleston
+1946	1	US-NY-New York
+1947	1	US-MI-Detroit
+1948	1	US-IA-Quad Cities Area
+1949	1	US-TX-DFW
+1950	1	US-IA-Iowa City
+1951	1	US-IL-Chicago
+1952	1	US-GA-Atlanta
+1953	1	US-IL-downtown loop
+1954	1	US-WI-11/18/2010
+1955	1	US-IL-Peoria, IL
+1956	1	US-TX-Houston
+1957	1	US-FL-Orlando
+1958	1	US-FL-Boca
+1959	1	US-IL-Chicago
+1960	1	US-CA-Palo Alto
+1961	1	US-DC-Washington
+1962	1	US-FL-Boca Raton
+1963	1	US-MA-Boston
+1964	1	US-MO-Kansas City
+1965	1	US-IL-Chicago
+1966	1	US-MA-Marlborough
+1967	1	US-NM-Farmington
+1968	1	US-MA-Boston
+1969	1	US-PA-Cranberry Township
+1970	1	US-CA-San Francisco
+1971	1	US-CA-San Diego
+1972	1	US-WA-Seattle
+1973	1	US-OR-Portland
+1974	1	US-NV-Las Vegas
+1975	1	US-AZ-Phoenix
+1976	1	US-UT-Logan
+1977	1	US-UT-Ogden
+1978	1	US-CO-Denver
+1979	1	US-ID-Boise
+1980	1	US-UT-Provo
+1981	1	US-UT-Salt Lake City
+1982	1	US-OR-Portland
+1983	1	US-WA-Seattle
+1984	1	US-NV-Las Vegas
+1985	1	US-CA-San Francisco
+1986	1	US-AZ-Phoenix
+1987	1	US-UT-Provo
+1988	1	US-UT-Salt Lake City
+1989	1	US-NC-Huntersville
+1990	1	US-VA-Alexandria
+1991	1	US-GA-Alpharetta
+1992	1	US-CT-Stamford
+1993	1	US-FL-Tampa
+1994	1	US-TX-San Antonio
+1995	1	US-SC-Myrtle Beach
+1996	1	US-WA-Seattle
+1997	1	US-FL-Tavares
+1998	1	US-GA-Atlanta
+1999	1	US-MO-Saint Louis

@@ -1,0 +1,2002 @@
+﻿book	waterstones	publisher
+2000	1998	1998	493
+0000	1	National Geographic Society
+0001	1	Summersdale Publishers
+0002	1	Phaidon Press Ltd
+0003	1	Colin Baxter Photography Ltd
+0004	1	Laurence King Publishing
+0005	1	HarperPress
+0006	1	Prentice-Hall
+0007	1	McGraw-Hill Professional
+0008	1	Princeton University Press
+0009	1	HarperCollins Publishers Ltd
+0010	1	Blue Door
+0011	1	Carlton Books Ltd
+0012	1	Yellow Jersey Press
+0013	1	Simon & Schuster Ltd
+0014	1	The History Press Ltd
+0015	1	Vintage
+0016	1	Mainstream Publishing
+0017	1	Profile Books Ltd
+0018	1	Granta Books
+0019	1	Mainstream Publishing
+0020	1	Running Press,U.S.
+0021	1	J H Haynes & Co Ltd
+0022	1	Arrow Books Ltd
+0023	1	Arrow Books Ltd
+0024	1	Simon & Schuster
+0025	1	HarperSport
+0026	1	Ebury Press
+0027	1	Quercus Publishing Plc
+0028	1	Summersdale Publishers
+0029	1	Pitch Publishing Ltd
+0030	1	Carlton Books Ltd
+0031	1	Great Northern Books Ltd
+0032	1	Mainstream Publishing
+0033	1	Carlton Books Ltd
+0034	1	John Wiley & Sons Ltd
+0035	1	Oneworld Publications
+0036	1	Pitch Publishing Ltd
+0037	1	Blackstaff Press Ltd
+0038	1	Carlton Books Ltd
+0039	1	Know the Score Books
+0040	1	Fourth Estate Ltd
+0041	1	Pitch Publishing Ltd
+0042	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0043	1	John Murray Publishers Ltd
+0044	1	Carlton Books Ltd
+0045	1	Yellow Jersey Press
+0046	1	Virgin Books
+0047	1	Ulysses Press
+0048	1	Hodder & Stoughton Ltd
+0049	1	Pitch Publishing Ltd
+0050	1	HarperSport
+0051	1	Yellow Jersey Press
+0052	1	Dorling Kindersley Publishers Ltd
+0053	1	Gotham Books
+0054	1	Pitch Publishing Ltd
+0055	1	Pitch Publishing Ltd
+0056	1	Pitch Publishing Ltd
+0057	1	Guardian Books
+0058	1	HarperSport
+0059	1	Particular Books
+0060	1	Sweet & Maxwell
+0061	1	Guardian Books
+0062	1	Dorling Kindersley Publishers Ltd
+0063	1	Robson Books Ltd
+0064	1	Pitch Publishing Ltd
+0065	1	Fort Publishing Ltd
+0066	1	Yellow Jersey Press
+0067	1	Ebury Press
+0068	1	Mainstream Publishing
+0069	1	Trinity Mirror Sport Media
+0070	1	Pitch Publishing Ltd
+0071	1	Sphere
+0072	1	Aurum Press Ltd
+0073	1	Collins
+0074	1	Mainstream Publishing
+0075	1	Ebury Press
+0076	1	Aurum Press Ltd
+0077	1	Vision Sports Publishing Ltd
+0078	1	Cicerone Press
+0079	1	Gomer Press
+0080	1	Milo Books
+0081	1	Virgin Books
+0082	1	Arrow Books Ltd
+0083	1	Guardian Books
+0084	1	Yellow Jersey Press
+0085	1	Yellow Jersey Press
+0086	1	Blackstaff Press Ltd
+0087	1	Punk Publishing Ltd
+0088	1	Black and White Publishing
+0089	1	Yellow Jersey Press
+0090	1	Old Pond Publishing Ltd
+0091	1	Financial Times Prentice Hall
+0092	1	BBC Books
+0093	1	Rough Guides Ltd
+0094	1	Trinity Mirror Sport Media
+0095	1	Troubador Publishing
+0096	1	HarperSport
+0097	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0098	1	Pocket Books
+0099	1	O&#39;Brien Press Ltd
+0100	1	Headline Book Publishing
+0101	1	Penguin Books Ltd
+0102	1	Weidenfeld & Nicolson
+0103	1	Mainstream Publishing
+0104	1	Simon & Schuster
+0105	1	A & C Black Publishers Ltd
+0106	1	Adlard Coles Nautical
+0107	1	A & C Black Publishers Ltd
+0108	1	Milo Books
+0109	1	McFarland & Co Inc
+0110	1	Summersdale Publishers
+0111	1	Raceform Ltd
+0112	1	J.A.Allen & Co Ltd
+0113	1	Random House Books
+0114	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0115	1	Headline Book Publishing
+0116	1	Short Books Ltd
+0117	1	Pan Books
+0118	1	Mainstream Publishing
+0119	1	Aurum Press Ltd
+0120	1	HarperCollins Entertainment
+0121	1	Bloomsbury Publishing PLC
+0122	1	Weidenfeld & Nicolson
+0123	1	Canongate Books Ltd
+0124	1	Penguin Books Ltd
+0125	1	Malnoue Publications
+0126	1	Time Out Guides
+0127	1	Which? Books
+0128	1	Jonglez
+0129	1	Cassell Illustrated
+0130	1	Ebury Press
+0131	1	Workman Publishing
+0132	1	Lonely Planet Publications
+0133	1	Times Books
+0134	1	Harden&#39;s Limited
+0135	1	Chatto & Windus
+0136	1	Lonely Planet Publications
+0137	1	Time Out Group Ltd
+0138	1	Alastair Sawday Publishing
+0139	1	Pitkin Unichrome Ltd
+0140	1	Sphere
+0141	1	Eye Books
+0142	1	Dorling Kindersley Publishers Ltd
+0143	1	Berlitz Publishing
+0144	1	Dubliner Media Ltd
+0145	1	Lonely Planet Publications
+0146	1	Dorling Kindersley Publishers Ltd
+0147	1	Piatkus Books
+0148	1	John Wiley & Sons Ltd
+0149	1	Antique Collectors&#39; Club Ltd
+0150	1	Ebury Press
+0151	1	Dorling Kindersley Publishers Ltd
+0152	1	Berlitz Publishing
+0153	1	Black Swan
+0154	1	Dorling Kindersley Publishers Ltd
+0155	1	Black Swan
+0156	1	Lonely Planet Publications
+0157	1	Dorling Kindersley Publishers Ltd
+0158	1	Lonely Planet Publications
+0159	1	Automobile Association
+0160	1	Moleskine srl
+0161	1	Time Out Group Ltd
+0162	1	Thames & Hudson Ltd
+0163	1	Dorling Kindersley Publishers Ltd
+0164	1	Automobile Association
+0165	1	Dorling Kindersley Publishers Ltd
+0166	1	Dorling Kindersley Publishers Ltd
+0167	1	Lonely Planet Publications
+0168	1	Cavallini & Company
+0169	1	Lonely Planet Publications
+0170	1	ALD Design & Print
+0171	1	Financial Times Prentice Hall
+0172	1	Northumbria University Press
+0173	1	Vintage
+0174	1	Nicholas Brealey Publishing
+0175	1	Faber and Faber
+0176	1	Trinity Mirror North West and North Wales
+0177	1	Lonely Planet Publications
+0178	1	Rough Guides Ltd
+0179	1	Geographers&#39; A-Z Map Co Ltd
+0180	1	Penguin Books Ltd
+0181	1	Time Out Group Ltd
+0182	1	HarperTrue
+0183	1	Berlitz Publishing
+0184	1	Berlitz Publishing
+0185	1	W Foulsham & Co Ltd
+0186	1	Dorling Kindersley Publishers Ltd
+0187	1	Ebury Press
+0188	1	Dorling Kindersley Publishers Ltd
+0189	1	Geographers&#39; A-Z Map Co Ltd
+0190	1	APA Publications Pte Ltd
+0191	1	Little, Brown
+0192	1	Abacus
+0193	1	Routledge
+0194	1	John Blake Publishing Ltd
+0195	1	Geographers&#39; A-Z Map Co Ltd
+0196	1	Lonely Planet Publications
+0197	1	Lonely Planet Publications
+0198	1	Ordnance Survey
+0199	1	Rough Guides Ltd
+0200	1	Sphere
+0201	1	Dorling Kindersley Publishers Ltd
+0202	1	Dorling Kindersley Publishers Ltd
+0203	1	Penguin Books Ltd
+0204	1	Lonely Planet Publications
+0205	1	Graf Editions
+0206	1	Vintage
+0207	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0208	1	Rough Guides Ltd
+0209	1	Philip&#39;s
+0210	1	Time Out Group Ltd
+0211	1	Universe Publishing
+0212	1	Vintage
+0213	1	Berlitz Publishing
+0214	1	Prentice-Hall
+0215	1	Princeton Architectural Press
+0216	1	Jordan Publishing Ltd
+0217	1	Brightword Publishing
+0218	1	Infinite Ideas Limited
+0219	1	Springer-Verlag New York Inc.
+0220	1	Oxford University Press
+0221	1	John Wiley & Sons Ltd
+0222	1	Sterling
+0223	1	Capstone Publishing Ltd
+0224	1	Longman
+0225	1	Pearson Education Limited
+0226	1	Hal Leonard Corporation
+0227	1	Bloomsbury Professional
+0228	1	Prentice-Hall
+0229	1	Prentice Hall Business
+0230	1	Prentice Hall Business
+0231	1	Virgin Books
+0232	1	Penguin Books Ltd
+0233	1	HarperCollins
+0234	1	Penguin Books Ltd
+0235	1	Constable
+0236	1	John Wiley & Sons Ltd
+0237	1	Financial Times Prentice Hall
+0238	1	Bottom End Publishing
+0239	1	Corgi Books
+0240	1	Sweet & Maxwell
+0241	1	Pan Books
+0242	1	Oxford University Press
+0243	1	Oxford University Press
+0244	1	Financial Times Prentice Hall
+0245	1	Oxford University Press
+0246	1	Earthscan Ltd
+0247	1	Which? Books
+0248	1	ATOM
+0249	1	ATOM
+0250	1	Aurora
+0251	1	Puffin Books
+0252	1	Macmillan Children&#39;s Books
+0253	1	Macmillan Children&#39;s Books
+0254	1	HarperCollins Children&#39;s Books
+0255	1	Scholastic
+0256	1	Macmillan Children&#39;s Books
+0257	1	Puffin Books
+0258	1	Oxford University Press
+0259	1	Macmillan Children&#39;s Books
+0260	1	Walker Books Ltd
+0261	1	Templar Publishing
+0262	1	Allison & Busby
+0263	1	Macmillan Children&#39;s Books
+0264	1	Orchard Books
+0265	1	ATOM
+0266	1	Walker Books Ltd
+0267	1	Scholastic
+0268	1	Corgi Childrens
+0269	1	Pedigree Books Ltd
+0270	1	New Holland Publishers Ltd
+0271	1	Macmillan Children&#39;s Books
+0272	1	Orchard Books
+0273	1	Thames & Hudson Ltd
+0274	1	Puffin Books
+0275	1	Puffin Books
+0276	1	Sunbird
+0277	1	Scholastic
+0278	1	Sunbird
+0279	1	Girls Gone By
+0280	1	Scholastic US
+0281	1	Simon & Schuster Childrens Books
+0282	1	David Fickling Books
+0283	1	Egmont Books Ltd
+0284	1	Simon & Schuster Children&#39;s
+0285	1	Templar Publishing
+0286	1	Hodder Children&#39;s Books
+0287	1	Usborne Publishing Ltd
+0288	1	HarperCollins Children&#39;s Books
+0289	1	HarperCollins Children&#39;s Books
+0290	1	Puffin Books
+0291	1	Hodder Children&#39;s Books
+0292	1	HarperCollins Children&#39;s Books
+0293	1	Simon & Schuster Childrens Books
+0294	1	HarperCollins Children&#39;s Books
+0295	1	Hodder Children&#39;s Books
+0296	1	HarperCollins Children&#39;s Books
+0297	1	Puffin Books
+0298	1	Puffin Books
+0299	1	Puffin Books
+0300	1	ATOM
+0301	1	ATOM
+0302	1	Stripes Publishing, an imprint of Magi Publications
+0303	1	Peachpit Press Publications
+0304	1	Walker Books Ltd
+0305	1	Orchard Books
+0306	1	Templar Publishing
+0307	1	Walker Books Ltd
+0308	1	Stripes Publishing, an imprint of Magi Publications
+0309	1	Puffin Books
+0310	1	Orchard Books
+0311	1	Macmillan Children&#39;s Books
+0312	1	ATOM
+0313	1	Walker Books Ltd
+0314	1	Oxford University Press
+0315	1	Macmillan Children&#39;s Books
+0316	1	Allison & Busby
+0317	1	Scholastic
+0318	1	Puffin Books
+0319	1	Running Press Miniature Editions
+0320	1	Puffin Books
+0321	1	Walker Books Ltd
+0322	1	Tangent Books
+0323	1	IPC Media - Focus Network
+0324	1	Colin Baxter Photography Ltd
+0325	1	Bloomsbury Publishing PLC
+0326	1	Orchard Books
+0327	1	HarperCollins Children&#39;s Books
+0328	1	Mammoth
+0329	1	Faber Children&#39;s Books
+0330	1	Yearling (imprint of Random House Children&#39;s Books)
+0331	1	Puffin Books
+0332	1	Usborne Publishing Ltd
+0333	1	Usborne Publishing Ltd
+0334	1	Ladybird Books Ltd
+0335	1	Sunbird
+0336	1	HarperCollins Children&#39;s Books
+0337	1	Egmont Books Ltd
+0338	1	Running Press,U.S.
+0339	1	HarperCollins Children&#39;s Books
+0340	1	Dorling Kindersley Publishers Ltd
+0341	1	Puffin Books
+0342	1	Puffin Books
+0343	1	Egmont Books Ltd
+0344	1	Orchard Books
+0345	1	Loft Publications
+0346	1	Sterling
+0347	1	Canongate Books Ltd
+0348	1	Hamlyn
+0349	1	Image Comics
+0350	1	Portico
+0351	1	Summersdale Publishers
+0352	1	Fourth Estate Ltd
+0353	1	Self Made Hero, a division of Metro Media Ltd
+0354	1	Viz Media, Subs. of Shogakukan Inc
+0355	1	Titan Books Ltd
+0356	1	Viz Media, Subs. of Shogakukan Inc
+0357	1	Viz Media, Subs. of Shogakukan Inc
+0358	1	Simon & Schuster Ltd
+0359	1	Viz Media, Subs. of Shogakukan Inc
+0360	1	Titan Books Ltd
+0361	1	Jonathan Cape Ltd
+0362	1	Tokyopop Press Inc
+0363	1	Viz Media, Subs. of Shogakukan Inc
+0364	1	Viz Media, Subs. of Shogakukan Inc
+0365	1	Viz Media, Subs. of Shogakukan Inc
+0366	1	Viz Media, Subs. of Shogakukan Inc
+0367	1	Viz Media, Subs. of Shogakukan Inc
+0368	1	Sphere
+0369	1	John Wiley & Sons Ltd
+0370	1	Prentice-Hall
+0371	1	Dorling Kindersley Publishers Ltd
+0372	1	Panini Books
+0373	1	Jonathan Cape Ltd
+0374	1	Image Comics
+0375	1	Viz Media, Subs. of Shogakukan Inc
+0376	1	Arrow Books Ltd
+0377	1	Idea & Design Works
+0378	1	Titan Books Ltd
+0379	1	Marvel Comics
+0380	1	Saint Martin&#39;s Griffin,U.S.
+0381	1	Image Comics
+0382	1	Titan Books Ltd
+0383	1	Panini Books
+0384	1	Titan Books Ltd
+0385	1	Knockabout Comics
+0386	1	Dark Horse Comics,U.S.
+0387	1	Titan Books Ltd
+0388	1	Self Made Hero, a division of Metro Media Ltd
+0389	1	Viz Media, Subs. of Shogakukan Inc
+0390	1	Titan Books Ltd
+0391	1	Viz Media, Subs. of Shogakukan Inc
+0392	1	Dennis Publishing
+0393	1	Tokyopop Press Inc
+0394	1	Rider & Co
+0395	1	Yen Press
+0396	1	Viz Media, Subs. of Shogakukan Inc
+0397	1	Hodder & Stoughton Ltd
+0398	1	Titan Books Ltd
+0399	1	Viz Media, Subs. of Shogakukan Inc
+0400	1	Marvel Comics
+0401	1	Tokyopop Press Inc
+0402	1	Titan Books Ltd
+0403	1	Viz Media, Subs. of Shogakukan Inc
+0404	1	Viz Media, Subs. of Shogakukan Inc
+0405	1	2000 AD Graphic Novels
+0406	1	Titan Books Ltd
+0407	1	Marvel Comics
+0408	1	Frances Lincoln Publishers Ltd
+0409	1	Panini Books
+0410	1	Tokyopop Press Inc
+0411	1	Marvel Comics
+0412	1	Viz Media, Subs. of Shogakukan Inc
+0413	1	Viz Media, Subs. of Shogakukan Inc
+0414	1	Tor/Seven Seas
+0415	1	Titan Books Ltd
+0416	1	Digital Manga
+0417	1	Thames & Hudson Ltd
+0418	1	Titan Books Ltd
+0419	1	Idea & Design Works
+0420	1	Fantagraphics
+0421	1	Titan Books Ltd
+0422	1	Marvel Comics
+0423	1	Tokyopop Press Inc
+0424	1	Titan Books Ltd
+0425	1	Titan Books Ltd
+0426	1	Titan Books Ltd
+0427	1	Viz Media, Subs. of Shogakukan Inc
+0428	1	Titan Books Ltd
+0429	1	Yen Press
+0430	1	Yen Press
+0431	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0432	1	Titan Books Ltd
+0433	1	Marvel Comics
+0434	1	Self Made Hero, a division of Metro Media Ltd
+0435	1	Palgrave Macmillan
+0436	1	Viz Media, Subs. of Shogakukan Inc
+0437	1	Yen Press
+0438	1	Titan Books Ltd
+0439	1	Quadrille Publishing Ltd
+0440	1	Thames & Hudson Ltd
+0441	1	Prestel
+0442	1	Brady Games
+0443	1	John Wiley & Sons Ltd
+0444	1	John Wiley & Sons Ltd
+0445	1	Ilex
+0446	1	Prentice-Hall
+0447	1	Prentice-Hall
+0448	1	Oxford Paperbacks
+0449	1	APress
+0450	1	In Easy Steps Limited
+0451	1	Sams Publishing
+0452	1	Brady Publishing
+0453	1	Prentice Hall
+0454	1	Prentice-Hall
+0455	1	Ilex
+0456	1	In Easy Steps Limited
+0457	1	In Easy Steps Limited
+0458	1	Phaidon Press Ltd
+0459	1	Titan Books Ltd
+0460	1	Thames & Hudson Ltd
+0461	1	Taschen GmbH
+0462	1	Pavilion Books
+0463	1	John Wiley & Sons Ltd
+0464	1	John Wiley & Sons Ltd
+0465	1	PublicAffairs,U.S.
+0466	1	Prentice-Hall
+0467	1	John Wiley & Sons Ltd
+0468	1	Rough Guides Ltd
+0469	1	Sams Publishing
+0470	1	Que Corporation,U.S.
+0471	1	In Easy Steps Limited
+0472	1	In Easy Steps Limited
+0473	1	Rough Guides Ltd
+0474	1	Brady Publishing
+0475	1	Adobe Press,U.S.
+0476	1	Prentice-Hall
+0477	1	Microsoft Press,U.S.
+0478	1	Prentice-Hall
+0479	1	David & Charles
+0480	1	Rough Guides Ltd
+0481	1	John Wiley & Sons Ltd
+0482	1	John Wiley & Sons Inc
+0483	1	O&#39;Reilly Media, Inc, USA
+0484	1	Hungry Minds Inc,U.S.
+0485	1	John Wiley & Sons Ltd
+0486	1	Phaidon Press Ltd
+0487	1	Thames & Hudson Ltd
+0488	1	Pavilion Books
+0489	1	Peachpit Press Publications
+0490	1	Osborne/McGraw-Hill
+0491	1	Prentice-Hall
+0492	1	Sams Publishing
+0493	1	John Wiley & Sons Ltd
+0494	1	John Wiley & Sons Ltd
+0495	1	Hungry Minds Inc,U.S.
+0496	1	Teach Yourself Books
+0497	1	John Wiley & Sons Ltd
+0498	1	John Wiley & Sons Ltd
+0499	1	Addison-Wesley Educational Publishers Inc
+0500	1	In Easy Steps Limited
+0501	1	Heinemann
+0502	1	Focal Press
+0503	1	Prentice-Hall
+0504	1	Open University Press
+0505	1	Prentice-Hall
+0506	1	Computer Step
+0507	1	Folens Publishers UK
+0508	1	Harriman House Publishing
+0509	1	Friends of Ed
+0510	1	Bernard Babani Publishing
+0511	1	Microsoft Press,U.S.
+0512	1	John Wiley & Sons Ltd
+0513	1	Focal Press
+0514	1	Piggyback Interactive
+0515	1	Microsoft Press,U.S.
+0516	1	In Easy Steps Limited
+0517	1	J H Haynes & Co Ltd
+0518	1	powerHouse Books,U.S.
+0519	1	North Light Books
+0520	1	Thames & Hudson Ltd
+0521	1	Miller&#39;s Publications
+0522	1	Peachpit Press Publications
+0523	1	John Wiley & Sons Inc
+0524	1	Hodder Gibson
+0525	1	John Wiley & Sons Ltd
+0526	1	Sams Publishing
+0527	1	Adobe Press,U.S.
+0528	1	John Wiley & Sons Ltd
+0529	1	Oxford University Press
+0530	1	John Wiley & Sons Inc
+0531	1	Adobe Press,U.S.
+0532	1	O&#39;Reilly Media, Inc, USA
+0533	1	Prentice-Hall
+0534	1	John Wiley & Sons Ltd
+0535	1	Ammonite Press
+0536	1	Sams Publishing
+0537	1	Prentice-Hall
+0538	1	John Wiley & Sons Ltd
+0539	1	Peachpit Press Publications
+0540	1	Focal Press
+0541	1	John Wiley & Sons Ltd
+0542	1	Cisco Press
+0543	1	O&#39;Reilly Media, Inc, USA
+0544	1	Rotovision
+0545	1	Focal Press
+0546	1	Prentice-Hall
+0547	1	Computer Step
+0548	1	Wiley-Blackwell (an imprint of John Wiley & Sons Ltd)
+0549	1	John Wiley & Sons Ltd
+0550	1	Portobello Books Ltd
+0551	1	Steidl Verlag
+0552	1	Quercus Publishing Plc
+0553	1	Quercus Publishing Plc
+0554	1	Quercus Publishing Plc
+0555	1	Vintage
+0556	1	Corgi Books
+0557	1	Pan Books
+0558	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0559	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0560	1	Robinson Publishing
+0561	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0562	1	Pan Books
+0563	1	Sphere
+0564	1	Sphere
+0565	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0566	1	Abacus
+0567	1	Piatkus Books
+0568	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0569	1	Corvus
+0570	1	Constable
+0571	1	Sphere
+0572	1	Penguin Books Ltd
+0573	1	Headline Review
+0574	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0575	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0576	1	Taschen GmbH
+0577	1	Thames & Hudson Ltd
+0578	1	Frances Lincoln Publishers Ltd
+0579	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0580	1	Sphere
+0581	1	Harper
+0582	1	John Murray Publishers Ltd
+0583	1	Penguin Books Ltd
+0584	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0585	1	AVON, a division of HarperCollins Publishers Ltd
+0586	1	Sphere
+0587	1	Arrow Books Ltd
+0588	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0589	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0590	1	Simon & Schuster Ltd
+0591	1	Vintage
+0592	1	Sphere
+0593	1	Quercus Publishing Plc
+0594	1	Headline Book Publishing
+0595	1	Vintage
+0596	1	Arrow Books Ltd
+0597	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0598	1	Pan Books
+0599	1	Little, Brown
+0600	1	Hodder & Stoughton Ltd
+0601	1	HarperCollins Publishers Ltd
+0602	1	Hodder & Stoughton Ltd
+0603	1	Blake Publishing
+0604	1	Robinson Publishing
+0605	1	Taschen GmbH
+0606	1	MacLehose Press
+0607	1	Harper
+0608	1	Bantam Press
+0609	1	HarperCollins Publishers Ltd
+0610	1	Headline Book Publishing
+0611	1	Robinson Publishing
+0612	1	Robinson Publishing
+0613	1	Vintage
+0614	1	Harper
+0615	1	Vintage
+0616	1	Penguin Books Ltd
+0617	1	Century
+0618	1	Mainstream Publishing
+0619	1	Penguin Classics
+0620	1	Piatkus Books
+0621	1	Arrow Books Ltd
+0622	1	Harper
+0623	1	Macmillan
+0624	1	Penguin Classics
+0625	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0626	1	Robinson Publishing
+0627	1	Arrow Books Ltd
+0628	1	Taschen GmbH
+0629	1	Carlton Books Ltd
+0630	1	Tate Publishing
+0631	1	Robinson Publishing
+0632	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+0633	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0634	1	Harper
+0635	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0636	1	Harper
+0637	1	Headline Book Publishing
+0638	1	Mainstream Publishing
+0639	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0640	1	White&#39;s Books Ltd
+0641	1	Abacus
+0642	1	Corgi Books
+0643	1	Virago Press Ltd
+0644	1	Hodder Paperback
+0645	1	Corgi Books
+0646	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0647	1	Headline Book Publishing
+0648	1	Piatkus Books
+0649	1	Pan Books
+0650	1	Allison & Busby
+0651	1	Hodder Paperback
+0652	1	Mainstream Publishing
+0653	1	Jonathan Cape Ltd
+0654	1	Cambridge University Press
+0655	1	Learning Matters Ltd
+0656	1	Trotman Publishing
+0657	1	Penguin Books Ltd
+0658	1	Penguin Books Ltd
+0659	1	BBC Active
+0660	1	Learning Matters Ltd
+0661	1	Jossey Bass Wiley
+0662	1	Penguin Books Ltd
+0663	1	Collins
+0664	1	Penguin Books Ltd
+0665	1	BBC Active
+0666	1	McGraw-Hill Contemporary
+0667	1	Network Continuum Education
+0668	1	Cambridge University Press
+0669	1	Square Peg
+0670	1	Oxford University Press
+0671	1	McGraw-Hill Contemporary
+0672	1	Nelson Thornes Ltd
+0673	1	Berlitz Publishing
+0674	1	Cambridge University Press
+0675	1	Weidenfeld & Nicolson
+0676	1	Thames & Hudson Ltd
+0677	1	John Wiley & Sons Inc
+0678	1	BBC Active
+0679	1	Berlitz Publishing
+0680	1	Palgrave Macmillan
+0681	1	Crown House Publishing
+0682	1	Philip Allan Updates
+0683	1	Pearson Education Limited
+0684	1	Teach Yourself Books
+0685	1	Teach Yourself Books
+0686	1	McGraw-Hill Contemporary
+0687	1	Teach Yourself Books
+0688	1	McGraw-Hill Contemporary
+0689	1	Penguin
+0690	1	Prentice-Hall
+0691	1	BBC Active
+0692	1	Collins
+0693	1	BBC Active
+0694	1	BBC Active
+0695	1	Teach Yourself Books
+0696	1	Prentice-Hall
+0697	1	Dorling Kindersley Publishers Ltd
+0698	1	Phaidon Press Ltd
+0699	1	Collins
+0700	1	David & Charles
+0701	1	Kodansha International Ltd
+0702	1	Cambridge University Press
+0703	1	Longman
+0704	1	Pearson Longman
+0705	1	Oxford University Press
+0706	1	John Wiley & Sons Ltd
+0707	1	Collins
+0708	1	Hungry Minds Inc,U.S.
+0709	1	Oxford University Press
+0710	1	SAGE Publications Ltd
+0711	1	Prentice-Hall
+0712	1	Teach Yourself Books
+0713	1	McGraw-Hill Contemporary
+0714	1	Cambridge University Press
+0715	1	Hodder Education
+0716	1	Heinemann
+0717	1	Hodder Arnold
+0718	1	Macmillan Education
+0719	1	Teach Yourself Books
+0720	1	Kodansha International Ltd
+0721	1	Dorling Kindersley Publishers Ltd
+0722	1	Continuum International Publishing Group Ltd.
+0723	1	Search Press Ltd
+0724	1	McGraw-Hill Contemporary
+0725	1	Oxford University Press
+0726	1	Palgrave Macmillan
+0727	1	Bilingual Books Inc.,U.S.
+0728	1	McGraw-Hill Contemporary
+0729	1	McGraw-Hill Contemporary
+0730	1	Teach Yourself Books
+0731	1	Learning Matters Ltd
+0732	1	Collins
+0733	1	Palgrave Macmillan
+0734	1	W Foulsham & Co Ltd
+0735	1	Teach Yourself Books
+0736	1	McGraw-Hill Contemporary
+0737	1	Editions Flammarion
+0738	1	Cambridge University Press
+0739	1	Piatkus Books
+0740	1	Collins
+0741	1	Berlitz Publishing
+0742	1	Chambers
+0743	1	Barron&#39;s Educational Series
+0744	1	Kogan Page Ltd
+0745	1	Crown House Publishing
+0746	1	Teach Yourself Books
+0747	1	The Bluecoat Press
+0748	1	Vintage
+0749	1	Piatkus Books
+0750	1	Fourth Estate Ltd
+0751	1	Century
+0752	1	Fourth Estate Ltd
+0753	1	Canongate Books Ltd
+0754	1	HarperCollins Publishers Ltd
+0755	1	Picador
+0756	1	Penguin Books Ltd
+0757	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0758	1	Faber and Faber
+0759	1	Bantam Press
+0760	1	Viking
+0761	1	Century
+0762	1	Vintage
+0763	1	Vintage
+0764	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0765	1	Penguin Books Ltd
+0766	1	Black Swan
+0767	1	Aperture
+0768	1	Harper
+0769	1	Vintage
+0770	1	Penguin Books Ltd
+0771	1	Arrow Books Ltd
+0772	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+0773	1	Vintage
+0774	1	Bloomsbury Publishing PLC
+0775	1	Black Swan
+0776	1	Pan Books
+0777	1	Century
+0778	1	Hodder Paperback
+0779	1	Fourth Estate Ltd
+0780	1	Doubleday
+0781	1	Arrow Books Ltd
+0782	1	Vintage Classics
+0783	1	Hodder & Stoughton Ltd
+0784	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0785	1	Transworld Ireland
+0786	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+0787	1	Headline Book Publishing
+0788	1	Thorsons
+0789	1	Quercus Publishing Plc
+0790	1	Penguin Books Ltd
+0791	1	Vintage Classics
+0792	1	Corvus
+0793	1	Penguin Classics
+0794	1	Thames & Hudson Ltd
+0795	1	Taschen GmbH
+0796	1	Thames & Hudson Ltd
+0797	1	Granta Books
+0798	0	<NULL>
+0799	1	AVON, a division of HarperCollins Publishers Ltd
+0800	0	<NULL>
+0801	1	Century
+0802	1	Penguin Classics
+0803	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0804	1	Sceptre
+0805	1	Hodder & Stoughton Ltd
+0806	1	Sphere
+0807	1	HarperPerennial
+0808	1	Black Swan
+0809	1	Vintage
+0810	1	Abacus
+0811	1	Black Swan
+0812	1	Virago Press Ltd
+0813	1	Abacus
+0814	1	Picador
+0815	1	Doubleday
+0816	1	Everyman&#39;s Library
+0817	1	Taschen GmbH
+0818	1	Taschen GmbH
+0819	1	Carlton Books Ltd
+0820	1	Spink & Son Ltd
+0821	1	Thames & Hudson Ltd
+0822	1	Harper
+0823	1	Mantle
+0824	1	Headline Review
+0825	1	Arrow Books Ltd
+0826	1	Vintage Classics
+0827	1	Century
+0828	1	Penguin Classics
+0829	1	Vintage
+0830	1	Penguin Books Ltd
+0831	1	Michael Joseph Ltd
+0832	1	Hodder & Stoughton Ltd
+0833	1	HarperCollins Publishers Ltd
+0834	1	Atlantic Books
+0835	1	Faber and Faber
+0836	1	Fourth Estate Ltd
+0837	1	Arrow Books Ltd
+0838	1	Fig Tree
+0839	1	Vintage
+0840	1	Fourth Estate Ltd
+0841	1	Phaidon Press Ltd
+0842	1	David & Charles
+0843	1	Saraband
+0844	1	Titan Books Ltd
+0845	1	Yale University Press
+0846	1	Mitchell Beazley
+0847	1	Weidenfeld & Nicolson
+0848	1	Parragon Book Service Ltd
+0849	1	Collins
+0850	1	Kyle Cathie
+0851	1	Conran Octopus Ltd
+0852	1	Quadrille Publishing Ltd
+0853	1	Michael Joseph Ltd
+0854	1	Murdoch Books
+0855	1	Penguin Books Ltd
+0856	1	Birlinn Ltd
+0857	1	BBC Books
+0858	1	Hamlyn
+0859	1	BBC Books
+0860	1	BBC Books
+0861	1	Houghton Mifflin
+0862	1	Penguin Books Ltd
+0863	1	BBC Books
+0864	1	BBC Books
+0865	1	Phaidon Press Ltd
+0866	1	Mitchell Beazley
+0867	1	Hamlyn
+0868	1	BBC Books
+0869	1	Spring Hill
+0870	1	Ryland, Peters & Small Ltd
+0871	1	BBC Books
+0872	1	BBC Books
+0873	1	Absolute Press
+0874	1	BBC Books
+0875	1	Fourth Estate Ltd
+0876	1	Michael Joseph Ltd
+0877	1	Simon & Schuster Ltd
+0878	1	Hamlyn
+0879	1	Ebury Press
+0880	1	Right Way
+0881	1	Parragon Book Service Ltd
+0882	1	Collins
+0883	1	BBC Books
+0884	1	Ryland, Peters & Small Ltd
+0885	1	Hamlyn
+0886	1	Ebury Press
+0887	1	BBC Books
+0888	1	Hamlyn
+0889	1	Collins
+0890	1	Da Capo Press Inc
+0891	1	Kyle Cathie
+0892	1	Ebury Press
+0893	1	Simon & Schuster Ltd
+0894	1	BBC Books
+0895	1	BBC Books
+0896	1	Dorling Kindersley Publishers Ltd
+0897	1	BBC Books
+0898	1	Right Way
+0899	1	Fourth Estate Ltd
+0900	1	Grub Street
+0901	1	Apple Press
+0902	1	Hodder & Stoughton Ltd
+0903	1	Duncan Baird Publishers
+0904	1	Hamlyn
+0905	1	Chatto & Windus
+0906	1	Boxtree Ltd
+0907	1	Waverley Books Ltd
+0908	1	BBC Books
+0909	1	Infinite Ideas Limited
+0910	1	Mitchell Beazley
+0911	1	Bloomsbury Publishing PLC
+0912	1	Murdoch Books
+0913	1	Bookworm of Retford
+0914	1	Dorling Kindersley Publishers Ltd
+0915	1	Penguin Books Ltd
+0916	1	Pavilion Books
+0917	1	Hamlyn
+0918	1	CAMRA Books
+0919	1	Pavilion Books
+0920	1	Murdoch Books
+0921	1	Conran Octopus Ltd
+0922	1	Kyle Cathie
+0923	1	BBC Books
+0924	1	Absolute Press
+0925	1	Chronicle Books
+0926	1	Murdoch Books
+0927	1	Kyle Cathie
+0928	1	Continuum Publishing Corporation
+0929	1	Grub Street
+0930	1	Apple Press
+0931	1	Bloomsbury Publishing PLC
+0932	1	HarperCollins Publishers Ltd
+0933	1	Bloomsbury Publishing PLC
+0934	1	Simon & Schuster Ltd
+0935	1	Hodder Paperback
+0936	1	Prentice Hall Life
+0937	1	Mainstream Publishing
+0938	1	Hodder & Stoughton Ltd
+0939	1	Prentice Hall Life
+0940	1	HarperCollins
+0941	1	Litton Publishing
+0942	1	Prentice-Hall
+0943	1	Osprey Publishing
+0944	1	W Foulsham & Co Ltd
+0945	1	White Ladder Press Ltd
+0946	1	Penguin Books Ltd
+0947	1	Weidenfeld & Nicolson
+0948	1	Quadrille Publishing Ltd
+0949	1	Hodder Mobius
+0950	1	Vermilion
+0951	1	Vermilion
+0952	1	Fourth Estate Ltd
+0953	1	Hay House UK Ltd
+0954	1	Cider Mills Press
+0955	1	Fourth Estate Ltd
+0956	1	Adams Media Corporation
+0957	1	Prentice Hall Life
+0958	1	Fourth Estate Ltd
+0959	1	Crown House Publishing
+0960	1	Findhorn Press Ltd.
+0961	1	Hodder Mobius
+0962	1	Running Press Miniature Editions
+0963	1	Dorling Kindersley Publishers Ltd
+0964	1	Penguin Books Ltd
+0965	1	Harper Thorsons
+0966	1	John Wiley & Sons Ltd
+0967	1	Harper Element
+0968	1	Ryland, Peters & Small Ltd
+0969	1	Quadrille Publishing Ltd
+0970	1	Vermilion
+0971	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0972	1	W Foulsham & Co Ltd
+0973	1	Prentice Hall Life
+0974	1	Hay House UK Ltd
+0975	1	Prentice-Hall
+0976	1	Piatkus Books
+0977	1	Parragon Book Service Ltd
+0978	1	Bloomsbury Publishing PLC
+0979	1	Dorling Kindersley Publishers Ltd
+0980	1	Sidgwick & Jackson Ltd
+0981	1	Penguin Books Ltd
+0982	1	HarperCollins Publishers
+0983	1	Piatkus Books
+0984	1	Vermilion
+0985	1	Hamlyn
+0986	1	Vermilion
+0987	1	Collins
+0988	1	Weidenfeld & Nicolson
+0989	1	Dorling Kindersley Publishers Ltd
+0990	1	Harper Element
+0991	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+0992	1	Dorling Kindersley Publishers Ltd
+0993	1	HarperPress
+0994	1	New Harbinger Publications,U.S.
+0995	1	William Heinemann Ltd
+0996	1	Simon & Schuster Ltd
+0997	1	Atlantic Books
+0998	1	Abacus
+0999	1	Penguin Books Ltd
+1000	1	Atlantic Books
+1001	1	Piatkus Books
+1002	1	Robinson Publishing
+1003	1	Hamlyn
+1004	1	Frederick Warne Publishers Ltd
+1005	1	Dorling Kindersley Publishers Ltd
+1006	1	Quadrille Publishing Ltd
+1007	1	Michael Joseph Ltd
+1008	1	Jacqui Small LLP
+1009	1	Vermilion
+1010	1	Collins
+1011	1	Arcturus Publishing Ltd
+1012	1	Ebury Press
+1013	1	Piatkus Books
+1014	1	Prentice-Hall
+1015	1	Carroll & Brown Publishers Limited
+1016	1	Dorling Kindersley Publishers Ltd
+1017	1	Guardian Books
+1018	1	Harper Thorsons
+1019	1	Robinson Publishing
+1020	1	Pan Books
+1021	1	Atlantic Books
+1022	1	White Ladder Press Ltd
+1023	1	Simon & Schuster Ltd
+1024	1	Heinemann
+1025	1	Running Press,U.S.
+1026	1	Piatkus Books
+1027	1	Souvenir Press Ltd
+1028	1	Hay House UK Ltd
+1029	1	Profile Books Ltd
+1030	1	BBC Books
+1031	1	Bantam Press
+1032	1	Penguin Books Ltd
+1033	1	Faber and Faber
+1034	1	The History Press Ltd
+1035	1	Penguin Books Ltd
+1036	1	Vintage
+1037	1	Vintage
+1038	1	Collins
+1039	1	HarperCollins Publishers Ltd
+1040	1	Bantam Press
+1041	1	Bloomsbury Publishing PLC
+1042	1	HarperPress
+1043	1	Abacus
+1044	1	Penguin Books Ltd
+1045	1	Mainstream Publishing
+1046	1	Bloomsbury Publishing PLC
+1047	1	Penguin Books Ltd
+1048	1	Hodder Gibson
+1049	1	Profile Books Ltd
+1050	1	Atlantic Books
+1051	1	Penguin Books Ltd
+1052	1	Faber and Faber
+1053	1	Dorling Kindersley Publishers Ltd
+1054	1	Pan Books
+1055	1	Robinson Publishing
+1056	1	Biteback
+1057	1	BBC Books
+1058	1	Elliott & Thompson Limited
+1059	1	Virago Press Ltd
+1060	1	Vintage
+1061	1	Pan Books
+1062	1	Ebury Press
+1063	1	Hodder & Stoughton Ltd
+1064	1	Faber and Faber
+1065	1	The History Press Ltd
+1066	1	The Mercier Press Ltd
+1067	1	Royal Commission on the Ancient & Historical Monuments of Scotland
+1068	1	HarperCollins Publishers Ltd
+1069	1	Atlantic Books
+1070	1	Southwater
+1071	1	Corgi Books
+1072	1	ACM Retro
+1073	1	Penguin Classics
+1074	1	J H Haynes & Co Ltd
+1075	1	O&#39;Brien Press Ltd
+1076	1	Penguin Books Ltd
+1077	1	Penguin Books Ltd
+1078	1	HarperPerennial
+1079	1	Vintage
+1080	1	Pan Books
+1081	1	Penguin Books Ltd
+1082	1	John Murray Publishers Ltd
+1083	1	Channel 4 Books, a division of Transworld Publishers
+1084	1	HarperPerennial
+1085	1	Thames & Hudson Ltd
+1086	1	Robinson Publishing
+1087	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1088	1	Penguin Books Ltd
+1089	1	Pimlico
+1090	1	Faber and Faber
+1091	1	Pocket Books
+1092	1	Automobile Association
+1093	1	Allen Lane
+1094	1	Penguin Books Ltd
+1095	1	Fourth Estate Ltd
+1096	1	Vintage
+1097	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1098	1	Abacus
+1099	1	Fourth Estate Ltd
+1100	1	HarperPress
+1101	1	Windmill Books
+1102	1	HarperPress
+1103	1	Birlinn Ltd
+1104	1	Penguin Books Ltd
+1105	1	The History Press Ltd
+1106	1	Michael O&#39;Mara Books Ltd
+1107	1	BBC Books
+1108	1	Faber and Faber
+1109	1	Faber and Faber
+1110	1	Faber and Faber
+1111	1	Hamlyn
+1112	1	Running Press,U.S.
+1113	1	Times Books
+1114	1	Times Books
+1115	1	Carlton Books Ltd
+1116	1	Times Books
+1117	1	Chambers
+1118	1	Bloomsbury Publishing PLC
+1119	1	Collins
+1120	1	Carlton Books Ltd
+1121	1	Viking
+1122	1	Times Books
+1123	1	David & Charles
+1124	1	Times Books
+1125	1	Hamlyn
+1126	1	Times Books
+1127	1	Hamlyn
+1128	1	Random House Books
+1129	1	Times Books
+1130	1	Hamlyn
+1131	1	Search Press Ltd
+1132	1	Times Books
+1133	1	Times Books
+1134	1	Perigee Books,U.S.
+1135	1	Times Books
+1136	1	Times Books
+1137	1	Hamlyn
+1138	1	Times Books
+1139	1	Collins
+1140	1	Pan Books
+1141	1	The Ivy Press
+1142	1	David & Charles
+1143	1	The Ivy Press
+1144	1	Carlton Books Ltd
+1145	1	Times Books
+1146	1	Stewart, Tabori & Chang Inc
+1147	1	W Foulsham & Co Ltd
+1148	1	Pan Books
+1149	1	Andrews McMeel
+1150	1	Pan Books
+1151	1	Murdoch Books
+1152	1	Splendid Books Limited
+1153	1	Quadrille Publishing Ltd
+1154	1	David & Charles
+1155	1	Collins
+1156	1	Pan Books
+1157	1	Hamlyn
+1158	1	Ebury Press
+1159	1	Cassell Reference
+1160	1	Search Press Ltd
+1161	1	Hamlyn
+1162	1	Master Point Press
+1163	1	Right Way
+1164	1	Collins & Brown
+1165	1	Hamlyn
+1166	1	Ebury Press
+1167	1	Collins
+1168	1	Carlton Books Ltd
+1169	1	CICO Books
+1170	1	John Wiley & Sons Ltd
+1171	1	Search Press Ltd
+1172	1	Hamlyn
+1173	1	A & C Black Publishers Ltd
+1174	1	David & Charles
+1175	1	CICO Books
+1176	1	Hodder & Stoughton Ltd
+1177	1	Cassell Reference
+1178	1	Right Way
+1179	1	Sphere
+1180	1	Virgin Books
+1181	1	Running Press Miniature Editions
+1182	1	Collins
+1183	1	Expert
+1184	1	Running Press Miniature Editions
+1185	1	Bloomsbury Publishing PLC
+1186	1	Mitchell Beazley
+1187	1	Dorling Kindersley Publishers Ltd
+1188	1	Dorling Kindersley Publishers Ltd
+1189	1	Dorling Kindersley Publishers Ltd
+1190	1	Virago Press Ltd
+1191	1	Dorling Kindersley Publishers Ltd
+1192	1	Expert
+1193	1	Expert
+1194	1	The Crowood Press Ltd
+1195	1	Dorling Kindersley Publishers Ltd
+1196	1	Bloomsbury Publishing PLC
+1197	1	BBC Books
+1198	1	Hodder Paperback
+1199	1	Thames & Hudson Ltd
+1200	1	Pimlico
+1201	1	Constable
+1202	1	Kyle Cathie
+1203	1	Penguin Books Ltd
+1204	1	Spring Hill
+1205	1	Ebury Press
+1206	1	Thames & Hudson Ltd
+1207	1	Guild of Master Craftsman Publications Ltd
+1208	1	Ovolo Books Limited
+1209	1	BBC Books
+1210	1	Bloomsbury Publishing PLC
+1211	1	Adams Media Corporation
+1212	1	Expert
+1213	1	Expert
+1214	1	Thames & Hudson Ltd
+1215	1	Merrell Publishers Ltd
+1216	1	Frances Lincoln Publishers Ltd
+1217	1	John Wiley & Sons Ltd
+1218	1	Laurence King Publishing
+1219	1	Frances Lincoln Publishers Ltd
+1220	1	Granta Books
+1221	1	HarperCollins Publishers Ltd
+1222	1	Spring Hill
+1223	1	A & C Black Publishers Ltd
+1224	1	Thames & Hudson Ltd
+1225	1	New Holland Publishers Ltd
+1226	1	Green Books
+1227	1	J H Haynes & Co Ltd
+1228	1	Shire Publications Ltd
+1229	1	Collins & Brown
+1230	1	Ryland, Peters & Small Ltd
+1231	1	CICO Books
+1232	1	Frances Lincoln Publishers Ltd
+1233	1	Kyle Cathie
+1234	1	Lorenz Books
+1235	1	Aurum Press Ltd
+1236	1	Osprey Publishing
+1237	1	CICO Books
+1238	1	Fiell Publishing Limited
+1239	1	Windmill Books
+1240	1	Thames & Hudson Ltd
+1241	1	Collins
+1242	1	Mitchell Beazley
+1243	1	Which? Books
+1244	1	Bloomsbury Publishing PLC
+1245	1	Pocket Bibles
+1246	1	CICO Books
+1247	1	Dorling Kindersley Publishers Ltd
+1248	1	Frances Lincoln Publishers Ltd
+1249	1	Survival Books
+1250	1	Bonnier Books Ltd
+1251	1	BBC Books
+1252	1	J H Haynes & Co Ltd
+1253	1	Ryland, Peters & Small Ltd
+1254	1	Collins & Brown
+1255	1	Panache Partners
+1256	1	Shire Publications Ltd
+1257	1	New Holland Publishers Ltd
+1258	1	BBC Books
+1259	1	New Holland Publishers Ltd
+1260	1	Collins
+1261	1	Ryland, Peters & Small Ltd
+1262	1	Kyle Cathie
+1263	1	New Holland Publishers Ltd
+1264	1	Robert Hale Ltd
+1265	1	Frances Lincoln Publishers Ltd
+1266	1	Lund Humphries Publishers Ltd
+1267	1	Faber and Faber
+1268	1	Summersdale Publishers
+1269	1	Ebury Press
+1270	1	Running Press,U.S.
+1271	1	Perseus Books
+1272	1	Hodder & Stoughton Ltd
+1273	1	The Friday Project Limited
+1274	1	Michael O&#39;Mara Books Ltd
+1275	1	Abson Books London
+1276	1	Preface Publishing
+1277	1	Virgin Books
+1278	1	Chronicle Books
+1279	1	Michael O&#39;Mara Books Ltd
+1280	1	Faber and Faber
+1281	1	Picador
+1282	1	Canongate Books Ltd
+1283	1	Summersdale Publishers
+1284	1	Running Press Miniature Editions
+1285	1	Headline Book Publishing
+1286	1	Perseus Books
+1287	1	Summersdale Publishers
+1288	1	Short Books Ltd
+1289	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1290	1	Michael O&#39;Mara Books Ltd
+1291	1	Prion Books Ltd
+1292	1	Running Press,U.S.
+1293	1	Michael O&#39;Mara Books Ltd
+1294	1	Pocket Books
+1295	1	Harper
+1296	1	Faber and Faber
+1297	1	Summersdale Publishers
+1298	1	Bloomsbury Publishing PLC
+1299	1	Birlinn Ltd
+1300	1	Black Swan
+1301	1	Bloomsbury Publishing PLC
+1302	1	Bantam Press
+1303	1	Birlinn Ltd
+1304	1	Headline Book Publishing
+1305	1	Penguin Books Ltd
+1306	1	Robinson Publishing
+1307	1	Running Press,U.S.
+1308	1	Penguin Books Ltd
+1309	1	Fourth Estate Ltd
+1310	1	Abson Books London
+1311	1	Penguin Books Ltd
+1312	1	Abson Books London
+1313	1	Dorling Kindersley Publishers Ltd
+1314	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1315	1	Hodder & Stoughton Ltd
+1316	1	Little, Brown
+1317	1	HarperCollins Publishers Ltd
+1318	1	Abson Books London
+1319	1	Dalesman Publishing Co Ltd
+1320	1	Lee Gone Publications
+1321	1	Hodder & Stoughton Ltd
+1322	1	Little, Brown Book Group
+1323	1	Harper
+1324	1	Oneworld Publications
+1325	1	Hodder & Stoughton Ltd
+1326	1	Summersdale Publishers
+1327	1	Penguin Books Ltd
+1328	1	Sphere
+1329	1	Summersdale Publishers
+1330	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1331	1	Bloomsbury Publishing PLC
+1332	1	Pan Books
+1333	1	Dalesman Publishing Co Ltd
+1334	1	Gill & Macmillan Ltd
+1335	1	Summersdale Publishers
+1336	1	Orbit
+1337	1	Butler Publishing
+1338	1	Penguin Books Ltd
+1339	1	Waverley Books Ltd
+1340	1	Penguin Books Ltd
+1341	1	Faber and Faber
+1342	1	Simon & Schuster Ltd
+1343	1	Hay House UK Ltd
+1344	1	Dover Publications Inc.
+1345	1	Hay House UK Ltd
+1346	1	Collins
+1347	1	Hodder Mobius
+1348	1	Harper Element
+1349	1	Hay House Inc
+1350	1	Rider & Co
+1351	1	Hodder Paperback
+1352	1	Rider & Co
+1353	1	CICO Books
+1354	1	Harper
+1355	1	Godsfield Press Ltd
+1356	1	John Murray Publishers Ltd
+1357	1	Hay House Inc
+1358	1	HarperOne
+1359	1	The History Press Ltd
+1360	1	The History Press Ltd
+1361	1	Sphere
+1362	1	Hay House Inc
+1363	1	Godsfield Press Ltd
+1364	1	David & Charles
+1365	1	Hay House Inc
+1366	1	Simon & Schuster Ltd
+1367	1	Parragon Book Service Ltd
+1368	1	Rider & Co
+1369	1	Hay House Inc
+1370	1	H J Kramer
+1371	1	Rough Guides Ltd
+1372	1	Watkins Publishing
+1373	1	Welbeck Press
+1374	1	Rider & Co
+1375	1	Element Books
+1376	1	Atlantic Books
+1377	1	Michael O&#39;Mara Books Ltd
+1378	1	Llewellyn Publications,U.S.
+1379	1	Hay House UK Ltd
+1380	1	Hay House Inc
+1381	1	Hay House Inc
+1382	1	North Atlantic Books,U.S.
+1383	1	Kube Publishing Ltd
+1384	1	Lotus Press
+1385	1	Trine Day
+1386	1	Century
+1387	1	W Foulsham & Co Ltd
+1388	1	Quantum
+1389	1	Hay House Inc
+1390	1	Dorling Kindersley Publishers Ltd
+1391	1	Souvenir Press Ltd
+1392	1	Hay House UK Ltd
+1393	1	Pennant Books Ltd
+1394	1	Hay House Inc
+1395	1	Rider & Co
+1396	1	Hay House UK Ltd
+1397	1	New World Library
+1398	1	Piatkus Books
+1399	1	Duncan Baird Publishers
+1400	1	Harper Element
+1401	1	Penguin Books Ltd
+1402	1	W Foulsham & Co Ltd
+1403	1	Macmillan
+1404	1	Virago Press Ltd
+1405	1	Thorsons
+1406	1	Rider & Co
+1407	1	Healing Arts Press
+1408	1	Souvenir Press Ltd
+1409	1	Hay House Inc
+1410	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+1411	1	Llewellyn Publications,U.S.
+1412	1	Hay House Inc
+1413	1	Hay House UK Ltd
+1414	1	Disinformation Company
+1415	1	Adams Media Corporation
+1416	1	Birlinn Ltd
+1417	1	Hay House Inc
+1418	1	Arrow Books Ltd
+1419	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+1420	1	Hay House UK Ltd
+1421	1	Vermilion
+1422	1	Amberley Publishing
+1423	1	Godsfield Press Ltd
+1424	1	Piatkus Books
+1425	1	Cassell Illustrated
+1426	1	BBC Books
+1427	1	Boxtree Ltd
+1428	1	Elliott & Thompson Limited
+1429	1	Weidenfeld & Nicolson
+1430	1	BBC Books
+1431	1	Weidenfeld & Nicolson
+1432	1	Headline Review
+1433	1	Sphere
+1434	1	Evans Mitchell Books
+1435	1	Apple Press
+1436	1	Amber Books
+1437	1	Luath Press Ltd
+1438	1	Rizzoli International Publications
+1439	1	Goodman Books
+1440	1	Fourth Estate Ltd
+1441	1	Bloomsbury Publishing PLC
+1442	1	HarperCollins Publishers Ltd
+1443	1	John Wiley & Sons Ltd
+1444	1	HarperPerennial
+1445	1	Michael Joseph Ltd
+1446	1	HarperCollins Publishers Ltd
+1447	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1448	1	Omnibus Press
+1449	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1450	1	Jawbone
+1451	1	Carlton Books Ltd
+1452	1	Headline Book Publishing
+1453	1	Mainstream Publishing
+1454	1	Aurum Press Ltd
+1455	1	Pan Books
+1456	1	Omnibus Press
+1457	1	Pocket Books
+1458	1	Trinity Mirror Sport Media
+1459	1	Omnibus Press
+1460	1	Bloomsbury Publishing PLC
+1461	1	Polygon An Imprint of Birlinn Limited
+1462	1	Penguin Books Ltd
+1463	1	Dorling Kindersley Publishers Ltd
+1464	1	Headline Book Publishing
+1465	1	Harry N. Abrams, Inc.
+1466	1	Aurum Press Ltd
+1467	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1468	1	Orion mass market paperback
+1469	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1470	1	Plume
+1471	1	Music Mentor Books
+1472	1	Music Mentor Books
+1473	1	Dorling Kindersley Publishers Ltd
+1474	1	Granta Books
+1475	1	Methuen Drama
+1476	1	Bloomsbury Publishing PLC
+1477	1	Blackstaff Press Ltd
+1478	1	Ebury Press
+1479	1	Cassell Illustrated
+1480	1	John Wiley & Sons Ltd
+1481	1	Wise Publications
+1482	1	Collins Design
+1483	1	Bloomsbury Publishing PLC
+1484	1	Taschen GmbH
+1485	1	Jawbone
+1486	1	Ebury Press
+1487	1	Bantam Press
+1488	1	Carlton Books Ltd
+1489	1	Canongate Books Ltd
+1490	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1491	1	Guardian Books
+1492	1	Methuen Drama
+1493	1	Granta Books
+1494	1	Hodder Paperback
+1495	1	Ebury Press
+1496	1	Old Pond Publishing Ltd
+1497	1	Formula One Books
+1498	1	HarperTrue
+1499	1	Hamlyn
+1500	1	Colin Baxter Photography Ltd
+1501	1	Hamlyn
+1502	1	Collins
+1503	1	Collins
+1504	1	Christopher Helm Publishers Ltd
+1505	1	Penguin Books Ltd
+1506	1	Dorling Kindersley Publishers Ltd
+1507	1	Dorling Kindersley Publishers Ltd
+1508	1	BBC Books
+1509	1	Robin Glover and Caroline Spencer
+1510	1	Parragon Book Service Ltd
+1511	1	Hamlyn
+1512	1	Hodder & Stoughton Ltd
+1513	1	Dorling Kindersley Publishers Ltd
+1514	1	Lorenz Books
+1515	1	Parragon Book Service Ltd
+1516	1	Teach Yourself Books
+1517	1	Collins
+1518	1	Hodder & Stoughton Ltd
+1519	1	HarperCollins Publishers Ltd
+1520	1	Ebury Press
+1521	1	Interpet Publishing
+1522	1	Carroll & Brown Publishers Limited
+1523	1	BBC Books
+1524	1	Parragon Book Service Ltd
+1525	1	David & Charles
+1526	1	Boxtree Ltd
+1527	1	The Natural History Museum
+1528	1	Ebury Press
+1529	1	Time Out Group Ltd
+1530	1	Dorling Kindersley Publishers Ltd
+1531	1	New Holland Publishers Ltd
+1532	1	Frances Lincoln Publishers Ltd
+1533	1	Studio Cactus Ltd
+1534	1	J H Haynes & Co Ltd
+1535	1	Bantam Press
+1536	1	WILDGuides
+1537	1	Gill & Macmillan Ltd
+1538	1	Frances Lincoln Publishers Ltd
+1539	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+1540	1	David & Charles
+1541	1	Hodder & Stoughton Ltd
+1542	1	New Holland Publishers Ltd
+1543	1	Hodder & Stoughton Ltd
+1544	1	Icon Books Ltd
+1545	1	White Ladder Press Ltd
+1546	1	Oxford University Press
+1547	1	Parragon Book Service Ltd
+1548	1	Collins
+1549	1	Bloomsbury Publishing PLC
+1550	1	Birlinn Ltd
+1551	1	White Star
+1552	1	Fourth Estate Ltd
+1553	1	Collins
+1554	1	Unity Print and Publishing Ltd
+1555	1	Christopher Helm Publishers Ltd
+1556	1	A & C Black Publishers Ltd
+1557	1	Dorling Kindersley Publishers Ltd
+1558	1	New Holland Publishers Ltd
+1559	1	Pocket Bibles
+1560	1	David & Charles
+1561	1	Conway Maritime Press Ltd
+1562	1	Square Peg
+1563	1	J H Haynes & Co Ltd
+1564	1	Mitchell Beazley
+1565	1	Interpet Publishing
+1566	1	HarperCollins Publishers Ltd
+1567	1	Harper
+1568	1	Abacus
+1569	1	Faber and Faber
+1570	1	Gill & Macmillan Ltd
+1571	1	Picador
+1572	1	Faber and Faber
+1573	1	Faber and Faber
+1574	1	Sinclair-Stevenson Ltd
+1575	1	Picador
+1576	1	Quercus Publishing Plc
+1577	1	Faber and Faber
+1578	1	Faber and Faber
+1579	1	The Black Library
+1580	1	Faber and Faber
+1581	1	Jonathan Cape Ltd
+1582	1	Headline Book Publishing
+1583	1	British Museum Press
+1584	1	Faber and Faber
+1585	1	Samuel French Ltd
+1586	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1587	1	Penguin Books Ltd
+1588	1	Oxford University Press
+1589	1	Penguin Classics
+1590	1	Collins
+1591	1	Faber and Faber
+1592	1	John Murray Publishers Ltd
+1593	1	Methuen Drama
+1594	1	Penguin Classics
+1595	1	Penguin Classics
+1596	1	Faber and Faber
+1597	1	Oxford University Press
+1598	1	Dover Publications Inc.
+1599	1	Picador
+1600	1	Bloodaxe Books Ltd
+1601	1	Atlantic Books
+1602	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1603	1	Oxford University Press
+1604	1	Faber and Faber
+1605	1	Faber and Faber
+1606	1	Faber and Faber
+1607	1	JR Books Ltd
+1608	1	Penguin Classics
+1609	1	Penguin Classics
+1610	1	Penguin Classics
+1611	1	Arden Shakespeare
+1612	1	Faber and Faber
+1613	1	Arden Shakespeare
+1614	1	Methuen Drama
+1615	1	Faber and Faber
+1616	1	Faber and Faber
+1617	1	John Murray Publishers Ltd
+1618	1	Verso Books
+1619	1	Avalanche Books
+1620	1	Picador
+1621	1	Penguin Classics
+1622	1	Faber and Faber
+1623	1	Oxford University Press
+1624	1	Picador
+1625	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1626	1	Wordsworth Editions Ltd
+1627	1	Penguin Classics
+1628	1	Carcanet Press Ltd
+1629	1	Quercus Publishing Plc
+1630	1	Oxford University Press
+1631	1	Bene Factum Publishing Ltd
+1632	1	Collins
+1633	1	Penguin Classics
+1634	1	Arden Shakespeare
+1635	1	Oxford University Press
+1636	1	Penguin Books Ltd
+1637	1	O&#39;Brien Press Ltd
+1638	1	Faber and Faber
+1639	1	Faber and Faber
+1640	1	Oxford University Press
+1641	1	Penguin Classics
+1642	1	Anvil Press Poetry
+1643	1	Association for Scottish Literary Studies
+1644	1	Dedalus Press
+1645	1	John Murray Publishers Ltd
+1646	1	Penguin Classics
+1647	1	Summersdale Publishers
+1648	1	Black Sparrow Press,U.S.
+1649	1	Modern Library Inc
+1650	1	Faber and Faber
+1651	1	Blackstaff Press Ltd
+1652	1	Vintage
+1653	1	Faber and Faber
+1654	1	Faber and Faber
+1655	1	Atlantic Books
+1656	1	Black Swan
+1657	1	Penguin Books Ltd
+1658	1	Fons Vitae,US
+1659	1	Vintage
+1660	1	Collins
+1661	1	Random House Books
+1662	1	Oxford Paperbacks
+1663	1	Penguin Books Ltd
+1664	1	Filiquarian Publishing
+1665	1	Penguin Books Ltd
+1666	1	Weidenfeld & Nicolson
+1667	1	Methuen young books
+1668	1	Allen Lane
+1669	1	Bloomsbury Publishing PLC
+1670	1	Simon & Schuster Ltd
+1671	1	Oxford University Press Inc
+1672	1	Profile Books Ltd
+1673	1	Liberties Press
+1674	1	WW Norton & Co
+1675	1	Oxford University Press
+1676	1	Tharpa Publications
+1677	1	JR Books Ltd
+1678	1	Penguin Books Ltd
+1679	1	HarperPress
+1680	1	Zaytuna Institute
+1681	1	Oxford University Press Inc
+1682	1	Vintage Classics
+1683	1	Penguin Books Ltd
+1684	1	British Museum Press
+1685	1	HarperCollinsWillow
+1686	1	Rider & Co
+1687	1	Virgin Books
+1688	1	Free Press
+1689	1	Hutchinson
+1690	1	Weidenfeld & Nicolson
+1691	1	Catholic Truth Society
+1692	1	HarperPerennial
+1693	1	Viking
+1694	1	Kodansha International Ltd
+1695	1	Dorling Kindersley Publishers Ltd
+1696	1	Penguin Books Ltd
+1697	1	Hodder & Stoughton Ltd
+1698	1	Vintage
+1699	1	Penguin Classics
+1700	1	Chambers
+1701	1	Wordsworth Editions Ltd
+1702	1	Allen Lane
+1703	1	O&#39;Brien Press Ltd
+1704	1	Quercus Publishing Plc
+1705	1	Abacus
+1706	1	Mainstream Publishing
+1707	1	Dorling Kindersley Publishers Ltd
+1708	1	Preface Publishing
+1709	1	The Bodley Head Ltd
+1710	1	Gill & Macmillan Ltd
+1711	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1712	1	Simon & Schuster Ltd
+1713	1	Corgi Books
+1714	1	Oxford University Press
+1715	1	SPCK Publishing
+1716	1	Oxford University Press
+1717	1	Teach Yourself Books
+1718	1	Atlantic Books
+1719	1	Arrow Books Ltd
+1720	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+1721	1	Biteback
+1722	1	Routledge
+1723	1	Collins
+1724	1	Allen Lane
+1725	1	Andre Deutsch Ltd
+1726	1	Corgi Books
+1727	1	Weidenfeld & Nicolson
+1728	1	Faber and Faber
+1729	1	Penguin Books Ltd
+1730	1	Princeton University Press
+1731	1	Yale University Press
+1732	1	Palgrave Macmillan
+1733	1	Phoenix (an Imprint of The Orion Publishing Group Ltd )
+1734	1	Routledge
+1735	1	Prentice-Hall
+1736	1	Bantam Press
+1737	1	Egmont Books Ltd
+1738	1	Quadrille Publishing Ltd
+1739	1	Orion Children&#39;s Books (an Imprint of The Orion Publishing Group Ltd )
+1740	1	Allen Lane
+1741	1	Penguin Books Ltd
+1742	1	Profile Books Ltd
+1743	1	Allen Lane
+1744	1	Viking
+1745	1	Running Press,U.S.
+1746	1	Automobile Association
+1747	1	Puffin Books
+1748	1	Capstone Publishing Ltd
+1749	1	Ebury Press
+1750	1	Green Profile
+1751	1	Dorling Kindersley Publishers Ltd
+1752	1	Prentice Hall Life
+1753	1	Profile Books Ltd
+1754	1	Stationery Office Books
+1755	1	Headline Book Publishing
+1756	1	HarperCollins Entertainment
+1757	1	Financial Times Prentice Hall
+1758	1	Automobile Association
+1759	1	Ladybird Books Ltd
+1760	1	Stationery Office Books
+1761	1	John Wiley & Sons Ltd
+1762	1	Teach Yourself Books
+1763	1	Virgin Books
+1764	1	Kogan Page Ltd
+1765	1	BSM
+1766	1	Prentice-Hall
+1767	1	Trotman & Co Ltd
+1768	1	Vermilion
+1769	1	Penguin Books Ltd
+1770	1	Red Squirrel Publishing
+1771	1	McGraw-Hill Professional
+1772	1	Book House
+1773	1	Kogan Page Ltd
+1774	1	Ravette Publishing Ltd
+1775	1	Kogan Page Ltd
+1776	1	monstermedia
+1777	1	How To Books Ltd
+1778	1	Prentice-Hall
+1779	1	Simon & Schuster Ltd
+1780	1	Prentice Hall Business
+1781	1	Focus Multimedia Ltd
+1782	1	Stationery Office Books
+1783	1	Business Plus
+1784	1	Sterling
+1785	1	McGraw-Hill Professional
+1786	1	Oxford University Press
+1787	1	Trotman Education
+1788	1	Which? Books
+1789	1	Collins
+1790	1	Vermilion
+1791	1	Simon & Schuster Children&#39;s
+1792	1	Which? Books
+1793	1	Piatkus Books
+1794	1	Abacus
+1795	1	Arrow Books Ltd
+1796	1	Cassell Illustrated
+1797	1	Arrow Books Ltd
+1798	1	Michael O&#39;Mara Books Ltd
+1799	1	William Heinemann Ltd
+1800	1	Penguin Books Ltd
+1801	1	BBC Books
+1802	1	National Geographic Society
+1803	1	Rider & Co
+1804	1	Michael O&#39;Mara Books Ltd
+1805	1	John Blake Publishing Ltd
+1806	1	Collins
+1807	1	University of Rochester Press
+1808	1	Faber and Faber
+1809	1	Heinemann
+1810	1	Collins
+1811	1	Oxford University Press
+1812	1	Token Publishing Ltd
+1813	1	Penguin Classics
+1814	1	Chambers
+1815	1	Profile Books Ltd
+1816	1	Oxford University Press
+1817	1	Birlinn Ltd
+1818	1	Collins
+1819	1	Coordination Group Publications Ltd (CGP)
+1820	1	Oxford University Press
+1821	1	HarperPerennial
+1822	1	Penguin Books Ltd
+1823	1	Collins
+1824	1	Sceptre
+1825	1	Hodder & Stoughton Ltd
+1826	1	Oxford University Press
+1827	1	Penguin Books Ltd
+1828	1	Vintage
+1829	1	Oxford University Press
+1830	1	Oxford University Press
+1831	1	Vintage
+1832	1	Hodder Paperback
+1833	1	Speechmark Publishing Ltd
+1834	1	Dorling Kindersley Publishers Ltd
+1835	1	Penguin Books Ltd
+1836	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1837	1	Berkley Publishing Corporation,U.S.
+1838	1	M & B
+1839	1	Arrow Books Ltd
+1840	1	Robinson Publishing
+1841	1	Headline Book Publishing
+1842	1	Piatkus Books
+1843	1	Robinson Publishing
+1844	1	Arrow Books Ltd
+1845	1	Vintage
+1846	1	Piatkus Books
+1847	1	Robinson Publishing
+1848	1	Signet
+1849	1	Piatkus Books
+1850	1	Pocket Books
+1851	1	Pan Books
+1852	1	Mills & Boon
+1853	1	Voyager
+1854	1	Harper
+1855	1	Arrow Books Ltd
+1856	1	Penguin Classics
+1857	1	Avon Books
+1858	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1859	1	Arrow Books Ltd
+1860	1	Headline Review
+1861	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1862	1	Financial Times Prentice Hall
+1863	1	Saint Martin&#39;s Press Inc.
+1864	1	Little Black Dress
+1865	1	Camden
+1866	1	Mills & Boon
+1867	1	M & B
+1868	1	Arrow Books Ltd
+1869	1	Harper
+1870	1	M & B
+1871	1	M & B
+1872	1	Piatkus Books
+1873	1	Pan Books
+1874	1	Sphere
+1875	1	Piatkus Books
+1876	1	Harper
+1877	1	M & B
+1878	1	Macmillan
+1879	1	Sphere
+1880	1	Corgi Books
+1881	1	Piatkus Books
+1882	1	M & B
+1883	1	Mira Books
+1884	1	Longman
+1885	1	Persephone Books Ltd
+1886	1	M & B
+1887	1	Piatkus Books
+1888	1	Arrow Books Ltd
+1889	1	Pan Books
+1890	1	Saint Martin&#39;s Press Inc.
+1891	1	Piatkus Books
+1892	1	Piatkus Books
+1893	1	Arrow Books Ltd
+1894	1	Forever
+1895	1	Avon Books
+1896	1	Piatkus Books
+1897	1	Corgi Books
+1898	1	Piatkus Books
+1899	1	Piatkus Books
+1900	1	M & B
+1901	1	Avon Books
+1902	1	Gollancz
+1903	1	Bantam Doubleday Dell
+1904	1	Piatkus Books
+1905	1	M & B
+1906	1	Piatkus Books
+1907	1	Penguin Classics
+1908	1	Mira Books
+1909	1	Pan Books
+1910	1	Silhouette Books
+1911	1	Penguin Books Ltd
+1912	1	Harper
+1913	1	Orion (an Imprint of The Orion Publishing Group Ltd )
+1914	1	Coronet Books
+1915	1	Corgi Books
+1916	1	Arrow Books Ltd
+1917	1	Avon Books
+1918	1	Saint Martin&#39;s Press Inc.
+1919	1	Mills & Boon
+1920	1	Saint Martin&#39;s Press Inc.
+1921	1	M & B
+1922	1	Piatkus Books
+1923	1	Saint Martin&#39;s Press Inc.
+1924	1	Black and White Publishing
+1925	1	Piatkus Books
+1926	1	Piatkus Books
+1927	1	M & B
+1928	1	Kinglake Publishing
+1929	1	Mills & Boon
+1930	1	Robinson Publishing
+1931	1	Berkley Publishing Corporation,U.S.
+1932	1	Arrow Books Ltd
+1933	1	M & B
+1934	1	M & B
+1935	1	Hodder Education
+1936	1	Essvale Corporation Limited
+1937	1	Piatkus Books
+1938	1	Gollancz
+1939	1	Gollancz
+1940	1	Piatkus Books
+1941	1	Harper
+1942	1	HarperCollins Publishers Ltd
+1943	1	Orbit
+1944	1	Gollancz
+1945	1	Gollancz
+1946	1	The Black Library
+1947	1	Orbit
+1948	1	HarperVoyager
+1949	1	Orbit
+1950	1	Gollancz
+1951	1	Gollancz
+1952	1	The Black Library
+1953	1	Gollancz
+1954	1	Gollancz
+1955	1	BBC Books
+1956	1	Voyager
+1957	1	Robinson Publishing
+1958	1	Routledge
+1959	1	Financial Times Prentice Hall
+1960	1	Pan Books
+1961	1	Harvard Business School Press
+1962	1	Orbit
+1963	1	Orbit
+1964	1	The Black Library
+1965	1	Headline Book Publishing
+1966	1	Piatkus Books
+1967	1	Gollancz
+1968	1	Orbit
+1969	1	Orbit
+1970	1	Orbit
+1971	1	HarperVoyager
+1972	1	Gollancz
+1973	1	HarperVoyager
+1974	1	Robinson Publishing
+1975	1	Mira Books
+1976	1	Orbit
+1977	1	Bantam Books (Transworld Publishers a division of the Random House Group)
+1978	1	Hodder & Stoughton Ltd
+1979	1	Orbit
+1980	1	The Black Library
+1981	1	Corgi Books
+1982	1	HarperCollins Publishers Ltd
+1983	1	Orbit
+1984	1	Pan Books
+1985	1	Pan Books
+1986	1	Hodder & Stoughton Ltd
+1987	1	Penguin Classics
+1988	1	Harriman House Publishing
+1989	1	John Blake Publishing Ltd
+1990	1	Arrow Books Ltd
+1991	1	Arrow Books Ltd
+1992	1	Pocket Books
+1993	1	Piatkus Books
+1994	1	Corgi Books
+1995	1	The Black Library
+1996	1	Headline Review
+1997	1	Orbit
+1998	1	Corgi Books
+1999	1	Orbit

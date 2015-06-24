@@ -1,0 +1,236 @@
+﻿camera	pcnation	manufacturer
+234	234	410	21
+0000	1	Panasonic
+0001	1	Panasonic
+0002	1	Panasonic
+0003	1	Panasonic
+0004	1	Panasonic
+0005	1	Panasonic
+0006	1	Panasonic
+0007	1	Panasonic
+0008	1	Panasonic
+0009	1	Panasonic
+0010	1	Panasonic
+0011	1	Panasonic
+0012	1	Panasonic
+0013	1	Panasonic
+0014	1	Panasonic
+0015	1	Panasonic
+0016	1	Panasonic
+0017	1	Panasonic
+0018	1	Panasonic
+0019	1	Panasonic
+0020	1	Panasonic
+0021	1	Panasonic
+0022	1	Panasonic
+0023	1	Panasonic
+0024	1	Panasonic
+0025	1	Panasonic
+0026	1	Panasonic
+0027	1	Panasonic
+0028	1	Panasonic
+0029	1	Panasonic
+0030	1	Panasonic
+0031	1	Panasonic
+0032	1	Panasonic
+0033	1	Panasonic
+0034	2	Olympus	Olympus Corporation
+0035	2	Nikon	Nikon Corporation
+0036	2	Nikon	Nikon Corporation
+0037	2	Nikon	Nikon Corporation
+0038	2	Nikon	Nikon Corporation
+0039	2	Nikon	Nikon Corporation
+0040	2	Nikon	Nikon Corporation
+0041	2	Nikon	Nikon Corporation
+0042	2	Nikon	Nikon Corporation
+0043	2	Nikon	Nikon Corporation
+0044	2	Nikon	Nikon Corporation
+0045	2	Nikon	Nikon Corporation
+0046	2	Nikon	Nikon Corporation
+0047	2	Nikon	Nikon Corporation
+0048	2	Nikon	Nikon Corporation
+0049	2	Nikon	Nikon Corporation
+0050	2	Nikon	Nikon Corporation
+0051	1	Panasonic
+0052	1	Panasonic
+0053	1	Panasonic
+0054	1	Panasonic
+0055	2	Agfa	Agfa-Gevaert Group
+0056	1	Panasonic
+0057	2	Fujifilm	Fuji Photo Film Co. Ltd
+0058	2	International Innovations	International Innovations, Inc
+0059	2	Vivitar	Sakar International, Inc
+0060	2	Vivitar	Sakar International, Inc
+0061	2	Vivitar	Sakar International, Inc
+0062	2	Intova	International Innovations, Inc
+0063	2	Vivitar	Sakar International, Inc
+0064	2	Olympus	Olympus Corporation
+0065	2	Olympus	Olympus Corporation
+0066	2	Olympus	Olympus Corporation
+0067	2	Olympus	Olympus Corporation
+0068	2	Olympus	Olympus Corporation
+0069	2	Olympus	Olympus Corporation
+0070	2	Nikon	Nikon Corporation
+0071	1	Samsung
+0072	1	Samsung
+0073	1	Samsung
+0074	2	International Innovations	International Innovations, Inc
+0075	2	Intova	International Innovations, Inc
+0076	1	Samsung
+0077	1	Samsung
+0078	2	Vivitar	Sakar International, Inc
+0079	2	Pentax	PENTAX Imaging Company
+0080	2	Pentax	PENTAX Imaging Company
+0081	2	Fujifilm	Fuji Photo Film Co. Ltd
+0082	2	Fujifilm	Fuji Photo Film Co. Ltd
+0083	2	Fujifilm	Fuji Photo Film Co. Ltd
+0084	2	Fujifilm	Fuji Photo Film Co. Ltd
+0085	2	Fujifilm	Fuji Photo Film Co. Ltd
+0086	2	Fujifilm	Fuji Photo Film Co. Ltd
+0087	2	Olympus	Olympus Corporation
+0088	2	Olympus	Olympus Corporation
+0089	2	Olympus	Olympus Corporation
+0090	2	Olympus	Olympus Corporation
+0091	2	Olympus	Olympus Corporation
+0092	2	Olympus	Olympus Corporation
+0093	2	Olympus	Olympus Corporation
+0094	2	Olympus	Olympus Corporation
+0095	2	Olympus	Olympus Corporation
+0096	2	Olympus	Olympus Corporation
+0097	2	Olympus	Olympus Corporation
+0098	2	Olympus	Olympus Corporation
+0099	2	Olympus	Olympus Corporation
+0100	2	Olympus	Olympus Corporation
+0101	2	Olympus	Olympus Corporation
+0102	2	Olympus	Olympus Corporation
+0103	2	Olympus	Olympus Corporation
+0104	2	Olympus	Olympus Corporation
+0105	2	Sony	Sony Corporation
+0106	2	Sony	Sony Corporation
+0107	2	Sony	Sony Corporation
+0108	2	Sony	Sony Corporation
+0109	2	Sony	Sony Corporation
+0110	2	Sony	Sony Corporation
+0111	2	Sony	Sony Corporation
+0112	2	Sony	Sony Corporation
+0113	2	Sony	Sony Corporation
+0114	2	Sony	Sony Corporation
+0115	2	Sony	Sony Corporation
+0116	2	Sony	Sony Corporation
+0117	2	Sony	Sony Corporation
+0118	2	Sony	Sony Corporation
+0119	2	Sony	Sony Corporation
+0120	2	Sony	Sony Corporation
+0121	2	Sony	Sony Corporation
+0122	2	Sony	Sony Corporation
+0123	2	Sony	Sony Corporation
+0124	2	Sony	Sony Corporation
+0125	2	Sony	Sony Corporation
+0126	2	Sony	Sony Corporation
+0127	2	Sony	Sony Corporation
+0128	2	Sony	Sony Corporation
+0129	2	Sony	Sony Corporation
+0130	2	Sony	Sony Corporation
+0131	2	Sony	Sony Corporation
+0132	2	Fujifilm	Fuji Photo Film Co. Ltd
+0133	2	Fujifilm	Fuji Photo Film Co. Ltd
+0134	2	Fujifilm	Fuji Photo Film Co. Ltd
+0135	2	Fujifilm	Fuji Photo Film Co. Ltd
+0136	2	Fujifilm	Fuji Photo Film Co. Ltd
+0137	2	Pentax	PENTAX Imaging Company
+0138	2	Pentax	PENTAX Imaging Company
+0139	2	Pentax	PENTAX Imaging Company
+0140	2	Pentax	PENTAX Imaging Company
+0141	2	Pentax	PENTAX Imaging Company
+0142	1	Samsung
+0143	1	Panasonic
+0144	1	Panasonic
+0145	1	Panasonic
+0146	1	Panasonic
+0147	2	Canon	Canon, Inc
+0148	2	Canon	Canon, Inc
+0149	2	Canon	Canon, Inc
+0150	2	Canon	Canon, Inc
+0151	2	Canon	Canon, Inc
+0152	2	Canon	Canon, Inc
+0153	2	Canon	Canon, Inc
+0154	2	Canon	Canon, Inc
+0155	2	Nikon	Nikon Corporation
+0156	2	Vivitar	Sakar International, Inc
+0157	2	Canon	Canon, Inc
+0158	2	Canon	Canon, Inc
+0159	2	Canon	Canon, Inc
+0160	2	Canon	Canon, Inc
+0161	2	Canon	Canon, Inc
+0162	2	Canon	Canon, Inc
+0163	2	Canon	Canon, Inc
+0164	2	Canon	Canon, Inc
+0165	2	Canon	Canon, Inc
+0166	2	Canon	Canon, Inc
+0167	2	Canon	Canon, Inc
+0168	2	Canon	Canon, Inc
+0169	2	Canon	Canon, Inc
+0170	2	Canon	Canon, Inc
+0171	2	Canon	Canon, Inc
+0172	2	Canon	Canon, Inc
+0173	2	Olympus	Olympus Corporation
+0174	2	Sony	Sony Corporation
+0175	2	Nikon	Nikon Corporation
+0176	2	Nikon	Nikon Corporation
+0177	2	Nikon	Nikon Corporation
+0178	2	Nikon	Nikon Corporation
+0179	2	Nikon	Nikon Corporation
+0180	2	Nikon	Nikon Corporation
+0181	2	Nikon	Nikon Corporation
+0182	2	Nikon	Nikon Corporation
+0183	2	Nikon	Nikon Corporation
+0184	2	Nikon	Nikon Corporation
+0185	2	Nikon	Nikon Corporation
+0186	2	Nikon	Nikon Corporation
+0187	2	Nikon	Nikon Corporation
+0188	2	Nikon	Nikon Corporation
+0189	2	Nikon	Nikon Corporation
+0190	2	Nikon	Nikon Corporation
+0191	2	Nikon	Nikon Corporation
+0192	2	Nikon	Nikon Corporation
+0193	2	Nikon	Nikon Corporation
+0194	1	Panasonic
+0195	1	Panasonic
+0196	1	Panasonic
+0197	1	Panasonic
+0198	1	Panasonic
+0199	1	Panasonic
+0200	1	Panasonic
+0201	1	Panasonic
+0202	2	Nikon	Nikon Corporation
+0203	2	Sony	Sony Corporation
+0204	2	Sony	Sony Corporation
+0205	2	Sony	Sony Corporation
+0206	2	Sony	Sony Corporation
+0207	2	Sony	Sony Corporation
+0208	2	Intova	International Innovations, Inc
+0209	2	Pentax	PENTAX Imaging Company
+0210	2	Pentax	PENTAX Imaging Company
+0211	2	Pentax	PENTAX Imaging Company
+0212	2	Pentax	PENTAX Imaging Company
+0213	2	Fujifilm	Fuji Photo Film Co. Ltd
+0214	2	Fujifilm	Fuji Photo Film Co. Ltd
+0215	2	Fujifilm	Fuji Photo Film Co. Ltd
+0216	2	Fujifilm	Fuji Photo Film Co. Ltd
+0217	2	Fujifilm	Fuji Photo Film Co. Ltd
+0218	2	Fujifilm	Fuji Photo Film Co. Ltd
+0219	2	Fujifilm	Fuji Photo Film Co. Ltd
+0220	2	Vivitar	Sakar International, Inc
+0221	2	Vivitar	Sakar International, Inc
+0222	2	Olympus	Olympus Corporation
+0223	2	Olympus	Olympus Corporation
+0224	2	Olympus	Olympus Corporation
+0225	2	Olympus	Olympus Corporation
+0226	2	Olympus	Olympus Corporation
+0227	2	Sony	Sony Corporation
+0228	1	Samsung
+0229	2	Canon	Canon, Inc
+0230	2	Fujifilm	Fuji Photo Film Co. Ltd
+0231	2	Canon	Canon, Inc
+0232	2	Canon	Canon, Inc
+0233	2	Canon	Canon, Inc

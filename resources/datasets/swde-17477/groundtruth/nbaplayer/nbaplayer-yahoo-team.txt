@@ -1,0 +1,440 @@
+﻿nbaplayer	yahoo	team
+438	438	438	30
+0000	1	Boston Celtics
+0001	1	Boston Celtics
+0002	1	Boston Celtics
+0003	1	Boston Celtics
+0004	1	Boston Celtics
+0005	1	Boston Celtics
+0006	1	Boston Celtics
+0007	1	Boston Celtics
+0008	1	Boston Celtics
+0009	1	Boston Celtics
+0010	1	Boston Celtics
+0011	1	Boston Celtics
+0012	1	Boston Celtics
+0013	1	Boston Celtics
+0014	1	Boston Celtics
+0015	1	New Jersey Nets
+0016	1	New Jersey Nets
+0017	1	New Jersey Nets
+0018	1	New Jersey Nets
+0019	1	New Jersey Nets
+0020	1	New Jersey Nets
+0021	1	New Jersey Nets
+0022	1	New Jersey Nets
+0023	1	New Jersey Nets
+0024	1	New Jersey Nets
+0025	1	New Jersey Nets
+0026	1	New Jersey Nets
+0027	1	New Jersey Nets
+0028	1	New Jersey Nets
+0029	1	New Jersey Nets
+0030	1	Atlanta Hawks
+0031	1	Atlanta Hawks
+0032	1	Atlanta Hawks
+0033	1	Atlanta Hawks
+0034	1	Atlanta Hawks
+0035	1	Atlanta Hawks
+0036	1	Atlanta Hawks
+0037	1	Atlanta Hawks
+0038	1	Atlanta Hawks
+0039	1	Atlanta Hawks
+0040	1	Atlanta Hawks
+0041	1	Atlanta Hawks
+0042	1	Atlanta Hawks
+0043	1	Atlanta Hawks
+0044	1	Atlanta Hawks
+0045	1	Charlotte Bobcats
+0046	1	Charlotte Bobcats
+0047	1	Charlotte Bobcats
+0048	1	Charlotte Bobcats
+0049	1	Charlotte Bobcats
+0050	1	Charlotte Bobcats
+0051	1	Charlotte Bobcats
+0052	1	Charlotte Bobcats
+0053	1	Charlotte Bobcats
+0054	1	Charlotte Bobcats
+0055	1	Charlotte Bobcats
+0056	1	Charlotte Bobcats
+0057	1	Charlotte Bobcats
+0058	1	Charlotte Bobcats
+0059	1	Charlotte Bobcats
+0060	1	Miami Heat
+0061	1	Miami Heat
+0062	1	Miami Heat
+0063	1	Miami Heat
+0064	1	Miami Heat
+0065	1	Miami Heat
+0066	1	Miami Heat
+0067	1	Miami Heat
+0068	1	Miami Heat
+0069	1	Miami Heat
+0070	1	Miami Heat
+0071	1	Miami Heat
+0072	1	Miami Heat
+0073	1	Miami Heat
+0074	1	Miami Heat
+0075	1	Orlando Magic
+0076	1	Orlando Magic
+0077	1	Orlando Magic
+0078	1	Orlando Magic
+0079	1	Orlando Magic
+0080	1	Orlando Magic
+0081	1	Orlando Magic
+0082	1	Orlando Magic
+0083	1	Orlando Magic
+0084	1	Orlando Magic
+0085	1	Orlando Magic
+0086	1	Orlando Magic
+0087	1	Orlando Magic
+0088	1	Washington Wizards
+0089	1	Washington Wizards
+0090	1	Washington Wizards
+0091	1	Washington Wizards
+0092	1	Washington Wizards
+0093	1	Washington Wizards
+0094	1	Washington Wizards
+0095	1	Washington Wizards
+0096	1	Washington Wizards
+0097	1	Washington Wizards
+0098	1	Washington Wizards
+0099	1	Washington Wizards
+0100	1	Washington Wizards
+0101	1	Washington Wizards
+0102	1	Washington Wizards
+0103	1	Denver Nuggets
+0104	1	Denver Nuggets
+0105	1	Denver Nuggets
+0106	1	Denver Nuggets
+0107	1	Denver Nuggets
+0108	1	Denver Nuggets
+0109	1	Denver Nuggets
+0110	1	Denver Nuggets
+0111	1	Denver Nuggets
+0112	1	Denver Nuggets
+0113	1	Denver Nuggets
+0114	1	Denver Nuggets
+0115	1	Denver Nuggets
+0116	1	Denver Nuggets
+0117	1	Minnesota Timberwolves
+0118	1	Minnesota Timberwolves
+0119	1	Minnesota Timberwolves
+0120	1	Minnesota Timberwolves
+0121	1	Minnesota Timberwolves
+0122	1	Minnesota Timberwolves
+0123	1	Minnesota Timberwolves
+0124	1	Minnesota Timberwolves
+0125	1	Minnesota Timberwolves
+0126	1	Minnesota Timberwolves
+0127	1	Minnesota Timberwolves
+0128	1	Minnesota Timberwolves
+0129	1	Minnesota Timberwolves
+0130	1	Oklahoma City Thunder
+0131	1	Oklahoma City Thunder
+0132	1	Oklahoma City Thunder
+0133	1	Oklahoma City Thunder
+0134	1	Oklahoma City Thunder
+0135	1	Oklahoma City Thunder
+0136	1	Oklahoma City Thunder
+0137	1	Oklahoma City Thunder
+0138	1	Oklahoma City Thunder
+0139	1	Oklahoma City Thunder
+0140	1	Oklahoma City Thunder
+0141	1	Oklahoma City Thunder
+0142	1	Oklahoma City Thunder
+0143	1	Oklahoma City Thunder
+0144	1	Oklahoma City Thunder
+0145	1	Portland Trail Blazers
+0146	1	Portland Trail Blazers
+0147	1	Portland Trail Blazers
+0148	1	Portland Trail Blazers
+0149	1	Portland Trail Blazers
+0150	1	Portland Trail Blazers
+0151	1	Portland Trail Blazers
+0152	1	Portland Trail Blazers
+0153	1	Portland Trail Blazers
+0154	1	Portland Trail Blazers
+0155	1	Portland Trail Blazers
+0156	1	Portland Trail Blazers
+0157	1	Portland Trail Blazers
+0158	1	Portland Trail Blazers
+0159	1	Portland Trail Blazers
+0160	1	Utah Jazz
+0161	1	Utah Jazz
+0162	1	Utah Jazz
+0163	1	Utah Jazz
+0164	1	Utah Jazz
+0165	1	Utah Jazz
+0166	1	Utah Jazz
+0167	1	Utah Jazz
+0168	1	Utah Jazz
+0169	1	Utah Jazz
+0170	1	Utah Jazz
+0171	1	Utah Jazz
+0172	1	Utah Jazz
+0173	1	Utah Jazz
+0174	1	New York Knicks
+0175	1	New York Knicks
+0176	1	New York Knicks
+0177	1	New York Knicks
+0178	1	New York Knicks
+0179	1	New York Knicks
+0180	1	New York Knicks
+0181	1	New York Knicks
+0182	1	New York Knicks
+0183	1	New York Knicks
+0184	1	New York Knicks
+0185	1	New York Knicks
+0186	1	New York Knicks
+0187	1	New York Knicks
+0188	1	New York Knicks
+0189	1	Golden State Warriors
+0190	1	Golden State Warriors
+0191	1	Golden State Warriors
+0192	1	Golden State Warriors
+0193	1	Golden State Warriors
+0194	1	Golden State Warriors
+0195	1	Golden State Warriors
+0196	1	Golden State Warriors
+0197	1	Golden State Warriors
+0198	1	Golden State Warriors
+0199	1	Golden State Warriors
+0200	1	Golden State Warriors
+0201	1	Golden State Warriors
+0202	1	Golden State Warriors
+0203	1	Los Angeles Lakers
+0204	1	Los Angeles Lakers
+0205	1	Los Angeles Lakers
+0206	1	Los Angeles Lakers
+0207	1	Los Angeles Lakers
+0208	1	Los Angeles Lakers
+0209	1	Los Angeles Lakers
+0210	1	Los Angeles Lakers
+0211	1	Los Angeles Lakers
+0212	1	Los Angeles Lakers
+0213	1	Los Angeles Lakers
+0214	1	Los Angeles Lakers
+0215	1	Los Angeles Lakers
+0216	1	Los Angeles Lakers
+0217	1	Los Angeles Lakers
+0218	1	Los Angeles Clippers
+0219	1	Los Angeles Clippers
+0220	1	Los Angeles Clippers
+0221	1	Los Angeles Clippers
+0222	1	Los Angeles Clippers
+0223	1	Los Angeles Clippers
+0224	1	Los Angeles Clippers
+0225	1	Los Angeles Clippers
+0226	1	Los Angeles Clippers
+0227	1	Los Angeles Clippers
+0228	1	Los Angeles Clippers
+0229	1	Los Angeles Clippers
+0230	1	Los Angeles Clippers
+0231	1	Los Angeles Clippers
+0232	1	Phoenix Suns
+0233	1	Phoenix Suns
+0234	1	Phoenix Suns
+0235	1	Phoenix Suns
+0236	1	Phoenix Suns
+0237	1	Phoenix Suns
+0238	1	Phoenix Suns
+0239	1	Phoenix Suns
+0240	1	Phoenix Suns
+0241	1	Phoenix Suns
+0242	1	Phoenix Suns
+0243	1	Phoenix Suns
+0244	1	Phoenix Suns
+0245	1	Phoenix Suns
+0246	1	Sacramento Kings
+0247	1	Sacramento Kings
+0248	1	Sacramento Kings
+0249	1	Sacramento Kings
+0250	1	Sacramento Kings
+0251	1	Sacramento Kings
+0252	1	Sacramento Kings
+0253	1	Sacramento Kings
+0254	1	Sacramento Kings
+0255	1	Sacramento Kings
+0256	1	Sacramento Kings
+0257	1	Sacramento Kings
+0258	1	Sacramento Kings
+0259	1	Sacramento Kings
+0260	1	Dallas Mavericks
+0261	1	Dallas Mavericks
+0262	1	Dallas Mavericks
+0263	1	Dallas Mavericks
+0264	1	Dallas Mavericks
+0265	1	Dallas Mavericks
+0266	1	Dallas Mavericks
+0267	1	Dallas Mavericks
+0268	1	Dallas Mavericks
+0269	1	Dallas Mavericks
+0270	1	Dallas Mavericks
+0271	1	Dallas Mavericks
+0272	1	Dallas Mavericks
+0273	1	Dallas Mavericks
+0274	1	Dallas Mavericks
+0275	1	Houston Rockets
+0276	1	Houston Rockets
+0277	1	Houston Rockets
+0278	1	Houston Rockets
+0279	1	Houston Rockets
+0280	1	Houston Rockets
+0281	1	Houston Rockets
+0282	1	Houston Rockets
+0283	1	Houston Rockets
+0284	1	Houston Rockets
+0285	1	Houston Rockets
+0286	1	Houston Rockets
+0287	1	Houston Rockets
+0288	1	Houston Rockets
+0289	1	Houston Rockets
+0290	1	Memphis Grizzlies
+0291	1	Memphis Grizzlies
+0292	1	Memphis Grizzlies
+0293	1	Memphis Grizzlies
+0294	1	Memphis Grizzlies
+0295	1	Memphis Grizzlies
+0296	1	Memphis Grizzlies
+0297	1	Memphis Grizzlies
+0298	1	Memphis Grizzlies
+0299	1	Memphis Grizzlies
+0300	1	Memphis Grizzlies
+0301	1	Memphis Grizzlies
+0302	1	Memphis Grizzlies
+0303	1	Memphis Grizzlies
+0304	1	New Orleans Hornets
+0305	1	New Orleans Hornets
+0306	1	New Orleans Hornets
+0307	1	New Orleans Hornets
+0308	1	New Orleans Hornets
+0309	1	New Orleans Hornets
+0310	1	New Orleans Hornets
+0311	1	New Orleans Hornets
+0312	1	New Orleans Hornets
+0313	1	New Orleans Hornets
+0314	1	New Orleans Hornets
+0315	1	New Orleans Hornets
+0316	1	New Orleans Hornets
+0317	1	New Orleans Hornets
+0318	1	New Orleans Hornets
+0319	1	San Antonio Spurs
+0320	1	San Antonio Spurs
+0321	1	San Antonio Spurs
+0322	1	San Antonio Spurs
+0323	1	San Antonio Spurs
+0324	1	San Antonio Spurs
+0325	1	San Antonio Spurs
+0326	1	San Antonio Spurs
+0327	1	San Antonio Spurs
+0328	1	San Antonio Spurs
+0329	1	San Antonio Spurs
+0330	1	San Antonio Spurs
+0331	1	San Antonio Spurs
+0332	1	San Antonio Spurs
+0333	1	San Antonio Spurs
+0334	1	Philadelphia 76ers
+0335	1	Philadelphia 76ers
+0336	1	Philadelphia 76ers
+0337	1	Philadelphia 76ers
+0338	1	Philadelphia 76ers
+0339	1	Philadelphia 76ers
+0340	1	Philadelphia 76ers
+0341	1	Philadelphia 76ers
+0342	1	Philadelphia 76ers
+0343	1	Philadelphia 76ers
+0344	1	Philadelphia 76ers
+0345	1	Philadelphia 76ers
+0346	1	Philadelphia 76ers
+0347	1	Philadelphia 76ers
+0348	1	Philadelphia 76ers
+0349	1	Toronto Raptors
+0350	1	Toronto Raptors
+0351	1	Toronto Raptors
+0352	1	Toronto Raptors
+0353	1	Toronto Raptors
+0354	1	Toronto Raptors
+0355	1	Toronto Raptors
+0356	1	Toronto Raptors
+0357	1	Toronto Raptors
+0358	1	Toronto Raptors
+0359	1	Toronto Raptors
+0360	1	Toronto Raptors
+0361	1	Toronto Raptors
+0362	1	Toronto Raptors
+0363	1	Toronto Raptors
+0364	1	Chicago Bulls
+0365	1	Chicago Bulls
+0366	1	Chicago Bulls
+0367	1	Chicago Bulls
+0368	1	Chicago Bulls
+0369	1	Chicago Bulls
+0370	1	Chicago Bulls
+0371	1	Chicago Bulls
+0372	1	Chicago Bulls
+0373	1	Chicago Bulls
+0374	1	Chicago Bulls
+0375	1	Chicago Bulls
+0376	1	Chicago Bulls
+0377	1	Chicago Bulls
+0378	1	Chicago Bulls
+0379	1	Cleveland Cavaliers
+0380	1	Cleveland Cavaliers
+0381	1	Cleveland Cavaliers
+0382	1	Cleveland Cavaliers
+0383	1	Cleveland Cavaliers
+0384	1	Cleveland Cavaliers
+0385	1	Cleveland Cavaliers
+0386	1	Cleveland Cavaliers
+0387	1	Cleveland Cavaliers
+0388	1	Cleveland Cavaliers
+0389	1	Cleveland Cavaliers
+0390	1	Cleveland Cavaliers
+0391	1	Cleveland Cavaliers
+0392	1	Cleveland Cavaliers
+0393	1	Cleveland Cavaliers
+0394	1	Detroit Pistons
+0395	1	Detroit Pistons
+0396	1	Detroit Pistons
+0397	1	Detroit Pistons
+0398	1	Detroit Pistons
+0399	1	Detroit Pistons
+0400	1	Detroit Pistons
+0401	1	Detroit Pistons
+0402	1	Detroit Pistons
+0403	1	Detroit Pistons
+0404	1	Detroit Pistons
+0405	1	Detroit Pistons
+0406	1	Detroit Pistons
+0407	1	Detroit Pistons
+0408	1	Detroit Pistons
+0409	1	Indiana Pacers
+0410	1	Indiana Pacers
+0411	1	Indiana Pacers
+0412	1	Indiana Pacers
+0413	1	Indiana Pacers
+0414	1	Indiana Pacers
+0415	1	Indiana Pacers
+0416	1	Indiana Pacers
+0417	1	Indiana Pacers
+0418	1	Indiana Pacers
+0419	1	Indiana Pacers
+0420	1	Indiana Pacers
+0421	1	Indiana Pacers
+0422	1	Indiana Pacers
+0423	1	Indiana Pacers
+0424	1	Milwaukee Bucks
+0425	1	Milwaukee Bucks
+0426	1	Milwaukee Bucks
+0427	1	Milwaukee Bucks
+0428	1	Milwaukee Bucks
+0429	1	Milwaukee Bucks
+0430	1	Milwaukee Bucks
+0431	1	Milwaukee Bucks
+0432	1	Milwaukee Bucks
+0433	1	Milwaukee Bucks
+0434	1	Milwaukee Bucks
+0435	1	Milwaukee Bucks
+0436	1	Milwaukee Bucks
+0437	1	Milwaukee Bucks

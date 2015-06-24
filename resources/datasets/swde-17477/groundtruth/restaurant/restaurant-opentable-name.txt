@@ -1,0 +1,2002 @@
+﻿restaurant	opentable	name
+2000	2000	2000	1998
+0000	1	Agave - Las Vegas
+0001	1	Aquaknox
+0002	1	B.B. King's Blues Club - Las Vegas
+0003	1	Binion's Ranch Steakhouse
+0004	1	BOA Steakhouse
+0005	1	Border Grill - Las Vegas
+0006	1	Bouchon at The Venetian
+0007	1	Charcoal Room
+0008	1	Delmonico Steakhouse
+0009	1	DJT
+0010	1	Eiffel Tower
+0011	1	Enoteca San Marco
+0012	1	Flame Steakhouse - El Cortez Hotel & Casino
+0013	1	Fleur de Lys - Las Vegas
+0014	1	Gaetano's Ristorante
+0015	1	Garduno's
+0016	1	Golden Steer Steakhouse
+0017	1	Hank's Fine Steaks & Martinis
+0018	1	Havana Grill
+0019	1	La Scala
+0020	1	Lagasse's Stadium - Palazzo Resort Hotel Casino
+0021	1	Lavo
+0022	1	Little Buddha Restaurant Sushi Bar & Lounge
+0023	1	Lucille's Smokehouse Bar-B-Que
+0024	1	Mastro's Ocean Club - Las Vegas
+0025	1	Mint Indian Bistro
+0026	1	Morton's The Steakhouse - Las Vegas
+0027	1	MOzen - Mandarin Oriental Las Vegas
+0028	1	Mundo Restaurant
+0029	1	The Palm - Las Vegas
+0030	1	Pamplemousse
+0031	1	Pool Cafe - Mandarin Oriental Las Vegas
+0032	1	Postrio - Las Vegas
+0033	1	Red Square - Las Vegas
+0034	1	Roy's Las Vegas - Flamingo
+0035	1	rumjungle
+0036	1	Siena Italian Trattoria
+0037	1	SUSHISAMBA strip
+0038	1	The Tillerman
+0039	1	Todd English P.U.B.
+0040	1	Waverly's Steak House - Cannery Casino & Hotel
+0041	1	Wolfgang Puck Pizzeria & Cucina
+0042	1	Austin's Restaurant
+0043	1	Bianca's An Italian Eatery
+0044	1	Chef Warren's
+0045	1	Caffe Phoenix
+0046	1	Cameo 1900
+0047	1	Carlton's at the Ocean Club
+0048	1	East - Blockade Runner Beach Resort
+0049	1	The Lifesaving Station - Sanderling Resort
+0050	1	Press 102
+0051	1	Yo Sake Downtown Sushi Lounge
+0052	1	23Hoyt
+0053	1	Aquariva
+0054	1	Bistro 921 - The Hilton, Portland
+0055	1	Bluehour
+0056	1	Brasserie Montmartre
+0057	1	clarklewis
+0058	1	Fivespice Seafood & Wine Bar
+0059	1	Genoa Restaurant
+0060	1	Hall Street Grill
+0061	1	Jake's Famous Crawfish
+0062	1	Jonathan's Restaurant
+0063	1	The Lodge Restaurant at Black Butte Ranch
+0064	1	MetroVino
+0065	1	The Original
+0066	1	Red Star
+0067	1	Rivershore Bar & Grill
+0068	1	Ten 01
+0069	1	Tucci Ristorante
+0070	1	Typhoon! on Broadway (Downtown)
+0071	1	Typhoon! on Everett
+0072	1	Arcodoro - Houston
+0073	1	Aura Restaurant
+0074	1	Birraporetti's - Friendswood
+0075	1	Brenner’s Steakhouse Katy Freeway
+0076	1	Cafe Moustache
+0077	1	Caffe di Fiore
+0078	1	Eric's-Univ of Houston-Hilton College
+0079	1	Fleming's Prime Steakhouse Houston
+0080	1	Kona Grill - Houston
+0081	1	Morton's The Steakhouse - Houston - Downtown
+0082	1	Palazzo's Trattoria
+0083	1	Perry's Italian Grille
+0084	1	Perry's Steakhouse & Grille - Cinco Ranch/Katy
+0085	1	Perry's Steakhouse & Grille - The Woodlands
+0086	1	Pesce - Houston
+0087	1	Polo's Signature
+0088	1	Post Oak Grill - Sugar Land
+0089	1	Red & White Wine Bistro
+0090	1	Rudy & Paco Restaurant & Bar
+0091	1	Shellfish Sports Bar & Grill
+0092	1	Strip House in Houston
+0093	1	Sullivan's Steakhouse
+0094	1	Sushi Raku
+0095	1	Veritas Wine and Bistro
+0096	1	Zula Restaurant
+0097	1	1906 at Longwood Gardens
+0098	1	333 Belrose
+0099	1	Amis
+0100	1	Amuse - Le Meridien Hotel- Philadelphia
+0101	1	Anthony's Creative Italian Cuisine
+0102	1	Apollinare Italian Restaurant
+0103	1	Barclay Prime
+0104	1	BARSAVONA at Savona Restaurant
+0105	1	Bella Tori at the Mansion
+0106	1	Bibou
+0107	1	Bistro Di Marino
+0108	1	BJ's Steak & Rib House - Selinsgrove
+0109	1	Black Bass Hotel
+0110	1	Blackfish - Conshohocken
+0111	1	Bourbon Blue
+0112	1	Bricco - Harrisburg
+0113	1	Buckeye Tavern
+0114	1	Butcher & Singer
+0115	1	Cafe Madison
+0116	1	Capital Grille - Philadelphia
+0117	1	Chart House Restaurant - Philadelphia
+0118	1	Chifa
+0119	1	Cichetteria 19
+0120	1	Columbus Inn
+0121	1	Concordville Inn
+0122	1	Copper Fish on Broadway
+0123	1	Coyote Crossing - Conshohocken
+0124	1	D'Angelo's Ristorante Italiano
+0125	1	Davio's - Philadelphia
+0126	1	Delmonico’s Steakhouse at the Hilton Philadelphia City Avenue
+0127	1	Devil's Den
+0128	1	DiNardo's Famous Seafood
+0129	1	Divan Turkish Kitchen
+0130	1	Doc Magrogan's Oyster House
+0131	1	Downey's
+0132	1	Dream Cuisine Cafe
+0133	1	Ebbitt Room
+0134	1	Fenicci's of Hershey
+0135	1	Fleming's Prime Steakhouse Radnor
+0136	1	Franco's Trattoria
+0137	1	The Freight House
+0138	1	General Warren Inne
+0139	1	Generations Restaurant
+0140	1	Georges'
+0141	1	Giumarello's Restaurant and G Bar
+0142	1	Grey Social Bar + Restaurant
+0143	1	Haru Sushi - Philadelphia
+0144	1	Harvest at The Hotel Hershey
+0145	1	Harvest Seasonal Grill
+0146	1	Il Portico Ristorante
+0147	1	Iron Hill Brewery - Lancaster
+0148	1	Iron Hill Brewery - Maple Shade
+0149	1	Iron Hill Brewery - Wilmington
+0150	1	JAMES
+0151	1	Jasmine Asian Cuisine
+0152	1	Joe Pesce
+0153	1	Kome Fine Japanese Cuisine
+0154	1	Krazy Kat's at The Inn at Montchanin Village
+0155	1	La Stanza
+0156	1	Maggiano's - Philadelphia
+0157	1	The Mansion Inn
+0158	1	McCormick & Schmick's Seafood - Cherry Hill
+0159	1	Melange @ Haddonfield
+0160	1	The Melting Pot - Bethlehem
+0161	1	The Melting Pot - Center City
+0162	1	Meritage - Philadelphia
+0163	1	Moshulu
+0164	1	NaBrasa
+0165	1	Nectar - Philadelphia
+0166	1	Octo Waterfront Grille
+0167	1	Orillas Tapas Bar & Restaurant
+0168	1	The Paddock at Devon
+0169	1	Penne Restaurant
+0170	1	Percy Street Barbecue
+0171	1	Popi's Italian Restaurant
+0172	1	Portabella's Sports Bar & Grille
+0173	1	Ristorante Panorama
+0174	1	Rum Bar
+0175	1	Ruth's Chris Steak House - Philadelphia
+0176	1	Shula's 347 Grill at the Philadelphia West Marriott
+0177	1	Slate - Philadelphia
+0178	1	Sola - Bryn Mawr
+0179	1	Starfish Brasserie
+0180	1	Sushi Planet - Philadelphia
+0181	1	Tavern 17
+0182	1	Temperance House
+0183	1	Terra Nova
+0184	1	Valenca
+0185	1	Vetri
+0186	1	Washington Crossing Inn
+0187	1	White Heron Grill
+0188	1	Xochitl
+0189	1	Zoubi
+0190	1	2 Johns
+0191	1	Adobe Cantina and Salsa
+0192	1	Bacco
+0193	1	Begue's - Royal Sonesta
+0194	1	Capital City Grill
+0195	1	Copeland's Cheesecake Bistro - Metairie
+0196	1	Cristiano Ristorante
+0197	1	The Crystal Room at Le Pavillon Hotel
+0198	1	Domenica
+0199	1	Ernest's Orleans Restaurant
+0200	1	Galvez Restaurant
+0201	1	La Carreta
+0202	1	La Petite Grocery
+0203	1	M bistro by Chef Matt Murphy
+0204	1	Martinique Bistro
+0205	1	The Pelican Club
+0206	1	Ruth's Chris Steak House - Metairie
+0207	1	The Sazerac Restaurant-Roosevelt Hotel-New Orleans
+0208	1	Shula's Steak House - New Orleans
+0209	1	Stella! Restaurant
+0210	1	Acqua Al 2 Ristorante
+0211	1	Aloha Sushi & Hawaiian Grille
+0212	1	Arterra
+0213	1	Bali Hai Restaurant
+0214	1	Brian's 24
+0215	1	Brigantine Coronado
+0216	1	Brigantine La Mesa
+0217	1	Busalacchi's Ristorante
+0218	1	California Bistro - Park Hyatt Aviara
+0219	1	Candelas
+0220	1	The French Gourmet
+0221	1	Fresco Trattoria & Bar
+0222	1	Gourmet Italia
+0223	1	Il Fornaio - Coronado
+0224	1	Jack & Giulio's Italian Restaurant
+0225	1	Jai by Wolfgang Puck
+0226	1	Jimmy Love's
+0227	1	JRDN Restaurant
+0228	1	Kous Kous Moroccan Bistro
+0229	1	La Costa Grill
+0230	1	Lou & Mickey's
+0231	1	Manhattan of La Jolla
+0232	1	Marble Room
+0233	1	The Marine Room
+0234	1	The Market Cafe at Loews Coronado Bay Resort
+0235	1	Market Restaurant and Bar
+0236	1	The Melting Pot - La Jolla
+0237	1	Mistral Restaurant
+0238	1	NINE-TEN
+0239	1	Peohe's – Coronado Waterfront Restaurant
+0240	1	Po Pazzo Bar & Grille
+0241	1	Rock Bottom Brewery - San Diego
+0242	1	Roy's La Jolla
+0243	1	Sky Room - La Valencia Hotel
+0244	1	Starlite
+0245	1	Tango Restaurant & Lounge
+0246	1	Top of the Market
+0247	1	Truluck's Seafood Steak and Crab - La Jolla
+0248	1	Urban Solace
+0249	1	Vivace - Park Hyatt Aviara
+0250	1	Voyeur
+0251	1	The Whaling Bar & Grill - La Valencia Hotel
+0252	1	The Winesellar & Brasserie
+0253	1	Aqua Blue
+0254	1	Atlanta Straits Restaurant
+0255	1	Bhojanic
+0256	1	BrickTop's
+0257	1	Brio Tuscan Grille - Buckhead
+0258	1	Buckhead Diner - Priority Seating
+0259	1	C&S Seafood & Oyster Bar
+0260	1	Capital Grille - Atlanta
+0261	1	Chef Rob's Carribbean Cafe
+0262	1	Cinco Mexican Cantina - Akers Mill
+0263	1	Copeland's Cheesecake Bistro
+0264	1	CRU Urban Lounge
+0265	1	Downtown Kitchen
+0266	1	The Feed Store
+0267	1	Gilbert's Cafe & Bar
+0268	1	Gordon Biersch Brewery Restaurant - Midtown
+0269	1	Hal's - Buckhead
+0270	1	HOBNOB Neighborhood Tavern
+0271	1	Livingston Restaurant
+0272	1	Lobby at Twelve
+0273	1	Luciano's - Sugarloaf
+0274	1	The Magnolia Thomas Restaurant
+0275	1	Max Lager's Wood-Fired Grill & Brewery
+0276	1	McCormick & Schmick's Seafood - Atlanta (CNN Center)
+0277	1	The Melting Pot - Midtown Atlanta
+0278	1	Mykonos Taverna
+0279	1	Nakato Japanese Restaurant - Hibachi Grill
+0280	1	Nakato Japanese Restaurant - Traditional Dining and Sushi Bar
+0281	1	Nikolai's Roof
+0282	1	Noche Vinings
+0283	1	Oceanaire Seafood Room - Atlanta
+0284	1	Old Vinings Inn
+0285	1	Park Tavern
+0286	1	Paschal's Restaurant
+0287	1	Pasta Vino
+0288	1	Pearl's Saltwater Grille
+0289	1	The Pecan
+0290	1	Porter House
+0291	1	Pricci
+0292	1	Ray's on the River
+0293	1	The Real Chow Baby-Howell Mill
+0294	1	RED SKY Tapas & Bar
+0295	1	Restaurant Eugene
+0296	1	Ruth's Chris Steak House - Buckhead
+0297	1	Ruth's Chris Steak House - Centennial Park
+0298	1	Ruth's Chris Steak House - Savannah
+0299	1	Sapphire Grill
+0300	1	The Seasons Bistro
+0301	1	Seven Gables Restaurant
+0302	1	Shaun's
+0303	1	The SHED at Glenwood
+0304	1	SOHO - Atlanta
+0305	1	Sotto Sotto
+0306	1	South City Kitchen
+0307	1	Sperata
+0308	1	STATS
+0309	1	Strip
+0310	1	Sugo - Clocktower Place
+0311	1	The Tasting Room - Sandy Springs
+0312	1	The Thorn Tree Restaurant
+0313	1	Trader Vic's - Atlanta
+0314	1	Tramici
+0315	1	Varasano's Pizzeria
+0316	1	Vic's on the River
+0317	1	Village Cafe
+0318	1	The Vines European Cuisine at The Edelweiss
+0319	1	Watershed
+0320	1	Wildfire - Perimeter
+0321	1	ZEN on Ten
+0322	1	Acqua at Four Seasons Miami
+0323	1	Aizia - Westin Diplomat Resort and Spa
+0324	1	Area 31 - Epic Hotel
+0325	1	Balans - Lincoln Road
+0326	1	Barolo Ristorante
+0327	1	Berries in the Grove
+0328	1	Biltmore Brunch
+0329	1	Bistro One LR - Ritz-Carlton - South Beach
+0330	1	Brimstone Woodfire Grill
+0331	1	Café Boulud Palm Beach
+0332	1	Canyon Ranch Grill - Miami Beach
+0333	1	Carmen's at the Top of the Bridge
+0334	1	Catch 10 Seafood Bistro
+0335	1	Chima Brazilian Steakhouse - Fort Lauderdale
+0336	1	Chop House Miami
+0337	1	City Fish Market
+0338	1	Clarke's
+0339	1	De Rodriguez Cuba
+0340	1	El Gran Inka - Aventura
+0341	1	El Gran Inka - Brickell
+0342	1	Emeril's Miami Beach
+0343	1	Fleming's Prime Steakhouse Coral Gables
+0344	1	Gia - Italian Kitchen and Wine Bar at the Eden Roc
+0345	1	Giorgio's Grill
+0346	1	Graziano's Coral Gables
+0347	1	Graziano's Miami
+0348	1	Grille 66 & Bar
+0349	1	Henry's
+0350	1	Himmarshee Bar & Grille
+0351	1	Hollywood Prime - Westin Diplomat Resort and Spa
+0352	1	Imlee. An Indian Bistro
+0353	1	Indigo Restaurant
+0354	1	La Riviera at Sofitel Miami
+0355	1	Lemongrass - Delray Beach
+0356	1	Lola Restaurant
+0357	1	Martorano's
+0358	1	Mercadito Midtown
+0359	1	Michelle Bernstein Restaurant - The Omphoy Ocean Resort
+0360	1	Morton's The Steakhouse - Coral Gables
+0361	1	MR CHOW- Miami
+0362	1	Nemo
+0363	1	Nikki Beach
+0364	1	Ocean Prime - Miami
+0365	1	Oceans - Deerfield Beach
+0366	1	Petit Rouge
+0367	1	Piola - Hallandale Beach
+0368	1	Por Fin
+0369	1	Puntino Downtown
+0370	1	Racks Italian Kitchen
+0371	1	Red Light Little River
+0372	1	Rocco's Tacos & Tequila Bar - Boca Raton
+0373	1	Rosa Mexicano - Miami
+0374	1	Rusty Pelican - Miami
+0375	1	Ruth's Chris Steak House - West Palm Beach
+0376	1	Scarpetta - Fontainebleau Miami Beach
+0377	1	Seasons 52 - Boca Raton
+0378	1	Seasons 52 - Ft. Lauderdale
+0379	1	Snappers Seafood & Pasta
+0380	1	SoLita Las Olas
+0381	1	Solu Restaurant - The Palm Beach Marriott Beach Resort & Spa on Singer Island
+0382	1	STK Miami
+0383	1	SUSHISAMBA dromo
+0384	1	Temple Orange - Ritz-Carlton Palm Beach -
+0385	1	Timo Restaurant & Bar
+0386	1	Timpano Chophouse and Martini Bar - Ft. Lauderdale
+0387	1	Vienna Cafe & Wine Bar
+0388	1	ZED451 - Boca Raton
+0389	1	7 West Bistro Grille
+0390	1	Aida Bistro & Wine Bar
+0391	1	Austin Grill - Annapolis
+0392	1	B&O American Brasserie - Hotel Monaco
+0393	1	Belmont
+0394	1	The Bistro at South River
+0395	1	Black Olive
+0396	1	Blue Hill Tavern
+0397	1	Bluestone
+0398	1	Breeze
+0399	1	Caesar's Den
+0400	1	Eden
+0401	1	GERMANO'S Trattoria
+0402	1	Jimmy's Famous Seafood
+0403	1	John Steven, Ltd.
+0404	1	Kentmorr Restaurant
+0405	1	Laurrapin Grille
+0406	1	Leelynn's Dining Room & Lounge
+0407	1	Louisiana Restaurant
+0408	1	M & S Grill - Baltimore
+0409	1	McCormick & Schmick's Seafood - Baltimore
+0410	1	Mezze - Baltimore
+0411	1	Out of the Fire
+0412	1	The Owl Bar
+0413	1	Restaurant Sabor
+0414	1	Ruth's Chris Steak House - Pier 5
+0415	1	Scossa
+0416	1	Sotto Sopra
+0417	1	Tsunami - Annapolis
+0418	1	Union Jack's - Columbia
+0419	1	Watertable
+0420	1	Biga on the Banks
+0421	1	Cappy's Restaurant
+0422	1	Cool Cafe
+0423	1	Fleming's Prime Steakhouse San Antonio
+0424	1	JW Marriott San Antonio - 18 Oaks
+0425	1	Kirby's Prime Steakhouse - San Antonio
+0426	1	Kona Grill - San Antonio
+0427	1	Las Ramblas at Hotel Contessa
+0428	1	Le Midi Restaurant
+0429	1	Luce Ristorante E Enoteca
+0430	1	Roaring Fork San Antonio
+0431	1	Sazo's Latin Grill
+0432	1	Stonewerks
+0433	1	Sushi Zushi - Downtown
+0434	1	35th Street Bistro
+0435	1	Adriatic Grill - Italian Cuisine & Wine Bar
+0436	1	Andaluca
+0437	1	Asado
+0438	1	Assaggio
+0439	1	Buenos Aires Grill
+0440	1	Calcutta Grill
+0441	1	Chantanee Thai Restaurant & Bar
+0442	1	Chez Shea
+0443	1	The Dining Room at Salish Lodge & Spa
+0444	1	Dulces Latin Bistro
+0445	1	FareStart
+0446	1	Front Street Grill
+0447	1	The Georgian
+0448	1	The Heritage Restaurant - The Inn at Gig Harbor
+0449	1	Icon Grill
+0450	1	Library Bistro
+0451	1	Nell's
+0452	1	Over The Moon Cafe
+0453	1	Palomino - Bellevue
+0454	1	Ruth's Chris Steak House - Bellevue
+0455	1	Salty's on Alki
+0456	1	Sazerac
+0457	1	Sip Restaurant - Issaquah
+0458	1	Sip Restaurant - Seattle
+0459	1	Six Seven Restaurant & Lounge
+0460	1	Steelhead Diner
+0461	1	Tango
+0462	1	Tilth
+0463	1	Toulouse Petit Kitchen & Lounge
+0464	1	Typhoon! Redmond
+0465	1	Varsity Grill
+0466	1	Wild Vine Bistro
+0467	1	Artin's Grill
+0468	1	BB & Luigi's Vineyard Steakhouse - Grapevine
+0469	1	Bistro N
+0470	1	Bob's Steak & Chop House - Dallas
+0471	1	The Butcher Shop Steakhouse
+0472	1	Charlie Palmer at The Joule
+0473	1	Craft Dallas
+0474	1	Ferrari's Italian Villa
+0475	1	Ferre Fort Worth
+0476	1	The Fish Sushi Bar And Lounge
+0477	1	The French Room
+0478	1	Grand Met
+0479	1	Hannah's off The Square
+0480	1	Hector's on Henderson
+0481	1	III Forks
+0482	1	Iron Cactus - Dallas
+0483	1	Isabella's Italian Restaurant
+0484	1	Jaxx Steakhouse
+0485	1	Lavendou Bistro
+0486	1	Lawry's The Prime Rib - Dallas
+0487	1	Lonesome Dove Western Bistro
+0488	1	Maggiano's - Northpark
+0489	1	Maggiano's - Willow Bend
+0490	1	Maximo Cocina Mexicana
+0491	1	McCormick & Schmick's Seafood - Dallas
+0492	1	Meddlesome Moth
+0493	1	Medina Oven & Bar
+0494	1	Mercury Chophouse
+0495	1	Michaels Cuisine
+0496	1	Nobu Dallas
+0497	1	Olenjack's Grille
+0498	1	Perry's Steakhouse & Grille - Uptown
+0499	1	The Place at Perry's
+0500	1	Preston's
+0501	1	Randy's Steakhouse
+0502	1	Ristorante Nicola
+0503	1	Ruth's Chris Steak House - North Dallas
+0504	1	Sevy's Grill
+0505	1	Shinsei Restaurant
+0506	1	Sushi Axiom - Dallas
+0507	1	Technique at Le Cordon Bleu - Dallas
+0508	1	Thrive Restaurant
+0509	1	Tillman's Roadhouse - Fort Worth
+0510	1	Tramontana
+0511	1	Zea WoodFire Grill
+0512	1	Bambara
+0513	1	Christopher's Seafood & Prime Steak House
+0514	1	The Copper Onion
+0515	1	Easy Street Brasserie at The Sky Lodge
+0516	1	Faustina
+0517	1	Fresco Italian Cafe
+0518	1	Kimi's Mountainside Bistro at Solitude Mountain Resort
+0519	1	Martine Cafe
+0520	1	Prime Steak House & Piano Bar
+0521	1	Rickenbacker's Bistro & Restaurant
+0522	1	Takashi
+0523	1	Tsunami Restaurant - Union Heights
+0524	1	Yuki Arashi
+0525	1	Muse
+0526	1	Simon & Seafort's
+0527	1	Bella Monica
+0528	1	Blu Seafood and Bar
+0529	1	Capital City Chophouse
+0530	1	The Duck and Dumpling
+0531	1	Finelli's Cafe
+0532	1	Four Square Restaurant
+0533	1	Jimmy V's Steakhouse and Tavern
+0534	1	Napper Tandy's Irish Pub
+0535	1	One Restaurant - Chapel Hill
+0536	1	The Oxford
+0537	1	Posta Tuscan Grille
+0538	1	Saint Jacques French Cuisine
+0539	1	Savoy
+0540	1	Sitti
+0541	1	Weathervane Restaurant
+0542	1	Amerigo - Jackson
+0543	1	Prime: A Steakhouse
+0544	1	Purple Parrot Café
+0545	1	Ruth's Chris Steak House - Ridgeland
+0546	1	Baxter's Lakeside Grille
+0547	1	Bald Headed Bistro
+0548	1	Bistro By The Tracks
+0549	1	Cafe 4
+0550	1	Chez Liberty
+0551	1	Easy Bistro
+0552	1	Papa Joe's/Iacomini's
+0553	1	Bluefin
+0554	1	Chez Philippe - Peabody Hotel Memphis
+0555	1	Equestria
+0556	1	Interim Restaurant & Bar
+0557	1	Mesquite Chop House
+0558	1	Sekisui Pacific Rim
+0559	1	Enigma Restaurant
+0560	1	Sargasso of Morgantown Restaurant & Bar
+0561	1	Andrew's Bar & Restaurant
+0562	1	Bartolotta's Lake Park Bistro
+0563	1	Bistro 333 - Hyatt Regency Milwaukee
+0564	1	Centercourt Pub and Grille
+0565	1	Chefusion Eclectic Cuisine & Lounge
+0566	1	Coast Restaurant
+0567	1	Fleming's Prime Steakhouse Brookfield
+0568	1	Fresco
+0569	1	Hinterland Erie Street Gastropub
+0570	1	Innovation
+0571	1	La Merenda
+0572	1	Maggiano's - Milwaukee
+0573	1	McCormick & Schmick's Seafood - Milwaukee
+0574	1	Mikey's
+0575	1	Ocean Grill - Madison
+0576	1	Republic Chophouse
+0577	1	Theos Cream City Chop House
+0578	1	101 Downtown
+0579	1	310 Lakeside
+0580	1	310 Park South
+0581	1	Brio Italiano
+0582	1	Circa Restaurant
+0583	1	David's Club - Omni Orlando Resorts
+0584	1	Dragonfly Sushi & Sake Co.
+0585	1	Enigma Casual Dining
+0586	1	Funky Monkey Wine Company
+0587	1	Hawk's Landing Steakhouse & Grille at Orlando World Center Marriott Resort
+0588	1	Hemingway's
+0589	1	Kohinoor Indian Restaurant
+0590	1	Luma on Park
+0591	1	Mario's Bistro
+0592	1	Mark's Prime Steak House - Ocala
+0593	1	Ming Court
+0594	1	MT's Chophouse - Gainesville
+0595	1	MT's Chophouse - Vero Beach
+0596	1	Naples Italian Restaurant
+0597	1	Oceanaire Seafood Room - Orlando
+0598	1	Paris Bistro
+0599	1	Park Plaza Gardens
+0600	1	The Ravenous Pig: An American Gastropub
+0601	1	Rocco's Italian Grille
+0602	1	Sushin Sushi Japanese Restaurant
+0603	1	Taverna Opa - Orlando
+0604	1	Thai Thani - Celebration
+0605	1	Thunya Thai
+0606	1	Trevi's - Omni Orlando Resorts
+0607	1	The Vineyard Grill
+0608	1	33 Club
+0609	1	Ai Japanese Restaurant and Lounge
+0610	1	Amber Café
+0611	1	AraOn (formerly Shikago)
+0612	1	Berghoff Restaurant
+0613	1	Biaggi's - Champaign
+0614	1	Big Bowl-Cedar
+0615	1	Bistro Campagne
+0616	1	Boka
+0617	1	Bonefish Grill - Algonquin
+0618	1	Bonsoirée
+0619	1	Braxton Seafood Grill
+0620	1	Brazzaz - The Brazilian Steakhouse
+0621	1	Café Absinthe
+0622	1	Café Bionda
+0623	1	Capital Grille - Chicago
+0624	1	Carmine's
+0625	1	Ceres' Table
+0626	1	Chataigne at Le Cordon Bleu - Chicago
+0627	1	Chez Joel
+0628	1	Chicago Curry House (Indian and Nepalese Restaurant)
+0629	1	Chicago Prime Steakhouse
+0630	1	The Claim Company
+0631	1	The Clubhouse - Oakbrook
+0632	1	Coco Pazzo Café
+0633	1	Connie's Pizza
+0634	1	Crust Eat Real
+0635	1	Custom House Tavern
+0636	1	David Burke's Primehouse in the James Hotel
+0637	1	Deleece Grill Pub (on Clark Street)
+0638	1	Dick's Last Resort - Chicago
+0639	1	Drake Bros' at The Drake Hotel
+0640	1	Eatt
+0641	1	Feast - Bucktown
+0642	1	Flatwater
+0643	1	The Flying Horse
+0644	1	Forge Club
+0645	1	Francesca's at the Promenade
+0646	1	Francesca's Bellezza
+0647	1	Francesca's Famiglia
+0648	1	Francesca's on Taylor
+0649	1	Frankie's Ristorante
+0650	1	The Gage
+0651	1	Gemini Bistro
+0652	1	Goose Island Brewery
+0653	1	The Grand Station Restaurant & Cocktails
+0654	1	Graziano's - Chicago
+0655	1	Green Zebra
+0656	1	Harry Caray's Italian Steakhouse - Rosemont
+0657	1	Harvest
+0658	1	Harvest at Pheasant Run Resort
+0659	1	Houlihan's Restaurant - Park Ridge
+0660	1	Jambalaya
+0661	1	Jerseys Pizza and Grill
+0662	1	Kamehachi of Tokyo
+0663	1	Karma Asian Food and Fine Wine
+0664	1	Kiki's Bistro
+0665	1	King's Wharf
+0666	1	Kinzie Chop House
+0667	1	Koi Chinese and Sushi
+0668	1	Kona Grill - Lincolnshire
+0669	1	La Sorella di Francesca
+0670	1	Las Palmas Restaurant
+0671	1	Lloyd's
+0672	1	Maggiano's - Naperville
+0673	1	Mexique
+0674	1	Mill Race Inn
+0675	1	Mitchell's Fish Market - Glenview
+0676	1	Mity Nice Grill
+0677	1	Mon Ami Gabi
+0678	1	Mon Ami Gabi - Oakbrook
+0679	1	Morton's The Steakhouse - Chicago - The Original
+0680	1	Morton's The Steakhouse - Chicago - Wacker Place
+0681	1	Myron and Phil Steakhouse
+0682	1	Naha
+0683	1	Nia
+0684	1	Opera
+0685	1	The Palm Court at The Drake Hotel
+0686	1	Park Grill Chicago
+0687	1	Pete's Pizza
+0688	1	Piazza - The Hyatt Lodge at McDonald's Campus
+0689	1	Prairie Grass Café
+0690	1	Province
+0691	1	The Publican
+0692	1	Quartino
+0693	1	Ram Restaurant & Brewery - Rosemont
+0694	1	Red Light
+0695	1	Redstone American Grill - Oakbrook Terrace
+0696	1	Ria
+0697	1	Rock Bottom Brewery - Orland Park
+0698	1	The Rosebud
+0699	1	Rosebud Trattoria (fka Ballo)
+0700	1	Ruth's Chris Steak House - South Barrington
+0701	1	Sabor Saveur
+0702	1	Sam and Harry's - Renaissance Schaumburg
+0703	1	Sapori Trattoria
+0704	1	Shaw's Crab House - Schaumburg
+0705	1	Sola
+0706	1	South Gate Cafe
+0707	1	South Water Kitchen
+0708	1	State & Lake
+0709	1	Sullivan's Steakhouse - Naperville
+0710	1	Sushi by Chef Soon
+0711	1	Thalia Spice
+0712	1	Tin Fish
+0713	1	Tocco Pizza e Arte
+0714	1	Tramonto's Steak & Seafood
+0715	1	Tsuki Japanese Restaurant & Lounge
+0716	1	Viaggio Ristorante and Lounge
+0717	1	Vie
+0718	1	Zapatista
+0719	1	Zealous
+0720	1	Acorn Restaurant
+0721	1	B.B. King's Blues Club
+0722	1	City House
+0723	1	F. Scott's Restaurant & Jazz Bar
+0724	1	Flyte World Dining & Wine
+0725	1	Merchant's Restaurant
+0726	1	Miro District Food and Drink
+0727	1	Rumba - Nashville
+0728	1	Saffire
+0729	1	Sperry's Restaurant - Belle Meade
+0730	1	Wild Bill's - Wine Bar, Cajun Cafe, and Rooftop
+0731	1	131 Main Restaurant - Dilworth
+0732	1	Capital Grille - Charlotte
+0733	1	Cyros Sushi & Sake Bar
+0734	1	Dressler's - Charlotte
+0735	1	Kalu Restaurant
+0736	1	Lulu Dine Wine
+0737	1	Maddi's Southern Bistro
+0738	1	Mimosa Grill
+0739	1	Omaha Steakhouse
+0740	1	Pewter Rose Bistro
+0741	1	Prickly Pear - Mooresville
+0742	1	Providence Cafe
+0743	1	Sonoma
+0744	1	Sullivan's Steakhouse - Charlotte
+0745	1	T1 Tapas
+0746	1	Trio Restaurant - Charlotte
+0747	1	Village Tavern - Charlotte
+0748	1	Vivace - Charlotte
+0749	1	The Belmont
+0750	1	Cafe Blue
+0751	1	Cool River Cafe - Austin
+0752	1	Cotton Gin Cabernet Grill
+0753	1	Fleming's Prime Steakhouse Austin The Domain
+0754	1	Judges' Hill Restaurant
+0755	1	Manuel's Great Hills
+0756	1	Maria Maria - Austin
+0757	1	Parkside
+0758	1	SWB @ the Hyatt Regency Austin
+0759	1	TRIO - Four Seasons Austin
+0760	1	Beachhouse - Moana Surfrider
+0761	1	Brown's Beach House - The Fairmont Orchid - Kohala Coast
+0762	1	Cafe Sistina
+0763	1	Duke's Beach House Maui
+0764	1	Gyu-Kaku - Kapiolani
+0765	1	Hula Grill - Waikiki
+0766	1	Lahaina Fish Co.
+0767	1	MALA - Wailea Beach Marriott Resort
+0768	1	Molokini Bar & Grille - Makena Beach & Golf Resort
+0769	1	Nick's Fishmarket Maui
+0770	1	Orchids at Halekulani
+0771	1	Pulehu, an Italian Grill
+0772	1	Ruth's Chris Steak House - Lahaina
+0773	1	Shore Bird Restaurant & Beach Bar
+0774	1	Town
+0775	1	Ushio-tei
+0776	1	Wolfgang's Steak House - Waikiki Beach
+0777	1	Alexanders Horseshoe Bar and Grill
+0778	1	Campagnia
+0779	1	Cosmo Cafe - Sacramento
+0780	1	Crush 29
+0781	1	Dawson's - Hyatt Regency Sacramento
+0782	1	Enotria Restaurant
+0783	1	Five Restaurant
+0784	1	Il Fornaio - Roseville
+0785	1	Il Fornaio - Sacramento
+0786	1	Max's Bistro & Bar
+0787	1	Pismo's Coastal Grill
+0788	1	Ruth's Chris Steak House - Fresno
+0789	1	Scott's Seafood Grill & Bar - Folsom
+0790	1	Seasons - Davis
+0791	1	Slocum House
+0792	1	Tower Bridge Bistro - Embassy Suites Hotel Sacramento
+0793	1	Vines - Hyatt Regency Sacramento
+0794	1	The Vineyard Restaurant
+0795	1	Waterboy
+0796	1	Zocalo Restaurant
+0797	1	Avanti Bar & Grill
+0798	1	Cheevers Cafe
+0799	1	Coach House Oklahoma City
+0800	1	Grand House China Bistro
+0801	1	Hefner Grill
+0802	1	In the Raw - Bricktown
+0803	1	Iron Starr Urban Barbecue - OKC
+0804	1	Junior's Supper Club
+0805	1	The Mantel Wine Bar and Bistro
+0806	1	Metro Wine Bar & Bistro
+0807	1	Mickey Mantle's Steakhouse
+0808	1	Rococo Restaurant and Fine Wine
+0809	1	The 1913 Room
+0810	1	Andiamo - Livonia
+0811	1	Andiamo Italia - Warren
+0812	1	Andiamo Italian Bistro - Sterling Heights
+0813	1	Andiamo Rochester
+0814	1	Bourbon Steak - MGM Grand Detroit
+0815	1	Cameron's Steakhouse - Birmingham
+0816	1	Carlyle Grill
+0817	1	Cava - Bay Harbor
+0818	1	Charley's Crab - Grand Rapids
+0819	1	The Chop House - Ann Arbor
+0820	1	The Chop House - Grand Rapids
+0821	1	Coach Insignia
+0822	1	D'Amato's Restaurant & Goodnite Gracie Martini Bar
+0823	1	The Earle Downtown
+0824	1	Food Dance
+0825	1	Gilly's at The B.O.B.
+0826	1	The Grill Room at The Kirby House
+0827	1	Iridescence
+0828	1	Kona Grill - Troy
+0829	1	Loon River Cafe
+0830	1	Red Cedar Grill - Williamston
+0831	1	Six One Six - JW Marriott Hotel Grand Rapids
+0832	1	Thornapple Daily Grill
+0833	1	Vinology Ann Arbor
+0834	1	Volare Ristorante
+0835	1	The Whitney
+0836	1	Wolfgang Puck Grille - MGM Grand Detroit
+0837	1	2 Bird Cafe
+0838	1	5A5 Steak Lounge
+0839	1	A Bellagio
+0840	1	A Cote
+0841	1	A Divine Affair
+0842	1	A Waterfront Restaurant and Cafe
+0843	1	Ajanta Restaurant
+0844	1	Alexander's Steakhouse - Cupertino
+0845	1	Antica Trattoria
+0846	1	ANZU
+0847	1	Aperto
+0848	1	Artisan Bistro
+0849	1	Astaria
+0850	1	Attic
+0851	1	Balboa Cafe - Mill Valley
+0852	1	Bar Agricole
+0853	1	Barbacco
+0854	1	BarBersQ
+0855	1	Bardessono
+0856	1	Basil Canteen @ 11th Street
+0857	1	Baume Restaurant
+0858	1	Beach Chalet Brewery & Restaurant
+0859	1	Bia's
+0860	1	Bijan Restaurant - Walnut Creek
+0861	1	Billy Berk's
+0862	1	Birk's
+0863	1	Bisou
+0864	1	Bistro Central Parc - SF
+0865	1	Black Angus Steakhouse - Milpitas
+0866	1	Black Angus Steakhouse - Pleasant Hill
+0867	1	Blowfish Sushi to Die For - SF
+0868	1	Blu Restaurant - SF
+0869	1	Blue Plate
+0870	1	Bob's Steak & Chop House - San Francisco
+0871	1	Bocanova
+0872	1	Boilerhouse Restaurant
+0873	1	Bombay Indian Restaurant
+0874	1	Bonarda Restaurant and Bar
+0875	1	Bottega Napa Valley
+0876	1	Bouchon
+0877	1	Brandy Ho's - Castro
+0878	1	Brick & Bottle
+0879	1	Brix
+0880	1	Cafe Altano
+0881	1	Cafe Baklava
+0882	1	Cafe de la Presse
+0883	1	Cafe La Haye
+0884	1	Caffe Delucchi
+0885	1	Canteen
+0886	1	Celadon - Napa
+0887	1	Celia's Mexican Restaurant
+0888	1	Chapeau (fka: Clementine Restaurant)
+0889	1	Chenery Park
+0890	1	Chez Panisse Restaurant
+0891	1	CIRCA
+0892	1	Compadres Rio Grill
+0893	1	Crimson
+0894	1	Cyrus
+0895	1	Daily Grill - San Francisco
+0896	1	The Dead Fish
+0897	1	Domaine Chandon - Etoile Restaurant
+0898	1	Ducca
+0899	1	Duck Club at Stanford Park Hotel
+0900	1	Enrico's
+0901	1	Espetus Churrascaria - San Mateo
+0902	1	Everest Cafe
+0903	1	Fahrenheit Restaurant & Lounge
+0904	1	FARM at The Carneros Inn
+0905	1	Faz Sunnyvale
+0906	1	Finnegan's Marin
+0907	1	FIVE
+0908	1	French Garden
+0909	1	Garibaldi's on College
+0910	1	Gather
+0911	1	Ginger Cafe
+0912	1	Globe
+0913	1	Gordon Biersch Brewery Restaurant - SF
+0914	1	Grill'Em
+0915	1	Hana Japanese Restaurant
+0916	1	Hanuri Korean B.B.Q. Restaurant
+0917	1	Heaven's Dog
+0918	1	Hola! Mexican Restaurant & Cantina - Burlingame
+0919	1	Hornblower Cruises & Events
+0920	1	Hot Box Grill
+0921	1	Hurley's Restaurant and Bar
+0922	1	India Clay Oven Restaurant and Bar
+0923	1	Iron Gate
+0924	1	Izzy's Steaks & Chops – San Carlos
+0925	1	Jillians Billiard Club
+0926	1	John Ash & Co.
+0927	1	Jonesy's
+0928	1	Joya Restaurant & Lounge
+0929	1	Kincaid's Bayhouse - Oakland
+0930	1	The Kitchen Table
+0931	1	Koh Samui & The Monkey
+0932	1	Kokkari Estiatorio
+0933	1	Kuleto's
+0934	1	La Briciola
+0935	1	La Note Restaurant Provencal
+0936	1	La Pastaia
+0937	1	La Strada (Palo Alto)
+0938	1	La Tosca
+0939	1	LaSalette Restaurant
+0940	1	Latitude
+0941	1	Laurus
+0942	1	LB Steak
+0943	1	Le Zinc
+0944	1	Left Bank Santana Row
+0945	1	Lime
+0946	1	Lion and Compass
+0947	1	L'Olivier
+0948	1	Lupa Trattoria
+0949	1	Madrona Manor
+0950	1	Mandaloun
+0951	1	Mangia Tutti
+0952	1	Maya - San Francisco
+0953	1	Medallion Steakhouse
+0954	1	Menara Moroccan Restaurant
+0955	1	Mezes, A Taste of Greece
+0956	1	Michelangelo Ristorante & Caffe
+0957	1	Millennium
+0958	1	Mint Leaf - Berkeley
+0959	1	Miss Pearl's Jam House
+0960	1	Mission Beach Cafe
+0961	1	Morimoto - Napa
+0962	1	Mountain House - Woodside
+0963	1	Namu - San Francisco
+0964	1	Navio at The Ritz-Carlton, Half Moon Bay
+0965	1	Nectar Restaurant & Lounge
+0966	1	New Delhi Restaurant
+0967	1	Nob Hill Grille
+0968	1	Pacific Catch - Corte Madera
+0969	1	Palio d'Asti
+0970	1	Palomino - San Francisco
+0971	1	Paragon Restaurant & Bar - San Francisco
+0972	1	Passion Cafe
+0973	1	Perry's - Embarcadero
+0974	1	Poggio
+0975	1	Ponzu
+0976	1	Post Meridian
+0977	1	Presidio Social Club
+0978	1	Prospect
+0979	1	Quinn's Lighthouse Restaurant & Pub
+0980	1	The Republic
+0981	1	Restaurant 615 - Contra Costa College
+0982	1	Rock Bottom Brewery - San Jose
+0983	1	Rotee
+0984	1	The Rotunda at Neiman Marcus - San Francisco
+0985	1	Rue Saint Jacques
+0986	1	Rumi
+0987	1	Rustic, Francis's Favorites
+0988	1	Sasa
+0989	1	Sears Fine Food
+0990	1	Seasons at the Four Seasons Hotel
+0991	1	Sens Restaurant
+0992	1	Servino Restaurant
+0993	1	Silk Road
+0994	1	Sino Restaurant & Lounge
+0995	1	Spenger's Fresh Fish Grotto
+0996	1	Spin a Yarn
+0997	1	SR24
+0998	1	Stark's Steakhouse
+0999	1	Straits Restaurant - San Francisco
+1000	1	Sundance Kitchen
+1001	1	Sushi Groove South
+1002	1	Sushi Ran
+1003	1	Tamarine
+1004	1	Tandoori Bistro
+1005	1	Tapestry
+1006	1	Tara Restaurant - San Francisco
+1007	1	Terra
+1008	1	Terra Mia
+1009	1	Thea Mediterranean Cuisine
+1010	1	Ti Piacera
+1011	1	The Tonga Room
+1012	1	Top of the Mark
+1013	1	Trademark
+1014	1	Trapeze European Cuisine
+1015	1	Troya
+1016	1	Twist Bistro
+1017	1	Unicorn Pan Asian Cuisine - San Francisco
+1018	1	Uptown Joe's
+1019	1	Urban Tavern
+1020	1	Vero
+1021	1	Vicoletto
+1022	1	VILLAGE California Bistro & Wine Bar
+1023	1	Woodwards Garden
+1024	1	Yankee Pier - Larkspur
+1025	1	Yankee Pier - Santana Row
+1026	1	Yoshi's Oakland
+1027	1	Yuzu
+1028	1	Zen Bistro - Millbrae
+1029	1	Zinsvalley
+1030	1	Ziryab
+1031	1	Amavi Restaurant
+1032	1	Amaya at Hotel Santa Fe
+1033	1	Dinner for Two
+1034	1	Koi - Santa Fe
+1035	1	La Boca
+1036	1	Max's - Santa Fe
+1037	1	O'Keeffe Cafe
+1038	1	The Pink Adobe
+1039	1	Sabroso
+1040	1	St. Clair Winery & Bistro
+1041	1	Avalon - Louisville
+1042	1	Bella Notte
+1043	1	Equus and Jack's Lounge
+1044	1	Furlongs - A Louisiana Restaurant
+1045	1	Griffin Gate Marriott Resort - JW's Steakhouse
+1046	1	hiko-A-mon Modern Japanese Sushi Bar & Fish Market
+1047	1	Limestone
+1048	1	Proof on Main
+1049	1	Ruth's Chris Steak House - Louisville
+1050	1	School Restaurant
+1051	1	Varanese
+1052	1	Ambrosia Ristorante - Broad Ripple
+1053	1	BARcelona Tapas - Indianapolis
+1054	1	Creation Cafe
+1055	1	Eddie Merlot's - Indianapolis
+1056	1	The Emporium
+1057	1	Fleming's Prime Steakhouse Indianapolis
+1058	1	Iozzo's Garden of Italy
+1059	1	Joseph Decuis
+1060	1	The Loft at Traders Point
+1061	1	Matteo's Ristorante Italiano
+1062	1	McCormick & Schmick's Seafood - Indianapolis
+1063	1	Mitchell's Fish Market - Carmel
+1064	1	Morton's The Steakhouse - Indianapolis
+1065	1	Petite Chou
+1066	1	R Bistro
+1067	1	Shula's Steak House - Indianapolis
+1068	1	Stone Creek - Plainfield
+1069	1	The Taste of Tango
+1070	1	Turner's at the Canterbury Hotel
+1071	1	Vera Mae's Bistro
+1072	1	Villaggio Ristorante & Bar
+1073	1	Zest! Exciting Food Creations
+1074	1	Bellini's Ristorante & Bar
+1075	1	The Chophouse - Huntsville
+1076	1	Jesse's Restaurant
+1077	1	The Veranda on Highland
+1078	1	Village Tavern Birmingham
+1079	1	Acqua Restaurant & Wine Bar
+1080	1	Afton House Inn
+1081	1	Al Vento
+1082	1	Amore Victoria
+1083	1	Axel's Bonfire - St. Paul
+1084	1	Axel's Chanhassen
+1085	1	Axel's Charhouse
+1086	1	Bar La Grassa
+1087	1	Barrio
+1088	1	Barrio Tequila - St. Paul
+1089	1	Bennett's Chop & Railhouse
+1090	1	Birchs
+1091	1	Bombay Bistro - Fine Indian Dining
+1092	1	Cafe Lurcat - Minneapolis
+1093	1	Capital Grille - Minneapolis
+1094	1	Charlie's at the Water Street Inn
+1095	1	Chino Latino
+1096	1	Crave
+1097	1	Crave - Mall of America
+1098	1	Dover Restaurant & Bar
+1099	1	Downtowner Woodfire Grill
+1100	1	Faces Mears Park
+1101	1	FireLake Grill House
+1102	1	Forum
+1103	1	Good Earth Roseville
+1104	1	Harry's Food & Cocktails
+1105	1	Haute Dish
+1106	1	Jax Café
+1107	1	JD Hoyt's
+1108	1	Joe's Garage
+1109	1	Kafe 421
+1110	1	Market Bar-B-Que
+1111	1	McCormick & Schmick's Seafood - Edina
+1112	1	The Melting Pot - Minneapolis
+1113	1	Murray's Restaurant & Cocktail Lounge
+1114	1	Nokomis Restaurant & Bar
+1115	1	Oceanaire Seafood Room - Minneapolis
+1116	1	OM
+1117	1	Pittsburgh Blue
+1118	1	Porterhouse Steak and Seafood
+1119	1	Redstone American Grill - Eden Prairie
+1120	1	Ringo
+1121	1	Roman Anthony's
+1122	1	Rudolphs BBQ
+1123	1	Sapor Cafe
+1124	1	Seven Sushi Ultralounge and Skybar
+1125	1	Skywater - Hilton - Minneapolis
+1126	1	Solera - Minneapolis
+1127	1	Sontes
+1128	1	Sushi Tango
+1129	1	Ursula's Wine Bar
+1130	1	Victor's 1959 Cafe
+1131	1	Vincent - A Restaurant
+1132	1	Volnay Bistro
+1133	1	WA Frost & Company
+1134	1	Wildfire - Eden Prairie
+1135	1	Zelo
+1136	1	An American Place
+1137	1	Bacana Brazil
+1138	1	Boathouse Forest Park
+1139	1	Bristol Seafood Grill - Creve Coeur
+1140	1	Chuy Arzola's
+1141	1	Eau Bistro
+1142	1	Eleven Eleven Mississippi
+1143	1	Ginger Bistro
+1144	1	Gio's Ristoranate and Bar
+1145	1	Ice Kitchen Restaurant
+1146	1	India's Rasoi
+1147	1	Liluma
+1148	1	Luciano's Trattoria
+1149	1	McCormick & Schmick's Seafood - St. Louis
+1150	1	Mojo Tapas Restaurant and Bar
+1151	1	Mosaic - St. Louis
+1152	1	Niche
+1153	1	Porter's Steakhouse-Collinsville
+1154	1	Square One Brewery & Distillery
+1155	1	The Terrace View
+1156	1	Terrene Restaurant
+1157	1	Triumph Grill
+1158	1	Wapango
+1159	1	Yemanja Brazil
+1160	1	221 South Oak Bistro
+1161	1	Afternoon Tea at the Briarwood Inn
+1162	1	Allred's Restaurant
+1163	1	Alpine Tavern
+1164	1	Atwater on Gore Creek
+1165	1	Avenue Grill - Denver
+1166	1	Baca at The Inverness Hotel
+1167	1	Baldpate Inn
+1168	1	Bistro One - Denver
+1169	1	Bloom - Broomfield
+1170	1	The Blue Star
+1171	1	Bol Restaurant
+1172	1	Boulder Cork
+1173	1	Brook's Steak House & Cellar
+1174	1	California Cafe - Denver
+1175	1	Capital Grille - Denver
+1176	1	Chautauqua Dining Hall
+1177	1	Craftwood Inn
+1178	1	Del Frisco's Double Eagle Steakhouse - Denver
+1179	1	dish restaurant
+1180	1	Duo Restaurant
+1181	1	EightK at Viceroy Snowmass
+1182	1	Elway's Cherry Creek
+1183	1	Firenze a Tavola
+1184	1	Fruition Restaurant
+1185	1	Gabriel's Restaurant
+1186	1	Hearthstone Restaurant
+1187	1	Highland's Garden Cafe
+1188	1	Il Mulino New York - Aspen
+1189	1	Inglenook Restaurant
+1190	1	Interstate Kitchen & Bar
+1191	1	Jay's Bistro
+1192	1	Kelly Liken
+1193	1	Kevin Taylor's At The Opera
+1194	1	Kona Grill - Denver
+1195	1	L'ATELIER - Boulder
+1196	1	Laudisio Restaurant
+1197	1	The Llama
+1198	1	Maggiano's - Denver South
+1199	1	The Margarita At Pine Creek
+1200	1	Mateo
+1201	1	McCormick & Schmick's Seafood - Denver
+1202	1	McCormick's Fish House - Denver
+1203	1	Meritage at the Omni Interlocken Resort
+1204	1	Morton's The Steakhouse - Denver
+1205	1	Olivéa
+1206	1	Opus Restaurant
+1207	1	Pepi's Restaurant & Bar
+1208	1	Pinon's Restaurant
+1209	1	The Rackhouse Pub
+1210	1	Rio Del Sol
+1211	1	Root Down
+1212	1	The Saucy Noodle
+1213	1	Sonny Lubick Steakhouse
+1214	1	Sugarbeet
+1215	1	The Summit Steakhouse
+1216	1	Table 6
+1217	1	Table Mountain Grill and Cantina
+1218	1	Tastes Wine Bar and Bistro - Uptown
+1219	1	Toscanini
+1220	1	Truffle Pig
+1221	1	Tuscato Ristorante Italiano
+1222	1	Twelve Restaurant
+1223	1	Uniscali Modern Italian
+1224	1	Vail Chophouse
+1225	1	Venice Ristorante
+1226	1	Vesta Dipping Grill
+1227	1	The Winery Restaurant
+1228	1	Aiello's
+1229	1	Arcadia Farms
+1230	1	Arizona Inn - Dining Room
+1231	1	Avanti
+1232	1	Bice Bistro - Glendale
+1233	1	Black Denim - Hilton Phoenix Chandler
+1234	1	Blue Adobe Grille - Mesa
+1235	1	Bob's Steak and Chop House - Omni Tucson National Resort
+1236	1	Brazilian Bull
+1237	1	Brix Restaurant and Wine Bar
+1238	1	Caffe Boa on Mill
+1239	1	Chad's Steakhouse & Saloon
+1240	1	Cheuvront Restaurant & Wine Bar
+1241	1	Core Kitchen and Wine Bar at The Ritz-Carlton Dove Mountain
+1242	1	Different Pointe of View
+1243	1	Doc's Place
+1244	1	Donovan's - Phoenix
+1245	1	Eddie's House
+1246	1	El Chorro Lodge
+1247	1	Fleming's Prime Steakhouse Chandler
+1248	1	Fleming's Prime Steakhouse DC Ranch
+1249	1	The Flying V
+1250	1	Frank & Alberts - The Arizona Biltmore
+1251	1	Gracie's Station Restaurant
+1252	1	Greekfest
+1253	1	The Grill at Hacienda del Sol
+1254	1	Iruna
+1255	1	Ko'sin Sheraton Wild Horse Pass Resort
+1256	1	La Hacienda at The Fairmont
+1257	1	L'Amore
+1258	1	Mabel's
+1259	1	Mastro's Ocean Club - Scottsdale
+1260	1	McCormick & Schmick's Seafood - Phoenix
+1261	1	Modern Steak
+1262	1	Montana Avenue
+1263	1	Reds Steakhouse at the Wigwam Resort
+1264	1	Ristorante Tuscany @ JW Marriott Desert Ridge
+1265	1	Roka Akor
+1266	1	Rokerij
+1267	1	The Spotted Donkey Cantina
+1268	1	The Stockyards Restaurant & 1889 Saloon
+1269	1	Sullivan's Steakhouse - Tucson
+1270	1	T. Cook's @ The Royal Palms Resort
+1271	1	Talavera
+1272	1	White Chocolate Grill - Scottsdale
+1273	1	Wildfish Seafood Grille - Scottsdale
+1274	1	Zinc Bistro
+1275	1	100th Bomb Group
+1276	1	AMP 150
+1277	1	Fleming's Prime Steakhouse Cleveland Woodmere
+1278	1	The Mad Greek
+1279	1	Mitchell's Fish Market - Cleveland
+1280	1	Moxie the Restaurant - Cleveland
+1281	1	Naya Bistro and Lounge
+1282	1	Paladar Latin Kitchen and Rum Bar
+1283	1	Parallax Restaurant & Lounge
+1284	1	SASA
+1285	1	Sergio's Saravá
+1286	1	Stages at the Cleveland Play House
+1287	1	Star At Playhouse Square
+1288	1	Verve Cleveland
+1289	1	XO Prime Steaks
+1290	1	6ix Park Grill
+1291	1	AKASHA
+1292	1	Andrei's
+1293	1	Antonello Ristorante
+1294	1	Arnie Morton's The Steakhouse - Woodland Hills
+1295	1	Back Bay Bistro
+1296	1	Bastide - West Hollywood
+1297	1	Belacan Grill
+1298	1	Bistro du Soleil
+1299	1	Bistro LQ
+1300	1	Black Angus Steakhouse - Lancaster
+1301	1	BLD
+1302	1	The BLVD - Beverly Wilshire Hotel
+1303	1	Boneyard Bistro
+1304	1	BORRACHO CANTINA
+1305	1	The Bridge
+1306	1	Brunello Trattoria
+1307	1	Bungalow
+1308	1	Buona Sera Ristorante
+1309	1	Burbank Bar & Grille
+1310	1	Caché Restaurant & Lounge
+1311	1	Cafe 14
+1312	1	Café des Artistes
+1313	1	Cafe Jardin at Sherman Gardens
+1314	1	Cafe Stella
+1315	1	Cafe Tu Tu Tango - Orange
+1316	1	Canal Club Wood Grill & Sushi Bar
+1317	1	Cannons Seafood Grill
+1318	1	Cantina Lounge
+1319	1	Canyon Restaurant
+1320	1	Casa Sanchez
+1321	1	Cask n' Cleaver - Rancho Cucamonga
+1322	1	Cask n' Cleaver - Riverside
+1323	1	Catalina Kitchen at Terranea Resort
+1324	1	Cha Cha's Tacos & Tequila
+1325	1	Chadaka Thai
+1326	1	Charlie's Malibu
+1327	1	Chart House Restaurant - Dana Point
+1328	1	Chart House Restaurant - Newport Beach
+1329	1	Chart House Restaurant - Redondo Beach
+1330	1	Checkers Downtown
+1331	1	Cigale Cafe
+1332	1	Cima at Pacific Palms Resort
+1333	1	Circa 55
+1334	1	The Crosby
+1335	1	CUT by Wolfgang Puck at The Beverly Wilshire
+1336	1	Daily Grill on Century
+1337	1	Darioush
+1338	1	Darya Fine Persian Cuisine- Santa Monica
+1339	1	The Den of Hollywood
+1340	1	Derek's Bistro
+1341	1	Drago Centro
+1342	1	El Caserio Virgil
+1343	1	El Cid Restaurant
+1344	1	Enterprise Fish Co. - Santa Monica
+1345	1	Exotic Thai Cuisine
+1346	1	Fabiolus Cafe
+1347	1	Fire + Ice Grill + Bar
+1348	1	First Cabin at Balboa Bay Club & Resort
+1349	1	Foxfire Restaurant
+1350	1	Fraiche Restaurant
+1351	1	Fresco Ristorante
+1352	1	Frida Restaurant
+1353	1	Gardens of Taxco
+1354	1	George's Greek Cafe - Lakewood
+1355	1	Gladstone's Malibu
+1356	1	Gonpachi - Torrance
+1357	1	Gordon Ramsay - West Hollywood
+1358	1	The Greek at the Harbor
+1359	1	Grill du Chateau
+1360	1	Gus's BBQ
+1361	1	Gyu-Kaku - Sherman Oaks
+1362	1	The Hall at Palihouse Holloway
+1363	1	Hal's Bar & Grill
+1364	1	Hama Sushi
+1365	1	Hamakaze Sushi & Izakaya
+1366	1	Hamburger Hamlet - Sherman Oaks
+1367	1	Hampton's - Four Seasons Westlake Village
+1368	1	Harpoon Henry's Seafood Restaurant
+1369	1	Hatfields
+1370	1	i. Cugini
+1371	1	Il Fornaio - Pasadena
+1372	1	Il Piccolino
+1373	1	Il Tiramisu Ristorante & Bar
+1374	1	India's Tandoori Cuisine of India - Wilshire
+1375	1	Itacho
+1376	1	JT Schmid's Restaurant & Brewery - Tustin
+1377	1	Kabuki Japanese Restaurant - Hollywood
+1378	1	Katsuya - Brentwood - SBE
+1379	1	Kincaid's
+1380	1	Koi
+1381	1	K'ya Bistro - Laguna Beach
+1382	1	La Fonda on Wilshire
+1383	1	Larsen's Steakhouse
+1384	1	Las Brisas
+1385	1	Leatherby's Cafe Rouge
+1386	1	Locanda Positano
+1387	1	Luna Park - Los Angeles
+1388	1	Magnolia - Downtown
+1389	1	Magnolia Lounge
+1390	1	Maison Akira
+1391	1	Marché Moderne
+1392	1	Maria's Italian Kitchen - Downtown
+1393	1	Marmalade Cafe - Tustin
+1394	1	Mastro's Steakhouse - Costa Mesa
+1395	1	McCormick & Schmick's Seafood - Burbank
+1396	1	McCormick & Schmick's Seafood - Irvine
+1397	1	The Melting Pot - Brea
+1398	1	The Melting Pot - San Clemente
+1399	1	Mezza Mediterranean Grill
+1400	1	Mirabelle
+1401	1	Moonshadows
+1402	1	Nick's Laguna Beach
+1403	1	One Pico
+1404	1	O'Neill's Bar & Grill
+1405	1	Opaque - Dining in the Dark, LA
+1406	1	Osteria Mozza
+1407	1	Padri Restaurant
+1408	1	The Palm - West Hollywood
+1409	1	Palomino - Los Angeles
+1410	1	PAPARAZZI Ristorante
+1411	1	Parkers' Lighthouse
+1412	1	Parkway Grill
+1413	1	Pete's Cafe & Bar
+1414	1	Petrossian Paris Boutique & Restaurant
+1415	1	Plum Tree Inn
+1416	1	Porterhouse Bistro
+1417	1	Raphael
+1418	1	The Raymond Restaurant
+1419	1	Red Seven
+1420	1	The Restaurant @ L'Ermitage
+1421	1	Restaurant at Kellogg Ranch
+1422	1	RH Restaurant & Bar
+1423	1	Rock'n Fish
+1424	1	ROCK'N FISH L.A. LIVE
+1425	1	The Rooftop by Gordon Ramsay at The London
+1426	1	Ruth's Chris Steak House - Anaheim
+1427	1	Saddle Peak Lodge
+1428	1	Saint Amour
+1429	1	Salt Creek Grille - El Segundo
+1430	1	Sam & Harry's Steakhouse - Marriott Newport Beach
+1431	1	Sapphire Laguna
+1432	1	Savory Restaurant
+1433	1	Second Story - Hotel Belamar
+1434	1	SIP at Renaissance Long Beach
+1435	1	Skosh Monahan's Steakhouse & Irish Pub
+1436	1	The Sky Room
+1437	1	The Smokehouse
+1438	1	The Social
+1439	1	Sofi Restaurant
+1440	1	Sonoma Wine Garden - Santa Monica
+1441	1	South Coast Winery Restaurant
+1442	1	Splashes at Surf & Sand Resort
+1443	1	STAKES Supper Club
+1444	1	Stefan's at L.A. Farm
+1445	1	Steven's Steakhouse
+1446	1	The Stinking Rose
+1447	1	Sundried Tomato Cafe - San Clemente
+1448	1	The Sycamore Inn Prime Steak House
+1449	1	Tabu Grill
+1450	1	Takami Sushi & Robata Restaurant
+1451	1	The Tar Pit
+1452	1	Terra Malibu
+1453	1	Traxx
+1454	1	Tuscany Mediterranee Grill
+1455	1	Villa Blanca
+1456	1	Vincenzo Ristorante
+1457	1	The Vintage Steakhouse
+1458	1	VUE
+1459	1	Watermarc
+1460	1	Whisper Restaurant & Lounge
+1461	1	Wokcano - Santa Monica
+1462	1	Woo Lae Oak - Beverly Hills
+1463	1	Xi'an
+1464	1	Yamashiro
+1465	1	The Yard
+1466	1	Yujean Kang's Gourmet Chinese
+1467	1	Zach's Cafe
+1468	1	Bistecca
+1469	1	Braddock's American Brasserie
+1470	1	Capital Grille - Pittsburgh
+1471	1	Crystal Dining Room at Bedford Springs
+1472	1	Ditka's Restaurant
+1473	1	Grand Concourse
+1474	1	Mio Kitchen & Wine Bar
+1475	1	Mitchell's Fish Market - Waterfront - Pittsburgh
+1476	1	Nine on Nine
+1477	1	SOBA Lounge
+1478	1	Sonoma Grille Pittsburgh
+1479	1	Spoon Pittsburgh
+1480	1	Tamari
+1481	1	Willow
+1482	1	Azalea Restaurant & Lounge
+1483	1	Brown Bottle North Liberty
+1484	1	Takanami
+1485	1	Bella Aquila
+1486	1	Berryhill & Co.
+1487	1	Riccabona's
+1488	1	22 Bowens Wine Bar and Grille
+1489	1	Alden Park Bar and Grill
+1490	1	Amici Restaurant
+1491	1	Anthony's Pier 4
+1492	1	Antico Forno
+1493	1	Aquitaine
+1494	1	Atlantica
+1495	1	Audrey's at the Johnson and Wales Inn
+1496	1	Bar Harbor Club
+1497	1	Bar Lola - Portland
+1498	1	Beacon Hill Bistro
+1499	1	Beacon Street Tavern
+1500	1	Bella Luna Jamaica Plain
+1501	1	Big Papi's Grille
+1502	1	Blu
+1503	1	Blue Sky on York Beach
+1504	1	Blue Stove at Nordstrom
+1505	1	Boat House Waterfront Dining
+1506	1	BonCaldo
+1507	1	Brant Point Grill at the White Elephant
+1508	1	Brasserie Jo - Boston
+1509	1	Butler's Restaurant
+1510	1	Cafe Fresco
+1511	1	Cafe Noir
+1512	1	Caliterra Bar & Grille
+1513	1	Capt's Waterfront Grill
+1514	1	Ceres Bistro at Beechwood Hotel
+1515	1	Champney’s Restaurant & Tavern at the Deerfield Inn
+1516	1	Chebeague Island Inn
+1517	1	Chow! Bella
+1518	1	The Cockeyed Gull
+1519	1	The Cottage Restaurant
+1520	1	Cotton
+1521	1	Cottonwood Cafe
+1522	1	The Daily Planet
+1523	1	Davio's - Boston
+1524	1	Durgin Park
+1525	1	Epoch at The Exeter Inn
+1526	1	erbaluce
+1527	1	Euno Ristorante
+1528	1	Evangeline
+1529	1	Exchange Street Bistro
+1530	1	Flat Iron Tapas Bar and Lounge-Bulfinch Hotel
+1531	1	Fleming's Prime Steakhouse Providence
+1532	1	The Frog and Turtle
+1533	1	FuGaKyu Japanese Cuisine
+1534	1	Gennaro's 5 North Square
+1535	1	Harborside Grill and Patio-Hyatt Harborside
+1536	1	Harvest
+1537	1	Hemenway's Dockside
+1538	1	Il Casale
+1539	1	J Morgan's Steakhouse
+1540	1	Jer-Ne Restaurant and Bar
+1541	1	Joe Tecce's Ristorante and Cafe
+1542	1	Joe's American Bar and Grill - Boston
+1543	1	John Harvard's Brew House
+1544	1	Johnnie's On The Side
+1545	1	Kashmir
+1546	1	Katie's on Shore Road
+1547	1	La Galleria 33
+1548	1	La Voile
+1549	1	Left Bank at Stonehedge Inn and Spa
+1550	1	Legal Sea Foods - Burlington Mall
+1551	1	Legal Sea Foods - Long Wharf
+1552	1	Legal Sea Foods - LTK Park Lane
+1553	1	L'Espalier
+1554	1	Leunig's Bistro
+1555	1	Libations Restaurant and Lounge at The Radisson Hotel Providence
+1556	1	Lineage
+1557	1	Luciano's
+1558	1	Lucky's Lounge
+1559	1	Lumiere
+1560	1	The Marathon Restaurant at North Pond
+1561	1	Masa
+1562	1	Masona Grill
+1563	1	McCormick & Schmick's Seafood - Park Plaza
+1564	1	Metropolis Cafe
+1565	1	Milestone
+1566	1	Mission Oak Grill
+1567	1	The Mooring Restaurant
+1568	1	Morton's The Steakhouse - Boston
+1569	1	Myers + Chang
+1570	1	Nebo Restaurant and Bar
+1571	1	Norma's at Topnotch Resort and Spa
+1572	1	Oceanaire Seafood Room - Boston
+1573	1	Oishii Boston
+1574	1	Panza
+1575	1	Papa Razzi - Wellesley
+1576	1	Parker's Restaurant - Omni Parker House
+1577	1	Pauline's
+1578	1	Pazzo
+1579	1	Pesce Italian Kitchen and Bar
+1580	1	Petit Robert Bistro Columbus Avenue
+1581	1	The Pier Restaurant
+1582	1	Pinz/Blue Dog Sports Bar and Grille
+1583	1	Rasoi Restaurant
+1584	1	The Red House Restaurant
+1585	1	Redline Food and Drink
+1586	1	Regatta of Cotuit
+1587	1	Rendezvous in Central Square
+1588	1	Ristorante Fiore
+1589	1	Rustic Kitchen
+1590	1	The Savant Project
+1591	1	Savino's
+1592	1	Scutra
+1593	1	Seaglass Restaurant and Lounge
+1594	1	Sedgley Place
+1595	1	Sel de la Terre - Back Bay
+1596	1	Sel de la Terre - Long Wharf
+1597	1	Shula's 347 Grille - Providence
+1598	1	The Sole Proprietor
+1599	1	Solo Bistro
+1600	1	Sorellina
+1601	1	The Spiced Pear
+1602	1	Sportello
+1603	1	Stella
+1604	1	Sugar Hill Inn
+1605	1	Summer Shack
+1606	1	Summer Winter at Marriott Boston Burlington
+1607	1	Table 24
+1608	1	Ten Prime Steak and Sushi
+1609	1	Ten Tables Cambridge
+1610	1	Trattoria Romana South
+1611	1	Trio Rhode Island
+1612	1	Truffles Grille & Wine Bar
+1613	1	Tryst Restaurant
+1614	1	Twenty8 Food & Spirits
+1615	1	Typhoon Asian Bistro
+1616	1	Victoria's Cucina Italiana
+1617	1	Vinoteca di Monica
+1618	1	Waterman Grille
+1619	1	White Barn Inn
+1620	1	Willy’s Steakhouse Grill & Sushi Bar
+1621	1	Kona Grill - Omaha
+1622	1	Spezia Omaha
+1623	1	Sullivan's Steakhouse - Omaha
+1624	1	Baxters Bistro & Lounge
+1625	1	Beaujolais Bistro
+1626	1	Chart House Restaurant - Lake Tahoe
+1627	1	Christy Hill
+1628	1	Ciera - MontBleu Resort
+1629	1	Jake's on the Lake
+1630	1	The Lodge
+1631	1	PlumpJack Cafe Squaw Valley
+1632	1	Rim - Grand Sierra Resort & Casino
+1633	1	Six Peaks Grille
+1634	1	10 Downing Food & Wine
+1635	1	1770 House
+1636	1	21 Club
+1637	1	3 Forty Grill
+1638	1	a casa fox
+1639	1	A Voce Madison
+1640	1	Aangan
+1641	1	Abe & Arthur's
+1642	1	Above Restaurant and Bar
+1643	1	Adour Alain Ducasse at The St. Regis New York
+1644	1	Aged - New York City
+1645	1	Agozar!
+1646	1	Agua Dulce
+1647	1	Akbar Restaurant - Garden City
+1648	1	Al Dente
+1649	1	Alfredo of Rome
+1650	1	Amanda's Restaurant
+1651	1	Amber - West
+1652	1	Amber Gramercy
+1653	1	Amsterdam Restaurant & Tapas Lounge
+1654	1	An American Bistro
+1655	1	Ana Beall's Tea Room
+1656	1	Andaz
+1657	1	Angelo & Maxie's Steakhouse - NYC
+1658	1	Angelo's Tavolo at Glen Sanders Mansion
+1659	1	Antonia's By The Park
+1660	1	Antonucci's
+1661	1	Apizz
+1662	1	Aquavit Dining Room
+1663	1	Armani Ristorante 5th Avenue
+1664	1	Aspen Restaurant
+1665	1	Assaggio Ristorante
+1666	1	Aureole - Bar Room
+1667	1	Aurora - Soho
+1668	1	B. Smith's Sag Harbor
+1669	1	Bacchus
+1670	1	Bahrs Landing
+1671	1	Baku Palace
+1672	1	Baluchi's - Downtown
+1673	1	Bar Americain at Mohegan Sun
+1674	1	Bar Henry
+1675	1	Barbarini
+1676	1	Barbetta Restaurant
+1677	1	Barclay Bar and Grill
+1678	1	Basera Indian Bistro
+1679	1	Becco
+1680	1	Belcourt
+1681	1	Bella Luna - NYC
+1682	1	Bella Vita City Grill
+1683	1	Belleville Bistro
+1684	1	Bello Restaurant
+1685	1	Benjamin Steakhouse
+1686	1	Besito - Roslyn
+1687	1	Bhatti Indian Grill
+1688	1	Big Daddy’s – Upper West Side
+1689	1	Bistro de la Gare
+1690	1	Bistro Rollin
+1691	1	Black Rock Tavern
+1692	1	BLT Market
+1693	1	Blu- New York
+1694	1	Blue Fin - New York
+1695	1	Bogota Latin Bistro
+1696	1	Bond 45
+1697	1	Bottino
+1698	1	Boulevard Five72
+1699	1	Braai
+1700	1	The Brass Rail
+1701	1	Brasserie 214 at The Inn at New Hyde Park
+1702	1	Brick NYC
+1703	1	Brinkley's
+1704	1	Broadway East
+1705	1	Bryant Park Grill
+1706	1	BV Tuscany Italian Restaurant
+1707	1	Cacio e Pepe
+1708	1	The Cafe Carlyle
+1709	1	Café on the Green
+1710	1	Café Routier
+1711	1	Capital Grille - NY- Wall Street
+1712	1	Casa Lever
+1713	1	Cavatappo Grill
+1714	1	Caviar Russe - Wave Sushi
+1715	1	Centro Vinoteca
+1716	1	Chola
+1717	1	Chom Chom
+1718	1	Choptank
+1719	1	Chris Michael's Steakhouse
+1720	1	Christopher's Restaurant at the Heldrich
+1721	1	Ciaobella
+1722	1	Cibo
+1723	1	Cipollini Trattoria and Bar
+1724	1	City Lobster & Steakhouse
+1725	1	COLORS
+1726	1	COMMERCE
+1727	1	Commodore Grill
+1728	1	Compass Restaurant - New York
+1729	1	Coppola's West
+1730	1	The Corner
+1731	1	Corton
+1732	1	Craft
+1733	1	Crema Restaurante
+1734	1	Crispo
+1735	1	Cu29 Wine and Bistro
+1736	1	Day Boat Cafe
+1737	1	Deco 1600
+1738	1	DeStefano's Steak House
+1739	1	Destino - NYC
+1740	1	Dino & Harry's Steakhouse
+1741	1	Dinosaur Bar B Que
+1742	1	Diva
+1743	1	Do Hwa
+1744	1	Domenico
+1745	1	Dos Caminos – Meatpacking
+1746	1	Dovetail
+1747	1	Dressler
+1748	1	Duke's - Murray Hill
+1749	1	Edward's Steakhouse
+1750	1	Encore Restaurant - Steak, Seafood, Sushi
+1751	1	Equus @ The Castle on the Hudson
+1752	1	Erminia Ristorante
+1753	1	Esca
+1754	1	Farm 2 Bistro
+1755	1	Fatty Crab
+1756	1	Fig & Olive - Fifth Avenue
+1757	1	Fig & Olive - Uptown
+1758	1	Fiorino
+1759	1	Fishtail by David Burke
+1760	1	Flex Mussels
+1761	1	Fornino - Park Slope
+1762	1	Fresno
+1763	1	Friend of a Farmer
+1764	1	Fusha East
+1765	1	Gabbana Restaurant & Lounge
+1766	1	Gabriela's
+1767	1	Gallagher's Steak House
+1768	1	Garage Restaurant and Cafe
+1769	1	Gigino at Wagner Park
+1770	1	Gigino Trattoria
+1771	1	Glass Woods Tavern - Hyatt Regency New Brunswick
+1772	1	The Goose American Bistro and Bar
+1773	1	Grand Bar & Lounge @ Soho Grand Hotel
+1774	1	Greenwich Tavern
+1775	1	The Grill Room
+1776	1	Gyu-Kaku - East Village
+1777	1	Hakata Tonton
+1778	1	Hamilton & Ward Steakhouse
+1779	1	The Harrison
+1780	1	Haru Sushi - Wall Street
+1781	1	Havana - Alma de Cuba
+1782	1	Heartland Brewery Chophouse
+1783	1	Heirloom - New Haven
+1784	1	Hollywood Brown Derby
+1785	1	Hudson Grille
+1786	1	Hudson's Ribs & Fish
+1787	1	Hundred Acres
+1788	1	Il Bastardo
+1789	1	Il Cantinori
+1790	1	Il Mulino - Long Island
+1791	1	In Vino Wine Bar & Restaurant
+1792	1	Inakaya
+1793	1	Indus Valley
+1794	1	Istana
+1795	1	Japonica
+1796	1	JoJo
+1797	1	Jubilee
+1798	1	Knickerbocker Bar and Grill
+1799	1	Kouzan
+1800	1	La Rivista
+1801	1	La Scala Ristorante New York
+1802	1	Lahiere's
+1803	1	Landmarc [At the Time Warner Center]
+1804	1	Lattanzi
+1805	1	Le Caprice
+1806	1	Le Cirque
+1807	1	Le Colonial
+1808	1	le Magnifique
+1809	1	Legends New York City
+1810	1	Lento
+1811	1	Les Halles Park Avenue
+1812	1	The Libertine
+1813	1	Locale Cafe & Bar -Astoria
+1814	1	L'Orcio
+1815	1	Lua
+1816	1	Luce & Hawkins
+1817	1	Luce's Landing
+1818	1	Luna Piena Ristorante
+1819	1	Macao Trading Company
+1820	1	Maison
+1821	1	Mambo 'taliano Ristorante & Piano Bar
+1822	1	The Manor - Fine Buffet Dining
+1823	1	Mara's Homemade
+1824	1	Marcello's Ristorante of Suffern
+1825	1	Mari Vanna
+1826	1	Mariner's Harbor
+1827	1	Mario's Italian Steakhouse & Catering
+1828	1	Market Table
+1829	1	Martoni's
+1830	1	Maruzzella
+1831	1	Matsuri
+1832	1	Matt's Red Rooster Grill
+1833	1	Max Fish
+1834	1	Maxie's Bar & Grill
+1835	1	Max's Oyster Bar
+1836	1	McCormick & Schmick's Seafood - New York
+1837	1	McDonagh's Pub
+1838	1	Megu - Midtown
+1839	1	The Mermaid Inn
+1840	1	The Mermaid Inn Uptown
+1841	1	Meson Sevilla
+1842	1	Michael Anthony's Waterfront
+1843	1	Michael Jordan's the Steakhouse N.Y.C.
+1844	1	Mirko's
+1845	1	MoCA Asian Bistro
+1846	1	Montenapo
+1847	1	Morton's The Steakhouse - Brooklyn
+1848	1	Morton's The Steakhouse - White Plains
+1849	1	Mulberry's Restaurant
+1850	1	Mulino's
+1851	1	Mustang Harry's
+1852	1	Naples 45
+1853	1	Navy Beach
+1854	1	New York Steak House
+1855	1	Nice Matin
+1856	1	Nick & Stef's
+1857	1	Nick & Toni's
+1858	1	Nobu New York
+1859	1	Nolita House Restaurant
+1860	1	Nonnina Italian Bistro
+1861	1	North Square
+1862	1	Nougatine at Jean Georges
+1863	1	The Oak Room at the Plaza Hotel
+1864	1	Old Homestead Restaurant
+1865	1	Osteria Del Circo
+1866	1	Pacifico- New Haven, CT
+1867	1	Pampano
+1868	1	Pappardella
+1869	1	Pasquale's
+1870	1	Passionné
+1871	1	pastaVino
+1872	1	The Patio at 54 Main
+1873	1	Pazzo Pazzo
+1874	1	The Peacock Inn
+1875	1	The Pearl Room
+1876	1	Perbacco - NYC
+1877	1	Perry St
+1878	1	Persepolis
+1879	1	Petrossian - New York
+1880	1	Piccolo Arancio
+1881	1	PicNic Market & Cafe
+1882	1	Piola - New York City
+1883	1	Plein Sud
+1884	1	Polpo
+1885	1	Porters on the Lane
+1886	1	Porto Vivo
+1887	1	The Post House
+1888	1	Prime at Saratoga National
+1889	1	Primehouse New York
+1890	1	Pulse Restaurant and Bar
+1891	1	Rayuela
+1892	1	Red Cat
+1893	1	red/bar brasserie
+1894	1	Restaurant Latour
+1895	1	Revel
+1896	1	Rio Rodizio - Newark (Formerly Seabra Rodizio)
+1897	1	Rio Rodizio - Union
+1898	1	Riverview
+1899	1	Rizzuto's Wood-Fired Kitchen & Bar - Westport
+1900	1	Rod's Steak and Seafood Grille
+1901	1	Rosa Mexicano - First Avenue
+1902	1	Rosie O'Grady's
+1903	1	Rughetta Ristorante
+1904	1	Ruth's Chris Steak House - Weehawken
+1905	1	Sakagura
+1906	1	Salmon River
+1907	1	Sambuca
+1908	1	Sarabeth's West
+1909	1	Sardi's
+1910	1	Savoy
+1911	1	Scrimshaw Restaurant
+1912	1	Secession
+1913	1	SerRa Mediterranean BisTro
+1914	1	Shalezeh
+1915	1	Shinbashi
+1916	1	Shorty's.32
+1917	1	Shula's Steak House - NY
+1918	1	Shun Lee West
+1919	1	Sinigual - NY
+1920	1	Smith & Wollensky - New York
+1921	1	Solaia - NJ
+1922	1	Sosa Borella
+1923	1	The Stanton Social
+1924	1	Starr Boggs
+1925	1	Stone House
+1926	1	The Stone Turtle
+1927	1	Suenos
+1928	1	Sushi Lounge - Morristown
+1929	1	SweetiePie Restaurant
+1930	1	Tacocina Restaurant
+1931	1	Tao
+1932	1	Tartinery
+1933	1	The Taste of New York Restaurant at New York Wine and Culinary Center
+1934	1	Tempo Restaurant
+1935	1	Ten East Hibachi and Sake Lounge
+1936	1	Thali Regional Cuisine of India - New Canaan
+1937	1	Tony's Di Napoli
+1938	1	Tredici Steak
+1939	1	Trestle on Tenth
+1940	1	Triumph Brewing Company - Princeton
+1941	1	Turqua Grill
+1942	1	Tuscan Oven Trattoria
+1943	1	Two E Bar and Lounge
+1944	1	Uncle Jack's Steakhouse - Bayside
+1945	1	Undici
+1946	1	Union League Cafe
+1947	1	UpRoot Restaurant
+1948	1	Valbella Connecticut
+1949	1	Vareli
+1950	1	Vince and Eddie's
+1951	1	Vintage Bar & Restaurant
+1952	1	Vito's Tavern and Pizzeria
+1953	1	Vivas
+1954	1	Water's Edge
+1955	1	Webb's Captain's Table
+1956	1	Whispers
+1957	1	Wildwood Barbecue
+1958	1	Zarela
+1959	1	ZEN PALATE
+1960	1	Zerza
+1961	1	Zucca Trattoria
+1962	1	Aubergine at L'Auberge Carmel
+1963	1	Brothers Restaurant at Mattei's Tavern
+1964	1	Cafe Luck
+1965	1	Coast Restaurant & Bar
+1966	1	Corner View Restaurant & Bar
+1967	1	Enterprise Fish Co. - Santa Barbara
+1968	1	Far Western Tavern
+1969	1	The Forge in the Forest
+1970	1	Hawgs Seafood Bar
+1971	1	Kula Ranch Island Steakhouse
+1972	1	McPhee's Grill
+1973	1	Michael's on Main
+1974	1	Panolivo
+1975	1	Peachwood’s Steakhouse at the Inn at Pasatiempo
+1976	1	Piatti - Carmel
+1977	1	Robin's
+1978	1	Steamers of Pismo
+1979	1	Tarpy's Roadhouse
+1980	1	The Whaling Station
+1981	1	Adobe Grill @ La Quinta Resort
+1982	1	Chop House Palm Springs
+1983	1	Circa59 at Riviera Spa & Resort
+1984	1	Cork Tree Restaurant
+1985	1	Fleming's Prime Steakhouse Rancho Mirage
+1986	1	Lakeview at Desert Springs JW Marriott
+1987	1	Players Steakhouse - Fantasy Springs Casino & Resort
+1988	1	Roy's Rancho Mirage
+1989	1	The Tropicale
+1990	1	Cafe Cabernet
+1991	1	Cuvee Bistro
+1992	1	Finz Restaurant at Sandestin Golf and Beach Resort
+1993	1	Marina Cafe
+1994	1	Shula's 347 Grill - Hotel Duval Tallahassee
+1995	1	619 Ocean View Restaurant at Sawgrass Marriott
+1996	1	Azurea at One Ocean
+1997	1	Bistro Aix
+1998	1	Brass Monkey Tapas Bar
+1999	1	Buddha's Belly

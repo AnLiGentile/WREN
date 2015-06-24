@@ -1,0 +1,502 @@
+﻿camera	buy	manufacturer
+500	500	633	46
+0000	1	Canon
+0001	1	Canon
+0002	2	Fujifilm	Fuji
+0003	1	Kodak
+0004	1	Panasonic
+0005	1	Canon
+0006	2	Olympus	OLYMPUS-CAMERAS
+0007	1	Sony
+0008	1	Canon
+0009	2	Nikon	NIKON - PHOTO
+0010	1	OLYMPUS-CAMERAS
+0011	1	Sony
+0012	1	Sony
+0013	1	Panasonic
+0014	1	Panasonic
+0015	1	Canon
+0016	1	Panasonic
+0017	1	Samsung
+0018	1	Canon
+0019	2	Vivitar	Sakar International
+0020	1	Samsung
+0021	1	Panasonic
+0022	1	Samsung
+0023	1	Canon
+0024	1	Vivitar
+0025	1	Samsung
+0026	1	Panasonic
+0027	1	Canon
+0028	1	Canon
+0029	1	Samsung
+0030	1	Samsung
+0031	1	Canon
+0032	1	Canon
+0033	1	Canon
+0034	1	Panasonic
+0035	1	Panasonic
+0036	1	Fuji
+0037	1	Samsung
+0038	2	Kodak	Eastman Kodak
+0039	2	Nikon	NIKON - PHOTO
+0040	1	Kodak
+0041	1	Canon
+0042	1	Canon
+0043	1	Kodak
+0044	1	Fuji
+0045	1	Kodak
+0046	1	Sony
+0047	1	Sony
+0048	2	Vivitar	SAKAR-VIVITAR
+0049	1	Kodak
+0050	1	Fuji
+0051	1	Panasonic
+0052	1	Fuji
+0053	1	Fuji
+0054	1	Panasonic
+0055	1	Canon
+0056	1	Sony
+0057	1	Sony
+0058	1	Panasonic
+0059	1	Fuji
+0060	1	Kodak
+0061	1	OLYMPUS-CAMERAS
+0062	1	Samsung
+0063	1	Polaroid
+0064	1	Sony
+0065	2	Pentax	Pentax Imaging
+0066	1	Panasonic
+0067	2	Vivitar	SAKAR-VIVITAR
+0068	1	Canon
+0069	1	Olympus
+0070	2	Olympus	OLYMPUS-PHOTO VIDEO
+0071	1	Nikon
+0072	1	Panasonic
+0073	1	Nikon
+0074	1	Panasonic
+0075	2	Kodak	Eastman Kodak
+0076	2	Casio	CASIO DIGITAL-CAMERAS
+0077	1	Olympus
+0078	1	OLYMPUS-CAMERAS
+0079	2	Nikon	NIKON - PHOTO
+0080	1	Sony
+0081	2	Pentax	Pentax Imaging
+0082	1	Sony
+0083	1	Canon
+0084	1	Samsung
+0085	1	Panasonic
+0086	1	Kodak
+0087	1	Panasonic
+0088	1	Kodak
+0089	1	Vivitar
+0090	2	Casio	CASIO DIGITAL-CAMERAS
+0091	1	Sony
+0092	2	Casio	CASIO DIGITAL-CAMERAS
+0093	1	Nikon
+0094	1	Fuji
+0095	1	Samsung
+0096	1	Panasonic
+0097	2	Fujifilm	Fuji
+0098	1	Nikon
+0099	1	OLYMPUS-CAMERAS
+0100	1	Panasonic
+0101	1	Nikon
+0102	1	Jazz
+0103	2	Casio	Casio Inc.
+0104	1	Samsung
+0105	1	OLYMPUS-CAMERAS
+0106	1	Kodak
+0107	1	Panasonic
+0108	1	VistaQuest
+0109	2	Kodak	Eastman Kodak
+0110	1	Nikon
+0111	2	Vivitar	SAKAR-VIVITAR
+0112	1	Kodak
+0113	2	Pentax	Pentax Imaging
+0114	1	Nikon
+0115	1	Kodak
+0116	2	International Innovations	INTERNATIONAL INNOVATIONS
+0117	1	Kodak
+0118	1	Canon
+0119	2	Casio	Casio Inc.
+0120	1	Leica
+0121	1	Olympus
+0122	2	General Imaging	GENERAL IMAGING COMPANY
+0123	1	Samsung
+0124	1	Kodak
+0125	1	Nikon
+0126	1	Fuji
+0127	1	Sony
+0128	1	Sony
+0129	2	Pentax	Pentax Imaging
+0130	1	Nikon
+0131	1	Nikon
+0132	2	GE	GENERAL IMAGING COMPANY
+0133	2	Casio	Casio Inc.
+0134	1	Sony
+0135	2	HP	Hewlett Packard
+0136	2	Fujifilm	Fuji
+0137	1	Canon
+0138	1	OLYMPUS-CAMERAS
+0139	1	Samsung
+0140	2	Kodak	Eastman Kodak
+0141	2	Kodak	Eastman Kodak
+0142	2	Casio	Casio Inc.
+0143	2	Kodak	Eastman Kodak
+0144	1	Kodak
+0145	1	Kodak
+0146	1	Nikon
+0147	1	Kodak
+0148	1	Vivitar
+0149	1	Nikon
+0150	1	Nikon
+0151	1	Panasonic
+0152	1	Nikon
+0153	1	Canon
+0154	2	GE	GENERAL IMAGING COMPANY
+0155	1	Canon
+0156	1	Olympus
+0157	1	OLYMPUS-CAMERAS
+0158	1	Fuji
+0159	2	Casio	Casio Inc.
+0160	1	Nikon
+0161	1	Kodak
+0162	1	Nikon
+0163	2	Casio	Casio Inc.
+0164	1	Pentax
+0165	1	Olympus
+0166	2	GE	GENERAL IMAGING COMPANY
+0167	1	Samsung
+0168	1	Polaroid
+0169	1	Fuji
+0170	1	Panasonic
+0171	1	Olympus
+0172	1	Olympus
+0173	1	Samsung
+0174	2	Pentax	Pentax Imaging
+0175	1	Canon
+0176	1	Pentax
+0177	2	Argus	Visiontek
+0178	1	Samsung
+0179	1	Sigma
+0180	1	Canon
+0181	1	Sony
+0182	1	Nikon
+0183	1	Kodak
+0184	1	VistaQuest
+0185	1	Sony
+0186	2	Kodak	Eastman Kodak
+0187	1	Fuji
+0188	1	Panasonic
+0189	1	Nikon
+0190	1	Minolta
+0191	2	Pentax	Pentax Imaging
+0192	1	Samsung
+0193	1	Fuji
+0194	2	Kodak	Eastman Kodak
+0195	1	Fuji
+0196	2	Nikon	NIKON - PHOTO
+0197	1	Canon
+0198	1	Olympus
+0199	1	Olympus
+0200	2	Kodak	Eastman Kodak
+0201	1	Fuji
+0202	2	Kodak	Eastman Kodak
+0203	1	Nikon
+0204	2	Kodak	Eastman Kodak
+0205	2	HP	Hewlett Packard
+0206	1	VistaQuest
+0207	2	General Imaging	GENERAL IMAGING COMPANY
+0208	1	VistaQuest
+0209	1	Samsung
+0210	1	Olympus
+0211	2	Pentax	Pentax Imaging
+0212	1	Samsung
+0213	1	Pentax
+0214	1	Panasonic
+0215	1	Vivitar
+0216	1	Olympus
+0217	2	Intova	INTERNATIONAL INNOVATIONS
+0218	1	Intova
+0219	2	Konica Minolta	Minolta
+0220	1	Sigma
+0221	1	Panasonic
+0222	1	Panasonic
+0223	1	Panasonic
+0224	1	Digital Blue
+0225	1	Fuji
+0226	1	Fuji
+0227	1	Sakar
+0228	2	Vivitar	SAKAR-VIVITAR
+0229	1	Nikon
+0230	1	Panasonic
+0231	2	Vivitar	SAKAR-VIDEO GAME
+0232	2	GE	General Electric
+0233	1	Canon
+0234	2	Casio	Casio Inc.
+0235	1	Olympus
+0236	1	Fuji
+0237	2	Vivitar	Sakar International
+0238	1	VistaQuest
+0239	2	GE	General Electric
+0240	2	Cobra Digital	Cobra
+0241	2	Casio	Casio Inc.
+0242	1	Agfa
+0243	1	Canon
+0244	2	Pentax	Pentax Imaging
+0245	1	Samsung
+0246	1	Vivitar
+0247	1	Sakar
+0248	2	Pentax	Pentax Imaging
+0249	2	GE	GENERAL IMAGING COMPANY
+0250	1	Samsung
+0251	1	Panasonic
+0252	2	GE	GENERAL IMAGING COMPANY
+0253	2	Cobra Digital	Cobra
+0254	1	Fuji
+0255	2	GE	GENERAL IMAGING COMPANY
+0256	1	Pentax
+0257	1	Panasonic
+0258	2	GE	GENERAL IMAGING COMPANY
+0259	2	Casio	CASIO DIGITAL-CAMERAS
+0260	1	Fuji
+0261	1	OLYMPUS-CAMERAS
+0262	2	Cobra Digital	Cobra
+0263	1	Nikon
+0264	2	Fujifilm	Fuji
+0265	1	Olympus
+0266	1	Panasonic
+0267	2	GE	GENERAL IMAGING COMPANY
+0268	2	Vivitar	SAKAR-VIVITAR
+0269	2	Vivitar	SAKAR-VIVITAR
+0270	1	Olympus
+0271	1	Fuji
+0272	1	Nikon
+0273	1	Samsung
+0274	2	Pentax	Pentax Imaging
+0275	2	GE	GENERAL IMAGING COMPANY
+0276	1	VistaQuest
+0277	2	Cobra Digital	Cobra
+0278	1	Pentax
+0279	1	Memorex
+0280	2	GE	GENERAL IMAGING COMPANY
+0281	1	Samsung
+0282	1	Fuji
+0283	1	Kodak
+0284	1	Panasonic
+0285	1	GENERAL IMAGING COMPANY
+0286	1	Nikon
+0287	1	Vivitar
+0288	1	Canon
+0289	1	Samsung
+0290	1	Canon
+0291	1	Canon
+0292	1	Canon
+0293	1	Olympus
+0294	2	Kodak	Eastman Kodak
+0295	1	Nikon
+0296	1	Sony
+0297	1	OLYMPUS-CAMERAS
+0298	1	Fuji
+0299	1	Sony
+0300	1	Samsung
+0301	1	Panasonic
+0302	1	Canon
+0303	2	Pentax	Pentax Imaging
+0304	1	Samsung
+0305	1	Olympus
+0306	2	GE	GENERAL IMAGING COMPANY
+0307	1	Fuji
+0308	1	Pentax
+0309	2	Pentax	Pentax Imaging
+0310	2	GE	GENERAL IMAGING COMPANY
+0311	2	General Imaging	General Electric
+0312	2	Pentax	Pentax Imaging
+0313	2	GE	GENERAL IMAGING COMPANY
+0314	2	GE	GENERAL IMAGING COMPANY
+0315	2	Pentax	Pentax Imaging
+0316	1	Panasonic
+0317	2	International Innovations	Intova
+0318	1	Pentax
+0319	1	Fuji
+0320	2	Pentax	Pentax Imaging
+0321	2	General Imaging	GENERAL IMAGING COMPANY
+0322	2	GE	GENERAL IMAGING COMPANY
+0323	2	GE	GENERAL IMAGING COMPANY
+0324	2	Pentax	Pentax Imaging
+0325	1	Olympus
+0326	1	Pentax
+0327	1	Olympus
+0328	1	Agfa
+0329	2	GE	GENERAL IMAGING COMPANY
+0330	1	Olympus
+0331	2	General Imaging	GENERAL IMAGING COMPANY
+0332	2	GE	GENERAL IMAGING COMPANY
+0333	1	Polaroid
+0334	1	Polaroid
+0335	1	Nikon
+0336	1	Panasonic
+0337	2	General Imaging	GENERAL IMAGING COMPANY
+0338	2	General Imaging	GENERAL IMAGING COMPANY
+0339	1	Panasonic
+0340	1	OLYMPUS-CAMERAS
+0341	1	OLYMPUS-CAMERAS
+0342	1	Panasonic
+0343	2	GE	GENERAL IMAGING COMPANY
+0344	2	GE	GENERAL IMAGING COMPANY
+0345	2	General Imaging	GENERAL IMAGING COMPANY
+0346	2	General Imaging	GENERAL IMAGING COMPANY
+0347	1	Polaroid
+0348	1	Kodak
+0349	1	Olympus
+0350	1	Canon
+0351	1	Kodak
+0352	2	Kodak	Eastman Kodak
+0353	2	Vivitar	SAKAR-VIVITAR
+0354	1	Kodak
+0355	2	Fujifilm	Fuji
+0356	1	General Electric
+0357	1	VistaQuest
+0358	1	Samsung
+0359	1	Olympus
+0360	1	Canon
+0361	1	GENERAL IMAGING COMPANY
+0362	1	Canon
+0363	1	Canon
+0364	1	Canon
+0365	1	Panasonic
+0366	1	Kodak
+0367	1	Canon
+0368	2	Nikon	NIKON - PHOTO
+0369	2	Kodak	Eastman Kodak
+0370	1	Canon
+0371	1	Canon
+0372	1	Canon
+0373	1	Samsung
+0374	2	Casio	Casio Inc.
+0375	1	Sony
+0376	1	Sony
+0377	2	Nikon	NIKON - PHOTO
+0378	1	Samsung
+0379	2	Vivitar	Sakar International
+0380	1	Fuji
+0381	2	Casio	CASIO DIGITAL-CAMERAS
+0382	1	Pentax Imaging
+0383	1	Panasonic
+0384	1	Panasonic
+0385	1	Canon
+0386	1	Canon
+0387	1	VistaQuest
+0388	1	Olympus
+0389	1	Nikon
+0390	1	Samsung
+0391	1	Nikon
+0392	1	Nikon
+0393	1	OLYMPUS-CAMERAS
+0394	1	OLYMPUS-CAMERAS
+0395	1	Samsung
+0396	2	Argus	Visiontek
+0397	1	Pentax
+0398	1	Canon
+0399	1	Nikon
+0400	1	Nikon
+0401	1	Nikon
+0402	1	Sakar
+0403	1	Canon
+0404	1	Olympus
+0405	1	Panasonic
+0406	1	Panasonic
+0407	2	Kodak	Eastman Kodak
+0408	2	Kodak	Eastman Kodak
+0409	1	Nikon
+0410	1	Sony
+0411	1	Sony
+0412	2	GE	GENERAL IMAGING COMPANY
+0413	2	Fujifilm	Fuji
+0414	1	Samsung
+0415	1	Samsung
+0416	1	Canon
+0417	1	Panasonic
+0418	2	Vivitar	SAKAR-VIVITAR
+0419	2	Casio	Casio Inc.
+0420	1	Sony
+0421	1	Polaroid
+0422	1	Polaroid
+0423	1	OLYMPUS-CAMERAS
+0424	1	Nikon
+0425	1	Sony
+0426	1	Vivitar
+0427	1	Sony
+0428	1	Fuji
+0429	1	Canon
+0430	1	Olympus
+0431	2	Casio	Casio Inc.
+0432	1	Nikon
+0433	2	Kodak	Eastman Kodak
+0434	2	Kodak	Eastman Kodak
+0435	2	Casio	Casio Inc.
+0436	1	Samsung
+0437	1	Samsung
+0438	1	Samsung
+0439	2	Vivitar	Sakar
+0440	2	Casio	Casio Inc.
+0441	2	Casio	CASIO DIGITAL-CAMERAS
+0442	1	Samsung
+0443	1	Olympus
+0444	1	Fuji
+0445	1	Kodak
+0446	2	Vivitar	SAKAR-VIVITAR
+0447	1	Sony
+0448	1	VistaQuest
+0449	2	Pentax	Pentax Imaging
+0450	1	Nikon
+0451	1	Panasonic
+0452	1	Canon
+0453	1	Fuji
+0454	2	Nikon	NIKON - PHOTO
+0455	1	Nikon
+0456	1	Canon
+0457	1	Panasonic
+0458	1	Canon
+0459	1	Nikon
+0460	1	Sony
+0461	1	Canon
+0462	1	Canon
+0463	1	Samsung
+0464	1	Nikon
+0465	1	Kodak
+0466	1	Kodak
+0467	2	Argus	Visiontek
+0468	1	Nikon
+0469	1	Sony
+0470	2	Fujifilm	Fuji
+0471	1	Sony
+0472	1	Panasonic
+0473	1	Kodak
+0474	1	Sony
+0475	1	Sony
+0476	1	Canon
+0477	1	Canon
+0478	1	Canon
+0479	1	Kodak
+0480	2	Pentax	Pentax Imaging
+0481	1	Sony
+0482	1	Samsung
+0483	1	Olympus
+0484	1	Canon
+0485	1	Nikon
+0486	1	Panasonic
+0487	2	Vivitar	Sakar International
+0488	2	Nikon	NIKON - PHOTO
+0489	1	Fuji
+0490	1	Sony
+0491	1	Argus
+0492	1	Panasonic
+0493	1	Olympus
+0494	1	Nikon
+0495	1	Canon
+0496	1	Sony
+0497	1	Fuji
+0498	2	Kodak	Eastman Kodak
+0499	1	Panasonic

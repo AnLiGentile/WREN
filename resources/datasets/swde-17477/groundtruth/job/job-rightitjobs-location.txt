@@ -1,0 +1,2002 @@
+﻿job	rightitjobs	location
+2000	2000	2000	479
+0000	1	Phoenix,United States
+0001	1	Cupertino,United States
+0002	1	Chantilly,United States
+0003	1	Rockaway,United States
+0004	1	Houston,United States
+0005	1	Charlotte,United States
+0006	1	New York,United States
+0007	1	Cedar Rapids,United States
+0008	1	Florham Park,United States
+0009	1	Bend,United States
+0010	1	Atlanta,United States
+0011	1	Bothell,United States
+0012	1	Los Angeles,United States
+0013	1	Saint Louis,United States
+0014	1	Ottumwa,United States
+0015	1	Phoenix,United States
+0016	1	San Jose,United States
+0017	1	Fort Worth,United States
+0018	1	Hartford,United States
+0019	1	Little Rock,United States
+0020	1	Riverton,United States
+0021	1	,United States
+0022	1	Ridgefield,United States
+0023	1	Atlanta,United States
+0024	1	Salt Lake City,United States
+0025	1	,United States
+0026	1	Saginaw,United States
+0027	1	Fort Lauderdale,United States
+0028	1	Seattle,United States
+0029	1	Marquette,United States
+0030	1	Columbus,United States
+0031	1	Indianapolis,United States
+0032	1	Kansas City,United States
+0033	1	Hunt Valley,United States
+0034	1	Phoenix,United States
+0035	1	Columbus,United States
+0036	1	Spartanburg,United States
+0037	1	Atlanta,United States
+0038	1	Arlington,United States
+0039	1	Twin Falls,United States
+0040	1	Beavercreek,United States
+0041	1	Arlington,United States
+0042	1	Chicago,United States
+0043	1	Salt Lake City,United States
+0044	1	Huntsville,United States
+0045	1	La Vista,United States
+0046	1	Austin,United States
+0047	1	Denton,United States
+0048	1	Seattle,United States
+0049	1	West Valley City,United States
+0050	1	Columbia,United States
+0051	1	Deerfield,United States
+0052	1	Tucson,United States
+0053	1	Ashburn,United States
+0054	1	Philadelphia,United States
+0055	1	Richmond,United States
+0056	1	Germantown,United States
+0057	1	Ann Arbor,United States
+0058	1	Milpitas,United States
+0059	1	Northbrook,United States
+0060	1	East Rutherford,United States
+0061	1	Camp Hill,United States
+0062	1	Denver,United States
+0063	1	Baltimore,United States
+0064	1	Westlake Village,United States
+0065	1	Atlanta,United States
+0066	1	,United States
+0067	1	Corvallis,United States
+0068	1	Boston,United States
+0069	1	Kansas City,United States
+0070	1	Columbia,United States
+0071	1	Boulder,United States
+0072	1	Charlotte,United States
+0073	1	Bellevue,United States
+0074	1	Ellicott City,United States
+0075	1	San Antonio,United States
+0076	1	Raleigh,United States
+0077	1	Irving,United States
+0078	1	Charleston,United States
+0079	1	Orlando,United States
+0080	1	Denver,United States
+0081	1	Fullerton,United States
+0082	1	Lexington,United States
+0083	1	Louisville,United States
+0084	1	Seattle,United States
+0085	1	Ada,United States
+0086	1	Glendale,United States
+0087	1	Cherry Hill,United States
+0088	1	Billerica,United States
+0089	1	Falls Church,United States
+0090	1	Springfield,United States
+0091	1	Chicago,United States
+0092	1	Honolulu,United States
+0093	1	Manassas,United States
+0094	1	Chattanooga,United States
+0095	1	Kansas City,United States
+0096	1	Allegan,United States
+0097	1	Arlington,United States
+0098	1	,United States
+0099	1	Houston,United States
+0100	1	New York,United States
+0101	1	Cupertino,United States
+0102	1	,United States
+0103	1	Huntsville,United States
+0104	1	Littleton,United States
+0105	1	Albany,United States
+0106	1	Arlington,United States
+0107	1	Denton,United States
+0108	1	Ann Arbor,United States
+0109	1	Johnson City,United States
+0110	1	Houston,United States
+0111	1	Houston,United States
+0112	1	Fort Worth,United States
+0113	1	San Miguel,United States
+0114	1	New York,United States
+0115	1	Phoenix,United States
+0116	1	Wichita,United States
+0117	1	Washington,United States
+0118	1	New Orleans,United States
+0119	1	Boston,United States
+0120	1	Natick,United States
+0121	1	Eden Prairie,United States
+0122	1	Atlanta,United States
+0123	1	Hunt Valley,United States
+0124	1	Beavercreek,United States
+0125	1	Princeton,United States
+0126	1	Portland,United States
+0127	1	Phoenix,United States
+0128	1	Princeton,United States
+0129	1	Seattle,United States
+0130	1	,United States
+0131	1	Franklin,United States
+0132	1	Dallas,United States
+0133	1	Chicago,United States
+0134	1	Irvine,United States
+0135	1	Bethesda,United States
+0136	1	Salem,United States
+0137	1	Scottsdale,United States
+0138	1	Quantico,United States
+0139	1	Bethesda,United States
+0140	1	New York,United States
+0141	1	Boston,United States
+0142	1	Columbia,United States
+0143	1	Nashville,United States
+0144	1	Saint Louis,United States
+0145	1	Lowell,United States
+0146	1	Orlando,United States
+0147	1	Arlington,United States
+0148	1	Washington,United States
+0149	1	Cupertino,United States
+0150	1	Glendale,United States
+0151	1	Atlanta,United States
+0152	1	Chicago,United States
+0153	1	Louisville,United States
+0154	1	San Francisco,United States
+0155	1	Herndon,United States
+0156	1	Miami,United States
+0157	1	New York,United States
+0158	1	Hunt Valley,United States
+0159	1	Liberty Lake,United States
+0160	1	Goleta,United States
+0161	1	San Diego,United States
+0162	1	Washington,United States
+0163	1	San Diego,United States
+0164	1	Salt Lake City,United States
+0165	1	,United States
+0166	1	Boston,United States
+0167	1	Summit,United States
+0168	1	Metairie,United States
+0169	1	Boston,United States
+0170	1	Dallas,United States
+0171	1	Detroit,United States
+0172	1	Irvine,United States
+0173	1	Boston,United States
+0174	1	Fairfax,United States
+0175	1	Eden Prairie,United States
+0176	1	Minneapolis,United States
+0177	1	Liberty Lake,United States
+0178	1	Englewood,United States
+0179	1	Austin,United States
+0180	1	Chicago,United States
+0181	1	Watertown,United States
+0182	1	Columbia,United States
+0183	1	New York,United States
+0184	1	Vienna,United States
+0185	1	Nashville,United States
+0186	1	Laurel,United States
+0187	1	Walnut Creek,United States
+0188	1	Radcliff,United States
+0189	1	Wausau,United States
+0190	1	Summit,United States
+0191	1	Fullerton,United States
+0192	1	La Vista,United States
+0193	1	Columbus,United States
+0194	1	West Des Moines,United States
+0195	1	Saint Louis,United States
+0196	1	New York,United States
+0197	1	Madison,United States
+0198	1	New York,United States
+0199	1	Woodridge,United States
+0200	1	Chicago,United States
+0201	1	Seattle,United States
+0202	1	Nashville,United States
+0203	1	Portland,United States
+0204	1	,United States
+0205	1	Kansas City,United States
+0206	1	Madison,United States
+0207	1	Columbia,United States
+0208	1	Charlotte,United States
+0209	1	New York,United States
+0210	1	Falls Church,United States
+0211	1	Washington,United States
+0212	1	Nashville,United States
+0213	1	Boston,United States
+0214	1	Basking Ridge,United States
+0215	1	Clayton,United States
+0216	1	Leesburg,United States
+0217	1	Hillsboro,United States
+0218	1	Niles,United States
+0219	1	Clayton,United States
+0220	1	,United States
+0221	1	,United States
+0222	1	Austin,United States
+0223	1	Oklahoma City,United States
+0224	1	New York,United States
+0225	1	Los Angeles,United States
+0226	1	Hunt Valley,United States
+0227	1	Annapolis Junction,United States
+0228	1	Hunt Valley,United States
+0229	1	Houston,United States
+0230	1	Topeka,United States
+0231	1	Fairfax,United States
+0232	1	Kansas City,United States
+0233	1	,United States
+0234	1	Denver,United States
+0235	1	Charlotte,United States
+0236	1	Reston,United States
+0237	1	Deerfield,United States
+0238	1	Charlotte,United States
+0239	1	Saint Louis,United States
+0240	1	Bethesda,United States
+0241	1	Irving,United States
+0242	1	Minneapolis,United States
+0243	1	Bellevue,United States
+0244	1	Herndon,United States
+0245	1	Oklahoma City,United States
+0246	1	Minneapolis,United States
+0247	1	New York,United States
+0248	1	Boise,United States
+0249	1	Woodridge,United States
+0250	1	Beverly,United States
+0251	1	Clarence,United States
+0252	1	Woodridge,United States
+0253	1	Indianapolis,United States
+0254	1	Princeton,United States
+0255	1	New York,United States
+0256	1	Albuquerque,United States
+0257	1	New York,United States
+0258	1	Charleston,United States
+0259	1	Albuquerque,United States
+0260	1	Houston,United States
+0261	1	,United States
+0262	1	New York,United States
+0263	1	Princeton,United States
+0264	1	Southfield,United States
+0265	1	Seattle,United States
+0266	1	Milwaukee,United States
+0267	1	Livonia,United States
+0268	1	Irvine,United States
+0269	1	,United States
+0270	1	Warren,United States
+0271	1	Saint Louis,United States
+0272	1	McLean,United States
+0273	1	Reston,United States
+0274	1	Princeton,United States
+0275	1	Dallas,United States
+0276	1	Philadelphia,United States
+0277	1	Hinesville,United States
+0278	1	Fort Collins,United States
+0279	1	Santa Monica,United States
+0280	1	Lincolnshire,United States
+0281	1	Vienna,United States
+0282	1	Milwaukee,United States
+0283	1	Madison,United States
+0284	1	Arlington,United States
+0285	1	Nashville,United States
+0286	1	Provo,United States
+0287	1	Nashville,United States
+0288	1	Vienna,United States
+0289	1	Tempe,United States
+0290	1	New York,United States
+0291	1	San Francisco,United States
+0292	1	Ardsley,United States
+0293	1	New York,United States
+0294	1	Arlington,United States
+0295	1	Kansas City,United States
+0296	1	Lowell,United States
+0297	1	Charlotte,United States
+0298	1	Beavercreek,United States
+0299	1	Sun Valley,United States
+0300	1	New York,United States
+0301	1	Overland Park,United States
+0302	1	Indianapolis,United States
+0303	1	Hebron,United States
+0304	1	Rochester Hills,United States
+0305	1	Laurel,United States
+0306	1	Corning,United States
+0307	1	Santa Monica,United States
+0308	1	Richmond,United States
+0309	1	Lincolnshire,United States
+0310	1	Santa Ana,United States
+0311	1	San Jose,United States
+0312	1	,United States
+0313	1	Chicago,United States
+0314	1	Evansville,United States
+0315	1	Muscle Shoals,United States
+0316	1	Woodridge,United States
+0317	1	Salt Lake City,United States
+0318	1	Atlanta,United States
+0319	1	Minneapolis,United States
+0320	1	New York,United States
+0321	1	,United States
+0322	1	Boston,United States
+0323	1	Alameda,United States
+0324	1	San Diego,United States
+0325	1	New York,United States
+0326	1	Salt Lake City,United States
+0327	1	Okemos,United States
+0328	1	Greenwich,United States
+0329	1	Ogden,United States
+0330	1	Atlanta,United States
+0331	1	Centennial,United States
+0332	1	Chicago,United States
+0333	1	Paramus,United States
+0334	1	Kansas City,United States
+0335	1	Portland,United States
+0336	1	Charlotte,United States
+0337	1	Dalton,United States
+0338	1	Tampa,United States
+0339	1	Chicago,United States
+0340	1	Washington,United States
+0341	1	Kansas City,United States
+0342	1	Whippany,United States
+0343	1	Fort Chaffee,United States
+0344	1	,United States
+0345	1	Bellingham,United States
+0346	1	Lowell,United States
+0347	1	,United States
+0348	1	San Diego,United States
+0349	1	Orlando,United States
+0350	1	Denver,United States
+0351	1	Tempe,United States
+0352	1	Muscatine,United States
+0353	1	,United States
+0354	1	Des Moines,United States
+0355	1	New York,United States
+0356	1	Indianapolis,United States
+0357	1	Glendale,United States
+0358	1	Kansas City,United States
+0359	1	Charlotte,United States
+0360	1	New York,United States
+0361	1	Dearborn,United States
+0362	1	Charlotte,United States
+0363	1	Dallas,United States
+0364	1	Houston,United States
+0365	1	Tampa,United States
+0366	1	Hunt Valley,United States
+0367	1	El Toro,United States
+0368	1	New York,United States
+0369	1	Redlands,United States
+0370	1	Beaverton,United States
+0371	1	New York,United States
+0372	1	Newport News,United States
+0373	1	Atlanta,United States
+0374	1	Salem,United States
+0375	1	Nashville,United States
+0376	1	Aurora,United States
+0377	1	Hebron,United States
+0378	1	Fayetteville,United States
+0379	1	Atlanta,United States
+0380	1	Ashburn,United States
+0381	1	Belcamp,United States
+0382	1	Saint Louis,United States
+0383	1	Santa Ana,United States
+0384	1	Louisville,United States
+0385	1	Clayton,United States
+0386	1	New York,United States
+0387	1	Tacoma,United States
+0388	1	Phoenix,United States
+0389	1	New York,United States
+0390	1	New York,United States
+0391	1	Las Vegas,United States
+0392	1	Louisville,United States
+0393	1	Newark,United States
+0394	1	Nashville,United States
+0395	1	Moline,United States
+0396	1	Bellevue,United States
+0397	1	Germantown,United States
+0398	1	Overland Park,United States
+0399	1	Lakewood,United States
+0400	1	King of Prussia,United States
+0401	1	New York,United States
+0402	1	Muscatine,United States
+0403	1	Los Angeles,United States
+0404	1	Kansas City,United States
+0405	1	Fort Lauderdale,United States
+0406	1	Dallas,United States
+0407	1	Chicago,United States
+0408	1	Denville,United States
+0409	1	Indianapolis,United States
+0410	1	Summit,United States
+0411	1	Wilsonville,United States
+0412	1	Boise,United States
+0413	1	Saint Louis,United States
+0414	1	Melville,United States
+0415	1	New York,United States
+0416	1	Beavercreek,United States
+0417	1	Appleton,United States
+0418	1	Phoenix,United States
+0419	1	Tucson,United States
+0420	1	Tucson,United States
+0421	1	Hinesville,United States
+0422	1	Louisville,United States
+0423	1	Atlanta,United States
+0424	1	Charlotte,United States
+0425	1	Hunt Valley,United States
+0426	1	Boston,United States
+0427	1	Kansas City,United States
+0428	1	Champaign,United States
+0429	1	Washington,United States
+0430	1	Hebron,United States
+0431	1	New York,United States
+0432	1	Saint Louis,United States
+0433	1	Arlington,United States
+0434	1	Milwaukee,United States
+0435	1	Melville,United States
+0436	1	Westport,United States
+0437	1	Seattle,United States
+0438	1	Minneapolis,United States
+0439	1	Boise,United States
+0440	1	Vienna,United States
+0441	1	New York,United States
+0442	1	Louisville,United States
+0443	1	Avondale,United States
+0444	1	Milwaukee,United States
+0445	1	Portsmouth,United States
+0446	1	Fort Worth,United States
+0447	1	Belcamp,United States
+0448	1	Livonia,United States
+0449	1	Irving,United States
+0450	1	Jonesboro,United States
+0451	1	Windsor,United States
+0452	1	Kansas City,United States
+0453	1	Saint Louis,United States
+0454	1	Nashville,United States
+0455	1	New York,United States
+0456	1	Wilmington,United States
+0457	1	Harahan,United States
+0458	1	Arlington,United States
+0459	1	New Haven,United States
+0460	1	Boise,United States
+0461	1	Kansas City,United States
+0462	1	Saint Paul,United States
+0463	1	Livonia,United States
+0464	1	Atlanta,United States
+0465	1	Saginaw,United States
+0466	1	Aurora,United States
+0467	1	Frederick,United States
+0468	1	Rutherford,United States
+0469	1	New York,United States
+0470	1	Fort Lauderdale,United States
+0471	1	Middletown,United States
+0472	1	Indianapolis,United States
+0473	1	Portland,United States
+0474	1	Orlando,United States
+0475	1	Atlanta,United States
+0476	1	Charlotte,United States
+0477	1	Raleigh,United States
+0478	1	Long Island City,United States
+0479	1	Albuquerque,United States
+0480	1	Chicago,United States
+0481	1	Indianapolis,United States
+0482	1	Raleigh,United States
+0483	1	,United States
+0484	1	Atlanta,United States
+0485	1	Hinesville,United States
+0486	1	Chula Vista,United States
+0487	1	Lakewood,United States
+0488	1	Dalton,United States
+0489	1	Seattle,United States
+0490	1	Saint Louis,United States
+0491	1	Boston,United States
+0492	1	Saint Louis,United States
+0493	1	Darien,United States
+0494	1	San Diego,United States
+0495	1	Albany,United States
+0496	1	New York,United States
+0497	1	Portland,United States
+0498	1	Des Moines,United States
+0499	1	Princeton,United States
+0500	1	Suitland,United States
+0501	1	Philadelphia,United States
+0502	1	Boston,United States
+0503	1	McLean,United States
+0504	1	Dearborn,United States
+0505	1	Boulder,United States
+0506	1	Albuquerque,United States
+0507	1	Portland,United States
+0508	1	,United States
+0509	1	New York,United States
+0510	1	Rockville,United States
+0511	1	Richmond,United States
+0512	1	Normal,United States
+0513	1	Lansing,United States
+0514	1	Columbus,United States
+0515	1	Buffalo,United States
+0516	1	Phoenix,United States
+0517	1	New York,United States
+0518	1	Chicago,United States
+0519	1	Saint Louis,United States
+0520	1	Richmond,United States
+0521	1	Bellevue,United States
+0522	1	Wayne,United States
+0523	1	Beavercreek,United States
+0524	1	Rochester,United States
+0525	1	North Miami Beach,United States
+0526	1	Summit,United States
+0527	1	Aurora,United States
+0528	1	Annapolis Junction,United States
+0529	1	Wilmington,United States
+0530	1	Austin,United States
+0531	1	Louisville,United States
+0532	1	San Diego,United States
+0533	1	Arlington,United States
+0534	1	New York,United States
+0535	1	Norcross,United States
+0536	1	Eden Prairie,United States
+0537	1	Dallas,United States
+0538	1	Louisville,United States
+0539	1	Chicago,United States
+0540	1	Seattle,United States
+0541	1	Livonia,United States
+0542	1	Woodridge,United States
+0543	1	Newport News,United States
+0544	1	Falls Church,United States
+0545	1	Rochester Hills,United States
+0546	1	Nashua,United States
+0547	1	Idaho Falls,United States
+0548	1	Saint Louis,United States
+0549	1	Addison,United States
+0550	1	New York,United States
+0551	1	Beavercreek,United States
+0552	1	Endicott,United States
+0553	1	Norcross,United States
+0554	1	Marietta,United States
+0555	1	Boise,United States
+0556	1	Boston,United States
+0557	1	Pittsburgh,United States
+0558	1	Irving,United States
+0559	1	Omaha,United States
+0560	1	Chicago,United States
+0561	1	Hunt Valley,United States
+0562	1	San Diego,United States
+0563	1	Englewood,United States
+0564	1	Minneapolis,United States
+0565	1	Redmond,United States
+0566	1	Newport News,United States
+0567	1	Chicago,United States
+0568	1	Dallas,United States
+0569	1	Salt Lake City,United States
+0570	1	Port Huron,United States
+0571	1	Minneapolis,United States
+0572	1	Arvada,United States
+0573	1	Detroit,United States
+0574	1	Tampa,United States
+0575	1	Albuquerque,United States
+0576	1	Baton Rouge,United States
+0577	1	Suitland,United States
+0578	1	Lowell,United States
+0579	1	Walnut Creek,United States
+0580	1	New York,United States
+0581	1	Norcross,United States
+0582	1	New York,United States
+0583	1	Des Moines,United States
+0584	1	New York,United States
+0585	1	Atlanta,United States
+0586	1	Silver Spring,United States
+0587	1	Twin Falls,United States
+0588	1	Concord,United States
+0589	1	El Cajon,United States
+0590	1	Atlanta,United States
+0591	1	Aurora,United States
+0592	1	Windsor Locks,United States
+0593	1	Charleston,United States
+0594	1	Old Lyme,United States
+0595	1	Rockville,United States
+0596	1	Boise,United States
+0597	1	Covington,United States
+0598	1	San Diego,United States
+0599	1	Silver Spring,United States
+0600	1	Noblesville,United States
+0601	1	Princeton,United States
+0602	1	Salt Lake City,United States
+0603	1	,United States
+0604	1	New York,United States
+0605	1	Seattle,United States
+0606	1	Aurora,United States
+0607	1	Cambridge,United States
+0608	1	Panama City,United States
+0609	1	Akron,United States
+0610	1	Austin,United States
+0611	1	Columbia,United States
+0612	1	Tempe,United States
+0613	1	Muscle Shoals,United States
+0614	1	Birmingham,United States
+0615	1	Seattle,United States
+0616	1	Indianapolis,United States
+0617	1	Ada,United States
+0618	1	Raleigh,United States
+0619	1	Syracuse,United States
+0620	1	Mobile,United States
+0621	1	Ardsley,United States
+0622	1	Carol Stream,United States
+0623	1	Boston,United States
+0624	1	Dallas,United States
+0625	1	Oklahoma City,United States
+0626	1	Alpharetta,United States
+0627	1	Kansas City,United States
+0628	1	Columbia,United States
+0629	1	Washington,United States
+0630	1	Westfield,United States
+0631	1	Austin,United States
+0632	1	Beavercreek,United States
+0633	1	New York,United States
+0634	1	Upper Marlboro,United States
+0635	1	New Orleans,United States
+0636	1	Southfield,United States
+0637	1	Cincinnati,United States
+0638	1	New York,United States
+0639	1	Sunnyvale,United States
+0640	1	Seattle,United States
+0641	1	McMinnville,United States
+0642	1	San Francisco,United States
+0643	1	Providence,United States
+0644	1	San Francisco,United States
+0645	1	Herndon,United States
+0646	1	Dearborn,United States
+0647	1	Dearborn,United States
+0648	1	Dallas,United States
+0649	1	San Francisco,United States
+0650	1	Houston,United States
+0651	1	Indianapolis,United States
+0652	1	Falls Church,United States
+0653	1	Arlington,United States
+0654	1	Boston,United States
+0655	1	Scarborough,United States
+0656	1	Baltimore,United States
+0657	1	New York,United States
+0658	1	Hopkinsville,United States
+0659	1	Franklin,United States
+0660	1	Tampa,United States
+0661	1	Birmingham,United States
+0662	1	Chanhassen,United States
+0663	1	Vestal,United States
+0664	1	Phoenix,United States
+0665	1	Dallas,United States
+0666	1	Plymouth,United States
+0667	1	Austin,United States
+0668	1	Springdale,United States
+0669	1	Saint Louis,United States
+0670	1	Bergenfield,United States
+0671	1	Las Cruces,United States
+0672	1	,United States
+0673	1	Bethel,United States
+0674	1	Pittsburgh,United States
+0675	1	San Marcos,United States
+0676	1	Dallas,United States
+0677	1	Granite City,United States
+0678	1	Jacksonville,United States
+0679	1	San Diego,United States
+0680	1	Saint Paul,United States
+0681	1	Greenville,United States
+0682	1	Vestal,United States
+0683	1	Charlotte,United States
+0684	1	Irving,United States
+0685	1	Portland,United States
+0686	1	Carol Stream,United States
+0687	1	Atlanta,United States
+0688	1	San Francisco,United States
+0689	1	Phoenix,United States
+0690	1	Boston,United States
+0691	1	Aurora,United States
+0692	1	Detroit,United States
+0693	1	Los Angeles,United States
+0694	1	Anaheim,United States
+0695	1	Jacksonville,United States
+0696	1	Phoenix,United States
+0697	1	Boston,United States
+0698	1	Carol Stream,United States
+0699	1	Saint Louis,United States
+0700	1	Mooresville,United States
+0701	1	San Francisco,United States
+0702	1	San Jose,United States
+0703	1	Atlanta,United States
+0704	1	Minneapolis,United States
+0705	1	Charlotte,United States
+0706	1	Providence,United States
+0707	1	Philadelphia,United States
+0708	1	Austin,United States
+0709	1	Hartford,United States
+0710	1	Stamford,United States
+0711	1	Scarborough,United States
+0712	1	San Jose,United States
+0713	1	Pittsburgh,United States
+0714	1	Atlanta,United States
+0715	1	Bothell,United States
+0716	1	Arlington,United States
+0717	1	Nashville,United States
+0718	1	Bergenfield,United States
+0719	1	Seattle,United States
+0720	1	Austin,United States
+0721	1	Birmingham,United States
+0722	1	Raleigh,United States
+0723	1	Baltimore,United States
+0724	1	Hanover,United States
+0725	1	Eugene,United States
+0726	1	Hopkinsville,United States
+0727	1	Scarborough,United States
+0728	1	Hartford,United States
+0729	1	Santa Fe,United States
+0730	1	San Francisco,United States
+0731	1	Seattle,United States
+0732	1	Baton Rouge,United States
+0733	1	Norfolk,United States
+0734	1	Fort Worth,United States
+0735	1	Hartford,United States
+0736	1	Dearborn,United States
+0737	1	Vienna,United States
+0738	1	Bethesda,United States
+0739	1	Alpharetta,United States
+0740	1	Honolulu,United States
+0741	1	San Francisco,United States
+0742	1	Little Rock,United States
+0743	1	Englewood,United States
+0744	1	Atlanta,United States
+0745	1	New York,United States
+0746	1	Harrisburg,United States
+0747	1	Boston,United States
+0748	1	Columbus,United States
+0749	1	New York,United States
+0750	1	Dearborn,United States
+0751	1	Dubuque,United States
+0752	1	Carol Stream,United States
+0753	1	Saint Louis,United States
+0754	1	Warren,United States
+0755	1	Charlotte,United States
+0756	1	Providence,United States
+0757	1	New York,United States
+0758	1	Jacksonville,United States
+0759	1	Minneapolis,United States
+0760	1	Indianapolis,United States
+0761	1	Cincinnati,United States
+0762	1	Las Vegas,United States
+0763	1	Vienna,United States
+0764	1	Rockville,United States
+0765	1	Atlanta,United States
+0766	1	Seattle,United States
+0767	1	San Francisco,United States
+0768	1	Austin,United States
+0769	1	Edison,United States
+0770	1	West Valley City,United States
+0771	1	Los Angeles,United States
+0772	1	Seattle,United States
+0773	1	Pittsburgh,United States
+0774	1	Cedar Rapids,United States
+0775	1	,United States
+0776	1	Atlanta,United States
+0777	1	Jacksonville,United States
+0778	1	Plymouth,United States
+0779	1	Fort Worth,United States
+0780	1	Franklin,United States
+0781	1	Greenville,United States
+0782	1	Bethesda,United States
+0783	1	Chicago,United States
+0784	1	Cincinnati,United States
+0785	1	Minneapolis,United States
+0786	1	Herndon,United States
+0787	1	New York,United States
+0788	1	Chicago,United States
+0789	1	Chicago,United States
+0790	1	Woonsocket,United States
+0791	1	Hartford,United States
+0792	1	Dearborn,United States
+0793	1	San Francisco,United States
+0794	1	Austin,United States
+0795	1	Alamogordo,United States
+0796	1	Idaho Falls,United States
+0797	1	Charlotte,United States
+0798	1	San Marcos,United States
+0799	1	Saint Louis,United States
+0800	1	Alpharetta,United States
+0801	1	New York,United States
+0802	1	New York,United States
+0803	1	Columbus,United States
+0804	1	Plymouth,United States
+0805	1	Oxford,United States
+0806	1	Santa Clara,United States
+0807	1	Morrisville,United States
+0808	1	Lake Forest,United States
+0809	1	Providence,United States
+0810	1	Rockville,United States
+0811	1	Baton Rouge,United States
+0812	1	Saint Charles,United States
+0813	1	Minneapolis,United States
+0814	1	Chicago,United States
+0815	1	Chicago,United States
+0816	1	Baltimore,United States
+0817	1	New York,United States
+0818	1	Englewood,United States
+0819	1	Atlanta,United States
+0820	1	Oklahoma City,United States
+0821	1	Enterprise,United States
+0822	1	New York,United States
+0823	1	Johnston,United States
+0824	1	New York,United States
+0825	1	Hopkinsville,United States
+0826	1	Jersey City,United States
+0827	1	Kansas City,United States
+0828	1	Kansas City,United States
+0829	1	Jacksonville,United States
+0830	1	Portland,United States
+0831	1	Newark,United States
+0832	1	Agoura Hills,United States
+0833	1	Des Moines,United States
+0834	1	Palo Alto,United States
+0835	1	Jacksonville,United States
+0836	1	Northbrook,United States
+0837	1	Carol Stream,United States
+0838	1	Norfolk,United States
+0839	1	Cincinnati,United States
+0840	1	San Francisco,United States
+0841	1	South San Francisco,United States
+0842	1	Austin,United States
+0843	1	Anaheim,United States
+0844	1	Louisville,United States
+0845	1	Carol Stream,United States
+0846	1	Auburn,United States
+0847	1	Providence,United States
+0848	1	Palo Alto,United States
+0849	1	Minneapolis,United States
+0850	1	Minneapolis,United States
+0851	1	Los Angeles,United States
+0852	1	Cincinnati,United States
+0853	1	Bergenfield,United States
+0854	1	Los Angeles,United States
+0855	1	Sioux City,United States
+0856	1	Huntsville,United States
+0857	1	Atlanta,United States
+0858	1	San Francisco,United States
+0859	1	Vienna,United States
+0860	1	Bergenfield,United States
+0861	1	Franklin,United States
+0862	1	Vienna,United States
+0863	1	Birmingham,United States
+0864	1	Hartford,United States
+0865	1	Durham,United States
+0866	1	Boston,United States
+0867	1	San Mateo,United States
+0868	1	Washington,United States
+0869	1	Kansas City,United States
+0870	1	Fort Collins,United States
+0871	1	Bannockburn,United States
+0872	1	Jersey City,United States
+0873	1	San Jose,United States
+0874	1	San Jose,United States
+0875	1	Los Angeles,United States
+0876	1	Austin,United States
+0877	1	,United States
+0878	1	Twin Falls,United States
+0879	1	San Marcos,United States
+0880	1	Los Angeles,United States
+0881	1	Englewood,United States
+0882	1	Worcester,United States
+0883	1	Fort Worth,United States
+0884	1	Scarborough,United States
+0885	1	Pocatello,United States
+0886	1	Chicago,United States
+0887	1	Atlanta,United States
+0888	1	Owings Mills,United States
+0889	1	Minneapolis,United States
+0890	1	Kansas City,United States
+0891	1	New York,United States
+0892	1	Chicago,United States
+0893	1	Carol Stream,United States
+0894	1	Bergenfield,United States
+0895	1	Dallas,United States
+0896	1	Memphis,United States
+0897	1	Atlanta,United States
+0898	1	Seattle,United States
+0899	1	Dubuque,United States
+0900	1	Scarborough,United States
+0901	1	Kansas City,United States
+0902	1	Vienna,United States
+0903	1	Alpharetta,United States
+0904	1	Methuen,United States
+0905	1	Minneapolis,United States
+0906	1	Providence,United States
+0907	1	Birmingham,United States
+0908	1	Edison,United States
+0909	1	Austin,United States
+0910	1	Dallas,United States
+0911	1	Washington,United States
+0912	1	Newport News,United States
+0913	1	New York,United States
+0914	1	San Francisco,United States
+0915	1	Menlo Park,United States
+0916	1	Charlotte,United States
+0917	1	Raleigh,United States
+0918	1	New York,United States
+0919	1	Lake Oswego,United States
+0920	1	Arvada,United States
+0921	1	Bridgeport,United States
+0922	1	Little Rock,United States
+0923	1	Rockville,United States
+0924	1	Portland,United States
+0925	1	Phoenix,United States
+0926	1	Newark,United States
+0927	1	Palo Alto,United States
+0928	1	New York,United States
+0929	1	New Castle,United States
+0930	1	Memphis,United States
+0931	1	Arlington,United States
+0932	1	Bethesda,United States
+0933	1	Laurel,United States
+0934	1	Bergenfield,United States
+0935	1	Davenport,United States
+0936	1	Woonsocket,United States
+0937	1	Franklin,United States
+0938	1	Houston,United States
+0939	1	Colorado Springs,United States
+0940	1	Williamsport,United States
+0941	1	Oakbrook Terrace,United States
+0942	1	Fort Worth,United States
+0943	1	Arlington,United States
+0944	1	New York,United States
+0945	1	Stamford,United States
+0946	1	Cedar Rapids,United States
+0947	1	Alpharetta,United States
+0948	1	Woonsocket,United States
+0949	1	Bothell,United States
+0950	1	Montvale,United States
+0951	1	Waltham,United States
+0952	1	South San Francisco,United States
+0953	1	Arlington,United States
+0954	1	Ellicott City,United States
+0955	1	Saint Louis,United States
+0956	1	Saint Paul,United States
+0957	1	Seattle,United States
+0958	1	Detroit,United States
+0959	1	Dublin,United States
+0960	1	Hunt Valley,United States
+0961	1	Oakton,United States
+0962	1	Livonia,United States
+0963	1	New York,United States
+0964	1	Milwaukee,United States
+0965	1	Glendale,United States
+0966	1	Bethesda,United States
+0967	1	Norwood,United States
+0968	1	Akron,United States
+0969	1	Oakbrook Terrace,United States
+0970	1	Chadds Ford,United States
+0971	1	Portland,United States
+0972	1	Bowie,United States
+0973	1	Deerfield,United States
+0974	1	Temple Terrace,United States
+0975	1	Atlanta,United States
+0976	1	San Diego,United States
+0977	1	Lansing,United States
+0978	1	Boston,United States
+0979	1	Bellingham,United States
+0980	1	Tucson,United States
+0981	1	Edwards,United States
+0982	1	Arlington,United States
+0983	1	Pasadena,United States
+0984	1	Topeka,United States
+0985	1	Evergreen Park,United States
+0986	1	Atlanta,United States
+0987	1	Boston,United States
+0988	1	Lexington Park,United States
+0989	1	Columbia,United States
+0990	1	Washington,United States
+0991	1	Omaha,United States
+0992	1	Arlington,United States
+0993	1	Denver,United States
+0994	1	Pittsburgh,United States
+0995	1	Riverton,United States
+0996	1	Minneapolis,United States
+0997	1	New York,United States
+0998	1	Worcester,United States
+0999	1	Alpharetta,United States
+1000	1	Draper,United States
+1001	1	San Diego,United States
+1002	1	Miami,United States
+1003	1	Hightstown,United States
+1004	1	Redmond,United States
+1005	1	Minneapolis,United States
+1006	1	Springfield,United States
+1007	1	Burbank,United States
+1008	1	Oakbrook Terrace,United States
+1009	1	Henderson,United States
+1010	1	Portland,United States
+1011	1	Olathe,United States
+1012	1	Orlando,United States
+1013	1	Morrisville,United States
+1014	1	Indianapolis,United States
+1015	1	Suffolk,United States
+1016	1	Mount Laurel,United States
+1017	1	Alexandria,United States
+1018	1	Westborough,United States
+1019	1	Farmington Hills,United States
+1020	1	Jesup,United States
+1021	1	Portland,United States
+1022	1	Scottsdale,United States
+1023	1	Lenexa,United States
+1024	1	Nashville,United States
+1025	1	Plymouth,United States
+1026	1	Baltimore,United States
+1027	1	New York,United States
+1028	1	Tucson,United States
+1029	1	Ladysmith,United States
+1030	1	Eloy,United States
+1031	1	San Antonio,United States
+1032	1	Overland Park,United States
+1033	1	Milton,United States
+1034	1	San Jose,United States
+1035	1	Chicago,United States
+1036	1	Fremont,United States
+1037	1	Jersey City,United States
+1038	1	Waltham,United States
+1039	1	Hightstown,United States
+1040	1	Fort Worth,United States
+1041	1	Orange County,United States
+1042	1	Chicago,United States
+1043	1	San Jose,United States
+1044	1	Pittsburgh,United States
+1045	1	Albany,United States
+1046	1	Kirkland,United States
+1047	1	New York,United States
+1048	1	Birmingham,United States
+1049	1	Laurel,United States
+1050	1	Foxboro,United States
+1051	1	Columbia,United States
+1052	1	San Francisco,United States
+1053	1	Arlington,United States
+1054	1	Redmond,United States
+1055	1	San Antonio,United States
+1056	1	Arlington,United States
+1057	1	Chicago,United States
+1058	1	Boston,United States
+1059	1	New York,United States
+1060	1	Houston,United States
+1061	1	Chicago,United States
+1062	1	Cincinnati,United States
+1063	1	Norwalk,United States
+1064	1	Fort Lee,United States
+1065	1	Oakland,United States
+1066	1	Westport,United States
+1067	1	Atlanta,United States
+1068	1	Aberdeen,United States
+1069	1	Evansville,United States
+1070	1	Oakbrook Terrace,United States
+1071	1	Greenville,United States
+1072	1	Middletown,United States
+1073	1	Vero Beach,United States
+1074	1	Chicago,United States
+1075	1	Baltimore,United States
+1076	1	New York,United States
+1077	1	Las Vegas,United States
+1078	1	Burbank,United States
+1079	1	Nashville,United States
+1080	1	Phoenix,United States
+1081	1	Conshohocken,United States
+1082	1	Lakewood,United States
+1083	1	Atlanta,United States
+1084	1	Minneapolis,United States
+1085	1	Chicago,United States
+1086	1	Houston,United States
+1087	1	Boston,United States
+1088	1	Cincinnati,United States
+1089	1	Dallas,United States
+1090	1	,United States
+1091	1	Fort Washington,United States
+1092	1	Minneapolis,United States
+1093	1	Houston,United States
+1094	1	Beverly,United States
+1095	1	Westborough,United States
+1096	1	Bothell,United States
+1097	1	Detroit,United States
+1098	1	Thornton,United States
+1099	1	Greenville,United States
+1100	1	Topeka,United States
+1101	1	Cary,United States
+1102	1	Lansing,United States
+1103	1	Washington,United States
+1104	1	,United States
+1105	1	Columbia,United States
+1106	1	Dallas,United States
+1107	1	Nashville,United States
+1108	1	Severna Park,United States
+1109	1	Los Angeles,United States
+1110	1	Greenville,United States
+1111	1	Saint Louis,United States
+1112	1	Washington,United States
+1113	1	Bellevue,United States
+1114	1	Charlotte,United States
+1115	1	Salt Lake City,United States
+1116	1	Chicago,United States
+1117	1	Richmond,United States
+1118	1	Columbia,United States
+1119	1	Saint Paul,United States
+1120	1	Milwaukee,United States
+1121	1	New York,United States
+1122	1	Dublin,United States
+1123	1	Tucson,United States
+1124	1	El Segundo,United States
+1125	1	Waltham,United States
+1126	1	San Jose,United States
+1127	1	New Orleans,United States
+1128	1	Metairie,United States
+1129	1	Cary,United States
+1130	1	Boston,United States
+1131	1	Florham Park,United States
+1132	1	Louisville,United States
+1133	1	Bethesda,United States
+1134	1	Baton Rouge,United States
+1135	1	Grapevine,United States
+1136	1	Hightstown,United States
+1137	1	Hunt Valley,United States
+1138	1	Rosemont,United States
+1139	1	Columbia,United States
+1140	1	Kansas City,United States
+1141	1	Rochester,United States
+1142	1	Oklahoma City,United States
+1143	1	Waukegan,United States
+1144	1	,United States
+1145	1	New York,United States
+1146	1	Wausau,United States
+1147	1	Crane,United States
+1148	1	San Antonio,United States
+1149	1	Alexandria,United States
+1150	1	Marlboro,United States
+1151	1	Clinton,United States
+1152	1	Salt Lake City,United States
+1153	1	Arlington,United States
+1154	1	New York,United States
+1155	1	San Jose,United States
+1156	1	Saint Paul,United States
+1157	1	Phoenix,United States
+1158	1	Crane,United States
+1159	1	Baton Rouge,United States
+1160	1	Las Vegas,United States
+1161	1	Napa,United States
+1162	1	San Francisco,United States
+1163	1	Los Angeles,United States
+1164	1	Bowie,United States
+1165	1	Chicago,United States
+1166	1	San Ramon,United States
+1167	1	Chicago,United States
+1168	1	Dothan,United States
+1169	1	Arlington,United States
+1170	1	Memphis,United States
+1171	1	San Francisco,United States
+1172	1	Kansas City,United States
+1173	1	Scottsdale,United States
+1174	1	San Jose,United States
+1175	1	Chicago,United States
+1176	1	Springfield,United States
+1177	1	Chicago,United States
+1178	1	Highlands Ranch,United States
+1179	1	Orlando,United States
+1180	1	Norfolk,United States
+1181	1	West Bend,United States
+1182	1	Morrisville,United States
+1183	1	Raleigh,United States
+1184	1	Hartford,United States
+1185	1	Mason,United States
+1186	1	,United States
+1187	1	Boston,United States
+1188	1	Hunt Valley,United States
+1189	1	New York,United States
+1190	1	Malvern,United States
+1191	1	,United States
+1192	1	Austin,United States
+1193	1	Durham,United States
+1194	1	Vancouver,United States
+1195	1	New York,United States
+1196	1	Jersey City,United States
+1197	1	Roswell,United States
+1198	1	Alpharetta,United States
+1199	1	Hightstown,United States
+1200	1	Fort Worth,United States
+1201	1	Miamisburg,United States
+1202	1	Portsmouth,United States
+1203	1	Orlando,United States
+1204	1	Saint Louis,United States
+1205	1	Riverwoods,United States
+1206	1	Fort Worth,United States
+1207	1	Des Moines,United States
+1208	1	Minneapolis,United States
+1209	1	Bowie,United States
+1210	1	Portland,United States
+1211	1	Columbus,United States
+1212	1	Middletown,United States
+1213	1	Kennett Square,United States
+1214	1	San Jose,United States
+1215	1	Atlanta,United States
+1216	1	Arlington,United States
+1217	1	Salt Lake City,United States
+1218	1	Phoenix,United States
+1219	1	Tucson,United States
+1220	1	Charlotte,United States
+1221	1	Chicago,United States
+1222	1	Dallas,United States
+1223	1	Atlanta,United States
+1224	1	Jacksonville Beach,United States
+1225	1	Dearborn,United States
+1226	1	Providence,United States
+1227	1	Washington,United States
+1228	1	Bethesda,United States
+1229	1	Minneapolis,United States
+1230	1	Hartford,United States
+1231	1	Tucson,United States
+1232	1	San Diego,United States
+1233	1	Baltimore,United States
+1234	1	Herndon,United States
+1235	1	Middletown,United States
+1236	1	Chicago,United States
+1237	1	Bentonville,United States
+1238	1	,United States
+1239	1	Colorado Springs,United States
+1240	1	Denver,United States
+1241	1	Cincinnati,United States
+1242	1	Clarkston,United States
+1243	1	Wilmington,United States
+1244	1	Jersey City,United States
+1245	1	Salem,United States
+1246	1	Saint Paul,United States
+1247	1	Marietta,United States
+1248	1	Windsor,United States
+1249	1	Piscataway,United States
+1250	1	Alpharetta,United States
+1251	1	Suwanee,United States
+1252	1	Virginia Beach,United States
+1253	1	Charlotte,United States
+1254	1	Richmond,United States
+1255	1	Centennial,United States
+1256	1	Oakbrook Terrace,United States
+1257	1	Roswell,United States
+1258	1	Harahan,United States
+1259	1	Bothell,United States
+1260	1	Arlington,United States
+1261	1	San Antonio,United States
+1262	1	Atlanta,United States
+1263	1	Columbia,United States
+1264	1	Columbus,United States
+1265	1	Suffolk,United States
+1266	1	Tempe,United States
+1267	1	San Jose,United States
+1268	1	Richmond,United States
+1269	1	Boise,United States
+1270	1	Dallas,United States
+1271	1	Tempe,United States
+1272	1	Austin,United States
+1273	1	Pittsburgh,United States
+1274	1	Sioux City,United States
+1275	1	New York,United States
+1276	1	Alexandria,United States
+1277	1	Dallas,United States
+1278	1	Morrisville,United States
+1279	1	Scottsdale,United States
+1280	1	Dallas,United States
+1281	1	Glenview,United States
+1282	1	Columbia,United States
+1283	1	Saint Petersburg,United States
+1284	1	Fort Washington,United States
+1285	1	Beaufort,United States
+1286	1	Jersey City,United States
+1287	1	Dallas,United States
+1288	1	Saratoga Springs,United States
+1289	1	Arlington,United States
+1290	1	Minneapolis,United States
+1291	1	Englewood,United States
+1292	1	Manhattan,United States
+1293	1	Arlington,United States
+1294	1	Bellevue,United States
+1295	1	Falls Church,United States
+1296	1	Atlanta,United States
+1297	1	Thornton,United States
+1298	1	Scranton,United States
+1299	1	Charles Town,United States
+1300	1	Pittsburgh,United States
+1301	1	Boise,United States
+1302	1	Seattle,United States
+1303	1	Saint Louis,United States
+1304	1	Detroit,United States
+1305	1	Lenexa,United States
+1306	1	Hightstown,United States
+1307	1	Arlington,United States
+1308	1	Chicago,United States
+1309	1	Los Angeles,United States
+1310	1	,United States
+1311	1	Hebron,United States
+1312	1	Richmond,United States
+1313	1	Tulsa,United States
+1314	1	Napa,United States
+1315	1	Lake Mary,United States
+1316	1	Annapolis Junction,United States
+1317	1	Sacramento,United States
+1318	1	Philadelphia,United States
+1319	1	Lumpkin,United States
+1320	1	Boise,United States
+1321	1	Deerfield,United States
+1322	1	Falls Church,United States
+1323	1	Pittsburgh,United States
+1324	1	Durham,United States
+1325	1	,United States
+1326	1	Boulder,United States
+1327	1	New York,United States
+1328	1	Washington,United States
+1329	1	San Francisco,United States
+1330	1	Brockton,United States
+1331	1	Mount Pleasant,United States
+1332	1	Oakbrook Terrace,United States
+1333	1	Morrisville,United States
+1334	1	San Jose,United States
+1335	1	Dubuque,United States
+1336	1	Hartford,United States
+1337	1	Oakton,United States
+1338	1	Irving,United States
+1339	1	Indianapolis,United States
+1340	1	Horsham,United States
+1341	1	Bowling Green,United States
+1342	1	Watertown,United States
+1343	1	Arlington,United States
+1344	1	Dallas,United States
+1345	1	Los Angeles,United States
+1346	1	Shelton,United States
+1347	1	Crane,United States
+1348	1	Piscataway,United States
+1349	1	Chicago,United States
+1350	1	Augusta,United States
+1351	1	Columbus,United States
+1352	1	Phoenix,United States
+1353	1	Owings Mills,United States
+1354	1	Alpharetta,United States
+1355	1	Eloy,United States
+1356	1	Hightstown,United States
+1357	1	Columbia,United States
+1358	1	Columbia,United States
+1359	1	Boston,United States
+1360	1	New York,United States
+1361	1	Saint Louis,United States
+1362	1	Knoxville,United States
+1363	1	Ridgefield Park,United States
+1364	1	Atlanta,United States
+1365	1	Landover,United States
+1366	1	Tallahassee,United States
+1367	1	Westbury,United States
+1368	1	Conshohocken,United States
+1369	1	Scottsdale,United States
+1370	1	Alexandria,United States
+1371	1	Southfield,United States
+1372	1	Raleigh,United States
+1373	1	Irvine,United States
+1374	1	San Antonio,United States
+1375	1	Grand Rapids,United States
+1376	1	Beaverton,United States
+1377	1	Saint Paul,United States
+1378	1	Sterling,United States
+1379	1	,United States
+1380	1	Phoenix,United States
+1381	1	Washington,United States
+1382	1	Fort Worth,United States
+1383	1	,United States
+1384	1	,United States
+1385	1	Waukegan,United States
+1386	1	Baton Rouge,United States
+1387	1	Crane,United States
+1388	1	Houston,United States
+1389	1	Washington,United States
+1390	1	Norfolk,United States
+1391	1	Draper,United States
+1392	1	New York,United States
+1393	1	Orlando,United States
+1394	1	Stamford,United States
+1395	1	Bristol,United States
+1396	1	Orlando,United States
+1397	1	New York,United States
+1398	1	Saint Paul,United States
+1399	1	New York,United States
+1400	1	Redmond,United States
+1401	1	Troy,United States
+1402	1	Oakbrook Terrace,United States
+1403	1	Dallas,United States
+1404	1	Bend,United States
+1405	1	,United States
+1406	1	Collegeville,United States
+1407	1	Cedar Rapids,United States
+1408	1	Chicago,United States
+1409	1	Keller,United States
+1410	1	Atlanta,United States
+1411	1	Louisville,United States
+1412	1	Deerfield,United States
+1413	1	Tampa,United States
+1414	1	Charlotte,United States
+1415	1	,United States
+1416	1	Arlington,United States
+1417	1	Dayton,United States
+1418	1	San Jose,United States
+1419	1	Dania Beach,United States
+1420	1	Suffolk,United States
+1421	1	New York,United States
+1422	1	Bothell,United States
+1423	1	Colorado Springs,United States
+1424	1	New York,United States
+1425	1	Cleveland,United States
+1426	1	New York,United States
+1427	1	Englewood,United States
+1428	1	San Jose,United States
+1429	1	Herndon,United States
+1430	1	San Diego,United States
+1431	1	Washington,United States
+1432	1	San Jose,United States
+1433	1	Cedar Rapids,United States
+1434	1	Mountlake Terrace,United States
+1435	1	Denver,United States
+1436	1	Cincinnati,United States
+1437	1	Washington,United States
+1438	1	Dallas,United States
+1439	1	Reston,United States
+1440	1	Mountlake Terrace,United States
+1441	1	Saint Paul,United States
+1442	1	Charlotte,United States
+1443	1	Huntington Beach,United States
+1444	1	Oakton,United States
+1445	1	Minneapolis,United States
+1446	1	Arlington,United States
+1447	1	Clinton,United States
+1448	1	Riverton,United States
+1449	1	Charlotte,United States
+1450	1	Duluth,United States
+1451	1	Dublin,United States
+1452	1	Houston,United States
+1453	1	Dearborn,United States
+1454	1	Columbus,United States
+1455	1	Palatine,United States
+1456	1	Dublin,United States
+1457	1	Liberty Lake,United States
+1458	1	Chicago,United States
+1459	1	New York,United States
+1460	1	Los Alamitos,United States
+1461	1	Columbia,United States
+1462	1	Neenah,United States
+1463	1	Novato,United States
+1464	1	Fredericksburg,United States
+1465	1	New York,United States
+1466	1	Seattle,United States
+1467	1	Wayne,United States
+1468	1	Dallas,United States
+1469	1	Minneapolis,United States
+1470	1	Saint Paul,United States
+1471	1	Kansas City,United States
+1472	1	Windsor,United States
+1473	1	Lumpkin,United States
+1474	1	El Segundo,United States
+1475	1	Jacksonville Beach,United States
+1476	1	New York,United States
+1477	1	Eugene,United States
+1478	1	Bethesda,United States
+1479	1	Philadelphia,United States
+1480	1	,United States
+1481	1	Alpharetta,United States
+1482	1	Jersey City,United States
+1483	1	Phoenix,United States
+1484	1	Middletown,United States
+1485	1	Wilmington,United States
+1486	1	,United States
+1487	1	Cleveland,United States
+1488	1	Grand Junction,United States
+1489	1	Round Rock,United States
+1490	1	Albuquerque,United States
+1491	1	Englewood,United States
+1492	1	,United States
+1493	1	Jacksonville,United States
+1494	1	Hightstown,United States
+1495	1	Roswell,United States
+1496	1	Dublin,United States
+1497	1	Clive,United States
+1498	1	Overland Park,United States
+1499	1	Atlanta,United States
+1500	1	Greenville,United States
+1501	1	Livonia,United States
+1502	1	Cranbury,United States
+1503	1	New York,United States
+1504	1	Madison,United States
+1505	1	Mountlake Terrace,United States
+1506	1	,United States
+1507	1	Orange County,United States
+1508	1	Stamford,United States
+1509	1	Phoenix,United States
+1510	1	Saint Louis,United States
+1511	1	Palatine,United States
+1512	1	Avon,United States
+1513	1	Grand Rapids,United States
+1514	1	Reston,United States
+1515	1	Chicago,United States
+1516	1	Cincinnati,United States
+1517	1	Batavia,United States
+1518	1	Las Vegas,United States
+1519	1	Des Plaines,United States
+1520	1	Fremont,United States
+1521	1	Minneapolis,United States
+1522	1	Arlington,United States
+1523	1	Westborough,United States
+1524	1	Lincolnshire,United States
+1525	1	Orange,United States
+1526	1	Houston,United States
+1527	1	Chadds Ford,United States
+1528	1	Arlington,United States
+1529	1	Plymouth,United States
+1530	1	Saint Paul,United States
+1531	1	Dallas,United States
+1532	1	Atlanta,United States
+1533	1	Chicago,United States
+1534	1	Indian Head,United States
+1535	1	Chicago,United States
+1536	1	Chicago,United States
+1537	1	Arlington,United States
+1538	1	,United States
+1539	1	Washington,United States
+1540	1	Raleigh,United States
+1541	1	Chicago,United States
+1542	1	Jacksonville,United States
+1543	1	Springfield,United States
+1544	1	Dallas,United States
+1545	1	San Bernardino,United States
+1546	1	Lewiston,United States
+1547	1	Boston,United States
+1548	1	Austin,United States
+1549	1	Atlanta,United States
+1550	1	,United States
+1551	1	Monmouth Junction,United States
+1552	1	Highlands Ranch,United States
+1553	1	Middletown,United States
+1554	1	,United States
+1555	1	Morrisville,United States
+1556	1	Oakton,United States
+1557	1	Greensboro,United States
+1558	1	Richfield,United States
+1559	1	Fort Wayne,United States
+1560	1	Atlanta,United States
+1561	1	Dallas,United States
+1562	1	Herndon,United States
+1563	1	Boston,United States
+1564	1	Huntington Beach,United States
+1565	1	Washington,United States
+1566	1	Chicago,United States
+1567	1	Saint Paul,United States
+1568	1	Atlanta,United States
+1569	1	Orlando,United States
+1570	1	Los Angeles,United States
+1571	1	Washington,United States
+1572	1	Montgomery,United States
+1573	1	Ann Arbor,United States
+1574	1	Des Moines,United States
+1575	1	Thornton,United States
+1576	1	Greenwood Village,United States
+1577	1	Boise,United States
+1578	1	Minneapolis,United States
+1579	1	Columbus,United States
+1580	1	Cincinnati,United States
+1581	1	Jacksonville,United States
+1582	1	Alpharetta,United States
+1583	1	,United States
+1584	1	Indianapolis,United States
+1585	1	Chicago,United States
+1586	1	Atlanta,United States
+1587	1	Boston,United States
+1588	1	Bethesda,United States
+1589	1	Phoenix,United States
+1590	1	Boston,United States
+1591	1	Hightstown,United States
+1592	1	Columbia,United States
+1593	1	Arlington,United States
+1594	1	Arlington,United States
+1595	1	Schaumburg,United States
+1596	1	Greensboro,United States
+1597	1	Scranton,United States
+1598	1	Providence,United States
+1599	1	Hapeville,United States
+1600	1	Portland,United States
+1601	1	Memphis,United States
+1602	1	Los Angeles,United States
+1603	1	Monterey,United States
+1604	1	San Diego,United States
+1605	1	Pittsburgh,United States
+1606	1	San Antonio,United States
+1607	1	Montvale,United States
+1608	1	Reston,United States
+1609	1	,United States
+1610	1	,United States
+1611	1	Saint Paul,United States
+1612	1	Denver,United States
+1613	1	Saint Paul,United States
+1614	1	De Pere,United States
+1615	1	Orlando,United States
+1616	1	Bethesda,United States
+1617	1	Cedar Rapids,United States
+1618	1	Fort Worth,United States
+1619	1	San Francisco,United States
+1620	1	Washington,United States
+1621	1	San Francisco,United States
+1622	1	Irving,United States
+1623	1	Scottsdale,United States
+1624	1	Avondale,United States
+1625	1	Orange,United States
+1626	1	Highlands Ranch,United States
+1627	1	Dayton,United States
+1628	1	Jackson,United States
+1629	1	McLean,United States
+1630	1	Syracuse,United States
+1631	1	Danville,United States
+1632	1	Shreveport,United States
+1633	1	West Des Moines,United States
+1634	1	Tampa,United States
+1635	1	Dallas,United States
+1636	1	Minneapolis,United States
+1637	1	Washington,United States
+1638	1	Columbia,United States
+1639	1	Cleveland,United States
+1640	1	Boulder,United States
+1641	1	Hutchinson,United States
+1642	1	Rochester Hills,United States
+1643	1	Milford,United States
+1644	1	Nashville,United States
+1645	1	San Antonio,United States
+1646	1	Miami,United States
+1647	1	Raleigh,United States
+1648	1	Las Vegas,United States
+1649	1	Hillsboro,United States
+1650	1	McLean,United States
+1651	1	Germantown,United States
+1652	1	Nashville,United States
+1653	1	Sterling,United States
+1654	1	,United States
+1655	1	Ada,United States
+1656	1	Columbus,United States
+1657	1	Sioux Falls,United States
+1658	1	Henderson,United States
+1659	1	Great Neck,United States
+1660	1	Minneapolis,United States
+1661	1	Boston,United States
+1662	1	Deerfield,United States
+1663	1	Summit,United States
+1664	1	Lakewood,United States
+1665	1	Charlotte,United States
+1666	1	North Charleston,United States
+1667	1	Conyers,United States
+1668	1	Warren,United States
+1669	1	Seattle,United States
+1670	1	Clarence,United States
+1671	1	Boston,United States
+1672	1	Baltimore,United States
+1673	1	Warner Robins,United States
+1674	1	Albuquerque,United States
+1675	1	Minneapolis,United States
+1676	1	Stamford,United States
+1677	1	Atlanta,United States
+1678	1	Stamford,United States
+1679	1	Herndon,United States
+1680	1	Houston,United States
+1681	1	Houston,United States
+1682	1	Nashville,United States
+1683	1	Washington,United States
+1684	1	Baltimore,United States
+1685	1	Oklahoma City,United States
+1686	1	Lakewood,United States
+1687	1	Fairfax,United States
+1688	1	Alpharetta,United States
+1689	1	Dallas,United States
+1690	1	Hebron,United States
+1691	1	Saint Louis,United States
+1692	1	Portland,United States
+1693	1	Lake Oswego,United States
+1694	1	Washington,United States
+1695	1	Seattle,United States
+1696	1	Dallas,United States
+1697	1	Chantilly,United States
+1698	1	Addison,United States
+1699	1	Allegan,United States
+1700	1	Houston,United States
+1701	1	Seattle,United States
+1702	1	Reston,United States
+1703	1	Phoenix,United States
+1704	1	Fort Worth,United States
+1705	1	San Jose,United States
+1706	1	Rochelle,United States
+1707	1	Chincoteague,United States
+1708	1	Cambridge,United States
+1709	1	Ellicott City,United States
+1710	1	Houston,United States
+1711	1	Asheville,United States
+1712	1	Augusta,United States
+1713	1	New York,United States
+1714	1	Charlotte,United States
+1715	1	Ashburn,United States
+1716	1	Boston,United States
+1717	1	McLean,United States
+1718	1	Des Plaines,United States
+1719	1	Fort Worth,United States
+1720	1	Jersey City,United States
+1721	1	Charlotte,United States
+1722	1	Nashua,United States
+1723	1	Bethesda,United States
+1724	1	King of Prussia,United States
+1725	1	Channahon,United States
+1726	1	San Jose,United States
+1727	1	Vienna,United States
+1728	1	Topeka,United States
+1729	1	New York,United States
+1730	1	Tampa,United States
+1731	1	Louisville,United States
+1732	1	Cincinnati,United States
+1733	1	Ellicott City,United States
+1734	1	Overland Park,United States
+1735	1	Fort Worth,United States
+1736	1	Brooklyn,United States
+1737	1	Ashburn,United States
+1738	1	New Orleans,United States
+1739	1	Seattle,United States
+1740	1	Scranton,United States
+1741	1	Springfield,United States
+1742	1	Indianapolis,United States
+1743	1	Houston,United States
+1744	1	Annandale,United States
+1745	1	Ventura,United States
+1746	1	Kansas City,United States
+1747	1	Chicago,United States
+1748	1	New York,United States
+1749	1	Compton,United States
+1750	1	Minneapolis,United States
+1751	1	Cambridge,United States
+1752	1	Nashville,United States
+1753	1	Broomfield,United States
+1754	1	Englewood,United States
+1755	1	New York,United States
+1756	1	Doral,United States
+1757	1	Hoffman Estates,United States
+1758	1	Portsmouth,United States
+1759	1	Falls Church,United States
+1760	1	Lawrence,United States
+1761	1	Huntsville,United States
+1762	1	Hunt Valley,United States
+1763	1	Scottsdale,United States
+1764	1	Tucker,United States
+1765	1	Louisville,United States
+1766	1	Neenah,United States
+1767	1	Bloomfield,United States
+1768	1	Princeton,United States
+1769	1	Phoenix,United States
+1770	1	Seattle,United States
+1771	1	Bannockburn,United States
+1772	1	Augusta,United States
+1773	1	Cambridge,United States
+1774	1	Warren,United States
+1775	1	Washington,United States
+1776	1	Loveland,United States
+1777	1	Channahon,United States
+1778	1	Cooper City,United States
+1779	1	Hebron,United States
+1780	1	Indianapolis,United States
+1781	1	Lima,United States
+1782	1	Plantation,United States
+1783	1	San Francisco,United States
+1784	1	Colorado Springs,United States
+1785	1	Baltimore,United States
+1786	1	Arnold,United States
+1787	1	Dayton,United States
+1788	1	Colorado Springs,United States
+1789	1	Kansas City,United States
+1790	1	Houston,United States
+1791	1	Boston,United States
+1792	1	Niles,United States
+1793	1	Keller,United States
+1794	1	Englewood,United States
+1795	1	Harrisburg,United States
+1796	1	Colorado Springs,United States
+1797	1	Ellicott City,United States
+1798	1	Marietta,United States
+1799	1	San Francisco,United States
+1800	1	Leawood,United States
+1801	1	Kansas City,United States
+1802	1	Annapolis,United States
+1803	1	Anaheim,United States
+1804	1	Cleveland,United States
+1805	1	Broomfield,United States
+1806	1	Amarillo,United States
+1807	1	Dayton,United States
+1808	1	Laurel,United States
+1809	1	Columbus,United States
+1810	1	,United States
+1811	1	Scottsdale,United States
+1812	1	Dallas,United States
+1813	1	New York,United States
+1814	1	Atlanta,United States
+1815	1	Harrisburg,United States
+1816	1	,United States
+1817	1	Charlotte,United States
+1818	1	Altamonte Springs,United States
+1819	1	Fort Wayne,United States
+1820	1	Hillsboro,United States
+1821	1	Princeton,United States
+1822	1	Bend,United States
+1823	1	Fairfax,United States
+1824	1	Saint Louis,United States
+1825	1	Phoenix,United States
+1826	1	Houston,United States
+1827	1	Los Angeles,United States
+1828	1	North Chicago,United States
+1829	1	Washington,United States
+1830	1	Kansas City,United States
+1831	1	Las Vegas,United States
+1832	1	Bellevue,United States
+1833	1	Oakbrook Terrace,United States
+1834	1	Saint Paul,United States
+1835	1	Minneapolis,United States
+1836	1	Dearborn,United States
+1837	1	New York,United States
+1838	1	Hartford,United States
+1839	1	Denver,United States
+1840	1	Amarillo,United States
+1841	1	Minneapolis,United States
+1842	1	Westborough,United States
+1843	1	Mountain View,United States
+1844	1	Saint Louis,United States
+1845	1	Norge,United States
+1846	1	Columbia,United States
+1847	1	New York,United States
+1848	1	Nashville,United States
+1849	1	,United States
+1850	1	Pittsburgh,United States
+1851	1	Delaware,United States
+1852	1	Rolling Meadows,United States
+1853	1	Okemos,United States
+1854	1	Laurel,United States
+1855	1	Phoenix,United States
+1856	1	Loveland,United States
+1857	1	Chicago,United States
+1858	1	Brighton,United States
+1859	1	Irvine,United States
+1860	1	Plymouth Meeting,United States
+1861	1	Atlanta,United States
+1862	1	,United States
+1863	1	Alpharetta,United States
+1864	1	Chincoteague,United States
+1865	1	Omaha,United States
+1866	1	Plymouth,United States
+1867	1	Bannockburn,United States
+1868	1	Fairmont,United States
+1869	1	Kirkland,United States
+1870	1	Jersey City,United States
+1871	1	Fort Collins,United States
+1872	1	Chicago,United States
+1873	1	San Jose,United States
+1874	1	Raleigh,United States
+1875	1	Columbus,United States
+1876	1	Madison,United States
+1877	1	,United States
+1878	1	Seattle,United States
+1879	1	Ashburn,United States
+1880	1	Defiance,United States
+1881	1	Wichita,United States
+1882	1	San Francisco,United States
+1883	1	Miami,United States
+1884	1	Englewood,United States
+1885	1	Philadelphia,United States
+1886	1	Chandler,United States
+1887	1	Arlington,United States
+1888	1	Cincinnati,United States
+1889	1	Overland Park,United States
+1890	1	Fort Collins,United States
+1891	1	Baltimore,United States
+1892	1	Chicago,United States
+1893	1	Conshohocken,United States
+1894	1	Fort Worth,United States
+1895	1	Columbus,United States
+1896	1	Portland,United States
+1897	1	Dubuque,United States
+1898	1	Reston,United States
+1899	1	Kansas City,United States
+1900	1	Fort Lauderdale,United States
+1901	1	Houston,United States
+1902	1	Indian Head,United States
+1903	1	,United States
+1904	1	Denver,United States
+1905	1	San Jose,United States
+1906	1	Denver,United States
+1907	1	Des Moines,United States
+1908	1	New York,United States
+1909	1	Oak Brook,United States
+1910	1	Tempe,United States
+1911	1	Washington,United States
+1912	1	New York,United States
+1913	1	Boulder,United States
+1914	1	Louisville,United States
+1915	1	Spirit Lake,United States
+1916	1	Anaheim,United States
+1917	1	West Des Moines,United States
+1918	1	San Jose,United States
+1919	1	Denver,United States
+1920	1	Indianapolis,United States
+1921	1	Syracuse,United States
+1922	1	Annapolis Junction,United States
+1923	1	Kansas City,United States
+1924	1	Des Plaines,United States
+1925	1	Sykesville,United States
+1926	1	Lisle,United States
+1927	1	Oxford,United States
+1928	1	Wilton,United States
+1929	1	Fort Worth,United States
+1930	1	Portland,United States
+1931	1	Compton,United States
+1932	1	Richfield,United States
+1933	1	Baltimore,United States
+1934	1	Middleton,United States
+1935	1	Herndon,United States
+1936	1	Hoffman Estates,United States
+1937	1	Compton,United States
+1938	1	Herndon,United States
+1939	1	Wichita,United States
+1940	1	Nashville,United States
+1941	1	Salem,United States
+1942	1	Alhambra,United States
+1943	1	Compton,United States
+1944	1	Baltimore,United States
+1945	1	Alpharetta,United States
+1946	1	Houston,United States
+1947	1	,United States
+1948	1	Broomfield,United States
+1949	1	Malvern,United States
+1950	1	Bethesda,United States
+1951	1	,United States
+1952	1	Houston,United States
+1953	1	Iowa City,United States
+1954	1	Irwindale,United States
+1955	1	Bartlesville,United States
+1956	1	Cedar Rapids,United States
+1957	1	Denver,United States
+1958	1	East Lansing,United States
+1959	1	Los Angeles,United States
+1960	1	McLean,United States
+1961	1	Atlanta,United States
+1962	1	Wayne,United States
+1963	1	Pittsburgh,United States
+1964	1	Atlanta,United States
+1965	1	Portland,United States
+1966	1	Charlotte,United States
+1967	1	Kansas City,United States
+1968	1	Chicago,United States
+1969	1	Phoenix,United States
+1970	1	Indianapolis,United States
+1971	1	Stamford,United States
+1972	1	Atlanta,United States
+1973	1	Mount Laurel,United States
+1974	1	Seattle,United States
+1975	1	Cary,United States
+1976	1	Lanham,United States
+1977	1	Phoenix,United States
+1978	1	Portland,United States
+1979	1	Chicago,United States
+1980	1	Boston,United States
+1981	1	Lafayette,United States
+1982	1	San Bruno,United States
+1983	1	Kansas City,United States
+1984	1	Columbus,United States
+1985	1	Saint Louis,United States
+1986	1	Muscle Shoals,United States
+1987	1	Boise,United States
+1988	1	Elizabeth,United States
+1989	1	Saginaw,United States
+1990	1	Riverton,United States
+1991	1	Southfield,United States
+1992	1	Overland Park,United States
+1993	1	Rockville,United States
+1994	1	Columbia,United States
+1995	1	Lakewood,United States
+1996	1	La Vista,United States
+1997	1	Chicago,United States
+1998	1	Tucson,United States
+1999	1	Miami,United States

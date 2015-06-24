@@ -1,0 +1,2002 @@
+﻿university	studentaid	type
+2000	2000	2000	37
+0000	1	university, public
+0001	1	college, public
+0002	1	college, private (nonprofit)
+0003	1	public
+0004	1	college, private (nonprofit)
+0005	1	college, private (nonprofit)
+0006	1	college, private (nonprofit)
+0007	1	university, private (nonprofit)
+0008	1	college, public
+0009	1	college, private (nonprofit)
+0010	1	university, public
+0011	1	public
+0012	1	public
+0013	1	university, private (nonprofit)
+0014	1	private (nonprofit)
+0015	1	college, private (nonprofit)
+0016	1	college, private (nonprofit)
+0017	1	college, private (nonprofit)
+0018	1	college, private (nonprofit)
+0019	1	college, private (nonprofit)
+0020	1	university, private (nonprofit)
+0021	1	college, public
+0022	1	college, private (nonprofit)
+0023	1	public
+0024	1	public
+0025	1	college, private (nonprofit)
+0026	1	public
+0027	1	university, public
+0028	1	university, private (nonprofit)
+0029	1	private (proprietary)
+0030	1	private (proprietary)
+0031	1	university, public
+0032	1	college, public
+0033	1	university, private (nonprofit)
+0034	1	college, private (nonprofit)
+0035	1	university, private (nonprofit)
+0036	1	college, public
+0037	1	college, private (nonprofit)
+0038	1	college, public
+0039	1	university, private (nonprofit)
+0040	1	public
+0041	1	public
+0042	1	university, private (nonprofit)
+0043	1	university, private (nonprofit)
+0044	1	public
+0045	1	university, public
+0046	1	university, public
+0047	1	college, private (nonprofit)
+0048	1	public
+0049	1	public
+0050	1	public
+0051	1	public
+0052	1	public
+0053	1	public
+0054	1	university, public
+0055	1	institute, public
+0056	1	college, private (nonprofit)
+0057	1	university, private (nonprofit)
+0058	1	university, private (nonprofit)
+0059	1	public
+0060	1	college, private (nonprofit)
+0061	1	university, private (nonprofit)
+0062	1	public
+0063	1	college, public
+0064	1	private (nonprofit)
+0065	1	college, private (nonprofit)
+0066	1	university, private (nonprofit)
+0067	1	public
+0068	1	public
+0069	1	college, historically Black, private (nonprofit)
+0070	1	college, private (nonprofit)
+0071	1	public
+0072	1	college, public
+0073	1	public
+0074	1	public
+0075	1	public
+0076	1	university, public
+0077	1	public
+0078	1	university, public
+0079	1	public
+0080	1	university, public
+0081	1	public
+0082	1	public
+0083	1	public
+0084	1	public
+0085	1	private (proprietary)
+0086	1	private (proprietary)
+0087	1	college, private (nonprofit)
+0088	1	university, private (nonprofit)
+0089	1	public
+0090	1	public
+0091	1	public
+0092	1	college, private (nonprofit)
+0093	1	public
+0094	1	public
+0095	1	public
+0096	1	college, public
+0097	1	public
+0098	1	college, private (nonprofit)
+0099	1	public
+0100	1	college, private (nonprofit)
+0101	1	public
+0102	1	public
+0103	1	public
+0104	1	private (proprietary)
+0105	1	private (proprietary)
+0106	1	private (proprietary)
+0107	1	university, public
+0108	1	university, private (nonprofit)
+0109	1	university, private (nonprofit)
+0110	1	public
+0111	1	university, private (nonprofit)
+0112	1	university, private (nonprofit)
+0113	1	public
+0114	1	university, public
+0115	1	university, private (proprietary)
+0116	1	college, public
+0117	1	university, historically Black, public
+0118	1	public
+0119	1	institute, private (nonprofit)
+0120	1	private (proprietary)
+0121	1	college, private (nonprofit)
+0122	1	college, private (nonprofit)
+0123	1	public
+0124	1	public
+0125	1	college, private (nonprofit)
+0126	1	public
+0127	1	university, public
+0128	1	university, public
+0129	1	public
+0130	1	institute, private (nonprofit)
+0131	1	college, private (nonprofit)
+0132	1	college, private (nonprofit)
+0133	1	college, private (nonprofit)
+0134	1	public
+0135	1	university, private (nonprofit)
+0136	1	college, public
+0137	1	public
+0138	1	private (nonprofit)
+0139	1	public
+0140	1	college, private (nonprofit)
+0141	1	college, private (nonprofit)
+0142	1	public
+0143	1	public
+0144	1	public
+0145	1	college, private (nonprofit)
+0146	1	university, private (nonprofit)
+0147	1	college, private (nonprofit)
+0148	1	public
+0149	1	public
+0150	1	university, private (nonprofit)
+0151	1	private (proprietary)
+0152	1	university, private (nonprofit)
+0153	1	public
+0154	1	public
+0155	1	public
+0156	1	college, private (proprietary)
+0157	1	university, public
+0158	1	public
+0159	1	university, private (nonprofit)
+0160	1	college, private (proprietary)
+0161	1	private (nonprofit)
+0162	1	public
+0163	1	private (nonprofit)
+0164	1	college, private (nonprofit)
+0165	1	historically Black, public
+0166	1	college, private (nonprofit)
+0167	1	college, private (nonprofit)
+0168	1	public
+0169	1	public
+0170	1	public
+0171	1	public
+0172	1	public
+0173	1	college, private (nonprofit)
+0174	1	public
+0175	1	public
+0176	1	college, private (nonprofit)
+0177	1	public
+0178	1	university, public
+0179	1	university, private (nonprofit)
+0180	1	college, private (nonprofit)
+0181	1	public
+0182	1	private (nonprofit)
+0183	1	university, public
+0184	1	public
+0185	1	public
+0186	1	university, private (nonprofit)
+0187	1	college, private (nonprofit)
+0188	1	college, historically Black, private (nonprofit)
+0189	1	university, public
+0190	1	college, public
+0191	1	college, public
+0192	1	college, public
+0193	1	college, public
+0194	1	university, public
+0195	1	university, public
+0196	1	college, public
+0197	1	university, public
+0198	1	university, private (nonprofit)
+0199	1	college, private (nonprofit)
+0200	1	public
+0201	1	college, historically Black, private (nonprofit)
+0202	1	college, private (nonprofit)
+0203	1	public
+0204	1	public
+0205	1	university, private (nonprofit)
+0206	1	public
+0207	1	public
+0208	1	university, private (proprietary)
+0209	1	college, public
+0210	1	university, public
+0211	1	college, private (nonprofit)
+0212	1	public
+0213	1	university, private (nonprofit)
+0214	1	public
+0215	1	university, private (nonprofit)
+0216	1	college, private (nonprofit)
+0217	1	college, public
+0218	1	public
+0219	1	university, public
+0220	1	college, private (nonprofit)
+0221	1	conservatory, private (nonprofit)
+0222	1	university, public
+0223	1	public
+0224	1	college, public
+0225	1	private (proprietary)
+0226	1	public
+0227	1	university, private (nonprofit)
+0228	1	public
+0229	1	public
+0230	1	public
+0231	1	college, private (nonprofit)
+0232	1	public
+0233	1	college, private (nonprofit)
+0234	1	university, historically Black, public
+0235	1	public
+0236	1	college, private (nonprofit)
+0237	1	college, private (proprietary)
+0238	1	college, public
+0239	1	public
+0240	1	public
+0241	1	university, private (nonprofit)
+0242	1	university, private (nonprofit)
+0243	1	private (nonprofit)
+0244	1	public
+0245	1	college, public
+0246	1	university, private (nonprofit)
+0247	1	college, private (nonprofit)
+0248	1	public
+0249	1	university, historically Black, private (nonprofit)
+0250	1	university, public
+0251	1	college, private (nonprofit)
+0252	1	university, private (nonprofit)
+0253	1	university, public
+0254	1	university, public
+0255	1	college, private (nonprofit)
+0256	1	college, private (nonprofit)
+0257	1	college, private (nonprofit)
+0258	1	public
+0259	1	college, private (nonprofit)
+0260	1	institute, private (proprietary)
+0261	1	university, public
+0262	1	college, private (nonprofit)
+0263	1	university, private (nonprofit)
+0264	1	university, private (nonprofit)
+0265	1	public
+0266	1	college, private (nonprofit)
+0267	1	college, public
+0268	1	university, public
+0269	1	public
+0270	1	public
+0271	1	college, historically Black, private (nonprofit)
+0272	1	university, private (nonprofit)
+0273	1	public
+0274	1	college, public
+0275	1	public
+0276	1	university, public
+0277	1	university, historically Black, public
+0278	1	university, public
+0279	1	private (proprietary)
+0280	1	public
+0281	1	college, public
+0282	1	public
+0283	1	public
+0284	1	public
+0285	1	public
+0286	1	public
+0287	1	public
+0288	1	college, public
+0289	1	university, public
+0290	1	public
+0291	1	college, private (nonprofit)
+0292	1	college, private (nonprofit)
+0293	1	public
+0294	1	public
+0295	1	university, public
+0296	1	college, public
+0297	1	university, public
+0298	1	institute, private (nonprofit)
+0299	1	university, public
+0300	1	college, public
+0301	1	university, public
+0302	1	university, public
+0303	1	university, private (nonprofit)
+0304	1	university, private (nonprofit)
+0305	1	university, public
+0306	1	university, public
+0307	1	public
+0308	1	university, historically Black, public
+0309	1	university, historically Black, public
+0310	1	historically Black, public
+0311	1	public
+0312	1	public
+0313	1	college, public
+0314	1	public
+0315	1	public
+0316	1	public
+0317	1	public
+0318	1	public
+0319	1	university, private (nonprofit)
+0320	1	university, private (nonprofit)
+0321	1	seminary, private (nonprofit)
+0322	1	private (nonprofit)
+0323	1	college, private (nonprofit)
+0324	1	private (proprietary)
+0325	1	public
+0326	1	public
+0327	1	university, public
+0328	1	public
+0329	1	university, private (nonprofit)
+0330	1	college, private (nonprofit)
+0331	1	private (nonprofit)
+0332	1	college, private (nonprofit)
+0333	1	public
+0334	1	public
+0335	1	college, public
+0336	1	public
+0337	1	university, private (nonprofit)
+0338	1	college, private (nonprofit)
+0339	1	college, private (nonprofit)
+0340	1	university, private (nonprofit)
+0341	1	public
+0342	1	public
+0343	1	college, private (nonprofit)
+0344	1	college, private (nonprofit)
+0345	1	college, private (nonprofit)
+0346	1	public
+0347	1	college, private (nonprofit)
+0348	1	university, private (nonprofit)
+0349	1	public
+0350	1	private (nonprofit)
+0351	1	college, historically Black, private (nonprofit)
+0352	1	public
+0353	1	public
+0354	1	college, private (nonprofit)
+0355	1	college, private (nonprofit)
+0356	1	public
+0357	1	university, private (nonprofit)
+0358	1	college, private (nonprofit)
+0359	1	university, private (nonprofit)
+0360	1	university, public
+0361	1	college, private (nonprofit)
+0362	1	college, private (nonprofit)
+0363	1	university, private (nonprofit)
+0364	1	college, private (nonprofit)
+0365	1	college, private (nonprofit)
+0366	1	college, private (nonprofit)
+0367	1	university, private (nonprofit)
+0368	1	college, private (nonprofit)
+0369	1	college, private (nonprofit)
+0370	1	college, private (nonprofit)
+0371	1	college, public
+0372	1	college, private (nonprofit)
+0373	1	university, private (nonprofit)
+0374	1	private (nonprofit)
+0375	1	public
+0376	1	college, public
+0377	1	college, public
+0378	1	university, public
+0379	1	college, public
+0380	1	college, public
+0381	1	college, public
+0382	1	college, public
+0383	1	university, public
+0384	1	university, public
+0385	1	university, public
+0386	1	university, public
+0387	1	college, public
+0388	1	private (proprietary)
+0389	1	university, public
+0390	1	college, private (nonprofit)
+0391	1	college, private (nonprofit)
+0392	1	university, private (nonprofit)
+0393	1	college, historically Black, private (nonprofit)
+0394	1	college, private (nonprofit)
+0395	1	university
+0396	1	public
+0397	1	public
+0398	1	university, private (nonprofit)
+0399	1	public
+0400	1	university, private (proprietary)
+0401	1	college, private (nonprofit)
+0402	1	college, public
+0403	1	public
+0404	1	college, public
+0405	1	college, public
+0406	1	college, public
+0407	1	college, public
+0408	1	college, public
+0409	1	college, public
+0410	1	college, public
+0411	1	college, public
+0412	1	college, public
+0413	1	institute, public
+0414	1	public
+0415	1	public
+0416	1	institute, private (nonprofit)
+0417	1	university, private (nonprofit)
+0418	1	public
+0419	1	university, public
+0420	1	university, public
+0421	1	university, public
+0422	1	university, public
+0423	1	college, private (nonprofit)
+0424	1	university, private (nonprofit)
+0425	1	university, private (nonprofit)
+0426	1	university, public
+0427	1	university, public
+0428	1	university, public
+0429	1	public
+0430	1	private (proprietary)
+0431	1	college, public
+0432	1	college, private (nonprofit)
+0433	1	college, public
+0434	1	university, private (nonprofit)
+0435	1	college, private (nonprofit)
+0436	1	public
+0437	1	university, private (nonprofit)
+0438	1	private (proprietary)
+0439	1	public
+0440	1	public
+0441	1	public
+0442	1	public
+0443	1	public
+0444	1	public
+0445	1	public
+0446	1	public
+0447	1	public
+0448	1	public
+0449	1	public
+0450	1	public
+0451	1	university, public
+0452	1	public
+0453	1	historically Black, public
+0454	1	university, public
+0455	1	university, private (nonprofit)
+0456	1	public
+0457	1	public
+0458	1	college, private (nonprofit)
+0459	1	university, private (nonprofit)
+0460	1	private (proprietary)
+0461	1	private (proprietary)
+0462	1	public
+0463	1	college, public
+0464	1	college, private (nonprofit)
+0465	1	college, private (nonprofit)
+0466	1	college, private (nonprofit)
+0467	1	college, private (nonprofit)
+0468	1	college, private (nonprofit)
+0469	1	college, private (nonprofit)
+0470	1	university, private (nonprofit)
+0471	1	college, private (nonprofit)
+0472	1	university, private (nonprofit)
+0473	1	university, private (nonprofit)
+0474	1	private (nonprofit)
+0475	1	college, private (nonprofit)
+0476	1	university, public
+0477	1	university, private (nonprofit)
+0478	1	university, private (nonprofit)
+0479	1	public
+0480	1	public
+0481	1	private (nonprofit)
+0482	1	college, private (nonprofit)
+0483	1	university, historically Black, private (nonprofit)
+0484	1	public
+0485	1	university, private (nonprofit)
+0486	1	academy, public
+0487	1	public
+0488	1	college, private (nonprofit)
+0489	1	university, public
+0490	1	private (nonprofit)
+0491	1	private (proprietary)
+0492	1	university, private (nonprofit)
+0493	1	university, public
+0494	1	university, public
+0495	1	university, public
+0496	1	university, public
+0497	1	university, public
+0498	1	public
+0499	1	public
+0500	1	public
+0501	1	public
+0502	1	university, public
+0503	1	public
+0504	1	university, public
+0505	1	university, public
+0506	1	public
+0507	1	university, public
+0508	1	public
+0509	1	public
+0510	1	private (proprietary)
+0511	1	private (proprietary)
+0512	1	private (proprietary)
+0513	1	private (nonprofit)
+0514	1	university, private (nonprofit)
+0515	1	university, public
+0516	1	university, public
+0517	1	university, public
+0518	1	university, private (nonprofit)
+0519	1	public
+0520	1	public
+0521	1	public
+0522	1	university, public
+0523	1	university, public
+0524	1	university, public
+0525	1	university, public
+0526	1	university, private (nonprofit)
+0527	1	university, public
+0528	1	university, private (nonprofit)
+0529	1	university, private (nonprofit)
+0530	1	university, private (nonprofit)
+0531	1	university, private (nonprofit)
+0532	1	university, public
+0533	1	university, public
+0534	1	university, public
+0535	1	university, public
+0536	1	university, private (nonprofit)
+0537	1	university, public
+0538	1	university, public
+0539	1	university, public
+0540	1	university, public
+0541	1	university, public
+0542	1	university, public
+0543	1	university, public
+0544	1	university, public
+0545	1	university, public
+0546	1	university, private (nonprofit)
+0547	1	university, public
+0548	1	university, public
+0549	1	university, public
+0550	1	university, public
+0551	1	university, public
+0552	1	university, public
+0553	1	university, public
+0554	1	university, public
+0555	1	university, public
+0556	1	university, public
+0557	1	university, private (nonprofit)
+0558	1	university, public
+0559	1	university, public
+0560	1	university, public
+0561	1	university, historically Black, public
+0562	1	university, public
+0563	1	university, public
+0564	1	university, public
+0565	1	university, public
+0566	1	university, public
+0567	1	university, public
+0568	1	university, public
+0569	1	university, public
+0570	1	university, public
+0571	1	university, public
+0572	1	university, public
+0573	1	university, public
+0574	1	university, public
+0575	1	university, public
+0576	1	university, public
+0577	1	university, public
+0578	1	university, public
+0579	1	public
+0580	1	university, public
+0581	1	university, public
+0582	1	university, public
+0583	1	university, public
+0584	1	university, public
+0585	1	university, public
+0586	1	university, public
+0587	1	private (nonprofit)
+0588	1	university, private (nonprofit)
+0589	1	university, public
+0590	1	university, public
+0591	1	university, public
+0592	1	college, private (proprietary)
+0593	1	college, public
+0594	1	public
+0595	1	university, private (nonprofit)
+0596	1	university, public
+0597	1	university, public
+0598	1	university, public
+0599	1	university, public
+0600	1	university, public
+0601	1	public
+0602	1	university, public
+0603	1	university, public
+0604	1	university, public
+0605	1	university, public
+0606	1	university, private (nonprofit)
+0607	1	university, public
+0608	1	university, private (nonprofit)
+0609	1	university, private (nonprofit)
+0610	1	university, private (nonprofit)
+0611	1	college, private (nonprofit)
+0612	1	university, private (nonprofit)
+0613	1	university, public
+0614	1	university, public
+0615	1	university, private (nonprofit)
+0616	1	university, private (nonprofit)
+0617	1	university, public
+0618	1	university, public
+0619	1	public
+0620	1	public
+0621	1	public
+0622	1	public
+0623	1	university, public
+0624	1	university, public
+0625	1	university, public
+0626	1	university, public
+0627	1	university, private (nonprofit)
+0628	1	university, private (nonprofit)
+0629	1	university, private (nonprofit)
+0630	1	university, public
+0631	1	university, public
+0632	1	university, public
+0633	1	university, public
+0634	1	university, public
+0635	1	university, public
+0636	1	university, public
+0637	1	university, public
+0638	1	university, public
+0639	1	university, public
+0640	1	university, private (nonprofit)
+0641	1	university, historically Black, public
+0642	1	university, private (nonprofit)
+0643	1	university, public
+0644	1	university, public
+0645	1	university, public
+0646	1	university, public
+0647	1	university, public
+0648	1	college, public
+0649	1	university, public
+0650	1	university, public
+0651	1	university, private (nonprofit)
+0652	1	public
+0653	1	public
+0654	1	university, public
+0655	1	public
+0656	1	university, public
+0657	1	university, public
+0658	1	university, public
+0659	1	public
+0660	1	public
+0661	1	public
+0662	1	public
+0663	1	university, public
+0664	1	public
+0665	1	university, public
+0666	1	university, public
+0667	1	university, public
+0668	1	public
+0669	1	university, public
+0670	1	public
+0671	1	public
+0672	1	university, private (nonprofit)
+0673	1	college, private (nonprofit)
+0674	1	public
+0675	1	college, public
+0676	1	college, public
+0677	1	college, public
+0678	1	college, public
+0679	1	college, private (nonprofit)
+0680	1	private (proprietary)
+0681	1	university, public
+0682	1	public
+0683	1	college, private (nonprofit)
+0684	1	college, private (nonprofit)
+0685	1	university, private (nonprofit)
+0686	1	public
+0687	1	university, private (nonprofit)
+0688	1	public
+0689	1	college, public
+0690	1	public
+0691	1	institute, private (nonprofit)
+0692	1	university, private (nonprofit)
+0693	1	private (nonprofit)
+0694	1	college, private (nonprofit)
+0695	1	college, private (nonprofit)
+0696	1	university, public
+0697	1	college, public
+0698	1	college, public
+0699	1	public
+0700	1	college, private (nonprofit)
+0701	1	college, private (proprietary)
+0702	1	private (proprietary)
+0703	1	college, public
+0704	1	college, public
+0705	1	university, public
+0706	1	public
+0707	1	university, public
+0708	1	university, public
+0709	1	public
+0710	1	university, public
+0711	1	college, private (nonprofit)
+0712	1	university, public
+0713	1	public
+0714	1	university, public
+0715	1	public
+0716	1	college, public
+0717	1	university, public
+0718	1	public
+0719	1	public
+0720	1	college, public
+0721	1	college, private (nonprofit)
+0722	1	public
+0723	1	public
+0724	1	public
+0725	1	college, private (nonprofit)
+0726	1	university, private (nonprofit)
+0727	1	college, private (nonprofit)
+0728	1	college, private (nonprofit)
+0729	1	college, private (nonprofit)
+0730	1	university, private (nonprofit)
+0731	1	college, private (nonprofit)
+0732	1	public
+0733	1	public
+0734	1	university, public
+0735	1	public
+0736	1	university, historically Black, private (nonprofit)
+0737	1	college, private (nonprofit)
+0738	1	college, private (nonprofit)
+0739	1	college, private (nonprofit)
+0740	1	university, private (nonprofit)
+0741	1	university, private (nonprofit)
+0742	1	university, public
+0743	1	university, public
+0744	1	university, public
+0745	1	public
+0746	1	university, private (nonprofit)
+0747	1	college, historically Black, private (nonprofit)
+0748	1	public
+0749	1	university, private (nonprofit)
+0750	1	college, private (nonprofit)
+0751	1	university, private (nonprofit)
+0752	1	college, private (nonprofit)
+0753	1	private (nonprofit)
+0754	1	college, private (nonprofit)
+0755	1	public
+0756	1	public
+0757	1	university, private (nonprofit)
+0758	1	university, public
+0759	1	university, public
+0760	1	college, public
+0761	1	college, public
+0762	1	public
+0763	1	private (proprietary)
+0764	1	private (nonprofit)
+0765	1	university, private (nonprofit)
+0766	1	public
+0767	1	university, private (nonprofit)
+0768	1	public
+0769	1	university, private (nonprofit)
+0770	1	Theological Seminary, private (nonprofit)
+0771	1	college, private (nonprofit)
+0772	1	college, private (nonprofit)
+0773	1	university, private (nonprofit)
+0774	1	college, private (nonprofit)
+0775	1	college, historically Black, private (nonprofit)
+0776	1	university, private (nonprofit)
+0777	1	public
+0778	1	college, public
+0779	1	public
+0780	1	public
+0781	1	public
+0782	1	university, private (nonprofit)
+0783	1	public
+0784	1	public
+0785	1	public
+0786	1	public
+0787	1	university, private (nonprofit)
+0788	1	public
+0789	1	college, private (nonprofit)
+0790	1	university, public
+0791	1	college, public
+0792	1	college, private (nonprofit)
+0793	1	public
+0794	1	college, private (nonprofit)
+0795	1	public
+0796	1	public
+0797	1	college, public
+0798	1	college, public
+0799	1	college, private (nonprofit)
+0800	1	private (proprietary)
+0801	1	college, private (nonprofit)
+0802	1	university, private (nonprofit)
+0803	1	college, private (nonprofit)
+0804	1	college, private (nonprofit)
+0805	1	university, public
+0806	1	college, private (nonprofit)
+0807	1	public
+0808	1	public
+0809	1	university, private (nonprofit)
+0810	1	college, private (nonprofit)
+0811	1	university, private (nonprofit)
+0812	1	college, private (nonprofit)
+0813	1	college, private (nonprofit)
+0814	1	university, private (nonprofit)
+0815	1	university, private (nonprofit)
+0816	1	public
+0817	1	public
+0818	1	public
+0819	1	college, private (nonprofit)
+0820	1	college, historically Black, private (nonprofit)
+0821	1	public
+0822	1	college, private (nonprofit)
+0823	1	university, public
+0824	1	public
+0825	1	private (proprietary)
+0826	1	institute, private (proprietary)
+0827	1	university, public
+0828	1	university, public
+0829	1	private (nonprofit)
+0830	1	public
+0831	1	public
+0832	1	college, private (nonprofit)
+0833	1	college, public
+0834	1	university, public
+0835	1	university, private (nonprofit)
+0836	1	college, private (nonprofit)
+0837	1	private (proprietary)
+0838	1	institute, private (nonprofit)
+0839	1	institute, private (nonprofit)
+0840	1	university, public
+0841	1	college, public
+0842	1	private (proprietary)
+0843	1	college, private (nonprofit)
+0844	1	public
+0845	1	university, public
+0846	1	university, public
+0847	1	university, public
+0848	1	university, public
+0849	1	university, public
+0850	1	private (proprietary)
+0851	1	private (proprietary)
+0852	1	private (proprietary)
+0853	1	private (proprietary)
+0854	1	private (proprietary)
+0855	1	private (proprietary)
+0856	1	private (proprietary)
+0857	1	public
+0858	1	university, private (nonprofit)
+0859	1	university, private (nonprofit)
+0860	1	service academy, public
+0861	1	Federal Academy, public
+0862	1	academy, public
+0863	1	public
+0864	1	private (proprietary)
+0865	1	college, private (nonprofit)
+0866	1	private (proprietary)
+0867	1	university, private (nonprofit)
+0868	1	public
+0869	1	college, private (nonprofit)
+0870	1	private (nonprofit)
+0871	1	college, private (nonprofit)
+0872	1	Community College, public
+0873	1	college, private (nonprofit)
+0874	1	university, private (nonprofit)
+0875	1	public
+0876	1	public
+0877	1	college, private (nonprofit)
+0878	1	public
+0879	1	college, private (nonprofit)
+0880	1	university, private (nonprofit)
+0881	1	public
+0882	1	public
+0883	1	college, private (nonprofit)
+0884	1	university, private (nonprofit)
+0885	1	public
+0886	1	college, private (nonprofit)
+0887	1	college, private (nonprofit)
+0888	1	public
+0889	1	college, private (nonprofit)
+0890	1	public
+0891	1	college, private (nonprofit)
+0892	1	university, private (nonprofit)
+0893	1	college, private (nonprofit)
+0894	1	university, public
+0895	1	university, private (nonprofit)
+0896	1	public
+0897	1	public
+0898	1	private (nonprofit)
+0899	1	public
+0900	1	university, private (nonprofit)
+0901	1	university, historically Black, private (nonprofit)
+0902	1	public
+0903	1	university, private (nonprofit)
+0904	1	university, private (nonprofit)
+0905	1	college, private (nonprofit)
+0906	1	college, public
+0907	1	college, private (nonprofit)
+0908	1	public
+0909	1	public
+0910	1	university, public
+0911	1	college, private (nonprofit)
+0912	1	university, public
+0913	1	private (nonprofit)
+0914	1	public
+0915	1	public
+0916	1	private (nonprofit)
+0917	1	university, historically Black, public
+0918	1	public
+0919	1	public
+0920	1	college, private (nonprofit)
+0921	1	college, private (nonprofit)
+0922	1	college, private (nonprofit)
+0923	1	college, private (nonprofit)
+0924	1	public
+0925	1	college, private (nonprofit)
+0926	1	university, private (nonprofit)
+0927	1	college, private (nonprofit)
+0928	1	public
+0929	1	public
+0930	1	public
+0931	1	college, private (nonprofit)
+0932	1	public
+0933	1	university, historically Black, private (nonprofit)
+0934	1	private (proprietary)
+0935	1	college, public
+0936	1	university, private (nonprofit)
+0937	1	public
+0938	1	private (nonprofit)
+0939	1	college, private (nonprofit)
+0940	1	private (nonprofit)
+0941	1	college, private (nonprofit)
+0942	1	university, private (nonprofit)
+0943	1	private (nonprofit)
+0944	1	university, private (nonprofit)
+0945	1	university, private (nonprofit)
+0946	1	college, private (nonprofit)
+0947	1	university, private (nonprofit)
+0948	1	private (nonprofit)
+0949	1	university, private (nonprofit)
+0950	1	university, private (nonprofit)
+0951	1	college, private (nonprofit)
+0952	1	public
+0953	1	college, private (nonprofit)
+0954	1	college, private (nonprofit)
+0955	1	private (proprietary)
+0956	1	private (proprietary)
+0957	1	college, private (nonprofit)
+0958	1	public
+0959	1	college, private (nonprofit)
+0960	1	university, public
+0961	1	university, private (nonprofit)
+0962	1	university, private (nonprofit)
+0963	1	college, private (nonprofit)
+0964	1	college, public
+0965	1	college, private (nonprofit)
+0966	1	public
+0967	1	college, public
+0968	1	university, private (nonprofit)
+0969	1	public
+0970	1	college, private (nonprofit)
+0971	1	college, private (nonprofit)
+0972	1	public
+0973	1	public
+0974	1	public
+0975	1	private (proprietary)
+0976	1	private (proprietary)
+0977	1	university, public
+0978	1	college, private (nonprofit)
+0979	1	college, private (nonprofit)
+0980	1	college, public
+0981	1	university, public
+0982	1	university, public
+0983	1	university, public
+0984	1	college, historically Black, private (nonprofit)
+0985	1	public
+0986	1	public
+0987	1	public
+0988	1	public
+0989	1	university, public
+0990	1	college, private (nonprofit)
+0991	1	public
+0992	1	public
+0993	1	public
+0994	1	college, private (nonprofit)
+0995	1	university, public
+0996	1	college, public
+0997	1	college, private (nonprofit)
+0998	1	college, public
+0999	1	public
+1000	1	public
+1001	1	public
+1002	1	university, public
+1003	1	college, private (nonprofit)
+1004	1	college, public
+1005	1	college, private (nonprofit)
+1006	1	college, private (nonprofit)
+1007	1	university, public
+1008	1	university, private (nonprofit)
+1009	1	institute, private (proprietary)
+1010	1	private (proprietary)
+1011	1	university, private (nonprofit)
+1012	1	college, public
+1013	1	public
+1014	1	public
+1015	1	private (proprietary)
+1016	1	university, private (nonprofit)
+1017	1	university, private (nonprofit)
+1018	1	public
+1019	1	public
+1020	1	college, private (nonprofit)
+1021	1	public
+1022	1	college, private (nonprofit)
+1023	1	university, private (nonprofit)
+1024	1	college, private (nonprofit)
+1025	1	college, historically Black, private (nonprofit)
+1026	1	college, historically Black, private (nonprofit)
+1027	1	college, private (nonprofit)
+1028	1	private (proprietary)
+1029	1	college, private (nonprofit)
+1030	1	public
+1031	1	college, private (nonprofit)
+1032	1	private (nonprofit)
+1033	1	college, private (nonprofit)
+1034	1	public
+1035	1	private (nonprofit)
+1036	1	college, public
+1037	1	university, private (nonprofit)
+1038	1	college, private (nonprofit)
+1039	1	historically Black, public
+1040	1	public
+1041	1	college, private (nonprofit)
+1042	1	public
+1043	1	college, private (nonprofit)
+1044	1	college, private (nonprofit)
+1045	1	university, public
+1046	1	college, private (nonprofit)
+1047	1	public
+1048	1	college, private (nonprofit)
+1049	1	college, historically Black, public
+1050	1	public
+1051	1	college, private (nonprofit)
+1052	1	public
+1053	1	college, public
+1054	1	college, private (nonprofit)
+1055	1	university, private (nonprofit)
+1056	1	conservatory, private (nonprofit)
+1057	1	university, private (nonprofit)
+1058	1	college, private (nonprofit)
+1059	1	university, historically Black, public
+1060	1	university, public
+1061	1	public
+1062	1	public
+1063	1	college, private (nonprofit)
+1064	1	university, private (nonprofit)
+1065	1	college, private (nonprofit)
+1066	1	public
+1067	1	college, private (nonprofit)
+1068	1	college, public
+1069	1	college, private (nonprofit)
+1070	1	university, private (nonprofit)
+1071	1	university, private (nonprofit)
+1072	1	public
+1073	1	public
+1074	1	public
+1075	1	college, public
+1076	1	institute
+1077	1	public
+1078	1	university, private (proprietary)
+1079	1	university, private (nonprofit)
+1080	1	public
+1081	1	college, private (nonprofit)
+1082	1	university, private (nonprofit)
+1083	1	private (proprietary)
+1084	1	college, private (nonprofit)
+1085	1	public
+1086	1	university, private (nonprofit)
+1087	1	public
+1088	1	public
+1089	1	public
+1090	1	university, private (nonprofit)
+1091	1	public
+1092	1	public
+1093	1	public
+1094	1	public
+1095	1	university, public
+1096	1	college, public
+1097	1	public
+1098	1	university, public
+1099	1	university, private (nonprofit)
+1100	1	university, private (nonprofit)
+1101	1	public
+1102	1	university, public
+1103	1	university, public
+1104	1	public
+1105	1	university, private (nonprofit)
+1106	1	college, private (nonprofit)
+1107	1	university, public
+1108	1	public
+1109	1	university, private (nonprofit)
+1110	1	college, public
+1111	1	public
+1112	1	college, private (nonprofit)
+1113	1	university, public
+1114	1	university, private (nonprofit)
+1115	1	university, private (nonprofit)
+1116	1	public
+1117	1	college, private (nonprofit)
+1118	1	public
+1119	1	public
+1120	1	public
+1121	1	public
+1122	1	public
+1123	1	college, private (nonprofit)
+1124	1	college, private (nonprofit)
+1125	1	public
+1126	1	college, private (nonprofit)
+1127	1	public
+1128	1	college, private (nonprofit)
+1129	1	public
+1130	1	university, private (nonprofit)
+1131	1	public
+1132	1	college, public
+1133	1	college, private (nonprofit)
+1134	1	university, private (nonprofit)
+1135	1	college, private (nonprofit)
+1136	1	college, private (nonprofit)
+1137	1	university, private (nonprofit)
+1138	1	college, private (nonprofit)
+1139	1	college, private (nonprofit)
+1140	1	public
+1141	1	public
+1142	1	college, private (nonprofit)
+1143	1	college, private (nonprofit)
+1144	1	college, private (nonprofit)
+1145	1	public
+1146	1	public
+1147	1	university, public
+1148	1	college, public
+1149	1	public
+1150	1	private (nonprofit)
+1151	1	university, public
+1152	1	university, public
+1153	1	public
+1154	1	public
+1155	1	public
+1156	1	public
+1157	1	university, historically Black, public
+1158	1	university, public
+1159	1	public
+1160	1	public
+1161	1	college, private (nonprofit)
+1162	1	college, private (proprietary)
+1163	1	public
+1164	1	public
+1165	1	public
+1166	1	public
+1167	1	university, private (nonprofit)
+1168	1	college, private (nonprofit)
+1169	1	public
+1170	1	university, private (nonprofit)
+1171	1	public
+1172	1	university, private (nonprofit)
+1173	1	college, public
+1174	1	college, private (nonprofit)
+1175	1	public
+1176	1	public
+1177	1	college, private (nonprofit)
+1178	1	public
+1179	1	college, private (nonprofit)
+1180	1	public
+1181	1	university, historically Black, public
+1182	1	public
+1183	1	college, private (nonprofit)
+1184	1	college, private (nonprofit)
+1185	1	university, private (nonprofit)
+1186	1	Auction House, private (proprietary)
+1187	1	university, public
+1188	1	Business School, private (proprietary)
+1189	1	university, private (nonprofit)
+1190	1	public
+1191	1	college, public
+1192	1	college, public
+1193	1	private (nonprofit)
+1194	1	public
+1195	1	public
+1196	1	college, private (nonprofit)
+1197	1	university, public
+1198	1	university, historically Black, private (nonprofit)
+1199	1	public
+1200	1	public
+1201	1	university, private (nonprofit)
+1202	1	college, private (nonprofit)
+1203	1	college, private (nonprofit)
+1204	1	university, private (nonprofit)
+1205	1	university, public
+1206	1	public
+1207	1	college, private (nonprofit)
+1208	1	institute, private (nonprofit)
+1209	1	public
+1210	1	university, public
+1211	1	college, public
+1212	1	public
+1213	1	public
+1214	1	university, public
+1215	1	public
+1216	1	college, private (nonprofit)
+1217	1	college, private (nonprofit)
+1218	1	college, private (nonprofit)
+1219	1	public
+1220	1	university, private (nonprofit)
+1221	1	public
+1222	1	public
+1223	1	college, public
+1224	1	college, public
+1225	1	public
+1226	1	public
+1227	1	public
+1228	1	college, private (nonprofit)
+1229	1	college, private (nonprofit)
+1230	1	college, private (nonprofit)
+1231	1	college, private (nonprofit)
+1232	1	college, private (nonprofit)
+1233	1	college, private (nonprofit)
+1234	1	college, private (nonprofit)
+1235	1	public
+1236	1	college, private (nonprofit)
+1237	1	college, private (nonprofit)
+1238	1	college, public
+1239	1	Community College, public
+1240	1	public
+1241	1	college, public
+1242	1	public
+1243	1	college, public
+1244	1	college, private (nonprofit)
+1245	1	university, public
+1246	1	university, private (nonprofit)
+1247	1	college, private (nonprofit)
+1248	1	public
+1249	1	university, public
+1250	1	university, public
+1251	1	university, public
+1252	1	university, public
+1253	1	university
+1254	1	college, private (nonprofit)
+1255	1	college, private (nonprofit)
+1256	1	college, private (nonprofit)
+1257	1	college, private (nonprofit)
+1258	1	university, private (nonprofit)
+1259	1	college, public
+1260	1	college, private (nonprofit)
+1261	1	university, private (nonprofit)
+1262	1	college, private (nonprofit)
+1263	1	college, private (nonprofit)
+1264	1	public
+1265	1	university, private (nonprofit)
+1266	1	university, private (nonprofit)
+1267	1	university, public
+1268	1	college, private (nonprofit)
+1269	1	private (proprietary)
+1270	1	university, private (nonprofit)
+1271	1	public
+1272	1	university, historically Black, public
+1273	1	public
+1274	1	college, private (nonprofit)
+1275	1	college, private (nonprofit)
+1276	1	private (nonprofit)
+1277	1	college, public
+1278	1	college, private (nonprofit)
+1279	1	public
+1280	1	public
+1281	1	public
+1282	1	public
+1283	1	public
+1284	1	public
+1285	1	public
+1286	1	public
+1287	1	public
+1288	1	public
+1289	1	public
+1290	1	private (proprietary)
+1291	1	public
+1292	1	public
+1293	1	public
+1294	1	public
+1295	1	historically Black, public
+1296	1	college, private (nonprofit)
+1297	1	university, public
+1298	1	college, private (nonprofit)
+1299	1	college, historically Black, private (nonprofit)
+1300	1	university, private (nonprofit)
+1301	1	university, private (nonprofit)
+1302	1	university, private (nonprofit)
+1303	1	college, private (nonprofit)
+1304	1	university, public
+1305	1	private (proprietary)
+1306	1	private (proprietary)
+1307	1	college, private (nonprofit)
+1308	1	college, private (nonprofit)
+1309	1	public
+1310	1	university, historically Black, public
+1311	1	college, private (nonprofit)
+1312	1	university, private (nonprofit)
+1313	1	college, private (nonprofit)
+1314	1	public
+1315	1	private (nonprofit)
+1316	1	public
+1317	1	private (nonprofit)
+1318	1	college, private (nonprofit)
+1319	1	private (proprietary)
+1320	1	university, private (nonprofit)
+1321	1	college, private (nonprofit)
+1322	1	university, public
+1323	1	university, public
+1324	1	university, public
+1325	1	university, public
+1326	1	university, public
+1327	1	university, public
+1328	1	university, public
+1329	1	university, public
+1330	1	university, public
+1331	1	university, public
+1332	1	public
+1333	1	college, private (nonprofit)
+1334	1	public
+1335	1	public
+1336	1	university, private (nonprofit)
+1337	1	college, private (nonprofit)
+1338	1	institute, private (nonprofit)
+1339	1	historically Black, public
+1340	1	public
+1341	1	public
+1342	1	public
+1343	1	public
+1344	1	college, public
+1345	1	public
+1346	1	private (proprietary)
+1347	1	public
+1348	1	public
+1349	1	college, private (nonprofit)
+1350	1	public
+1351	1	university, private (nonprofit)
+1352	1	university, private (nonprofit)
+1353	1	public
+1354	1	public
+1355	1	public
+1356	1	university, private (nonprofit)
+1357	1	college, private (nonprofit)
+1358	1	private (proprietary)
+1359	1	institute, private (proprietary)
+1360	1	college, public
+1361	1	college, private (nonprofit)
+1362	1	university, historically Black, private (nonprofit)
+1363	1	public
+1364	1	college, private (nonprofit)
+1365	1	public
+1366	1	university, private (nonprofit)
+1367	1	university, private (nonprofit)
+1368	1	private (nonprofit)
+1369	1	university, private (nonprofit)
+1370	1	university, private (nonprofit)
+1371	1	university, private (nonprofit)
+1372	1	university, private (nonprofit)
+1373	1	private (nonprofit)
+1374	1	public
+1375	1	public
+1376	1	college, private (nonprofit)
+1377	1	public
+1378	1	public
+1379	1	college, historically Black, private (nonprofit)
+1380	1	private (nonprofit)
+1381	1	college, private (nonprofit)
+1382	1	public
+1383	1	nursing school, private (proprietary)
+1384	1	public
+1385	1	college, private (nonprofit)
+1386	1	college, private (nonprofit)
+1387	1	university, private (nonprofit)
+1388	1	university, private (nonprofit)
+1389	1	college, private (nonprofit)
+1390	1	private (nonprofit)
+1391	1	college, public
+1392	1	college, private (nonprofit)
+1393	1	college, private (nonprofit)
+1394	1	college, private (nonprofit)
+1395	1	college, private (nonprofit)
+1396	1	university, private (nonprofit)
+1397	1	college, private (nonprofit)
+1398	1	public
+1399	1	private (proprietary)
+1400	1	public
+1401	1	public
+1402	1	private (proprietary)
+1403	1	college, public
+1404	1	university, private (nonprofit)
+1405	1	university, private (nonprofit)
+1406	1	public
+1407	1	public
+1408	1	private (nonprofit)
+1409	1	private (nonprofit)
+1410	1	public
+1411	1	university, public
+1412	1	public
+1413	1	university, private (nonprofit)
+1414	1	college, private (nonprofit)
+1415	1	university, private (nonprofit)
+1416	1	college, private (nonprofit)
+1417	1	university, public
+1418	1	public
+1419	1	public
+1420	1	public
+1421	1	college, private (nonprofit)
+1422	1	university, private (nonprofit)
+1423	1	public
+1424	1	public
+1425	1	university, historically Black, public
+1426	1	university, public
+1427	1	college, private (nonprofit)
+1428	1	university, public
+1429	1	private (nonprofit)
+1430	1	university, public
+1431	1	public
+1432	1	college, private (nonprofit)
+1433	1	public
+1434	1	university, public
+1435	1	university, private (nonprofit)
+1436	1	public
+1437	1	public
+1438	1	university, private (nonprofit)
+1439	1	public
+1440	1	public
+1441	1	public
+1442	1	university, public
+1443	1	college, public
+1444	1	public
+1445	1	college, public
+1446	1	university, public
+1447	1	public
+1448	1	university, private (nonprofit)
+1449	1	college, private (nonprofit)
+1450	1	public
+1451	1	college, private (nonprofit)
+1452	1	college, private (nonprofit)
+1453	1	university, private (nonprofit)
+1454	1	college, private (nonprofit)
+1455	1	university, private (nonprofit)
+1456	1	university, private (nonprofit)
+1457	1	college, public
+1458	1	public
+1459	1	public
+1460	1	public
+1461	1	university, private (nonprofit)
+1462	1	college, public
+1463	1	college, public
+1464	1	institute, public
+1465	1	college, public
+1466	1	university, public
+1467	1	university, private (nonprofit)
+1468	1	college, private (nonprofit)
+1469	1	private (proprietary)
+1470	1	public
+1471	1	public
+1472	1	private (proprietary)
+1473	1	public
+1474	1	college, private (nonprofit)
+1475	1	public
+1476	1	university, private (nonprofit)
+1477	1	private (proprietary)
+1478	1	college, private (nonprofit)
+1479	1	college, private (nonprofit)
+1480	1	college, private (nonprofit)
+1481	1	university, private (nonprofit)
+1482	1	university, private (nonprofit)
+1483	1	university, historically Black, public
+1484	1	public
+1485	1	university, public
+1486	1	college, private (nonprofit)
+1487	1	public
+1488	1	private (nonprofit)
+1489	1	public
+1490	1	public
+1491	1	public
+1492	1	college, private (nonprofit)
+1493	1	college, private (nonprofit)
+1494	1	public
+1495	1	college, private (nonprofit)
+1496	1	college, private (nonprofit)
+1497	1	public
+1498	1	public
+1499	1	college, private (nonprofit)
+1500	1	public
+1501	1	college, public
+1502	1	college, private (nonprofit)
+1503	1	university, private (nonprofit)
+1504	1	college, private (nonprofit)
+1505	1	college, private (nonprofit)
+1506	1	public
+1507	1	public
+1508	1	public
+1509	1	private (nonprofit)
+1510	1	college, private (nonprofit)
+1511	1	private (nonprofit)
+1512	1	private (nonprofit)
+1513	1	private (nonprofit)
+1514	1	college, public
+1515	1	college, public
+1516	1	college, private (nonprofit)
+1517	1	public
+1518	1	college, private (nonprofit)
+1519	1	public
+1520	1	university, public
+1521	1	public
+1522	1	public
+1523	1	college, private (nonprofit)
+1524	1	private (nonprofit)
+1525	1	public
+1526	1	university, private (nonprofit)
+1527	1	public
+1528	1	college, private (nonprofit)
+1529	1	public
+1530	1	public
+1531	1	college, private (nonprofit)
+1532	1	private (nonprofit)
+1533	1	college, private (nonprofit)
+1534	1	university, private (nonprofit)
+1535	1	public
+1536	1	private (nonprofit)
+1537	1	university, private (nonprofit)
+1538	1	university, private (nonprofit)
+1539	1	institute, private (nonprofit)
+1540	1	public
+1541	1	university, private (nonprofit)
+1542	1	public
+1543	1	college, private (nonprofit)
+1544	1	university, private (nonprofit)
+1545	1	public
+1546	1	10 Month Program, private (proprietary)
+1547	1	college, private (nonprofit)
+1548	1	university, private (nonprofit)
+1549	1	college, private (nonprofit)
+1550	1	college, private (nonprofit)
+1551	1	private (nonprofit)
+1552	1	university, private (nonprofit)
+1553	1	university, private (nonprofit)
+1554	1	Conservatory, private (nonprofit)
+1555	1	public
+1556	1	university, private (nonprofit)
+1557	1	university, historically Black, private (nonprofit)
+1558	1	college, private (nonprofit)
+1559	1	college, private (nonprofit)
+1560	1	private (proprietary)
+1561	1	university, public
+1562	1	university, public
+1563	1	university, public
+1564	1	university, public
+1565	1	university, public
+1566	1	university, private (nonprofit)
+1567	1	public
+1568	1	Distance Education, public
+1569	1	university, private (nonprofit)
+1570	1	university, private (nonprofit)
+1571	1	university, private (nonprofit)
+1572	1	university, private (nonprofit)
+1573	1	university, private (nonprofit)
+1574	1	college, private (proprietary)
+1575	1	university, private (nonprofit)
+1576	1	private (proprietary)
+1577	1	public
+1578	1	college, private (nonprofit)
+1579	1	public
+1580	1	public
+1581	1	public
+1582	1	college, public
+1583	1	university, public
+1584	1	public
+1585	1	public
+1586	1	public
+1587	1	private (proprietary)
+1588	1	public
+1589	1	college, private (nonprofit)
+1590	1	private (proprietary)
+1591	1	private (proprietary)
+1592	1	private (proprietary)
+1593	1	public
+1594	1	public
+1595	1	public
+1596	1	public
+1597	1	public
+1598	1	public
+1599	1	public
+1600	1	public
+1601	1	public
+1602	1	public
+1603	1	public
+1604	1	university, private (nonprofit)
+1605	1	college, public
+1606	1	public
+1607	1	college, private (nonprofit)
+1608	1	public
+1609	1	university, private (nonprofit)
+1610	1	university, private (nonprofit)
+1611	1	university, private (nonprofit)
+1612	1	college, private (nonprofit)
+1613	1	university, historically Black, private (nonprofit)
+1614	1	college, public
+1615	1	college, private (nonprofit)
+1616	1	public
+1617	1	college, private (nonprofit)
+1618	1	college, private (nonprofit)
+1619	1	college, private (nonprofit)
+1620	1	historically Black, public
+1621	1	public
+1622	1	public
+1623	1	university, public
+1624	1	public
+1625	1	university, private (nonprofit)
+1626	1	college, private (nonprofit)
+1627	1	college, private (nonprofit)
+1628	1	college, private (nonprofit)
+1629	1	university, private (nonprofit)
+1630	1	college, private (nonprofit)
+1631	1	college, private (nonprofit)
+1632	1	university, private (nonprofit)
+1633	1	public
+1634	1	college, private (nonprofit)
+1635	1	university, public
+1636	1	private (nonprofit)
+1637	1	public
+1638	1	university, historically Black, public
+1639	1	college, public
+1640	1	public
+1641	1	private (proprietary)
+1642	1	historically Black, public
+1643	1	private (nonprofit)
+1644	1	college, private (nonprofit)
+1645	1	public
+1646	1	public
+1647	1	public
+1648	1	public
+1649	1	university, public
+1650	1	public
+1651	1	college, private (nonprofit)
+1652	1	college, private (proprietary)
+1653	1	university, private (nonprofit)
+1654	1	university, private (nonprofit)
+1655	1	university, private (nonprofit)
+1656	1	public
+1657	1	public
+1658	1	public
+1659	1	public
+1660	1	public
+1661	1	university, private (nonprofit)
+1662	1	university, public
+1663	1	college, private (nonprofit)
+1664	1	university, private (nonprofit)
+1665	1	university, private (nonprofit)
+1666	1	public
+1667	1	college, private (nonprofit)
+1668	1	university, private (nonprofit)
+1669	1	college, public
+1670	1	university, private (nonprofit)
+1671	1	private (nonprofit)
+1672	1	college, private (nonprofit)
+1673	1	college, private (nonprofit)
+1674	1	college, private (nonprofit)
+1675	1	private (nonprofit)
+1676	1	university, private (nonprofit)
+1677	1	university, historically Black, public
+1678	1	university, private (nonprofit)
+1679	1	college, private (nonprofit)
+1680	1	college, private (nonprofit)
+1681	1	public
+1682	1	college, historically Black, private (nonprofit)
+1683	1	university, public
+1684	1	public
+1685	1	university, private (nonprofit)
+1686	1	university, private (nonprofit)
+1687	1	public
+1688	1	college, public
+1689	1	public
+1690	1	college, public
+1691	1	college, public
+1692	1	public
+1693	1	private (nonprofit)
+1694	1	college, private (nonprofit)
+1695	1	university, public
+1696	1	public
+1697	1	university, public
+1698	1	public
+1699	1	public
+1700	1	public
+1701	1	public
+1702	1	public
+1703	1	public
+1704	1	public
+1705	1	public
+1706	1	public
+1707	1	public
+1708	1	public
+1709	1	public
+1710	1	public
+1711	1	public
+1712	1	college, private (nonprofit)
+1713	1	public
+1714	1	university, private (nonprofit)
+1715	1	university, private (nonprofit)
+1716	1	public
+1717	1	public
+1718	1	college, private (nonprofit)
+1719	1	public
+1720	1	college, private (nonprofit)
+1721	1	college, public
+1722	1	university, private (nonprofit)
+1723	1	private (nonprofit)
+1724	1	college, private (nonprofit)
+1725	1	private (nonprofit)
+1726	1	university, private (nonprofit)
+1727	1	public
+1728	1	college, private (nonprofit)
+1729	1	college, private (nonprofit)
+1730	1	university, public
+1731	1	public
+1732	1	college, private (nonprofit)
+1733	1	college, private (nonprofit)
+1734	1	university, private (nonprofit)
+1735	1	college, private (nonprofit)
+1736	1	college, private (nonprofit)
+1737	1	public
+1738	1	college, private (nonprofit)
+1739	1	college, private (nonprofit)
+1740	1	college, private (nonprofit)
+1741	1	university, private (nonprofit)
+1742	1	university, private (nonprofit)
+1743	1	community college, public
+1744	1	college, public
+1745	1	institute, private (nonprofit)
+1746	1	college, private (nonprofit)
+1747	1	public
+1748	1	public
+1749	1	university, public
+1750	1	private (proprietary)
+1751	1	private (proprietary)
+1752	1	public
+1753	1	public
+1754	1	university, public
+1755	1	public
+1756	1	private (proprietary)
+1757	1	university, private (nonprofit)
+1758	1	university, private (nonprofit)
+1759	1	college, private (nonprofit)
+1760	1	college, historically Black, public
+1761	1	private (proprietary)
+1762	1	university, public
+1763	1	university, public
+1764	1	university, public
+1765	1	college, public
+1766	1	public
+1767	1	public
+1768	1	university, private (nonprofit)
+1769	1	diploma/certificate, public
+1770	1	college, private (nonprofit)
+1771	1	college, private (nonprofit)
+1772	1	college, private (nonprofit)
+1773	1	public
+1774	1	college, public
+1775	1	public
+1776	1	public
+1777	1	public
+1778	1	college, private (nonprofit)
+1779	1	college, private (nonprofit)
+1780	1	college, private (nonprofit)
+1781	1	public
+1782	1	college, public
+1783	1	university, public
+1784	1	public
+1785	1	public
+1786	1	public
+1787	1	public
+1788	1	university, public
+1789	1	university, private (nonprofit)
+1790	1	college, private (nonprofit)
+1791	1	public
+1792	1	public
+1793	1	university, private (nonprofit)
+1794	1	public
+1795	1	college, public
+1796	1	university, public
+1797	1	public
+1798	1	public
+1799	1	public
+1800	1	public
+1801	1	college, private (nonprofit)
+1802	1	college, private (nonprofit)
+1803	1	university, public
+1804	1	university, private (nonprofit)
+1805	1	college, historically Black, private (nonprofit)
+1806	1	public
+1807	1	university, public
+1808	1	college, private (nonprofit)
+1809	1	university, private (nonprofit)
+1810	1	college, private (nonprofit)
+1811	1	college, private (nonprofit)
+1812	1	public
+1813	1	public
+1814	1	public
+1815	1	public
+1816	1	college, private (nonprofit)
+1817	1	public
+1818	1	university, public
+1819	1	public
+1820	1	public
+1821	1	public
+1822	1	university, private (nonprofit)
+1823	1	public
+1824	1	college, private (nonprofit)
+1825	1	public
+1826	1	public
+1827	1	university, public
+1828	1	university, historically Black, public
+1829	1	university, private (nonprofit)
+1830	1	private (proprietary)
+1831	1	college, private (nonprofit)
+1832	1	university, public
+1833	1	public
+1834	1	public
+1835	1	university, public
+1836	1	university, private (nonprofit)
+1837	1	university, public
+1838	1	public
+1839	1	public
+1840	1	private (proprietary)
+1841	1	college, private (nonprofit)
+1842	1	public
+1843	1	public
+1844	1	public
+1845	1	public
+1846	1	college, private (nonprofit)
+1847	1	public
+1848	1	public
+1849	1	public
+1850	1	public
+1851	1	college, private (nonprofit)
+1852	1	university, private (nonprofit)
+1853	1	college, private (nonprofit)
+1854	1	public
+1855	1	public
+1856	1	public
+1857	1	public
+1858	1	college, private (nonprofit)
+1859	1	university, private (nonprofit)
+1860	1	public
+1861	1	public
+1862	1	university, public
+1863	1	public
+1864	1	public
+1865	1	public
+1866	1	university, public
+1867	1	public
+1868	1	institute, private (nonprofit)
+1869	1	institute, private (nonprofit)
+1870	1	institute, private (nonprofit)
+1871	1	institute, private (nonprofit)
+1872	1	institute, private (nonprofit)
+1873	1	institute, private (nonprofit)
+1874	1	institute, private (nonprofit)
+1875	1	institute, private (nonprofit)
+1876	1	institute, private (nonprofit)
+1877	1	institute, private (nonprofit)
+1878	1	institute, private (nonprofit)
+1879	1	institute, private (nonprofit)
+1880	1	institute, private (nonprofit)
+1881	1	public
+1882	1	public
+1883	1	public
+1884	1	college, private (nonprofit)
+1885	1	college, private (nonprofit)
+1886	1	university, public
+1887	1	public
+1888	1	college, historically Black, private (nonprofit)
+1889	1	public
+1890	1	private (proprietary)
+1891	1	public
+1892	1	college, private (nonprofit)
+1893	1	college, private (nonprofit)
+1894	1	college, private (nonprofit)
+1895	1	college, private (nonprofit)
+1896	1	college, private (nonprofit)
+1897	1	college, private (nonprofit)
+1898	1	college, private (nonprofit)
+1899	1	university, private (nonprofit)
+1900	1	college, private (nonprofit)
+1901	1	college, private (nonprofit)
+1902	1	private (proprietary)
+1903	1	public
+1904	1	public
+1905	1	public
+1906	1	college, private (nonprofit)
+1907	1	public
+1908	1	public
+1909	1	college, private (nonprofit)
+1910	1	university, private (nonprofit)
+1911	1	university, private (nonprofit)
+1912	1	university, private (nonprofit)
+1913	1	public
+1914	1	public
+1915	1	public
+1916	1	college, private (nonprofit)
+1917	1	university, private (nonprofit)
+1918	1	private (nonprofit)
+1919	1	college, private (nonprofit)
+1920	1	college, public
+1921	1	private (nonprofit)
+1922	1	college, private (nonprofit)
+1923	1	private (proprietary)
+1924	1	private (nonprofit)
+1925	1	university, private (nonprofit)
+1926	1	public
+1927	1	public
+1928	1	public
+1929	1	university, public
+1930	1	university, public
+1931	1	university, public
+1932	1	public
+1933	1	public
+1934	1	public
+1935	1	college, private (nonprofit)
+1936	1	institute, private (proprietary)
+1937	1	First Professional, private (nonprofit)
+1938	1	college, public
+1939	1	college, private (nonprofit)
+1940	1	college
+1941	1	college, private (nonprofit)
+1942	1	private (nonprofit)
+1943	1	college, private (nonprofit)
+1944	1	university, private (nonprofit)
+1945	1	private (proprietary)
+1946	1	university, private (nonprofit)
+1947	1	public
+1948	1	public
+1949	1	private (nonprofit)
+1950	1	school of the arts, public
+1951	1	college, private (nonprofit)
+1952	1	public
+1953	1	public
+1954	1	public
+1955	1	public
+1956	1	university, private (nonprofit)
+1957	1	university, public
+1958	1	public
+1959	1	public
+1960	1	college, private (nonprofit)
+1961	1	public
+1962	1	public
+1963	1	public
+1964	1	university, private (nonprofit)
+1965	1	public
+1966	1	public
+1967	1	public
+1968	1	public
+1969	1	public
+1970	1	university, public
+1971	1	public
+1972	1	university, public
+1973	1	university, private (nonprofit)
+1974	1	public
+1975	1	university, public
+1976	1	university, public
+1977	1	university, public
+1978	1	college, public
+1979	1	public
+1980	1	public
+1981	1	public
+1982	1	public
+1983	1	college, private (nonprofit)
+1984	1	public
+1985	1	public
+1986	1	university, public
+1987	1	university, private (nonprofit)
+1988	1	public
+1989	1	university, private (nonprofit)
+1990	1	public
+1991	1	college, private (nonprofit)
+1992	1	public
+1993	1	public
+1994	1	university, public
+1995	1	university, private (nonprofit)
+1996	1	university, public
+1997	1	university, private (nonprofit)
+1998	1	university, private (nonprofit)
+1999	1	university, private (nonprofit)

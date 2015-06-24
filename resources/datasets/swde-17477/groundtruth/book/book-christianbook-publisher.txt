@@ -1,0 +1,2002 @@
+﻿book	christianbook	publisher
+2000	2000	2000	395
+0000	1	Value Books
+0001	1	Value Books
+0002	1	Barbour Publishing
+0003	1	WaterBrook Press
+0004	1	Bethany House
+0005	1	Barbour Publishing
+0006	1	Multnomah Publishers, Inc.
+0007	1	Thomas Nelson
+0008	1	Harvest House Publishers
+0009	1	Revell
+0010	1	Zondervan
+0011	1	Value Books
+0012	1	Gospel Light
+0013	1	Barbour Publishing
+0014	1	Tyndale House
+0015	1	Northfield Press
+0016	1	Zondervan
+0017	1	Harvest House Publishers
+0018	1	Standard Publishing
+0019	1	Revell
+0020	1	Value Books
+0021	1	Tyndale House
+0022	1	Thomas Nelson
+0023	1	Thomas Nelson
+0024	1	Barbour Publishing
+0025	1	Baker
+0026	1	Thomas Nelson
+0027	1	Harvest House Publishers
+0028	1	Crossway Books & Bibles
+0029	1	Tyndale House
+0030	1	Harvest House Publishers
+0031	1	Multnomah Publishers, Inc.
+0032	1	Gospel Light
+0033	1	Zondervan
+0034	1	Bethany House
+0035	1	WaterBrook Press
+0036	1	Zondervan
+0037	1	Barbour Publishing
+0038	1	Thomas Nelson
+0039	1	New Leaf Publishing Group
+0040	1	Monarch Books
+0041	1	Bridge-logos Publishing
+0042	1	Inter-varsity Press
+0043	1	Thomas Nelson
+0044	1	Jove
+0045	1	Thomas Nelson
+0046	1	Thomas Nelson
+0047	1	Tyndale House
+0048	1	Thomas Nelson
+0049	1	Crossway Books & Bibles
+0050	1	Tyndale House
+0051	1	Concordia Publishing House
+0052	1	Bethany House
+0053	1	Zondervan
+0054	1	Baker
+0055	1	Standard Publishing
+0056	1	Thomas Nelson
+0057	1	IVP Connect
+0058	1	Zondervan
+0059	1	David C. Cook
+0060	1	Wm. B. Eerdmans Publishing Co.
+0061	1	Multnomah Publishers, Inc.
+0062	1	Amg Publishers
+0063	1	Baker Books
+0064	1	Thomas Nelson
+0065	1	David C. Cook
+0066	1	David C. Cook
+0067	1	Tyndale House
+0068	1	New Leaf Publishing Group
+0069	1	Thomas Nelson
+0070	1	Random House, Inc
+0071	1	Fidelis Books
+0072	1	Destiny Image
+0073	1	Baker
+0074	1	Baker Academic
+0075	1	Crossway Books & Bibles
+0076	1	Zondervan
+0077	1	Houghton-mifflin
+0078	1	The Word For Today
+0079	1	Zondervan
+0080	1	Bethany House
+0081	1	Focus on the Family
+0082	1	Zondervan
+0083	1	HarperCollins
+0084	1	IVP Academic
+0085	1	Zondervan
+0086	1	NAV Press
+0087	1	Inter-varsity Press
+0088	1	Cumberland House Publishing
+0089	1	Thomas Nelson
+0090	1	Zondervan
+0091	1	Journeyforth
+0092	1	Moody Publishers
+0093	1	David C. Cook
+0094	1	Thomas Nelson
+0095	1	Jossey-Bass
+0096	1	Tyndale House
+0097	1	Thomas Nelson
+0098	1	Thomas Nelson
+0099	1	Bethany House
+0100	1	Kregel Academic & Professional
+0101	1	Harvest House Publishers
+0102	1	Multnomah Publishers, Inc.
+0103	1	FaithWords
+0104	1	Moody Publishers
+0105	1	Random House, Inc
+0106	1	Zondervan
+0107	1	Bethany House
+0108	1	Bethany House
+0109	1	Thomas Nelson
+0110	1	Crossway Books & Bibles
+0111	1	Baker
+0112	1	Whitaker House Publishers
+0113	1	Thomas Nelson
+0114	1	Bethany House
+0115	1	Inter-varsity Press
+0116	1	Zonderkidz
+0117	1	Grace Acres Press
+0118	1	Zondervan
+0119	1	HarperOne
+0120	1	Dover Publications
+0121	1	Harvest House Publishers
+0122	1	Tyndale House
+0123	1	Zondervan
+0124	1	Tyndale House
+0125	1	Zondervan
+0126	1	Thomas Nelson
+0127	1	Concordia Publishing House
+0128	1	Bethany House
+0129	1	Focus On The Family
+0130	1	Wm. B. Eerdmans Publishing Co.
+0131	1	Revell
+0132	1	Zondervan
+0133	1	Kregel Publications
+0134	1	Dover Publications
+0135	1	Baker
+0136	1	Revell
+0137	1	Crossway Books & Bibles
+0138	1	Inter-varsity Press
+0139	1	Regal Books
+0140	1	Destiny Image
+0141	1	Countryman
+0142	1	Whitaker House Publishers
+0143	1	Baker Books
+0144	1	Thomas Nelson
+0145	1	Multnomah Publishers, Inc.
+0146	1	Lifeway
+0147	1	Countryman
+0148	1	Mott Media, Llc
+0149	1	FaithWords
+0150	1	Harvest House Publishers
+0151	1	Grupo Nelson
+0152	1	Avon Inspire
+0153	1	Casa Creacion
+0154	1	Tyndale House
+0155	1	Zondervan
+0156	1	Hendrickson Publishers
+0157	1	Multnomah Publishers, Inc.
+0158	1	Augsburg Fortress
+0159	1	Crossway Books & Bibles
+0160	1	Crossway Books & Bibles
+0161	1	Thomas Nelson
+0162	1	Barbour Publishing
+0163	1	Bethany House
+0164	1	Inter-varsity Press
+0165	1	Barbour Publishing
+0166	1	Wm. B. Eerdmans Publishing Co.
+0167	1	Thomas Nelson
+0168	1	Bethany House
+0169	1	Zondervan
+0170	1	Bethany House
+0171	1	Bethany House
+0172	1	Moody Publishers
+0173	1	Focus Publishing Incorporated
+0174	1	Hendrickson Publishers
+0175	1	InterVarsity Press
+0176	1	Crossway Books & Bibles
+0177	1	Thomas Nelson
+0178	1	Thomas Nelson
+0179	1	Summerside Press
+0180	1	Multnomah Publishers, Inc.
+0181	1	Harvest House Publishers
+0182	1	Regal Books
+0183	1	David C. Cook
+0184	1	B & H Publishing Group
+0185	1	David C. Cook
+0186	1	Harvest House Publishers
+0187	1	Barbour Publishing
+0188	1	IVP Books
+0189	1	Wm. B. Eerdmans Publishing Co.
+0190	1	Kregel Publications
+0191	1	David C. Cook
+0192	1	Wm. B. Eerdmans Publishing Co.
+0193	1	Banner Of Truth
+0194	1	Tyndale House
+0195	1	Moody Publishers
+0196	1	Moody Publishers
+0197	1	Thomas Nelson
+0198	1	Harvest House Publishers
+0199	1	Bethany House
+0200	1	Thomas Nelson
+0201	1	Gospel Light
+0202	1	David C. Cook
+0203	1	Tyndale House
+0204	1	Thomas Nelson
+0205	1	Gospel Light
+0206	1	Summerside Press
+0207	1	Thomas Nelson
+0208	1	Willow Creek Association
+0209	1	Bethany House
+0210	1	Tommy Nelson
+0211	1	Harvest House Publishers
+0212	1	Baker
+0213	1	Random House, Inc
+0214	1	Moody Publishers
+0215	1	Progeny Press
+0216	1	Baker
+0217	1	Zonderkidz
+0218	1	Thomas Nelson
+0219	1	Baker
+0220	1	Harvest House Publishers
+0221	1	Random House, Inc
+0222	1	Crossway Books & Bibles
+0223	1	Zondervan
+0224	1	Bethany House
+0225	1	Westminster John Knox Press
+0226	1	Bethany House
+0227	1	Youth Specialties
+0228	1	Inter-varsity Press
+0229	1	Bridge-logos Publishing
+0230	1	IVP Connect
+0231	1	Baker Books
+0232	1	Steeple Hill Books
+0233	1	Thomas Nelson
+0234	1	Zondervan
+0235	1	Thomas Nelson
+0236	1	Bethlehem Books
+0237	1	Crossway Books & Bibles
+0238	1	Harvest House Publishers
+0239	1	Crossway Books & Bibles
+0240	1	Thomas Nelson
+0241	1	Concordia Publishing House
+0242	1	Tyndale House
+0243	1	Baker Academic
+0244	1	Whitaker House Publishers
+0245	1	Multnomah Books
+0246	1	FaithWords
+0247	1	Moody Publishers
+0248	1	Kregel Publications
+0249	1	DayMaker Inspirational Gifts
+0250	1	Bethany House
+0251	1	Tommy Nelson
+0252	1	Concordia Publishing House
+0253	1	Zondervan
+0254	1	Zondervan
+0255	1	Mott Media, Llc
+0256	1	David C. Cook
+0257	1	Thomas Nelson
+0258	1	Zondervan
+0259	1	Thomas Nelson
+0260	1	Regal Books
+0261	1	Amg Publishers
+0262	1	Kregel Publications
+0263	1	NAV Press
+0264	1	Bethany House
+0265	1	Zondervan
+0266	1	Thomas Nelson
+0267	1	Summerside Press
+0268	1	WaterBrook Press
+0269	1	Concordia Publishing House
+0270	1	Zondervan
+0271	1	Thomas Nelson
+0272	1	Tyndale House
+0273	1	Gospel Light
+0274	1	Thomas Nelson
+0275	1	Inter-varsity Press
+0276	1	Crossway Books & Bibles
+0277	1	Baker
+0278	1	Barbour Publishing
+0279	1	CLC
+0280	1	Harvest House Publishers
+0281	1	Hendrickson Publishers
+0282	1	Bethany House
+0283	1	Zondervan
+0284	1	Whitaker House Publishers
+0285	1	B&H Academic
+0286	1	B & H Publishing Group
+0287	1	Zonderkidz
+0288	1	Tyndale House
+0289	1	Moody Publishers
+0290	1	Thomas Nelson
+0291	1	Thomas Nelson
+0292	1	Moody Publishers
+0293	1	City Christian Publishing
+0294	1	Thomas Nelson
+0295	1	FaithWords
+0296	1	Abingdon Press
+0297	1	Harvest House Publishers
+0298	1	Thomas Nelson
+0299	1	Tyndale House
+0300	1	Bethany House
+0301	1	Tyndale House
+0302	1	Windblown Media
+0303	1	B & H Publishing Group
+0304	1	Dover Publications
+0305	1	Harvest House Publishers
+0306	1	Thomas Nelson
+0307	1	Wm. B. Eerdmans Publishing Co.
+0308	1	Alpha Usa
+0309	1	Faith Library Publications
+0310	1	Concordia Publishing House
+0311	1	Concordia Publishing House
+0312	1	Inter-varsity Press
+0313	1	Harvest House Publishers
+0314	1	W W Norton
+0315	1	David C. Cook
+0316	1	Barbour Publishing
+0317	1	Crossway Books & Bibles
+0318	1	Aladdin
+0319	1	New Hope Publishers
+0320	1	Moody Publishers
+0321	1	Baker
+0322	1	Zonderkidz
+0323	1	Houghton-mifflin
+0324	1	Harvest House Publishers
+0325	1	NAV Press
+0326	1	Hendrickson Publishers
+0327	1	Units Unique
+0328	1	Gospel Light
+0329	1	Thomas Nelson
+0330	1	Zonderkidz
+0331	1	Zonderkidz
+0332	1	Multnomah Gifts
+0333	1	Hendrickson Publishers
+0334	1	Baker Academic
+0335	1	Thomas Nelson
+0336	1	Zonderkidz
+0337	1	Willow Creek Association
+0338	1	Inter-varsity Press
+0339	1	NAV Press
+0340	1	Moody Publishers
+0341	1	David C. Cook
+0342	1	Moody Publishers
+0343	1	Wm. B. Eerdmans Publishing Co.
+0344	1	Harvest House Publishers
+0345	1	Bethany House
+0346	1	Thomas Nelson
+0347	1	Harvest House Publishers
+0348	1	Harvest House Publishers
+0349	1	Steeple Hill Books
+0350	1	Zondervan Youth Specialties
+0351	1	Zondervan
+0352	1	Willow Creek Association
+0353	1	Thomas Nelson
+0354	1	Thomas Nelson
+0355	1	Chosen
+0356	1	Thomas Nelson
+0357	1	Concordia Publishing House
+0358	1	Tyndale House
+0359	1	Zondervan
+0360	1	B & H Publishing Group
+0361	1	Barbour Publishing
+0362	1	Guidepost Books
+0363	1	Thomas Nelson
+0364	1	Thomas Nelson
+0365	1	Zondervan
+0366	1	Barbour Publishing
+0367	1	IVP Academic
+0368	1	Plume
+0369	1	Thomas Nelson
+0370	1	Thomas Nelson
+0371	1	Dover Publications
+0372	1	Zondervan
+0373	1	Moody Publishers
+0374	1	David C. Cook
+0375	1	Bridge-logos Publishing
+0376	1	Thomas Nelson
+0377	1	Moody Publishers
+0378	1	Revell
+0379	1	Barbour Publishing
+0380	1	Bethany House
+0381	1	Random House, Inc
+0382	1	Crossroad
+0383	1	Inter-varsity Press
+0384	1	Multnomah Publishers, Inc.
+0385	1	Thomas Nelson
+0386	1	Zondervan
+0387	1	Bethany House
+0388	1	Zondervan
+0389	1	Standard Publishing
+0390	1	Christian Liberty Press
+0391	1	Multnomah Publishers, Inc.
+0392	1	Kregel Publications
+0393	1	Amg Publishers
+0394	1	Tyndale House
+0395	1	Zondervan
+0396	1	HarperCollins
+0397	1	Moody Publishers
+0398	1	Zonderkidz
+0399	1	Crossway Books & Bibles
+0400	1	Thomas Nelson
+0401	1	Whitaker House Publishers
+0402	1	Wm. B. Eerdmans Publishing Co.
+0403	1	Zondervan
+0404	1	Random House, Inc
+0405	1	Baker Academic
+0406	1	Random House, Inc
+0407	1	Baker
+0408	1	Brazos Press
+0409	1	Thomas Nelson
+0410	1	Crossway Books & Bibles
+0411	1	New Leaf Publishing Group
+0412	1	Emerald Books
+0413	1	Tyndale House
+0414	1	Destiny Image
+0415	1	Crossway Books & Bibles
+0416	1	InterVarsity Press
+0417	1	Baker
+0418	1	Faith Library Publications
+0419	1	Zonderkidz
+0420	1	Zondervan
+0421	1	Barbour Publishing
+0422	1	Harvest House Publishers
+0423	1	Random House, Inc
+0424	1	Bethany House
+0425	1	Harvest House Publishers
+0426	1	IVP Connect
+0427	1	Thomas Nelson
+0428	1	B & H Publishing Group
+0429	1	Crossway Books & Bibles
+0430	1	Jossey-Bass
+0431	1	Zondervan
+0432	1	NAV Press
+0433	1	B & H Publishing Group
+0434	1	Inter-varsity Press
+0435	1	Jossey-Bass
+0436	1	Moody Publishers
+0437	1	Thomas Nelson
+0438	1	Harvest House Publishers
+0439	1	Thomas Nelson
+0440	1	Living Books
+0441	1	Howard Books
+0442	1	Kregel Kidzone
+0443	1	David C. Cook
+0444	1	Thomas Nelson
+0445	1	Zondervan
+0446	1	Thomas Nelson
+0447	1	B & H Publishing Group
+0448	1	Barbour Publishing
+0449	1	Westminster John Knox Press
+0450	1	Barbour Publishing
+0451	1	David C. Cook
+0452	1	Zondervan
+0453	1	Zondervan
+0454	1	Zondervan
+0455	1	Zondervan
+0456	1	Gospel Light
+0457	1	Zondervan
+0458	1	Inter-varsity Press
+0459	1	Zondervan
+0460	1	Howard Books
+0461	1	Messianic Jewish Publishers
+0462	1	Youth Specialties
+0463	1	Tyndale House
+0464	1	Thomas Nelson
+0465	1	Whitaker House Publishers
+0466	1	Thomas Nelson
+0467	1	Free Press
+0468	1	Wm. B. Eerdmans Publishing Co.
+0469	1	Whitaker House Publishers
+0470	1	Howard Books
+0471	1	HarperCollins
+0472	1	Monarch Books
+0473	1	Charlesbridge
+0474	1	Thomas Nelson
+0475	1	Puffin
+0476	1	Strang Communications
+0477	1	Cascade Books
+0478	1	Continuum International
+0479	1	Houghton-mifflin
+0480	1	Living Stream Ministry
+0481	1	Walker Large Print
+0482	1	Paulist Press
+0483	1	Christian Focus Publications
+0484	1	Paulist Press
+0485	1	Hope Publishing House
+0486	1	Kerygma Publishing
+0487	1	Random House, Inc
+0488	1	David C. Cook
+0489	1	IVP Academic
+0490	1	Pleasant Word (winepress Pub)
+0491	1	Abingdon Press
+0492	1	Paulist Press
+0493	1	HarperOne
+0494	1	Houghton-mifflin
+0495	1	HarperOne
+0496	1	Philomel Books
+0497	1	Tyndale House
+0498	1	Orbis Books
+0499	1	Penguin
+0500	1	Frances Lincoln Children's Books
+0501	1	Houghton-mifflin
+0502	1	Augsburg Fortress
+0503	1	Cascade Books
+0504	1	Ave Maria Press
+0505	1	WaterBrook Press
+0506	1	Simon & Schuster Australia
+0507	1	Concordia Publishing House
+0508	1	Passing The Baton International
+0509	1	Abingdon Press
+0510	1	Ave Maria Press
+0511	1	Liturgical Press
+0512	1	Evangelical Press
+0513	1	HarperOne
+0514	1	Ignatius Press
+0515	1	Society Of Biblical Literature
+0516	1	Harrison House
+0517	1	Q Place (neighborhood Bible Study)
+0518	1	Abingdon Press
+0519	1	Winepress Publishing
+0520	1	Vida
+0521	1	Thomas Nelson
+0522	1	Kregel Publications
+0523	1	Strang Communications
+0524	1	Zondervan
+0525	1	HMH Books
+0526	1	Wipf & Stock
+0527	1	Zondervan
+0528	1	Multnomah Publishers, Inc.
+0529	1	Henry Holt and Co.
+0530	1	Banner Of Truth
+0531	1	Authentic
+0532	1	Wipf & Stock
+0533	1	Grosset & Dunlap
+0534	1	P & R Publishing
+0535	1	Westminster John Knox Press
+0536	1	Xulon Press
+0537	1	Xulon Press
+0538	1	WinePress Publishing
+0539	1	Banner Of Truth
+0540	1	Xulon Press
+0541	1	Augsburg Fortress
+0542	1	Abingdon Press
+0543	1	Cartwheel Books
+0544	1	Concordia Publishing House
+0545	1	Thomas Nelson
+0546	1	Yorkshire Publishing
+0547	1	Westminster John Knox Press
+0548	1	St. Anthony Messenger Press
+0549	1	DK Preschool
+0550	1	WaterBrook Press
+0551	1	Living Stream Ministry
+0552	1	Reformation Heritage Books
+0553	1	Abingdon Press
+0554	1	Tate Publishing
+0555	1	Xulon Press
+0556	1	Day One Publications
+0557	1	Calif Princeton Fulfilment
+0558	1	Pleasant Word (winepress Pub)
+0559	1	Abingdon Press
+0560	1	Concordia Publishing House
+0561	1	Wm. B. Eerdmans Publishing Co.
+0562	1	Vida
+0563	1	Zondervan
+0564	1	Heart Spring
+0565	1	A. B. Publishing
+0566	1	Oxford University Press
+0567	1	Penguin Classics
+0568	1	Augsburg Fortress
+0569	1	Puffin
+0570	1	Chalice Press
+0571	1	Beacon Hill Press
+0572	1	HarperCollins
+0573	1	Harvest House Publishers
+0574	1	Thomas Nelson
+0575	1	Zondervan
+0576	1	Revell
+0577	1	Harvest House Publishers
+0578	1	Thomas Nelson
+0579	1	HarperCollins
+0580	1	Inter-varsity Press
+0581	1	Revell
+0582	1	Barbour Publishing
+0583	1	B & H Publishing Group
+0584	1	David C. Cook
+0585	1	B & H Publishing Group
+0586	1	New Leaf Publishing Group
+0587	1	Lion Books
+0588	1	Simon & Schuster Trade Sales
+0589	1	Liturgical Press
+0590	1	Pueblo
+0591	1	Ideals Publications Inc
+0592	1	Apologia Educational Ministries
+0593	1	Michael Glazier
+0594	1	Strang Communications
+0595	1	Cistercian Publications Inc
+0596	1	Crossroad
+0597	1	Authentic US
+0598	1	Paulist Press
+0599	1	Kregel Publications
+0600	1	Thomas Nelson
+0601	1	Living Stream Ministry
+0602	1	Xulon Press
+0603	1	Wipf & Stock
+0604	1	Xulon Press
+0605	1	Destiny Image
+0606	1	Wm. B. Eerdmans Publishing Co.
+0607	1	Day One Publications
+0608	1	Mercer Press
+0609	1	Houghton Mifflin Books for Children
+0610	1	Houghton-mifflin
+0611	1	Pickwick Publications
+0612	1	Abingdon Press
+0613	1	Evangelical Press
+0614	1	Kregel Publications
+0615	1	Lift Every Voice
+0616	1	Ave Maria Press
+0617	1	Jist Publishing
+0618	1	Abingdon Press
+0619	1	Charisma House
+0620	1	Pleasant Word (winepress Pub)
+0621	1	Tyndale Kids
+0622	1	Zondervan
+0623	1	Penguin Classics
+0624	1	Evangel Publishing House
+0625	1	Augsburg Fortress
+0626	1	Houghton-mifflin
+0627	1	Pleasant Word (winepress Pub)
+0628	1	Liturgical Press
+0629	1	Fortress Press
+0630	1	Crossway Books & Bibles
+0631	1	Simon & Schuster Trade Sales
+0632	1	Banner Of Truth
+0633	1	Wiley-Blackwell
+0634	1	WinePress Publishing
+0635	1	Canterbury Press
+0636	1	Zondervan
+0637	1	Nickelodeon
+0638	1	Houghton-mifflin
+0639	1	Destiny Image
+0640	1	New City Press
+0641	1	Wm. B. Eerdmans Publishing Co.
+0642	1	Augsburg Fortress
+0643	1	Society Of Biblical Literature
+0644	1	Charisma House
+0645	1	Harvest House Publishers
+0646	1	Kregel Publications
+0647	1	Abingdon Press
+0648	1	Houghton-mifflin
+0649	1	Ignatius Press
+0650	1	Basic Books
+0651	1	Westminster John Knox Press
+0652	1	Eisenbrauns
+0653	1	Simon & Schuster Trade Sales
+0654	1	Chicken Soup for the Soul
+0655	1	Kregel Publications
+0656	1	Free Press
+0657	1	Liturgical Press
+0658	1	Westminster John Knox Press
+0659	1	HarperCollins
+0660	1	Judson Press
+0661	1	Random House, Inc
+0662	1	Kregel Publications
+0663	1	Summerside Press
+0664	1	Candy Cane Press
+0665	1	Alpha
+0666	1	Paraclete Press
+0667	1	Wm. B. Eerdmans Publishing Co.
+0668	1	Center Point Large Print Books
+0669	1	Augsburg Fortress
+0670	1	Christian Focus Publications
+0671	1	Banner Of Truth
+0672	1	Xulon Press
+0673	1	VMI Publishers LLC
+0674	1	Cornell University Press
+0675	1	Augsburg Fortress
+0676	1	Kingfisher
+0677	1	Augsburg Fortress
+0678	1	Grosset & Dunlap
+0679	1	William Morrow
+0680	1	American Girl Publishing
+0681	1	American Girl Publishing
+0682	1	Collins
+0683	1	Christian Focus Publications
+0684	1	Thomas Nelson
+0685	1	Zondervan Youth Specialties
+0686	1	Zondervan
+0687	1	Thomas Nelson
+0688	1	Zonderkidz
+0689	1	Tyndale House
+0690	1	Revell
+0691	1	Thomas Nelson
+0692	1	Barbour Publishing
+0693	1	Tyndale House
+0694	1	Harvest House Publishers
+0695	1	Multnomah Publishers, Inc.
+0696	1	Dutton Adult
+0697	1	Howard Books
+0698	1	Calif Princeton Fulfilment
+0699	1	Touchstone
+0700	1	Evangelical Press
+0701	1	Lillenas
+0702	1	Judson Press
+0703	1	Health Communications
+0704	1	Health Communications
+0705	1	Random House, Inc
+0706	1	Hyperion
+0707	1	Christian Large Print
+0708	1	Paulist Press
+0709	1	Sheed & Ward
+0710	1	United Church Press
+0711	1	Signet
+0712	1	Living Stream Ministry
+0713	1	Christian Focus
+0714	1	Abingdon Press
+0715	1	Thomas Nelson
+0716	1	Applewood Books
+0717	1	Kregel Publications
+0718	1	Vida
+0719	1	Mercer Press
+0720	1	Whitaker House Publishers
+0721	1	HarperCollins
+0722	1	Dial
+0723	1	Random House, Inc
+0724	1	Berkley Hardcover
+0725	1	Baker
+0726	1	Catholic Word
+0727	1	Harvest House Publishers
+0728	1	Judson Press
+0729	1	Christian Large Print
+0730	1	Free Press
+0731	1	Houghton-mifflin
+0732	1	HarperOne
+0733	1	Wipf & Stock
+0734	1	Barbour Publishing
+0735	1	Zondervan
+0736	1	Thomas Nelson
+0737	1	Ave Maria Press
+0738	1	Ingram Book Company
+0739	1	Penguin Classics
+0740	1	Center Point Large Print Books
+0741	1	Wipf & Stock
+0742	1	Fortress Press
+0743	1	Crown Financial Ministries
+0744	1	Baker
+0745	1	Random House, Inc
+0746	1	Good Books
+0747	1	Living Stream Ministry
+0748	1	Stl Distribution
+0749	1	Wipf & Stock
+0750	1	Orbis Books
+0751	1	Wipf & Stock
+0752	1	Beacon Hill Press
+0753	1	Crossroad
+0754	1	Baker
+0755	1	Christian Focus Publications
+0756	1	Dutton Juvenile
+0757	1	Westminster John Knox Press
+0758	1	Augsburg Fortress
+0759	1	Ave Maria Press
+0760	1	Grosset & Dunlap
+0761	1	Kingfisher
+0762	1	Strang Communications
+0763	1	Abingdon Press
+0764	1	Westminster John Knox Press
+0765	1	Standard Publishing
+0766	1	Loyola Press
+0767	1	Prentice Hall / Penguin Putnam
+0768	1	Baker
+0769	1	Nags Head Art Inc
+0770	1	Westminster John Knox Press
+0771	1	Wipf & Stock
+0772	1	Leafwood Publishers
+0773	1	Williamson Books
+0774	1	Wm. B. Eerdmans Publishing Co.
+0775	1	Moody Publishers
+0776	1	Howard Books
+0777	1	Beacon Hill Press
+0778	1	Kingfisher
+0779	1	Onward Books
+0780	1	Oak Hills Church
+0781	1	Houghton-mifflin
+0782	1	Bethlehem Books
+0783	1	Blackwell Publishing
+0784	1	Css Publishing
+0785	1	Westminster John Knox Press
+0786	1	Grosset & Dunlap
+0787	1	HMH Books
+0788	1	Tate Publishing
+0789	1	REALMS
+0790	1	Zondervan
+0791	1	Zondervan
+0792	1	Barbour Publishing
+0793	1	Bethany House
+0794	1	Charisma House
+0795	1	Bethany House
+0796	1	Faith Library Publications
+0797	1	Nelson Impact
+0798	1	Moody Publishers
+0799	1	Tyndale House
+0800	1	Tyndale House
+0801	1	Thomas Nelson
+0802	1	Thomas Nelson
+0803	1	David C. Cook
+0804	1	Bridge-logos Publishing
+0805	1	Whitaker House Publishers
+0806	1	Moody Publishers
+0807	1	Standard Publishing
+0808	1	Harvest House Publishers
+0809	1	Brazos Press
+0810	1	IVP Books
+0811	1	Sampson Resources
+0812	1	Paulist Press
+0813	1	Monarch Books
+0814	1	Loyola Press
+0815	1	Journeyforth
+0816	1	Christian Focus Publications
+0817	1	Reformed Free Publishing Assoc
+0818	1	Grosset & Dunlap
+0819	1	Creation House
+0820	1	Simon & Schuster Trade Sales
+0821	1	Applewood Books
+0822	1	Newlife Book Distributors, LLC
+0823	1	Christian Focus Publications
+0824	1	Frances Lincoln Children's Books
+0825	1	Wipf & Stock
+0826	1	Houghton-mifflin
+0827	1	YWAM Editorial Jucum
+0828	1	Thomas Nelson
+0829	1	P & R Publishing
+0830	1	Baylor University Press
+0831	1	Cartwheel Books
+0832	1	Free Press
+0833	1	Augsburg Fortress
+0834	1	WaterBrook Press
+0835	1	Random House, Inc
+0836	1	Abingdon Press
+0837	1	Cornell University Press
+0838	1	Standard Publishing
+0839	1	Lillenas
+0840	1	Strang Communications
+0841	1	Putnam Juvenile
+0842	1	Collins
+0843	1	Creation House
+0844	1	Riverhead
+0845	1	Simon & Schuster Trade Sales
+0846	1	Little Brown Young Readers
+0847	1	Xulon Press
+0848	1	Continuum International
+0849	1	Harpercollins Publishing
+0850	1	Continuum International
+0851	1	Loyola Press
+0852	1	Vida
+0853	1	Random House, Inc
+0854	1	B & H Publishing Group
+0855	1	Mercer Press
+0856	1	Casa Creacion
+0857	1	NewLife Book Distributors
+0858	1	Sandpiper
+0859	1	Thomas Nelson
+0860	1	Creation House
+0861	1	Legacy Press
+0862	1	Standard Publishing
+0863	1	Discovery House Publishers
+0864	1	Zondervan
+0865	1	Creation House
+0866	1	Fortress Press
+0867	1	Abingdon Press
+0868	1	Guilford Press
+0869	1	Fortress Press
+0870	1	Kregel Publications
+0871	1	Baker
+0872	1	Vida
+0873	1	Ave Maria Press
+0874	1	Heart Spring
+0875	1	Christian Classics
+0876	1	John Wiley & Sons
+0877	1	Grosset & Dunlap
+0878	1	Kregel Publications
+0879	1	DK Children
+0880	1	Destiny Image
+0881	1	Cascade Books
+0882	1	DK Publishing Inc.
+0883	1	Chalice Press
+0884	1	Wm. B. Eerdmans Publishing Co.
+0885	1	Houghton-mifflin
+0886	1	Smyth & Helwys Publishing, Inc
+0887	1	Baker
+0888	1	Excel Books
+0889	1	New Hope Publishers
+0890	1	Wipf & Stock
+0891	1	Center Point Large Print Books
+0892	1	Penguin Putnam Inc.
+0893	1	Whitaker House Publishers
+0894	1	Houghton-mifflin
+0895	1	Grosset & Dunlap
+0896	1	Founders Press
+0897	1	Inter-varsity Press
+0898	1	Scholastic Teaching Resources
+0899	1	Creation House
+0900	1	Houghton-mifflin
+0901	1	Paraclete Press
+0902	1	P & R Publishing
+0903	1	Vida
+0904	1	Perigee Trade
+0905	1	Zondervan
+0906	1	Zondervan
+0907	1	Zondervan
+0908	1	Leafwood Publishers
+0909	1	Christian Large Print
+0910	1	Little Simon
+0911	1	Xulon Press
+0912	1	Random House, Inc
+0913	1	Xulon Press
+0914	1	Ambassador-emerald, Intl.
+0915	1	Christian Focus
+0916	1	B & H Publishing Group
+0917	1	HarperOne
+0918	1	Willow Creek Association
+0919	1	Gospel Light
+0920	1	Guidepost Books
+0921	1	Moody Publishers
+0922	1	Random House, Inc
+0923	1	Zondervan
+0924	1	Thomas Nelson
+0925	1	David C. Cook
+0926	1	Tyndale House
+0927	1	Dover Publications
+0928	1	Moody Publishers
+0929	1	Upper Room
+0930	1	Lewis & Roth
+0931	1	Lewis & Roth
+0932	1	Abingdon Press
+0933	1	Augsburg Fortress
+0934	1	HarperOne
+0935	1	P & R Publishing
+0936	1	Atria Books
+0937	1	Nelson Books
+0938	1	Westminster John Knox Press
+0939	1	Kregel Publications
+0940	1	Pleasant Word (winepress Pub)
+0941	1	Inter-varsity Press
+0942	1	Anomalos Publishing LLC
+0943	1	Christian Focus Publications
+0944	1	Sterling Publishing Co., Inc.
+0945	1	P & R Publishing
+0946	1	Cistercian Publications Inc
+0947	1	Houghton-mifflin
+0948	1	Christian Focus Publications
+0949	1	Houghton-mifflin
+0950	1	Houghton Mifflin Books for Children
+0951	1	Cider Mill Press
+0952	1	Reformation Heritage / Soli Deo Gloria
+0953	1	Penguin Classics
+0954	1	Liguori Publications
+0955	1	Simon & Schuster Trade Sales
+0956	1	B & H Publishing Group
+0957	1	Canon Press
+0958	1	IVP Books
+0959	1	Viking Juvenile
+0960	1	Entertainment Ministries
+0961	1	Health Communications
+0962	1	Day One Publications
+0963	1	Little Brown & Company
+0964	1	Kingfisher
+0965	1	Westminster John Knox Press
+0966	1	Ideals Publications Inc
+0967	1	Zondervan
+0968	1	Authentic USA
+0969	1	Zondervan
+0970	1	Simon & Schuster Trade Sales
+0971	1	Chicken Soup For The Soul
+0972	1	Mercer Press
+0973	1	Michael Glazier
+0974	1	Simon & Schuster
+0975	1	Ignatius Press
+0976	1	Houghton Mifflin Harcourt
+0977	1	Youth Specialty
+0978	1	Avon Inspire
+0979	1	Overlook Press
+0980	1	Ave Maria Press
+0981	1	Penguin Classics
+0982	1	Upper Room
+0983	1	Wipf & Stock
+0984	1	NYR Children's Collection
+0985	1	Random House, Inc
+0986	1	Strang Communications
+0987	1	Vance Publications
+0988	1	Charlesbridge Publishing
+0989	1	Free Press
+0990	1	Thomas Nelson
+0991	1	Abingdon Press
+0992	1	Gospel Light
+0993	1	Mcdougal Publishing
+0994	1	Day One Publications
+0995	1	Continuum International
+0996	1	Atheneum
+0997	1	Houghton-mifflin
+0998	1	Editorial Portavoz
+0999	1	Casa Creacion
+1000	1	Adams Media
+1001	1	Bridge-logos Publishing
+1002	1	Random House, Inc
+1003	1	Xulon Press
+1004	1	Day One Publications
+1005	1	Abingdon Press
+1006	1	Center Street
+1007	1	Pleasant Word (winepress Pub)
+1008	1	Authentic
+1009	1	Houghton-mifflin
+1010	1	HigherLife Development Services
+1011	1	Thomas Nelson
+1012	1	Penguin Classics
+1013	1	NAV Press
+1014	1	IVP Academic
+1015	1	Crossway Books & Bibles
+1016	1	Random House, Inc
+1017	1	Grupo Nelson
+1018	1	Howard Books
+1019	1	Cistercian Publications Inc
+1020	1	Winepress Publishing
+1021	1	Thomas Nelson
+1022	1	The Learning Parent
+1023	1	Charlesbridge Publishing
+1024	1	Wm. B. Eerdmans Publishing Co.
+1025	1	Zondervan
+1026	1	Price Stern Sloan
+1027	1	Frederick Warne & Company
+1028	1	Center Street
+1029	1	Warner Press
+1030	1	Casa Creacion
+1031	1	HarperOne
+1032	1	Concordia Publishing House
+1033	1	Charlesbridge
+1034	1	Lion Books
+1035	1	Wm. B. Eerdmans Publishing Co.
+1036	1	CF4K
+1037	1	Kingfisher
+1038	1	Parson Place Press
+1039	1	Zondervan
+1040	1	Tyndale House
+1041	1	Pleasant Word (winepress Pub)
+1042	1	Wipf & Stock
+1043	1	Smyth & Helwys Publishing, Inc
+1044	1	Tyndale House
+1045	1	Pathway Press
+1046	1	Tyndale House
+1047	1	Kregel Publications
+1048	1	Steeple Hill Books
+1049	1	Christian Focus Publications
+1050	1	Thomas Nelson
+1051	1	Zondervan
+1052	1	Price Stern Sloan
+1053	1	Regal Books
+1054	1	Zondervan
+1055	1	Wm. B. Eerdmans Publishing Co.
+1056	1	Moody Publishers
+1057	1	Kregel Kidzone
+1058	1	Zondervan
+1059	1	Youth Specialties
+1060	1	Christian Focus Publications
+1061	1	Whitaker House Publishers
+1062	1	Baker Books
+1063	1	New Hope Publishers
+1064	1	Publicaciones Casa
+1065	1	Abingdon Press
+1066	1	HarperOne
+1067	1	Baker Academic
+1068	1	Frances Lincoln Children's Books
+1069	1	Abingdon Press
+1070	1	Editorial Portavoz
+1071	1	Grosset & Dunlap
+1072	1	Charisma House
+1073	1	Wm. B. Eerdmans Publishing Co.
+1074	1	Canterbury Press
+1075	1	Westminster John Knox Press
+1076	1	Health Communications
+1077	1	Grosset & Dunlap
+1078	1	Center Point Large Print Books
+1079	1	Ave Maria Press
+1080	1	Amg Publishers
+1081	1	Concordia Publishing House
+1082	1	Random House, Inc
+1083	1	Steeple Hill Books
+1084	1	Buena Prensa
+1085	1	Winepress Publishing
+1086	1	IVP Books
+1087	1	Thomas Nelson
+1088	1	Continuum International
+1089	1	Thomas Nelson
+1090	1	Pleasant Word (winepress Pub)
+1091	1	Living Books
+1092	1	HarperCollins
+1093	1	Destiny Image
+1094	1	Grosset & Dunlap
+1095	1	Chicken Soup
+1096	1	Vida
+1097	1	Continuum International
+1098	1	Westminster John Knox Press
+1099	1	Random House Books for Young Readers
+1100	1	Wm. B. Eerdmans Publishing Co.
+1101	1	Liguori Publications
+1102	1	Thomas Nelson
+1103	1	Vida
+1104	1	Evangelical Press
+1105	1	National Geographic Children's Books
+1106	1	SCM Press
+1107	1	Free Press
+1108	1	Standard Publishing
+1109	1	Health Communications
+1110	1	Prentice Hall / Penguin Putnam
+1111	1	Abingdon Press
+1112	1	Continuum International
+1113	1	Inter-varsity Press
+1114	1	Wipf & Stock
+1115	1	New Leaf Publishing Group
+1116	1	Houghton Mifflin Books for Children
+1117	1	Augsburg Fortress
+1118	1	Westminster John Knox Press
+1119	1	Destiny Image
+1120	1	Little Simon
+1121	1	DK Adult
+1122	1	Xulon Press
+1123	1	Continuum International
+1124	1	Liturgical Press
+1125	1	Believe Books LLC
+1126	1	Make Believe Ideas
+1127	1	Css Publishing
+1128	1	Destiny Image
+1129	1	FaithWords
+1130	1	Concordia Publishing House
+1131	1	Westminster John Knox Press
+1132	1	Westminster John Knox Press
+1133	1	Vida
+1134	1	Wm. B. Eerdmans Publishing Co.
+1135	1	Thomas Nelson
+1136	1	HarperOne
+1137	1	Continuum International
+1138	1	Meriwether Publishing Ltd
+1139	1	Winepress Publishing
+1140	1	Ave Maria Press
+1141	1	Vida
+1142	1	Continuum International
+1143	1	Monarch Books
+1144	1	Simon & Schuster Trade Sales
+1145	1	Abingdon Press
+1146	1	St. Anthony Messenger Press
+1147	1	Concordia Publishing House
+1148	1	Augsburg Fortress
+1149	1	Evangelical Press
+1150	1	Tyndale House
+1151	1	Editorial Patmos
+1152	1	Ideals Publications
+1153	1	Penguin Classics
+1154	1	Puffin
+1155	1	Baylor University Press
+1156	1	Center Point Large Print Books
+1157	1	Thomas Nelson
+1158	1	Reformation Heritage / Soli Deo Gloria
+1159	1	Kregel Publications
+1160	1	Concordia Publishing House
+1161	1	Meriwether Publishing Ltd
+1162	1	Beacon Hill Press
+1163	1	Herder & Herder
+1164	1	Winepress Publishing
+1165	1	Scholastic Inc.
+1166	1	Harvest House Publishers
+1167	1	HarperCollins
+1168	1	Kregel Publications
+1169	1	Penguin Classics
+1170	1	Word Productions LLC
+1171	1	Xulon Press
+1172	1	Banner Of Truth
+1173	1	Writing For The Lord
+1174	1	Touchstone
+1175	1	Upper Room
+1176	1	Tyndale House
+1177	1	Lion Books
+1178	1	Michael Glazier
+1179	1	Cistercian Publications Inc
+1180	1	Herald Press
+1181	1	Inter-varsity Press
+1182	1	Random House, Inc
+1183	1	Zondervan
+1184	1	Candle Books
+1185	1	Moody Publishers
+1186	1	IVP Academic
+1187	1	B & H Publishing Group
+1188	1	Crossway Books & Bibles
+1189	1	Thomas Nelson
+1190	1	Scholastic Trade
+1191	1	Gospel Light
+1192	1	Thomas Nelson
+1193	1	Tyndale Kids
+1194	1	Good Books
+1195	1	Yale University Press
+1196	1	Liguori Publications
+1197	1	Hensley Publishing
+1198	1	Vida
+1199	1	Abingdon Press
+1200	1	Steeple Hill Books
+1201	1	Smyth & Helwys Publishing, Inc
+1202	1	FishPond
+1203	1	Adonai Art Designs LLC
+1204	1	Abingdon Press
+1205	1	Kregel Publications
+1206	1	Vida
+1207	1	Smart Kids Publishing
+1208	1	Simon & Schuster
+1209	1	Xulon Press
+1210	1	Xulon Press
+1211	1	Vida
+1212	1	Paraclete Press
+1213	1	Hippo Books
+1214	1	Spck Publishing
+1215	1	Baker
+1216	1	Wm. B. Eerdmans Publishing Co.
+1217	1	Tyndale House
+1218	1	Random House Books for Young Readers
+1219	1	Simon & Schuster Children's Publishing
+1220	1	Thomas Nelson
+1221	1	Christian Focus Publications
+1222	1	St. Anthony Messenger Press
+1223	1	Houghton-mifflin
+1224	1	Crossroad
+1225	1	Augsburg Fortress
+1226	1	Faith Library Publications
+1227	1	Monarch Books
+1228	1	Xulon Press
+1229	1	FaithWords
+1230	1	Baylor University Press
+1231	1	Augsburg Fortress
+1232	1	Simon & Schuster Trade Sales
+1233	1	Orbis Books
+1234	1	Smart Kids Publishing
+1235	1	Oxford University Press
+1236	1	Tyndale House
+1237	1	Zondervan
+1238	1	Regnery Publishing
+1239	1	Tyndale House
+1240	1	Ignatius Press
+1241	1	Ave Maria Press
+1242	1	Xulon Press
+1243	1	B & H Publishing Group
+1244	1	Wm. B. Eerdmans Publishing Co.
+1245	1	Casa Creacion
+1246	1	Barbour Publishing
+1247	1	Xulon Press
+1248	1	Xulon Press
+1249	1	Thomas Nelson
+1250	1	Wipf & Stock
+1251	1	Abingdon Press
+1252	1	Editorial Unilit
+1253	1	Wm. B. Eerdmans Publishing Co.
+1254	1	Free Press
+1255	1	Prentice Hall / Penguin Putnam
+1256	1	Random House Books for Young Readers
+1257	1	Wm. B. Eerdmans Publishing Co.
+1258	1	Paulist Press
+1259	1	Houghton Mifflin Books for Children
+1260	1	Christian Classics
+1261	1	Youth Specialties
+1262	1	Center Point Large Print Books
+1263	1	Upper Room
+1264	1	Liturgical Press
+1265	1	Arise
+1266	1	Beacon Hill Press
+1267	1	Standard Publishing
+1268	1	Creation House
+1269	1	Running Press
+1270	1	Harvard University Press
+1271	1	Augsburg Books
+1272	1	Wm. B. Eerdmans Publishing Co.
+1273	1	Carson-dellosa Publishing Llc
+1274	1	Random House, Inc
+1275	1	New Leaf Publishing Group
+1276	1	Wm. B. Eerdmans Publishing Co.
+1277	1	Little Simon
+1278	1	Random House, Inc
+1279	1	P & R Publishing
+1280	1	Faith Library Publications
+1281	1	Beacon Hill Press
+1282	1	Pilgrim Press
+1283	1	Pocket Books
+1284	1	Day One Publications
+1285	1	Anomalos Publishing LLC
+1286	1	Herder & Herder
+1287	1	Random House, Inc
+1288	1	Pickwick Publications
+1289	1	Michael Glazier
+1290	1	Wm. B. Eerdmans Publishing Co.
+1291	1	Houghton-mifflin
+1292	1	Chicken Soup for the Soul
+1293	1	Hyperion Books
+1294	1	Destiny Image
+1295	1	Bethany House
+1296	1	Baker
+1297	1	Harvest House Publishers
+1298	1	Thomas Nelson
+1299	1	Resources for Changing Lives
+1300	1	David C. Cook
+1301	1	Wm. B. Eerdmans Publishing Co.
+1302	1	Moody Publishers
+1303	1	Revell
+1304	1	Casa Creacion
+1305	1	Concordia Publishing House
+1306	1	Liturgical Press
+1307	1	Liturgical Press
+1308	1	Nags Head Art Inc
+1309	1	Continuum International
+1310	1	Firefly Books Ltd
+1311	1	World Publishing
+1312	1	Ignatius Press
+1313	1	Simon & Schuster Trade Sales
+1314	1	Abingdon Press
+1315	1	Winepress Publishing
+1316	1	Augsburg Fortress
+1317	1	St. Vladamir's Seminary Press
+1318	1	Loyola Press
+1319	1	Wesleyan Publishing House
+1320	1	Charisma House
+1321	1	Avery
+1322	1	Wipf & Stock
+1323	1	Grosset & Dunlap
+1324	1	Random House, Inc
+1325	1	Dover Publications
+1326	1	Witherspoon Press
+1327	1	Winepress Publishing
+1328	1	Authentic
+1329	1	University Notre Dame Press
+1330	1	Hachette Book Group, Usa
+1331	1	NAV Press
+1332	1	Augsburg Fortress
+1333	1	Charisma House
+1334	1	VMI Publishers LLC
+1335	1	Orbis Books
+1336	1	IVP Books
+1337	1	Bethany House
+1338	1	Ignatius Press
+1339	1	Houghton-mifflin
+1340	1	Authentic
+1341	1	Inter-varsity Press
+1342	1	Random House, Inc
+1343	1	HarperFestival
+1344	1	Destiny Image
+1345	1	Augsburg Fortress
+1346	1	Harcourt Children's Books
+1347	1	Society of Biblical Literature
+1348	1	Wm. B. Eerdmans Publishing Co.
+1349	1	Liturgical Press
+1350	1	Michael Glazier
+1351	1	Kregel Classics
+1352	1	Winepress Publishing
+1353	1	Penn State Press
+1354	1	Paulist Press
+1355	1	Grosset & Dunlap
+1356	1	Pleasant Word (winepress Pub)
+1357	1	Lion Books
+1358	1	Houghton-mifflin
+1359	1	Liturgical Press
+1360	1	New Hope Publishers
+1361	1	Augsburg Fortress
+1362	1	Upper Room
+1363	1	Countryman
+1364	1	Abingdon Press
+1365	1	Ideals Publications
+1366	1	Standard Publishing
+1367	1	Upper Room
+1368	1	Concordia Publishing House
+1369	1	Anomalos Publishing LLC
+1370	1	DK Adult
+1371	1	Random House, Inc
+1372	1	Cascade Books
+1373	1	Sampson Resources
+1374	1	Paulist Press
+1375	1	Bridge-logos Publishing
+1376	1	Christian Large Print
+1377	1	Houghton-mifflin
+1378	1	Herald Press
+1379	1	Penguin Classics
+1380	1	Paulist Press
+1381	1	Whitaker House Publishers
+1382	1	Winepress Publishing
+1383	1	HarperOne
+1384	1	Biblica Publishing
+1385	1	Inter-varsity Press
+1386	1	Abingdon Press
+1387	1	Augsburg Fortress
+1388	1	Stanford University Press
+1389	1	Wm. B. Eerdmans Publishing Co.
+1390	1	Pilgrim Press
+1391	1	Philomel Books
+1392	1	Day One Publications
+1393	1	American Girl Publishing
+1394	1	Aladdin
+1395	1	Charlesbridge Publishing
+1396	1	Xulon Press
+1397	1	Pilgrim Press
+1398	1	Banner Of Truth
+1399	1	HarperOne
+1400	1	LifeBridge Books
+1401	1	Random House, Inc
+1402	1	HarperOne
+1403	1	Oxford University Press
+1404	1	Xulon Press
+1405	1	Candlewick Press
+1406	1	Pine Forge Press
+1407	1	Putnam Juvenile
+1408	1	Oxford University Press
+1409	1	Judson Press
+1410	1	Harrison House
+1411	1	Harvest House Publishers
+1412	1	Moody Publishers
+1413	1	Barbour Publishing
+1414	1	Tyndale House
+1415	1	Concordia Publishing House
+1416	1	Tyndale House
+1417	1	Kregel Publications
+1418	1	B & H Publishing Group
+1419	1	Hachette Book Group, Usa
+1420	1	Thomas Nelson
+1421	1	Concordia Publishing House
+1422	1	Continuum International
+1423	1	Ideals Publications Inc
+1424	1	Pleasant Word (winepress Pub)
+1425	1	Christian Focus
+1426	1	Westminster John Knox Press
+1427	1	YWAM Editorial Jucum
+1428	1	Dial
+1429	1	Faith Alive Christian Resources
+1430	1	Random House, Inc
+1431	1	Thomas Nelson
+1432	1	Steeple Hill Books
+1433	1	Houghton-mifflin
+1434	1	Beacon Hill Press
+1435	1	Monarch Books
+1436	1	Orbis Books
+1437	1	Random House, Inc
+1438	1	Concordia Publishing House
+1439	1	Inter-varsity Press
+1440	1	Concordia Publishing House
+1441	1	Fortress Press
+1442	1	DK Children
+1443	1	Mcdougal Publishing
+1444	1	Canon Press
+1445	1	Living Stream Ministry
+1446	1	The Vision Forum, Inc
+1447	1	Liturgical Press
+1448	1	Harvard University Press
+1449	1	Day One Publications
+1450	1	Calif Princeton Fulfilment
+1451	1	Kingfisher
+1452	1	Eisenbrauns
+1453	1	Paulist Press
+1454	1	NAV Press
+1455	1	Xulon Press
+1456	1	Center Point Large Print Books
+1457	1	Westminster John Knox Press
+1458	1	Multnomah Publishers, Inc.
+1459	1	Liturgical Press
+1460	1	Michael Glazier
+1461	1	Wesleyan Publishing House
+1462	1	Pleasant Word
+1463	1	Winepress Publishing
+1464	1	Oxford University Press
+1465	1	Monarch Books
+1466	1	HarperOne
+1467	1	David C. Cook
+1468	1	Living Stream Ministry
+1469	1	Augsburg Fortress
+1470	1	Stl Distribution
+1471	1	Zondervan
+1472	1	Liturgical Press
+1473	1	Little Brown & Company
+1474	1	Wipf & Stock
+1475	1	Sheed & Ward
+1476	1	Golden Books
+1477	1	Moody Publishers
+1478	1	Biblica Publishing
+1479	1	Tyndale House
+1480	1	The Olive Press Publisher
+1481	1	Baker
+1482	1	Day One Publications
+1483	1	Penguin Classics
+1484	1	Day One Publications
+1485	1	CF4K
+1486	1	Kregel Publications
+1487	1	Pleasant Word (winepress Pub)
+1488	1	Zondervan
+1489	1	Destiny Image
+1490	1	Inter-varsity Press
+1491	1	Christian Focus Publications
+1492	1	Concordia Publishing House
+1493	1	Cambridge University Press
+1494	1	Fortress Press
+1495	1	Augsburg Fortress
+1496	1	Random House, Inc
+1497	1	Kingfisher
+1498	1	Adams Media
+1499	1	Random House, Inc
+1500	1	Center Point Large Print Books
+1501	1	Random House, Inc
+1502	1	Abingdon Press
+1503	1	Day One Publications
+1504	1	Kregel Kidzone
+1505	1	Xulon Press
+1506	1	Charlesbridge
+1507	1	Believe Books LLC
+1508	1	Silver Dolphin
+1509	1	Free Press
+1510	1	Augsburg Fortress
+1511	1	Continuum International
+1512	1	Simon & Schuster Trade Sales
+1513	1	Kingfisher
+1514	1	Harvest House Publishers
+1515	1	Holman Bible Publishers
+1516	1	P & R Publishing
+1517	1	Random House, Inc
+1518	1	IVP Connect
+1519	1	Crossway Books & Bibles
+1520	1	IVP Connect
+1521	1	Thomas Nelson
+1522	1	Siloam
+1523	1	Wm. B. Eerdmans Publishing Co.
+1524	1	Viking
+1525	1	Moody Publishers
+1526	1	Westminster John Knox Press
+1527	1	Destiny Image
+1528	1	Zondervan
+1529	1	Pleasant Word (winepress Pub)
+1530	1	Evangelical Press
+1531	1	Pleasant Word (winepress Pub)
+1532	1	Aladdin
+1533	1	Authentic USA
+1534	1	Multnomah Publishers, Inc.
+1535	1	Thomas Nelson
+1536	1	Augsburg Fortress
+1537	1	Pleasant Word (winepress Pub)
+1538	1	DPI Books
+1539	1	Monarch Books
+1540	1	Fortress Press
+1541	1	Herder & Herder
+1542	1	Wm. B. Eerdmans Publishing Co.
+1543	1	Anomalos Publishing LLC
+1544	1	WaterBrook Press
+1545	1	Vida
+1546	1	Cascade Books
+1547	1	Penguin Putnam Inc.
+1548	1	Morehouse Publishing
+1549	1	HMH Books
+1550	1	Abbeville
+1551	1	Grosset & Dunlap
+1552	1	Abingdon Press
+1553	1	Continuum International
+1554	1	Acta Publications
+1555	1	Health Communications
+1556	1	Zondervan
+1557	1	NAV Press
+1558	1	Destiny Image
+1559	1	NewLife Book Publishing
+1560	1	Pleasant Word (winepress Pub)
+1561	1	Wipf & Stock
+1562	1	HarperCollins
+1563	1	Baker
+1564	1	Random House, Inc
+1565	1	Harpercollins Publishing
+1566	1	Wipf & Stock
+1567	1	Houghton-mifflin
+1568	1	Alpha
+1569	1	Xulon Press
+1570	1	Pleasant Word (winepress Pub)
+1571	1	Bethany House
+1572	1	Crossroad
+1573	1	Baker Academic
+1574	1	American Girl Publishing
+1575	1	Abingdon Press
+1576	1	Destiny Image
+1577	1	Liturgical Press
+1578	1	Beacon Hill Press
+1579	1	Zondervan
+1580	1	Christian Focus Publications
+1581	1	Revell
+1582	1	Charlesbridge Publishing
+1583	1	Steeple Hill Books
+1584	1	Honornet
+1585	1	Little Simon
+1586	1	Continuum International
+1587	1	Abingdon Press
+1588	1	Augsburg Fortress
+1589	1	Tyndale House
+1590	1	Harcourt Children's Books
+1591	1	Wm. B. Eerdmans Publishing Co.
+1592	1	Westminster John Knox Press
+1593	1	Wm. B. Eerdmans Publishing Co.
+1594	1	Continuum International
+1595	1	Viking
+1596	1	Oxford University Press
+1597	1	Tyndale House
+1598	1	Baker Academic
+1599	1	Alpha
+1600	1	Center Point Large Print Books
+1601	1	Regnery Publishing
+1602	1	Center Point Large Print Books
+1603	1	Xulon Press
+1604	1	Concordia Publishing House
+1605	1	Xulon Press
+1606	1	Abingdon Press
+1607	1	Thomas Nelson
+1608	1	Kingfisher
+1609	1	Paternoster Press
+1610	1	Houghton-mifflin
+1611	1	Golden Books
+1612	1	Ideals Children's Books
+1613	1	Abingdon Press
+1614	1	American Girl Publishing
+1615	1	Grosset & Dunlap
+1616	1	Simon & Schuster Trade Sales
+1617	1	Regal Books
+1618	1	Guidepost Books
+1619	1	Center Street
+1620	1	Creation House
+1621	1	Zondervan
+1622	1	Abingdon Press
+1623	1	Applesauce Press
+1624	1	Jewish Pub Society
+1625	1	Creation House
+1626	1	Tyndale House
+1627	1	HarperCollins
+1628	1	Gospel Light
+1629	1	Anomalos Publishing LLC
+1630	1	Gareth Stevens Publishing
+1631	1	Xulon Press
+1632	1	Continuum International
+1633	1	Westminster John Knox Press
+1634	1	St. Augustine's Press, Inc.
+1635	1	Lion Books
+1636	1	Day One Publications
+1637	1	Upper Room
+1638	1	Harvest House Publishers
+1639	1	Upper Room
+1640	1	Fortress Press
+1641	1	Hendrickson
+1642	1	Abingdon Press
+1643	1	Simon Scribbles
+1644	1	Berkley Hardcover
+1645	1	Dutton Juvenile
+1646	1	Thomas Nelson
+1647	1	Baker
+1648	1	Zondervan Youth Specialties
+1649	1	Xulon Press
+1650	1	Avon Inspire
+1651	1	Christian Logic
+1652	1	FaithWords
+1653	1	Grosset & Dunlap
+1654	1	Emerald Books
+1655	1	Inter-varsity Press
+1656	1	Harvest House Publishers
+1657	1	Baker
+1658	1	Free Press
+1659	1	Westminster John Knox Press
+1660	1	Westminster John Knox Press
+1661	1	Living Stream Ministry
+1662	1	Banner Of Truth
+1663	1	Publicaciones Casa
+1664	1	Random House, Inc
+1665	1	Vida/Youth Specialties
+1666	1	Beacon Hill Press
+1667	1	Houghton-mifflin
+1668	1	P & R Publishing
+1669	1	Strang Communications
+1670	1	Rodale
+1671	1	Little Brown Young Readers
+1672	1	Wipf & Stock
+1673	1	Monarch Books
+1674	1	Atheneum
+1675	1	Houghton Mifflin Books for Children
+1676	1	Paulist Press
+1677	1	Cascade Books
+1678	1	Kregel Publications
+1679	1	American Bible Society
+1680	1	Crown Financial Ministries
+1681	1	Xulon Press
+1682	1	New Leaf Publishing Group
+1683	1	Abc Book Publishing
+1684	1	Baker
+1685	1	Tate Publishing
+1686	1	Bethany House
+1687	1	Paulist Press
+1688	1	Grupo Nelson
+1689	1	Applewood Books
+1690	1	New Hope Publishers
+1691	1	Wm. B. Eerdmans Publishing Co.
+1692	1	Tsaba House
+1693	1	Thomas Nelson
+1694	1	DK Publishing Inc.
+1695	1	New Hope Publishers
+1696	1	Xulon Press
+1697	1	NewLife Book Publishing
+1698	1	Chicken Soup for the Soul
+1699	1	Houghton-mifflin
+1700	1	P & R Publishing
+1701	1	Harvest House Publishers
+1702	1	Wm. B. Eerdmans Publishing Co.
+1703	1	Canon Press
+1704	1	Evangelical Press
+1705	1	Cambridge University Press
+1706	1	Pleasant Word
+1707	1	Houghton-mifflin
+1708	1	Health Communications
+1709	1	Tyndale House
+1710	1	Zondervan
+1711	1	Christian Focus Publications
+1712	1	Grupo Nelson
+1713	1	Xulon Press
+1714	1	Thomas Nelson
+1715	1	Biblica Publishing
+1716	1	Loyola Press
+1717	1	Skylight Paths Publishing
+1718	1	Alpha
+1719	1	Winepress Publishing
+1720	1	Lift Every Voice
+1721	1	Thomas Nelson
+1722	1	Thomas Nelson
+1723	1	Continuum International
+1724	1	Penguin Classics
+1725	1	Fortress Press
+1726	1	Continuum International
+1727	1	Prentice Hall / Penguin Putnam
+1728	1	Simon Spotlight
+1729	1	NAV Press
+1730	1	Random House, Inc
+1731	1	Gospel Light
+1732	1	Random House, Inc
+1733	1	Sheed & Ward
+1734	1	Random House, Inc
+1735	1	Center Street
+1736	1	Tyndale House
+1737	1	Bethany House
+1738	1	CDLM
+1739	1	Wm. B. Eerdmans Publishing Co.
+1740	1	Puffin
+1741	1	Pleasant Word (winepress Pub)
+1742	1	Candy Cane Press
+1743	1	Augsburg Fortress
+1744	1	Yale University Press
+1745	1	Tate Publishing
+1746	1	Countryman
+1747	1	NAV Press
+1748	1	Xulon Press
+1749	1	Beacon Hill Press
+1750	1	Pleasant Word (winepress Pub)
+1751	1	Simon & Schuster Children's Publishing
+1752	1	Christian Focus
+1753	1	Harvest House Publishers
+1754	1	Smyth & Helwys Publishing, Inc
+1755	1	Aladdin
+1756	1	Penguin Audio
+1757	1	Dover Publications
+1758	1	Ave Maria Press
+1759	1	Random House, Inc
+1760	1	Judson Press
+1761	1	Houghton-mifflin
+1762	1	Wipf & Stock
+1763	1	Westminster John Knox Press
+1764	1	Basic Books
+1765	1	Thomas Nelson
+1766	1	Destiny Image
+1767	1	Baker
+1768	1	Open Texture Llc
+1769	1	Destiny Image
+1770	1	Moody Publishers
+1771	1	Youth Specialties
+1772	1	Crossway Books & Bibles
+1773	1	Bethany House
+1774	1	Inter-varsity Press
+1775	1	Zondervan
+1776	1	Moody Publishers
+1777	1	Regal Books
+1778	1	Baker
+1779	1	St. Anthony Messenger Press
+1780	1	Harvest House Publishers
+1781	1	LifeBridge Books
+1782	1	B & H Publishing Group
+1783	1	Authentic
+1784	1	Mercer Press
+1785	1	Collins
+1786	1	Xulon Press
+1787	1	Little Simon
+1788	1	Dover Publications
+1789	1	Baker Books
+1790	1	Wipf & Stock
+1791	1	Oxford University Press
+1792	1	Evangelical Press
+1793	1	Augsburg Fortress
+1794	1	Simon & Schuster
+1795	1	Bill Rudge Ministries
+1796	1	New Leaf Publishing Group
+1797	1	Simon & Schuster Children's Publishing
+1798	1	Thomas Nelson
+1799	1	Westminster John Knox Press
+1800	1	Zondervan
+1801	1	Xulon Press
+1802	1	Casa Creacion
+1803	1	Group Publishing
+1804	1	Bethany House
+1805	1	St Paul Press
+1806	1	Carpenters Son Publishing
+1807	1	Jewish Lights Publishing
+1808	1	Augsburg Fortress
+1809	1	New City Press
+1810	1	Acu Press
+1811	1	Tyndale House
+1812	1	Houghton-mifflin
+1813	1	Beacon Hill Press
+1814	1	Penguin Classics
+1815	1	Center Point Large Print Books
+1816	1	Strang Communications
+1817	1	Random House, Inc
+1818	1	Thomas Nelson
+1819	1	Deep River
+1820	1	Westminster John Knox Press
+1821	1	Tuttle Publishing
+1822	1	Editorial Patmos
+1823	1	Zondervan
+1824	1	Houghton-mifflin
+1825	1	Center Point Large Print Books
+1826	1	Bethlehem Books
+1827	1	Penguin Classics
+1828	1	Destiny Image
+1829	1	IVP Books
+1830	1	Zondervan
+1831	1	Wood Lake Books
+1832	1	Vida
+1833	1	Destiny Image
+1834	1	Strang Communications
+1835	1	Liturgical Press
+1836	1	Westminster John Knox Press
+1837	1	Multnomah Books
+1838	1	FaithWords
+1839	1	Simon & Schuster
+1840	1	FaithWords
+1841	1	Banner Of Truth
+1842	1	Editorial Portavoz
+1843	1	Strang Communications
+1844	1	DK Publishing Inc.
+1845	1	NAV Press
+1846	1	Puffin
+1847	1	Xulon Press
+1848	1	Vida
+1849	1	Ave Maria Press
+1850	1	HarperCollins
+1851	1	Barclay Press
+1852	1	Wipf & Stock
+1853	1	Paraclete Press
+1854	1	Baylor University Press
+1855	1	Evergreen Press
+1856	1	Charlesbridge Publishing
+1857	1	Zondervan Youth Specialties
+1858	1	Master Books
+1859	1	Orbis Books
+1860	1	Pickwick Publications
+1861	1	Creation House
+1862	1	Destiny Image
+1863	1	Penguin Classics
+1864	1	Abingdon Press
+1865	1	HarperCollins
+1866	1	HarperOne
+1867	1	Thomas Nelson
+1868	1	Grupo Nelson
+1869	1	Steeple Hill Books
+1870	1	Upper Room
+1871	1	Vida
+1872	1	Authentic
+1873	1	DK Children
+1874	1	Pocket Books
+1875	1	Zondervan
+1876	1	Xulon Press
+1877	1	Kregel Publications
+1878	1	Canterbury Press
+1879	1	Bethany House
+1880	1	Harvest House Publishers
+1881	1	Baker Books
+1882	1	Bethany House
+1883	1	Baker
+1884	1	Hendrickson Publishers
+1885	1	Knowledge Quest
+1886	1	Familylife
+1887	1	Ywam Publishing
+1888	1	Harvest House Publishers
+1889	1	Wm. B. Eerdmans Publishing Co.
+1890	1	Gospel Light
+1891	1	College Press
+1892	1	Inter-varsity Press
+1893	1	Moody Publishers
+1894	1	Xulon Press
+1895	1	Lift Every Voice
+1896	1	Harvest House Publishers
+1897	1	John Wiley & Sons
+1898	1	Frances Lincoln Children's Books
+1899	1	Pilgrim Press
+1900	1	Kregel Publications
+1901	1	Da Capo
+1902	1	Css Publishing
+1903	1	Philomel Books
+1904	1	Paternoster Press
+1905	1	Sage Publications
+1906	1	PrayerShop Publishing
+1907	1	Random House, Inc
+1908	1	Houghton-mifflin
+1909	1	Frances Lincoln Children's Books
+1910	1	Random House, Inc
+1911	1	Center Point Large Print Books
+1912	1	Running Press
+1913	1	Workman Publishing
+1914	1	The Creative Company
+1915	1	Ave Maria Press
+1916	1	Zondervan
+1917	1	Penguin Classics
+1918	1	Ave Maria Press
+1919	1	ECS Ministries
+1920	1	Beacon Hill Press
+1921	1	Little Simon
+1922	1	Wm. B. Eerdmans Publishing Co.
+1923	1	HM
+1924	1	Anomalos Publishing LLC
+1925	1	Continuum International
+1926	1	Wipf & Stock
+1927	1	Real Life Press
+1928	1	B & H Publishing Group
+1929	1	Grupo Nelson
+1930	1	Penguin Putnam Inc.
+1931	1	Houghton-mifflin
+1932	1	Joanna Cotler
+1933	1	Houghton-mifflin
+1934	1	Westminster John Knox Press
+1935	1	Inter-varsity Press
+1936	1	Destiny Image
+1937	1	Yale University Press
+1938	1	John Wiley & Sons
+1939	1	Golden Books
+1940	1	Pleasant Word (winepress Pub)
+1941	1	Signet Classics
+1942	1	Pickwick Publications
+1943	1	Day One Publications
+1944	1	Zondervan
+1945	1	Liguori Publications
+1946	1	Center Point Large Print Books
+1947	1	Walter Lorraine Books
+1948	1	Calif Princeton Fulfilment
+1949	1	Abingdon Press
+1950	1	Standard Publishing
+1951	1	Anomalos Publishing LLC
+1952	1	Westminster John Knox Press
+1953	1	Health Communications
+1954	1	Tyndale House
+1955	1	The Word For Today
+1956	1	Baker
+1957	1	American Girl Publishing
+1958	1	New City Press
+1959	1	Baker
+1960	1	Upper Room
+1961	1	Henry Holt and Co.
+1962	1	Fulmar
+1963	1	Liguori Publications
+1964	1	Css Publishing
+1965	1	Cambridge University Press
+1966	1	Kerygma Publishing
+1967	1	Dial
+1968	1	Discovery House Publishers
+1969	1	Tyndale House
+1970	1	Gospel Light
+1971	1	Thomas Nelson
+1972	1	Barbour Publishing
+1973	1	NAV Press
+1974	1	B&H Publishing Group
+1975	1	Harvest House Publishers
+1976	1	Zondervan
+1977	1	Frontline
+1978	1	Zondervan
+1979	1	Summerside Press
+1980	1	Thomas Nelson
+1981	1	Nelson Impact
+1982	1	Bethany House
+1983	1	Barbour Publishing
+1984	1	Bethany House
+1985	1	Zondervan
+1986	1	Barbour Publishing
+1987	1	Christian Focus Publications
+1988	1	Tyndale House
+1989	1	Thomas Nelson
+1990	1	Penguin Putnam Inc.
+1991	1	Bethany House
+1992	1	New Hope Publishers
+1993	1	Amg Publishers
+1994	1	Revell
+1995	1	Thomas Nelson
+1996	1	Thomas Nelson
+1997	1	Revell
+1998	1	Wm. B. Eerdmans Publishing Co.
+1999	1	Harpercollins Publishing

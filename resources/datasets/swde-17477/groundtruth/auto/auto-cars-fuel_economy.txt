@@ -1,0 +1,659 @@
+﻿auto	cars	fuel_economy
+657	607	607	355
+0000	1	City: 16 &nbsp;&nbsp;Highway: 23
+0001	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 22 &#150; 24
+0002	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 30
+0003	1	City: 16 &nbsp;&nbsp;Highway: 21
+0004	1	City: 16 &nbsp;&nbsp;Highway: 21
+0005	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 22 &#150; 24
+0006	1	City: 16 &nbsp;&nbsp;Highway: 22
+0007	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 26
+0008	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 26
+0009	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 30
+0010	1	City: 13 &nbsp;&nbsp;Highway: 19
+0011	1	City: 11 &#150; 13 &nbsp;&nbsp;Highway: 17 &#150; 20
+0012	1	City: 11 &#150; 12 &nbsp;&nbsp;Highway: 17 &#150; 18
+0013	1	City: 13 &nbsp;&nbsp;Highway: 19
+0014	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 19 &#150; 20
+0015	1	City: 12 &nbsp;&nbsp;Highway: 18
+0016	1	City: 13 &nbsp;&nbsp;Highway: 19
+0017	1	City: 11 &nbsp;&nbsp;Highway: 15
+0018	1	City: 28 &#150; 29 &nbsp;&nbsp;Highway: 37 &#150; 38
+0019	1	City: 41 &nbsp;&nbsp;Highway: 36
+0020	1	City: 22 &nbsp;&nbsp;Highway: 25
+0021	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 23 &#150; 26
+0022	0	<NULL>
+0023	0	<NULL>
+0024	0	<NULL>
+0025	0	<NULL>
+0026	1	City: 17 &#150; 23 &nbsp;&nbsp;Highway: 24 &#150; 34
+0027	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 23 &#150; 26
+0028	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 31
+0029	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 28
+0030	0	<NULL>
+0031	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 15 &#150; 17
+0032	0	<NULL>
+0033	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 16 &#150; 17
+0034	0	<NULL>
+0035	1	City: 10 &#150; 12 &nbsp;&nbsp;Highway: 13 &#150; 15
+0036	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 23 &#150; 25
+0037	1	City: 18 &#150; 22 &nbsp;&nbsp;Highway: 23 &#150; 28
+0038	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 23 &#150; 28
+0039	1	City: 30 &#150; 34 &nbsp;&nbsp;Highway: 27 &#150; 31
+0040	1	City: 30 &#150; 34 &nbsp;&nbsp;Highway: 27 &#150; 31
+0041	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 17 &#150; 20
+0042	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 20
+0043	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 17 &#150; 20
+0044	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 20
+0045	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 19 &#150; 21
+0046	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 19 &#150; 21
+0047	1	City: 14 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 21
+0048	0	<NULL>
+0049	0	<NULL>
+0050	0	<NULL>
+0051	0	<NULL>
+0052	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 24
+0053	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 21 &#150; 24
+0054	1	City: 24 &nbsp;&nbsp;Highway: 34 &#150; 35
+0055	1	City: 25 &nbsp;&nbsp;Highway: 34 &#150; 35
+0056	1	City: 17 &#150; 23 &nbsp;&nbsp;Highway: 24 &#150; 33
+0057	1	City: 41 &nbsp;&nbsp;Highway: 36
+0058	1	City: 14 &#150; 22 &nbsp;&nbsp;Highway: 18 &#150; 27
+0059	1	City: 14 &#150; 22 &nbsp;&nbsp;Highway: 18 &#150; 27
+0060	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 28
+0061	1	City: 21 &nbsp;&nbsp;Highway: 26
+0062	1	City: 17 &#150; 22 &nbsp;&nbsp;Highway: 24 &#150; 32
+0063	0	<NULL>
+0064	0	<NULL>
+0065	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 24
+0066	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 24
+0067	1	City: 14 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 25
+0068	1	City: 14 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 25
+0069	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 17 &#150; 20
+0070	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 17 &#150; 20
+0071	0	<NULL>
+0072	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 16
+0073	0	<NULL>
+0074	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 16
+0075	1	City: 12 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 22
+0076	1	City: 12 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 22
+0077	1	City: 21 &nbsp;&nbsp;Highway: 22
+0078	1	City: 20 &nbsp;&nbsp;Highway: 23
+0079	0	<NULL>
+0080	0	<NULL>
+0081	1	City: 20 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 32
+0082	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 20 &#150; 21
+0083	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 21
+0084	1	City: 21 &nbsp;&nbsp;Highway: 22
+0085	1	City: 20 &nbsp;&nbsp;Highway: 23
+0086	1	City: 12 &#150; 15 &nbsp;&nbsp;Highway: 19 &#150; 21
+0087	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 21
+0088	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 27
+0089	1	City: 31 &#150; 35 &nbsp;&nbsp;Highway: 37 &#150; 39
+0090	1	City: 40 &nbsp;&nbsp;Highway: 43
+0091	1	City: 18 &#150; 19 &nbsp;&nbsp;Highway: 27 &#150; 28
+0092	1	City: 17 &#150; 22 &nbsp;&nbsp;Highway: 25 &#150; 31
+0093	1	City: 17 &#150; 23 &nbsp;&nbsp;Highway: 26 &#150; 34
+0094	1	City: 21 &#150; 26 &nbsp;&nbsp;Highway: 29 &#150; 36
+0095	1	City: 21 &#150; 26 &nbsp;&nbsp;Highway: 29 &#150; 36
+0096	1	City: 40 &nbsp;&nbsp;Highway: 45
+0097	1	City: 40 &nbsp;&nbsp;Highway: 43
+0098	1	City: 21 &nbsp;&nbsp;Highway: 27 &#150; 28
+0099	1	City: 21 &nbsp;&nbsp;Highway: 27 &#150; 28
+0100	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 24 &#150; 25
+0101	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 24 &#150; 25
+0102	1	City: 27 &#150; 28 &nbsp;&nbsp;Highway: 33 &#150; 35
+0103	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 25
+0104	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0105	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0106	1	City: 15 &nbsp;&nbsp;Highway: 20
+0107	1	City: 15 &nbsp;&nbsp;Highway: 20
+0108	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 16 &#150; 18
+0109	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 16 &#150; 18
+0110	0	<NULL>
+0111	1	City: 17 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 30
+0112	0	<NULL>
+0113	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 27 &#150; 28
+0114	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 28
+0115	1	City: 22 &#150; 24 &nbsp;&nbsp;Highway: 33 &#150; 35
+0116	1	City: 27 &#150; 28 &nbsp;&nbsp;Highway: 34 &#150; 36
+0117	1	City: 27 &#150; 28 &nbsp;&nbsp;Highway: 34 &#150; 36
+0118	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 26
+0119	1	City: 25 &#150; 26 &nbsp;&nbsp;Highway: 34
+0120	1	City: 23 &nbsp;&nbsp;Highway: 30 &#150; 31
+0121	1	City: 23 &nbsp;&nbsp;Highway: 30 &#150; 31
+0122	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 27
+0123	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 27
+0124	1	City: 17 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 30
+0125	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 25 &#150; 28
+0126	1	City: 19 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 32
+0127	1	City: 21 &#150; 23 &nbsp;&nbsp;Highway: 28 &#150; 31
+0128	1	City: 20 &#150; 23 &nbsp;&nbsp;Highway: 27 &#150; 31
+0129	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0130	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0131	1	City: 20 &nbsp;&nbsp;Highway: 29
+0132	1	City: 16 &#150; 19 &nbsp;&nbsp;Highway: 24 &#150; 27
+0133	1	City: 18 &nbsp;&nbsp;Highway: 26
+0134	1	City: 16 &nbsp;&nbsp;Highway: 25
+0135	1	City: 14 &nbsp;&nbsp;Highway: 20
+0136	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 24
+0137	1	City: 17 &nbsp;&nbsp;Highway: 24
+0138	1	City: 16 &nbsp;&nbsp;Highway: 21 &#150; 23
+0139	1	City: 16 &nbsp;&nbsp;Highway: 21 &#150; 23
+0140	1	City: 14 &nbsp;&nbsp;Highway: 20
+0141	1	City: 14 &nbsp;&nbsp;Highway: 20
+0142	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 27
+0143	1	City: 17 &nbsp;&nbsp;Highway: 25
+0144	1	City: 16 &nbsp;&nbsp;Highway: 21
+0145	1	City: 12 &nbsp;&nbsp;Highway: 17 &#150; 18
+0146	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 25
+0147	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 23
+0148	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 23
+0149	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 23
+0150	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 22 &#150; 24
+0151	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 22 &#150; 24
+0152	1	City: 13 &#150; 16 &nbsp;&nbsp;Highway: 19 &#150; 23
+0153	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 19 &#150; 20
+0154	1	City: 21 &#150; 23 &nbsp;&nbsp;Highway: 24 &#150; 29
+0155	1	City: 12 &#150; 16 &nbsp;&nbsp;Highway: 16 &#150; 21
+0156	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0157	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0158	1	City: 20 &#150; 23 &nbsp;&nbsp;Highway: 22 &#150; 29
+0159	1	City: 20 &#150; 23 &nbsp;&nbsp;Highway: 23 &#150; 29
+0160	1	City: 15 &nbsp;&nbsp;Highway: 19
+0161	1	City: 15 &nbsp;&nbsp;Highway: 19
+0162	1	City: 15 &nbsp;&nbsp;Highway: 19 &#150; 20
+0163	1	City: 15 &nbsp;&nbsp;Highway: 19
+0164	1	City: 22 &#150; 27 &nbsp;&nbsp;Highway: 31 &#150; 36
+0165	1	City: 22 &#150; 25 &nbsp;&nbsp;Highway: 31 &#150; 34
+0166	1	City: 24 &#150; 26 &nbsp;&nbsp;Highway: 30 &#150; 31
+0167	1	City: 22 &#150; 24 &nbsp;&nbsp;Highway: 34 &#150; 35
+0168	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 25 &#150; 29
+0169	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 28 &#150; 31
+0170	1	City: 22 &#150; 26 &nbsp;&nbsp;Highway: 31 &#150; 36
+0171	1	City: 22 &#150; 25 &nbsp;&nbsp;Highway: 31 &#150; 34
+0172	1	City: 20 &#150; 22 &nbsp;&nbsp;Highway: 28 &#150; 32
+0173	1	City: 27 &#150; 28 &nbsp;&nbsp;Highway: 34 &#150; 36
+0174	1	City: 27 &#150; 28 &nbsp;&nbsp;Highway: 34 &#150; 36
+0175	1	City: 27 &#150; 28 &nbsp;&nbsp;Highway: 34 &#150; 36
+0176	1	City: 27 &nbsp;&nbsp;Highway: 36
+0177	0	<NULL>
+0178	1	City: 17 &nbsp;&nbsp;Highway: 23
+0179	1	City: 18 &nbsp;&nbsp;Highway: 25
+0180	1	City: 24 &#150; 26 &nbsp;&nbsp;Highway: 30 &#150; 31
+0181	1	City: 18 &#150; 20 &nbsp;&nbsp;Highway: 23 &#150; 25
+0182	1	City: 17 &nbsp;&nbsp;Highway: 27
+0183	1	City: 13 &#150; 17 &nbsp;&nbsp;Highway: 18 &#150; 25
+0184	1	City: 11 &#150; 13 &nbsp;&nbsp;Highway: 19 &#150; 21
+0185	1	City: 18 &nbsp;&nbsp;Highway: 27 &#150; 28
+0186	1	City: 22 &nbsp;&nbsp;Highway: 31
+0187	1	City: 21 &nbsp;&nbsp;Highway: 29
+0188	1	City: 21 &#150; 30 &nbsp;&nbsp;Highway: 28 &#150; 42
+0189	1	City: 21 &#150; 30 &nbsp;&nbsp;Highway: 28 &#150; 42
+0190	1	City: 21 &#150; 23 &nbsp;&nbsp;Highway: 27 &#150; 30
+0191	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 31
+0192	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 26 &#150; 30
+0193	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 31
+0194	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 23 &#150; 28
+0195	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 30
+0196	1	City: 16 &nbsp;&nbsp;Highway: 23
+0197	1	City: 18 &nbsp;&nbsp;Highway: 23
+0198	1	City: 18 &#150; 20 &nbsp;&nbsp;Highway: 23 &#150; 27
+0199	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 25
+0200	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 18 &#150; 20
+0201	1	City: 18 &nbsp;&nbsp;Highway: 27 &#150; 28
+0202	1	City: 14 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 26
+0203	1	City: 14 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 26
+0204	1	City: 14 &nbsp;&nbsp;Highway: 19
+0205	0	<NULL>
+0206	1	City: 21 &nbsp;&nbsp;Highway: 29
+0207	1	City: 21 &nbsp;&nbsp;Highway: 29
+0208	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 20
+0209	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 20
+0210	1	City: 8 &#150; 9 &nbsp;&nbsp;Highway: 13 &#150; 14
+0211	1	City: 12 &nbsp;&nbsp;Highway: 17
+0212	1	City: 15 &nbsp;&nbsp;Highway: 22
+0213	1	City: 15 &nbsp;&nbsp;Highway: 22
+0214	1	City: 12 &nbsp;&nbsp;Highway: 17
+0215	1	City: 12 &nbsp;&nbsp;Highway: 18
+0216	1	City: 12 &nbsp;&nbsp;Highway: 18
+0217	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 17 &#150; 18
+0218	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 17 &#150; 18
+0219	0	<NULL>
+0220	1	City: 35 &nbsp;&nbsp;Highway: 34
+0221	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 29
+0222	1	City: 18 &nbsp;&nbsp;Highway: 25
+0223	1	City: 15 &nbsp;&nbsp;Highway: 20
+0224	1	City: 18 &nbsp;&nbsp;Highway: 24 &#150; 25
+0225	1	City: 30 &#150; 32 &nbsp;&nbsp;Highway: 28
+0226	1	City: 19 &nbsp;&nbsp;Highway: 27
+0227	1	City: 19 &nbsp;&nbsp;Highway: 27
+0228	1	City: 18 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 26
+0229	1	City: 18 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 26
+0230	1	City: 22 &nbsp;&nbsp;Highway: 25
+0231	1	City: 22 &nbsp;&nbsp;Highway: 25
+0232	1	City: 17 &nbsp;&nbsp;Highway: 24
+0233	1	City: 17 &nbsp;&nbsp;Highway: 24
+0234	1	City: 15 &nbsp;&nbsp;Highway: 20
+0235	1	City: 35 &nbsp;&nbsp;Highway: 34
+0236	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 29
+0237	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 30
+0238	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 30
+0239	1	City: 18 &nbsp;&nbsp;Highway: 25
+0240	1	City: 18 &#150; 20 &nbsp;&nbsp;Highway: 25 &#150; 27
+0241	1	City: 20 &nbsp;&nbsp;Highway: 27
+0242	1	City: 16 &nbsp;&nbsp;Highway: 23
+0243	1	City: 16 &nbsp;&nbsp;Highway: 23
+0244	1	City: 16 &nbsp;&nbsp;Highway: 23 &#150; 24
+0245	1	City: 16 &nbsp;&nbsp;Highway: 23 &#150; 24
+0246	1	City: 20 &nbsp;&nbsp;Highway: 22
+0247	1	City: 19 &nbsp;&nbsp;Highway: 23
+0248	1	City: 12 &nbsp;&nbsp;Highway: 18
+0249	1	City: 12 &nbsp;&nbsp;Highway: 18
+0250	1	City: 18 &nbsp;&nbsp;Highway: 24 &#150; 25
+0251	1	City: 30 &#150; 32 &nbsp;&nbsp;Highway: 28
+0252	1	City: 16 &nbsp;&nbsp;Highway: 23
+0253	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0254	1	City: 41 &nbsp;&nbsp;Highway: 36
+0255	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 23 &#150; 26
+0256	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 24 &#150; 27
+0257	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 24 &#150; 27
+0258	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 25
+0259	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 25
+0260	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 21 &#150; 23
+0261	1	City: 15 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 24
+0262	1	City: 14 &nbsp;&nbsp;Highway: 20
+0263	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 20
+0264	1	City: 16 &nbsp;&nbsp;Highway: 24
+0265	1	City: 16 &nbsp;&nbsp;Highway: 24
+0266	0	<NULL>
+0267	1	City: 20 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 27
+0268	1	City: 20 &nbsp;&nbsp;Highway: 26
+0269	1	City: 11 &#150; 12 &nbsp;&nbsp;Highway: 18 &#150; 19
+0270	1	City: 11 &nbsp;&nbsp;Highway: 17 &#150; 18
+0271	1	City: 10 &nbsp;&nbsp;Highway: 16
+0272	1	City: 10 &nbsp;&nbsp;Highway: 16
+0273	1	City: 10 &nbsp;&nbsp;Highway: 16
+0274	1	City: 10 &nbsp;&nbsp;Highway: 16
+0275	1	City: 10 &nbsp;&nbsp;Highway: 16
+0276	1	City: 27 &#150; 29 &nbsp;&nbsp;Highway: 33 &#150; 35
+0277	1	City: 17 &#150; 20 &nbsp;&nbsp;Highway: 23 &#150; 28
+0278	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0279	1	City: 21 &#150; 25 &nbsp;&nbsp;Highway: 29 &#150; 33
+0280	1	City: 18 &nbsp;&nbsp;Highway: 25
+0281	1	City: 17 &#150; 20 &nbsp;&nbsp;Highway: 21 &#150; 28
+0282	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 24
+0283	1	City: 20 &#150; 25 &nbsp;&nbsp;Highway: 28 &#150; 33
+0284	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 27 &#150; 28
+0285	1	City: 17 &#150; 21 &nbsp;&nbsp;Highway: 25 &#150; 30
+0286	1	City: 18 &#150; 22 &nbsp;&nbsp;Highway: 27 &#150; 31
+0287	1	City: 18 &nbsp;&nbsp;Highway: 25
+0288	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 28
+0289	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 28
+0290	1	City: 16 &nbsp;&nbsp;Highway: 22 &#150; 23
+0291	1	City: 16 &nbsp;&nbsp;Highway: 22 &#150; 23
+0292	1	City: 18 &#150; 22 &nbsp;&nbsp;Highway: 23 &#150; 28
+0293	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 23 &#150; 28
+0294	0	<NULL>
+0295	1	City: 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0296	1	City: 14 &nbsp;&nbsp;Highway: 20
+0297	1	City: 13 &#150; 18 &nbsp;&nbsp;Highway: 20 &#150; 26
+0298	1	City: 13 &#150; 22 &nbsp;&nbsp;Highway: 20 &#150; 33
+0299	1	City: 15 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 24
+0300	1	City: 12 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 26
+0301	1	City: 13 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 26
+0302	1	City: 11 &#150; 14 &nbsp;&nbsp;Highway: 17 &#150; 21
+0303	1	City: 12 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 23
+0304	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 21
+0305	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 21
+0306	1	City: 11 &nbsp;&nbsp;Highway: 15
+0307	1	City: 11 &nbsp;&nbsp;Highway: 13 &#150; 15
+0308	1	City: 12 &#150; 17 &nbsp;&nbsp;Highway: 17 &#150; 23
+0309	1	City: 12 &#150; 17 &nbsp;&nbsp;Highway: 17 &#150; 21
+0310	1	City: 16 &nbsp;&nbsp;Highway: 21 &#150; 23
+0311	1	City: 11 &#150; 21 &nbsp;&nbsp;Highway: 15 &#150; 25
+0312	1	City: 11 &#150; 20 &nbsp;&nbsp;Highway: 15 &#150; 25
+0313	1	City: 14 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 24
+0314	1	City: 11 &#150; 19 &nbsp;&nbsp;Highway: 17 &#150; 25
+0315	1	City: 12 &#150; 19 &nbsp;&nbsp;Highway: 19 &#150; 25
+0316	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 22
+0317	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 22 &#150; 26
+0318	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 26
+0319	0	<NULL>
+0320	0	<NULL>
+0321	1	City: 41 &nbsp;&nbsp;Highway: 36
+0322	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 34
+0323	1	City: 16 &nbsp;&nbsp;Highway: 24
+0324	1	City: 16 &nbsp;&nbsp;Highway: 24
+0325	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 23 &#150; 28
+0326	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 23 &#150; 28
+0327	1	City: 30 &#150; 34 &nbsp;&nbsp;Highway: 27 &#150; 31
+0328	1	City: 30 &#150; 34 &nbsp;&nbsp;Highway: 27 &#150; 31
+0329	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 34
+0330	1	City: 41 &nbsp;&nbsp;Highway: 36
+0331	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 19 &#150; 21
+0332	0	<NULL>
+0333	1	City: 9 &nbsp;&nbsp;Highway: 15
+0334	1	City: 9 &nbsp;&nbsp;Highway: 15
+0335	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 17 &#150; 18
+0336	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 17 &#150; 18
+0337	1	City: 10 &nbsp;&nbsp;Highway: 17
+0338	0	<NULL>
+0339	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 17 &#150; 18
+0340	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 17 &#150; 18
+0341	1	City: 12 &nbsp;&nbsp;Highway: 19
+0342	0	<NULL>
+0343	0	<NULL>
+0344	1	City: 25 &#150; 28 &nbsp;&nbsp;Highway: 33 &#150; 37
+0345	1	City: 27 &#150; 29 &nbsp;&nbsp;Highway: 35 &#150; 37
+0346	1	City: 25 &#150; 28 &nbsp;&nbsp;Highway: 33 &#150; 36
+0347	1	City: 27 &nbsp;&nbsp;Highway: 35 &#150; 36
+0348	1	City: 24 &#150; 26 &nbsp;&nbsp;Highway: 32 &#150; 34
+0349	1	City: 26 &#150; 27 &nbsp;&nbsp;Highway: 34 &#150; 36
+0350	1	City: 24 &#150; 26 &nbsp;&nbsp;Highway: 32 &#150; 34
+0351	1	City: 26 &#150; 27 &nbsp;&nbsp;Highway: 34 &#150; 36
+0352	1	City: 17 &#150; 21 &nbsp;&nbsp;Highway: 25 &#150; 27
+0353	1	City: 24 &#150; 25 &nbsp;&nbsp;Highway: 29 &#150; 31
+0354	1	City: 16 &#150; 20 &nbsp;&nbsp;Highway: 24 &#150; 28
+0355	1	City: 17 &#150; 20 &nbsp;&nbsp;Highway: 25 &#150; 28
+0356	1	City: 15 &nbsp;&nbsp;Highway: 19 &#150; 21
+0357	1	City: 15 &nbsp;&nbsp;Highway: 19 &#150; 21
+0358	1	City: 21 &nbsp;&nbsp;Highway: 30
+0359	1	City: 21 &nbsp;&nbsp;Highway: 30
+0360	1	City: 17 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 31
+0361	1	City: 17 &#150; 25 &nbsp;&nbsp;Highway: 25 &#150; 33
+0362	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22
+0363	1	City: 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0364	1	City: 17 &#150; 25 &nbsp;&nbsp;Highway: 25 &#150; 32
+0365	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 24 &#150; 27
+0366	1	City: 19 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 28
+0367	1	City: 24 &#150; 27 &nbsp;&nbsp;Highway: 30 &#150; 32
+0368	0	<NULL>
+0369	1	City: 18 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 26
+0370	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 27 &#150; 32
+0371	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 27 &#150; 32
+0372	1	City: 35 &nbsp;&nbsp;Highway: 33
+0373	1	City: 33 &nbsp;&nbsp;Highway: 33
+0374	1	City: 12 &nbsp;&nbsp;Highway: 18
+0375	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 18 &#150; 19
+0376	1	City: 25 &#150; 27 &nbsp;&nbsp;Highway: 30 &#150; 31
+0377	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 19 &#150; 23
+0378	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 19 &#150; 23
+0379	1	City: 15 &nbsp;&nbsp;Highway: 21
+0380	1	City: 15 &nbsp;&nbsp;Highway: 21
+0381	1	City: 19 &nbsp;&nbsp;Highway: 26
+0382	1	City: 19 &nbsp;&nbsp;Highway: 26
+0383	1	City: 18 &nbsp;&nbsp;Highway: 23
+0384	1	City: 18 &nbsp;&nbsp;Highway: 23
+0385	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 22
+0386	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 22
+0387	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 26 &#150; 27
+0388	1	City: 22 &nbsp;&nbsp;Highway: 26 &#150; 28
+0389	1	City: 21 &#150; 26 &nbsp;&nbsp;Highway: 28 &#150; 34
+0390	1	City: 21 &#150; 27 &nbsp;&nbsp;Highway: 28 &#150; 34
+0391	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 17 &#150; 18
+0392	1	City: 12 &#150; 13 &nbsp;&nbsp;Highway: 17 &#150; 18
+0393	1	City: 24 &#150; 28 &nbsp;&nbsp;Highway: 31 &#150; 34
+0394	1	City: 24 &#150; 28 &nbsp;&nbsp;Highway: 31 &#150; 34
+0395	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 20 &#150; 21
+0396	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 20
+0397	0	<NULL>
+0398	1	City: 20 &#150; 26 &nbsp;&nbsp;Highway: 26 &#150; 32
+0399	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 26 &#150; 29
+0400	1	City: 21 &nbsp;&nbsp;Highway: 25
+0401	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 23 &#150; 24
+0402	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 22 &#150; 23
+0403	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 21 &#150; 27
+0404	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 21 &#150; 27
+0405	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 26 &#150; 29
+0406	1	City: 11 &#150; 14 &nbsp;&nbsp;Highway: 17 &#150; 20
+0407	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 26 &#150; 29
+0408	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 26 &#150; 29
+0409	1	City: 15 &#150; 18 &nbsp;&nbsp;Highway: 23 &#150; 27
+0410	1	City: 13 &nbsp;&nbsp;Highway: 20
+0411	1	City: 11 &nbsp;&nbsp;Highway: 18
+0412	1	City: 11 &nbsp;&nbsp;Highway: 18
+0413	1	City: 11 &nbsp;&nbsp;Highway: 18
+0414	1	City: 16 &nbsp;&nbsp;Highway: 27
+0415	1	City: 17 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 31
+0416	1	City: 17 &nbsp;&nbsp;Highway: 27
+0417	0	<NULL>
+0418	1	City: 23 &nbsp;&nbsp;Highway: 31
+0419	1	City: 20 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 29
+0420	1	City: 22 &nbsp;&nbsp;Highway: 28
+0421	1	City: 22 &nbsp;&nbsp;Highway: 28
+0422	1	City: 27 &nbsp;&nbsp;Highway: 33
+0423	1	City: 27 &nbsp;&nbsp;Highway: 33
+0424	1	City: 33 &nbsp;&nbsp;Highway: 41
+0425	1	City: 17 &nbsp;&nbsp;Highway: 23
+0426	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 31
+0427	1	City: 18 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 31
+0428	1	City: 18 &#150; 22 &nbsp;&nbsp;Highway: 25 &#150; 29
+0429	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 24 &#150; 27
+0430	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 24 &#150; 27
+0431	1	City: 18 &#150; 20 &nbsp;&nbsp;Highway: 24 &#150; 27
+0432	1	City: 20 &nbsp;&nbsp;Highway: 26 &#150; 27
+0433	1	City: 20 &nbsp;&nbsp;Highway: 26 &#150; 27
+0434	1	City: 18 &#150; 22 &nbsp;&nbsp;Highway: 25 &#150; 29
+0435	1	City: 16 &nbsp;&nbsp;Highway: 21
+0436	1	City: 16 &nbsp;&nbsp;Highway: 21
+0437	1	City: 17 &nbsp;&nbsp;Highway: 19
+0438	1	City: 12 &nbsp;&nbsp;Highway: 17
+0439	1	City: 17 &nbsp;&nbsp;Highway: 19
+0440	1	City: 12 &nbsp;&nbsp;Highway: 17
+0441	1	City: 22 &nbsp;&nbsp;Highway: 32
+0442	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 28 &#150; 30
+0443	1	City: 15 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 25
+0444	0	<NULL>
+0445	1	City: 18 &nbsp;&nbsp;Highway: 27 &#150; 28
+0446	1	City: 18 &nbsp;&nbsp;Highway: 27 &#150; 28
+0447	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 26
+0448	1	City: 18 &#150; 20 &nbsp;&nbsp;Highway: 25 &#150; 28
+0449	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 28
+0450	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 28
+0451	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 25 &#150; 26
+0452	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 24 &#150; 28
+0453	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 28
+0454	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 26
+0455	1	City: 19 &nbsp;&nbsp;Highway: 28
+0456	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 27 &#150; 30
+0457	1	City: 15 &nbsp;&nbsp;Highway: 22 &#150; 23
+0458	1	City: 15 &nbsp;&nbsp;Highway: 21
+0459	1	City: 15 &nbsp;&nbsp;Highway: 22
+0460	1	City: 14 &#150; 15 &nbsp;&nbsp;Highway: 21 &#150; 23
+0461	1	City: 17 &nbsp;&nbsp;Highway: 25
+0462	1	City: 14 &#150; 15 &nbsp;&nbsp;Highway: 20 &#150; 22
+0463	1	City: 14 &#150; 15 &nbsp;&nbsp;Highway: 20 &#150; 22
+0464	1	City: 13 &nbsp;&nbsp;Highway: 19
+0465	1	City: 13 &nbsp;&nbsp;Highway: 19
+0466	1	City: 17 &nbsp;&nbsp;Highway: 26
+0467	1	City: 14 &nbsp;&nbsp;Highway: 20 &#150; 22
+0468	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 20
+0469	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 20
+0470	1	City: 11 &nbsp;&nbsp;Highway: 17
+0471	1	City: 11 &nbsp;&nbsp;Highway: 17
+0472	1	City: 17 &nbsp;&nbsp;Highway: 24
+0473	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 19 &#150; 26
+0474	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 20 &#150; 26
+0475	1	City: 12 &nbsp;&nbsp;Highway: 17
+0476	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 21
+0477	1	City: 14 &#150; 16 &nbsp;&nbsp;Highway: 20 &#150; 23
+0478	1	City: 12 &nbsp;&nbsp;Highway: 17
+0479	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 24 &#150; 28
+0480	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 24 &#150; 28
+0481	1	City: 20 &#150; 23 &nbsp;&nbsp;Highway: 29 &#150; 30
+0482	1	City: 15 &#150; 19 &nbsp;&nbsp;Highway: 19 &#150; 23
+0483	1	City: 14 &#150; 19 &nbsp;&nbsp;Highway: 19 &#150; 23
+0484	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 23 &#150; 26
+0485	1	City: 19 &nbsp;&nbsp;Highway: 23 &#150; 26
+0486	1	City: 20 &#150; 23 &nbsp;&nbsp;Highway: 29 &#150; 30
+0487	1	City: 22 &#150; 25 &nbsp;&nbsp;Highway: 29 &#150; 33
+0488	1	City: 22 &#150; 25 &nbsp;&nbsp;Highway: 29 &#150; 33
+0489	0	<NULL>
+0490	0	<NULL>
+0491	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 23
+0492	1	City: 20 &nbsp;&nbsp;Highway: 29
+0493	1	City: 19 &#150; 22 &nbsp;&nbsp;Highway: 28 &#150; 33
+0494	1	City: 33 &nbsp;&nbsp;Highway: 34
+0495	1	City: 51 &nbsp;&nbsp;Highway: 48
+0496	1	City: 16 &#150; 19 &nbsp;&nbsp;Highway: 22 &#150; 24
+0497	1	City: 17 &nbsp;&nbsp;Highway: 22 &#150; 23
+0498	1	City: 19 &nbsp;&nbsp;Highway: 28
+0499	1	City: 20 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 33
+0500	1	City: 31 &nbsp;&nbsp;Highway: 35
+0501	1	City: 22 &#150; 26 &nbsp;&nbsp;Highway: 30 &#150; 35
+0502	1	City: 15 &#150; 17 &nbsp;&nbsp;Highway: 19 &#150; 22
+0503	1	City: 15 &#150; 17 &nbsp;&nbsp;Highway: 19 &#150; 22
+0504	1	City: 17 &#150; 20 &nbsp;&nbsp;Highway: 23 &#150; 27
+0505	1	City: 17 &#150; 20 &nbsp;&nbsp;Highway: 22 &#150; 25
+0506	1	City: 27 &nbsp;&nbsp;Highway: 25
+0507	1	City: 28 &nbsp;&nbsp;Highway: 28
+0508	1	City: 13 &nbsp;&nbsp;Highway: 18
+0509	1	City: 13 &nbsp;&nbsp;Highway: 18
+0510	1	City: 20 &#150; 26 &nbsp;&nbsp;Highway: 26 &#150; 32
+0511	1	City: 51 &nbsp;&nbsp;Highway: 48
+0512	1	City: 19 &#150; 22 &nbsp;&nbsp;Highway: 26 &#150; 28
+0513	1	City: 19 &#150; 22 &nbsp;&nbsp;Highway: 26 &#150; 28
+0514	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 19
+0515	1	City: 12 &#150; 14 &nbsp;&nbsp;Highway: 17 &#150; 20
+0516	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 21 &#150; 23
+0517	1	City: 14 &#150; 20 &nbsp;&nbsp;Highway: 18 &#150; 26
+0518	1	City: 14 &#150; 21 &nbsp;&nbsp;Highway: 18 &#150; 25
+0519	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 17 &#150; 20
+0520	1	City: 13 &#150; 16 &nbsp;&nbsp;Highway: 17 &#150; 20
+0521	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 25 &#150; 29
+0522	1	City: 18 &#150; 21 &nbsp;&nbsp;Highway: 25 &#150; 27
+0523	1	City: 29 &nbsp;&nbsp;Highway: 35 &#150; 36
+0524	1	City: 29 &nbsp;&nbsp;Highway: 35 &#150; 36
+0525	1	City: 19 &nbsp;&nbsp;Highway: 28
+0526	1	City: 22 &#150; 30 &nbsp;&nbsp;Highway: 30 &#150; 42
+0527	1	City: 21 &#150; 24 &nbsp;&nbsp;Highway: 31 &#150; 32
+0528	1	City: 23 &#150; 30 &nbsp;&nbsp;Highway: 29 &#150; 42
+0529	1	City: 16 &#150; 19 &nbsp;&nbsp;Highway: 23 &#150; 28
+0530	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 31
+0531	1	City: 17 &#150; 22 &nbsp;&nbsp;Highway: 25 &#150; 31
+0532	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 31
+0533	1	City: 21 &#150; 22 &nbsp;&nbsp;Highway: 30 &#150; 31
+0534	1	City: 23 &#150; 30 &nbsp;&nbsp;Highway: 31 &#150; 42
+0535	1	City: 21 &#150; 24 &nbsp;&nbsp;Highway: 31 &#150; 33
+0536	1	City: 20 &#150; 30 &nbsp;&nbsp;Highway: 29 &#150; 41
+0537	1	City: 20 &nbsp;&nbsp;Highway: 28 &#150; 29
+0538	1	City: 22 &nbsp;&nbsp;Highway: 31
+0539	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 25
+0540	1	City: 18 &#150; 19 &nbsp;&nbsp;Highway: 24 &#150; 26
+0541	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 25
+0542	1	City: 14 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 25
+0543	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 21 &#150; 27
+0544	1	City: 21 &nbsp;&nbsp;Highway: 29 &#150; 30
+0545	1	City: 18 &nbsp;&nbsp;Highway: 26
+0546	1	City: 21 &nbsp;&nbsp;Highway: 29 &#150; 30
+0547	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 28
+0548	1	City: 19 &nbsp;&nbsp;Highway: 28
+0549	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 31
+0550	1	City: 21 &nbsp;&nbsp;Highway: 30
+0551	1	City: 15 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 27
+0552	1	City: 18 &#150; 19 &nbsp;&nbsp;Highway: 26 &#150; 27
+0553	1	City: 19 &#150; 20 &nbsp;&nbsp;Highway: 26 &#150; 31
+0554	1	City: 21 &nbsp;&nbsp;Highway: 30
+0555	1	City: 18 &nbsp;&nbsp;Highway: 27
+0556	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 25
+0557	1	City: 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0558	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 25
+0559	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 19 &#150; 22
+0560	1	City: 14 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0561	1	City: 19 &nbsp;&nbsp;Highway: 30
+0562	1	City: 16 &#150; 19 &nbsp;&nbsp;Highway: 25 &#150; 30
+0563	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 24
+0564	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 24
+0565	1	City: 16 &#150; 19 &nbsp;&nbsp;Highway: 26 &#150; 30
+0566	1	City: 15 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 26
+0567	1	City: 15 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 27
+0568	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 27
+0569	1	City: 15 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 25
+0570	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 25 &#150; 27
+0571	1	City: 15 &nbsp;&nbsp;Highway: 22 &#150; 23
+0572	1	City: 15 &nbsp;&nbsp;Highway: 23
+0573	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 20
+0574	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18
+0575	1	City: 14 &nbsp;&nbsp;Highway: 20
+0576	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18
+0577	0	<NULL>
+0578	1	City: 13 &nbsp;&nbsp;Highway: 18
+0579	1	City: 21 &nbsp;&nbsp;Highway: 22
+0580	1	City: 20 &nbsp;&nbsp;Highway: 23
+0581	1	City: 15 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 25
+0582	1	City: 15 &#150; 18 &nbsp;&nbsp;Highway: 22 &#150; 27
+0583	1	City: 18 &nbsp;&nbsp;Highway: 27
+0584	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 24 &#150; 29
+0585	1	City: 22 &#150; 26 &nbsp;&nbsp;Highway: 35 &#150; 38
+0586	0	<NULL>
+0587	1	City: 17 &#150; 22 &nbsp;&nbsp;Highway: 24 &#150; 32
+0588	0	<NULL>
+0589	0	<NULL>
+0590	1	City: 15 &nbsp;&nbsp;Highway: 21
+0591	1	City: 15 &nbsp;&nbsp;Highway: 21
+0592	1	City: 25 &#150; 27 &nbsp;&nbsp;Highway: 34 &#150; 35
+0593	1	City: 25 &#150; 27 &nbsp;&nbsp;Highway: 34 &#150; 35
+0594	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 24 &#150; 29
+0595	1	City: 22 &#150; 25 &nbsp;&nbsp;Highway: 30 &#150; 37
+0596	1	City: 14 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 25
+0597	1	City: 14 &#150; 18 &nbsp;&nbsp;Highway: 19 &#150; 25
+0598	1	City: 14 &#150; 16 &nbsp;&nbsp;Highway: 20 &#150; 26
+0599	1	City: 14 &#150; 16 &nbsp;&nbsp;Highway: 20 &#150; 26
+0600	1	City: 16 &#150; 22 &nbsp;&nbsp;Highway: 22 &#150; 32
+0601	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 17 &#150; 20
+0602	1	City: 13 &#150; 15 &nbsp;&nbsp;Highway: 17 &#150; 20
+0603	0	<NULL>
+0604	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 16 &#150; 17
+0605	0	<NULL>
+0606	1	City: 10 &#150; 11 &nbsp;&nbsp;Highway: 16
+0607	1	City: 19 &#150; 22 &nbsp;&nbsp;Highway: 29 &#150; 32
+0608	1	City: 22 &nbsp;&nbsp;Highway: 30 &#150; 32
+0609	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 27 &#150; 29
+0610	1	City: 17 &#150; 19 &nbsp;&nbsp;Highway: 27 &#150; 29
+0611	1	City: 17 &#150; 22 &nbsp;&nbsp;Highway: 26 &#150; 33
+0612	1	City: 17 &#150; 22 &nbsp;&nbsp;Highway: 26 &#150; 33
+0613	1	City: 12 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 22
+0614	1	City: 12 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 22
+0615	1	City: 21 &nbsp;&nbsp;Highway: 22
+0616	1	City: 20 &nbsp;&nbsp;Highway: 23
+0617	0	<NULL>
+0618	0	<NULL>
+0619	1	City: 15 &nbsp;&nbsp;Highway: 21
+0620	1	City: 15 &nbsp;&nbsp;Highway: 21
+0621	1	City: 15 &nbsp;&nbsp;Highway: 21
+0622	1	City: 15 &nbsp;&nbsp;Highway: 21
+0623	1	City: 21 &nbsp;&nbsp;Highway: 22
+0624	1	City: 20 &nbsp;&nbsp;Highway: 23
+0625	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 24
+0626	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 24
+0627	1	City: 19 &#150; 21 &nbsp;&nbsp;Highway: 29 &#150; 31
+0628	1	City: 17 &nbsp;&nbsp;Highway: 25
+0629	1	City: 17 &#150; 18 &nbsp;&nbsp;Highway: 23 &#150; 26
+0630	1	City: 13 &#150; 16 &nbsp;&nbsp;Highway: 19 &#150; 25
+0631	1	City: 19 &nbsp;&nbsp;Highway: 24
+0632	1	City: 16 &#150; 21 &nbsp;&nbsp;Highway: 26 &#150; 30
+0633	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 25
+0634	0	<NULL>
+0635	0	<NULL>
+0636	1	City: 16 &#150; 21 &nbsp;&nbsp;Highway: 27 &#150; 30
+0637	0	<NULL>
+0638	1	City: 21 &#150; 23 &nbsp;&nbsp;Highway: 25 &#150; 31
+0639	1	City: 22 &#150; 24 &nbsp;&nbsp;Highway: 27 &#150; 32
+0640	1	City: 14 &#150; 17 &nbsp;&nbsp;Highway: 22 &#150; 25
+0641	1	City: 16 &#150; 18 &nbsp;&nbsp;Highway: 23 &#150; 26
+0642	1	City: 16 &nbsp;&nbsp;Highway: 23 &#150; 25
+0643	1	City: 14 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 20
+0644	1	City: 14 &#150; 15 &nbsp;&nbsp;Highway: 18 &#150; 20
+0645	1	City: 13 &#150; 16 &nbsp;&nbsp;Highway: 20 &#150; 23
+0646	1	City: 16 &#150; 17 &nbsp;&nbsp;Highway: 23 &#150; 25
+0647	1	City: 17 &nbsp;&nbsp;Highway: 25
+0648	1	City: 15 &#150; 19 &nbsp;&nbsp;Highway: 23 &#150; 25
+0649	0	<NULL>
+0650	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 20 &#150; 22
+0651	1	City: 15 &#150; 16 &nbsp;&nbsp;Highway: 21 &#150; 22
+0652	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 20
+0653	1	City: 13 &#150; 14 &nbsp;&nbsp;Highway: 18 &#150; 20
+0654	0	<NULL>
+0655	0	<NULL>
+0656	1	City: 13 &nbsp;&nbsp;Highway: 22

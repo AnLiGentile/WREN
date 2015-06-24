@@ -1,0 +1,2002 @@
+﻿restaurant	urbanspoon	name
+2000	2000	2000	1885
+0000	1	Frontier Restaurant
+0001	1	Saggio's
+0002	1	Tucanos Brazilian Grill
+0003	1	Dog House Drive in
+0004	1	India Palace
+0005	1	Namaste
+0006	1	Thai Cuisine II
+0007	1	Oasis Coffee &amp; Tea
+0008	1	Duran Central Pharmacy
+0009	1	Hurricane's
+0010	1	Brasserie la Provence
+0011	1	Marble Brewery
+0012	1	Sushi and Sake
+0013	1	Hannah &amp; Nate's
+0014	1	Marcello's Chophouse
+0015	1	Los Cuates
+0016	1	Cervantes Restaurant &amp; Lounge
+0017	1	Flying Star Cafe (Nob Hill)
+0018	1	Golden Pride
+0019	1	Melting Pot
+0020	1	Banana Leaf
+0021	1	Ginger
+0022	1	Krazy Moose Subs
+0023	1	Kinley's Restaurant &amp; Bar
+0024	1	Charlie's Bakery
+0025	1	Crush Wine Bistro &amp; Cellar
+0026	1	La Hacienda Mexican
+0027	1	Haute Quarter Grill
+0028	1	Sara's Sandwiches
+0029	1	Jitters
+0030	1	Aladdin's Fine Mediterranean
+0031	1	Fire Island Rustic Bakeshop
+0032	1	Thai Town
+0033	1	Garcia's Cantina &amp; Cafe
+0034	1	Peppercini's Deli House
+0035	1	Long Branch Saloon
+0036	1	Straight Out of Philly
+0037	1	The Chocolaterie Luxury Chocolates
+0038	1	Eclipse di Luna (Dunwoody)
+0039	1	Big Shanty Smokehouse
+0040	1	Hearth Pizza Tavern
+0041	1	Five Guys Famous Burgers and Fries
+0042	1	Jim 'n Nick's Bar-B-Q (Smyrna)
+0043	1	Rise 'n Dine
+0044	1	Pure Taqueria
+0045	1	Papi's Cuban &amp; Caribbean Grill (Midtown)
+0046	1	Uncle Maddio's Pizza Joint
+0047	1	South City Kitchen Midtown
+0048	1	Wisteria
+0049	1	Highland Bakery
+0050	1	Community Q BBQ
+0051	1	Bacchanalia
+0052	1	Baraonda
+0053	1	Surin of Thailand
+0054	1	Alpine Bakery &amp; Pizzeria
+0055	1	Fritti
+0056	1	Alfredo's Italian
+0057	1	Hut's Hamburgers
+0058	1	Shady Grove
+0059	1	Eastside Cafe
+0060	1	Guero's Taco Bar
+0061	1	Amy's Ice Cream
+0062	1	Polvo's Mexican
+0063	1	Lamberts Downtown Barbeque
+0064	1	Stubb's Bar-B-Q
+0065	1	Mother's Cafe &amp; Garden
+0066	1	Cafe Java
+0067	1	Maria's Taco Xpress
+0068	1	Tomo Sushi
+0069	1	Evangeline Cafe
+0070	1	Wink
+0071	1	Iron Works Barbecue
+0072	1	Root Cellar Cafe
+0073	1	Hip Hop Fish &amp; Chicken
+0074	1	Clementine
+0075	1	Iggie’s Pizza
+0076	1	La Tolteca
+0077	1	Thai Arroy
+0078	1	Pub Dog Pizza &amp; Drafthouse (Federal Hill)
+0079	1	Jeno's Steaks
+0080	1	Pasta Mista
+0081	1	Victoria Gastro Pub
+0082	1	Annabel Lee Tavern
+0083	1	Petit Louis
+0084	1	Ann's Dari Creme
+0085	1	Obrycki's Crab House
+0086	1	Thai One on
+0087	1	Red Star Bar and Grill
+0088	1	Artful Gourmet Bistro
+0089	1	Pachanga Grill
+0090	1	Roy's Hawaiian Restaurant
+0091	1	Joe Squared Pizza and Bar
+0092	1	Ale Mary's
+0093	1	Chimes East
+0094	1	P.F. Chang's China Bistro
+0095	1	Chelsea's Cafe
+0096	1	Parrain's Seafood
+0097	1	TJ Ribs
+0098	1	Gino's
+0099	1	Voo Doo BBQ &amp; Grill
+0100	1	Latte e Miele
+0101	1	Strands Cafe
+0102	1	BJ's Restaurant and Brewhouse
+0103	1	TJ Ribs (Siegen)
+0104	1	Thai Kitchen
+0105	1	Olive Garden
+0106	1	DeAngelo's (Denham Springs)
+0107	1	Yogurt Mountain
+0108	1	Iguana Grill
+0109	1	P.F. Chang's China Bistro (Summit Blvd.)
+0110	1	Brio Tuscan Grille
+0111	1	Don Pepe
+0112	1	Taziki's Colonnade
+0113	1	Surin of Thailand
+0114	1	Silvertron Cafe
+0115	1	Salvatores Pizza
+0116	1	Saws
+0117	1	Cafe Dupont
+0118	1	Trattoria Centrale
+0119	1	Taipei 101 Sushi &amp; Asian Bistro
+0120	1	Shangri-la
+0121	1	Bettola
+0122	1	Redbones Barbecue
+0123	1	Zaftigs Delicatessen
+0124	1	Neptune Oyster
+0125	1	Santarpio's Pizza
+0126	1	Giacomo's (South End)
+0127	1	Oleana
+0128	1	Fat Cat
+0129	1	Kimball Farm
+0130	1	Hamersley's Bistro
+0131	1	China Pearl
+0132	1	Border Cafe (Saugus)
+0133	1	Punjab Indian Restaurant
+0134	1	Kowloon Restaurant
+0135	1	Cuchi Cuchi
+0136	1	Emma's Pizza
+0137	1	Maggiano's Little Italy
+0138	1	Veggie Planet
+0139	1	Upper Crust
+0140	1	Dino's Cafe
+0141	1	Grover's Bar &amp; Grill
+0142	1	Mulberry Cafe
+0143	1	La Galera Mexican Restaurant
+0144	1	El Palenque Mexican Grill
+0145	1	Wine On Third
+0146	1	Kabab &amp; Curry
+0147	1	Fuddruckers
+0148	1	Coles
+0149	1	Kentucky Greg's Hickory Pit
+0150	1	George's Hot Dog Stand
+0151	1	Chester's Cajun Grill
+0152	1	Suzy Q's Barbeque Shack
+0153	1	Lone Star Fajita Grill
+0154	1	Eileen's Centerview Bkry
+0155	1	Coyote Cafe
+0156	1	Isabella's Italian Deli
+0157	1	Tokyo Shanghai Bistro
+0158	1	Mississippi Mudds
+0159	1	Basil
+0160	1	Jestine's Kitchen
+0161	1	High Cotton
+0162	1	Madra Rua Irish Pub
+0163	1	Lost Dog Cafe
+0164	1	Santi's Restaurante Mexicano
+0165	1	Jasmine Thai
+0166	1	Samos Taverna
+0167	1	The Early Bird Diner
+0168	1	Evo Wood-Fired Pizza
+0169	1	Sette
+0170	1	Wild Olive Cucina Italiana
+0171	1	Hyman's
+0172	1	Oak Steakhouse
+0173	1	D'Allesandro's
+0174	1	Pane E Vino
+0175	1	Home Team BBQ
+0176	1	Amen Street Fish &amp; Raw Bar
+0177	1	Andolini's Pizza (Peninsular)
+0178	1	Bambu
+0179	1	Blu Oceanfront
+0180	1	Kudu
+0181	1	Amélie's French Bakery &amp; Cafe
+0182	1	Mama Ricotta's
+0183	1	Chima Brazilian Steakhouse
+0184	1	Sullivan's Steakhouse
+0185	1	Waldhorn
+0186	1	Crepe Cellar Kitchen &amp; Pub
+0187	1	Flying Biscuit Cafe
+0188	1	Brooklyn South Pizzeria &amp; Italian Eatery
+0189	1	Stallings Rockstore Bar-B-Q
+0190	1	Intermezzo Pizzeria and Cafe
+0191	1	Tokyo Japanese Restaurant &amp; Sushi Bar
+0192	1	Osaka Japanese Cuisine
+0193	1	Piece
+0194	1	Cafe Iberico
+0195	1	Coast Sushi
+0196	1	Gene &amp; Jude's Red Hot Stand
+0197	1	Lula Cafe
+0198	1	Hot Chocolate
+0199	1	Portillo's Hot Dogs &amp; Barnelli's Pasta (Schaumburg)
+0200	1	Quartino
+0201	1	Japonais
+0202	1	Bandera
+0203	1	Kiku Japanese Steakhouse
+0204	1	Calo Ristorante
+0205	1	Blackbird
+0206	1	Meson Sabika
+0207	1	Tufano's Vernon Park Tap
+0208	1	Alinea
+0209	1	Uncle Julio's Hacienda
+0210	1	Julius Meinl Cafe
+0211	1	Calypso Cafe
+0212	1	Publican
+0213	1	Buffalo Joe's
+0214	1	Urban Belly
+0215	1	Hog Wild
+0216	1	Le Colonial
+0217	1	Nuevo Leon
+0218	1	Terry's Turf Club
+0219	1	Arthur's Cafe
+0220	1	Teak Thai Cuisine and Sushi Bar
+0221	1	Newport Pizza Company
+0222	1	Cafe Mediterranean
+0223	1	Cilantro Vietnamese Bistro
+0224	1	Dewey's Pizza (Oakley)
+0225	1	Sweet Basil
+0226	1	Gordo's Pub &amp; Grill
+0227	1	Boca
+0228	1	Mitchell's Fish Market
+0229	1	The Echo Restaurant
+0230	1	Aglamesis Brothers
+0231	1	Arnold's Bar &amp; Grill
+0232	1	Rio Grande Mexican
+0233	1	Sebastian's
+0234	1	Greek Isles
+0235	1	Hot Doggin' It
+0236	1	Pasquale's Pizza
+0237	1	Fratelli's New York Style Pizzeria
+0238	1	Via Vite
+0239	1	Buona Vita Pizzeria
+0240	1	Cafe de Wheels (Food Truck)
+0241	1	Melt Bar &amp; Grilled
+0242	1	Lolita
+0243	1	Hibachi Japan Steak House
+0244	1	Aladdin's Eatery
+0245	1	Moosehead Saloon
+0246	1	On the Rise Artisan Breads
+0247	1	Bricco
+0248	1	Papa Joe's Subs &amp; Pasta
+0249	1	B Spot Burgers
+0250	1	Dewey's Pizza
+0251	1	India Garden
+0252	1	Charm Thai
+0253	1	Santo Suosso's
+0254	1	Vincenza's Pizza &amp; Pasta
+0255	1	Hooley House
+0256	1	Blackbird Baking Company
+0257	1	Aladdin's Eatery
+0258	1	Sweet Basil
+0259	1	Jimmy Daddana's Fine Italian
+0260	1	Mr Zub's Deli at the Matinee
+0261	1	Peppermint Cafe
+0262	1	Sasa Matsu
+0263	1	King Wah
+0264	1	Thurman Cafe
+0265	1	Jeni's Ice Creams (Short North)
+0266	1	Schmidt's Sausage Haus
+0267	1	Akai Hana
+0268	1	Lindey's Restaurant and Bar
+0269	1	Five Guys Famous Burgers &amp; Fries
+0270	1	Pho Asian Noodle House and Grill
+0271	1	Big Fat Greek Kuzina
+0272	1	Route 62 Barbecue
+0273	1	Mazah Mediterranean Eatery
+0274	1	City Barbeque
+0275	1	Cap City Fine Diner and Bar (Gahanna)
+0276	1	Cuco's Mexican Taqueria
+0277	1	Jeni's Ice Creams (Grandview Heights)
+0278	1	Tai's Asian Bistro
+0279	1	Giorgio Italian Restaurant
+0280	1	Easy Street Cafe
+0281	1	Brazenhead Irish Pub
+0282	1	Giuseppe's Ritrovo
+0283	1	Aab India Restaurant
+0284	1	Press Grill
+0285	1	Bon Vie Bistro
+0286	1	Buca di Beppo
+0287	1	Pei Wei Asian Diner
+0288	1	Pizza Cottage
+0289	1	Figlio (Upper Arlington)
+0290	1	McCormick &amp; Schmick's
+0291	1	Babe's Chicken Dinner House (Frisco)
+0292	1	Chef Point Cafe
+0293	1	Joe T. Garcia's Mexican
+0294	1	Texas de Brazil
+0295	1	Babe's Chicken Dinner House (Roanoke)
+0296	1	Tex's Star Grill
+0297	1	Chiloso Mexican Bistro
+0298	1	Yucatan Taco Stand
+0299	1	Tony's Pizza &amp; Pasta
+0300	1	Railhead Smokehouse
+0301	1	Mia's Tex-Mex
+0302	1	Reata
+0303	1	Maggiano's Little Italy
+0304	1	Campo Verde
+0305	1	Piranha Killer Sushi
+0306	1	Wild About Harry's
+0307	1	Angelo's
+0308	1	Palio's Pizza Cafe
+0309	1	Nonna Tata
+0310	1	Vesta Dipping Grill
+0311	1	Lucile's
+0312	1	Wild Ginger
+0313	1	Brasserie Ten Ten
+0314	1	Snooze
+0315	1	Frasca Food &amp; Wine
+0316	1	Pumphouse Brewery
+0317	1	Parisi
+0318	1	Tom's Home Cookin'
+0319	1	Melting Pot
+0320	1	Heaven Dragon Chinese
+0321	1	Houston's
+0322	1	Rioja
+0323	1	Blue Ocean Asian Cafe
+0324	1	Bull &amp; Bush Pub and Brewery
+0325	1	Pete's Kitchen
+0326	1	The Kitchen
+0327	1	Hapa Sushi (Cherry Creek)
+0328	1	Hacienda Colorado (Lone Tree)
+0329	1	Lucile's Creole Cafe
+0330	1	Jerusalem
+0331	1	Pho on 6th
+0332	1	Marco's Coal Fired Pizzeria
+0333	1	Wasabi Sushi Bar
+0334	1	Efrain's Mexican
+0335	1	Wazee Supper Club
+0336	1	Chez Thuy
+0337	1	Carmine's on Penn
+0338	1	Flying Mango
+0339	1	Waterfront Seafood Market (West)
+0340	1	Great Plains Sauce &amp; Dough
+0341	1	Lucca
+0342	1	Stomping Grounds
+0343	1	Django
+0344	1	Taki Japanese Steakhouse
+0345	1	Royal Mile
+0346	1	Snookies Malt Shop
+0347	1	Thai Flavors
+0348	1	Van Dee's Ice Cream Shoppe
+0349	1	Palmer's Deli &amp; Market
+0350	1	Bandit Burrito
+0351	1	Chinese Home Style Cooking
+0352	1	Jason's Deli
+0353	1	Gateway Market Cafe
+0354	1	Iowa Machine Shed
+0355	1	Twisted Bean
+0356	1	Tsing Tsao South
+0357	1	Uncle Wendell's BBQ Catering and Bakery
+0358	1	El Mariachi
+0359	1	Buffalo Wild Wings (Ankeny)
+0360	1	J Benjamin's
+0361	1	Shanghai Chinese
+0362	1	Blimpy Burger (Krazy Jim's)
+0363	1	Cafe Muse
+0364	1	Lipuma's Coney Island
+0365	1	Vicente's Cuban Cuisine
+0366	1	Arbor Brewing Company
+0367	1	Anita's Kitchen
+0368	1	Beverly Hills Grill
+0369	1	Town Tavern
+0370	1	Loui's Pizza
+0371	1	Eve
+0372	1	J Alexander's
+0373	1	Jerusalem Garden
+0374	1	Cafe Habana (Royal Oak)
+0375	1	Tio's
+0376	1	Chicken King
+0377	1	Blue Tractor BBQ &amp; Brewery
+0378	1	Maggiano's Little Italy
+0379	1	Compari's
+0380	1	Dog House Grill
+0381	1	Luna Pizzeria &amp; Italian Restaurant
+0382	1	Thai Gem
+0383	1	Superior Dairy Product Co‎
+0384	1	Famous Dave's
+0385	1	In-N-Out Burger
+0386	1	Yosemite Ranch
+0387	1	Huckleberry's
+0388	1	BJ's Restaurant &amp; Brewhouse
+0389	1	Maroo Japanese Korean Restaurant
+0390	1	Chapala Grill (Woodward Park)
+0391	1	Corsaros Family Pizza
+0392	1	Colorado Grill
+0393	1	Deli Delicious
+0394	1	Rousseau
+0395	1	Great Harvest Bread
+0396	1	Jamba Juice
+0397	1	Plaza Ventana
+0398	1	Yukon Jack's Log Cabin Dining (Clovis)
+0399	1	Krolls West
+0400	1	Nakashima's Japan
+0401	1	St Brendan's Inn
+0402	1	Copper Rock Coffee
+0403	1	Victoria's Italian Cuisine
+0404	1	Apollon
+0405	1	Kavarna
+0406	1	Sgambati's New York Pizza
+0407	1	1951 West
+0408	1	Joe Rouer's Bar
+0409	1	Big Tomatoes
+0410	1	The Urban Frog
+0411	1	Pappa's Cafe
+0412	1	Bud &amp; Carol's Drift Inn
+0413	1	Solea Mexican Grill
+0414	1	The Wellington Steakhouse
+0415	1	Asian Garden Buffet
+0416	1	Chef Chu's
+0417	1	O'Rourke's Diner
+0418	1	Miya's Japanese Restaurant
+0419	1	Giovannis Brickoven Pizzeria
+0420	1	Brookside Bagels
+0421	1	Red Robin Gourmet Burgers
+0422	1	Ibiza Restaurant
+0423	1	Sushi Palace
+0424	1	Brass City Bistro
+0425	1	Cosmic Omelet
+0426	1	Bella Napoli
+0427	1	Arugula
+0428	1	Willimantic Brewing Co
+0429	1	Michael's Pasta in the Pan
+0430	1	Wentworth Homemade Ice Cream
+0431	1	Luna Pizza
+0432	1	Capitol Lunch
+0433	1	Harry's Pizza
+0434	1	Kimo's
+0435	1	Teddy's Bigger Burgers (Kailua)
+0436	1	Duke's Restaurant &amp; Canoe Club (Lihue)
+0437	1	Wailana Coffee House
+0438	1	Giovanni's Shrimp Truck
+0439	1	Soul de Cuba Cafe
+0440	1	Sansei Seafood Restaurant &amp; Sushi Bar (Lahaina)
+0441	1	Beach House
+0442	1	Town
+0443	1	Cinnamon's
+0444	1	Souvaly Thai Cuisine
+0445	1	Kua Aina
+0446	1	Matsumoto Shave Ice
+0447	1	Bubbies Homemade Ice Cream (University Avenue)
+0448	1	Ono Hawaiian Foods
+0449	1	Teddy's Bigger Burgers (Waikiki)
+0450	1	Kona Brewing Company (Hawaii Kai)
+0451	1	Rainbow Drive-in
+0452	1	Grass Skirt Grill
+0453	1	Miyo's
+0454	1	Hy's Steak House
+0455	1	Leilani's on the Beach
+0456	1	Eggs 'n Things
+0457	1	Ruth's Chris Steak House
+0458	1	Lanikai Juice
+0459	1	Doraku Sushi
+0460	1	Mariposa
+0461	1	WokStar International Noodle Cafe
+0462	1	Koa Pancake House
+0463	1	Yogurtland
+0464	1	Tiny Boxwood's Cafe
+0465	1	Black Walnut Cafe (Woodlands)
+0466	1	Sushi Hana Japanese Kitchen
+0467	1	Shade
+0468	1	Ruggles Cafe Bakery
+0469	1	Dolce Vita Pizzeria Enoteca
+0470	1	Frenchie's Italian Cuisine
+0471	1	Bubba's Texas Burger Shack
+0472	1	Pappas Brothers Steakhouse
+0473	1	Gaido's
+0474	1	Shiva Indian
+0475	1	P.F. Chang's China Bistro (Woodlands)
+0476	1	New York Bagels
+0477	1	Rudy &amp; Paco's
+0478	1	Ibiza
+0479	1	Texas Roadhouse
+0480	1	Bazbeaux Pizza (Massachusetts Ave.)
+0481	1	Mama Carolla's Old Italian
+0482	1	The Journey
+0483	1	Scotty's Brewhouse
+0484	1	Creation Cafe
+0485	1	Mellow Mushroom
+0486	1	Some Guys Pizza (Northeast)
+0487	1	Barcelona Tapas
+0488	1	Oakley's Bistro
+0489	1	Thai Cafe
+0490	1	Historic Steer in
+0491	1	Petite Chou
+0492	1	Some Guys Pizza (Carmel)
+0493	1	Taki
+0494	1	Bosphorus
+0495	1	Kickbacks Gastropub
+0496	1	Fernandeli
+0497	1	Palm Valley Fish Camp
+0498	1	Five Guys Burger and Fries
+0499	1	Daruma Japanese Steak House (Beach Blvd.)
+0500	1	Al's Pizza (Beach Blvd.)
+0501	1	Akaya
+0502	1	Red Elephant Pizza and Grill
+0503	1	Safe Harbor Seafood Market and Restaurant
+0504	1	Marker 32
+0505	1	Mandaloun
+0506	1	Cantina Laredo
+0507	1	Mellow Mushroom
+0508	1	The Cheesecake Factory
+0509	1	Espeto Brazilian Steak House
+0510	1	Mill House
+0511	1	Pastiche
+0512	1	Pattaya Thai Grille
+0513	1	Coffee Cup Caffe'
+0514	1	Secret Garden Cafe
+0515	1	Blue Koi
+0516	1	Fiorella's Jack Stack Barbecue (Crossroads)
+0517	1	J. Gilbert's
+0518	1	Mi Ranchito Cocina &amp; Cantina Mexicana (Olathe)
+0519	1	Le Fou Frog
+0520	1	Mr Gyros Greek Food &amp; Pastries
+0521	1	Blanc Burgers + Bottles (Leawood)
+0522	1	Succotash
+0523	1	Korma Sutra Cusine of India
+0524	1	Edokko Japanese Restaurant
+0525	1	Harry's Country Club
+0526	1	Thai Place
+0527	1	Bluestem
+0528	1	LC's Hamburgers Etc.
+0529	1	BRGR Kitchen + Bar
+0530	1	Pei Wei Asian Diner
+0531	1	Paulo &amp; Bill
+0532	1	Cosentino's Market (Downtown)
+0533	1	Jasper's
+0534	1	Tokyo Japanese Steak House
+0535	1	Kokoro Maki House
+0536	1	Tomato Head
+0537	1	Nama Sushi Bar
+0538	1	Old Mill
+0539	1	Long's Drug Store
+0540	1	Calhoun's (Farragut)
+0541	1	Aubrey's (Farragut)
+0542	1	Captain Ernie’s Fish House Restaurant
+0543	1	Sitar Indian Cuisine
+0544	1	Maryville Tomato Head
+0545	1	Lakeside Tavern
+0546	1	Apple Cake Tea Room
+0547	1	Vernon's Grill
+0548	1	Kobe
+0549	1	Senor Taco
+0550	1	Seasons Cafe
+0551	1	Wild Wing Cafe
+0552	1	Pizza Palace
+0553	1	Dazzo's Italian Pizzeria Restaurant
+0554	1	Best Italian Cafe &amp; Pizzeria
+0555	1	Szechuan Garden
+0556	1	Chick-Fil-a
+0557	1	Irish Times Pub
+0558	1	Calhoun's (Gatlinburg)
+0559	1	Kanpai of Tokyo
+0560	1	Calhoun's on the River
+0561	1	Razzleberry's Ice Cream Lab
+0562	1	Firefly* Tapas Kitchen and Lounge
+0563	1	Bobby Flay's Mesa Grill
+0564	1	BJ's Restaurant &amp; Brewhouse
+0565	1	Texas de Brazil
+0566	1	I Love Sushi
+0567	1	Craftsteak
+0568	1	Lindo Michoacan
+0569	1	Joe's Seafood, Prime Steak &amp; Stone Crab
+0570	1	Create: Gourmet Burgers &amp; Frozen Custard
+0571	1	Buffet (Wynn)
+0572	1	Fausto's Mexican Grill
+0573	1	Bagel Cafe
+0574	1	Olives
+0575	1	Grimaldi's Coal Brick-Oven Pizzeria
+0576	1	Jimmy Buffett's Margaritaville
+0577	1	Ichiza Sake House
+0578	1	Egg Works
+0579	1	P.F. Chang's China Bistro
+0580	1	Pin Kaow Thai (Southwest)
+0581	1	King's Fish House
+0582	1	Carnegie Deli
+0583	1	Off The Strip
+0584	1	Sushi Mon
+0585	1	Ramsey's Diner (Downtown)
+0586	1	Malone's (Hamburg)
+0587	1	Bonefish Grill
+0588	1	P.F. Chang's China Bistro
+0589	1	Tolly-Ho
+0590	1	Five Guys Burgers &amp; Fries
+0591	1	Atomic Cafe
+0592	1	Merrick Inn
+0593	1	Casa Fiesta Mexican Grill (Richmond)
+0594	1	Asuka Japanese Steakhouse and Sushi
+0595	1	Masala
+0596	1	Puccini's Smiling Teeth Pizza
+0597	1	Wallace Station Deli and Bakery
+0598	1	Oasis Mediterranean
+0599	1	Jadeli
+0600	1	Ramsey's Diner (Harrodsburg Rd.)
+0601	1	Houston's
+0602	1	Apple Pan
+0603	1	Alcove Cafe &amp; Bakery
+0604	1	Casa Bianca Pizza Pie
+0605	1	Las Fuentes
+0606	1	Yogurtland
+0607	1	Fosselman's Ice Cream
+0608	1	Cliff's Edge
+0609	1	Din Tai Fung
+0610	1	Abbot's Pizza Company
+0611	1	Daisy Mint
+0612	1	Pizzicotto
+0613	1	Red Lion Tavern
+0614	1	Urth Caffe
+0615	1	Lawry's The Prime Rib
+0616	1	Bob's Big Boy
+0617	1	Zankou Chicken (Hollywood)
+0618	1	Home Run Burgers &amp; Fries
+0619	1	Kashmir Indian
+0620	1	Simply Thai
+0621	1	Jeff Ruby's Steakhouse
+0622	1	Impellizzeri's Pizza
+0623	1	Hiko-a-Mon
+0624	1	Los Aztecas Mexican
+0625	1	Saffron's
+0626	1	Palermo Viejo
+0627	1	Vincenzo's Italian
+0628	1	Bonnie &amp; Clyde's Pizza Parlor
+0629	1	732 Social
+0630	1	F.A.B.D. Frankfort Avenue Beer Depot
+0631	1	Zaytun
+0632	1	Blue Dog Bakery and Cafe
+0633	1	Maido
+0634	1	Sugar &amp; Spice Donut Shop
+0635	1	Charlie Vergos' Rendezvous
+0636	1	Gus's World Famous Fried Chicken
+0637	1	Huey's (Midtown)
+0638	1	Mary's German Restaurant
+0639	1	Andrew Michael Italian Kitchen
+0640	1	Corky's Bar-B-Q (East Memphis)
+0641	1	Bonefish Grill
+0642	1	Osaka Japanese Cuisine (Collierville)
+0643	1	Blues City Cafe
+0644	1	Fino's Italian Deli &amp; Grocery
+0645	1	Flying Fish
+0646	1	Las Delicias Mexican Bar and Grill
+0647	1	Young Avenue Deli
+0648	1	Bahama Breeze
+0649	1	Belmont Grill
+0650	1	Stix
+0651	1	Mama Mia's Pizzeria
+0652	1	Huey's (Cordova)
+0653	1	Old Venice
+0654	1	Five Guys Burgers and Fries
+0655	1	Samurai
+0656	1	Jaxson's Ice Cream Parlor &amp; Restaurant
+0657	1	Villagio Restaurant
+0658	1	Big Pink
+0659	1	Five Guys Burgers and Fries
+0660	1	Capt. Shrimp
+0661	1	Green Street Cafe
+0662	1	Prime One Twelve
+0663	1	Dada
+0664	1	LaSpada's Hoagies
+0665	1	Red Ginger Asian Bistro
+0666	1	LaSpada's Original Hoagies
+0667	1	Amici's Trattoria Italiana
+0668	1	Aromas Del Peru
+0669	1	El Tamarindo Café
+0670	1	SUSHISAMBA Dromo
+0671	1	Cafe Centraal
+0672	1	Comet Cafe
+0673	1	Honeypie
+0674	1	Transfer Pizzeria Cafe
+0675	1	Cafe Lu Lu
+0676	1	Izumi's
+0677	1	Zaffiro's
+0678	1	Georgie Porgie's
+0679	1	P.F. Chang's China Bistro
+0680	1	Juniper 61
+0681	1	Three Brothers
+0682	1	Generations at 5 Points
+0683	1	Charro Tacos &amp; Tequila
+0684	1	Oh Dennis Saloon &amp; Charcoal
+0685	1	Tomaso's of Mequon
+0686	1	Maggiano's Little Italy
+0687	1	Martino's Italian Beef
+0688	1	Matt's Bar
+0689	1	Casper &amp; Runyon's Nook
+0690	1	Lucia's
+0691	1	Blue Door Pub
+0692	1	Cafe Latte
+0693	1	Convention Grill
+0694	1	Punch Neapolitan Pizza
+0695	1	Red's Savoy Pizza
+0696	1	Victor's 1959 Cafe
+0697	1	True Thai
+0698	1	Origami
+0699	1	Oceanaire Seafood Room
+0700	1	Ike's Food &amp; Cocktails
+0701	1	Cooper Pub &amp; Restaurant
+0702	1	Biaggi's Ristorante Italiano
+0703	1	Tavern on France
+0704	1	Punch Neapolitan Pizza
+0705	1	Fat Lorenzo's
+0706	1	Tum Rup Thai
+0707	1	The RICEBOX
+0708	1	Barrio
+0709	1	Edina Grill
+0710	1	Pop! a Neighborhood Restaurant
+0711	1	The Local
+0712	1	The Strip Club
+0713	1	Keys Foshay
+0714	1	Peter's Sushi and Thai
+0715	1	Chill Spot
+0716	1	Cafe Coco
+0717	1	Antonio's of Nashville
+0718	1	Camino Real Mexican Restaurant
+0719	1	Virago
+0720	1	Cancun Mexican
+0721	1	Koto Sushi Bar
+0722	1	Athens Family Restaurant
+0723	1	City House
+0724	1	Port of Call
+0725	1	Drago's Seafood Restaurant
+0726	1	Juan's Flying Burrito
+0727	1	Emeril's New Orleans
+0728	1	Arnaud's Restaurant
+0729	1	City Diner
+0730	1	Antoine's Restaurant
+0731	1	Sake Cafe
+0732	1	Crabby Jack's
+0733	1	Court of Two Sisters
+0734	1	Palace Café
+0735	1	Mona Lisa Restaurant
+0736	1	Houston's Restaurant
+0737	1	Ruby Slipper
+0738	1	Shake Shack
+0739	1	Pastis
+0740	1	Grimaldi's Pizzeria
+0741	1	Serendipity 3
+0742	1	Pommes Frites
+0743	1	Corner Bistro
+0744	1	John's Pizzeria
+0745	1	S'Mac
+0746	1	Pio Pio (Upper West Side)
+0747	1	Tao
+0748	1	Momofuku Noodle Bar
+0749	1	Rosa Mexicano
+0750	1	Al di Là Trattoria
+0751	1	Denino's Pizzeria Tavern
+0752	1	Lupa
+0753	1	Max Brenner, Chocolate By the Bald Man
+0754	1	Dumont
+0755	1	Negril Village
+0756	1	Taverna Kyclades
+0757	1	Land NorthEast Thai
+0758	1	Bogotá Latin Bistro
+0759	1	Republic
+0760	1	Carmine's (UWS)
+0761	1	Per Se
+0762	1	Calle Ocho
+0763	1	John's Pizzeria
+0764	1	Pasha Mezze
+0765	1	No Frill Bar and Grill
+0766	1	Kin's Wok
+0767	1	Mannino's Italian Bistro (Kempsville)
+0768	1	Yanni's Casual Greek
+0769	1	Luna Maya
+0770	1	Razzo
+0771	1	Pierce's Pitt Bar-B-Que
+0772	1	Primo Pizza
+0773	1	Fellini's
+0774	1	Thaijindesu
+0775	1	Zia Marie
+0776	1	Tortilla West
+0777	1	Leaping Lizard Cafe
+0778	1	Il Giardino Ristorante
+0779	1	Sal's Pizzeria By Maurizio
+0780	1	YNot Pizza
+0781	1	Big Sam's Inlet Cafe &amp; Raw Bar
+0782	1	Pho 79 (Pembroke)
+0783	1	Route 58 Delicatessen
+0784	1	Krungthai Street Grill
+0785	1	Kero Sushi
+0786	1	Green Onion
+0787	1	Frankie's Place For Ribs
+0788	1	Hoagie Haven
+0789	1	Bent Spoon
+0790	1	La Isla
+0791	1	Nauna's Bella Casa
+0792	1	Blue Point Grill
+0793	1	Cuban Petes Restaurant and Sangrias
+0794	1	Pete &amp; Elda's Bar &amp; Grill
+0795	1	R U Hungry
+0796	1	Houston's
+0797	1	Paulo's Barbeque
+0798	1	Tiger Noodles
+0799	1	Five Guys Burgers and Fries
+0800	1	Fernandes Steak House
+0801	1	Conte's
+0802	1	Mojave Grille
+0803	1	Casa Dante
+0804	1	DeLorenzo's Tomato Pies
+0805	1	Resto
+0806	1	Five Guys Burgers and Fries
+0807	1	Precious Chinese Cuisine
+0808	1	Maggiano's Little Italy
+0809	1	Amanda's
+0810	1	Grimaldi's Coal Brick Oven
+0811	1	Il Capriccio Ristorante
+0812	1	Izumi Japanese Steak House
+0813	1	Hamburgao
+0814	1	Hamburgao
+0815	1	Mr. Pi's
+0816	1	Thai O'Brien
+0817	1	Iberia Peninsula
+0818	1	Nizi Sushi
+0819	1	Augustino's
+0820	1	Cheeseboard Pizza
+0821	1	Burma Superstar
+0822	1	Val's Burgers
+0823	1	Bouchon
+0824	1	Lillian's Italian Kitchen
+0825	1	Betelnut
+0826	1	Nopa
+0827	1	Bette's Oceanview Diner
+0828	1	Dishdash
+0829	1	The Counter Santana Row
+0830	1	Range
+0831	1	A Cote
+0832	1	Bi-Rite Creamery and Bake Shop
+0833	1	Yank Sing
+0834	1	Jack's Prime
+0835	1	Kirala
+0836	1	Gott's Roadside
+0837	1	Cafe 7 Delicatessen and Pastaria
+0838	1	Cafe 501
+0839	1	La Baguette Bistro
+0840	1	The Melting Pot
+0841	1	P.F. Chang's China Bistro
+0842	1	Rodney's Pizza Place
+0843	1	Padthai
+0844	1	Cuppies and Joe
+0845	1	RePUBlic Gastropub
+0846	1	Ted's Cafe Escondido (Suburban Southside)
+0847	1	Blu Fine Wine &amp; Food
+0848	1	Tana Thai Bistro
+0849	1	Bolero Spanish Grill &amp; Tapas Bar
+0850	1	Napoleon Deli
+0851	1	Los Vaqueros
+0852	1	New York Pizza &amp; Pasta
+0853	1	Rococo Restaurant &amp; Fine Wine
+0854	1	Raspberries 'n' Creme
+0855	1	Bellini's Ristorante &amp; Grill
+0856	1	Prairie Thunder Baking Company
+0857	1	Sweet Basil Thai Cuisine
+0858	1	Vito's Ristorante
+0859	1	Ted's Cafe Escondido (Norman)
+0860	1	Mother India
+0861	1	California Tacos &amp; More
+0862	1	Spezia
+0863	1	Marks Bistro
+0864	1	Charleston's
+0865	1	Dixie Quicks Magnolia Room
+0866	1	El Basha
+0867	1	Rice Bowl Chinese Restaurant
+0868	1	Texas Roadhouse
+0869	1	Drover
+0870	1	Crescent Moon
+0871	1	Jams Bar &amp; Grill
+0872	1	Blue Planet Natural Grill
+0873	1	Grand China Buffet
+0874	1	P.F. Chang's China Bistro
+0875	1	Dinkers Bar
+0876	1	Jazz A Louisiana Kitchen
+0877	1	Orsi's Pizza
+0878	1	Abelardo's Authentic Mexican Food
+0879	1	Mai Thai
+0880	1	Amato's Cafe &amp; Catering
+0881	1	Pepperjax Grill
+0882	1	Baby Blue Sushi
+0883	1	Hartland BBQ
+0884	1	Honda-Ya
+0885	1	The Veggie Grill (Campus Drive)
+0886	1	Cucina Alessa
+0887	1	Houston's
+0888	1	Riptide Rockin Sushi &amp; Teppan Grills
+0889	1	Plums Cafe
+0890	1	Brea's Best Burgers
+0891	1	Tutto Fresco
+0892	1	Boneheads
+0893	1	Claim Jumper (Mission Viejo)
+0894	1	In-N-Out Burger
+0895	1	Original Fish Company
+0896	1	The Veggie Grill (Fortune Drive)
+0897	1	Bravo Burgers
+0898	1	Stubrik's Steakhouse
+0899	1	La Tiendita Mexican Deli
+0900	1	Roman Cucina
+0901	1	Haven Gastropub
+0902	1	'Ohana
+0903	1	Boma - Flavors of Africa (Disney's Animal Kingdom Lodge)
+0904	1	Lazy Moon Pizza
+0905	1	Kobé Japanese Steakhouse &amp; Sushi Bar
+0906	1	Cevíche Tapas Bar &amp; Restaurant
+0907	1	California Grill
+0908	1	The Cheesecake Factory
+0909	1	Black Bean Deli
+0910	1	Seasons 52 Fresh Grill
+0911	1	Goodfella's Pizzeria
+0912	1	Raglan Road Irish Pub &amp; Restaurant
+0913	1	Del Frisco's Prime Steak and Lobster
+0914	1	Ikiwi Yogurt
+0915	1	Pei Wei Asian Diner
+0916	1	Shari Sushi Lounge
+0917	1	Little Saigon
+0918	1	Wildside Upscale B-B-Q Bar &amp; Grill
+0919	1	Bangkok Square
+0920	1	Guavate Puerto Rican Eatery &amp; Bistro
+0921	1	Bayridge Sushi
+0922	1	JJ Fin's
+0923	1	Tony Luke's
+0924	1	Dalessandro's Steaks
+0925	1	Five Guys Famous Burgers and Fries
+0926	1	Cake
+0927	1	Maggiano's Little Italy
+0928	1	Ooka (Willow Grove)
+0929	1	North Third
+0930	1	Cuba Libre
+0931	1	Yangming
+0932	1	Continental Restuarant + Martini Bar
+0933	1	La Viola
+0934	1	Under the Oak Café
+0935	1	Rustica Pizza
+0936	1	Witch
+0937	1	McMenamin's Tavern
+0938	1	Sang Kee Peking Duck House
+0939	1	Isaac Newton Food &amp; Drink
+0940	1	Tierra Colombiana
+0941	1	Barclay Prime
+0942	1	Capogiro Gelateria
+0943	1	Devil's Alley
+0944	1	Bishop's Collar
+0945	1	Bonefish Grill
+0946	1	Tinto
+0947	1	Bahama Breeze
+0948	1	Four Peaks Brewing Company
+0949	1	True Food
+0950	1	Chino Bandido (Deer Valley)
+0951	1	Postino
+0952	1	Ted's Hot Dogs
+0953	1	Romeo's Euro Cafe
+0954	1	La Grande Orange Pizzeria
+0955	1	The Parlor Pizzeria
+0956	1	Mastro's Steakhouse
+0957	1	Barrio Cafe
+0958	1	Oregano's Pizza Bistro (Tempe)
+0959	1	Cucina Tagliani (Glendale)
+0960	1	Via De Los Santos Mexican Cafe
+0961	1	Pappadeaux Seafood Kitchen
+0962	1	Nello's Pizza
+0963	1	Thai Basil (Tempe)
+0964	1	Butterfield's Pancake House
+0965	1	Latitude 8
+0966	1	Flancer's Cafe
+0967	1	Malee's On Main
+0968	1	Sapporo
+0969	1	White Chocolate Grill
+0970	1	The Vig Arcadia
+0971	1	Tram's Kitchen
+0972	1	Mineo's Pizza House (Squirrel Hill)
+0973	1	Hokkaido Seafood Buffet
+0974	1	Dish Osteria &amp; Bar
+0975	1	Deluca's
+0976	1	Aiello's Pizza
+0977	1	Chaya Japanese Cuisine
+0978	1	Five Guys Burgers &amp; Fries
+0979	1	Oh Yeah! Ice Cream and Coffee Co.
+0980	1	Paris 66
+0981	1	Harris Grill
+0982	1	Los Chiludos Mexican Restaurant and Catering
+0983	1	Pizza Perfecta
+0984	1	Crepes Parisiennes
+0985	1	Ichiban Steakhouse &amp; Sushi Bar
+0986	1	Andina
+0987	1	Pambiche
+0988	1	Nicholas
+0989	1	Fenouil
+0990	1	Cha'Ba Thai
+0991	1	Nuestra Cocina
+0992	1	Shanahan's Pub &amp; Grill
+0993	1	Gravy
+0994	1	Arleta Library Bakery &amp; Cafe
+0995	1	Thai Ginger
+0996	1	Byways Cafe
+0997	1	El Gaucho
+0998	1	Al Forno Ferruzza
+0999	1	Mashita Teriyaki III
+1000	1	Helser's on Alberta
+1001	1	Du's Grill
+1002	1	Decarli
+1003	1	Roxy's Island Grill
+1004	1	Park Kitchen
+1005	1	Blind Onion Pizza Pub
+1006	1	Bye and Bye
+1007	1	Stepping Stone Cafe
+1008	1	Ichigo Ichie
+1009	1	Seven Moons
+1010	1	Mews Tavern
+1011	1	Fellini Pizzeria
+1012	1	Chez Pascal
+1013	1	La Laiterie at Farmstead
+1014	1	Asia Grill
+1015	1	Mediterraneo
+1016	1	22 Bowen's Wine Bar &amp; Grille
+1017	1	Asian Palace
+1018	1	Nikolas Pizza Newport
+1019	1	Sakura
+1020	1	Bagel Gourmet
+1021	1	Cuban Revolution
+1022	1	Phohorn's
+1023	1	Gracie's
+1024	1	L'Attitude Modern Eatery
+1025	1	Wright's Dairy Farm Incorporated
+1026	1	Sun &amp; Moon Korean
+1027	1	Uncle Tony's Pizza &amp; Pasta
+1028	1	Broadway Bistro
+1029	1	Angus Barn
+1030	1	Goodberry's Frozen Custard (Raleigh)
+1031	1	Pepper's Pizza
+1032	1	Bavarian Brathaus
+1033	1	Federal
+1034	1	Cosmic Cantina
+1035	1	Elmo's Diner (Carrboro)
+1036	1	Hibachi Grill &amp; Supreme Buffet
+1037	1	Moonlight Pizza
+1038	1	518 West
+1039	1	Rockford
+1040	1	Milltown
+1041	1	Big Ed's City Market
+1042	1	Buns
+1043	1	Top of the Hill Restaurant &amp; Brewery
+1044	1	William's Gourmet Kitchen
+1045	1	Magnolia Grill
+1046	1	Papa Mojo's Roadhouse
+1047	1	Five Guys
+1048	1	Carolina Sushi &amp; Roll
+1049	1	Akashi Japanese Grill &amp; Sushi Bar
+1050	1	Sushi Love
+1051	1	Mary Angelas Pizza and Subs
+1052	1	Mekong
+1053	1	Comfort
+1054	1	Cafe Rustica
+1055	1	Bottom's Up Pizza
+1056	1	Pescados
+1057	1	Five Guys Burgers and Fries
+1058	1	Pad Thai
+1059	1	Elephant Thai
+1060	1	Strawberry Street Cafe
+1061	1	Kobe Japanese Steak &amp; Sushi
+1062	1	Umi Sushi Bistro
+1063	1	Sticky Rice
+1064	1	Bo Dillaz
+1065	1	El Caporal Mexican
+1066	1	Tara Thai
+1067	1	Capital Ale House (Glen Allen)
+1068	1	Capital Ale House (Downtown)
+1069	1	Krispy Kreme Doughnuts
+1070	1	Kabuto Japanese House of Steak
+1071	1	Dinosaur Bar-B-Que
+1072	1	King &amp; I
+1073	1	Hogan's Hideaway
+1074	1	Aladdin's Natural Eatery
+1075	1	Restaurant 2 Vine
+1076	1	Papa Joe's Italian Eatery
+1077	1	Salena's Mexican
+1078	1	Mr. Dominic's on the Lake
+1079	1	Palmer's Direct To You Market
+1080	1	Park &amp; Oxford Cafe &amp; Deli
+1081	1	Proietti's Italian Restaurant and Catering
+1082	1	Black &amp; Blue Steak and Crab
+1083	1	Cafe Cibon
+1084	1	Ember Wood Fire Grill
+1085	1	Panera Bread
+1086	1	Ristorante Lucano
+1087	1	Blue Ocean Japanese
+1088	1	Chef King
+1089	1	Agatina's
+1090	1	Mikuni Japanese Restaurant and Sushi Bar
+1091	1	Chicago Fire Pizza (Midtown)
+1092	1	Crepeville
+1093	1	Sunflower Drive-in
+1094	1	Chicago Fire
+1095	1	Jack's Urban Eats
+1096	1	Mikuni Japanese Restaurant and Sushi Bar
+1097	1	Paesanos
+1098	1	Jack's Urban Eats
+1099	1	Mizu Japanese and Sushi Buffet
+1100	1	Ella Dining Room and Bar
+1101	1	Zocalo
+1102	1	Opa Opa
+1103	1	El Novillero
+1104	1	5 Guys Burger and Fries
+1105	1	Wallabys Smokehouse
+1106	1	Mandarin
+1107	1	Tepanyaki Japanese Steak House
+1108	1	Mazza (South 1500 East)
+1109	1	Himalayan Kitchen
+1110	1	Red Rooster Waffle Company
+1111	1	Tucanos Brazilian Grill (Provo)
+1112	1	Stella Grill
+1113	1	Bombay House (Provo)
+1114	1	Beerhive Pub
+1115	1	Banbury Cross
+1116	1	Park Cafe
+1117	1	Finn's
+1118	1	Burger Bar
+1119	1	Sage's Cafe
+1120	1	Cafe Rio (Provo)
+1121	1	Sapa Sushi Bar and Asian Grill
+1122	1	Tandoor Indian Grill
+1123	1	Meditrina
+1124	1	Chris Madrid's Nachos and Burgers
+1125	1	Gristmill Restaurant
+1126	1	Florio's Pizza
+1127	1	Chester's Hamburger Co.
+1128	1	Rosario's
+1129	1	Il Sogno Osteria
+1130	1	Willies Grill &amp; Icehouse (Highland Village)
+1131	1	La Fogata
+1132	1	Godai Sushi Bar and Japanese
+1133	1	Gourmet Burger Grill
+1134	1	Silo Elevated Cuisine (Alamo Heights)
+1135	1	Gruene River Grill
+1136	1	Sushi Zushi (North Central)
+1137	1	Brasserie Pavil
+1138	1	Pam's Patio Kitchen
+1139	1	La Tuna
+1140	1	Auden's Kitchen
+1141	1	Moroccan Bites
+1142	1	Paesanos Riverwalk
+1143	1	La Fonda on Main
+1144	1	Lefty's Chicago Pizzeria
+1145	1	Graziano's Pizzeria
+1146	1	Muzita Abyssinian Bistro
+1147	1	Jake's Del Mar
+1148	1	In-N-Out Burger
+1149	1	Sushi Deli 1
+1150	1	Blue Water Seafood Market &amp; Grill
+1151	1	Buon Appetito
+1152	1	Stone Brewing World Bistro &amp; Gardens
+1153	1	Costa Brava
+1154	1	Sushi Ota
+1155	1	Cafe Chloe
+1156	1	Banbu Sushi
+1157	1	Jalapenos Mexican Food
+1158	1	Casa Guadalajara
+1159	1	Fidel's Little Mexico
+1160	1	Pizza Port (Solana Beach)
+1161	1	Gandolfo's Deli
+1162	1	Bangkok Spices Thai
+1163	1	Extraordinary Desserts
+1164	1	Taco Surf Taco Shop
+1165	1	Los Agaves
+1166	1	Allison's Country Cafe
+1167	1	Via Maestra 42
+1168	1	Woodstock's Pizza (Isla Vista)
+1169	1	Jane
+1170	1	Wild Cherry Frozen Yogurt
+1171	1	Cafe Fiore Restaurant
+1172	1	Urbane Cafe
+1173	1	Zen Yai
+1174	1	Cafe Nouveau
+1175	1	Hungry Cat
+1176	1	Cajun Kitchen
+1177	1	Trattoria Grappolo
+1178	1	Jersey Mike's Subs
+1179	1	Le Pichet
+1180	1	Cafe Campagne
+1181	1	Buddha Ruksa
+1182	1	Toulouse Petit
+1183	1	La Rustica
+1184	1	Thai Tom
+1185	1	Canlis
+1186	1	Paseo (Ballard)
+1187	1	Kokoras Greek Grill
+1188	1	Jak's Grill (Issaquah)
+1189	1	Palace Kitchen
+1190	1	Cactus (Kirkland)
+1191	1	Pho Grand
+1192	1	Aya Sofia
+1193	1	Cunetto House of Pasta
+1194	1	Il Vicino
+1195	1	Bailey's Chocolate Bar
+1196	1	Cupcakery:
+1197	1	Niche
+1198	1	Robust
+1199	1	The Vine Mediterranean Café and Market
+1200	1	Seamus McDaniel's
+1201	1	Chimichanga Mexican
+1202	1	Oceano Bistro
+1203	1	Dressel's
+1204	1	Momos
+1205	1	Joey B's on the Hill
+1206	1	Garvey's Grill
+1207	1	Ted Drewes Frozen Custard (South Grand)
+1208	1	Maggiano's Little Italy
+1209	1	Square One Brewery
+1210	1	Oishi Sushi Bar &amp; Steakhouse
+1211	1	Nippon Tei
+1212	1	Oscar's Cafe
+1213	1	Senor Salsa Fresh Mexican Grill
+1214	1	Frank Pepe Pizzeria Napoletana
+1215	1	Remo's Brick Oven Pizza
+1216	1	Bobby Q's Barbeque &amp; Grill
+1217	1	Midtown Cafe
+1218	1	Fat Cat Pie Co
+1219	1	Bistro Basque
+1220	1	Layla's Falafel of Stamford
+1221	1	Ridgeway Pizza
+1222	1	Burger Bar
+1223	1	Ichiro Japanese Restaurant
+1224	1	Quattro Pazzi
+1225	1	Jerry Shakespeare Pizza #2
+1226	1	El Coyote Mexican Restaurant
+1227	1	Famous Pizza
+1228	1	TK's American Cafe
+1229	1	Strada 18 Apizza E Vino
+1230	1	Thali Regional Cuisine of India
+1231	1	Pizza Post
+1232	1	Fei Ma Chinese Restaurant
+1233	1	Gaetano's Salumeria
+1234	1	Gelatissimo Artisan Galato
+1235	1	La Zingara
+1236	1	Ella’s Americana Folk Art Cafe
+1237	1	Salt Rock Grill
+1238	1	Red Mesa Restaurant
+1239	1	Ceviche
+1240	1	Jo-To Japanese Steakhouse
+1241	1	Bella's Italian Cafe
+1242	1	Campbell's Dairy Land
+1243	1	Wine Exchange
+1244	1	King &amp; I
+1245	1	Gourmet Pizza
+1246	1	Indochinois
+1247	1	Alex's Southern Style Bar-B-Q
+1248	1	Cajun Cafe on the Bayou
+1249	1	The Cheesecake Factory
+1250	1	Vizcaya Restaurante &amp; Tapas Bar
+1251	1	Phillippi Creek Village Oyster
+1252	1	Mario's Italian Restaurant and Winecafe
+1253	1	Bison Witches Bar and Deli
+1254	1	Frost Gelato
+1255	1	Zinburger
+1256	1	Opa! Greek Cuisine and Fun
+1257	1	Beyond Bread
+1258	1	El Charro Cafe
+1259	1	Frog and Firkin
+1260	1	Zona 78
+1261	1	Shere Punjab Homestyle Cuisine
+1262	1	Bobo's
+1263	1	Rosa's Mexican Food
+1264	1	Time Market
+1265	1	Taco Shop
+1266	1	Sauce
+1267	1	Blanco Tacos + Tequila
+1268	1	El Minuto Cafe
+1269	1	Saffron Indian Bistro
+1270	1	Le Buzz Caffe and News
+1271	1	La Indita
+1272	1	Eegee's
+1273	1	Fronimo's Greek Cafe
+1274	1	Daisy Mae's Steak House
+1275	1	El Coqui
+1276	1	Kilkenny's Irish Pub &amp; Eatery
+1277	1	McNellie's Public House
+1278	1	In the Raw (Brookside)
+1279	1	Umberto's Pizza
+1280	1	Mahogany Prime Steakhouse
+1281	1	Eloté Café and Catering
+1282	1	Baja Jack's Burrito Shack
+1283	1	Andolini's Pizzeria &amp; Italian Restaurant
+1284	1	Chicory &amp; Chives Café
+1285	1	Mr. Mambo's
+1286	1	Shogun Steakhouse of Japan
+1287	1	Pei Wei Asian Diner (Broken Arrow)
+1288	1	Brookside By Day
+1289	1	Brownie's Hamburger Stand
+1290	1	Cheddar's Casual Cafe
+1291	1	Polo Grill
+1292	1	El Tequila (Memorial Drive)
+1293	1	Fuji (S. Peoria)
+1294	1	Napoli's Italian Restaurant (Broken Arrow)
+1295	1	Hideaway Pizza
+1296	1	Mike's American Grill
+1297	1	Ray's Hell-Burger
+1298	1	Ben's Chili Bowl
+1299	1	Matchbox Chinatown
+1300	1	Zaytinya
+1301	1	2 Amys
+1302	1	Italian Store
+1303	1	Jaleo
+1304	1	Dr. Granville Moore's
+1305	1	Coastal Flats (Tysons Corner)
+1306	1	Filomena Ristorante
+1307	1	Five Guys (John Milton Dr.)
+1308	1	Clyde's of Georgetown
+1309	1	Pasara Thai
+1310	1	Busboys and Poets
+1311	1	Amsterdam Falafelshop
+1312	1	Delia's Mediterranean Grill &amp; Brick Oven Pizza
+1313	1	Nando's Peri-Peri
+1314	1	Lemon Grass Restaurant
+1315	1	Taylor Gourmet
+1316	1	Cava
+1317	1	Chipotle (Rockville)
+1318	1	Vienna Inn
+1319	1	Dairy Godmother
+1320	1	Mi Rancho
+1321	1	Five Guys (Springfield)
+1322	1	Tony's New York Pizza
+1323	1	Ray's the Classics
+1324	1	Elevation Burger
+1325	1	Evening Star Cafe
+1326	1	Chocolate Cafe &amp; Bakery
+1327	1	Schlotzsky's
+1328	1	Kelly's Brewpub
+1329	1	Chili's Grill &amp; Bar
+1330	1	Golden Pride
+1331	1	Farina Pizzaria &amp; Wine Bar
+1332	1	Pop 'n' Taco
+1333	1	Papa Murphy's Take 'n' Bake
+1334	1	Dragon Wok
+1335	1	Red Rock Cafe
+1336	1	Frattelli's Pizzeria
+1337	1	Black Olive
+1338	1	Luigi's Ristorante &amp; Pizzeria
+1339	1	Taco Bell
+1340	1	Pizza Hut
+1341	1	Tortillas R Us
+1342	1	Thai Vegan
+1343	1	Caruso's Italian
+1344	1	Monte Vista Fire Station
+1345	1	India Palace
+1346	1	Il Vicino
+1347	1	South China
+1348	1	Domino's Pizza
+1349	1	Java Joe's
+1350	1	Gecko's Bar &amp; Tapas
+1351	1	Chow's Asian Bistro
+1352	1	M Cafe
+1353	1	Keva Juice
+1354	1	Subway
+1355	1	Hannah &amp; Nate's Place
+1356	1	Ahh All Out Sushi
+1357	1	Quiznos
+1358	1	Weck's (Juan Tabo)
+1359	1	Pastrami &amp; Things
+1360	1	Hot Tamales
+1361	1	Smokehouse BBQ
+1362	1	ONiell's Pub
+1363	1	La Hacienda Express
+1364	1	McDonald's
+1365	1	Perea's Tijuana Bar
+1366	1	Casa Vieja
+1367	1	John's Place
+1368	1	McDonald's
+1369	1	Burrito Lady
+1370	1	Garcia's Kitchen and Lounge
+1371	1	City Treats Parties
+1372	1	Little Anitas New Mexican Cafe
+1373	1	Whitewater Cafe
+1374	1	Cheba Hut Toasted Subs
+1375	1	J J's Pizza
+1376	1	Cafe Riviera
+1377	1	Peter Piper Pizza
+1378	1	Village Pizza
+1379	1	Nick &amp; Jimmy's Restaurant &amp; Bar
+1380	1	Delicia's Diner
+1381	1	Blake's Lotaburger
+1382	1	Burger King
+1383	1	Papa John's Pizza
+1384	1	Papaburgers
+1385	1	Whataburger
+1386	1	Papa Murphy's Take 'n' Bake
+1387	1	Emilie's French
+1388	1	Garcia's Kitchen
+1389	1	Sushi King
+1390	1	Lunch Box
+1391	1	Tina's Thai
+1392	1	Enchanted Cookies and Cakes
+1393	1	Bangkok Asian Fusion
+1394	1	Yummy's
+1395	1	Momma O's Seafood
+1396	1	Indica Haus Coffee Shop
+1397	1	The Chinese Kitchen
+1398	1	Instanbul Cafe
+1399	1	Deli Aroo
+1400	1	Sourdough Mining Company An Alaskan
+1401	1	E Street Homemade Ice Cream
+1402	1	Tap Root
+1403	1	Snow Goose
+1404	1	Anna's Place
+1405	1	Arigato Japanese
+1406	1	Luigi's Pizza
+1407	1	Lucky Kitchen Asian Food Deli
+1408	1	Great Alaska Pizza
+1409	1	Grill Station Catering
+1410	1	Europa Cafe
+1411	1	Guido's Pizza
+1412	1	Ichiban Japanese
+1413	1	Long John Silver's
+1414	1	Fu-do Chinese
+1415	1	La Mex
+1416	1	Pizza Plaza
+1417	1	La Fiesta
+1418	1	Bostons
+1419	1	El Rodeo Mexican
+1420	1	Great Alaska Pizza
+1421	1	Little BBQ House Korean Cuisin
+1422	1	Kaladi Brothers Coffee (Brayton Dr.)
+1423	1	L&amp;L Hawaiian Barbecue
+1424	1	88th Street Pizza
+1425	1	Heavenly Cup
+1426	1	Uncle Joe's Pizzeria
+1427	1	Quiznos
+1428	1	Ultimate Cup
+1429	1	La Scala
+1430	1	Siam Cuisine
+1431	1	Great Alaska Pizza
+1432	1	Cold Stone Creamery
+1433	1	Carl's Jr
+1434	1	Susan Taylor's Island Flavor
+1435	1	New Asia
+1436	1	Kodiak Foods
+1437	1	Wasabi Garden
+1438	1	La Luna Coffee
+1439	1	Hooper Bay Cafe
+1440	1	McGinley's Pub
+1441	1	Daylight Donuts
+1442	1	Kaladi Brothers Coffee (West 13th)
+1443	1	The Mixx Grill
+1444	1	Denali Steakhouse
+1445	1	Denny's
+1446	1	Cold Stone Creamery
+1447	1	Taco Del Mar
+1448	1	Jammin'Java
+1449	1	Platinum Jaxx
+1450	1	Espresso Expressions
+1451	1	Bad Ass Coffee Co Alaska
+1452	1	Let Them Eat Cake
+1453	1	Shangai Grand
+1454	1	Applebee's Neighborhood Grill &amp; Bar
+1455	1	Golden China
+1456	1	Dimond Burger Express
+1457	1	Loffredo's Espresso
+1458	1	Lily's Family
+1459	1	Qdoba Mexican Grill
+1460	1	Cozy Corner
+1461	1	China Garden
+1462	1	George's Bar &amp; Restaurant
+1463	1	Goin' Coastal
+1464	1	Cacao
+1465	1	Pappadeaux Seafood Kitchen
+1466	1	The Capital Grille
+1467	1	Anthony's
+1468	1	The Social House
+1469	1	Haagen-Dazs
+1470	1	F2O Fresh To Order
+1471	1	Mike's Coffee Shop
+1472	1	Antica Posta
+1473	1	The Glenwood Gastro Pub and Wine Bar
+1474	1	Everybody's Favorite Ice Cream
+1475	1	Jake's Ice Creams &amp; Sorbets
+1476	1	McKendrick's Steak House
+1477	1	Los Bravos Mexican
+1478	1	Subway
+1479	1	Mortons
+1480	1	Soho
+1481	1	Buca di Beppo
+1482	1	Roux on Canton
+1483	1	Pastis
+1484	1	Wild Wing Cafe
+1485	1	Sazon
+1486	1	Fuego Latin Cafe
+1487	1	Ellen's Cafe
+1488	1	Nat's &amp; Norm's Island Cuisine
+1489	1	Goldberg's Bagel Company &amp; Deli
+1490	1	Willy's Mexicana Grill
+1491	1	Village Coffee House
+1492	1	Eurasia Bistro
+1493	1	JCT Kitchen
+1494	1	Quinones at Bacchanalia
+1495	1	Starbucks
+1496	1	Amaryn's Thai Bowl &amp; Sushi
+1497	1	Surin's Thai Bowl &amp; Sushi Bar
+1498	1	Planet Smoothie
+1499	1	Fatburger
+1500	1	Blimpie
+1501	1	Garlic Thai Cuisine &amp; Sushi Bar
+1502	1	Smokey Bones BBQ &amp; Grill
+1503	1	Cafe Bistro at Nordstrom
+1504	1	Tavern at Phipps
+1505	1	Boardwalk Fresh Burgers &amp; Fries
+1506	1	China One Intl Buffet
+1507	1	Wild Bean Cafe
+1508	1	J R Crickets
+1509	1	South City Kitchen Vinings
+1510	1	Carvel Ice Cream &amp; Bakery
+1511	1	Mexico City Gourmet
+1512	1	Wonderful World
+1513	1	Mosaic
+1514	1	Fragogiannis Enterprises
+1515	1	Zaxby's
+1516	1	Subway
+1517	1	Cafe Efendi
+1518	1	Top Flr
+1519	1	The Marlay House
+1520	1	Dancing Goats Coffee Bar
+1521	1	China Wok
+1522	1	Famous Pub &amp; Sports Palace
+1523	1	Maggie's Neighborhood Bar
+1524	1	Stanley's Grace
+1525	1	Olde Towne Diner
+1526	1	Patzcuaro Mexican Restaurant
+1527	1	Ichiban Steak &amp; Sushi
+1528	1	Nahm Thai Cuisine
+1529	1	County Club Cafe
+1530	1	Fusco's Via Roma
+1531	1	Hong Kong City
+1532	1	Sip Wine Tasting and Tapas Restaurant
+1533	1	Library Coffee Co.
+1534	1	Chilitos
+1535	1	Domino's Pizza
+1536	1	Mi Barrio
+1537	1	Australian Bakery Cafe
+1538	1	Tara Humata Mexican Grill
+1539	1	Gloriosa
+1540	1	P'Cheen
+1541	1	Caspian Cafe I
+1542	1	Dutch Monkey Doughnuts
+1543	1	Tower Cafe 200
+1544	1	Abattoir Chophouse
+1545	1	Luna Nueva
+1546	1	Brewhouse Cafe
+1547	1	Niramish
+1548	1	Irish Bred Pub
+1549	1	Rice Thai Cuisine
+1550	1	Apache Cafe
+1551	1	Metrotainment Bakery
+1552	1	Ben &amp; Jerry's
+1553	1	Harry &amp; Sons
+1554	1	Mac McGee's Irish Pub
+1555	1	Siam Thai
+1556	1	Sushi Avenue on the Square
+1557	1	Raging Burrito &amp; Taco
+1558	1	Bali
+1559	1	Greenhouse Coffee Shop
+1560	1	Imperial Fez
+1561	1	El Azteca Mexican Restaurant III
+1562	1	La Salsa Mexican
+1563	1	Starbucks
+1564	1	Hubie's Buffalo Wings
+1565	1	Applebee's Neighborhood Grill &amp; Bar
+1566	1	Jungle
+1567	1	Crepes Mille
+1568	1	Upper Crust Bakery
+1569	1	Brooklyn Pies
+1570	1	Saltgrass Steak House
+1571	1	Carrabba's Italian Grill
+1572	1	Outback Steakhouse
+1573	1	Which Wich
+1574	1	219 West
+1575	1	Thundercloud Subs
+1576	1	Ruby's BBQ
+1577	1	Austin Greek Deli
+1578	1	Margarita's Mexican
+1579	1	Chipotle Mexican Grill
+1580	1	SIlver Spoon Bakery
+1581	1	Southside Flying Pizza
+1582	1	Fran's Hamburgers
+1583	1	Big Top Candy Shop
+1584	1	Daily Juice
+1585	1	Juice Joint
+1586	1	Cherrie's
+1587	1	Clementine Coffee Bar
+1588	1	Steak House Austin
+1589	1	Spicy Pickle
+1590	1	Contenders
+1591	1	King Noodle
+1592	1	BackSpin Texas Sports Bar &amp; Grill
+1593	1	Baskin-Robbins
+1594	1	Down the Alley Bistro
+1595	1	Star Co Coffee
+1596	1	Salvation Pizza
+1597	1	Cheesecake Factory
+1598	1	GBJB's Shaved Ice
+1599	1	The Coffee Pot Expresso Bar
+1600	1	El Primo Taco Trailer
+1601	1	Inocente's Cafe
+1602	1	Leaf
+1603	1	Froots-Downtown
+1604	1	Giovanni Pizza Stand
+1605	1	Snap Kitchen (6th)
+1606	1	Zuzu Handmade Mexican Food
+1607	1	Bee Caves B-B-Q
+1608	1	Izumi Japanese Sushi &amp; Grill
+1609	1	Hot Dog King
+1610	1	Saigon Egg Rolls
+1611	1	620 Cafe &amp; Bakery
+1612	1	Taqueria Chapala Jalisco
+1613	1	Saccone's
+1614	1	Laurie's Too Tearoom
+1615	1	360 Primo Coffee Bar
+1616	1	Dan's Hamburgers
+1617	1	KFC
+1618	1	Ital Palace
+1619	1	Tinos on Mopac &amp; 2222
+1620	1	Sicola's Private Dining
+1621	1	Golden Palace
+1622	1	Smokey Mo's BBQ
+1623	1	Pizza Classics of San Marcos
+1624	1	360 Uno Trattoria &amp; Wine Bar
+1625	1	Balou's Juice
+1626	1	Panera Bread
+1627	1	Elements of Health
+1628	1	Chinatown
+1629	1	El Chile Cafe y Cantina
+1630	1	Eat Dessert First Cafe
+1631	1	Nubian Queen Lola's Cajun Kitchen
+1632	1	Maggie Mae's
+1633	1	Mmmpanadas (Trailer)
+1634	1	Three Happiness
+1635	1	Maki Toki
+1636	1	Jim's
+1637	1	Maria's Mexican Restaurant
+1638	1	Fresh Cup Frozen Yogurt
+1639	1	Texas Land &amp; Cattle Company
+1640	1	Tcg Solutions
+1641	1	Carmelo's Italian
+1642	1	Bobalu Cigar and Coffee
+1643	1	Hoeks Pizza
+1644	1	K C Donut Store
+1645	1	Yo Mama Crack Shack Grill
+1646	1	Fresh Plus #3
+1647	1	Food 4 Fitness
+1648	1	Zandunga
+1649	1	El Asador
+1650	1	Tavern
+1651	1	House Park Bar-B-Que
+1652	1	Thundercloud Subs
+1653	1	Coyote Ugly Saloon
+1654	1	Le Marseillais
+1655	1	The Capital Grille
+1656	1	Art House
+1657	1	Blu Bambu
+1658	1	Sophia's Place
+1659	1	Orient
+1660	1	Subway Sandwiches - Towson Subway
+1661	1	Mo's Fisherman's Exchange
+1662	1	Dominion Ice Cream
+1663	1	McCabe's
+1664	1	Nursery Road Bp
+1665	1	Harbor East
+1666	1	13th Floor
+1667	1	Island Quizine
+1668	1	Tashes Ankh
+1669	1	Cafe Viet
+1670	1	Chow Mein Charlie
+1671	1	Pure Wine Cafe
+1672	1	High Grounds
+1673	1	Little Morocco Cafe
+1674	1	Side Street Café
+1675	1	Fresh Fresh
+1676	1	Cosmos
+1677	1	La Tavola
+1678	1	Burger King
+1679	1	KFC
+1680	1	Java Mammas
+1681	1	Afghan Kabob House
+1682	1	Adam's the Place For Ribs
+1683	1	Aivy's Corner Espress Cafe
+1684	1	Bistro Sensations
+1685	1	Black Olive
+1686	1	Chasers Restaurant and Lounge
+1687	1	The Life of Reilly Irish Pub
+1688	1	Kikumoto Sushi &amp; Japanese
+1689	1	Oh, What A Cake!
+1690	1	Sunsplash
+1691	1	Della Rose's Avenue Tavern
+1692	1	Long John's Pub
+1693	1	Greek Town Bakery and Deli
+1694	1	Sugarbaker's
+1695	1	Plaza Garibaldi
+1696	1	Caffe Euro
+1697	1	Near East Bakery
+1698	1	Jerry's Belvedere Tavern
+1699	1	Super Star Inn
+1700	1	Froggies of Erdmond
+1701	1	Subway
+1702	1	Hunan Diamond
+1703	1	Alizée
+1704	1	Rafters
+1705	1	Restaurante El Salvador
+1706	1	Rotisseria
+1707	1	Tako Seafood &amp; Deli
+1708	1	Bagel Works
+1709	1	Nichi Bei Kai
+1710	1	Royal Pizza Subs &amp; Wings
+1711	1	Granny's
+1712	1	Koffee Therapy
+1713	1	Baskin-Robbins
+1714	1	Smoothie King
+1715	1	Thai Classic I &amp; II
+1716	1	Philly's Best
+1717	1	Mike's Place
+1718	1	Dunkins Donuts
+1719	1	El Paraido
+1720	1	Three Brothers Italian Restaurant of Columbia
+1721	1	Asian Kitchen
+1722	1	Rieve's Store
+1723	1	Spot
+1724	1	Joe's Place
+1725	1	First Watch the Daytime Café
+1726	1	Mom's Southern Soul Food
+1727	1	Caribbean Paradise
+1728	1	Baja Fresh Mexican Grill
+1729	1	Five Guys - Dobbin Center
+1730	1	Ostrowski's Famous Polish Sausage
+1731	1	A Common Ground
+1732	1	Zeke's Coffee
+1733	1	Chef Mac's
+1734	1	Lauraville House
+1735	1	Outback Steakhouse
+1736	1	China Buffet
+1737	1	Maggie Moo's
+1738	1	Little Phoenix
+1739	1	Captain Louie's Seafood Grill and Oyster Bar
+1740	1	Cb Deli
+1741	1	Subway
+1742	1	Pita Grill
+1743	1	Chimes Restaurant &amp; Tap Room
+1744	1	C C's Gourmet Coffee House
+1745	1	Las Palmas Mexican
+1746	1	Kona Grill
+1747	1	Brew-Bacher's Grill
+1748	1	Christinas
+1749	1	Shucks on the Levee
+1750	1	China One
+1751	1	Kc's Joint
+1752	1	Sake Cafe
+1753	1	Wingstop
+1754	1	Orginal Italian Pie
+1755	1	Planet Smoothie
+1756	1	Roman's II Greek-Lebanese Cafe
+1757	1	Bosco's Frozen Yogurt
+1758	1	Cold Stone Creamery
+1759	1	China City
+1760	1	Koto Sushi Bar Hibatchi Grill
+1761	1	Drusilla Seafood
+1762	1	Louisiana Lunch Box
+1763	1	Memphis Bar-B-Q
+1764	1	Premier Restaurant Operations
+1765	1	Panda
+1766	1	Quiznos
+1767	1	Thee Heavenly Donut
+1768	1	Galatoire's Bistro
+1769	1	Brew Ha Ha
+1770	1	Serops Express II
+1771	1	Smoothie King III
+1772	1	China Bear
+1773	1	La Madeleine II
+1774	1	Calandro's Supermarket
+1775	1	Burger King
+1776	1	Papa John's Pizza VI
+1777	1	DeAngelo's (LSU)
+1778	1	Las Palmas Mexican
+1779	1	Taco Bell
+1780	1	Casa Maria Mexican
+1781	1	Drunken Fish Vienamese Cuisine
+1782	1	Sa Dec Kitchen
+1783	1	Subway
+1784	1	Fred's Bar &amp; Grill
+1785	1	Famous Sushi
+1786	1	Hut Wok
+1787	1	Thia Kitchen
+1788	1	Ralph &amp; Kacoo's
+1789	1	Raising Cane's Chicken Fingers (Bluebonnet)
+1790	1	Perks
+1791	1	Chinese Inn
+1792	1	C C's Gourmet Coffee House
+1793	1	Golden Temple Natural Grocery &amp; Café
+1794	1	Fuego Cantina
+1795	1	Cosmo's Pizza
+1796	1	Milo's Hamburgers
+1797	1	McDonald's
+1798	1	Newk's Express Cafe
+1799	1	Maki Fresh
+1800	1	Nothing But Noodles
+1801	1	Thai House
+1802	1	Wall Street Deli
+1803	1	Costa's Mediterranean Cafe
+1804	1	Soho Sweets
+1805	1	Costa's Famous Bar-B-Que
+1806	1	Jack's
+1807	1	Sneaky Pete's Hot Dogs
+1808	1	Panera Bread
+1809	1	O'Henry's Coffees
+1810	1	Pita Stop
+1811	1	What's 4 Supper?
+1812	1	Johnny Rocket's
+1813	1	Qdoba Mexican Grill
+1814	1	Edgar's Old Style Bakery
+1815	1	Johnny Ray's Bar B Que
+1816	1	Crestline Seafood Company
+1817	1	Carlile's Barbecue
+1818	1	Moe's Southwest Grill
+1819	1	Panera Bread
+1820	1	Kairos Kafe
+1821	1	Subway
+1822	1	Brick&amp;Tin
+1823	1	Starbucks
+1824	1	Chipotle
+1825	1	Ixtapa Mexican
+1826	1	Waffle House
+1827	1	Jim 'N Nick's Bar-B-Q (Cahaba)
+1828	1	Starbucks
+1829	1	Seafood &amp; Chicken Box
+1830	1	Longhorn Steakhouse
+1831	1	Qdoba Mexican Grill
+1832	1	Wings Plus 3
+1833	1	Camp Taco
+1834	1	Sekisui
+1835	1	Yogurt Twists
+1836	1	Waffle House
+1837	1	Starbucks
+1838	1	Courtyard Oyster Bar &amp; Grill Southside
+1839	1	Ristorante Saraceno
+1840	1	Asmara
+1841	1	Dunkin' Donuts
+1842	1	Jerusalem Pita &amp; Grill
+1843	1	Star Pizza &amp; Cafe
+1844	1	Siraj Cafe
+1845	1	Keltic Krust Bakery
+1846	1	Mr. Sushi
+1847	1	Bottega Fiorentina
+1848	1	Lucca
+1849	1	Taverna Toscana
+1850	1	La Brace
+1851	1	Café Fixe
+1852	1	Similans- Fine Thai Cuisine
+1853	1	All Star Sandwich Bar
+1854	1	Eloy's Bakery
+1855	1	Toraya
+1856	1	Tsunami
+1857	1	The Haven
+1858	1	Sorella's
+1859	1	All Star Samdwich Bar
+1860	1	George: An American Tavern
+1861	1	Di Napoli Pizzeria
+1862	1	Ninety Nine Restaurant &amp; Pub
+1863	1	Victoria Seafood Restaurant
+1864	1	Boynton Family Restaurant
+1865	1	D'Angelo's
+1866	1	Dragon Dynasty
+1867	1	Bleacher Bar
+1868	1	Midnite Pizza &amp; Subs
+1869	1	Dunkin' Donuts
+1870	1	Bell in Hand Tavern
+1871	1	Harvard Gardens
+1872	1	Roast Beef Pizza King
+1873	1	Cafe Mamtaz
+1874	1	Brown Bag Cafe
+1875	1	Al Capones Too
+1876	1	J.P. Licks
+1877	1	Davis Station Food
+1878	1	Starbucks
+1879	1	Alex Pizza
+1880	1	Cafe Aventura
+1881	1	Toki Shabu-Shabu
+1882	1	POPS
+1883	1	Caffe Paradiso
+1884	1	Bricco
+1885	1	Cornwall's
+1886	1	Atasca
+1887	1	Northeast Restaurant Corporation
+1888	1	Prana Café
+1889	1	Auntie B's Place
+1890	1	Ittyo
+1891	1	Stella's Pizza
+1892	1	Best Cafe
+1893	1	China Pro Bakery &amp; Barbecue
+1894	1	Brix 576
+1895	1	Chair 5 Restaurants LLC
+1896	1	Ginger Park
+1897	1	Angora Ice
+1898	1	Biagio Ristorante and Bar
+1899	1	Chipotle Mexican Grill
+1900	1	Gail Ann Coffee Shop
+1901	1	Las Ventas
+1902	1	Flat Top Johnny's
+1903	1	Mandarin House
+1904	1	Fuddruckers
+1905	1	Papa Gino's
+1906	1	Bertucci's Brick Oven Pizzeria
+1907	1	Salts
+1908	1	Dunkin' Donuts
+1909	1	Caffe Graffiti
+1910	1	Souper Salad
+1911	1	Burger Express
+1912	1	Absolutely Fabulous
+1913	1	Melrose House of Pizza
+1914	1	Cold Rush Ice Cream
+1915	1	Pho Vietnam Restaurant
+1916	1	Club Passim
+1917	1	Pizzanini
+1918	1	Pomodoro
+1919	1	Pho Pasteur
+1920	1	Cabot Creamery Corporate Sales
+1921	1	Wings &amp; Salads
+1922	1	Quaker Bonnet
+1923	1	Wegmans
+1924	1	Jalak Enterprises
+1925	1	Subway
+1926	1	Pinzone Pizzeria
+1927	1	KFC
+1928	1	Wagon Wheel
+1929	1	Subway
+1930	1	Denny's
+1931	1	J&amp;M's West End Inn
+1932	1	Fowler's
+1933	1	Taste
+1934	1	Riley Street Station
+1935	1	Gramma Mora's
+1936	1	Brawlers Back Alley Deli
+1937	1	Hooligans Restaurant &amp; Bar
+1938	1	Chandy's Lounge
+1939	1	Tim Hortons
+1940	1	Outback Steakhouse
+1941	1	Cedar's Pita Pockets
+1942	1	Woo Chon Korea House
+1943	1	Dave &amp; Buster's Grand Sports Cafe
+1944	1	Hong Kong Kitchen
+1945	1	Subway
+1946	1	Burger King
+1947	1	Mezza Restaurant &amp; Lounge
+1948	1	Comfort Zone Cafe
+1949	1	Burger King
+1950	1	Pasquale's Pizza &amp; Subs
+1951	1	Carmine's
+1952	1	Roman Cafe
+1953	1	Papa's Deli &amp; Pizzeria
+1954	1	Palumbo's Pizzeria
+1955	1	Louie's Texas Red Hots
+1956	1	Globe Market
+1957	1	Cheeburger Cheeburger
+1958	1	Deniro's Pizzeria
+1959	1	Panaro's
+1960	1	Falafel Bar
+1961	1	Tim Hortons
+1962	1	De Marco's Pizza
+1963	1	Mi Kien Giang
+1964	1	Ying's Wings and Things
+1965	1	Dickie's Donuts
+1966	1	Carmen's Kitchen
+1967	1	Rich's Bakery Outlet Store
+1968	1	Just Pizza Express
+1969	1	Tim Hortons
+1970	1	Elmwood Restaurant Lounge-Bar
+1971	1	Subway
+1972	1	La Bella Pizza
+1973	1	No Place Tavern
+1974	1	Fortunato's on the Park
+1975	1	Chili's Grill &amp; Bar
+1976	1	Perkins Restaurant &amp; Bakery
+1977	1	Famous Corner Pizzeria
+1978	1	KFC
+1979	1	1 China
+1980	1	KFC
+1981	1	Artone's Pizza &amp; Subs
+1982	1	China King
+1983	1	Blasdell Pizza
+1984	1	Butter's Bistro
+1985	1	Cafe Magnolia
+1986	1	King Express
+1987	1	Trattoria Aroma
+1988	1	Ambrosia
+1989	1	Tim Hortons
+1990	1	Snyder Bar and Grill
+1991	1	China Star
+1992	1	Friendly's
+1993	1	Starbucks
+1994	1	Boston Market
+1995	1	Kainos Partners
+1996	1	Arby's
+1997	1	Sgt. Pepperoni's
+1998	1	Jack's Place
+1999	1	Santora's Phase II

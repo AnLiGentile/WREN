@@ -1,0 +1,2002 @@
+﻿restaurant	tripadvisor	cuisine
+2000	1849	1849	571
+0000	0	<NULL>
+0001	1	Cuisines: French, Seafood
+0002	0	<NULL>
+0003	0	<NULL>
+0004	1	Cuisines: American, English, Steakhouse
+0005	0	<NULL>
+0006	0	<NULL>
+0007	0	<NULL>
+0008	1	Cuisines: Pizza
+0009	1	Cuisines: Asian
+0010	1	Cuisines: Steakhouse
+0011	1	Cuisines: American, Fusion, Vegan, Vegetarian
+0012	1	Cuisines: American
+0013	1	Cuisines: American, Bar, Hamburgers
+0014	1	Cuisines: Italian, Spanish, French, Eclectic, International
+0015	1	Cuisines: American, Contemporary
+0016	1	Cuisines: American, Vegan, Vegetarian
+0017	1	Cuisines: Barbecue, American
+0018	1	Cuisines: American, Bakery, Coffee Shop, Dessert, Family Fare, Ice Cream
+0019	1	Cuisines: Italian
+0020	1	Cuisines: Steakhouse
+0021	1	Cuisines: Coffee Shop
+0022	1	Cuisines: American, Seafood, Steakhouse
+0023	1	Cuisines: Barbecue, Seafood, Steakhouse
+0024	0	<NULL>
+0025	1	Cuisines: Bakery
+0026	0	<NULL>
+0027	1	Cuisines: Contemporary, Seafood
+0028	1	Cuisines: Hawaiian, Polynesian
+0029	1	Cuisines: Japanese, Sushi
+0030	1	Cuisines: Hawaiian, French, Fusion
+0031	1	Cuisines: Seafood
+0032	0	<NULL>
+0033	1	Cuisines: Steakhouse
+0034	1	Cuisines: Mexican
+0035	1	Cuisines: Thai
+0036	0	<NULL>
+0037	0	<NULL>
+0038	1	Cuisines: French
+0039	0	<NULL>
+0040	1	Cuisines: American, Eclectic, Italian
+0041	1	Cuisines: Steakhouse
+0042	1	Cuisines: American
+0043	0	<NULL>
+0044	1	Cuisines: Lebanese
+0045	1	Cuisines: Japanese
+0046	1	Cuisines: Barbecue, American, Hamburgers, Steakhouse
+0047	1	Cuisines: American
+0048	1	Cuisines: Thai
+0049	1	Cuisines: Hamburgers
+0050	1	Cuisines: Coffee Shop
+0051	1	Cuisines: Thai
+0052	1	Cuisines: Mexican
+0053	1	Cuisines: Delicatessen
+0054	1	Cuisines: Dessert
+0055	0	<NULL>
+0056	1	Cuisines: American
+0057	0	<NULL>
+0058	1	Cuisines: Greek, American
+0059	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+0060	0	<NULL>
+0061	1	Cuisines: American, Bar, Hamburgers, Grill, Pub
+0062	1	Cuisines: Italian, Contemporary, Mediterranean
+0063	1	Cuisines: Delicatessen
+0064	1	Cuisines: Barbecue, American
+0065	1	Cuisines: American
+0066	1	Cuisines: Steakhouse
+0067	1	Cuisines: American, Italian, Seafood
+0068	1	Cuisines: Barbecue, American
+0069	1	Cuisines: American, Delicatessen, Diner
+0070	1	Cuisines: Seafood, American
+0071	1	Cuisines: Italian
+0072	1	Cuisines: Japanese
+0073	0	<NULL>
+0074	1	Cuisines: Thai
+0075	1	Cuisines: Vegetarian
+0076	1	Cuisines: Asian
+0077	1	Cuisines: French
+0078	1	Cuisines: American
+0079	1	Cuisines: American
+0080	1	Cuisines: American, Seafood
+0081	1	Cuisines: Italian
+0082	0	<NULL>
+0083	0	<NULL>
+0084	1	Cuisines: Italian
+0085	0	<NULL>
+0086	1	Cuisines: Barbecue
+0087	1	Cuisines: Italian
+0088	1	Cuisines: Barbecue
+0089	1	Cuisines: Mexican
+0090	1	Cuisines: Tapas
+0091	1	Cuisines: French, American, Swiss
+0092	1	Cuisines: Pizza
+0093	1	Cuisines: Mexican
+0094	1	Cuisines: Mexican
+0095	1	Cuisines: Steakhouse
+0096	1	Cuisines: Japanese, Sushi
+0097	1	Cuisines: Pizza
+0098	1	Cuisines: American, Delicatessen
+0099	1	Cuisines: Italian
+0100	0	<NULL>
+0101	1	Cuisines: Asian
+0102	1	Cuisines: Bar, British
+0103	1	Cuisines: Café, Sandwiches
+0104	1	Cuisines: Middle Eastern
+0105	1	Cuisines: Chinese
+0106	1	Cuisines: Mexican
+0107	1	Cuisines: Japanese
+0108	1	Cuisines: Delicatessen
+0109	1	Cuisines: Pizza, Delicatessen
+0110	0	<NULL>
+0111	1	Cuisines: Indian, International
+0112	1	Cuisines: Coffee Shop
+0113	0	<NULL>
+0114	1	Cuisines: Pizza
+0115	1	Cuisines: Chinese
+0116	0	<NULL>
+0117	1	Cuisines: Pizza
+0118	1	Cuisines: Pizza, Sandwiches
+0119	0	<NULL>
+0120	0	<NULL>
+0121	0	<NULL>
+0122	0	<NULL>
+0123	1	Cuisines: Barbecue, Italian, Seafood, Steakhouse
+0124	0	<NULL>
+0125	1	Cuisines: American
+0126	1	Cuisines: American
+0127	1	Cuisines: French
+0128	1	Cuisines: Pizza
+0129	0	<NULL>
+0130	1	Cuisines: Steakhouse, Seafood
+0131	1	Cuisines: American
+0132	1	Cuisines: Italian
+0133	0	<NULL>
+0134	0	<NULL>
+0135	1	Cuisines: Chinese
+0136	0	<NULL>
+0137	1	Cuisines: Mexican
+0138	1	Cuisines: Soups
+0139	1	Cuisines: Bakery
+0140	0	<NULL>
+0141	1	Cuisines: Barbecue
+0142	1	Cuisines: Mexican
+0143	1	Cuisines: Café, Coffee Shop
+0144	1	Cuisines: American, Seafood, Steakhouse
+0145	1	Cuisines: Brazilian, South American, Steakhouse
+0146	0	<NULL>
+0147	1	Cuisines: American
+0148	1	Cuisines: American
+0149	1	Cuisines: Italian
+0150	1	Cuisines: Contemporary, Portuguese, Spanish, Tapas
+0151	1	Cuisines: Pizza
+0152	1	Cuisines: Italian, Delicatessen
+0153	0	<NULL>
+0154	1	Cuisines: Mexican
+0155	0	<NULL>
+0156	1	Cuisines: Greek
+0157	1	Cuisines: Italian, Pizza
+0158	1	Cuisines: Sushi
+0159	1	Cuisines: Pizza, Italian
+0160	1	Cuisines: Mexican, Fast Food
+0161	1	Cuisines: Seafood
+0162	1	Cuisines: Italian
+0163	1	Cuisines: Thai
+0164	1	Cuisines: American, Steakhouse
+0165	1	Cuisines: American, Mexican
+0166	0	<NULL>
+0167	0	<NULL>
+0168	1	Cuisines: Italian
+0169	1	Cuisines: Delicatessen, Pizza
+0170	1	Cuisines: Chinese
+0171	1	Cuisines: American
+0172	0	<NULL>
+0173	1	Cuisines: Greek
+0174	0	<NULL>
+0175	1	Cuisines: American
+0176	1	Cuisines: Mexican
+0177	1	Cuisines: American, Asian, Contemporary, Dessert, Healthy
+0178	0	<NULL>
+0179	1	Cuisines: Irish
+0180	1	Cuisines: Burmese, Indian, Japanese
+0181	1	Cuisines: Hawaiian
+0182	1	Cuisines: Hawaiian
+0183	1	Cuisines: Continental, European
+0184	1	Cuisines: Sushi
+0185	1	Cuisines: Thai
+0186	1	Cuisines: American
+0187	0	<NULL>
+0188	1	Cuisines: Mexican
+0189	1	Cuisines: Japanese
+0190	1	Cuisines: Barbecue, American, Steakhouse
+0191	1	Cuisines: French
+0192	0	<NULL>
+0193	1	Cuisines: Dessert, Ice Cream
+0194	1	Cuisines: American
+0195	1	Cuisines: Seafood, American
+0196	1	Cuisines: American, Delicatessen, Steakhouse
+0197	1	Cuisines: American
+0198	1	Cuisines: Steakhouse
+0199	1	Cuisines: Pizza
+0200	0	<NULL>
+0201	1	Cuisines: Barbecue
+0202	0	<NULL>
+0203	1	Cuisines: Healthy, American, Hamburgers, Seafood, Vegetarian
+0204	1	Cuisines: Italian
+0205	1	Cuisines: American
+0206	1	Cuisines: Hamburgers, American, Coffee Shop, Diner
+0207	1	Cuisines: Italian
+0208	1	Cuisines: Thai
+0209	1	Cuisines: American, Bakery, Nepali, Grill
+0210	0	<NULL>
+0211	1	Cuisines: American
+0212	1	Cuisines: Mexican
+0213	1	Cuisines: American, Coffee Shop, Diner
+0214	1	Cuisines: Indian
+0215	1	Cuisines: Seafood, American, Contemporary
+0216	0	<NULL>
+0217	1	Cuisines: Irish, American, British, Seafood
+0218	1	Cuisines: American, Pub
+0219	1	Cuisines: Family Fare
+0220	0	<NULL>
+0221	0	<NULL>
+0222	1	Cuisines: Delicatessen
+0223	0	<NULL>
+0224	1	Cuisines: American
+0225	0	<NULL>
+0226	1	Cuisines: American
+0227	0	<NULL>
+0228	0	<NULL>
+0229	1	Cuisines: Pizza
+0230	1	Cuisines: Chinese
+0231	1	Cuisines: Chinese
+0232	1	Cuisines: American
+0233	1	Cuisines: American
+0234	1	Cuisines: American
+0235	0	<NULL>
+0236	1	Cuisines: Fast Food, Delicatessen, Soups
+0237	1	Cuisines: Mexican
+0238	0	<NULL>
+0239	1	Cuisines: Indian
+0240	1	Cuisines: Seafood, American, Wine Bar
+0241	1	Cuisines: Italian
+0242	1	Cuisines: Mexican
+0243	1	Cuisines: Sushi, Japanese
+0244	0	<NULL>
+0245	1	Cuisines: Bakery, Dessert
+0246	1	Cuisines: Dessert, Delicatessen
+0247	1	Cuisines: Ice Cream
+0248	1	Cuisines: Sushi, Japanese
+0249	1	Cuisines: Delicatessen, Italian, Pizza
+0250	1	Cuisines: American, Californian
+0251	1	Cuisines: Thai
+0252	1	Cuisines: Mexican
+0253	1	Cuisines: Mexican
+0254	1	Cuisines: Pizza
+0255	1	Cuisines: Steakhouse
+0256	1	Cuisines: Japanese
+0257	0	<NULL>
+0258	1	Cuisines: Seafood, Steakhouse
+0259	1	Cuisines: Steakhouse
+0260	1	Cuisines: American, Hamburgers, Steakhouse
+0261	1	Cuisines: Delicatessen
+0262	1	Cuisines: American, Cajun & Creole, Caribbean, Continental
+0263	1	Cuisines: Italian
+0264	0	<NULL>
+0265	0	<NULL>
+0266	1	Cuisines: Mexican
+0267	1	Cuisines: American
+0268	1	Cuisines: Mexican
+0269	1	Cuisines: Seafood
+0270	1	Cuisines: American
+0271	0	<NULL>
+0272	1	Cuisines: Contemporary
+0273	0	<NULL>
+0274	1	Cuisines: Thai
+0275	0	<NULL>
+0276	0	<NULL>
+0277	1	Cuisines: American, Seafood
+0278	1	Cuisines: Chinese
+0279	1	Cuisines: Pizza
+0280	1	Cuisines: Middle Eastern, Mediterranean, Delicatessen
+0281	1	Cuisines: American
+0282	1	Cuisines: Chinese, Bakery
+0283	1	Cuisines: Mexican
+0284	1	Cuisines: Thai
+0285	1	Cuisines: American, Cajun & Creole, Fast Food
+0286	0	<NULL>
+0287	1	Cuisines: American
+0288	0	<NULL>
+0289	1	Cuisines: Barbecue
+0290	1	Cuisines: Steakhouse
+0291	1	Cuisines: Barbecue
+0292	1	Cuisines: French, Continental
+0293	1	Cuisines: Bakery
+0294	0	<NULL>
+0295	1	Cuisines: American
+0296	1	Cuisines: American
+0297	1	Cuisines: Thai, Chinese, Cambodian, Vietnamese, Asian
+0298	1	Cuisines: Mexican
+0299	1	Cuisines: Continental, American
+0300	1	Cuisines: Italian
+0301	1	Cuisines: Italian
+0302	1	Cuisines: American, Bar, Eclectic
+0303	1	Cuisines: Eclectic
+0304	1	Cuisines: American, Bagels, Bakery, Café, Coffee Shop, Diner, Sandwiches
+0305	1	Cuisines: Chinese
+0306	1	Cuisines: Pizza
+0307	1	Cuisines: Hamburgers, American, Seafood
+0308	1	Cuisines: Thai
+0309	1	Cuisines: Italian
+0310	0	<NULL>
+0311	1	Cuisines: Italian
+0312	1	Cuisines: Italian
+0313	0	<NULL>
+0314	0	<NULL>
+0315	1	Cuisines: Thai
+0316	1	Cuisines: Italian
+0317	1	Cuisines: Thai, Asian
+0318	1	Cuisines: Greek
+0319	1	Cuisines: Japanese
+0320	1	Cuisines: Hamburgers, American
+0321	0	<NULL>
+0322	1	Cuisines: Asian
+0323	1	Cuisines: Bakery, Californian, Italian, Pizza
+0324	1	Cuisines: Italian
+0325	1	Cuisines: Italian
+0326	1	Cuisines: Mexican
+0327	1	Cuisines: Pizza, Italian
+0328	1	Cuisines: Italian, Californian
+0329	1	Cuisines: Asian, Burmese
+0330	1	Cuisines: Pizza
+0331	1	Cuisines: Mexican
+0332	1	Cuisines: Jamaican
+0333	1	Cuisines: Asian fusion, Healthy
+0334	1	Cuisines: Mexican
+0335	1	Cuisines: Barbecue
+0336	1	Cuisines: Chinese, Dim Sum
+0337	1	Cuisines: Sandwiches
+0338	1	Cuisines: Italian
+0339	1	Cuisines: Bakery
+0340	1	Cuisines: French
+0341	1	Cuisines: Pizza
+0342	1	Cuisines: American
+0343	1	Cuisines: Pizza
+0344	1	Cuisines: Pub
+0345	1	Cuisines: American, Barbecue, Mexican, Southwestern
+0346	1	Cuisines: Italian
+0347	0	<NULL>
+0348	1	Cuisines: American, Continental
+0349	1	Cuisines: American, Italian, Seafood
+0350	1	Cuisines: American, Seafood
+0351	1	Cuisines: Italian, Pizza
+0352	1	Cuisines: American, Asian, Contemporary, Seafood, Vegetarian
+0353	1	Cuisines: Ethiopian, African
+0354	1	Cuisines: Coffee Shop
+0355	1	Cuisines: American, British, Irish
+0356	1	Cuisines: Pizza, Italian
+0357	1	Cuisines: American, Mediterranean
+0358	1	Cuisines: American, Dessert, Italian
+0359	1	Cuisines: American, Seafood
+0360	1	Cuisines: American, Barbecue, Diner
+0361	1	Cuisines: Fast Food, Delicatessen, Bagels
+0362	0	<NULL>
+0363	1	Cuisines: Italian, Pizza
+0364	1	Cuisines: American, Mexican, Pizza, Sandwiches, South American, Steakhouse
+0365	1	Cuisines: Italian
+0366	1	Cuisines: Tapas, Organic
+0367	1	Cuisines: Sushi, Japanese
+0368	1	Cuisines: French
+0369	1	Cuisines: Chinese
+0370	1	Cuisines: Barbecue
+0371	0	<NULL>
+0372	0	<NULL>
+0373	1	Cuisines: Delicatessen
+0374	1	Cuisines: Pizza
+0375	1	Cuisines: British
+0376	1	Cuisines: Japanese
+0377	0	<NULL>
+0378	0	<NULL>
+0379	0	<NULL>
+0380	1	Cuisines: Pizza, Greek
+0381	1	Cuisines: Chinese
+0382	1	Cuisines: Kosher
+0383	0	<NULL>
+0384	1	Cuisines: Bakery
+0385	1	Cuisines: Chicken Wings
+0386	1	Cuisines: American, Continental
+0387	1	Cuisines: Japanese
+0388	1	Cuisines: Steakhouse
+0389	1	Cuisines: American
+0390	1	Cuisines: Ice Cream, Dessert
+0391	1	Cuisines: Fusion, Sushi
+0392	1	Cuisines: Pizza
+0393	1	Cuisines: Seafood
+0394	1	Cuisines: American, Seafood
+0395	1	Cuisines: American, Seafood
+0396	1	Cuisines: Japanese
+0397	1	Cuisines: Thai, Vietnamese
+0398	1	Cuisines: Japanese
+0399	1	Cuisines: Mexican, Fast Food
+0400	1	Cuisines: Japanese
+0401	1	Cuisines: Steakhouse
+0402	1	Cuisines: Chinese
+0403	1	Cuisines: American
+0404	1	Cuisines: American
+0405	1	Cuisines: Seafood, Japanese
+0406	1	Cuisines: American
+0407	1	Cuisines: Greek, Middle Eastern, Pizza, Vegan, Vegetarian
+0408	1	Cuisines: Seafood, American, Bakery, Contemporary, Delicatessen, Eclectic, Greek, International, Japanese, Middle Eastern, Sushi
+0409	1	Cuisines: American, Barbecue, Diner, Family Fare
+0410	1	Cuisines: Jamaican
+0411	1	Cuisines: Hamburgers, Family Fare, American
+0412	1	Cuisines: Tapas
+0413	1	Cuisines: Italian
+0414	1	Cuisines: French
+0415	1	Cuisines: Seafood
+0416	1	Cuisines: Mexican
+0417	0	<NULL>
+0418	1	Cuisines: Greek
+0419	0	<NULL>
+0420	1	Cuisines: Mexican
+0421	1	Cuisines: Barbecue, Seafood, American, Steakhouse
+0422	1	Cuisines: Seafood, Steakhouse, American
+0423	1	Cuisines: American, Contemporary, Mediterranean, Southwestern
+0424	1	Cuisines: Asian, Seafood, Dessert, American, Contemporary, Eclectic, International
+0425	1	Cuisines: American
+0426	1	Cuisines: Cajun & Creole, American
+0427	1	Cuisines: Mexican
+0428	1	Cuisines: American, Dessert
+0429	1	Cuisines: Mexican, American, Vegetarian
+0430	1	Cuisines: Fast Food
+0431	1	Cuisines: American
+0432	1	Cuisines: Italian
+0433	0	<NULL>
+0434	1	Cuisines: German
+0435	0	<NULL>
+0436	1	Cuisines: Chinese
+0437	1	Cuisines: Japanese
+0438	1	Cuisines: American
+0439	1	Cuisines: American
+0440	1	Cuisines: Mexican
+0441	1	Cuisines: American
+0442	1	Cuisines: Indian
+0443	0	<NULL>
+0444	1	Cuisines: European
+0445	1	Cuisines: Asian, Mexican, Sushi, Thai
+0446	0	<NULL>
+0447	0	<NULL>
+0448	1	Cuisines: American
+0449	0	<NULL>
+0450	0	<NULL>
+0451	1	Cuisines: Chinese
+0452	1	Cuisines: French
+0453	1	Cuisines: Thai
+0454	1	Cuisines: Italian
+0455	0	<NULL>
+0456	1	Cuisines: Mexican
+0457	1	Cuisines: Italian, Pizza, American, Seafood, Steakhouse
+0458	1	Cuisines: Italian, Steakhouse
+0459	1	Cuisines: Japanese
+0460	1	Cuisines: Hamburgers
+0461	1	Cuisines: American, Mediterranean
+0462	1	Cuisines: American
+0463	0	<NULL>
+0464	1	Cuisines: Chinese, Asian
+0465	1	Cuisines: Persian
+0466	1	Cuisines: Thai
+0467	0	<NULL>
+0468	1	Cuisines: American
+0469	1	Cuisines: French, Dessert
+0470	0	<NULL>
+0471	1	Cuisines: Italian
+0472	1	Cuisines: Pizza
+0473	0	<NULL>
+0474	1	Cuisines: Thai
+0475	1	Cuisines: Contemporary
+0476	1	Cuisines: Greek, Turkish
+0477	0	<NULL>
+0478	1	Cuisines: Asian
+0479	0	<NULL>
+0480	1	Cuisines: Seafood
+0481	1	Cuisines: American, Barbecue
+0482	0	<NULL>
+0483	1	Cuisines: Italian
+0484	0	<NULL>
+0485	1	Cuisines: Mexican
+0486	0	<NULL>
+0487	1	Cuisines: Pizza
+0488	1	Cuisines: Asian
+0489	1	Cuisines: American, Coffee Shop, Diner
+0490	1	Cuisines: Mexican
+0491	1	Cuisines: Pizza
+0492	1	Cuisines: Mexican
+0493	1	Cuisines: Pizza, American, Delicatessen
+0494	1	Cuisines: Italian
+0495	1	Cuisines: American
+0496	1	Cuisines: American, British, Irish
+0497	1	Cuisines: American, Contemporary
+0498	1	Cuisines: Italian
+0499	1	Cuisines: Thai
+0500	1	Cuisines: American, Seafood, Steakhouse
+0501	1	Cuisines: American
+0502	0	<NULL>
+0503	1	Cuisines: American
+0504	0	<NULL>
+0505	1	Cuisines: Japanese
+0506	1	Cuisines: Sushi, Asian
+0507	1	Cuisines: Italian
+0508	0	<NULL>
+0509	1	Cuisines: American, Eclectic, International, Seafood, Thai, Vegan, Vegetarian
+0510	0	<NULL>
+0511	1	Cuisines: Japanese, Sushi
+0512	1	Cuisines: American, Dessert, Ice Cream
+0513	1	Cuisines: Mexican
+0514	1	Cuisines: Mexican
+0515	1	Cuisines: American, French
+0516	1	Cuisines: Pizza, Pizza & Pasta
+0517	1	Cuisines: American
+0518	1	Cuisines: Latin, American, Italian, Contemporary, French, Seafood
+0519	1	Cuisines: Ethiopian, Vegan, Vegetarian
+0520	1	Cuisines: American
+0521	1	Cuisines: Coffee Shop, Bakery
+0522	1	Cuisines: Asian, Chinese, Japanese, Korean, Pacific Rim
+0523	1	Cuisines: Japanese, Sushi
+0524	1	Cuisines: American
+0525	1	Cuisines: American, Seafood
+0526	1	Cuisines: French
+0527	1	Cuisines: Seafood
+0528	1	Cuisines: Dessert
+0529	1	Cuisines: Dessert
+0530	1	Cuisines: Japanese, Sushi
+0531	0	<NULL>
+0532	1	Cuisines: Thai
+0533	1	Cuisines: Italian
+0534	0	<NULL>
+0535	1	Cuisines: Seafood, American, Contemporary, Oyster Bar
+0536	1	Cuisines: Colombian, Latin, South American
+0537	0	<NULL>
+0538	1	Cuisines: American
+0539	1	Cuisines: French
+0540	1	Cuisines: Bakery, Coffee Shop, Contemporary, Diner
+0541	1	Cuisines: Contemporary, French
+0542	1	Cuisines: Soups, Bakery, Delicatessen
+0543	1	Cuisines: American, Barbecue
+0544	1	Cuisines: American, French
+0545	1	Cuisines: American, Seafood, Asian
+0546	1	Cuisines: Steakhouse, American
+0547	1	Cuisines: American, Coffee Shop, Dessert, Diner, Ice Cream
+0548	1	Cuisines: Sushi, Japanese
+0549	1	Cuisines: American, Mediterranean
+0550	1	Cuisines: American, Italian
+0551	1	Cuisines: Sushi, Thai
+0552	1	Cuisines: American, Eclectic, International
+0553	1	Cuisines: Japanese, Sushi
+0554	1	Cuisines: American, Steakhouse
+0555	1	Cuisines: Asian, Californian
+0556	1	Cuisines: Mexican
+0557	1	Cuisines: American, Steakhouse
+0558	1	Cuisines: Mexican
+0559	1	Cuisines: American
+0560	1	Cuisines: American, Californian, Contemporary
+0561	1	Cuisines: Italian
+0562	1	Cuisines: Pizza, Italian
+0563	1	Cuisines: American, Californian, Contemporary, Seafood
+0564	1	Cuisines: Burmese, Delicatessen
+0565	1	Cuisines: American, Seafood
+0566	1	Cuisines: Bakery
+0567	1	Cuisines: Latin
+0568	1	Cuisines: Chinese
+0569	1	Cuisines: Coffee Shop
+0570	1	Cuisines: Sushi, Japanese
+0571	1	Cuisines: American
+0572	1	Cuisines: Seafood, Sushi, Japanese
+0573	0	<NULL>
+0574	1	Cuisines: Seafood
+0575	1	Cuisines: Japanese, Sushi
+0576	1	Cuisines: Hamburgers
+0577	1	Cuisines: American, Mediterranean, Seafood
+0578	1	Cuisines: Californian, American
+0579	1	Cuisines: Pizza, Italian
+0580	1	Cuisines: Italian, Pizza
+0581	0	<NULL>
+0582	1	Cuisines: Pasta, Pizza, Pizza & Pasta
+0583	1	Cuisines: Coffee Shop, Bakery
+0584	1	Cuisines: French, Seafood
+0585	1	Cuisines: French
+0586	1	Cuisines: Italian
+0587	1	Cuisines: Mediterranean, Mexican
+0588	1	Cuisines: Italian
+0589	0	<NULL>
+0590	1	Cuisines: Steakhouse
+0591	1	Cuisines: American, Delicatessen, Hamburgers
+0592	1	Cuisines: Chinese
+0593	0	<NULL>
+0594	1	Cuisines: Italian
+0595	1	Cuisines: Japanese, Sushi
+0596	1	Cuisines: American, Californian, Contemporary
+0597	1	Cuisines: American, Seafood
+0598	1	Cuisines: Mediterranean, Spanish, Tapas, Vegetarian
+0599	1	Cuisines: American, Sandwiches
+0600	0	<NULL>
+0601	1	Cuisines: Fast Food, Hamburgers
+0602	1	Cuisines: American
+0603	1	Cuisines: Japanese, Sushi
+0604	1	Cuisines: Indian, Vegetarian
+0605	1	Cuisines: American, Contemporary, Mediterranean, Pacific Rim
+0606	1	Cuisines: Chinese, Asian, Vietnamese
+0607	1	Cuisines: Hamburgers, American
+0608	1	Cuisines: Bakery
+0609	1	Cuisines: American, Cajun & Creole, Eclectic, Vegetarian
+0610	1	Cuisines: Tapas, Spanish, Latin
+0611	1	Cuisines: Japanese, Sushi
+0612	1	Cuisines: Italian
+0613	1	Cuisines: Italian
+0614	0	<NULL>
+0615	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+0616	0	<NULL>
+0617	1	Cuisines: French
+0618	0	<NULL>
+0619	1	Cuisines: French
+0620	1	Cuisines: Mediterranean, Greek, Moroccan, Turkish
+0621	1	Cuisines: Barbecue, Italian, Seafood, Steakhouse
+0622	1	Cuisines: American
+0623	1	Cuisines: American, Californian, Eclectic, International, Tapas
+0624	1	Cuisines: Argentinean, Caribbean, Colombian, Cuban, Ecuadorean, Latin, South American
+0625	1	Cuisines: Afghan, Indian
+0626	1	Cuisines: Seafood
+0627	1	Cuisines: American, Cajun & Creole, Continental
+0628	1	Cuisines: Seafood, Belgian
+0629	1	Cuisines: Asian, French, American, Contemporary, Continental
+0630	1	Cuisines: American, Contemporary, French, Japanese, Seafood
+0631	1	Cuisines: Spanish, Tapas
+0632	1	Cuisines: Thai, Vegetarian, Vietnamese
+0633	1	Cuisines: Japanese
+0634	1	Cuisines: American, Seafood, Soups
+0635	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+0636	1	Cuisines: Italian
+0637	1	Cuisines: American, Italian
+0638	0	<NULL>
+0639	1	Cuisines: American, French, Italian, Mediterranean
+0640	1	Cuisines: Colombian, Latin, South American, Venezuelan
+0641	0	<NULL>
+0642	0	<NULL>
+0643	1	Cuisines: American, Hawaiian
+0644	1	Cuisines: Chinese
+0645	1	Cuisines: Chinese
+0646	1	Cuisines: Mexican
+0647	1	Cuisines: Pizza
+0648	0	<NULL>
+0649	1	Cuisines: Japanese
+0650	1	Cuisines: American
+0651	1	Cuisines: Italian
+0652	1	Cuisines: Bakery
+0653	0	<NULL>
+0654	1	Cuisines: Thai
+0655	1	Cuisines: American, Bakery, Café
+0656	0	<NULL>
+0657	1	Cuisines: Wine Bar
+0658	1	Cuisines: Pizza, Italian
+0659	1	Cuisines: Spanish
+0660	1	Cuisines: American
+0661	1	Cuisines: British, Irish
+0662	1	Cuisines: Seafood, Greek, Mediterranean
+0663	1	Cuisines: Ethiopian
+0664	1	Cuisines: Japanese, Sushi
+0665	1	Cuisines: Mexican
+0666	1	Cuisines: French
+0667	1	Cuisines: Steakhouse, Sushi, American, Barbecue, Contemporary, Seafood
+0668	1	Cuisines: American
+0669	1	Cuisines: American
+0670	1	Cuisines: Pizza
+0671	1	Cuisines: Family Fare, American, Coffee Shop, Delicatessen, Diner
+0672	1	Cuisines: Steakhouse, American, Barbecue, Seafood
+0673	1	Cuisines: Italian
+0674	1	Cuisines: American, Family Fare, Hamburgers
+0675	1	Cuisines: Seafood, American, Barbecue, Steakhouse
+0676	1	Cuisines: French
+0677	1	Cuisines: Mexican
+0678	1	Cuisines: American
+0679	1	Cuisines: Steakhouse, American
+0680	1	Cuisines: American, Vegetarian
+0681	1	Cuisines: Seafood, American, French
+0682	1	Cuisines: Southwestern, American
+0683	1	Cuisines: Greek, Mediterranean
+0684	1	Cuisines: Seafood, American, Contemporary, Eclectic, International
+0685	1	Cuisines: Japanese, Sushi
+0686	1	Cuisines: Sushi, Japanese, Korean, Asian
+0687	1	Cuisines: Italian
+0688	1	Cuisines: Dessert, Fast Food, American, Delicatessen, Diner
+0689	1	Cuisines: Seafood, American, Hamburgers, Steakhouse
+0690	1	Cuisines: Mexican
+0691	1	Cuisines: Coffee Shop, Dessert, American, Delicatessen
+0692	1	Cuisines: Chinese
+0693	1	Cuisines: Italian
+0694	1	Cuisines: Delicatessen, American, Family Fare
+0695	1	Cuisines: French
+0696	1	Cuisines: Seafood
+0697	1	Cuisines: American
+0698	1	Cuisines: Vietnamese
+0699	1	Cuisines: American
+0700	1	Cuisines: Family Fare, Barbecue, Fast Food, Italian, Pizza
+0701	1	Cuisines: Chinese, Vietnamese
+0702	1	Cuisines: Caribbean
+0703	1	Cuisines: American
+0704	1	Cuisines: Italian
+0705	0	<NULL>
+0706	1	Cuisines: Italian
+0707	1	Cuisines: French, American
+0708	1	Cuisines: American
+0709	1	Cuisines: American
+0710	1	Cuisines: Contemporary
+0711	0	<NULL>
+0712	1	Cuisines: American
+0713	1	Cuisines: Coffee Shop, Eclectic, Southwestern
+0714	1	Cuisines: Pizza, Bar, Pub, Sandwiches, Seafood, Wine Bar, Hot Dogs, American
+0715	0	<NULL>
+0716	1	Cuisines: Californian, American, Greek, Coffee Shop, Diner
+0717	1	Cuisines: Thai
+0718	1	Cuisines: Italian
+0719	0	<NULL>
+0720	1	Cuisines: Mexican, Pizza, Californian
+0721	1	Cuisines: Seafood, Steakhouse
+0722	1	Cuisines: American, Seafood
+0723	1	Cuisines: Mexican
+0724	1	Cuisines: Italian
+0725	1	Cuisines: Steakhouse
+0726	1	Cuisines: American
+0727	1	Cuisines: Japanese
+0728	1	Cuisines: Asian, Chinese
+0729	1	Cuisines: American, Vegetarian
+0730	1	Cuisines: American
+0731	1	Cuisines: Thai
+0732	1	Cuisines: Mediterranean
+0733	1	Cuisines: American
+0734	0	<NULL>
+0735	0	<NULL>
+0736	1	Cuisines: Vegan, Vegetarian
+0737	1	Cuisines: Bakery, French
+0738	1	Cuisines: Italian
+0739	1	Cuisines: Italian
+0740	1	Cuisines: American
+0741	1	Cuisines: American, Contemporary, European, French
+0742	1	Cuisines: Eclectic
+0743	1	Cuisines: Pizza, Italian, American, Barbecue, Seafood, Steakhouse
+0744	1	Cuisines: Italian
+0745	1	Cuisines: American
+0746	1	Cuisines: American, Diner
+0747	1	Cuisines: American
+0748	1	Cuisines: Vegetarian
+0749	1	Cuisines: Mediterranean, Tapas
+0750	1	Cuisines: American
+0751	1	Cuisines: American, Mexican, Southwestern
+0752	1	Cuisines: Hamburgers
+0753	1	Cuisines: Coffee Shop, Vegetarian
+0754	1	Cuisines: Seafood
+0755	1	Cuisines: American
+0756	1	Cuisines: Chinese, Asian, Family Fare
+0757	1	Cuisines: Italian
+0758	1	Cuisines: Steakhouse
+0759	1	Cuisines: American, Seafood
+0760	1	Cuisines: French
+0761	1	Cuisines: Bakery, Coffee Shop, Dessert, Diner
+0762	1	Cuisines: Pizza
+0763	1	Cuisines: Italian, Seafood
+0764	1	Cuisines: American
+0765	1	Cuisines: Lebanese, Mediterranean
+0766	1	Cuisines: French
+0767	1	Cuisines: Japanese
+0768	1	Cuisines: Asian
+0769	0	<NULL>
+0770	1	Cuisines: American, Seafood, Steakhouse
+0771	1	Cuisines: Sandwiches, Soups, Ice Cream, Delicatessen, Dessert
+0772	1	Cuisines: Turkish
+0773	1	Cuisines: Indian
+0774	1	Cuisines: French
+0775	1	Cuisines: Italian
+0776	1	Cuisines: American
+0777	1	Cuisines: Pizza, Italian
+0778	1	Cuisines: American
+0779	1	Cuisines: Family Fare
+0780	1	Cuisines: American
+0781	1	Cuisines: Mexican
+0782	1	Cuisines: French
+0783	1	Cuisines: Japanese
+0784	1	Cuisines: American
+0785	1	Cuisines: Chinese
+0786	0	<NULL>
+0787	1	Cuisines: Seafood, American
+0788	0	<NULL>
+0789	0	<NULL>
+0790	1	Cuisines: Japanese
+0791	1	Cuisines: Contemporary, Asian, Seafood, Pacific Rim
+0792	1	Cuisines: Dessert
+0793	1	Cuisines: Bakery, Fast Food, Delicatessen
+0794	1	Cuisines: Pizza
+0795	1	Cuisines: Italian
+0796	1	Cuisines: American
+0797	1	Cuisines: Seafood
+0798	1	Cuisines: Asian, Chinese
+0799	0	<NULL>
+0800	1	Cuisines: American, Mediterranean, Seafood
+0801	1	Cuisines: Coffee Shop
+0802	1	Cuisines: Mexican
+0803	0	<NULL>
+0804	1	Cuisines: Ethiopian
+0805	1	Cuisines: American
+0806	1	Cuisines: Italian
+0807	0	<NULL>
+0808	1	Cuisines: Italian
+0809	1	Cuisines: French
+0810	0	<NULL>
+0811	1	Cuisines: Japanese
+0812	0	<NULL>
+0813	1	Cuisines: Pizza
+0814	1	Cuisines: Mexican
+0815	1	Cuisines: Italian, Pizza
+0816	1	Cuisines: Chinese, Thai, Noodle Shop, Asian, Pacific Rim
+0817	1	Cuisines: Dessert, Bakery
+0818	1	Cuisines: American
+0819	1	Cuisines: Californian, Italian, Seafood, Steakhouse
+0820	1	Cuisines: Vegetarian, Indian
+0821	1	Cuisines: Italian
+0822	1	Cuisines: American, Mexican
+0823	1	Cuisines: Bakery, Delicatessen, Fast Food, Kosher
+0824	1	Cuisines: Mexican, Spanish
+0825	1	Cuisines: Steakhouse
+0826	1	Cuisines: American, Eclectic, Spanish, Tapas
+0827	0	<NULL>
+0828	1	Cuisines: American, Seafood
+0829	1	Cuisines: American, Central European, French, Spanish
+0830	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+0831	1	Cuisines: American, Californian, Central European, Contemporary, Dessert
+0832	1	Cuisines: American, Chinese, French, International, Italian, Japanese, Mediterranean, Seafood, Steakhouse
+0833	1	Cuisines: Cuban
+0834	1	Cuisines: Dessert, Ice Cream
+0835	1	Cuisines: Italian
+0836	1	Cuisines: International
+0837	1	Cuisines: American, Steakhouse, Delicatessen, Seafood, Hamburgers
+0838	1	Cuisines: Bakery
+0839	1	Cuisines: American, Delicatessen, Hamburgers, Steakhouse
+0840	1	Cuisines: Chinese, Japanese, Korean, Sushi, Asian, Thai
+0841	1	Cuisines: Italian
+0842	0	<NULL>
+0843	1	Cuisines: American, Delicatessen, Diner
+0844	1	Cuisines: American
+0845	1	Cuisines: Greek
+0846	1	Cuisines: American, Irish
+0847	1	Cuisines: Greek, Italian
+0848	0	<NULL>
+0849	1	Cuisines: American
+0850	1	Cuisines: Delicatessen
+0851	1	Cuisines: American, Southwestern
+0852	1	Cuisines: Greek, Pizza
+0853	1	Cuisines: Family Fare, American
+0854	1	Cuisines: Chinese
+0855	0	<NULL>
+0856	1	Cuisines: Italian, Pizza
+0857	1	Cuisines: Steakhouse, Italian
+0858	1	Cuisines: Californian, Pizza
+0859	1	Cuisines: Italian
+0860	0	<NULL>
+0861	1	Cuisines: Family Fare, American
+0862	1	Cuisines: Steakhouse, American, Seafood
+0863	1	Cuisines: Italian
+0864	1	Cuisines: American
+0865	1	Cuisines: Seafood, Steakhouse
+0866	1	Cuisines: Turkish, Mediterranean
+0867	1	Cuisines: American
+0868	0	<NULL>
+0869	1	Cuisines: American, Fast Food
+0870	1	Cuisines: Mexican
+0871	1	Cuisines: Indian
+0872	1	Cuisines: Vietnamese
+0873	1	Cuisines: French, American, Eclectic, International
+0874	0	<NULL>
+0875	1	Cuisines: Pizza
+0876	1	Cuisines: Mexican
+0877	1	Cuisines: American, Hamburgers, Soups
+0878	1	Cuisines: American, Bar, Delicatessen, Hamburgers, Pub, Sandwiches
+0879	0	<NULL>
+0880	1	Cuisines: Delicatessen, Middle Eastern, Mediterranean, Lebanese, Greek, Grill
+0881	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+0882	1	Cuisines: American, Mexican, Southwestern, Vegetarian
+0883	0	<NULL>
+0884	1	Cuisines: Pizza & Pasta, Vegan, Vegetarian, Sandwiches, Pizza
+0885	1	Cuisines: Coffee Shop, American, Pizza, Vegetarian
+0886	1	Cuisines: Thai
+0887	1	Cuisines: Chinese, Asian
+0888	1	Cuisines: Dessert, Coffee Shop
+0889	1	Cuisines: American
+0890	1	Cuisines: Delicatessen
+0891	1	Cuisines: Mexican
+0892	1	Cuisines: American, Greek
+0893	1	Cuisines: Italian
+0894	1	Cuisines: Thai
+0895	1	Cuisines: Italian
+0896	1	Cuisines: Sandwiches
+0897	1	Cuisines: Mexican
+0898	1	Cuisines: Pizza, Wine Bar
+0899	1	Cuisines: Chinese
+0900	1	Cuisines: Venezuelan
+0901	0	<NULL>
+0902	1	Cuisines: Vietnamese
+0903	1	Cuisines: Californian, Pizza
+0904	0	<NULL>
+0905	0	<NULL>
+0906	1	Cuisines: Seafood, Pizza, Italian, Vegetarian
+0907	1	Cuisines: Pizza, American, Italian
+0908	1	Cuisines: Chinese, Seafood
+0909	1	Cuisines: Mexican
+0910	1	Cuisines: Tapas, Spanish
+0911	1	Cuisines: Barbecue
+0912	1	Cuisines: Barbecue
+0913	0	<NULL>
+0914	1	Cuisines: American, Sandwiches
+0915	1	Cuisines: American
+0916	1	Cuisines: Contemporary
+0917	1	Cuisines: Delicatessen
+0918	1	Cuisines: Chinese
+0919	0	<NULL>
+0920	1	Cuisines: French
+0921	1	Cuisines: Cajun & Creole
+0922	1	Cuisines: French, American
+0923	1	Cuisines: Mexican
+0924	1	Cuisines: Pizza
+0925	0	<NULL>
+0926	1	Cuisines: Sushi, Japanese
+0927	0	<NULL>
+0928	1	Cuisines: Dessert
+0929	1	Cuisines: Contemporary, French
+0930	1	Cuisines: Seafood, Italian, Mediterranean
+0931	1	Cuisines: Barbecue
+0932	1	Cuisines: Pizza, Italian
+0933	1	Cuisines: Mexican
+0934	0	<NULL>
+0935	1	Cuisines: Vietnamese
+0936	1	Cuisines: Italian
+0937	1	Cuisines: Mexican
+0938	1	Cuisines: French
+0939	1	Cuisines: Mexican
+0940	1	Cuisines: American
+0941	1	Cuisines: American, Cajun & Creole
+0942	1	Cuisines: Barbecue
+0943	1	Cuisines: American
+0944	1	Cuisines: Californian, Pizza
+0945	1	Cuisines: Indian, Vegetarian
+0946	1	Cuisines: American, Eclectic, Mexican, Vegetarian
+0947	1	Cuisines: Mexican
+0948	1	Cuisines: Pizza
+0949	1	Cuisines: Pizza
+0950	1	Cuisines: Pizza
+0951	1	Cuisines: American
+0952	1	Cuisines: Pizza
+0953	1	Cuisines: Mexican
+0954	1	Cuisines: Mexican
+0955	1	Cuisines: American, Asian, Mediterranean
+0956	1	Cuisines: French
+0957	1	Cuisines: Contemporary, Eclectic
+0958	1	Cuisines: Greek
+0959	1	Cuisines: Hamburgers
+0960	1	Cuisines: Barbecue, American
+0961	1	Cuisines: French, Bakery
+0962	1	Cuisines: Italian
+0963	1	Cuisines: Vegetarian, Thai
+0964	1	Cuisines: Mexican
+0965	1	Cuisines: Steakhouse
+0966	1	Cuisines: Cajun & Creole, American
+0967	1	Cuisines: Steakhouse, American, Vegetarian
+0968	1	Cuisines: Mexican
+0969	1	Cuisines: American, Mediterranean
+0970	1	Cuisines: Indian
+0971	1	Cuisines: Asian
+0972	1	Cuisines: Mexican
+0973	1	Cuisines: Korean, Japanese
+0974	1	Cuisines: American
+0975	1	Cuisines: American
+0976	1	Cuisines: Mexican
+0977	1	Cuisines: Coffee Shop, Diner
+0978	1	Cuisines: American, Hamburgers, Mexican
+0979	1	Cuisines: Italian
+0980	1	Cuisines: Fast Food, Delicatessen, Bagels
+0981	1	Cuisines: Mexican
+0982	1	Cuisines: Vietnamese
+0983	1	Cuisines: Italian
+0984	1	Cuisines: Seafood, American, Contemporary
+0985	1	Cuisines: Dessert
+0986	1	Cuisines: American, Steakhouse
+0987	1	Cuisines: Italian
+0988	1	Cuisines: Mexican
+0989	1	Cuisines: Italian
+0990	1	Cuisines: Mexican
+0991	1	Cuisines: American
+0992	1	Cuisines: American, Hamburgers, Healthy, Hot Dogs
+0993	1	Cuisines: American
+0994	1	Cuisines: Pizza, American, Italian
+0995	1	Cuisines: Dessert, Fast Food
+0996	1	Cuisines: American, Continental, Seafood, Steakhouse
+0997	1	Cuisines: Asian
+0998	1	Cuisines: Steakhouse
+0999	1	Cuisines: Delicatessen, Italian
+1000	1	Cuisines: American
+1001	1	Cuisines: Italian
+1002	1	Cuisines: Italian
+1003	1	Cuisines: Steakhouse, Brazilian, South American
+1004	1	Cuisines: American, Asian, Eclectic, Seafood
+1005	1	Cuisines: American, Californian
+1006	1	Cuisines: American, Barbecue, Steakhouse
+1007	1	Cuisines: American, Cajun & Creole, Southwestern
+1008	1	Cuisines: Continental, Italian
+1009	1	Cuisines: French
+1010	1	Cuisines: Asian, Sushi, Thai
+1011	1	Cuisines: Southwestern, American, Contemporary, Mexican, South American
+1012	1	Cuisines: Steakhouse
+1013	1	Cuisines: American
+1014	1	Cuisines: French, Seafood, Hawaiian
+1015	1	Cuisines: American, French
+1016	1	Cuisines: American
+1017	1	Cuisines: Italian
+1018	1	Cuisines: Sushi
+1019	1	Cuisines: Italian
+1020	1	Cuisines: Bakery, Delicatessen
+1021	1	Cuisines: Indian
+1022	1	Cuisines: American
+1023	1	Cuisines: Pizza
+1024	1	Cuisines: American, Seafood, Steakhouse
+1025	1	Cuisines: American, Contemporary, International, Italian, Mediterranean
+1026	1	Cuisines: Mexican, Vegetarian
+1027	1	Cuisines: Mexican
+1028	1	Cuisines: Barbecue
+1029	1	Cuisines: Japanese
+1030	1	Cuisines: Fast Food
+1031	1	Cuisines: Asian, Pacific Rim, Sushi
+1032	1	Cuisines: Steakhouse
+1033	1	Cuisines: Steakhouse
+1034	1	Cuisines: Italian
+1035	1	Cuisines: Fast Food, Ice Cream
+1036	1	Cuisines: Chinese
+1037	1	Cuisines: American, Southwestern, Steakhouse, Contemporary
+1038	1	Cuisines: American, Seafood, Steakhouse, Barbecue
+1039	1	Cuisines: French
+1040	1	Cuisines: Delicatessen, Dessert, Hot Dogs, Sandwiches, Family Fare, Coffee Shop, American
+1041	1	Cuisines: Hamburgers
+1042	1	Cuisines: Japanese
+1043	1	Cuisines: Mexican
+1044	1	Cuisines: Italian, Pizza
+1045	1	Cuisines: Japanese, Sushi
+1046	1	Cuisines: Japanese, Seafood
+1047	1	Cuisines: Delicatessen, American, Seafood
+1048	1	Cuisines: Delicatessen
+1049	1	Cuisines: Barbecue
+1050	1	Cuisines: Seafood, American
+1051	1	Cuisines: Italian
+1052	1	Cuisines: Japanese
+1053	1	Cuisines: Fast Food
+1054	1	Cuisines: Chinese
+1055	1	Cuisines: Asian
+1056	1	Cuisines: Chinese, Japanese
+1057	1	Cuisines: Seafood
+1058	1	Cuisines: Mexican
+1059	1	Cuisines: Chinese
+1060	1	Cuisines: Barbecue
+1061	1	Cuisines: Barbecue
+1062	1	Cuisines: Puerto Rican, Salvadoran
+1063	1	Cuisines: Continental
+1064	1	Cuisines: Delicatessen
+1065	1	Cuisines: American
+1066	1	Cuisines: Pizza
+1067	1	Cuisines: American, Barbecue, Mexican, Southwestern
+1068	1	Cuisines: Greek
+1069	1	Cuisines: Italian
+1070	1	Cuisines: Indian
+1071	1	Cuisines: Italian
+1072	1	Cuisines: British, Irish
+1073	1	Cuisines: Italian
+1074	1	Cuisines: American, Steakhouse
+1075	1	Cuisines: American, Fast Food
+1076	1	Cuisines: Steakhouse, American, Bar
+1077	1	Cuisines: American, Middle Eastern
+1078	1	Cuisines: Dessert, American, Contemporary, Eclectic, International
+1079	1	Cuisines: Japanese, Sushi
+1080	1	Cuisines: Sushi, Japanese
+1081	1	Cuisines: French
+1082	1	Cuisines: Spanish
+1083	1	Cuisines: Mexican
+1084	1	Cuisines: Delicatessen
+1085	1	Cuisines: French
+1086	1	Cuisines: Japanese
+1087	1	Cuisines: American
+1088	1	Cuisines: Pizza
+1089	1	Cuisines: Delicatessen
+1090	1	Cuisines: Pizza
+1091	1	Cuisines: Japanese
+1092	1	Cuisines: Hot Dogs
+1093	1	Cuisines: Italian, American
+1094	1	Cuisines: Cajun & Creole
+1095	1	Cuisines: German
+1096	1	Cuisines: Seafood, Steakhouse
+1097	1	Cuisines: Italian
+1098	1	Cuisines: American, Seafood
+1099	1	Cuisines: Italian, Pizza
+1100	1	Cuisines: Vietnamese
+1101	1	Cuisines: Delicatessen, Italian
+1102	1	Cuisines: American, Healthy
+1103	1	Cuisines: Delicatessen
+1104	1	Cuisines: Healthy, Organic
+1105	1	Cuisines: Cajun & Creole
+1106	1	Cuisines: Delicatessen
+1107	1	Cuisines: American, Bar
+1108	1	Cuisines: American
+1109	1	Cuisines: Delicatessen
+1110	1	Cuisines: Chinese
+1111	1	Cuisines: Asian fusion
+1112	1	Cuisines: Pizza
+1113	1	Cuisines: Barbecue
+1114	1	Cuisines: American, Coffee Shop, Delicatessen, Diner, Steakhouse
+1115	1	Cuisines: American, Italian
+1116	1	Cuisines: Pizza
+1117	1	Cuisines: Asian, Korean
+1118	1	Cuisines: Coffee Shop
+1119	1	Cuisines: American, Hamburgers, Coffee Shop, Diner
+1120	1	Cuisines: Pizza
+1121	1	Cuisines: Pizza
+1122	1	Cuisines: Indian
+1123	1	Cuisines: Seafood
+1124	1	Cuisines: Delicatessen
+1125	1	Cuisines: Thai
+1126	1	Cuisines: Coffee Shop
+1127	1	Cuisines: Thai, Vietnamese
+1128	1	Cuisines: Barbecue, American
+1129	1	Cuisines: Japanese
+1130	1	Cuisines: Mexican
+1131	1	Cuisines: Chinese
+1132	1	Cuisines: Fast Food
+1133	1	Cuisines: Barbecue
+1134	1	Cuisines: Seafood
+1135	1	Cuisines: Coffee Shop
+1136	1	Cuisines: American
+1137	1	Cuisines: Barbecue
+1138	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+1139	1	Cuisines: American, Family Fare, Vegetarian
+1140	1	Cuisines: Italian
+1141	1	Cuisines: Italian
+1142	1	Cuisines: Dessert, American
+1143	1	Cuisines: American, Seafood
+1144	1	Cuisines: French, Mediterranean
+1145	1	Cuisines: Basque
+1146	1	Cuisines: Mexican
+1147	1	Cuisines: Thai
+1148	1	Cuisines: Chinese, Asian, Family Fare
+1149	1	Cuisines: Healthy
+1150	1	Cuisines: Seafood
+1151	1	Cuisines: American, Eastern European
+1152	1	Cuisines: Japanese
+1153	1	Cuisines: Bistro
+1154	1	Cuisines: Asian
+1155	1	Cuisines: Cuban
+1156	1	Cuisines: Seafood
+1157	1	Cuisines: American, Ice Cream, Italian
+1158	1	Cuisines: Chinese
+1159	1	Cuisines: Pizza
+1160	1	Cuisines: Delicatessen
+1161	1	Cuisines: American, Caribbean, Continental
+1162	1	Cuisines: American, Steakhouse
+1163	1	Cuisines: Italian
+1164	1	Cuisines: Italian
+1165	1	Cuisines: American, Dessert, Family Fare
+1166	1	Cuisines: American
+1167	1	Cuisines: Pizza
+1168	1	Cuisines: Pizza, Italian
+1169	1	Cuisines: Mexican
+1170	1	Cuisines: American
+1171	1	Cuisines: Barbecue
+1172	1	Cuisines: Coffee Shop, Delicatessen, Vegetarian
+1173	1	Cuisines: American, Bar
+1174	1	Cuisines: American, Seafood, Steakhouse
+1175	1	Cuisines: Mexican
+1176	1	Cuisines: Chinese
+1177	1	Cuisines: Pizza
+1178	1	Cuisines: Thai
+1179	1	Cuisines: Italian
+1180	1	Cuisines: Mexican
+1181	1	Cuisines: Pizza
+1182	1	Cuisines: American
+1183	1	Cuisines: Barbecue
+1184	1	Cuisines: Bagels, Bakery, Bistro, Café, Sandwiches
+1185	1	Cuisines: American, Barbecue, Cajun & Creole, Fast Food
+1186	1	Cuisines: Fast Food
+1187	1	Cuisines: Pizza
+1188	1	Cuisines: American
+1189	1	Cuisines: American
+1190	1	Cuisines: Pizza
+1191	1	Cuisines: American, Delicatessen, Diner
+1192	1	Cuisines: Bistro
+1193	1	Cuisines: Cajun & Creole, American, Fast Food
+1194	1	Cuisines: American
+1195	1	Cuisines: Mexican
+1196	1	Cuisines: Mexican
+1197	1	Cuisines: Delicatessen, Bakery
+1198	1	Cuisines: Pizza
+1199	1	Cuisines: Coffee Shop, Pizza, Italian
+1200	1	Cuisines: Korean
+1201	1	Cuisines: Japanese, Sushi, Asian
+1202	1	Cuisines: Japanese
+1203	1	Cuisines: Dim Sum, Chinese
+1204	1	Cuisines: Italian, Pizza
+1205	1	Cuisines: Pizza, Greek, Italian, Mediterranean
+1206	1	Cuisines: American
+1207	1	Cuisines: Chinese
+1208	1	Cuisines: Mexican
+1209	1	Cuisines: Chinese
+1210	1	Cuisines: Indian
+1211	1	Cuisines: Mexican
+1212	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+1213	1	Cuisines: Seafood, Vietnamese, Asian
+1214	1	Cuisines: Mexican
+1215	1	Cuisines: Italian, Pizza
+1216	1	Cuisines: American
+1217	1	Cuisines: Dessert, Ice Cream
+1218	1	Cuisines: Italian, Pizza
+1219	1	Cuisines: Greek
+1220	1	Cuisines: Middle Eastern
+1221	1	Cuisines: American, Bakery, Bistro, Café, Coffee Shop, Contemporary, Creperie, Healthy, Vegetarian
+1222	1	Cuisines: American, Asian, Barbecue
+1223	1	Cuisines: Pizza
+1224	1	Cuisines: Mexican
+1225	1	Cuisines: Indian, Vegetarian
+1226	1	Cuisines: Asian
+1227	1	Cuisines: American, Californian, Irish
+1228	1	Cuisines: Italian
+1229	1	Cuisines: Italian
+1230	1	Cuisines: Korean
+1231	1	Cuisines: American
+1232	1	Cuisines: Asian
+1233	1	Cuisines: International
+1234	1	Cuisines: Italian
+1235	1	Cuisines: French, International
+1236	1	Cuisines: Japanese, Sushi
+1237	1	Cuisines: Pizza
+1238	1	Cuisines: American
+1239	1	Cuisines: Middle Eastern
+1240	1	Cuisines: Seafood
+1241	1	Cuisines: Coffee Shop, Diner, Eclectic
+1242	1	Cuisines: South American
+1243	1	Cuisines: Seafood
+1244	1	Cuisines: American
+1245	1	Cuisines: American
+1246	1	Cuisines: American
+1247	1	Cuisines: Barbecue
+1248	1	Cuisines: American
+1249	1	Cuisines: Bar, Hamburgers, Chicken Wings, Sandwiches
+1250	1	Cuisines: American
+1251	1	Cuisines: Pizza
+1252	1	Cuisines: Italian
+1253	1	Cuisines: Chinese
+1254	1	Cuisines: Chinese
+1255	1	Cuisines: Mexican
+1256	1	Cuisines: Delicatessen
+1257	1	Cuisines: Southwestern
+1258	1	Cuisines: Japanese, Sushi
+1259	1	Cuisines: Continental, French
+1260	1	Cuisines: Pizza
+1261	1	Cuisines: Sandwiches, Soups
+1262	1	Cuisines: Mexican
+1263	1	Cuisines: American
+1264	1	Cuisines: American
+1265	1	Cuisines: Barbecue
+1266	1	Cuisines: Barbecue
+1267	1	Cuisines: Dessert, Ice Cream, Italian
+1268	1	Cuisines: Fast Food
+1269	1	Cuisines: Barbecue
+1270	1	Cuisines: Chinese
+1271	1	Cuisines: Noodle Shop, Asian
+1272	1	Cuisines: Indian
+1273	1	Cuisines: American, Bar
+1274	1	Cuisines: Steakhouse
+1275	1	Cuisines: Italian, Pizza
+1276	1	Cuisines: Mexican, Southwestern
+1277	1	Cuisines: Steakhouse, American
+1278	1	Cuisines: American, Southwestern
+1279	1	Cuisines: Mexican
+1280	1	Cuisines: Italian
+1281	1	Cuisines: American, Family Fare, Fast Food, Hamburgers
+1282	1	Cuisines: Italian, Tapas, Mediterranean, French
+1283	1	Cuisines: Creperie
+1284	1	Cuisines: Italian
+1285	1	Cuisines: American, Steakhouse
+1286	1	Cuisines: Thai
+1287	1	Cuisines: Coffee Shop
+1288	1	Cuisines: Italian, Pizza, Seafood
+1289	1	Cuisines: British, Tea Room
+1290	1	Cuisines: Seafood
+1291	1	Cuisines: Delicatessen, Sandwiches
+1292	1	Cuisines: Japanese
+1293	1	Cuisines: American, Seafood, Bar
+1294	1	Cuisines: American
+1295	1	Cuisines: Barbecue
+1296	1	Cuisines: American
+1297	1	Cuisines: Korean
+1298	1	Cuisines: Asian
+1299	1	Cuisines: Italian, Pizza
+1300	1	Cuisines: Indian
+1301	1	Cuisines: Mexican
+1302	1	Cuisines: Pizza
+1303	1	Cuisines: American
+1304	1	Cuisines: American
+1305	1	Cuisines: Californian, Mediterranean, Seafood
+1306	1	Cuisines: Indian
+1307	1	Cuisines: Mexican
+1308	1	Cuisines: Asian, Indian
+1309	1	Cuisines: Coffee Shop
+1310	1	Cuisines: Fast Food, Ice Cream
+1311	1	Cuisines: Fast Food, Vegetarian, Chinese
+1312	1	Cuisines: Pizza
+1313	1	Cuisines: American
+1314	1	Cuisines: Pizza
+1315	1	Cuisines: Italian
+1316	1	Cuisines: Delicatessen
+1317	1	Cuisines: American
+1318	1	Cuisines: American
+1319	1	Cuisines: Chinese, Vietnamese
+1320	1	Cuisines: Delicatessen
+1321	1	Cuisines: Pizza, Italian
+1322	1	Cuisines: Thai, Pacific Rim
+1323	1	Cuisines: Chinese
+1324	1	Cuisines: Asian, Vietnamese, Chinese
+1325	1	Cuisines: American, Steakhouse
+1326	1	Cuisines: Seafood, Cajun & Creole, African
+1327	1	Cuisines: Mexican, American
+1328	1	Cuisines: Coffee Shop
+1329	1	Cuisines: Mexican
+1330	1	Cuisines: Delicatessen
+1331	1	Cuisines: Chinese
+1332	1	Cuisines: Contemporary, Continental, European, International, Spanish, Tapas
+1333	1	Cuisines: Cajun & Creole
+1334	1	Cuisines: Italian
+1335	1	Cuisines: Brazilian
+1336	1	Cuisines: Seafood, Steakhouse
+1337	1	Cuisines: American, Cajun & Creole
+1338	1	Cuisines: Italian
+1339	1	Cuisines: American, Barbecue, Seafood, Steakhouse
+1340	1	Cuisines: American
+1341	1	Cuisines: American, Bakery, Contemporary
+1342	1	Cuisines: Mexican, Californian
+1343	1	Cuisines: Italian
+1344	1	Cuisines: Southwestern, American, Barbecue, Contemporary, Seafood, Steakhouse
+1345	1	Cuisines: Dessert, Eclectic, International
+1346	1	Cuisines: American, Bar, Contemporary, Tapas
+1347	1	Cuisines: American
+1348	1	Cuisines: French
+1349	1	Cuisines: Middle Eastern
+1350	1	Cuisines: Chinese, Seafood
+1351	1	Cuisines: Italian
+1352	1	Cuisines: Spanish, Tapas
+1353	1	Cuisines: Pizza, Italian
+1354	1	Cuisines: Steakhouse, American
+1355	1	Cuisines: Hamburgers, American
+1356	1	Cuisines: Vegetarian, Vegan
+1357	1	Cuisines: Pizza & Pasta
+1358	1	Cuisines: Seafood, American
+1359	1	Cuisines: Tapas, Spanish
+1360	1	Cuisines: American, Contemporary, Eclectic, French, International
+1361	1	Cuisines: Steakhouse, American
+1362	1	Cuisines: American
+1363	1	Cuisines: Pizza
+1364	1	Cuisines: Italian
+1365	1	Cuisines: American
+1366	1	Cuisines: Indian
+1367	1	Cuisines: Pizza, Italian
+1368	1	Cuisines: American, Californian, Contemporary
+1369	1	Cuisines: Japanese, Sushi
+1370	1	Cuisines: French
+1371	1	Cuisines: Asian, Pacific Rim, Seafood, Vietnamese
+1372	1	Cuisines: Sushi, Japanese
+1373	1	Cuisines: Sushi, Japanese, Seafood
+1374	1	Cuisines: Californian, French
+1375	1	Cuisines: Asian, Chinese
+1376	1	Cuisines: Bistro, Grill, Steakhouse
+1377	1	Cuisines: Italian
+1378	1	Cuisines: Steakhouse
+1379	1	Cuisines: Mexican
+1380	1	Cuisines: American
+1381	1	Cuisines: Seafood, American, Caribbean
+1382	1	Cuisines: Italian, Eclectic, International
+1383	1	Cuisines: Indian
+1384	1	Cuisines: Mexican, Spanish, Tapas
+1385	1	Cuisines: Steakhouse, American, Barbecue, Seafood
+1386	1	Cuisines: American, Contemporary, Fusion, Seafood
+1387	1	Cuisines: Barbecue, American, Delicatessen
+1388	1	Cuisines: American, Seafood
+1389	1	Cuisines: Eclectic
+1390	1	Cuisines: Hamburgers
+1391	1	Cuisines: Italian, Pizza
+1392	1	Cuisines: Barbecue
+1393	1	Cuisines: Bakery, Dessert
+1394	1	Cuisines: American, Hamburgers
+1395	1	Cuisines: Indian
+1396	1	Cuisines: Asian, Chinese, Contemporary, Japanese, Korean, Sushi, Thai, Vegetarian, Vietnamese
+1397	1	Cuisines: American, Contemporary
+1398	1	Cuisines: Thai, Asian
+1399	1	Cuisines: Italian
+1400	1	Cuisines: Italian
+1401	1	Cuisines: American
+1402	1	Cuisines: American
+1403	1	Cuisines: French, Seafood
+1404	1	Cuisines: American, European
+1405	1	Cuisines: American, Eclectic, International, Pacific Rim
+1406	1	Cuisines: American
+1407	1	Cuisines: Family Fare, Halal, Indian, Pakistani, Vegan
+1408	1	Cuisines: American
+1409	1	Cuisines: Vietnamese, Chinese, Asian
+1410	1	Cuisines: Polynesian, American, Pacific Rim
+1411	1	Cuisines: Fast Food, Hamburgers
+1412	1	Cuisines: Pizza
+1413	1	Cuisines: Asian, Chinese, Dessert, French, Pacific Rim, Vietnamese
+1414	1	Cuisines: Family Fare, American, Fast Food
+1415	1	Cuisines: Steakhouse
+1416	1	Cuisines: Italian, Pizza
+1417	1	Cuisines: Lebanese, Mediterranean, Middle Eastern
+1418	1	Cuisines: Italian
+1419	1	Cuisines: American
+1420	1	Cuisines: French
+1421	1	Cuisines: Indian
+1422	1	Cuisines: American, Contemporary, Seafood
+1423	1	Cuisines: American, Coffee Shop, Diner
+1424	1	Cuisines: Italian
+1425	1	Cuisines: Guatemalan, Latin
+1426	1	Cuisines: American, Belgian, French
+1427	1	Cuisines: American, Australian
+1428	1	Cuisines: Italian
+1429	1	Cuisines: Asian, French, Japanese, Seafood, Sushi
+1430	1	Cuisines: Lebanese, Delicatessen, Middle Eastern, Greek, Vegetarian
+1431	1	Cuisines: Coffee Shop
+1432	1	Cuisines: American, Californian
+1433	1	Cuisines: Italian
+1434	1	Cuisines: American, Asian fusion
+1435	1	Cuisines: Steakhouse
+1436	1	Cuisines: Steakhouse, American, Barbecue
+1437	1	Cuisines: American, Contemporary, Eclectic, International, Japanese, Sushi
+1438	1	Cuisines: Mediterranean
+1439	1	Cuisines: American, Bakery
+1440	1	Cuisines: Brazilian
+1441	1	Cuisines: Japanese, American, Steakhouse
+1442	1	Cuisines: Italian
+1443	1	Cuisines: French, Continental, Steakhouse
+1444	1	Cuisines: Steakhouse
+1445	1	Cuisines: Japanese, Sushi
+1446	1	Cuisines: Seafood, Steakhouse
+1447	1	Cuisines: French
+1448	1	Cuisines: Chinese
+1449	1	Cuisines: Contemporary, Seafood
+1450	1	Cuisines: Contemporary, French, Seafood
+1451	1	Cuisines: Delicatessen, Bakery, Lebanese
+1452	1	Cuisines: Mexican
+1453	1	Cuisines: American, Californian, Delicatessen, Diner
+1454	1	Cuisines: Steakhouse
+1455	1	Cuisines: Dessert, American
+1456	1	Cuisines: Mexican
+1457	1	Cuisines: American, Contemporary
+1458	1	Cuisines: American, Delicatessen, Diner
+1459	1	Cuisines: Japanese, Sushi
+1460	1	Cuisines: Fondue
+1461	1	Cuisines: Thai
+1462	1	Cuisines: American, Coffee Shop, Diner
+1463	1	Cuisines: American, Barbecue
+1464	1	Cuisines: Cajun & Creole, Seafood
+1465	1	Cuisines: Italian, Pizza
+1466	1	Cuisines: Dutch
+1467	1	Cuisines: American, Hamburgers
+1468	1	Cuisines: Coffee Shop
+1469	1	Cuisines: English, American
+1470	1	Cuisines: Bistro
+1471	1	Cuisines: Italian
+1472	1	Cuisines: Californian, Barbecue, American, Steakhouse
+1473	1	Cuisines: Mexican
+1474	1	Cuisines: Italian, Pizza
+1475	1	Cuisines: American, Barbecue
+1476	1	Cuisines: Vegetarian, Healthy, Vegan, Mexican
+1477	1	Cuisines: Bistro
+1478	1	Cuisines: Italian
+1479	1	Cuisines: Italian, Mediterranean
+1480	1	Cuisines: Italian
+1481	1	Cuisines: Cajun & Creole, Caribbean, Hamburgers, Hawaiian, Mediterranean
+1482	1	Cuisines: Southwestern, Mexican
+1483	1	Cuisines: Hamburgers, Coffee Shop, Diner
+1484	1	Cuisines: Southwestern, Eclectic
+1485	1	Cuisines: American
+1486	1	Cuisines: Healthy, Mexican, Vegetarian
+1487	1	Cuisines: Barbecue, Hamburgers
+1488	1	Cuisines: Cajun & Creole
+1489	1	Cuisines: French
+1490	1	Cuisines: Italian, Pizza
+1491	1	Cuisines: Delicatessen, Kosher
+1492	1	Cuisines: Italian
+1493	1	Cuisines: Seafood
+1494	1	Cuisines: American
+1495	1	Cuisines: Pizza
+1496	1	Cuisines: Dessert, Family Fare, American
+1497	1	Cuisines: American, Bar, Contemporary
+1498	1	Cuisines: Ice Cream
+1499	1	Cuisines: Sushi, Japanese
+1500	1	Cuisines: Cajun & Creole
+1501	1	Cuisines: Pizza
+1502	1	Cuisines: Steakhouse
+1503	1	Cuisines: Japanese, Steakhouse
+1504	1	Cuisines: Asian
+1505	1	Cuisines: American, Seafood, Steakhouse
+1506	1	Cuisines: American
+1507	1	Cuisines: Asian, Chinese
+1508	1	Cuisines: Japanese, Seafood, Sushi
+1509	1	Cuisines: Pizza
+1510	1	Cuisines: American
+1511	1	Cuisines: Italian
+1512	1	Cuisines: Coffee Shop
+1513	1	Cuisines: Bistro, Café, Central European, French
+1514	1	Cuisines: German, Italian
+1515	1	Cuisines: Mexican
+1516	1	Cuisines: Pizza, Bar, Pizza & Pasta
+1517	1	Cuisines: Steakhouse
+1518	1	Cuisines: American
+1519	1	Cuisines: Japanese
+1520	1	Cuisines: Italian
+1521	1	Cuisines: Irish
+1522	1	Cuisines: American, Brew Pub
+1523	1	Cuisines: Japanese, Sushi
+1524	1	Cuisines: Irish
+1525	1	Cuisines: Mexican
+1526	1	Cuisines: Indian
+1527	1	Cuisines: Indian, Vegetarian
+1528	1	Cuisines: Asian, Bistro, Chinese
+1529	1	Cuisines: German, American, Seafood
+1530	1	Cuisines: American
+1531	1	Cuisines: American, Scottish, Bar
+1532	1	Cuisines: American
+1533	1	Cuisines: Pizza
+1534	1	Cuisines: American, Barbecue
+1535	1	Cuisines: Mexican
+1536	1	Cuisines: Latin
+1537	1	Cuisines: Greek
+1538	1	Cuisines: Mediterranean
+1539	1	Cuisines: Chinese
+1540	1	Cuisines: American, Fondue
+1541	1	Cuisines: Indian
+1542	1	Cuisines: Greek, Italian
+1543	1	Cuisines: Italian, Bar, Pasta, Vegetarian
+1544	1	Cuisines: Italian
+1545	1	Cuisines: American, Bakery
+1546	1	Cuisines: Thai
+1547	1	Cuisines: Sushi, Asian
+1548	1	Cuisines: Barbecue
+1549	1	Cuisines: American, Hamburgers
+1550	1	Cuisines: Thai
+1551	1	Cuisines: Pizza
+1552	1	Cuisines: Mexican
+1553	1	Cuisines: American
+1554	1	Cuisines: Mexican
+1555	1	Cuisines: American
+1556	1	Cuisines: Soups, Dessert, Seafood, Austrian, Vegetarian
+1557	1	Cuisines: Mexican
+1558	1	Cuisines: Pizza
+1559	1	Cuisines: Thai
+1560	1	Cuisines: Sushi, Japanese
+1561	1	Cuisines: Mexican
+1562	1	Cuisines: Mexican
+1563	1	Cuisines: American, Mexican
+1564	1	Cuisines: American, Diner
+1565	1	Cuisines: American, French
+1566	1	Cuisines: American, Steakhouse
+1567	1	Cuisines: French
+1568	1	Cuisines: Italian
+1569	1	Cuisines: Italian
+1570	1	Cuisines: Italian
+1571	1	Cuisines: Pizza, Italian
+1572	1	Cuisines: Seafood, Mexican, American, Steakhouse
+1573	1	Cuisines: Chinese
+1574	1	Cuisines: Italian, Pizza
+1575	1	Cuisines: Pizza, Steakhouse, Italian
+1576	1	Cuisines: Greek
+1577	1	Cuisines: Tapas, Spanish
+1578	1	Cuisines: Tapas
+1579	1	Cuisines: American
+1580	1	Cuisines: Chinese, Seafood
+1581	1	Cuisines: French
+1582	1	Cuisines: Italian
+1583	1	Cuisines: Steakhouse
+1584	1	Cuisines: Eclectic, International
+1585	1	Cuisines: Californian, American, Barbecue, Steakhouse
+1586	1	Cuisines: Steakhouse, Seafood, Barbecue, Brazilian
+1587	1	Cuisines: American, Seafood
+1588	1	Cuisines: Californian, Seafood, American
+1589	1	Cuisines: Chinese
+1590	1	Cuisines: Barbecue, American
+1591	1	Cuisines: Japanese, Sushi
+1592	1	Cuisines: American, Steakhouse
+1593	1	Cuisines: American
+1594	1	Cuisines: Cajun & Creole
+1595	1	Cuisines: Pizza
+1596	1	Cuisines: Coffee Shop, Diner
+1597	1	Cuisines: American, Hamburgers
+1598	1	Cuisines: Bakery
+1599	1	Cuisines: Italian, Delicatessen, Bakery
+1600	1	Cuisines: Steakhouse, Italian, Pizza, Hamburgers, Seafood
+1601	1	Cuisines: Vegetarian, American, Delicatessen, Eclectic, International, Steakhouse
+1602	1	Cuisines: Dessert
+1603	1	Cuisines: Sushi, Asian, Thai, Vietnamese, Pacific Rim
+1604	1	Cuisines: Japanese
+1605	1	Cuisines: Mexican, American
+1606	1	Cuisines: American
+1607	1	Cuisines: Ice Cream, American
+1608	1	Cuisines: Italian
+1609	1	Cuisines: Irish, Pub
+1610	1	Cuisines: Vegetarian, Chinese
+1611	1	Cuisines: American
+1612	1	Cuisines: Greek, American, Seafood
+1613	1	Cuisines: Bakery, French
+1614	1	Cuisines: Pizza, Delicatessen, Italian
+1615	1	Cuisines: Japanese, Steakhouse, Sushi
+1616	1	Cuisines: Delicatessen
+1617	1	Cuisines: Steakhouse
+1618	1	Cuisines: American
+1619	1	Cuisines: Pizza, American
+1620	1	Cuisines: Italian
+1621	1	Cuisines: Diner
+1622	1	Cuisines: Seafood
+1623	1	Cuisines: American
+1624	1	Cuisines: Bagels
+1625	1	Cuisines: Italian
+1626	1	Cuisines: American
+1627	1	Cuisines: Vegetarian, Hamburgers, American, Southwestern, Sandwiches, Donuts, Healthy, Bakery, Latin, Family Fare, Coffee Shop, Soups, Diner, Delicatessen, Bagels, Dessert
+1628	1	Cuisines: Pizza
+1629	1	Cuisines: American, Seafood, Tapas
+1630	1	Cuisines: Delicatessen, Diner
+1631	1	Cuisines: Chinese
+1632	1	Cuisines: Mediterranean
+1633	1	Cuisines: Cuban
+1634	1	Cuisines: Contemporary
+1635	1	Cuisines: Seafood
+1636	1	Cuisines: Peruvian, Seafood
+1637	1	Cuisines: Barbecue
+1638	1	Cuisines: Californian
+1639	1	Cuisines: Mexican
+1640	1	Cuisines: Brazilian
+1641	1	Cuisines: American
+1642	1	Cuisines: Chinese
+1643	1	Cuisines: Delicatessen, Dessert, Steakhouse
+1644	1	Cuisines: Indian
+1645	1	Cuisines: American
+1646	1	Cuisines: Japanese
+1647	1	Cuisines: Delicatessen, Pizza, Italian
+1648	1	Cuisines: Spanish
+1649	1	Cuisines: Mexican
+1650	1	Cuisines: American
+1651	1	Cuisines: Thai, Asian
+1652	1	Cuisines: Pizza
+1653	1	Cuisines: Pacific Rim
+1654	1	Cuisines: Barbecue
+1655	1	Cuisines: Spanish
+1656	1	Cuisines: Italian
+1657	1	Cuisines: Caribbean, International
+1658	1	Cuisines: German, Swiss
+1659	1	Cuisines: Japanese
+1660	1	Cuisines: Californian, American
+1661	1	Cuisines: Chinese
+1662	1	Cuisines: Pizza
+1663	1	Cuisines: Dessert
+1664	1	Cuisines: Steakhouse, American
+1665	1	Cuisines: American, Seafood
+1666	1	Cuisines: Seafood
+1667	1	Cuisines: Italian, Pizza
+1668	1	Cuisines: English, British, Irish
+1669	1	Cuisines: Thai, Vietnamese, Asian
+1670	1	Cuisines: Pizza, Italian
+1671	1	Cuisines: Italian, Californian
+1672	1	Cuisines: Mexican
+1673	1	Cuisines: Italian
+1674	1	Cuisines: Californian
+1675	1	Cuisines: Japanese
+1676	1	Cuisines: Barbecue
+1677	1	Cuisines: Asian
+1678	1	Cuisines: Italian
+1679	1	Cuisines: Fast Food, Delicatessen, Pizza, Californian, Italian
+1680	1	Cuisines: Spanish, Caribbean, American, Latin
+1681	1	Cuisines: Coffee Shop
+1682	1	Cuisines: Bar, Latin
+1683	1	Cuisines: American
+1684	1	Cuisines: American, Gastropub
+1685	1	Cuisines: Mexican
+1686	1	Cuisines: Mexican
+1687	1	Cuisines: Mexican, Southwestern, Spanish
+1688	1	Cuisines: American
+1689	1	Cuisines: Mexican
+1690	1	Cuisines: Vegetarian
+1691	1	Cuisines: American, Hamburgers
+1692	1	Cuisines: American, Californian, Contemporary
+1693	1	Cuisines: Brew Pub, American, Bar, Californian, Family Fare, Fish & Chips, Hamburgers, Pasta, Seafood, Soups, Contemporary
+1694	1	Cuisines: Seafood
+1695	1	Cuisines: Cajun & Creole, Fast Food, American
+1696	1	Cuisines: Asian fusion, Chinese
+1697	1	Cuisines: American
+1698	1	Cuisines: Eastern European
+1699	1	Cuisines: Californian, Steakhouse
+1700	1	Cuisines: Mexican
+1701	1	Cuisines: Italian
+1702	1	Cuisines: Dessert
+1703	1	Cuisines: Mexican
+1704	1	Cuisines: Delicatessen
+1705	1	Cuisines: Mexican
+1706	1	Cuisines: American, Delicatessen, Family Fare, Hamburgers, Steakhouse
+1707	1	Cuisines: Asian, Japanese
+1708	1	Cuisines: Chinese
+1709	1	Cuisines: French
+1710	1	Cuisines: Indian
+1711	1	Cuisines: Vietnamese
+1712	1	Cuisines: Italian, Pasta
+1713	1	Cuisines: Hamburgers, Pizza
+1714	1	Cuisines: Seafood, Thai
+1715	1	Cuisines: Japanese, Sushi
+1716	1	Cuisines: Ice Cream, Dessert
+1717	1	Cuisines: American, Californian, Sushi
+1718	1	Cuisines: Seafood
+1719	1	Cuisines: American
+1720	1	Cuisines: American, Belgian, Italian, Mediterranean, Pizza
+1721	1	Cuisines: American
+1722	1	Cuisines: French, Cajun & Creole, Californian, Italian, Seafood
+1723	1	Cuisines: Asian, Vietnamese
+1724	1	Cuisines: Cajun & Creole
+1725	1	Cuisines: Delicatessen
+1726	1	Cuisines: Mexican
+1727	1	Cuisines: Cajun & Creole
+1728	1	Cuisines: American
+1729	1	Cuisines: American
+1730	1	Cuisines: Pizza
+1731	1	Cuisines: Café, Coffee Shop
+1732	1	Cuisines: Chinese, Vegetarian
+1733	1	Cuisines: Asian, Chinese, Pacific Rim, Seafood
+1734	1	Cuisines: American
+1735	1	Cuisines: Greek
+1736	1	Cuisines: French
+1737	1	Cuisines: Pizza
+1738	1	Cuisines: American, Seafood
+1739	1	Cuisines: American, Italian
+1740	1	Cuisines: Greek, Lebanese, Mediterranean
+1741	1	Cuisines: Mediterranean
+1742	1	Cuisines: Italian
+1743	1	Cuisines: American
+1744	1	Cuisines: American, English, European, Irish, Scottish
+1745	1	Cuisines: Sushi, Japanese
+1746	1	Cuisines: Indian
+1747	1	Cuisines: Italian, Pizza, Californian
+1748	1	Cuisines: Barbecue
+1749	1	Cuisines: American
+1750	1	Cuisines: Steakhouse
+1751	1	Cuisines: French, Chinese
+1752	1	Cuisines: Indian
+1753	1	Cuisines: Barbecue
+1754	1	Cuisines: Ethiopian, African
+1755	1	Cuisines: Italian, Pizza
+1756	1	Cuisines: Japanese, Sushi
+1757	1	Cuisines: American, Pizza
+1758	1	Cuisines: Family Fare, Sushi, Seafood, Chowder, American
+1759	1	Cuisines: American
+1760	1	Cuisines: Thai
+1761	1	Cuisines: Seafood, Steakhouse, Barbecue, Japanese, Sushi
+1762	1	Cuisines: Japanese
+1763	1	Cuisines: Mexican
+1764	1	Cuisines: Mexican
+1765	1	Cuisines: Japanese
+1766	1	Cuisines: American, Asian, Seafood, Steakhouse
+1767	1	Cuisines: Delicatessen
+1768	1	Cuisines: Chinese
+1769	1	Cuisines: American
+1770	1	Cuisines: American, German
+1771	1	Cuisines: Mexican
+1772	1	Cuisines: Hawaiian
+1773	1	Cuisines: Steakhouse
+1774	1	Cuisines: Hamburgers
+1775	1	Cuisines: American, Italian, Pizza
+1776	1	Cuisines: American
+1777	1	Cuisines: Pizza
+1778	1	Cuisines: Korean
+1779	1	Cuisines: Italian
+1780	1	Cuisines: Eclectic
+1781	1	Cuisines: Japanese, Seafood, Sushi
+1782	1	Cuisines: Asian, Chinese
+1783	1	Cuisines: Mexican, Latin, Vegetarian
+1784	1	Cuisines: Caribbean
+1785	1	Cuisines: Seafood, Soups, American, Coffee Shop, Diner
+1786	1	Cuisines: Japanese
+1787	1	Cuisines: Cuban
+1788	1	Cuisines: Irish, Pub
+1789	1	Cuisines: Seafood
+1790	1	Cuisines: Dessert
+1791	1	Cuisines: Mexican
+1792	1	Cuisines: Chinese
+1793	1	Cuisines: Seafood, American
+1794	1	Cuisines: Irish
+1795	1	Cuisines: Vietnamese
+1796	1	Cuisines: American, Contemporary, Eclectic, International, Mediterranean, Seafood, Vegetarian
+1797	1	Cuisines: American, Barbecue
+1798	1	Cuisines: Brazilian
+1799	1	Cuisines: Belgian, French
+1800	1	Cuisines: Bakery, Delicatessen, Italian
+1801	1	Cuisines: Seafood
+1802	1	Cuisines: American
+1803	1	Cuisines: Steakhouse, American, Barbecue
+1804	1	Cuisines: Californian, Southwestern, Mexican, American, Contemporary, Seafood
+1805	1	Cuisines: Seafood
+1806	1	Cuisines: Mexican
+1807	1	Cuisines: American
+1808	1	Cuisines: Coffee Shop
+1809	1	Cuisines: Californian, Family Fare, American, Coffee Shop, Diner
+1810	1	Cuisines: Bakery, Delicatessen
+1811	1	Cuisines: Delicatessen
+1812	1	Cuisines: Italian
+1813	1	Cuisines: Asian, Sushi
+1814	1	Cuisines: Indian
+1815	1	Cuisines: Asian
+1816	1	Cuisines: Indian
+1817	1	Cuisines: Californian, Pizza, Italian
+1818	1	Cuisines: American, Delicatessen, Steakhouse
+1819	1	Cuisines: Thai
+1820	1	Cuisines: Delicatessen
+1821	1	Cuisines: Mexican
+1822	1	Cuisines: American
+1823	1	Cuisines: Korean, Japanese
+1824	1	Cuisines: Mexican, Cuban
+1825	1	Cuisines: Japanese
+1826	1	Cuisines: Italian
+1827	1	Cuisines: Steakhouse
+1828	1	Cuisines: French, Eclectic
+1829	1	Cuisines: American, Italian
+1830	1	Cuisines: Dessert, Diner, Family Fare, Hamburgers, Hot Dogs
+1831	1	Cuisines: American, Italian, Pizza, Steakhouse
+1832	1	Cuisines: American
+1833	1	Cuisines: Greek
+1834	1	Cuisines: Sushi
+1835	1	Cuisines: American, Californian, Bistro, Contemporary, Wine Bar
+1836	1	Cuisines: Mexican
+1837	1	Cuisines: Vietnamese
+1838	1	Cuisines: Barbecue
+1839	1	Cuisines: Thai
+1840	1	Cuisines: Bakery
+1841	1	Cuisines: American
+1842	1	Cuisines: French
+1843	1	Cuisines: Mexican
+1844	1	Cuisines: Japanese, Steakhouse, Sushi
+1845	1	Cuisines: Pizza
+1846	1	Cuisines: Pizza
+1847	1	Cuisines: Barbecue, Fast Food, Hamburgers
+1848	1	Cuisines: Asian, Vietnamese
+1849	1	Cuisines: Bakery
+1850	1	Cuisines: American
+1851	1	Cuisines: American
+1852	1	Cuisines: Barbecue
+1853	1	Cuisines: Delicatessen
+1854	1	Cuisines: American
+1855	1	Cuisines: American
+1856	1	Cuisines: Bar
+1857	1	Cuisines: Pizza
+1858	1	Cuisines: Pizza
+1859	1	Cuisines: Japanese, Steakhouse
+1860	1	Cuisines: Seafood
+1861	1	Cuisines: Seafood, American
+1862	1	Cuisines: Pizza
+1863	1	Cuisines: American
+1864	1	Cuisines: Seafood
+1865	1	Cuisines: French
+1866	1	Cuisines: Chinese
+1867	1	Cuisines: Fast Food, Delicatessen
+1868	1	Cuisines: American
+1869	1	Cuisines: Mexican
+1870	1	Cuisines: Seafood, Steakhouse, American, Barbecue
+1871	1	Cuisines: Mexican
+1872	1	Cuisines: American, French, Seafood
+1873	1	Cuisines: American, Barbecue
+1874	1	Cuisines: American
+1875	1	Cuisines: Steakhouse
+1876	1	Cuisines: Spanish, Tapas, Mexican
+1877	1	Cuisines: Steakhouse, American, Contemporary
+1878	1	Cuisines: American
+1879	1	Cuisines: Mexican
+1880	1	Cuisines: Steakhouse
+1881	1	Cuisines: Seafood
+1882	1	Cuisines: Pizza
+1883	1	Cuisines: Italian, Pizza
+1884	1	Cuisines: Sushi, Japanese
+1885	1	Cuisines: Cajun & Creole
+1886	1	Cuisines: American, Barbecue, Pizza
+1887	1	Cuisines: Fast Food, American, Californian, Thai
+1888	1	Cuisines: Chinese
+1889	1	Cuisines: Vegetarian, Chinese
+1890	1	Cuisines: American
+1891	1	Cuisines: Mexican
+1892	1	Cuisines: Chinese, Italian, Japanese
+1893	1	Cuisines: American, Seafood, Steakhouse
+1894	1	Cuisines: Thai
+1895	1	Cuisines: Pizza, Delicatessen
+1896	1	Cuisines: Steakhouse
+1897	1	Cuisines: Pizza
+1898	1	Cuisines: American
+1899	1	Cuisines: Mexican
+1900	1	Cuisines: Ice Cream
+1901	1	Cuisines: Vietnamese
+1902	1	Cuisines: Pizza
+1903	1	Cuisines: Ice Cream, Dessert
+1904	1	Cuisines: American, Asian, Contemporary, Pacific Rim, Seafood
+1905	1	Cuisines: Delicatessen
+1906	1	Cuisines: Delicatessen, American, Diner
+1907	1	Cuisines: American, Seafood
+1908	1	Cuisines: Mexican
+1909	1	Cuisines: Japanese
+1910	1	Cuisines: Chinese
+1911	1	Cuisines: Mexican
+1912	1	Cuisines: American, Barbecue, Italian, Seafood, Steakhouse
+1913	1	Cuisines: Asian, Chinese
+1914	1	Cuisines: American
+1915	1	Cuisines: Fast Food, Hamburgers
+1916	1	Cuisines: Dessert, Bakery
+1917	1	Cuisines: Hamburgers
+1918	1	Cuisines: American
+1919	1	Cuisines: Pizza
+1920	1	Cuisines: American, Italian, Pizza
+1921	1	Cuisines: Chinese, Asian
+1922	1	Cuisines: Korean, Asian
+1923	1	Cuisines: American
+1924	1	Cuisines: Russian
+1925	1	Cuisines: Hot Dogs
+1926	1	Cuisines: Soups, American
+1927	1	Cuisines: American
+1928	1	Cuisines: Italian
+1929	1	Cuisines: Philippine, American
+1930	1	Cuisines: American, Hamburgers, Fast Food
+1931	1	Cuisines: Barbecue, Korean, Sushi
+1932	1	Cuisines: Japanese, Korean
+1933	1	Cuisines: Thai
+1934	1	Cuisines: Seafood
+1935	1	Cuisines: American
+1936	1	Cuisines: Mexican
+1937	1	Cuisines: Thai
+1938	1	Cuisines: Pizza, Coffee Shop
+1939	1	Cuisines: Mexican
+1940	1	Cuisines: Pizza
+1941	1	Cuisines: Chinese
+1942	1	Cuisines: Mexican
+1943	1	Cuisines: Mexican
+1944	1	Cuisines: Asian
+1945	1	Cuisines: American, Delicatessen
+1946	1	Cuisines: Seafood
+1947	1	Cuisines: Italian, Seafood
+1948	1	Cuisines: American
+1949	1	Cuisines: Latin, Brazilian, Chilean, Colombian, Venezuelan, Argentinean, Cuban
+1950	1	Cuisines: Hot Dogs, American
+1951	1	Cuisines: Coffee Shop
+1952	1	Cuisines: American
+1953	1	Cuisines: Sushi, Japanese
+1954	1	Cuisines: Coffee Shop, Café, Dessert
+1955	1	Cuisines: Mexican
+1956	1	Cuisines: Italian
+1957	1	Cuisines: American
+1958	1	Cuisines: Chinese, Japanese
+1959	1	Cuisines: Mexican
+1960	1	Cuisines: American, Delicatessen
+1961	1	Cuisines: American
+1962	1	Cuisines: Mexican
+1963	1	Cuisines: American
+1964	1	Cuisines: Italian
+1965	1	Cuisines: Delicatessen
+1966	1	Cuisines: Italian
+1967	1	Cuisines: Italian, Pizza
+1968	1	Cuisines: Bakery
+1969	1	Cuisines: Mexican
+1970	1	Cuisines: French
+1971	1	Cuisines: Seafood
+1972	1	Cuisines: French
+1973	1	Cuisines: Italian
+1974	1	Cuisines: Chinese
+1975	1	Cuisines: Pizza
+1976	1	Cuisines: Thai
+1977	1	Cuisines: Italian
+1978	1	Cuisines: Pizza
+1979	1	Cuisines: Russian
+1980	1	Cuisines: Delicatessen
+1981	1	Cuisines: Sushi, Thai
+1982	1	Cuisines: Asian
+1983	1	Cuisines: Southwestern, Mexican, American, Barbecue
+1984	1	Cuisines: Delicatessen
+1985	1	Cuisines: Vietnamese
+1986	1	Cuisines: Pizza
+1987	1	Cuisines: American, Delicatessen
+1988	1	Cuisines: Eclectic
+1989	1	Cuisines: Indian
+1990	1	Cuisines: Chinese
+1991	1	Cuisines: Italian
+1992	1	Cuisines: Indian
+1993	1	Cuisines: Fast Food
+1994	1	Cuisines: Mexican
+1995	1	Cuisines: American, Seafood
+1996	1	Cuisines: Italian
+1997	1	Cuisines: Bakery, Vegan
+1998	1	Cuisines: American, Seafood
+1999	1	Cuisines: Hamburgers

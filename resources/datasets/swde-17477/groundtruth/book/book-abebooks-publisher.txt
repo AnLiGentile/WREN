@@ -1,0 +1,2002 @@
+﻿book	abebooks	publisher
+2000	1850	1850	725
+0000	1	Metropolitan Books
+0001	1	Great Source Education Group Inc
+0002	1	Storey Books
+0003	1	Little Brown & Co
+0004	0	<NULL>
+0005	1	Gotham Books
+0006	1	Beacon Pr
+0007	1	Penguin Pr
+0008	0	<NULL>
+0009	1	John Wiley & Sons Inc
+0010	1	Threshold Editions
+0011	1	Harperbusiness
+0012	1	Thomas Nelson Inc
+0013	1	Dial Pr
+0014	1	Alfred a Knopf Inc
+0015	1	Beyond Words Pub Co
+0016	1	Penguin Group USA
+0017	1	Ecco Pr
+0018	1	Vintage
+0019	1	Owl Books
+0020	0	<NULL>
+0021	1	Oxford Univ Pr on Demand
+0022	1	Pocket Star
+0023	1	Bridge Logos Fndtn
+0024	1	Pantheon Books
+0025	1	Scholastic
+0026	1	Berrett-Koehler Pub
+0027	1	Viking Pr
+0028	1	Scholastic Paperbacks
+0029	1	Fireside
+0030	1	Avon Books
+0031	1	Simon & Schuster
+0032	1	Sourcebooks Inc
+0033	1	Onjinjinkta Distribution
+0034	1	Tyndale House Pub
+0035	1	Parallax Pr
+0036	1	Harrison House Inc
+0037	1	Doubleday
+0038	1	Doubleday
+0039	1	North Atlantic Books
+0040	1	Learning Express Llc
+0041	1	Vintage Books
+0042	1	Prentice Hall
+0043	1	Little Brown & Co
+0044	1	Davis Pubns
+0045	1	Onjinjinkta Distribution
+0046	1	W W Norton & Co Inc
+0047	1	Harpercollins
+0048	1	Warner Books Inc
+0049	1	Irwin Professional Pub
+0050	1	Dell Pub Co
+0051	1	Pocket Books
+0052	1	Villard Books
+0053	1	Regan Books
+0054	1	Grand Central Pub
+0055	1	Harcourt
+0056	1	Little Brown & Co
+0057	1	Recovery Publications
+0058	0	<NULL>
+0059	1	C & T Pub
+0060	1	William Morrow & Co
+0061	1	Alfred a Knopf Inc
+0062	1	Harrison House Inc
+0063	1	Rodale Pr
+0064	1	Chariot Victor Pub
+0065	1	W W Norton & Co Inc
+0066	1	Random House Inc
+0067	1	Rodale Pr
+0068	1	Harrison House Inc
+0069	1	Pocket Books
+0070	1	Pocket Books
+0071	1	Univ of Georgia Pr
+0072	1	Workman Pub Co
+0073	1	Harry K Wong Pubn
+0074	1	Simon & Schuster
+0075	1	Thomas Nelson Inc
+0076	0	<NULL>
+0077	1	Broadway Books
+0078	1	Bantam Dell Pub Group
+0079	1	Readers Digest
+0080	1	Simon & Schuster
+0081	1	House of Anansi Pr
+0082	1	Free Pr
+0083	0	<NULL>
+0084	1	Henry Holt & Co
+0085	1	Harpercollins
+0086	1	Bantam Books
+0087	1	Basic Books
+0088	1	William Morrow & Co
+0089	1	Grand Central Pub
+0090	1	Techpress Inc
+0091	1	Naval Inst Pr
+0092	1	Grand Central Pub
+0093	1	Orion Pub Co
+0094	0	<NULL>
+0095	1	Fleming H Revell Co
+0096	1	Univ of California Pr
+0097	0	<NULL>
+0098	1	Harpercollins
+0099	1	Simon & Schuster
+0100	1	Thomas Nelson Inc
+0101	1	Public Affairs
+0102	0	<NULL>
+0103	1	Random House Inc
+0104	1	Penguin Books Canada, Limited
+0105	0	<NULL>
+0106	1	Dell Pub Co
+0107	1	Farrar Straus & Giroux
+0108	1	Little Brown & Co
+0109	1	Arcade Pub
+0110	1	Sounds True
+0111	1	Harpercollins
+0112	1	Harpercollins
+0113	1	Graywolf Press
+0114	1	Silhouette
+0115	0	<NULL>
+0116	1	Adams Media Corp
+0117	1	Zondervan
+0118	1	Progressive Pr
+0119	1	Henry Holt & Co
+0120	1	Self Realization Fellowship Pub
+0121	1	United States Inst of Peace Pr
+0122	1	Hampton Roads Pub Co Inc
+0123	1	Turner Pub
+0124	1	Aha Process Inc
+0125	1	Harpercollins
+0126	1	Gold Leaf Pr
+0127	1	St Martins Pr
+0128	1	Prentice Hall
+0129	1	Amherst H Wilder Foundation
+0130	1	Little Brown & Co
+0131	1	Authorhouse
+0132	1	Penguin Pr
+0133	1	Rhinos Pr
+0134	1	Little Brown & Co
+0135	1	Harvill Pr
+0136	1	Amer Educational Research Assn
+0137	0	<NULL>
+0138	1	Riverhead Books
+0139	1	Little Brown & Co
+0140	1	Betterway Books
+0141	1	Navpress Pub Group
+0142	1	Regal Books
+0143	1	Atria Books
+0144	1	John Wiley & Sons Inc
+0145	1	Atria Books
+0146	1	John Wiley & Sons Inc
+0147	1	Prima Pub
+0148	1	Doubleday
+0149	1	Ivy Books
+0150	1	Signet
+0151	1	Basic Books
+0152	1	Plume
+0153	1	Alfred a Knopf Inc
+0154	1	Free Pr
+0155	1	Putnam Pub Group
+0156	1	Random House Inc
+0157	1	Random House Inc
+0158	1	Image Books
+0159	1	Henry Holt & Co
+0160	1	Grand Central Pub
+0161	1	Random House Inc
+0162	1	Hodder & Stoughton
+0163	1	Zondervan
+0164	1	Zondervan
+0165	1	Little Brown & Co
+0166	1	Scribner
+0167	1	Viking Pr
+0168	1	Worth Pub
+0169	1	Tor Books
+0170	1	South-Western Pub
+0171	1	Simon & Schuster
+0172	0	<NULL>
+0173	1	Simon & Schuster
+0174	1	Bantam Books
+0175	1	Lothian Books
+0176	1	Minotaur Books
+0177	1	Viking Pr
+0178	1	Pocket Books
+0179	1	Vintage Books
+0180	1	Simon & Schuster
+0181	1	Ballantine Books
+0182	1	Perennial
+0183	1	Alfred a Knopf Inc
+0184	1	Univ of Chicago Pr
+0185	1	Farrar Straus & Giroux
+0186	1	Harpercollins
+0187	1	Perennial
+0188	1	Tor Books
+0189	1	Harper San Francisco
+0190	1	Random House Inc
+0191	1	Random House Inc
+0192	1	Harpercollins
+0193	1	Penguin Books Canada, Limited
+0194	1	Ballantine Books
+0195	1	Little Brown & Co
+0196	1	Little Brown & Co
+0197	1	Academic Pr
+0198	0	<NULL>
+0199	1	Harcourt
+0200	1	Oxford Univ Pr
+0201	1	Prentice Hall
+0202	1	Oxford Univ Pr on Demand
+0203	1	Clarendon Pr
+0204	1	Parallax Pr
+0205	1	Oxford Univ Pr
+0206	1	Berrett-Koehler Pub
+0207	1	Chatto & Windus
+0208	1	Penguin Group USA
+0209	1	Penguin Books Canada, Limited
+0210	1	Puffin
+0211	1	Penguin Group USA
+0212	1	Canongate Pub Ltd
+0213	0	<NULL>
+0214	0	<NULL>
+0215	1	Da Capo Pr
+0216	1	Oxford Univ Pr
+0217	1	Avon Books
+0218	1	Harcourt
+0219	1	Penguin Group USA
+0220	1	Viking Pr
+0221	1	Council Oaks Distribution
+0222	1	Hampton Roads Pub Co Inc
+0223	0	<NULL>
+0224	1	Ten Speed Pr
+0225	1	New Pr
+0226	1	Scroll Pub Co
+0227	1	Amer Diabetes Assn
+0228	1	Adams Media Corp
+0229	1	Sage Pubns
+0230	1	Simon & Schuster
+0231	1	Sunbelt Pubns
+0232	1	Adams Media Corp
+0233	1	Riverhead Books
+0234	1	Alyson Pubns
+0235	1	Paradox Pub
+0236	1	Portable Pr
+0237	1	Shambhala Pubns
+0238	1	Univ of Minnesota Pr
+0239	1	Random House Inc
+0240	1	Devorss & Co
+0241	1	Eerdmans Pub Co
+0242	1	Syracuse Univ Pr
+0243	1	Tab Books
+0244	1	Bridge Logos Fndtn
+0245	1	Hyperion Books
+0246	1	Henry Holt & Co
+0247	1	Multnomah Pub
+0248	1	Nash Pub
+0249	1	W B Saunders Co
+0250	1	Atlantic Monthly Pr
+0251	1	Henry Holt & Co
+0252	1	Atlantic Monthly Pr
+0253	1	Harry N Abrams Inc
+0254	1	Regal Books
+0255	1	Pocket Books
+0256	1	Pocket Books
+0257	1	Summit Books
+0258	0	<NULL>
+0259	1	Alfred a Knopf Inc
+0260	1	Random House Inc
+0261	1	Atria Books
+0262	1	Touchstone Books
+0263	1	Scribner
+0264	1	Random House Inc
+0265	1	Fireside
+0266	1	Simon & Schuster
+0267	0	<NULL>
+0268	1	Sandpiper
+0269	1	John Wiley & Sons Inc
+0270	1	Faber & Faber
+0271	0	<NULL>
+0272	1	Viking Pr
+0273	1	W W Norton & Co Inc
+0274	1	Jove Pubns
+0275	1	Univ of California Pr on Demand
+0276	1	W W Norton & Co Inc
+0277	1	Alfred a Knopf Inc
+0278	1	Bantam Books
+0279	1	Dutton Childrens Books
+0280	1	W W Norton & Co Inc
+0281	1	Harmony Books
+0282	1	Doubleday
+0283	1	Jove Pubns
+0284	1	Dover Pubns
+0285	1	Spectra
+0286	1	Delacorte Pr
+0287	0	<NULL>
+0288	1	Jove Pubns
+0289	1	Mariner Books
+0290	1	Houghton Mifflin
+0291	1	Doubleday
+0292	1	Random House Inc
+0293	1	Bantam Books
+0294	1	Doubleday
+0295	1	Avon Books
+0296	1	Avon Books
+0297	1	Penguin Books Canada, Limited
+0298	1	Putnam Pub Group
+0299	1	Putnam Pub Group
+0300	1	Houghton Mifflin Harcourt
+0301	1	John Wiley & Sons Inc
+0302	1	Avon Books
+0303	1	Doubleday
+0304	1	Harpercollins
+0305	1	Dell Pub Co
+0306	0	<NULL>
+0307	1	Dell Pub Co
+0308	1	Regan Books
+0309	1	Harpercollins
+0310	1	Macmillan Pub Co
+0311	1	Joanna Cotler Books
+0312	1	HarperCollins Publishers Canada, Limited
+0313	1	William Morrow & Co
+0314	1	Atheneum
+0315	1	HarperCollins Publishers Canada, Limited
+0316	1	Perennial
+0317	1	Harpercollins
+0318	1	Perennial
+0319	1	Harpercollins
+0320	1	Harpercollins
+0321	1	Avon Books
+0322	1	HarperCollins Publishers Canada, Limited
+0323	1	Fourth Estate
+0324	0	<NULL>
+0325	1	HarperCollins Publishers Canada, Limited
+0326	1	Perennial
+0327	1	Free Pr
+0328	1	Harpercollins
+0329	1	HarperCollins Publishers Canada, Limited
+0330	1	Harper San Francisco
+0331	1	Oxford Univ Pr
+0332	1	Univ of Chicago Pr
+0333	1	Oxford Univ Pr
+0334	1	William Morrow & Co
+0335	1	Harpercollins
+0336	1	Indiana Univ Pr
+0337	1	Harper Torch
+0338	1	Harpercollins
+0339	1	Financial Times Management
+0340	1	Oxford Univ Pr on Demand
+0341	1	Jonathan Cape
+0342	1	Harpercollins
+0343	1	Oxford Univ Pr
+0344	1	Penguin Books Canada, Limited
+0345	1	Thomson Custom Pub
+0346	1	Harcourt College Pub
+0347	1	Penguin Group USA
+0348	0	<NULL>
+0349	1	Puffin
+0350	1	Penguin Group USA
+0351	1	Viking Pr
+0352	0	<NULL>
+0353	1	Arkana
+0354	1	Oxford Univ Pr
+0355	1	Harvest Books
+0356	1	Penguin Books Canada, Limited
+0357	1	Harvest Books
+0358	1	Penguin Group USA
+0359	1	Puffin
+0360	0	<NULL>
+0361	1	Harcourt
+0362	1	Palgrave Macmillan
+0363	0	<NULL>
+0364	1	Picador
+0365	1	Oxford Univ Pr
+0366	1	Viking Pr
+0367	1	Mariner Books
+0368	1	Penguin Books Canada, Limited
+0369	1	Harvard Univ Pr
+0370	1	Little Brown & Co
+0371	1	Little Brown & Co
+0372	0	<NULL>
+0373	1	Little Brown & Co
+0374	1	Minotaur Books
+0375	1	St Martins Pr
+0376	1	Pantheon Books
+0377	1	Pocket Books
+0378	1	Bobbs-Merrill
+0379	1	Pocket Books
+0380	1	Knopf Canada
+0381	1	Pocket Books
+0382	1	Tor Books
+0383	1	Pocket Books
+0384	1	Bedford/st Martins
+0385	1	Little Brown & Co
+0386	1	Griffin
+0387	1	Pocket Books
+0388	1	Little Brown & Co
+0389	1	Back Bay Books
+0390	1	Bedford/st Martins
+0391	1	Little Brown & Co
+0392	1	Simon & Schuster
+0393	1	Little Brown & Co
+0394	1	Little Brown & Co
+0395	1	St Martins Pr
+0396	1	Pocket Books
+0397	1	Little Brown & Co
+0398	1	Picador USA
+0399	1	St Martins Pr
+0400	1	Random House Inc
+0401	1	Simon & Schuster
+0402	1	Little Brown & Co
+0403	1	HarperCollins Publishers Canada, Limited
+0404	1	Viking Pr
+0405	0	<NULL>
+0406	1	Harmony Books
+0407	1	Baen Books
+0408	1	Oreilly & Associates Inc
+0409	1	Bantam Dell Pub Group
+0410	1	Viking Pr
+0411	0	<NULL>
+0412	1	Aladdin Paperbacks
+0413	1	Fanfare
+0414	1	Bantam Dell Pub Group
+0415	1	Bantam Dell Pub Group
+0416	1	Viking Pr
+0417	1	HarperCollins Publishers Canada, Limited
+0418	1	Bantam Books
+0419	1	Blackwell Pub
+0420	1	Viking Pr
+0421	0	<NULL>
+0422	1	Simon and Schuster
+0423	1	Clarkson Potter
+0424	1	Viking Pr
+0425	1	Concordia Pub House
+0426	1	Bantam Books
+0427	0	<NULL>
+0428	1	Dutton Childrens Books
+0429	1	E P Dutton
+0430	1	Dover Pubns
+0431	1	E P Dutton
+0432	1	John Wiley & Sons Inc
+0433	1	Bantam Books
+0434	1	Bantam Dell Pub Group
+0435	1	Dover Pubns
+0436	1	Spectra
+0437	0	<NULL>
+0438	1	Dover Pubns
+0439	1	Bantam Books
+0440	1	Harmony Books
+0441	1	Harmony Books
+0442	1	Dover Pubns
+0443	1	Bantam Dell Pub Group
+0444	1	Onyx Books
+0445	1	Warner Books Inc
+0446	1	Basic Books
+0447	1	Basic Books
+0448	1	Warner Books Inc
+0449	1	Warner Books Inc
+0450	1	Young Yearling
+0451	1	Van Nostrand Reinhold
+0452	1	Plume
+0453	1	Faithwords
+0454	1	Dent
+0455	1	Signet
+0456	1	Vision
+0457	1	Basic Books
+0458	1	Fawcett Books
+0459	1	Basic Books
+0460	1	Fawcett Books
+0461	1	Grand Central Pub
+0462	1	Basic Books
+0463	1	Walk Worthy Pr
+0464	1	Alfred a Knopf Inc
+0465	1	W W Norton & Co Inc
+0466	1	Random House Inc
+0467	1	Houghton Mifflin Harcourt
+0468	1	Houghton Mifflin
+0469	1	Random House Inc
+0470	1	Houghton Mifflin Harcourt
+0471	1	Random House Inc
+0472	1	Houghton Mifflin Harcourt
+0473	1	Random House Inc
+0474	1	Mariner Books
+0475	1	Random House Inc
+0476	1	McDougal Littell/Houghton Mifflin
+0477	1	Routledge
+0478	1	Alfred a Knopf Inc
+0479	1	W W Norton & Co Inc
+0480	1	W W Norton & Co Inc
+0481	1	W W Norton & Co Inc
+0482	1	Alfred a Knopf Inc
+0483	1	Berkley Pub Group
+0484	1	Delacorte Pr
+0485	1	Avon Books
+0486	1	Doubleday Canada, Limited
+0487	1	W W Norton & Co Inc
+0488	1	Harpercollins
+0489	1	Doubleday
+0490	1	Bantam Books of Canada Ltd
+0491	1	W W Norton & Co Inc
+0492	1	W W Norton & Co Inc
+0493	1	Delta
+0494	1	Doubleday
+0495	1	Doubleday
+0496	1	Avon Books
+0497	1	Doubleday
+0498	1	Springer Verlag
+0499	1	W W Norton & Co Inc
+0500	0	<NULL>
+0501	1	W W Norton & Co Inc
+0502	1	Doubleday of Canada
+0503	1	W W Norton & Co Inc
+0504	1	Doubleday
+0505	1	Doubleday
+0506	1	Alfred a Knopf Inc
+0507	1	Polygon
+0508	1	Random House Inc
+0509	1	Monacelli Pr
+0510	1	I B Tauris & Co Ltd
+0511	1	High Plains Pub Co
+0512	1	Alfred a Knopf Inc
+0513	1	Salamandra Publicacions Y Edicions
+0514	1	Pantheon Books
+0515	1	Frog Ltd
+0516	1	Alfred a Knopf Inc
+0517	1	Prometheus Nemesis Book Co
+0518	1	Amer Society of Addiction Medicine
+0519	1	MIT Verlag
+0520	1	Lark Books
+0521	1	Alfred a Knopf Inc
+0522	1	Open City Books
+0523	1	Alfred a Knopf Inc
+0524	0	<NULL>
+0525	1	Farrar Straus & Giroux
+0526	1	Amer Univ in Cairo Pr
+0527	1	Redleaf Pr
+0528	1	Library of America
+0529	0	<NULL>
+0530	1	Whitaker House
+0531	1	Crossway Books
+0532	1	North Light Books
+0533	1	Ryland Peters & Small
+0534	0	<NULL>
+0535	1	Inner Traditions
+0536	1	Lonely Planet
+0537	1	Boydell Pr
+0538	1	Ten Speed Pr
+0539	1	Jewish Lights Pub
+0540	1	Poisoned Pen Pr
+0541	1	Regnery Pub
+0542	1	Cassell
+0543	0	<NULL>
+0544	1	Navpress Pub Group
+0545	1	Portable Pr
+0546	1	Portable Pr
+0547	1	Anchor Books
+0548	1	Harvest House Pub
+0549	1	New Pr
+0550	1	Hampton Roads Pub Co Inc
+0551	1	Greystone Books
+0552	1	Algonquin Books
+0553	1	Vine Books
+0554	1	Multnomah Pub
+0555	1	Sage Pubns
+0556	1	New Pr
+0557	1	Welcome Enterprises
+0558	1	Touchstone Books
+0559	1	Hampton Roads Pub Co Inc
+0560	1	Hampton Roads Pub Co Inc
+0561	1	Random House Inc
+0562	1	Ignatius Pr
+0563	1	Foundation for Inner Peace
+0564	1	Turnkey Pr
+0565	1	Amer Diabetes Assn
+0566	1	Shepherd Books
+0567	1	Parentmagic Inc
+0568	0	<NULL>
+0569	1	Writers Digest Books
+0570	1	A & W Pub
+0571	1	David Icke Books
+0572	1	Reader's Digest Association
+0573	1	Barricade Books Inc
+0574	1	Stillpoint Pub
+0575	1	Univ of Wisconsin Pr
+0576	1	Cheng & Tsui Co
+0577	1	Hobby House Pr Inc
+0578	1	Devorss & Co
+0579	1	Harvest House Pub
+0580	1	North Light Books
+0581	1	Harvard Business School Pr
+0582	1	Amer Psychiatric Pub Inc
+0583	1	Orbis Books
+0584	1	Rodale Pr
+0585	1	Red Wheel/Weiser
+0586	1	Atlantic Monthly Pr
+0587	1	Atlantic Monthly Pr
+0588	1	W Pub Group
+0589	1	Whitaker House
+0590	1	Brunner-Routledge
+0591	1	Wilshire Book Co
+0592	1	David R Godine Pub
+0593	1	Tyndale House Pub
+0594	1	Paulist Pr
+0595	1	Brookings Inst Pr
+0596	1	Southern Illinois Univ Pr
+0597	1	Watson-Guptill Pubns
+0598	0	<NULL>
+0599	1	Watson-Guptill Pubns
+0600	1	Watson-Guptill Pubns
+0601	1	W Pub Group
+0602	1	Henry Holt & Co
+0603	1	Owl Books
+0604	1	Louisiana State Univ Pr
+0605	0	<NULL>
+0606	1	Thomas Nelson Inc
+0607	1	Univ of Oklahoma Pr
+0608	1	Schocken Books
+0609	1	Univ of North Carolina Pr
+0610	1	Barrons Educational Series Inc
+0611	1	Kregel Pubns
+0612	1	Thomas Nelson Inc
+0613	1	Henry Holt & Co
+0614	1	Beacon Pr
+0615	1	Amacom Books
+0616	1	Cornell Univ Pr
+0617	1	Broadway Books
+0618	1	Broadway Books
+0619	1	Bethany House Pub
+0620	1	Tor Books
+0621	1	Dk Pub
+0622	1	Bantam Dell Pub Group
+0623	1	Fleming H Revell Co
+0624	1	Bison Books
+0625	1	McClelland & Stewart
+0626	1	Johns Hopkins Univ Pr
+0627	1	Basic Books
+0628	1	McClelland & Stewart
+0629	1	Revell
+0630	1	J. Murray
+0631	1	Free Pr
+0632	0	<NULL>
+0633	1	Atheneum
+0634	1	J. Murray
+0635	0	<NULL>
+0636	1	Eagle Brook
+0637	1	Simon & Schuster Merchandise &
+0638	1	Scribner
+0639	0	<NULL>
+0640	1	William Morrow & Co
+0641	1	William Morrow & Co
+0642	1	Dk Pub
+0643	1	Princeton Univ Pr
+0644	0	<NULL>
+0645	1	Llewellyn Worldwide Ltd
+0646	1	Princeton Univ Pr
+0647	1	William Morrow & Co
+0648	1	Random House Inc
+0649	1	Farrar Straus & Giroux
+0650	1	Scribner
+0651	1	Villard Books
+0652	1	Scribner
+0653	1	Scribner
+0654	1	Vintage Books
+0655	1	Farrar Straus & Giroux
+0656	1	David McKay Co
+0657	1	Alfred a Knopf Inc
+0658	1	Alfred a Knopf Inc
+0659	1	Farrar Straus & Giroux
+0660	1	Scribner
+0661	1	Scribner
+0662	1	Random House Inc
+0663	1	Scribner
+0664	1	Modern Library
+0665	1	Random House of Canada, Limited
+0666	1	Alfred a Knopf Inc
+0667	1	Random House Inc
+0668	1	Simon & Schuster
+0669	1	Scribner
+0670	1	Vintage Books
+0671	1	Atheneum
+0672	1	Simon & Schuster
+0673	1	Prentice Hall
+0674	1	Ballantine Books
+0675	0	<NULL>
+0676	1	Ballantine Books
+0677	1	Ballantine Books
+0678	1	Ballantine Books
+0679	1	Prentice Hall
+0680	0	<NULL>
+0681	1	Ballantine Books
+0682	1	Ballantine Books
+0683	1	Ballantine Books
+0684	1	Presidio Pr
+0685	0	<NULL>
+0686	1	Penguin Books Canada, Limited
+0687	0	<NULL>
+0688	1	McGraw-Hill
+0689	1	Harpercollins
+0690	1	Henry Holt & Co
+0691	1	St Martins Pr
+0692	1	St Martins Pr
+0693	1	Alfred a Knopf Inc
+0694	1	Harper San Francisco
+0695	1	Harpercollins
+0696	1	Vintage Books
+0697	1	Harpercollins Pub Ltd
+0698	1	St Martins Pr
+0699	1	HarperCollins Publishers Canada, Limited
+0700	1	Harpercollins
+0701	1	Yale Univ Pr
+0702	1	Harpercollins
+0703	1	Olympic Marketing Corp
+0704	1	Yale Univ Pr
+0705	1	Alfred a Knopf Inc
+0706	1	HarperCollins Publishers Canada, Limited
+0707	1	Yale Univ Pr
+0708	1	HarperCollins Publishers Canada, Limited
+0709	1	Harpercollins
+0710	1	Yale Univ Pr
+0711	1	HarperCollins Publishers Canada, Limited
+0712	1	St Martins Pr
+0713	1	Univ of Texas Pr
+0714	1	Yale Univ Pr
+0715	1	Yale Univ Pr
+0716	1	Collins
+0717	1	St Martins Pr
+0718	1	Harpercollins
+0719	1	Weidenfeld and Nicolson
+0720	1	St Martins Pr
+0721	1	Harper San Francisco
+0722	1	HarperCollins Publishers Canada, Limited
+0723	1	HarperCollins Publishers Canada, Limited
+0724	1	HarperCollins Publishers Canada, Limited
+0725	1	HarperCollins Publishers Canada, Limited
+0726	1	HarperCollins Publishers Canada, Limited
+0727	1	HarperCollins Publishers Canada, Limited
+0728	1	HarperCollins Publishers Canada, Limited
+0729	1	Perennial
+0730	1	HarperCollins Publishers Canada, Limited
+0731	1	HarperCollins Publishers Canada, Limited
+0732	0	<NULL>
+0733	0	<NULL>
+0734	1	HarperCollins Publishers Canada, Limited
+0735	1	Collier Books
+0736	1	Macmillan General Reference
+0737	1	Macmillan Pub Co
+0738	0	<NULL>
+0739	1	HarperCollins Publishers Canada, Limited
+0740	1	HarperCollins Publishers Canada, Limited
+0741	0	<NULL>
+0742	1	Harpercollins Pub Ltd
+0743	1	Macmillan Pub Co
+0744	1	HarperCollins Publishers Canada, Limited
+0745	1	Perennial
+0746	1	Collier Books
+0747	1	HarperCollins Publishers Canada, Limited
+0748	1	HarperCollins Publishers Australia
+0749	1	Macmillan Pub Co
+0750	1	Avon Books
+0751	1	Harpercollins
+0752	1	Harpercollins
+0753	1	Harper Resource
+0754	1	Avon Books
+0755	1	Perennial
+0756	1	Avon Books
+0757	1	Avon Books
+0758	1	Harpercollins
+0759	0	<NULL>
+0760	1	Harper San Francisco
+0761	1	Collins
+0762	1	Harper San Francisco
+0763	1	Regan Books
+0764	1	Avon Books
+0765	1	Harpercollins
+0766	1	Eminent Lives
+0767	1	Free Pr
+0768	1	Harpercollins
+0769	1	Harpercollins Childrens Books
+0770	1	Harpercollins
+0771	1	Free Pr
+0772	1	Regan Books
+0773	1	Free Pr
+0774	1	Harpercollins
+0775	1	Harpercollins College Div
+0776	1	Free Pr
+0777	1	Greenwillow
+0778	1	G. Allen & Unwin
+0779	1	Regan Books
+0780	1	McGraw-Hill
+0781	1	Harpercollins
+0782	1	Harper & Row
+0783	1	Harpercollins
+0784	1	Harpercollins Childrens Books
+0785	1	Harpercollins
+0786	1	Collins
+0787	1	Harper San Francisco
+0788	1	Harper & Row
+0789	1	McGraw-Hill
+0790	1	Univ of Chicago Pr
+0791	1	McGraw-Hill
+0792	1	Harper & Row
+0793	1	McGraw-Hill
+0794	1	Univ of Chicago Pr
+0795	1	Trophy Pr
+0796	1	Univ of Chicago Pr
+0797	1	Univ of Chicago Pr
+0798	1	William Morrow & Co
+0799	1	Harper San Francisco
+0800	1	Univ of Chicago Pr
+0801	1	Harper San Francisco
+0802	1	Harpercollins
+0803	1	McGraw-Hill
+0804	1	Harper San Francisco
+0805	1	Oxford Univ Pr
+0806	1	Allyn & Bacon
+0807	1	Oxford Univ Pr
+0808	1	Oxford Univ Pr
+0809	1	Univ of Chicago Pr
+0810	1	Oxford Univ Pr
+0811	1	Cape
+0812	1	Oxford Univ Pr
+0813	1	Clarendon Press
+0814	1	Oxford Univ Pr on Demand
+0815	1	J. Cape
+0816	1	Oxford Univ Pr
+0817	1	Addison-Wesley
+0818	1	Allyn & Bacon
+0819	1	Shoe String Pr Inc
+0820	1	Allyn & Bacon
+0821	1	Jonathan Cape
+0822	1	Archon Books
+0823	1	Oxford Univ Pr
+0824	1	Oxford Univ Pr
+0825	1	J. Cape
+0826	0	<NULL>
+0827	1	Oxford Univ Pr
+0828	1	Oxford Univ Pr
+0829	1	Oxford Univ Pr
+0830	1	Oxford Univ Pr on Demand
+0831	1	Oxford Univ Pr
+0832	1	Oxford Univ Pr
+0833	1	Oxford Univ Pr
+0834	1	Oxford University Press
+0835	1	Oxford Univ Pr on Demand
+0836	1	Oxford Univ Pr on Demand
+0837	1	Oxford Univ Pr
+0838	1	Oxford Univ Pr
+0839	1	Oxford Univ Pr
+0840	1	Oxford Univ Pr on Demand
+0841	1	Oxford Univ Pr
+0842	1	Oxford Univ Pr
+0843	1	Clarendon Pr
+0844	1	Oxford Univ Pr on Demand
+0845	1	Oxford Univ Pr
+0846	1	Oxford Univ Pr
+0847	1	Oxford Univ Pr
+0848	1	Oxford Univ Pr
+0849	1	Harcourt Childrens Books
+0850	1	Oxford Univ Pr
+0851	1	H B/Holt/Saunders
+0852	1	Harcourt Childrens Books
+0853	1	Harcourt
+0854	1	Oxford Univ Pr
+0855	1	Oxford Univ Pr
+0856	1	Oxford Univ Pr
+0857	1	Oxford University Press
+0858	1	Harcourt
+0859	1	Harcourt
+0860	1	Penguin Books Canada, Limited
+0861	0	<NULL>
+0862	1	Harcourt
+0863	1	Harcourt
+0864	1	Puffin
+0865	1	Penguin Books Canada, Limited
+0866	1	Penguin Group Australia
+0867	1	Penguin Group USA
+0868	0	<NULL>
+0869	1	Harcourt
+0870	1	Puffin
+0871	0	<NULL>
+0872	1	Penguin Group USA
+0873	1	Penguin Group USA
+0874	1	Penguin Group USA
+0875	1	Harcourt
+0876	0	<NULL>
+0877	0	<NULL>
+0878	1	Prentice Hall
+0879	1	Prentice Hall
+0880	1	Penguin Group USA
+0881	1	Penguin Group USA
+0882	1	Prentice Hall
+0883	1	Penguin Group USA
+0884	1	Prentice Hall
+0885	1	Penguin USA
+0886	1	Penguin Books Canada, Limited
+0887	1	Pearson Prentice Hall
+0888	1	Prentice Hall
+0889	0	<NULL>
+0890	1	Prentice Hall
+0891	1	Ft Pr
+0892	1	Penguin Group USA
+0893	1	Penguin Group USA
+0894	1	Signet
+0895	1	Onyx Books
+0896	1	Academic Pr
+0897	1	Signet
+0898	1	Signet
+0899	0	<NULL>
+0900	1	Signet
+0901	1	Signet
+0902	1	Signet
+0903	0	<NULL>
+0904	0	<NULL>
+0905	0	<NULL>
+0906	0	<NULL>
+0907	1	Prentice Hall
+0908	1	Grand Central Pub
+0909	1	Crest
+0910	1	Fawcett Books
+0911	1	Warner Books Inc
+0912	1	Warner Books Inc
+0913	1	Grand Central Pub
+0914	1	Grand Central Pub
+0915	1	Grand Central Pub
+0916	1	Business Plus
+0917	1	Grand Central Pub
+0918	1	Grand Central Pub
+0919	1	Grand Central Pub
+0920	1	Fawcett Books
+0921	1	Warner Books Inc
+0922	1	Grand Central Pub
+0923	0	<NULL>
+0924	1	Vision
+0925	1	Fawcett Books
+0926	1	Mysterious Pr
+0927	1	Dell Island Books
+0928	1	E. & S. Livingstone
+0929	1	Laurel Leaf
+0930	1	Forever
+0931	0	<NULL>
+0932	1	Dell Pub Co
+0933	1	Ace Books
+0934	1	Dell Pub Co
+0935	1	Dell Pub Co
+0936	1	Grand Central Pub
+0937	1	Van Nostrand Reinhold
+0938	1	Dell Pub Co
+0939	1	Dell Pub Co
+0940	1	Yearling Books
+0941	1	Warner Books Inc
+0942	1	Grand Central Pub
+0943	1	Dell Pub Co
+0944	1	Ace Books
+0945	1	Dell Pub Co
+0946	1	Laurel Leaf
+0947	0	<NULL>
+0948	1	Berkley Pub Group
+0949	1	Prime Crime
+0950	1	Scholastic
+0951	1	Berkley Pub Group
+0952	1	Delacorte Press
+0953	1	Dell Pub Co
+0954	1	Delacorte Press/Seymour Lawrence
+0955	1	Heinemann
+0956	1	Laurel Leaf
+0957	1	Routledge
+0958	1	Scholastic Paperbacks
+0959	1	Secker and Warburg
+0960	1	Berkley Pub Group
+0961	1	Routledge
+0962	1	Routledge
+0963	1	Putnam Pub Group
+0964	1	Routledge
+0965	1	Methuen Drama
+0966	1	Putnam Pub Group
+0967	1	Putnam Pub Group
+0968	1	Putnam Pub Group
+0969	1	Arno Pr
+0970	1	Philomel Books
+0971	1	Putnam Pub Group
+0972	1	Putnam Pub Group
+0973	1	Putnam Pub Group
+0974	1	Putnam Pub Group
+0975	1	Putnam Pub Group
+0976	1	Putnam Pub Group
+0977	1	Putnam Pub Group
+0978	1	Philomel Books
+0979	1	Putnam Pub Group
+0980	1	Putnam Pub Group
+0981	1	Random House Childrens Books
+0982	1	Putnam Pub Group
+0983	1	Houghton Mifflin
+0984	1	Clarion Books
+0985	0	<NULL>
+0986	1	Random House Childrens Books
+0987	1	Mariner Books
+0988	1	Dodd, Mead
+0989	1	Sandpiper
+0990	1	Houghton Mifflin Harcourt
+0991	1	Mariner Books
+0992	1	Houghton Mifflin Harcourt
+0993	1	Houghton Mifflin Harcourt
+0994	1	Mariner Books
+0995	1	Alfred a Knopf Inc
+0996	1	Alfred a Knopf Inc
+0997	1	Bantam Books
+0998	0	<NULL>
+0999	1	Bantam Dell Pub Group
+1000	1	Skylark
+1001	1	Random House Inc
+1002	1	Bantam Dell Pub Group
+1003	1	Corgi
+1004	1	Vintage Books
+1005	0	<NULL>
+1006	1	Bantam Dell Pub Group
+1007	1	Bantam Books
+1008	0	<NULL>
+1009	1	Vintage Books
+1010	1	Vintage Books
+1011	1	Bantam Dell Pub Group
+1012	1	Random House Inc
+1013	1	E. P. Dutton
+1014	1	Dutton Childrens Books
+1015	1	Cambridge Univ Pr
+1016	1	E P Dutton
+1017	1	Cambridge Univ Pr
+1018	1	Cambridge Univ Pr
+1019	1	Cambridge Univ Pr
+1020	1	Wadsworth Pub Co
+1021	1	Vantage Pr
+1022	1	Cambridge Univ Pr
+1023	1	Cambridge Univ Pr
+1024	1	Cambridge Univ Pr
+1025	1	Riverside World Pub Co
+1026	1	Cambridge Univ Pr
+1027	1	Cambridge Univ Pr
+1028	1	Wadsworth Pub Co
+1029	1	Dutton Childrens Books
+1030	1	Univ of California Pr
+1031	1	Univ of California Pr
+1032	1	Cambridge University Press
+1033	1	Cambridge Univ Pr
+1034	1	Univ of California Pr
+1035	1	Cambridge Univ Pr
+1036	1	Univ of California Pr
+1037	1	Univ of California Pr
+1038	1	Univ of California Pr
+1039	1	Cambridge Univ Pr
+1040	1	Cambridge Univ Pr
+1041	1	Univ of California Pr
+1042	1	Univ of California Pr
+1043	1	Cambridge Univ Pr
+1044	1	Cambridge Univ Pr
+1045	1	Univ of California Pr
+1046	1	Univ of California Pr
+1047	1	Cambridge Univ Pr
+1048	1	Cambridge Univ Pr
+1049	1	Univ of California Pr
+1050	1	Thames & Hudson
+1051	1	Crown Pub
+1052	1	Outlet
+1053	1	Clarkson Potter
+1054	1	Thames and Hudson
+1055	1	Outlet
+1056	1	Thames & Hudson
+1057	1	Jove Books
+1058	1	Jove Pubns
+1059	1	Gramercy Books
+1060	1	Arch Cape
+1061	1	Crown Pub
+1062	1	Crown
+1063	1	Crown Pub
+1064	0	<NULL>
+1065	1	Jove Pubns
+1066	1	Harmony Books
+1067	1	Jove Pubns
+1068	1	Athlone Pr
+1069	1	Dover Pubns
+1070	1	Dover Pubns
+1071	1	Dover Pubns
+1072	1	Wiley-Interscience
+1073	1	Dover Pubns
+1074	1	John Wiley & Son Ltd
+1075	1	John Wiley & Sons Inc
+1076	1	Dover Pubns
+1077	1	Dover Pubns
+1078	1	John Wiley & Sons Inc
+1079	1	Dover Pubns
+1080	1	Dover Pubns
+1081	1	Dover Pubns
+1082	1	John Wiley & Sons Inc
+1083	1	Basic Books
+1084	1	Basic Books
+1085	1	Basic Books
+1086	1	John Wiley & Sons Inc
+1087	1	Wiley
+1088	1	John Wiley & Sons Inc
+1089	1	John Wiley & Sons Inc
+1090	1	Basic Books
+1091	1	Basic Books
+1092	1	Basic Books
+1093	1	Basic Books
+1094	1	Plume
+1095	1	Basic Books
+1096	1	Random House Childrens Books
+1097	1	Random House Inc
+1098	1	Topaz
+1099	1	Random House Inc
+1100	1	Alfred a Knopf Inc
+1101	1	Random House Inc
+1102	1	Plume
+1103	1	Random House Inc
+1104	1	Alfred a Knopf Inc
+1105	1	Random House Inc
+1106	1	Alfred a Knopf Inc
+1107	1	Alfred a Knopf Inc
+1108	1	Alfred a Knopf Inc
+1109	1	Random House Inc
+1110	1	Alfred a Knopf Inc
+1111	1	Random House Inc
+1112	1	Alfred a Knopf Inc
+1113	0	<NULL>
+1114	1	W W Norton & Co Inc
+1115	1	W W Norton & Co Inc
+1116	1	W W Norton & Co Inc
+1117	1	W W Norton & Co Inc
+1118	1	Alfred a Knopf Inc
+1119	1	W W Norton & Co Inc
+1120	1	W W Norton & Co Inc
+1121	1	Random House Inc
+1122	1	W W Norton & Co Inc
+1123	1	Alfred a Knopf Inc
+1124	1	W W Norton & Co Inc
+1125	1	W W Norton & Co Inc
+1126	1	W W Norton & Co Inc
+1127	1	W W Norton & Co Inc
+1128	1	W W Norton & Co Inc
+1129	1	Doubleday
+1130	1	Anchor Books
+1131	1	Springer Verlag
+1132	1	Doubleday
+1133	1	Anchor Books
+1134	0	<NULL>
+1135	1	Anchor Books
+1136	1	Doubleday
+1137	1	Springer Verlag
+1138	0	<NULL>
+1139	1	Doubleday
+1140	1	Doubleday
+1141	1	Delacorte Pr
+1142	1	Doubleday
+1143	1	Doubleday
+1144	1	Doubleday
+1145	1	Doubleday
+1146	1	Nan a Talese
+1147	0	<NULL>
+1148	1	Doubleday
+1149	1	W W Norton & Co Inc
+1150	1	Doubleday
+1151	1	Anchor Books
+1152	1	W W Norton & Co Inc
+1153	1	Doubleday
+1154	1	Springer Verlag
+1155	1	Bantam Dell Pub Group
+1156	1	Doubleday
+1157	1	Avon Books
+1158	1	Galilee
+1159	1	Doubleday
+1160	1	Doubleday
+1161	1	Delacorte Pr
+1162	1	Harpercollins
+1163	1	Dial Press
+1164	1	Doubleday
+1165	1	Doubleday
+1166	1	Eos
+1167	1	Doubleday
+1168	1	Doubleday
+1169	1	Delacorte Pr
+1170	1	Anchor Press
+1171	1	Doubleday
+1172	1	Anchor Books
+1173	1	Delacorte Pr
+1174	1	Avon Books
+1175	1	Doubleday
+1176	1	Avon Books
+1177	1	Doubleday
+1178	1	Doubleday
+1179	1	Spike
+1180	1	Anchor Books
+1181	1	Doubleday
+1182	1	Doubleday
+1183	1	Avon Books
+1184	0	<NULL>
+1185	1	Avon Books
+1186	0	<NULL>
+1187	0	<NULL>
+1188	1	Avon Books
+1189	0	<NULL>
+1190	0	<NULL>
+1191	1	Avon Books
+1192	0	<NULL>
+1193	1	Avon Books
+1194	1	Avon Books
+1195	0	<NULL>
+1196	1	Alfred a Knopf Inc
+1197	1	Avon Books
+1198	0	<NULL>
+1199	0	<NULL>
+1200	1	Avon Books
+1201	1	Avon Books
+1202	1	Little Brown & Co
+1203	1	Joy st Books
+1204	1	Little Brown & Co
+1205	1	Addison-Wesley
+1206	1	Little Brown & Co
+1207	1	Longman Pub Group
+1208	1	Little Brown & Co
+1209	1	Benjamin-Cummings Pub Co
+1210	1	Little Brown & Co
+1211	1	Little Brown & Co
+1212	1	Little, Brown
+1213	1	Little Brown & Co
+1214	1	Little Brown & Co
+1215	1	Little, Brown
+1216	1	Little Brown & Co
+1217	1	Little Brown & Co
+1218	1	Little Brown & Co
+1219	1	Little Brown & Co
+1220	1	Sierra Club Books
+1221	1	St Martins Pr
+1222	1	Minotaur Books
+1223	1	Picador USA
+1224	1	Tor Books
+1225	1	Tor Books
+1226	1	St Martins Pr
+1227	1	Minotaur Books
+1228	1	St Martins Pr
+1229	1	St Martins Pr
+1230	1	Bedford/st Martins
+1231	1	Griffin
+1232	1	Tor Books
+1233	1	St Martins Pr
+1234	1	St Martins Pr
+1235	1	Tor Books
+1236	1	Forge
+1237	1	Minotaur Books
+1238	1	Picador USA
+1239	1	St Martins Pr
+1240	1	Zondervan
+1241	1	St Martins Pr
+1242	1	St. Martin's Press
+1243	1	Zondervan
+1244	1	St Martins Pr
+1245	1	St Martins Pr
+1246	1	St Martins Pr
+1247	1	St Martins Pr
+1248	1	St Martins Pr
+1249	1	St Martins Pr
+1250	1	Palgrave Macmillan
+1251	1	St Martins Pr
+1252	1	St Martins Pr
+1253	1	St Martins Pr
+1254	1	St Martins Pr
+1255	1	Zondervan
+1256	1	St Martins Pr
+1257	1	Da Capo Pr
+1258	1	Yale Univ Pr
+1259	1	Yale Univ Pr
+1260	1	Other Distribution
+1261	0	<NULL>
+1262	1	Yale Univ Pr
+1263	1	Yale Univ Pr
+1264	1	Yale Univ Pr
+1265	1	Yale Univ Pr
+1266	1	Yale Univ Pr
+1267	1	Yale Univ Pr
+1268	0	<NULL>
+1269	1	Yale Univ Pr
+1270	1	Yale Univ Pr
+1271	1	Yale Univ Pr
+1272	1	Yale Univ Pr
+1273	1	Yale Univ Pr
+1274	1	Yale Univ Pr
+1275	1	Yale Univ Pr
+1276	1	Golden Pr
+1277	1	Yale Univ Pr
+1278	1	Indiana Univ Pr
+1279	0	<NULL>
+1280	1	Indiana Univ Pr
+1281	1	Hamilton
+1282	1	Univ of Illinois Pr
+1283	1	Univ of Illinois Pr
+1284	1	Univ of Texas Pr
+1285	1	Indiana Univ Pr
+1286	1	Mit Pr
+1287	1	Mit Pr
+1288	1	Indiana Univ Pr
+1289	1	Indiana Univ Pr
+1290	1	Mit Pr
+1291	1	Pennsylvania State Univ Pr
+1292	0	<NULL>
+1293	1	Univ of Illinois Pr
+1294	1	Weidenfeld and Nicolson
+1295	1	Univ of Washington Pr
+1296	0	<NULL>
+1297	0	<NULL>
+1298	1	Skira
+1299	1	Columbia Univ Pr
+1300	1	Espasa
+1301	1	Hong Kong Univ Pr
+1302	1	Univ of Chicago Pr
+1303	1	Castalia
+1304	1	Selector
+1305	1	Editorial Si-Mar
+1306	1	Univ of Chicago Pr
+1307	1	Cartei & Bianchi Editori
+1308	1	Juan Granica S A
+1309	1	Alfaguara, S.A. Grupo Santillana,
+1310	1	Alianza Editorial Sa
+1311	1	Yoga Pubns Trust
+1312	1	Argos Vergara
+1313	1	Columbia Univ Pr
+1314	1	Univ of Chicago Pr
+1315	1	Emece Editores
+1316	1	Playor
+1317	1	Editorial Planeta
+1318	1	Columbia Univ Pr
+1319	1	Subterranean
+1320	1	Subterranean
+1321	1	Taschen America Llc
+1322	1	Karthala
+1323	1	Key College Pub
+1324	1	Centre Pompidou
+1325	1	Presses universitaires de France
+1326	1	Haus Pub
+1327	1	Intl Artist Pub Inc
+1328	1	Luath Pr
+1329	1	Prestel Pub
+1330	0	<NULL>
+1331	1	A. Michel
+1332	1	Scalo Verlag Ac
+1333	1	Acatos Pub
+1334	1	Bard
+1335	1	Prestige Pubs
+1336	1	Giles De LA Mare Pub Ltd
+1337	1	Rigel
+1338	1	Pyrczak Pub
+1339	1	Magni Co
+1340	1	Master Point Pr
+1341	1	St Augustine Pr Inc
+1342	1	Drawn & Quarterly Pubns
+1343	1	Ash Tree Pub
+1344	1	Keep Coming Back/Puddle Dancer Pr
+1345	1	Parallax Pr
+1346	1	Green Books
+1347	1	Intrigue Pr
+1348	0	<NULL>
+1349	1	Otto Penzler Books
+1350	1	Advanced Vivarium Systems
+1351	1	Paper Tiger
+1352	0	<NULL>
+1353	1	Intrigue Pr
+1354	1	Harpercollins
+1355	1	Allen & Unwin Pty., Limited
+1356	1	Harvill Pr
+1357	1	New Harbinger Pubns Inc
+1358	0	<NULL>
+1359	1	I B Tauris & Co Ltd
+1360	1	Crowood Pr
+1361	1	Audio Scholar
+1362	0	<NULL>
+1363	1	Perseverance Pr
+1364	1	I B Tauris & Co Ltd
+1365	1	World Scientific Pub Co Inc
+1366	1	Lonely Planet
+1367	0	<NULL>
+1368	1	Verso Books
+1369	1	Whispering Coyote Pr
+1370	1	Photographers Inst Pr
+1371	1	Harvill Pr
+1372	1	New World Pubns Inc
+1373	1	A K Pr Distribution
+1374	1	Nautical & Aviation Pub Co of Amer
+1375	1	Reaktion Books
+1376	1	Verso Books
+1377	1	Reaktion Books
+1378	0	<NULL>
+1379	0	<NULL>
+1380	1	Academy Editions Ltd
+1381	0	<NULL>
+1382	1	Serpents Tail
+1383	1	Zed Books
+1384	1	Aurum Pr Ltd
+1385	0	<NULL>
+1386	1	Cadogan Books
+1387	1	Harper Design Intl
+1388	1	Crowood Pr
+1389	0	<NULL>
+1390	1	Rudolf Steiner Pr
+1391	1	St Martins Pr
+1392	1	Antique Collectors Club Ltd
+1393	1	Everyman's Library Ltd
+1394	0	<NULL>
+1395	1	Scarlet Pr
+1396	1	New Pr
+1397	1	Quarry Books
+1398	1	Osprey Pub Co
+1399	1	Penguin Pr
+1400	1	Lonely Planet
+1401	1	Collins & Brown
+1402	1	Osprey Pub Co
+1403	1	Shoemaker & Hoard
+1404	0	<NULL>
+1405	0	<NULL>
+1406	1	Riverhead Books
+1407	1	Canongate
+1408	1	Vanguard Pr
+1409	1	Portable Pr
+1410	1	Bloomsbury Pub Plc USA
+1411	1	Potomac Books Inc
+1412	1	Lyons Pr
+1413	1	Texere
+1414	1	J P Tarcher
+1415	1	Counterpoint
+1416	1	Society for Human Resource
+1417	1	Monacelli Pr
+1418	1	Crossway Books
+1419	1	Public Affairs
+1420	1	Sounds True
+1421	1	Wildside Pr
+1422	1	Lindisfarne Pr
+1423	1	Overlook Pr
+1424	1	Riveroak Pub
+1425	1	Overlook Pr
+1426	1	Multnomah Pub
+1427	1	Knickerbocker Pr
+1428	1	Passeggiata Pr
+1429	1	Deseret Book Co
+1430	1	Ten Speed Pr
+1431	1	Waterbrook Pr
+1432	1	Waterbrook Pr
+1433	1	Riverhead Books
+1434	1	Black Dog & Leventhal Pub
+1435	1	Waterbrook Pr
+1436	1	Riverhead Books
+1437	1	Waterbrook Pr
+1438	1	Ten Speed Pr
+1439	1	Navpress Pub Group
+1440	1	Storey Books
+1441	1	Riverhead Books
+1442	1	Riverhead Books
+1443	1	Riverhead Books
+1444	0	<NULL>
+1445	1	Artisan
+1446	1	Kensington Pub Corp
+1447	1	Harrison House Inc
+1448	1	Chapters Pub Ltd
+1449	1	Multnomah Pub
+1450	0	<NULL>
+1451	1	Ten Speed Pr
+1452	1	Hampton Roads Pub Co Inc
+1453	1	Univ of South Carolina Pr
+1454	1	Princeton Architectural Pr
+1455	1	Longstreet Pr
+1456	1	David R Godine Pub
+1457	1	Ivan R Dee
+1458	1	Longstreet Pr
+1459	1	Thunder's Mouth Pr
+1460	1	That Patchwork Place
+1461	1	New Pr
+1462	0	<NULL>
+1463	1	Soho Pr Inc
+1464	1	Thunder's Mouth Pr
+1465	1	Roberts Rinehart Pub
+1466	1	Barnes & Noble Imports
+1467	1	Crystal Clarity Pubs
+1468	1	Roberts Rinehart Pub
+1469	1	Lawrence Hill Books
+1470	1	Island Pr
+1471	1	Arcade Pub
+1472	1	Stewart Tabori & Chang
+1473	1	Arbor House Pub Co
+1474	1	Good Books
+1475	1	Graphic Arts Center Pub Co
+1476	1	Cowley Pubns
+1477	1	Naval Inst Pr
+1478	1	Arcade Pub
+1479	1	Paragon House
+1480	1	Lyons Pr
+1481	1	Smithsonian Inst Pr
+1482	1	Naval Inst Pr
+1483	1	Lynne Rienner Pub
+1484	1	Thunder's Mouth Pr
+1485	1	Taunton Pr
+1486	1	Donald I Fine
+1487	1	Closson Pr
+1488	1	Lyons Pr
+1489	1	Wizards of the Coast
+1490	1	Cowley Pubns
+1491	1	Prima Pub
+1492	1	Paj Pubn
+1493	1	Kids Can Press
+1494	1	Robert Davies Pub
+1495	1	Howard Pub Co
+1496	1	W B Saunders Co
+1497	1	Crossway Books
+1498	1	Key Porter Books
+1499	1	Univ of Calgary Pr
+1500	1	Simon & Schuster
+1501	1	Free Pr
+1502	1	Mira Books
+1503	0	<NULL>
+1504	1	Kessinger Pub
+1505	1	Harbour Pub Co
+1506	1	Mira Books
+1507	1	Random House Inc
+1508	1	Rutledge Hill Pr
+1509	1	Random House Inc
+1510	0	<NULL>
+1511	1	Vintage Books
+1512	1	Hyperion Books
+1513	1	Plaza Y Janes Mexico
+1514	1	Hyperion Books
+1515	1	Miramax
+1516	1	Anchor Books
+1517	1	Alfred a Knopf Inc
+1518	1	Hay House Inc
+1519	1	Heinemann/Raintree
+1520	0	<NULL>
+1521	1	Merry Lion Pr
+1522	1	Vintage Books
+1523	1	Hay House Inc
+1524	1	Anchor Books
+1525	1	Anchor Books
+1526	1	Alfred a Knopf Inc
+1527	1	Harmony Books
+1528	1	Three Rivers Pr
+1529	1	Crown Pub
+1530	1	Vickie Stringer Pubns
+1531	1	D.P. Williams & Associates
+1532	1	Palgrave Macmillan
+1533	1	Postma Pub
+1534	0	<NULL>
+1535	1	Fredric H Jones & Assocs
+1536	1	Abigon Pr
+1537	1	Cry Baby Books & Entertainment
+1538	1	Joseph Gilbey
+1539	1	Grand Old Opry
+1540	1	Nancy Eos
+1541	1	Santa & the Christ Child
+1542	1	Frontback Books
+1543	1	F J Roberts Pub
+1544	1	Sartorial Press Publications
+1545	1	Fearless Books
+1546	1	Chef John Folse & Co
+1547	1	Cauldron Pubns
+1548	1	Lindisfarne Pr
+1549	1	Widewing Pub
+1550	1	Saraland Pr/Robert m Hicklin Jr inc
+1551	1	Zen Meditation Center
+1552	1	Integral Pr
+1553	0	<NULL>
+1554	1	Thomas Pubns
+1555	0	<NULL>
+1556	1	Univ Science Books
+1557	1	Orcas Pub Co
+1558	1	Christian Fellowship Pubns
+1559	1	Zone Books
+1560	1	Zone Books
+1561	1	Taunton Pr
+1562	1	Toat Press
+1563	1	Clogher Historical Society
+1564	1	Toat Press
+1565	1	Meyer Stone & Co
+1566	1	Oak Knoll Pr
+1567	1	Combined Books
+1568	1	Ultralight Publications
+1569	1	ACP Publishing Pty, Limited
+1570	1	Lepidopterists' Society
+1571	1	Pictorial Histories Pub Co
+1572	1	Inner City Books
+1573	1	Ox Bow Pr
+1574	1	Parabola Books
+1575	1	Health Plus Pub
+1576	1	C & T Pub
+1577	1	Fox & Wilkes
+1578	1	E C W Pr
+1579	1	Inner City Books
+1580	1	Gynergy Books/Ragweed Pr
+1581	1	Adama Books
+1582	1	Rue Morgue
+1583	1	Inst of Karmic Guidance
+1584	1	Amer Federation of Arts
+1585	1	Key Porter Books
+1586	1	Fisher Inst
+1587	1	Belier Pr
+1588	1	Adventures Unlimited Pr
+1589	1	Taunton Pr
+1590	1	Theytus Books
+1591	1	Quorum Books
+1592	1	Ignatius Press
+1593	1	Compcare Pubns
+1594	1	Tan Books & Pub
+1595	1	St Vladimirs Seminary Pr
+1596	1	Guilford Pubn
+1597	1	Hp Books
+1598	1	Regnery Pub
+1599	1	Ronin Pub
+1600	1	Tan Books & Pub
+1601	1	Bridge Logos Pub
+1602	1	Gateway Books
+1603	1	Element Books Ltd
+1604	1	Ten Speed Press
+1605	1	Workman Pub Co
+1606	0	<NULL>
+1607	1	Regnery Pub
+1608	1	South End Pr
+1609	1	Girl Scouts of the USA
+1610	1	Crossway Books
+1611	1	Solomon R Guggenheim Museum
+1612	1	Oberon Press
+1613	1	Talonbooks Ltd
+1614	1	Crossway Books
+1615	1	Kalmbach Pub Co
+1616	1	Bbs Pub Corp
+1617	1	Bob Jones Univ Pr
+1618	1	New Press
+1619	1	Crossway Books
+1620	1	Mysterious Pr
+1621	1	Book Pub Co
+1622	1	Mysterious Pr
+1623	1	Bookcraft Pubs
+1624	1	House of Anansi Press
+1625	1	Rawson Assoc
+1626	1	Unicorn Pub House
+1627	1	Orbis Books
+1628	1	Timber Pr
+1629	1	Prometheus Books
+1630	1	Bradbury Press
+1631	1	Gibbs Smith
+1632	1	Arbor House
+1633	1	Orbis Books
+1634	1	Victor Books
+1635	1	Univ Pr of Mississippi
+1636	1	William Morrow & Co
+1637	1	Our Sunday Visitor
+1638	1	Multnomah Pub
+1639	1	Rodale Pr
+1640	1	Taylor Pub
+1641	1	Ecco Pr
+1642	1	Timber Pr
+1643	1	Overlook Pr
+1644	1	Peter Pauper Pr
+1645	1	Univ of Nevada Pr
+1646	1	Smithsonian Inst Pr
+1647	1	Hobby House Pr Inc
+1648	1	Rodale Pr
+1649	1	Washington State Univ Pr
+1650	1	Hallmark Cards
+1651	1	Chronicle Books Llc
+1652	1	Intervarsity Pr
+1653	1	Texas Christian Univ Pr
+1654	1	Arbor House Pub Co
+1655	1	Univ of Delaware Pr
+1656	1	Aurora Publishers
+1657	1	Harvard Business School Pr
+1658	1	Presbyterian and Reformed Pub Co
+1659	1	Jason Aronson Inc
+1660	1	Shambhala Pubns
+1661	1	Jason Aronson Inc
+1662	1	Kent State Univ Pr
+1663	1	H. Shaw
+1664	1	Univ of Nevada Pr
+1665	1	Atlantic Monthly Pr
+1666	1	Naval Inst Pr
+1667	1	Assn for Supervision & Curriculum
+1668	0	<NULL>
+1669	1	Gryphon House
+1670	1	Assn for Supervision & Curriculum
+1671	1	Sierra Club Books
+1672	1	Mercer Univ Pr
+1673	1	Sierra Club Books
+1674	1	Museum of Modern Art
+1675	1	Playboy Press
+1676	1	Arlington House Publishers
+1677	1	Africa World Press
+1678	1	Southern Methodist Univ Pr
+1679	1	Univ of Tennessee Pr
+1680	1	Howard Fertig Pub
+1681	1	Atlantic Monthly Pr
+1682	1	Warman Pub Co
+1683	1	Kodansha Amer Inc
+1684	1	Canongate Pub Ltd
+1685	1	J. Donald Publishers
+1686	1	Independent Pub Group
+1687	1	Herald Pr
+1688	1	W Pub Group
+1689	1	W Pub Group
+1690	1	Shire Pubns
+1691	1	Wisdom Pubns
+1692	1	Andrews McMeel Pub
+1693	1	Fairleigh Dickinson Univ Pr
+1694	1	Tyndale House Pub
+1695	1	Thomas Nelson Inc
+1696	1	Spokesman Pr
+1697	1	CRC Pr I Llc
+1698	1	Virago Pr
+1699	1	Tyndale House Pub
+1700	1	Nelson Reference & Electronic Pub
+1701	1	Witherby
+1702	1	Tyndale House Pub
+1703	1	Tyndale House Pub
+1704	1	Kensington Pub Corp
+1705	1	Pub Overstock Unlimited Inc
+1706	1	Continuum Intl Pub Group
+1707	1	Smithmark Pub
+1708	1	Duke University Press
+1709	0	<NULL>
+1710	1	Intervarsity Pr
+1711	1	Continuum Intl Pub Group
+1712	1	Univ of Missouri Pr
+1713	1	Watson-Guptill Pubns
+1714	1	Crossroad Pub Co
+1715	1	Holiday House
+1716	1	Watson-Guptill Pubns
+1717	1	Univ of Missouri Pr
+1718	1	Regal Books
+1719	1	Quest Books
+1720	1	Dramatist's Play Service
+1721	1	Holiday House
+1722	1	Continuum Intl Pub Group
+1723	1	Catholic Univ of Amer Pr
+1724	1	Univ Pr of Kentucky
+1725	1	Bulfinch Pr
+1726	1	Univ Pr of Kentucky
+1727	1	Liturgical Pr
+1728	1	Univ of Minnesota Pr
+1729	1	Random House Inc
+1730	1	Lyle Stuart
+1731	1	New York Graphic Society
+1732	1	Facts on File
+1733	1	Times Books
+1734	1	Morehouse Pub Co
+1735	1	Univ of Minnesota Pr
+1736	1	Wesleyan Univ Pr
+1737	1	Univ of Minnesota Pr
+1738	1	Random House Inc
+1739	1	Ballantine Books
+1740	1	Univ of Arizona Pr
+1741	1	Times Books
+1742	1	Univ of Virginia Pr
+1743	1	Bulfinch Pr
+1744	1	Times Books
+1745	1	Univ of Virginia Pr
+1746	1	Tor Books
+1747	1	Harry N Abrams Inc
+1748	1	Tor Books
+1749	1	Harry N Abrams Inc
+1750	1	Lea & Febiger
+1751	1	Tor Books
+1752	1	Tor Books
+1753	1	New Directions
+1754	1	Tor Books
+1755	1	Harry N Abrams Inc
+1756	1	Stackpole Books
+1757	1	Harry N Abrams Inc
+1758	1	Harry N Abrams Inc
+1759	1	Harry N Abrams Inc
+1760	1	Victoria & Albert Pubns
+1761	1	Tor Books
+1762	1	Harry N Abrams Inc
+1763	1	Forge
+1764	1	New Directions
+1765	1	Univ of Pennsylvania Pr
+1766	1	Chronicle Books Llc
+1767	1	Tor Books
+1768	1	Stackpole Books
+1769	1	Tor Books
+1770	1	Stackpole Books
+1771	1	Harry N Abrams Inc
+1772	1	Univ of Oklahoma Pr
+1773	1	Univ of North Carolina Pr
+1774	1	Louisiana State Univ Pr
+1775	1	Carlton Pr
+1776	1	Sterling Pub Co Inc
+1777	1	Univ of North Carolina Pr
+1778	1	Beacon Pr
+1779	1	Time Life Education
+1780	1	Sterling Pub Co Inc
+1781	1	Northwestern Univ Pr
+1782	1	Citadel Pr
+1783	1	Sterling Pub Co Inc
+1784	1	George Braziller
+1785	1	Sterling Pub Co Inc
+1786	1	Time Life Education
+1787	1	Contemporary Books
+1788	1	Stanford Univ Pr
+1789	1	Stanford Univ Pr
+1790	1	Henry Holt & Co
+1791	1	Times Books
+1792	1	Henry Holt & Co
+1793	1	Henry Holt & Co
+1794	1	Henry Holt & Co
+1795	1	Ivy Books
+1796	1	Henry Holt & Co
+1797	1	Sage Pubns
+1798	1	Henry Holt & Co
+1799	1	Sage Books
+1800	1	Dutton Childrens Books
+1801	1	Metropolitan Books
+1802	1	Henry Holt & Co
+1803	1	Sage Pubns
+1804	1	Henry Holt & Co
+1805	1	Dial Books for Young Readers
+1806	1	Henry Holt & Co
+1807	1	Eerdmans Pub Co
+1808	1	Eerdmans Pub Co
+1809	1	Univ of Nebraska Pr
+1810	1	Walker & Co
+1811	1	Grove Pr
+1812	1	Moody Press
+1813	1	Univ of Toronto Pr
+1814	1	Univ of Nebraska Pr
+1815	1	Grove Pr
+1816	1	Grove Pr
+1817	1	Eerdmans Pub Co
+1818	1	Eerdmans Pub Co
+1819	1	Moody Pub
+1820	1	Atlantic Monthly Pr
+1821	1	Univ of Toronto Pr
+1822	1	Univ of Toronto Pr
+1823	1	Univ of Toronto Pr
+1824	1	Walker & Co
+1825	1	Univ of Nebraska Pr
+1826	1	Grove Pr
+1827	1	Eerdmans Pub Co
+1828	1	W.B. Eerdmans
+1829	1	Univ of Nebraska Pr
+1830	1	Cornell Univ Pr
+1831	1	Haworth Maltreatment & Trauma Pr
+1832	1	Baker Pub Group
+1833	1	Fortress Pr
+1834	1	Baker Academic
+1835	1	Augsburg Fortress Pub
+1836	1	Augsburg Fortress Pub
+1837	1	Abbeville Pr
+1838	1	Cornell Univ Pr
+1839	1	F. H. Revell Co
+1840	1	Johns Hopkins Univ Pr
+1841	1	Baker Academic
+1842	1	Comstock Pub Assoc
+1843	1	Fleming H Revell Co
+1844	1	Johns Hopkins Univ Pr
+1845	1	Fortress Pr
+1846	1	Fortress Pr
+1847	1	Heritage Books
+1848	1	Cornell Univ Pr
+1849	1	Edwin Mellen Pr
+1850	1	Five Star
+1851	1	Carroll & Graf Pub
+1852	1	Book Sales
+1853	1	Book Sales
+1854	1	McClelland & Stewart Ltd
+1855	1	McClelland & Stewart Ltd
+1856	1	Hyperion
+1857	1	Pinnacle Books
+1858	1	Presses de l'Universite Laval
+1859	1	McClelland & Stewart
+1860	1	Pinnacle Books
+1861	1	Lippincott Williams & Wilkins
+1862	1	David C Cook
+1863	1	Thomas Nelson Inc
+1864	1	Thomas Nelson Inc
+1865	1	Thomas Nelson Inc
+1866	1	Candlewick Pr
+1867	1	Running Pr Book Pub
+1868	1	John Wiley & Sons Inc
+1869	1	McClelland and Stewart
+1870	1	Tor Books
+1871	1	Doubleday
+1872	1	John Wiley & Sons Inc
+1873	1	Broadway Books
+1874	1	Broadway Books
+1875	1	Schiffer Pub Ltd
+1876	1	Broadway Books
+1877	1	Tor Books
+1878	1	For Dummies
+1879	1	Tor Books
+1880	0	<NULL>
+1881	1	Broadway Books
+1882	1	Tor Books
+1883	1	Bethany House Pub
+1884	1	Allison & Busby
+1885	0	<NULL>
+1886	0	<NULL>
+1887	0	<NULL>
+1888	0	<NULL>
+1889	1	Sutton Pub Ltd
+1890	0	<NULL>
+1891	0	<NULL>
+1892	0	<NULL>
+1893	1	Orion Pub Co
+1894	0	<NULL>
+1895	0	<NULL>
+1896	1	Orion Pub Co
+1897	0	<NULL>
+1898	1	Workman Pub Co
+1899	0	<NULL>
+1900	0	<NULL>
+1901	1	Shire Pubns
+1902	1	Workman Pub Co
+1903	0	<NULL>
+1904	1	Prima Pub
+1905	0	<NULL>
+1906	0	<NULL>
+1907	1	Sutton Pub Ltd
+1908	0	<NULL>
+1909	0	<NULL>
+1910	1	Prima Pub
+1911	0	<NULL>
+1912	1	Free Pr
+1913	0	<NULL>
+1914	1	Pocket Books
+1915	1	Pocket Books
+1916	1	Simon & Schuster
+1917	1	Pocket Books
+1918	1	Scribner
+1919	1	Scribner
+1920	1	Bloomsbury Pub Ltd
+1921	1	Pocket Books
+1922	0	<NULL>
+1923	0	<NULL>
+1924	1	Simon & Schuster Australia
+1925	0	<NULL>
+1926	1	Frederick Warne & Co
+1927	1	Simon & Schuster
+1928	1	Simon & Schuster
+1929	0	<NULL>
+1930	1	Free Pr
+1931	0	<NULL>
+1932	1	Prentice Hall Pr
+1933	1	Free Pr
+1934	1	Andrews McMeel Pub
+1935	1	John Murray
+1936	1	Simon & Schuster
+1937	1	Harcourt College Pub
+1938	1	Frederick Warne & Co
+1939	1	Simon & Schuster
+1940	1	Scribner
+1941	1	Andrews McMeel Pub
+1942	0	<NULL>
+1943	0	<NULL>
+1944	1	Simon & Schuster
+1945	1	Simon & Schuster
+1946	1	Da Capo Pr
+1947	1	Andrews McMeel Pub
+1948	1	Simon & Schuster
+1949	1	Harperstudio
+1950	1	Beacon Pr
+1951	1	Great Source Education Group Inc
+1952	1	Great Source Education Group Inc
+1953	1	Great Source Education Group Inc
+1954	1	Houghton Mifflin College Div
+1955	1	Ballantine Books
+1956	1	Dawn Horse Pr
+1957	0	<NULL>
+1958	1	Andrews McMeel Pub
+1959	1	Workman Pub Co
+1960	1	Blackstone Audio Inc
+1961	1	Clarkson Potter
+1962	1	Punto De Lectura
+1963	1	Little Brown & Co
+1964	1	Little Brown & Co
+1965	1	Listening Library
+1966	1	Math Solutions
+1967	1	Hachette Audio
+1968	1	Collins
+1969	1	Penguin Group USA
+1970	1	Penguin Group USA
+1971	1	Penguin Group USA
+1972	1	Melville House Pub
+1973	1	Harperaudio
+1974	1	Harpercollins
+1975	1	Oxford Univ Pr
+1976	0	<NULL>
+1977	1	Teachers College Pr
+1978	1	Bt Bound
+1979	1	Harperbusiness
+1980	1	Picture Window Books
+1981	1	Kessinger Pub
+1982	1	Iuniverse Inc
+1983	1	Debolsillo
+1984	0	<NULL>
+1985	1	Touchstone Books
+1986	1	Grand Central Pub
+1987	1	Random House Inc
+1988	1	Harper San Francisco
+1989	1	Riverhead Books
+1990	0	<NULL>
+1991	1	Brilliance Audio
+1992	1	Multnomah Pub
+1993	1	Harpercollins
+1994	1	Harperfestival
+1995	1	Harpercollins Childrens Books
+1996	1	Intervarsity Pr
+1997	1	Harper Perennial Modern Classics
+1998	1	Atria Books
+1999	1	Prentice Hall

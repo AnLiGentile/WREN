@@ -1,0 +1,2002 @@
+﻿movie	yahoo	genre
+2000	1924	1924	691
+0000	1	Action/Adventure, Drama and Thriller
+0001	1	Comedy, Drama, Romance and Adaptation
+0002	1	Action/Adventure and Comedy
+0003	1	Comedy, Drama and Teen
+0004	1	Action/Adventure, Comedy, Kids/Family, Romance and Animation
+0005	1	Drama and Romance
+0006	1	Comedy, Drama, Romance and Crime/Gangster
+0007	1	Action/Adventure and Comedy
+0008	1	Comedy, Drama, Romance and Teen
+0009	1	Comedy
+0010	1	Comedy, Drama and Adaptation
+0011	1	Action/Adventure, Comedy and Thriller
+0012	1	Drama and Adaptation
+0013	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror and Thriller
+0014	1	Comedy, Musical/Performing Arts and Teen
+0015	1	Comedy and Romance
+0016	1	Comedy and Kids/Family
+0017	1	Comedy, Adaptation and Teen
+0018	1	Action/Adventure, Comedy, Kids/Family and Adaptation
+0019	1	Comedy, Romance and Remake
+0020	1	Comedy, Adaptation and Politics/Religion
+0021	1	Art/Foreign, Comedy, Drama and Adaptation
+0022	1	Comedy, Musical/Performing Arts and Science Fiction/Fantasy
+0023	1	Comedy and Romance
+0024	1	Comedy, Drama and Adaptation
+0025	1	Comedy and Drama
+0026	1	Suspense/Horror, Thriller, Sequel and Teen
+0027	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Adaptation
+0028	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+0029	1	Drama, Thriller and Adaptation
+0030	0	<NULL>
+0031	1	Drama
+0032	1	Drama and Thriller
+0033	1	Comedy and Romance
+0034	1	Comedy and Drama
+0035	1	Action/Adventure, Comedy, Science Fiction/Fantasy and Adaptation
+0036	1	Comedy and Romance
+0037	1	Drama and Adaptation
+0038	1	Comedy, Drama and Science Fiction/Fantasy
+0039	1	Action/Adventure, Comedy, Drama and Romance
+0040	1	Action/Adventure, Comedy, Drama, Romance and Adaptation
+0041	1	Action/Adventure, Kids/Family, Romance, Animation and Adaptation
+0042	1	Art/Foreign and Drama
+0043	1	Action/Adventure, Drama and War
+0044	1	Drama and Thriller
+0045	1	Comedy and Musical/Performing Arts
+0046	1	Drama and Romance
+0047	1	Drama and Biopic
+0048	1	Action/Adventure and Remake
+0049	1	Art/Foreign, Comedy, Musical/Performing Arts and Romance
+0050	1	Action/Adventure, Suspense/Horror, Thriller and Adaptation
+0051	1	Comedy and Drama
+0052	1	Action/Adventure, Comedy and Kids/Family
+0053	1	Comedy, Romance and Remake
+0054	1	Comedy, Drama, Suspense/Horror and Adaptation
+0055	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Teen
+0056	1	Action/Adventure, Drama, Romance, Western and Adaptation
+0057	1	Comedy
+0058	1	Action/Adventure, Kids/Family, Musical/Performing Arts, Animation, Adaptation and Remake
+0059	1	Drama and Romance
+0060	1	Drama
+0061	1	Art/Foreign, Drama, Musical/Performing Arts, Romance and Thriller
+0062	1	Action/Adventure and Thriller
+0063	1	Comedy, Drama and Romance
+0064	1	Comedy, Musical/Performing Arts and Adaptation
+0065	1	Drama
+0066	1	Action/Adventure, Drama, Thriller and Sequel
+0067	1	Action/Adventure, Comedy, Drama, Romance, Sports and Teen
+0068	1	Action/Adventure, Drama, Kids/Family and Adaptation
+0069	1	Comedy and Musical/Performing Arts
+0070	1	Action/Adventure, Comedy, Science Fiction/Fantasy, Western, Adaptation and Politics/Religion
+0071	1	Art/Foreign, Drama, Romance and Adaptation
+0072	1	Comedy, Romance, Adaptation and Remake
+0073	1	Comedy and Musical/Performing Arts
+0074	1	Comedy and Documentary
+0075	1	Drama, Kids/Family, Musical/Performing Arts, Romance, Animation, Adaptation and Remake
+0076	1	Drama, Adaptation and Biopic
+0077	1	Comedy, Romance and Thriller
+0078	1	Art/Foreign, Kids/Family, Science Fiction/Fantasy and Adaptation
+0079	1	Comedy and Romance
+0080	1	Comedy, Drama and Romance
+0081	1	Drama, Crime/Gangster and Biopic
+0082	1	Comedy, Kids/Family, Adaptation and Biopic
+0083	1	Comedy, Drama and Crime/Gangster
+0084	1	Drama, Romance and Adaptation
+0085	1	Comedy, Drama, Kids/Family and Science Fiction/Fantasy
+0086	1	Suspense/Horror, Thriller and Teen
+0087	1	Comedy
+0088	1	Suspense/Horror, Thriller and Teen
+0089	1	Comedy, Kids/Family, Science Fiction/Fantasy, Adaptation and Remake
+0090	1	Action/Adventure, Drama, Science Fiction/Fantasy, Suspense/Horror and Thriller
+0091	1	Drama, Science Fiction/Fantasy and Crime/Gangster
+0092	1	Action/Adventure, Drama and Kids/Family
+0093	1	Drama, Musical/Performing Arts and Romance
+0094	1	Action/Adventure, Kids/Family and Sequel
+0095	1	Action/Adventure, Comedy, Drama and Science Fiction/Fantasy
+0096	1	Drama
+0097	1	Action/Adventure, Drama and Adaptation
+0098	1	Drama
+0099	1	Drama and Romance
+0100	1	Drama and Thriller
+0101	1	Drama, Suspense/Horror, Thriller, Adaptation and Teen
+0102	1	Art/Foreign and Drama
+0103	1	Comedy, Adaptation, Biopic and Teen
+0104	1	Action/Adventure, Comedy, Drama, Thriller and Crime/Gangster
+0105	1	Comedy
+0106	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0107	1	Drama and Romance
+0108	1	Comedy, Drama and Biopic
+0109	1	Action/Adventure, Comedy, Science Fiction/Fantasy and Adaptation
+0110	1	Drama and Crime/Gangster
+0111	1	Action/Adventure, Drama, Kids/Family and Remake
+0112	1	Comedy and Drama
+0113	1	Drama and Romance
+0114	1	Comedy and Science Fiction/Fantasy
+0115	1	Comedy and Romance
+0116	1	Action/Adventure, Thriller, Crime/Gangster and Politics/Religion
+0117	1	Action/Adventure, Comedy, Thriller and Crime/Gangster
+0118	1	Comedy, Drama and Musical/Performing Arts
+0119	1	Comedy, Suspense/Horror, Thriller and Teen
+0120	1	Drama, Musical/Performing Arts and Biopic
+0121	1	Comedy and Romance
+0122	1	Action/Adventure, Comedy and Romance
+0123	1	Action/Adventure, Science Fiction/Fantasy, Adaptation and Sequel
+0124	0	<NULL>
+0125	0	<NULL>
+0126	1	Drama, Romance, Thriller and Adaptation
+0127	1	Comedy, Thriller and Crime/Gangster
+0128	1	Drama and Adaptation
+0129	1	Drama, Romance, Adaptation and Remake
+0130	1	Documentary
+0131	1	Drama, Science Fiction/Fantasy and Adaptation
+0132	1	Comedy, Drama, Kids/Family, Romance and Adaptation
+0133	1	Drama, Thriller and Adaptation
+0134	1	Comedy, Drama, Musical/Performing Arts and Romance
+0135	1	Art/Foreign and Drama
+0136	1	Comedy and Drama
+0137	1	Action/Adventure and Thriller
+0138	1	Art/Foreign, Drama and Adaptation
+0139	1	Comedy and Sports
+0140	1	Action/Adventure, Comedy and Drama
+0141	1	Action/Adventure, Kids/Family, Science Fiction/Fantasy and Animation
+0142	1	Art/Foreign, Comedy and Drama
+0143	1	Comedy, Drama, Crime/Gangster and Adaptation
+0144	1	Comedy
+0145	1	Comedy, Drama and Musical/Performing Arts
+0146	1	Comedy, Drama and Thriller
+0147	1	Drama and Thriller
+0148	1	Action/Adventure and Comedy
+0149	1	Comedy
+0150	1	Comedy
+0151	1	Suspense/Horror
+0152	1	Action/Adventure, Science Fiction/Fantasy and Sequel
+0153	1	Action/Adventure
+0154	1	Comedy
+0155	1	Comedy
+0156	1	Western
+0157	1	Action/Adventure, Drama, Science Fiction/Fantasy and Thriller
+0158	1	Drama and Crime/Gangster
+0159	1	Drama and Thriller
+0160	1	Comedy, Drama and Teen
+0161	1	Comedy and Drama
+0162	1	Action/Adventure, Art/Foreign and Comedy
+0163	1	Comedy, Sequel and Sports
+0164	1	Drama and Sports
+0165	1	Drama and Biopic
+0166	1	Comedy and Science Fiction/Fantasy
+0167	1	Drama and Romance
+0168	1	Drama
+0169	1	Action/Adventure, Drama, Science Fiction/Fantasy and Thriller
+0170	1	Action/Adventure, Comedy, Drama and Science Fiction/Fantasy
+0171	1	Art/Foreign and Drama
+0172	1	Comedy and Drama
+0173	1	Action/Adventure, Comedy and Romance
+0174	1	Suspense/Horror
+0175	1	Suspense/Horror
+0176	1	Suspense/Horror and Thriller
+0177	1	Comedy
+0178	1	Comedy, Drama and Biopic
+0179	1	Action/Adventure, Thriller and Crime/Gangster
+0180	1	Suspense/Horror
+0181	1	Drama and War
+0182	1	Action/Adventure, Crime/Gangster and Biopic
+0183	1	Drama, Romance, Adaptation and War
+0184	1	Drama, Thriller and Crime/Gangster
+0185	1	Comedy
+0186	1	Action/Adventure and Musical/Performing Arts
+0187	1	Suspense/Horror and Remake
+0188	1	Comedy
+0189	1	Action/Adventure and Drama
+0190	1	Comedy and Romance
+0191	1	Art/Foreign, Drama and Romance
+0192	1	Comedy, Drama, Science Fiction/Fantasy and Suspense/Horror
+0193	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0194	1	Action/Adventure and War
+0195	1	Drama, Thriller and Politics/Religion
+0196	1	Drama
+0197	1	Art/Foreign and Drama
+0198	1	Drama and Thriller
+0199	1	Action/Adventure
+0200	1	Drama and Sports
+0201	1	Action/Adventure, Drama and Thriller
+0202	1	Drama and Crime/Gangster
+0203	1	Action/Adventure and Western
+0204	1	Drama, Adaptation and War
+0205	1	Art/Foreign and Drama
+0206	1	Action/Adventure, Drama, Adaptation and War
+0207	1	Science Fiction/Fantasy, Thriller, Politics/Religion and Sequel
+0208	1	Art/Foreign and Comedy
+0209	1	Comedy
+0210	1	Action/Adventure, Comedy, Romance and Science Fiction/Fantasy
+0211	1	Comedy and Musical/Performing Arts
+0212	1	Action/Adventure, Drama, Crime/Gangster and Adaptation
+0213	1	Action/Adventure and Crime/Gangster
+0214	1	Drama and Adaptation
+0215	0	<NULL>
+0216	1	Suspense/Horror
+0217	1	Comedy
+0218	1	Comedy and Drama
+0219	1	Action/Adventure and Comedy
+0220	1	Suspense/Horror, Thriller and Teen
+0221	1	Comedy
+0222	1	Western
+0223	1	Comedy, Drama, Romance and Politics/Religion
+0224	1	Action/Adventure and Thriller
+0225	1	Classics, Drama and Thriller
+0226	1	Comedy
+0227	1	Musical/Performing Arts
+0228	1	Science Fiction/Fantasy and Suspense/Horror
+0229	1	Action/Adventure and Drama
+0230	1	Special Interest
+0231	1	Comedy, Crime/Gangster and Teen
+0232	1	Action/Adventure, Drama, Miscellaneous, Adaptation and War
+0233	1	Comedy, Musical/Performing Arts and Adaptation
+0234	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Adaptation
+0235	1	Action/Adventure, Drama, Thriller and Politics/Religion
+0236	1	Drama, Suspense/Horror, Thriller, Crime/Gangster and Biopic
+0237	1	Comedy
+0238	1	Drama
+0239	1	Art/Foreign, Drama, Crime/Gangster and Adaptation
+0240	1	Comedy
+0241	1	Action/Adventure
+0242	1	Comedy and Drama
+0243	1	Comedy
+0244	1	Comedy and Suspense/Horror
+0245	1	Drama and Romance
+0246	1	Action/Adventure and Comedy
+0247	1	Suspense/Horror
+0248	1	Science Fiction/Fantasy
+0249	1	Action/Adventure, Thriller and Politics/Religion
+0250	1	Drama
+0251	1	Action/Adventure, Thriller and Crime/Gangster
+0252	1	Drama and Thriller
+0253	1	Drama and Romance
+0254	1	Drama, Thriller and Adaptation
+0255	1	Action/Adventure
+0256	1	Art/Foreign
+0257	1	Comedy and Romance
+0258	1	Comedy and Drama
+0259	1	Action/Adventure, Suspense/Horror and Sequel
+0260	1	Drama, Musical/Performing Arts, Adaptation and Politics/Religion
+0261	1	Action/Adventure, Comedy, Romance and Sequel
+0262	1	Western
+0263	1	Action/Adventure
+0264	1	Action/Adventure, Comedy, Thriller and Crime/Gangster
+0265	1	Action/Adventure, Comedy and War
+0266	1	Comedy
+0267	1	Action/Adventure, Documentary and Crime/Gangster
+0268	1	Comedy
+0269	1	Drama
+0270	1	Drama, Thriller and Crime/Gangster
+0271	1	Art/Foreign and Science Fiction/Fantasy
+0272	1	Action/Adventure and Science Fiction/Fantasy
+0273	1	Drama, Kids/Family, Animation and Adaptation
+0274	1	Drama and Romance
+0275	1	Comedy, Romance and Thriller
+0276	1	Art/Foreign, Comedy, Drama and War
+0277	1	Action/Adventure, Thriller and Adaptation
+0278	1	Science Fiction/Fantasy and Suspense/Horror
+0279	1	Art/Foreign and Drama
+0280	1	Comedy, Romance and Adaptation
+0281	1	Action/Adventure, Comedy, Drama, Miscellaneous and War
+0282	1	Action/Adventure, Drama and Crime/Gangster
+0283	1	Drama and Biopic
+0284	1	Comedy and Sports
+0285	1	Comedy, Musical/Performing Arts and Adaptation
+0286	1	Drama and Adaptation
+0287	1	Comedy
+0288	1	Suspense/Horror, Thriller and Crime/Gangster
+0289	1	Suspense/Horror
+0290	1	Drama
+0291	1	Drama and Musical/Performing Arts
+0292	1	Drama, Kids/Family, Musical/Performing Arts and Romance
+0293	1	Drama
+0294	1	Drama and Romance
+0295	1	Comedy and Drama
+0296	1	Suspense/Horror
+0297	1	Drama and Adaptation
+0298	1	Action/Adventure and Comedy
+0299	1	Action/Adventure
+0300	1	Drama, Thriller and Crime/Gangster
+0301	1	Western
+0302	1	Art/Foreign, Comedy and Drama
+0303	1	Action/Adventure, Comedy and Suspense/Horror
+0304	1	Art/Foreign, Comedy, Romance and Thriller
+0305	1	Action/Adventure
+0306	1	Comedy, Drama and Politics/Religion
+0307	1	Comedy and Suspense/Horror
+0308	1	Comedy, Drama and Romance
+0309	1	Suspense/Horror
+0310	1	Action/Adventure
+0311	1	Comedy and Adaptation
+0312	1	Comedy
+0313	1	Suspense/Horror
+0314	1	Drama and Romance
+0315	1	Western
+0316	1	Art/Foreign, Drama and Thriller
+0317	1	Art/Foreign and Drama
+0318	1	Art/Foreign
+0319	1	Comedy, Drama and Adaptation
+0320	1	Comedy and Adaptation
+0321	1	Comedy
+0322	1	Comedy and Romance
+0323	1	Action/Adventure and Western
+0324	1	Comedy, Drama and Romance
+0325	1	Drama, Romance and Adaptation
+0326	1	Drama
+0327	1	Action/Adventure, Comedy, Kids/Family and Thriller
+0328	1	Comedy, Drama, Romance and Science Fiction/Fantasy
+0329	1	Comedy
+0330	1	Action/Adventure, Comedy and Sequel
+0331	1	Science Fiction/Fantasy, Suspense/Horror and Thriller
+0332	1	Comedy and Drama
+0333	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0334	1	Suspense/Horror and Thriller
+0335	1	Comedy, Drama, Romance and Crime/Gangster
+0336	1	Comedy
+0337	1	Drama and Musical/Performing Arts
+0338	1	Comedy
+0339	1	Action/Adventure and War
+0340	1	Action/Adventure
+0341	1	Drama
+0342	1	Western
+0343	1	Comedy, Romance and Teen
+0344	1	Action/Adventure, Science Fiction/Fantasy and Sequel
+0345	1	Action/Adventure, Drama, Romance and Sports
+0346	1	Comedy, Romance and Adaptation
+0347	1	Action/Adventure and Comedy
+0348	1	Action/Adventure and Comedy
+0349	1	Western
+0350	1	Action/Adventure, Drama, Crime/Gangster, Biopic and Remake
+0351	1	Drama, Thriller and Crime/Gangster
+0352	1	Action/Adventure, Comedy and Sports
+0353	1	Musical/Performing Arts and Adaptation
+0354	1	Action/Adventure, Comedy and Western
+0355	1	Musical/Performing Arts
+0356	1	Drama
+0357	1	Drama and War
+0358	1	Musical/Performing Arts and Romance
+0359	1	Action/Adventure, Thriller and Adaptation
+0360	1	Action/Adventure, Comedy, Drama and Teen
+0361	1	Comedy, Drama, Romance and Adaptation
+0362	1	Drama
+0363	1	Drama and Adaptation
+0364	1	Action/Adventure and Comedy
+0365	1	Drama, Thriller and Crime/Gangster
+0366	1	Comedy, Sports and Teen
+0367	1	Action/Adventure, Drama and Special Interest
+0368	1	Suspense/Horror
+0369	1	Comedy, Suspense/Horror and Sequel
+0370	1	Musical/Performing Arts
+0371	1	Special Interest and Crime/Gangster
+0372	1	Action/Adventure and Comedy
+0373	1	Action/Adventure, Comedy, Drama and Remake
+0374	1	Action/Adventure
+0375	1	Action/Adventure, Drama, Thriller and Adaptation
+0376	1	Documentary, Special Interest and Politics/Religion
+0377	1	Drama, Thriller and Adaptation
+0378	1	Drama, Western and Adaptation
+0379	1	Action/Adventure, Comedy, Romance and Crime/Gangster
+0380	1	Comedy and Romance
+0381	1	Action/Adventure, Romance and Western
+0382	1	Drama
+0383	1	Musical/Performing Arts
+0384	1	Comedy and Drama
+0385	1	Action/Adventure and Drama
+0386	1	Comedy
+0387	1	Drama, Musical/Performing Arts, Romance and Adaptation
+0388	1	Drama and Adaptation
+0389	1	Suspense/Horror and Adaptation
+0390	1	Action/Adventure, Adaptation and War
+0391	1	Kids/Family, Musical/Performing Arts, Science Fiction/Fantasy and Adaptation
+0392	1	Action/Adventure and War
+0393	1	Art/Foreign and Comedy
+0394	1	Comedy and Romance
+0395	1	Drama and Romance
+0396	1	Musical/Performing Arts and Biopic
+0397	1	Comedy
+0398	1	Comedy
+0399	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0400	1	Action/Adventure, Holiday and Sequel
+0401	1	Comedy
+0402	1	Drama and Thriller
+0403	1	Action/Adventure, Drama, Sequel and Sports
+0404	1	Drama, Thriller and Crime/Gangster
+0405	1	Drama, Romance and Science Fiction/Fantasy
+0406	1	Action/Adventure, Drama and Crime/Gangster
+0407	1	Action/Adventure, Drama, Romance, Western and War
+0408	1	Action/Adventure and Drama
+0409	1	Action/Adventure, Science Fiction/Fantasy, Special Interest, Animation and Adaptation
+0410	1	Action/Adventure, Romance, Thriller and Sports
+0411	1	Drama and Adaptation
+0412	1	Musical/Performing Arts
+0413	1	Action/Adventure, Science Fiction/Fantasy and Sequel
+0414	1	Comedy and Drama
+0415	1	Comedy, Adaptation and Remake
+0416	1	Action/Adventure and Comedy
+0417	1	Action/Adventure, Comedy, Science Fiction/Fantasy and Adaptation
+0418	1	Western
+0419	1	Drama and Thriller
+0420	1	Comedy, Musical/Performing Arts and Romance
+0421	1	Art/Foreign and Drama
+0422	1	Drama, Kids/Family and Musical/Performing Arts
+0423	1	Action/Adventure, Drama, Romance, Thriller and Crime/Gangster
+0424	1	Comedy, Kids/Family, Musical/Performing Arts and Politics/Religion
+0425	1	Drama and Thriller
+0426	1	Art/Foreign and Drama
+0427	1	Art/Foreign, Comedy, Drama, Romance and Adaptation
+0428	1	Art/Foreign and Drama
+0429	1	Drama, Romance and Thriller
+0430	1	Comedy, Romance and Science Fiction/Fantasy
+0431	1	Action/Adventure, Art/Foreign, Drama and Romance
+0432	1	Art/Foreign, Drama, Musical/Performing Arts and Biopic
+0433	1	Comedy and Romance
+0434	1	Action/Adventure, Comedy, Kids/Family and Adaptation
+0435	1	Comedy, Romance and Politics/Religion
+0436	1	Documentary and Special Interest
+0437	1	Drama
+0438	1	Comedy, Kids/Family, Science Fiction/Fantasy and Holiday
+0439	1	Action/Adventure, Comedy and Romance
+0440	1	Comedy, Kids/Family and Sports
+0441	1	Action/Adventure, Comedy and Science Fiction/Fantasy
+0442	1	Action/Adventure, Drama and Sports
+0443	1	Action/Adventure and Comedy
+0444	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0445	1	Drama, Musical/Performing Arts and Biopic
+0446	1	Action/Adventure, Comedy, Drama, Kids/Family and Sports
+0447	1	Action/Adventure and Remake
+0448	1	Comedy, Musical/Performing Arts, Romance and Sequel
+0449	1	Comedy, Drama, Thriller and Adaptation
+0450	1	Action/Adventure, Drama, Western and Biopic
+0451	1	Action/Adventure, Drama, Romance, Western and Biopic
+0452	1	Comedy
+0453	1	Drama and Biopic
+0454	1	Action/Adventure, Comedy and Western
+0455	0	<NULL>
+0456	1	Comedy and Sequel
+0457	1	Drama, Special Interest, Thriller, Biopic and Politics/Religion
+0458	1	Comedy, Drama and Romance
+0459	1	Special Interest
+0460	1	Action/Adventure, Comedy, Romance, Thriller and Remake
+0461	1	Drama, Romance, Suspense/Horror and Thriller
+0462	1	Comedy, Drama and Romance
+0463	1	Action/Adventure, Drama, Kids/Family, Sequel and Sports
+0464	1	Comedy, Kids/Family, Science Fiction/Fantasy, Remake and Sports
+0465	1	Drama and Adaptation
+0466	1	Comedy
+0467	1	Comedy and Drama
+0468	1	Comedy
+0469	1	Drama, Romance, Adaptation and Remake
+0470	1	Drama, Romance and Adaptation
+0471	1	Drama
+0472	1	Drama, Thriller and Adaptation
+0473	1	Action/Adventure, Drama and Thriller
+0474	1	Action/Adventure, Drama and Western
+0475	1	Action/Adventure, Science Fiction/Fantasy, Crime/Gangster and Sequel
+0476	1	Action/Adventure, Drama, Thriller and War
+0477	1	Action/Adventure, Science Fiction/Fantasy, Thriller and Adaptation
+0478	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0479	1	Kids/Family, Musical/Performing Arts and Animation
+0480	1	Action/Adventure, Comedy and Science Fiction/Fantasy
+0481	1	Action/Adventure and Science Fiction/Fantasy
+0482	1	Art/Foreign, Comedy and Science Fiction/Fantasy
+0483	1	Drama, Thriller and Crime/Gangster
+0484	1	Comedy, Drama, Adaptation and Holiday
+0485	1	Comedy, Drama and Kids/Family
+0486	1	Action/Adventure, Comedy, Romance, Crime/Gangster and Adaptation
+0487	1	Drama
+0488	1	Drama, Thriller and Adaptation
+0489	1	Action/Adventure and Thriller
+0490	1	Action/Adventure, Comedy, Suspense/Horror, Thriller and Crime/Gangster
+0491	1	Action/Adventure and Thriller
+0492	1	Drama, Romance, Special Interest and Adaptation
+0493	1	Comedy, Science Fiction/Fantasy and Adaptation
+0494	1	Suspense/Horror, Thriller and Teen
+0495	1	Comedy, Drama and Thriller
+0496	1	Drama and Western
+0497	1	Comedy, Adaptation and Sequel
+0498	1	Drama and Thriller
+0499	1	Drama, Thriller and Adaptation
+0500	1	Comedy and Drama
+0501	1	Drama, Thriller, Crime/Gangster and Adaptation
+0502	1	Action/Adventure, Drama and Crime/Gangster
+0503	1	Comedy, Drama, Romance and Sports
+0504	1	Action/Adventure, Comedy and Politics/Religion
+0505	1	Drama and Thriller
+0506	1	Art/Foreign
+0507	1	Action/Adventure and Thriller
+0508	1	Action/Adventure, Science Fiction/Fantasy, Crime/Gangster and Sequel
+0509	1	Action/Adventure, Drama, Romance, Science Fiction/Fantasy, Thriller and Adaptation
+0510	1	Drama, Science Fiction/Fantasy, Suspense/Horror, Thriller and Adaptation
+0511	1	Action/Adventure, Comedy, Romance and Science Fiction/Fantasy
+0512	1	Kids/Family, Animation and Sequel
+0513	1	Kids/Family, Science Fiction/Fantasy, Special Interest and Animation
+0514	1	Drama and Adaptation
+0515	1	Documentary and Special Interest
+0516	1	Action/Adventure, Suspense/Horror and Thriller
+0517	1	Action/Adventure, Drama, Kids/Family, Musical/Performing Arts, Animation and Politics/Religion
+0518	1	Drama, Romance and Adaptation
+0519	1	Suspense/Horror, Thriller, Sequel and Teen
+0520	1	Drama and Adaptation
+0521	1	Art/Foreign and Drama
+0522	1	Drama and Thriller
+0523	1	Action/Adventure, Drama, Science Fiction/Fantasy, Thriller and Adaptation
+0524	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0525	1	Action/Adventure, Comedy and Teen
+0526	1	Drama, Thriller, Adaptation and Politics/Religion
+0527	1	Comedy and Drama
+0528	1	Drama and Adaptation
+0529	1	Drama and Sports
+0530	1	Action/Adventure, Science Fiction/Fantasy, Crime/Gangster and Adaptation
+0531	1	Comedy
+0532	1	Action/Adventure, Comedy and Musical/Performing Arts
+0533	1	Suspense/Horror and Adaptation
+0534	1	Action/Adventure, Comedy, Kids/Family and Science Fiction/Fantasy
+0535	1	Comedy, Romance and Thriller
+0536	1	Drama, Thriller, Biopic and Politics/Religion
+0537	1	Comedy and Romance
+0538	1	Action/Adventure, Romance, Remake and War
+0539	1	Action/Adventure, Drama, Musical/Performing Arts, Romance and Thriller
+0540	1	Action/Adventure, Comedy, Kids/Family, Musical/Performing Arts, Romance and Animation
+0541	1	Action/Adventure, Romance, Western and Biopic
+0542	1	Action/Adventure, Comedy and Western
+0543	1	Drama, Kids/Family, Musical/Performing Arts, Animation and Adaptation
+0544	1	Science Fiction/Fantasy, Suspense/Horror and Thriller
+0545	1	Art/Foreign, Comedy and Drama
+0546	1	Comedy, Drama and Science Fiction/Fantasy
+0547	1	Art/Foreign, Comedy, Drama and Romance
+0548	1	Art/Foreign, Comedy, Drama and Romance
+0549	1	Action/Adventure, Thriller, Crime/Gangster and Adaptation
+0550	1	Art/Foreign, Drama and Adaptation
+0551	1	Romance, Thriller and Adaptation
+0552	1	Comedy
+0553	1	Art/Foreign, Drama and Thriller
+0554	0	<NULL>
+0555	1	Art/Foreign, Drama and Biopic
+0556	1	Action/Adventure, Drama, Thriller, Crime/Gangster, Adaptation and Remake
+0557	1	Comedy, Drama and Adaptation
+0558	1	Art/Foreign and Drama
+0559	1	Art/Foreign, Drama and Romance
+0560	1	Comedy, Drama and Kids/Family
+0561	1	Drama
+0562	1	Comedy and Thriller
+0563	1	Suspense/Horror, Thriller and Teen
+0564	1	Comedy, Drama, Romance and Adaptation
+0565	1	Action/Adventure and Thriller
+0566	1	Drama
+0567	1	Comedy and Crime/Gangster
+0568	1	Comedy and Drama
+0569	1	Comedy, Drama and Biopic
+0570	1	Comedy, Drama and Musical/Performing Arts
+0571	1	Art/Foreign and Documentary
+0572	1	Action/Adventure, Comedy, Drama, Thriller and Crime/Gangster
+0573	1	Comedy, Drama, Romance and Adaptation
+0574	1	Comedy, Thriller, Adaptation and Teen
+0575	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+0576	1	Drama, Romance and Sports
+0577	1	Art/Foreign, Comedy and Drama
+0578	1	Art/Foreign, Comedy and Drama
+0579	1	Comedy and Romance
+0580	1	Drama and Science Fiction/Fantasy
+0581	1	Comedy and Romance
+0582	1	Comedy, Drama, Romance and Adaptation
+0583	1	Drama and Adaptation
+0584	1	Drama and Crime/Gangster
+0585	1	Art/Foreign, Comedy and Drama
+0586	1	Comedy, Drama, Sports and Teen
+0587	1	Action/Adventure, Kids/Family, Animation and Adaptation
+0588	1	Art/Foreign, Comedy and Drama
+0589	1	Comedy, Romance and Politics/Religion
+0590	1	Drama, Thriller and War
+0591	1	Art/Foreign and Comedy
+0592	1	Drama, Romance, Thriller, Adaptation and Remake
+0593	1	Drama, Thriller, Crime/Gangster and Adaptation
+0594	1	Comedy and Drama
+0595	1	Action/Adventure, Comedy and Western
+0596	1	Art/Foreign and Comedy
+0597	1	Drama
+0598	1	Comedy and Drama
+0599	1	Art/Foreign and Drama
+0600	1	Drama
+0601	1	Comedy, Romance and Teen
+0602	1	Drama, Romance, Thriller and Adaptation
+0603	1	Drama
+0604	1	Comedy and Drama
+0605	1	Action/Adventure, Comedy, Drama, Kids/Family and Animation
+0606	1	Comedy, Musical/Performing Arts, Romance and Sports
+0607	1	Comedy, Drama, Kids/Family, Romance and Science Fiction/Fantasy
+0608	1	Art/Foreign and Documentary
+0609	1	Drama, Romance, Thriller, Adaptation and War
+0610	1	Comedy
+0611	1	Drama
+0612	1	Action/Adventure and Comedy
+0613	1	Comedy, Drama, Musical/Performing Arts and Adaptation
+0614	1	Art/Foreign, Drama and Adaptation
+0615	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0616	1	Action/Adventure, Drama and Romance
+0617	1	Adaptation
+0618	1	Drama, Musical/Performing Arts, Romance, Suspense/Horror and Adaptation
+0619	1	Drama and Crime/Gangster
+0620	1	Art/Foreign, Comedy and Drama
+0621	1	Action/Adventure
+0622	1	Action/Adventure, Special Interest and Sequel
+0623	1	Documentary, Adaptation, Biopic and Politics/Religion
+0624	1	Drama and Adaptation
+0625	1	Art/Foreign, Drama and Thriller
+0626	1	Documentary, Biopic and Sports
+0627	1	Action/Adventure, Documentary, Kids/Family and Science Fiction/Fantasy
+0628	1	Drama and Sports
+0629	1	Kids/Family, Science Fiction/Fantasy and Animation
+0630	1	Art/Foreign, Comedy and Drama
+0631	1	Action/Adventure, Science Fiction/Fantasy, Animation and Sequel
+0632	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0633	1	Action/Adventure, Drama, Science Fiction/Fantasy, Sequel and War
+0634	1	Comedy and Adaptation
+0635	1	Comedy and Musical/Performing Arts
+0636	1	Action/Adventure and Science Fiction/Fantasy
+0637	1	Art/Foreign
+0638	1	Comedy, Romance and Teen
+0639	1	Art/Foreign
+0640	1	Comedy
+0641	1	Drama, Thriller and Crime/Gangster
+0642	1	Art/Foreign, Comedy, Drama, Musical/Performing Arts and Romance
+0643	1	Drama, Musical/Performing Arts and Romance
+0644	1	Action/Adventure, Drama and Romance
+0645	1	Art/Foreign and Drama
+0646	1	Drama and Adaptation
+0647	1	Action/Adventure, Comedy, Kids/Family and Animation
+0648	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Politics/Religion
+0649	1	Comedy, Romance and Adaptation
+0650	1	Comedy and Drama
+0651	1	Action/Adventure, Drama, Science Fiction/Fantasy and Thriller
+0652	1	Documentary
+0653	1	Drama, Thriller, Adaptation and Biopic
+0654	1	Art/Foreign, Comedy and Romance
+0655	1	Art/Foreign and Drama
+0656	1	Art/Foreign, Drama and Romance
+0657	1	Art/Foreign, Drama, Romance and Adaptation
+0658	1	Drama and Adaptation
+0659	0	<NULL>
+0660	1	Comedy
+0661	1	Suspense/Horror
+0662	1	Drama, Special Interest and Politics/Religion
+0663	1	Action/Adventure and Drama
+0664	1	Comedy and Sequel
+0665	0	<NULL>
+0666	1	Romance
+0667	1	Documentary and Special Interest
+0668	1	Art/Foreign, Science Fiction/Fantasy, Special Interest and Animation
+0669	0	<NULL>
+0670	1	Art/Foreign, Comedy, Drama, Musical/Performing Arts and Romance
+0671	0	<NULL>
+0672	1	Drama, Kids/Family and Musical/Performing Arts
+0673	1	Action/Adventure, Art/Foreign, Drama and Thriller
+0674	1	Comedy and Thriller
+0675	1	Drama, Kids/Family, Adaptation and Remake
+0676	1	Comedy, Romance and Crime/Gangster
+0677	1	Action/Adventure, Comedy, Kids/Family, Sequel and Sports
+0678	1	Action/Adventure, Comedy and Crime/Gangster
+0679	1	Action/Adventure, Thriller and Crime/Gangster
+0680	1	Art/Foreign and Drama
+0681	0	<NULL>
+0682	1	Drama, Science Fiction/Fantasy, Suspense/Horror and Thriller
+0683	1	Drama
+0684	1	Drama, Thriller, Crime/Gangster, Adaptation and Remake
+0685	1	Drama
+0686	1	Action/Adventure, Science Fiction/Fantasy, Adaptation and Sequel
+0687	1	Art/Foreign and Drama
+0688	1	Art/Foreign, Comedy and Crime/Gangster
+0689	1	Art/Foreign, Drama, Romance and Adaptation
+0690	1	Action/Adventure, Art/Foreign, Thriller and Crime/Gangster
+0691	1	Drama, Kids/Family, Musical/Performing Arts and Adaptation
+0692	1	Action/Adventure, Drama and Thriller
+0693	1	Documentary
+0694	1	Action/Adventure, Drama, Adaptation and War
+0695	1	Art/Foreign, Drama and Romance
+0696	1	Art/Foreign, Drama and War
+0697	1	Drama
+0698	1	Action/Adventure and Comedy
+0699	1	Drama, Crime/Gangster and Adaptation
+0700	1	Action/Adventure, Science Fiction/Fantasy, Thriller and Sequel
+0701	1	Musical/Performing Arts, Science Fiction/Fantasy, Animation and Adaptation
+0702	1	Art/Foreign, Drama and Romance
+0703	1	Action/Adventure, Drama, Romance, Adaptation and War
+0704	1	Action/Adventure, Comedy, Kids/Family, Science Fiction/Fantasy and Sequel
+0705	1	Drama, Musical/Performing Arts and Romance
+0706	1	Documentary
+0707	1	Drama and Adaptation
+0708	1	Action/Adventure, Art/Foreign, Comedy, Thriller and Crime/Gangster
+0709	1	Documentary
+0710	1	Action/Adventure, Comedy and Animation
+0711	1	Comedy, Drama and War
+0712	1	Art/Foreign, Drama and Romance
+0713	1	Drama, Romance and Crime/Gangster
+0714	1	Drama and War
+0715	0	<NULL>
+0716	1	Action/Adventure, Art/Foreign, Science Fiction/Fantasy, Suspense/Horror and Animation
+0717	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+0718	1	Drama and Romance
+0719	1	Science Fiction/Fantasy, Suspense/Horror and Thriller
+0720	1	Art/Foreign, Drama, Romance and Thriller
+0721	1	Comedy and Romance
+0722	1	Action/Adventure, Drama, Thriller, Crime/Gangster and Adaptation
+0723	1	Comedy
+0724	1	Action/Adventure
+0725	1	Art/Foreign and Drama
+0726	1	Action/Adventure, Drama, Science Fiction/Fantasy, Thriller, Adaptation and Politics/Religion
+0727	1	Drama, Romance, Adaptation and War
+0728	1	Action/Adventure, Thriller and Sports
+0729	1	Action/Adventure, Comedy and Kids/Family
+0730	1	Comedy and Romance
+0731	1	Art/Foreign, Comedy and Drama
+0732	1	Documentary and Musical/Performing Arts
+0733	1	Documentary
+0734	1	Action/Adventure, Comedy and Drama
+0735	1	Comedy and Romance
+0736	1	Art/Foreign, Drama, Romance, Crime/Gangster and Adaptation
+0737	1	Comedy, Musical/Performing Arts, Science Fiction/Fantasy, Thriller and Western
+0738	1	Art/Foreign, Comedy, Drama and Thriller
+0739	1	Art/Foreign, Drama and Thriller
+0740	1	Drama and Adaptation
+0741	1	Drama and Adaptation
+0742	1	Drama and Animation
+0743	1	Romance, Suspense/Horror and Remake
+0744	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+0745	1	Action/Adventure and Thriller
+0746	1	Comedy, Drama and Romance
+0747	1	Comedy, Drama and Romance
+0748	1	Comedy and Drama
+0749	1	Art/Foreign, Comedy and Romance
+0750	1	Action/Adventure, Art/Foreign, Drama, Kids/Family, Science Fiction/Fantasy and Animation
+0751	1	Art/Foreign, Documentary and Drama
+0752	1	Comedy, Drama, Romance, Thriller and Crime/Gangster
+0753	1	Art/Foreign, Comedy and Romance
+0754	1	Action/Adventure, Comedy, Romance and Crime/Gangster
+0755	1	Art/Foreign, Comedy, Drama and Romance
+0756	1	Comedy, Drama, Romance and Adaptation
+0757	1	Comedy
+0758	1	Comedy and Sports
+0759	1	Art/Foreign, Documentary and Drama
+0760	1	Action/Adventure, Drama, Thriller and Adaptation
+0761	1	Drama, Romance and Adaptation
+0762	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+0763	1	Drama and Adaptation
+0764	1	Drama, Adaptation and Teen
+0765	1	Comedy
+0766	1	Action/Adventure, Drama, Science Fiction/Fantasy, Adaptation and Sequel
+0767	1	Comedy, Drama, Musical/Performing Arts and Romance
+0768	1	Comedy and Animation
+0769	1	Suspense/Horror and Thriller
+0770	0	<NULL>
+0771	1	Comedy, Musical/Performing Arts and Romance
+0772	1	Drama and Musical/Performing Arts
+0773	1	Comedy, Romance and Adaptation
+0774	1	Comedy and Drama
+0775	1	Action/Adventure, Drama and War
+0776	1	Comedy and Kids/Family
+0777	1	Documentary
+0778	1	Drama
+0779	1	Art/Foreign, Drama, Musical/Performing Arts and Romance
+0780	1	Action/Adventure, Comedy and Science Fiction/Fantasy
+0781	1	Comedy and Romance
+0782	1	Action/Adventure, Comedy, Science Fiction/Fantasy, Adaptation and Sequel
+0783	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror and Sequel
+0784	1	Drama and Adaptation
+0785	1	Action/Adventure, Comedy, Kids/Family and Animation
+0786	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror and Sequel
+0787	1	Action/Adventure, Kids/Family, Science Fiction/Fantasy and Animation
+0788	1	Action/Adventure, Science Fiction/Fantasy, Thriller and Sequel
+0789	1	Suspense/Horror, Thriller, Adaptation and Politics/Religion
+0790	1	Action/Adventure, Comedy and Politics/Religion
+0791	1	Comedy, Romance, Thriller and Crime/Gangster
+0792	1	Action/Adventure, Drama and Thriller
+0793	1	Action/Adventure, Comedy and Crime/Gangster
+0794	1	Comedy and Romance
+0795	1	Drama and Adaptation
+0796	1	Comedy and Teen
+0797	1	Comedy and Romance
+0798	1	Drama and Crime/Gangster
+0799	1	Drama, Thriller and Adaptation
+0800	1	Comedy and Thriller
+0801	1	Comedy and Adaptation
+0802	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+0803	1	Art/Foreign, Comedy, Drama and Romance
+0804	1	Action/Adventure, Comedy and Crime/Gangster
+0805	1	Art/Foreign, Documentary, Politics/Religion and War
+0806	1	Action/Adventure, Art/Foreign, Science Fiction/Fantasy and Animation
+0807	1	Drama and War
+0808	1	Action/Adventure and Drama
+0809	1	Drama
+0810	1	Comedy
+0811	1	Action/Adventure, Drama, Adaptation, Politics/Religion and War
+0812	1	Action/Adventure, Kids/Family, Science Fiction/Fantasy, Animation, Adaptation and Sequel
+0813	1	Comedy
+0814	1	Drama and War
+0815	1	Comedy and Sports
+0816	1	Drama
+0817	1	Art/Foreign, Drama, Science Fiction/Fantasy, Animation and Adaptation
+0818	1	Art/Foreign, Drama, Science Fiction/Fantasy, Suspense/Horror and Thriller
+0819	1	Art/Foreign, Comedy, Drama and Thriller
+0820	1	Drama, Romance, Science Fiction/Fantasy, Thriller and Adaptation
+0821	1	Art/Foreign, Drama and Romance
+0822	1	Drama, Biopic and Sports
+0823	1	Comedy and Romance
+0824	1	Drama
+0825	1	Action/Adventure, Art/Foreign, Comedy, Drama, Thriller and Sports
+0826	1	Comedy and Drama
+0827	1	Art/Foreign, Drama and Adaptation
+0828	1	Drama, Romance, Adaptation and Biopic
+0829	1	Comedy and Romance
+0830	1	Art/Foreign, Drama and Thriller
+0831	1	Drama, Romance, Adaptation and Teen
+0832	1	Action/Adventure, Comedy and Crime/Gangster
+0833	1	Comedy and Drama
+0834	1	Comedy
+0835	1	Comedy, Drama and Adaptation
+0836	1	Drama, Science Fiction/Fantasy and Thriller
+0837	1	Comedy
+0838	1	Action/Adventure and Comedy
+0839	1	Romance, Suspense/Horror and Thriller
+0840	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+0841	1	Action/Adventure, Drama, Thriller, Crime/Gangster, Adaptation and Biopic
+0842	1	Art/Foreign and Drama
+0843	0	<NULL>
+0844	1	Drama and Musical/Performing Arts
+0845	1	Drama and Romance
+0846	1	Action/Adventure, Drama and Thriller
+0847	1	Action/Adventure, Comedy, Science Fiction/Fantasy, Holiday and Sequel
+0848	1	Comedy
+0849	1	Thriller
+0850	1	Comedy and Adaptation
+0851	1	Drama and Crime/Gangster
+0852	1	Comedy, Drama, Remake and Sports
+0853	1	Art/Foreign and Drama
+0854	1	Comedy, Drama and Adaptation
+0855	1	Comedy and Drama
+0856	1	Comedy, Kids/Family, Science Fiction/Fantasy and Sports
+0857	1	Comedy, Drama and Musical/Performing Arts
+0858	1	Drama
+0859	1	Comedy, Drama and Romance
+0860	1	Drama, Thriller and Crime/Gangster
+0861	1	Drama and Crime/Gangster
+0862	1	Comedy, Drama and Adaptation
+0863	1	Action/Adventure, Romance, Western, Crime/Gangster and Sequel
+0864	1	Comedy, Drama, Romance and Remake
+0865	1	Comedy and Romance
+0866	1	Drama
+0867	1	Action/Adventure, Comedy, Drama and Romance
+0868	1	Comedy, Kids/Family and Science Fiction/Fantasy
+0869	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0870	1	Thriller, Crime/Gangster and Adaptation
+0871	1	Art/Foreign, Drama, Romance and Thriller
+0872	1	Drama, Romance and Adaptation
+0873	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+0874	1	Thriller, Sports and Teen
+0875	1	Art/Foreign, Comedy and Romance
+0876	1	Drama, Thriller, Crime/Gangster and Biopic
+0877	1	Art/Foreign and Drama
+0878	1	Drama and Biopic
+0879	1	Comedy, Romance and Adaptation
+0880	1	Comedy, Drama and Romance
+0881	1	Drama
+0882	1	Documentary and Science Fiction/Fantasy
+0883	1	Comedy, Documentary, Drama and Romance
+0884	1	Action/Adventure and Sequel
+0885	1	Drama, Crime/Gangster and Adaptation
+0886	1	Art/Foreign, Science Fiction/Fantasy, Suspense/Horror and Thriller
+0887	1	Art/Foreign and Documentary
+0888	1	Drama, Crime/Gangster, Adaptation and Biopic
+0889	1	Comedy, Crime/Gangster and Holiday
+0890	1	Drama, Romance and War
+0891	1	Action/Adventure, Comedy, Drama and Adaptation
+0892	1	Art/Foreign and Comedy
+0893	1	Drama, Romance, Science Fiction/Fantasy, Suspense/Horror, Adaptation and Teen
+0894	1	Action/Adventure, Kids/Family, Musical/Performing Arts, Science Fiction/Fantasy, Adaptation and Remake
+0895	1	Action/Adventure, Drama, Adaptation and Biopic
+0896	1	Drama, Romance, Adaptation and War
+0897	1	Action/Adventure and Thriller
+0898	1	Drama, Musical/Performing Arts, Romance and Sequel
+0899	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+0900	1	Comedy, Drama, Thriller, Crime/Gangster and Remake
+0901	1	Science Fiction/Fantasy, Suspense/Horror, Adaptation and Sequel
+0902	0	<NULL>
+0903	1	Drama and Adaptation
+0904	1	Comedy
+0905	1	Action/Adventure, Suspense/Horror and Adaptation
+0906	1	Action/Adventure, Comedy, Kids/Family and Sequel
+0907	1	Action/Adventure, Art/Foreign and Drama
+0908	1	Action/Adventure, Comedy, Science Fiction/Fantasy, Thriller and Crime/Gangster
+0909	1	Drama, Biopic and Politics/Religion
+0910	1	Comedy, Romance and Adaptation
+0911	1	Comedy and Romance
+0912	1	Drama, Romance, Science Fiction/Fantasy, Thriller and Crime/Gangster
+0913	1	Comedy, Drama and Adaptation
+0914	1	Action/Adventure, Comedy and Thriller
+0915	1	Action/Adventure, Comedy, Drama, Kids/Family and Animation
+0916	1	Action/Adventure, Drama, Thriller and War
+0917	1	Comedy and Kids/Family
+0918	1	Comedy, Kids/Family and Sequel
+0919	1	Drama, Romance and Adaptation
+0920	1	Action/Adventure, Kids/Family, Science Fiction/Fantasy and Animation
+0921	1	Comedy
+0922	1	Comedy and Romance
+0923	1	Drama, Thriller and Politics/Religion
+0924	1	Action/Adventure, Suspense/Horror and Sequel
+0925	1	Action/Adventure, Comedy, Crime/Gangster and Sequel
+0926	1	Drama and Adaptation
+0927	1	Action/Adventure and Adaptation
+0928	1	Comedy, Suspense/Horror, Thriller and Sequel
+0929	1	Action/Adventure, Comedy and Sports
+0930	1	Action/Adventure, Comedy, Kids/Family, Crime/Gangster and Animation
+0931	1	Action/Adventure, Romance, Animation and Remake
+0932	1	Drama and Adaptation
+0933	1	Comedy and Drama
+0934	0	<NULL>
+0935	1	Action/Adventure, Science Fiction/Fantasy, Politics/Religion, Sequel and War
+0936	1	Action/Adventure, Drama, Thriller, Crime/Gangster and Adaptation
+0937	1	Art/Foreign, Drama, Musical/Performing Arts and Romance
+0938	1	Action/Adventure, Art/Foreign, Drama, Romance and Western
+0939	1	Comedy, Romance and Remake
+0940	1	Action/Adventure, Drama, Science Fiction/Fantasy, Thriller and Adaptation
+0941	1	Action/Adventure and Suspense/Horror
+0942	1	Drama, Romance, Thriller, Crime/Gangster and Adaptation
+0943	1	Comedy and Romance
+0944	1	Action/Adventure and Kids/Family
+0945	1	Action/Adventure, Comedy, Romance and Sequel
+0946	1	Action/Adventure
+0947	1	Drama
+0948	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Adaptation
+0949	1	Drama and Romance
+0950	1	Action/Adventure and Animation
+0951	1	Action/Adventure, Drama, Kids/Family, Animation, Adaptation and Holiday
+0952	1	Suspense/Horror and Thriller
+0953	1	Comedy and Drama
+0954	1	Action/Adventure, Western, Crime/Gangster, Adaptation and Biopic
+0955	1	Drama and Biopic
+0956	1	Art/Foreign, Drama, Adaptation, Biopic and War
+0957	1	Action/Adventure, Suspense/Horror, Thriller and Remake
+0958	1	Science Fiction/Fantasy, Adaptation and Remake
+0959	1	Comedy, Kids/Family, Science Fiction/Fantasy, Animation and Adaptation
+0960	1	Art/Foreign, Suspense/Horror, Thriller, Adaptation and Remake
+0961	1	Art/Foreign, Drama, Thriller and Adaptation
+0962	1	Comedy and Musical/Performing Arts
+0963	1	Comedy and Crime/Gangster
+0964	1	Comedy, Kids/Family, Animation, Adaptation and Sequel
+0965	0	<NULL>
+0966	1	Art/Foreign, Comedy, Drama and Science Fiction/Fantasy
+0967	1	Comedy and Drama
+0968	1	Kids/Family, Musical/Performing Arts and Animation
+0969	1	Drama, Adaptation and Biopic
+0970	1	Drama and Adaptation
+0971	1	Comedy, Drama and Science Fiction/Fantasy
+0972	1	Art/Foreign, Comedy and Documentary
+0973	1	Comedy and Romance
+0974	1	Action/Adventure and Sequel
+0975	1	Action/Adventure and Sports
+0976	1	Comedy, Drama and Crime/Gangster
+0977	1	Comedy, Drama and Romance
+0978	0	<NULL>
+0979	1	Drama and Adaptation
+0980	1	Comedy, Crime/Gangster and Sequel
+0981	1	Action/Adventure, Suspense/Horror, Thriller and Crime/Gangster
+0982	1	Comedy
+0983	1	Drama
+0984	1	Action/Adventure, Comedy, Kids/Family and Science Fiction/Fantasy
+0985	1	Romance, Science Fiction/Fantasy, Suspense/Horror and Thriller
+0986	1	Comedy, Romance and Adaptation
+0987	1	Drama and Adaptation
+0988	1	Drama, Thriller and Politics/Religion
+0989	1	Drama, Romance and Adaptation
+0990	1	Kids/Family and Science Fiction/Fantasy
+0991	1	Art/Foreign, Documentary and Musical/Performing Arts
+0992	1	Art/Foreign, Comedy and Kids/Family
+0993	1	Art/Foreign and Drama
+0994	1	Comedy and Adaptation
+0995	1	Comedy and Romance
+0996	1	Action/Adventure, Comedy and Suspense/Horror
+0997	1	Comedy, Drama and Adaptation
+0998	1	Art/Foreign, Drama and Romance
+0999	1	Art/Foreign and Comedy
+1000	1	Drama
+1001	1	Action/Adventure, Art/Foreign, Comedy and Drama
+1002	1	Art/Foreign and Documentary
+1003	1	Art/Foreign, Drama, Biopic and Politics/Religion
+1004	1	Comedy, Drama, Romance and Teen
+1005	1	Drama
+1006	1	Comedy, Romance, Remake and Teen
+1007	1	Drama and Musical/Performing Arts
+1008	1	Comedy, Drama and Romance
+1009	0	<NULL>
+1010	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+1011	1	Comedy and Sequel
+1012	1	Comedy, Kids/Family, Science Fiction/Fantasy, Suspense/Horror and Thriller
+1013	1	Comedy
+1014	1	Comedy and Musical/Performing Arts
+1015	1	Art/Foreign and Drama
+1016	1	Action/Adventure, Comedy and Adaptation
+1017	1	Documentary
+1018	1	Art/Foreign, Drama and Crime/Gangster
+1019	1	Documentary
+1020	1	Art/Foreign, Comedy, Drama, Romance and Thriller
+1021	1	Art/Foreign and Drama
+1022	0	<NULL>
+1023	1	Comedy, Romance and Crime/Gangster
+1024	1	Comedy, Drama, Musical/Performing Arts and Adaptation
+1025	1	Drama
+1026	1	Comedy, Science Fiction/Fantasy and Holiday
+1027	1	Kids/Family, Musical/Performing Arts, Animation and Adaptation
+1028	1	Action/Adventure, Suspense/Horror and Thriller
+1029	1	Drama, Romance, Thriller and Teen
+1030	1	Documentary and Crime/Gangster
+1031	1	Drama
+1032	1	Drama
+1033	1	Documentary, Drama and Thriller
+1034	1	Art/Foreign and Drama
+1035	1	Science Fiction/Fantasy, Suspense/Horror and Thriller
+1036	1	Art/Foreign and Drama
+1037	1	Documentary and Musical/Performing Arts
+1038	1	Action/Adventure, Thriller and Sequel
+1039	1	Drama
+1040	1	Art/Foreign, Drama and Adaptation
+1041	1	Art/Foreign and Drama
+1042	1	Drama
+1043	1	Action/Adventure, Drama, Crime/Gangster and Remake
+1044	1	Documentary and Sports
+1045	1	Art/Foreign
+1046	1	Action/Adventure, Comedy and Documentary
+1047	1	Documentary and War
+1048	1	Documentary
+1049	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+1050	1	Art/Foreign, Drama, Crime/Gangster and Adaptation
+1051	1	Drama, Adaptation and Politics/Religion
+1052	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Sequel
+1053	1	Art/Foreign, Comedy and Drama
+1054	1	Art/Foreign, Drama, Kids/Family, Thriller and Adaptation
+1055	1	Drama, Thriller, Western, Adaptation and Politics/Religion
+1056	1	Comedy and Romance
+1057	1	Comedy, Drama and Romance
+1058	1	Drama and Biopic
+1059	1	Comedy, Drama, Romance and Science Fiction/Fantasy
+1060	1	Art/Foreign, Comedy, Kids/Family and Animation
+1061	1	Comedy and Sequel
+1062	1	Drama, Thriller, Adaptation and Politics/Religion
+1063	1	Drama, Musical/Performing Arts and Science Fiction/Fantasy
+1064	1	Comedy and Politics/Religion
+1065	0	<NULL>
+1066	1	Comedy, Romance and Teen
+1067	1	Action/Adventure, Drama, Thriller and Remake
+1068	1	Action/Adventure, Drama, Crime/Gangster and Adaptation
+1069	1	Comedy and Sports
+1070	1	Comedy and Romance
+1071	1	Kids/Family, Science Fiction/Fantasy and Thriller
+1072	1	Comedy
+1073	1	Art/Foreign, Romance, Adaptation and Biopic
+1074	0	<NULL>
+1075	1	Action/Adventure, Drama, Thriller, Adaptation and Sequel
+1076	1	Comedy
+1077	1	Documentary
+1078	1	Drama and Musical/Performing Arts
+1079	1	Action/Adventure, Art/Foreign and Romance
+1080	1	Art/Foreign and Drama
+1081	1	Art/Foreign, Suspense/Horror and Thriller
+1082	1	Art/Foreign, Drama and Thriller
+1083	1	Comedy, Science Fiction/Fantasy, Suspense/Horror and Sequel
+1084	1	Documentary
+1085	1	Art/Foreign and Drama
+1086	1	Action/Adventure, Comedy, Kids/Family and Animation
+1087	1	Art/Foreign, Drama and Romance
+1088	1	Drama, Adaptation and War
+1089	1	Documentary
+1090	1	Action/Adventure, Science Fiction/Fantasy and Sequel
+1091	1	Documentary and Crime/Gangster
+1092	1	Documentary and Sports
+1093	1	Comedy and Romance
+1094	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+1095	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror, Thriller and Adaptation
+1096	1	Art/Foreign, Comedy and Romance
+1097	1	Comedy and Romance
+1098	1	Drama and Crime/Gangster
+1099	1	Comedy, Kids/Family, Science Fiction/Fantasy, Holiday and Sequel
+1100	1	Action/Adventure and Sequel
+1101	1	Drama and Romance
+1102	1	Comedy, Drama and Romance
+1103	1	Comedy and Teen
+1104	1	Drama
+1105	0	<NULL>
+1106	1	Drama and Kids/Family
+1107	1	Drama, Thriller, Crime/Gangster and Adaptation
+1108	1	Science Fiction/Fantasy and Animation
+1109	1	Action/Adventure, Thriller, Crime/Gangster and Adaptation
+1110	1	Comedy and Romance
+1111	1	Comedy, Kids/Family and Romance
+1112	1	Comedy, Drama and Crime/Gangster
+1113	1	Comedy
+1114	1	Drama and Crime/Gangster
+1115	0	<NULL>
+1116	1	Drama, Romance and Adaptation
+1117	1	Action/Adventure, Drama and Politics/Religion
+1118	1	Art/Foreign, Drama and Animation
+1119	1	Art/Foreign, Drama and Adaptation
+1120	1	Drama
+1121	1	Comedy, Drama and Romance
+1122	1	Drama and Crime/Gangster
+1123	1	Action/Adventure, Art/Foreign, Drama, Thriller and Crime/Gangster
+1124	0	<NULL>
+1125	1	Drama
+1126	1	Drama and Teen
+1127	1	Documentary
+1128	1	Drama and Science Fiction/Fantasy
+1129	1	Adaptation
+1130	1	Special Interest
+1131	1	Art/Foreign and Drama
+1132	1	Comedy, Drama and War
+1133	1	Documentary and Drama
+1134	0	<NULL>
+1135	1	Drama, Biopic and Sports
+1136	1	Documentary, Biopic and Politics/Religion
+1137	1	Comedy, Romance and Crime/Gangster
+1138	1	Action/Adventure, Adaptation and Sequel
+1139	1	Comedy, Kids/Family, Romance, Sequel and Teen
+1140	1	Documentary
+1141	1	Comedy, Drama and Kids/Family
+1142	1	Comedy, Drama, Romance and Adaptation
+1143	1	Drama, Musical/Performing Arts, Romance and Teen
+1144	1	Thriller
+1145	1	Drama, Kids/Family, Adaptation and Sports
+1146	1	Art/Foreign, Comedy and Drama
+1147	1	Documentary and Sports
+1148	1	Art/Foreign, Comedy and Romance
+1149	1	Art/Foreign, Drama and Romance
+1150	0	<NULL>
+1151	1	Action/Adventure, Drama and Crime/Gangster
+1152	1	Art/Foreign and Drama
+1153	1	Comedy, Drama, Adaptation and Sports
+1154	1	Suspense/Horror, Adaptation and Remake
+1155	1	Art/Foreign and Drama
+1156	1	Drama
+1157	0	<NULL>
+1158	1	Comedy and Documentary
+1159	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+1160	1	Comedy, Drama, Kids/Family and Adaptation
+1161	1	Action/Adventure, Art/Foreign, Drama, Politics/Religion and War
+1162	1	Comedy, Drama and Remake
+1163	1	Drama, Kids/Family and Adaptation
+1164	1	Comedy, Drama, Romance and Adaptation
+1165	1	Documentary and Drama
+1166	1	Comedy, Drama and Adaptation
+1167	1	Art/Foreign and Drama
+1168	1	Action/Adventure and Romance
+1169	1	Comedy and Romance
+1170	1	Drama, Science Fiction/Fantasy and Thriller
+1171	1	Drama and Science Fiction/Fantasy
+1172	1	Drama
+1173	1	Drama
+1174	1	Art/Foreign and Drama
+1175	1	Western
+1176	1	Art/Foreign, Drama and Romance
+1177	1	Comedy
+1178	1	Drama
+1179	0	<NULL>
+1180	1	Suspense/Horror and Thriller
+1181	1	Action/Adventure, Drama, Kids/Family and Sports
+1182	1	Drama and Suspense/Horror
+1183	1	Action/Adventure, Comedy, Musical/Performing Arts, Crime/Gangster and Sequel
+1184	1	Drama and Thriller
+1185	1	Action/Adventure, Comedy, Drama and Crime/Gangster
+1186	1	Drama, Kids/Family and Thriller
+1187	1	Art/Foreign, Drama and Musical/Performing Arts
+1188	1	Action/Adventure, Art/Foreign, Drama, Biopic and Sports
+1189	1	Drama
+1190	1	Action/Adventure, Comedy and Kids/Family
+1191	1	Sports
+1192	1	Documentary
+1193	1	Kids/Family and Animation
+1194	1	Drama
+1195	1	Art/Foreign, Drama and Romance
+1196	1	Drama
+1197	1	Drama
+1198	1	Art/Foreign, Drama and Romance
+1199	1	Drama, Suspense/Horror, Thriller, Crime/Gangster and Teen
+1200	1	Drama and Musical/Performing Arts
+1201	1	Drama and Kids/Family
+1202	1	Drama and Kids/Family
+1203	1	Comedy, Drama and Teen
+1204	1	Comedy and Drama
+1205	1	Comedy, Drama and Romance
+1206	1	Action/Adventure, Art/Foreign, Thriller, Crime/Gangster and Adaptation
+1207	1	Drama, Romance and Adaptation
+1208	1	Kids/Family and Science Fiction/Fantasy
+1209	1	Drama, Adaptation and Teen
+1210	1	Comedy and Drama
+1211	1	Comedy, Drama and Kids/Family
+1212	1	Drama
+1213	1	Comedy and Drama
+1214	1	Action/Adventure, Comedy, Drama, Kids/Family, Romance, Science Fiction/Fantasy and Animation
+1215	1	Drama, Thriller, Adaptation and Politics/Religion
+1216	1	Comedy and Drama
+1217	1	Documentary
+1218	1	Comedy, Drama and Adaptation
+1219	1	Art/Foreign, Drama and Romance
+1220	1	Documentary
+1221	0	<NULL>
+1222	1	Documentary and Adaptation
+1223	1	Documentary and Musical/Performing Arts
+1224	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+1225	1	Comedy
+1226	1	Science Fiction/Fantasy and Thriller
+1227	1	Art/Foreign, Science Fiction/Fantasy, Animation and Adaptation
+1228	1	Drama and Thriller
+1229	1	Drama, Crime/Gangster, Adaptation and Biopic
+1230	1	Art/Foreign and Drama
+1231	1	Action/Adventure, Comedy, Thriller, Crime/Gangster and Adaptation
+1232	1	Documentary and Politics/Religion
+1233	1	Comedy and Sports
+1234	1	Art/Foreign, Drama and Romance
+1235	1	Drama, Thriller, Adaptation, Politics/Religion and War
+1236	1	Comedy, Drama and Thriller
+1237	1	Action/Adventure, Drama, Science Fiction/Fantasy, Adaptation and War
+1238	1	Comedy and Thriller
+1239	1	Action/Adventure, Art/Foreign and Drama
+1240	1	Suspense/Horror
+1241	1	Kids/Family and Animation
+1242	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror and Adaptation
+1243	1	Art/Foreign, Drama and Romance
+1244	1	Art/Foreign, Drama, Adaptation, Biopic and War
+1245	1	Action/Adventure, Suspense/Horror and Thriller
+1246	1	Drama and Adaptation
+1247	1	Drama
+1248	1	Documentary
+1249	1	Art/Foreign, Comedy, Kids/Family and Musical/Performing Arts
+1250	1	Art/Foreign and Drama
+1251	1	Drama, Kids/Family and Adaptation
+1252	1	Comedy
+1253	1	Drama and Biopic
+1254	1	Art/Foreign and Comedy
+1255	1	Action/Adventure and Comedy
+1256	1	Comedy and Kids/Family
+1257	1	Drama and Sports
+1258	1	Art/Foreign, Drama and Crime/Gangster
+1259	1	Drama and Thriller
+1260	1	Art/Foreign, Comedy and Drama
+1261	1	Documentary and Animation
+1262	1	Drama, Kids/Family and Sports
+1263	1	Action/Adventure, Adaptation and Remake
+1264	1	Drama and Adaptation
+1265	1	Drama, Kids/Family, Adaptation and Remake
+1266	1	Comedy and Romance
+1267	1	Comedy, Drama, Kids/Family and Teen
+1268	1	Drama and Kids/Family
+1269	1	Action/Adventure and Sports
+1270	1	Action/Adventure, Comedy, Western and Crime/Gangster
+1271	1	Art/Foreign, Comedy, Drama and Adaptation
+1272	1	Art/Foreign, Drama and Musical/Performing Arts
+1273	1	Thriller and Teen
+1274	1	Comedy, Drama, Kids/Family and Crime/Gangster
+1275	1	Science Fiction/Fantasy, Suspense/Horror, Thriller, Crime/Gangster and Politics/Religion
+1276	1	Documentary
+1277	1	Art/Foreign, Drama, Thriller and Adaptation
+1278	0	<NULL>
+1279	1	Action/Adventure and Drama
+1280	1	Action/Adventure, Drama, Thriller, Crime/Gangster and War
+1281	1	Art/Foreign and Drama
+1282	1	Documentary
+1283	1	Action/Adventure, Art/Foreign, Comedy, Drama, Thriller and Crime/Gangster
+1284	1	Comedy, Romance, Science Fiction/Fantasy and Adaptation
+1285	1	Comedy, Drama and Kids/Family
+1286	1	Action/Adventure and Animation
+1287	1	Drama and Adaptation
+1288	1	Comedy, Kids/Family and Animation
+1289	0	<NULL>
+1290	1	Comedy and Drama
+1291	1	Drama, Romance, Thriller and Sequel
+1292	1	Art/Foreign and Suspense/Horror
+1293	1	Documentary
+1294	1	Drama, Miscellaneous and Romance
+1295	1	Drama, Thriller and Crime/Gangster
+1296	1	Comedy and Romance
+1297	1	Comedy and Romance
+1298	1	Comedy and Drama
+1299	1	Art/Foreign, Comedy, Drama and Musical/Performing Arts
+1300	1	Comedy and Drama
+1301	1	Comedy and Romance
+1302	1	Drama, Romance and Adaptation
+1303	1	Action/Adventure, Comedy, Kids/Family, Science Fiction/Fantasy, Animation and Sequel
+1304	1	Science Fiction/Fantasy and Suspense/Horror
+1305	1	Documentary and Politics/Religion
+1306	1	Drama, Crime/Gangster and Teen
+1307	1	Comedy and Teen
+1308	1	Art/Foreign and Drama
+1309	1	Documentary and Politics/Religion
+1310	1	Comedy, Kids/Family and Adaptation
+1311	1	Drama, Romance, Adaptation and Politics/Religion
+1312	1	Comedy and Drama
+1313	1	Action/Adventure, Art/Foreign, Science Fiction/Fantasy, Suspense/Horror, Thriller and Adaptation
+1314	1	Drama, Musical/Performing Arts and Biopic
+1315	1	Suspense/Horror, Thriller, Remake and Sequel
+1316	1	Documentary
+1317	1	Comedy, Drama and Romance
+1318	1	Action/Adventure, Animation and Adaptation
+1319	1	Drama, Adaptation and Biopic
+1320	1	Art/Foreign, Drama, Science Fiction/Fantasy and Adaptation
+1321	1	Drama
+1322	1	Comedy, Kids/Family and Romance
+1323	1	Documentary
+1324	1	Comedy and Drama
+1325	1	Comedy, Science Fiction/Fantasy, Politics/Religion and Sequel
+1326	1	Documentary
+1327	1	Drama, Romance and Remake
+1328	1	Drama, Musical/Performing Arts and Biopic
+1329	1	Comedy and Romance
+1330	1	Art/Foreign, Drama, Science Fiction/Fantasy, Suspense/Horror and Thriller
+1331	1	Drama and Thriller
+1332	0	<NULL>
+1333	1	Comedy and Sequel
+1334	1	Comedy and Sequel
+1335	0	<NULL>
+1336	1	Action/Adventure and Comedy
+1337	1	Suspense/Horror
+1338	1	Action/Adventure, Sequel and War
+1339	1	Drama, Science Fiction/Fantasy and Thriller
+1340	1	Drama, Thriller and Crime/Gangster
+1341	1	Drama, Thriller and Crime/Gangster
+1342	1	Comedy and Romance
+1343	1	Drama
+1344	1	Action/Adventure, Kids/Family, Science Fiction/Fantasy and Animation
+1345	1	Drama, Thriller and Crime/Gangster
+1346	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+1347	1	Comedy
+1348	1	Action/Adventure, Drama, Science Fiction/Fantasy and Adaptation
+1349	1	Drama
+1350	1	Comedy
+1351	1	Comedy, Drama and Adaptation
+1352	1	Drama and Sports
+1353	1	Drama, Science Fiction/Fantasy, Suspense/Horror and Thriller
+1354	1	Drama and Thriller
+1355	1	Comedy, Drama, Thriller and Crime/Gangster
+1356	1	Art/Foreign, Comedy, Drama, Kids/Family and Romance
+1357	1	Drama and Science Fiction/Fantasy
+1358	1	Comedy
+1359	1	Drama
+1360	1	Comedy and Drama
+1361	1	Drama
+1362	1	Drama and Musical/Performing Arts
+1363	1	Thriller
+1364	1	Drama
+1365	1	Drama and Kids/Family
+1366	1	Comedy
+1367	1	Drama
+1368	1	Art/Foreign and Drama
+1369	1	Art/Foreign, Drama and Adaptation
+1370	1	Drama and Musical/Performing Arts
+1371	1	Action/Adventure, Drama, Kids/Family and Thriller
+1372	1	Comedy, Musical/Performing Arts and Politics/Religion
+1373	1	Drama, Thriller and Crime/Gangster
+1374	1	Art/Foreign, Drama and Adaptation
+1375	1	Comedy
+1376	1	Art/Foreign, Drama, Thriller, Crime/Gangster and Adaptation
+1377	0	<NULL>
+1378	1	Suspense/Horror, Thriller and Teen
+1379	1	Drama
+1380	1	Action/Adventure, Romance and Science Fiction/Fantasy
+1381	1	Drama and Romance
+1382	1	Action/Adventure, Comedy, Kids/Family and Animation
+1383	0	<NULL>
+1384	1	Comedy
+1385	1	Comedy and Kids/Family
+1386	1	Kids/Family, Science Fiction/Fantasy and Suspense/Horror
+1387	1	Art/Foreign, Drama, Kids/Family and Thriller
+1388	1	Comedy, Drama, Musical/Performing Arts and Adaptation
+1389	1	Science Fiction/Fantasy, Suspense/Horror and Thriller
+1390	1	Art/Foreign, Thriller and Adaptation
+1391	1	Comedy, Drama, Musical/Performing Arts and Teen
+1392	1	Drama and Adaptation
+1393	1	Drama, Biopic and Sports
+1394	1	Drama, Adaptation and Biopic
+1395	1	Art/Foreign, Drama, Biopic and Politics/Religion
+1396	1	Action/Adventure, Remake and War
+1397	1	Art/Foreign, Drama, Biopic and Sports
+1398	1	Comedy, Drama and Adaptation
+1399	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+1400	1	Musical/Performing Arts, Science Fiction/Fantasy and Thriller
+1401	1	Musical/Performing Arts, Romance and Politics/Religion
+1402	1	Drama, Thriller, Politics/Religion and War
+1403	1	Comedy, Kids/Family, Animation and Sequel
+1404	1	Comedy and Kids/Family
+1405	1	Drama and Crime/Gangster
+1406	1	Drama
+1407	1	Comedy
+1408	1	Drama
+1409	1	Drama, Musical/Performing Arts and Adaptation
+1410	1	Art/Foreign and Drama
+1411	1	Art/Foreign, Drama, Kids/Family and Western
+1412	1	Art/Foreign and Drama
+1413	1	Comedy
+1414	1	Art/Foreign, Drama, Romance, Thriller and Adaptation
+1415	1	Documentary and War
+1416	1	Art/Foreign and Drama
+1417	1	Action/Adventure, Art/Foreign and Biopic
+1418	0	<NULL>
+1419	1	Comedy, Kids/Family and Adaptation
+1420	1	Action/Adventure, Comedy, Documentary, Adaptation and Sequel
+1421	0	<NULL>
+1422	1	Drama and Sports
+1423	1	Drama and Romance
+1424	0	<NULL>
+1425	1	Drama, Thriller and Crime/Gangster
+1426	1	Comedy, Romance and Holiday
+1427	1	Drama, Adaptation and Sports
+1428	1	Art/Foreign, Drama and Kids/Family
+1429	1	Drama and Romance
+1430	1	Art/Foreign, Drama, Romance and Science Fiction/Fantasy
+1431	1	Comedy, Musical/Performing Arts, Animation and Adaptation
+1432	1	Drama, Musical/Performing Arts and Teen
+1433	0	<NULL>
+1434	1	Drama, Musical/Performing Arts and Teen
+1435	1	Action/Adventure and Art/Foreign
+1436	1	Drama, Kids/Family and Adaptation
+1437	1	Art/Foreign and Thriller
+1438	0	<NULL>
+1439	1	Drama, Thriller and Crime/Gangster
+1440	1	Comedy, Kids/Family and Adaptation
+1441	1	Drama, Romance, Adaptation and Teen
+1442	1	Drama and Thriller
+1443	1	Action/Adventure, Comedy and Crime/Gangster
+1444	1	Documentary
+1445	1	Romance
+1446	1	Art/Foreign, Drama, Adaptation and Politics/Religion
+1447	1	Action/Adventure
+1448	1	Drama and Adaptation
+1449	1	Documentary and Sports
+1450	0	<NULL>
+1451	0	<NULL>
+1452	1	Documentary and Sequel
+1453	1	Comedy
+1454	1	Drama
+1455	1	Comedy
+1456	1	Drama, Romance and Adaptation
+1457	0	<NULL>
+1458	1	Art/Foreign, Kids/Family, Science Fiction/Fantasy, Animation and Adaptation
+1459	1	Drama, Science Fiction/Fantasy, Thriller, Remake and Teen
+1460	1	Action/Adventure, Art/Foreign, Comedy and Adaptation
+1461	1	Thriller
+1462	1	Action/Adventure, Drama and War
+1463	1	Drama and Thriller
+1464	1	Drama, Thriller and Adaptation
+1465	1	Drama, Science Fiction/Fantasy and Thriller
+1466	1	Drama, Musical/Performing Arts and Biopic
+1467	1	Art/Foreign and Drama
+1468	1	Art/Foreign, Drama, Politics/Religion and War
+1469	1	Art/Foreign, Science Fiction/Fantasy and Thriller
+1470	1	Art/Foreign, Science Fiction/Fantasy, Adaptation and Sequel
+1471	1	Art/Foreign, Comedy, Romance and War
+1472	1	Art/Foreign, Comedy, Crime/Gangster and Adaptation
+1473	1	Comedy
+1474	1	Art/Foreign, Drama and Musical/Performing Arts
+1475	1	Comedy
+1476	1	Drama, Thriller, Adaptation and Politics/Religion
+1477	1	Art/Foreign, Drama and Kids/Family
+1478	1	Action/Adventure, Art/Foreign and Comedy
+1479	1	Comedy and Teen
+1480	1	Art/Foreign, Suspense/Horror and Thriller
+1481	1	Art/Foreign and Comedy
+1482	1	Comedy, Drama and Kids/Family
+1483	1	Comedy
+1484	1	Comedy
+1485	1	Suspense/Horror and Thriller
+1486	1	Action/Adventure, Comedy, Kids/Family, Musical/Performing Arts, Romance, Science Fiction/Fantasy and Animation
+1487	1	Action/Adventure and Documentary
+1488	1	Art/Foreign, Drama, Musical/Performing Arts and Thriller
+1489	1	Comedy and Adaptation
+1490	1	Art/Foreign, Drama, Adaptation and Politics/Religion
+1491	1	Drama
+1492	0	<NULL>
+1493	1	Art/Foreign, Drama, Politics/Religion and Teen
+1494	1	Art/Foreign, Drama and War
+1495	1	Comedy and Suspense/Horror
+1496	1	Action/Adventure, Art/Foreign and Documentary
+1497	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror, Thriller, Adaptation, Sequel and War
+1498	1	Art/Foreign, Animation, Adaptation and Teen
+1499	1	Art/Foreign, Drama and Adaptation
+1500	1	Comedy, Drama and Romance
+1501	1	Art/Foreign and Comedy
+1502	1	Drama, Crime/Gangster and Adaptation
+1503	1	Action/Adventure, Comedy, Kids/Family and Animation
+1504	1	Comedy
+1505	1	Drama and Politics/Religion
+1506	1	Comedy
+1507	1	Action/Adventure, Science Fiction/Fantasy, Animation and Adaptation
+1508	1	Art/Foreign, Comedy and Suspense/Horror
+1509	1	Comedy and Teen
+1510	1	Comedy and Romance
+1511	1	Comedy, Science Fiction/Fantasy and Animation
+1512	1	Action/Adventure, Drama, Science Fiction/Fantasy and Adaptation
+1513	1	Art/Foreign, Comedy and Biopic
+1514	1	Comedy and Drama
+1515	1	Drama, Romance, Adaptation, Teen and War
+1516	1	Comedy
+1517	1	Comedy
+1518	1	Comedy, Drama and Musical/Performing Arts
+1519	1	Drama
+1520	1	Art/Foreign, Drama and Adaptation
+1521	1	Drama, Adaptation, Biopic and Sports
+1522	1	Drama, Thriller and Adaptation
+1523	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+1524	0	<NULL>
+1525	1	Comedy and Drama
+1526	1	Art/Foreign and Crime/Gangster
+1527	1	Documentary and Musical/Performing Arts
+1528	1	Art/Foreign and Drama
+1529	1	Animation and Adaptation
+1530	1	Art/Foreign, Comedy and Musical/Performing Arts
+1531	1	Comedy, Drama, Kids/Family and Science Fiction/Fantasy
+1532	1	Comedy, Thriller and Crime/Gangster
+1533	1	Drama, Thriller and Adaptation
+1534	1	Comedy
+1535	1	Drama, Romance and Adaptation
+1536	1	Drama, Suspense/Horror and Thriller
+1537	1	Drama, Romance and Adaptation
+1538	1	Comedy, Kids/Family and Sports
+1539	1	Action/Adventure, Art/Foreign, Science Fiction/Fantasy and Sequel
+1540	1	Art/Foreign, Comedy, Romance and Adaptation
+1541	1	Art/Foreign, Comedy and Drama
+1542	1	Comedy
+1543	1	Comedy and Drama
+1544	1	Art/Foreign, Comedy, Science Fiction/Fantasy and Suspense/Horror
+1545	1	Thriller and Adaptation
+1546	1	Documentary and Musical/Performing Arts
+1547	0	<NULL>
+1548	1	Drama and Kids/Family
+1549	1	Art/Foreign and Comedy
+1550	1	Comedy and Kids/Family
+1551	1	Action/Adventure, Science Fiction/Fantasy, Adaptation and Sequel
+1552	1	Comedy
+1553	1	Drama, Romance and Adaptation
+1554	1	Suspense/Horror, Thriller and Crime/Gangster
+1555	1	Documentary and Politics/Religion
+1556	1	Action/Adventure, Comedy and Animation
+1557	1	Action/Adventure, Art/Foreign, Drama, Politics/Religion and War
+1558	1	Comedy and Drama
+1559	1	Comedy and Sports
+1560	1	Comedy and Teen
+1561	1	Action/Adventure, Comedy, Drama and Kids/Family
+1562	1	Comedy, Thriller, Adaptation and Remake
+1563	1	Drama, Adaptation and Politics/Religion
+1564	1	Thriller
+1565	0	<NULL>
+1566	1	Comedy
+1567	1	Art/Foreign, Comedy and Drama
+1568	0	<NULL>
+1569	1	Art/Foreign, Drama and Musical/Performing Arts
+1570	1	Comedy, Documentary and Politics/Religion
+1571	1	Comedy
+1572	1	Documentary and Sports
+1573	1	Comedy, Musical/Performing Arts and Biopic
+1574	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+1575	1	Action/Adventure, Science Fiction/Fantasy, Thriller and Politics/Religion
+1576	1	Suspense/Horror and Thriller
+1577	1	Kids/Family, Musical/Performing Arts, Romance, Science Fiction/Fantasy and Animation
+1578	1	Documentary, Politics/Religion and War
+1579	1	Documentary and Politics/Religion
+1580	1	Documentary, Musical/Performing Arts and Biopic
+1581	1	Action/Adventure, Thriller, Crime/Gangster and Adaptation
+1582	1	Drama and Adaptation
+1583	1	Art/Foreign, Comedy, Remake and Teen
+1584	0	<NULL>
+1585	1	Drama
+1586	1	Science Fiction/Fantasy and Animation
+1587	1	Comedy, Kids/Family and Musical/Performing Arts
+1588	1	Action/Adventure, Drama, Thriller and Crime/Gangster
+1589	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+1590	1	Documentary and Politics/Religion
+1591	1	Drama and War
+1592	1	Suspense/Horror, Thriller, Crime/Gangster and Sequel
+1593	1	Thriller
+1594	1	Comedy
+1595	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+1596	1	Drama, Thriller and Sequel
+1597	1	Drama, Science Fiction/Fantasy, Thriller and Crime/Gangster
+1598	1	Drama and Adaptation
+1599	1	Suspense/Horror, Thriller and Crime/Gangster
+1600	1	Art/Foreign, Drama, Kids/Family and Politics/Religion
+1601	1	Action/Adventure, Art/Foreign, Drama and Kids/Family
+1602	1	Art/Foreign, Drama and Adaptation
+1603	1	Drama
+1604	1	Comedy
+1605	1	Documentary and Sports
+1606	1	Comedy and Romance
+1607	1	Action/Adventure, Art/Foreign and Sequel
+1608	0	<NULL>
+1609	1	Art/Foreign, Drama and Romance
+1610	1	Art/Foreign, Drama, Romance and Thriller
+1611	1	Comedy and Crime/Gangster
+1612	1	Drama, Romance and Politics/Religion
+1613	1	Suspense/Horror, Thriller, Crime/Gangster and Adaptation
+1614	1	Art/Foreign, Comedy, Drama and Adaptation
+1615	1	Science Fiction/Fantasy, Suspense/Horror, Thriller and Remake
+1616	1	Drama
+1617	1	Comedy
+1618	1	Art/Foreign and Drama
+1619	1	Art/Foreign and Adaptation
+1620	1	Drama and Adaptation
+1621	1	Drama and Adaptation
+1622	1	Kids/Family, Adaptation, Sequel and Teen
+1623	1	Art/Foreign, Comedy and Western
+1624	1	Documentary, Politics/Religion and Teen
+1625	1	Art/Foreign and Comedy
+1626	1	Art/Foreign, Drama and Crime/Gangster
+1627	1	Action/Adventure, Science Fiction/Fantasy, Suspense/Horror, Thriller and Teen
+1628	1	Art/Foreign, Drama, Thriller and Crime/Gangster
+1629	1	Drama
+1630	1	Drama
+1631	1	Drama, Musical/Performing Arts and Romance
+1632	1	Art/Foreign, Musical/Performing Arts, Science Fiction/Fantasy and Adaptation
+1633	1	Comedy and Adaptation
+1634	1	Comedy, Drama, Romance, Politics/Religion and Teen
+1635	1	Drama
+1636	1	Action/Adventure, Drama, Thriller and War
+1637	1	Comedy, Drama, Kids/Family and Politics/Religion
+1638	0	<NULL>
+1639	1	Comedy
+1640	1	Comedy and Drama
+1641	1	Suspense/Horror and Remake
+1642	1	Comedy
+1643	1	Art/Foreign, Comedy, Drama and Sports
+1644	1	S and Comedy
+1645	1	Comedy, Drama and Politics/Religion
+1646	1	Comedy
+1647	1	Art/Foreign, Drama and Adaptation
+1648	1	Comedy
+1649	1	Drama, Kids/Family, Science Fiction/Fantasy, Suspense/Horror and Thriller
+1650	1	Drama and Romance
+1651	1	Drama
+1652	1	Action/Adventure, Science Fiction/Fantasy, Thriller, Remake and Sports
+1653	1	Action/Adventure and Animation
+1654	1	Art/Foreign and Documentary
+1655	1	Comedy, Sequel, Sports and Teen
+1656	0	<NULL>
+1657	1	Drama, Animation and Politics/Religion
+1658	1	Comedy and Drama
+1659	1	Comedy, Science Fiction/Fantasy and Thriller
+1660	1	Action/Adventure, Art/Foreign, Drama, Thriller and Crime/Gangster
+1661	1	Science Fiction/Fantasy
+1662	0	<NULL>
+1663	0	<NULL>
+1664	1	Comedy and Adaptation
+1665	1	Comedy, Kids/Family and Adaptation
+1666	1	Comedy, Drama, Kids/Family, Romance and Sports
+1667	1	Drama, Adaptation and Teen
+1668	1	Comedy
+1669	1	Drama and Science Fiction/Fantasy
+1670	1	Comedy
+1671	0	<NULL>
+1672	1	Comedy, Musical/Performing Arts and Romance
+1673	1	Documentary
+1674	1	Documentary and Biopic
+1675	1	Art/Foreign, Documentary and Politics/Religion
+1676	1	Drama and Romance
+1677	0	<NULL>
+1678	1	Art/Foreign, Documentary, Adaptation and Biopic
+1679	1	Science Fiction/Fantasy, Thriller and Teen
+1680	1	Comedy and Musical/Performing Arts
+1681	0	<NULL>
+1682	1	Comedy, Drama, Romance and Adaptation
+1683	1	Art/Foreign, Drama, Crime/Gangster and Adaptation
+1684	1	Art/Foreign, Comedy, Drama and Romance
+1685	1	Comedy
+1686	1	Action/Adventure, Drama, Adaptation and War
+1687	1	Comedy, Drama and Crime/Gangster
+1688	1	Art/Foreign and Drama
+1689	1	Drama, Thriller and Adaptation
+1690	1	Comedy and Drama
+1691	1	Drama, Musical/Performing Arts, Adaptation and Biopic
+1692	0	<NULL>
+1693	0	<NULL>
+1694	1	Art/Foreign, Drama and Thriller
+1695	1	Art/Foreign, Drama, Thriller, Crime/Gangster and War
+1696	1	Art/Foreign, Drama and Romance
+1697	1	Art/Foreign, Documentary, Animation and War
+1698	1	Action/Adventure, Science Fiction/Fantasy and Animation
+1699	1	Drama
+1700	1	Action/Adventure, Kids/Family and Science Fiction/Fantasy
+1701	1	Art/Foreign and Comedy
+1702	1	Drama, Musical/Performing Arts and Adaptation
+1703	1	Documentary and Adaptation
+1704	1	Action/Adventure, Art/Foreign, Thriller and Crime/Gangster
+1705	0	<NULL>
+1706	1	Art/Foreign and Comedy
+1707	1	Art/Foreign and Drama
+1708	1	Art/Foreign, Drama and Kids/Family
+1709	1	Art/Foreign, Drama and Crime/Gangster
+1710	1	Action/Adventure, Thriller, Crime/Gangster, Adaptation and Remake
+1711	1	Drama, Kids/Family and Crime/Gangster
+1712	0	<NULL>
+1713	0	<NULL>
+1714	1	Kids/Family, Animation and Sequel
+1715	1	Drama
+1716	1	Art/Foreign, Drama, Romance, Adaptation and Teen
+1717	1	Art/Foreign and Thriller
+1718	1	Action/Adventure, Art/Foreign, Drama, Romance and Politics/Religion
+1719	1	Action/Adventure, Crime/Gangster and Sequel
+1720	1	Drama, Musical/Performing Arts and Biopic
+1721	1	Action/Adventure, Art/Foreign, Drama and Crime/Gangster
+1722	1	Art/Foreign, Comedy and Romance
+1723	1	Comedy and Romance
+1724	1	Documentary and Drama
+1725	0	<NULL>
+1726	1	Kids/Family and Animation
+1727	1	Documentary
+1728	1	Kids/Family, Animation and Sequel
+1729	0	<NULL>
+1730	1	Suspense/Horror and Remake
+1731	1	Science Fiction/Fantasy, Suspense/Horror and Thriller
+1732	1	Art/Foreign, Drama, Adaptation and Biopic
+1733	1	Comedy and Adaptation
+1734	1	Romance and Thriller
+1735	1	Comedy, Drama, Kids/Family and Romance
+1736	1	Comedy and Drama
+1737	1	Documentary and Politics/Religion
+1738	1	Action/Adventure, Science Fiction/Fantasy, Thriller and Adaptation
+1739	1	Comedy
+1740	1	Art/Foreign, Comedy, Drama and Kids/Family
+1741	1	Art/Foreign, Comedy, Adaptation and Politics/Religion
+1742	1	Art/Foreign, Drama, Biopic and Politics/Religion
+1743	1	Drama, Romance and Thriller
+1744	0	<NULL>
+1745	1	Documentary and Biopic
+1746	1	Action/Adventure, Science Fiction/Fantasy, Adaptation and Sequel
+1747	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+1748	1	Art/Foreign, Comedy and Drama
+1749	1	Art/Foreign, Animation and Adaptation
+1750	1	Action/Adventure, Comedy, Animation and Adaptation
+1751	1	Comedy and Drama
+1752	1	Art/Foreign, Drama and Romance
+1753	1	Kids/Family, Animation and Adaptation
+1754	0	<NULL>
+1755	1	Action/Adventure, Science Fiction/Fantasy and Thriller
+1756	1	Drama, Science Fiction/Fantasy, Suspense/Horror and Thriller
+1757	1	Comedy and Adaptation
+1758	0	<NULL>
+1759	1	Drama and Thriller
+1760	1	Comedy and Sports
+1761	1	Action/Adventure, Drama, Science Fiction/Fantasy and Adaptation
+1762	1	Documentary and Sports
+1763	1	Drama and Thriller
+1764	1	Drama and Biopic
+1765	1	Action/Adventure, Art/Foreign, Thriller, Adaptation and Politics/Religion
+1766	1	Drama, Musical/Performing Arts and Adaptation
+1767	1	Drama and Crime/Gangster
+1768	1	Documentary and Musical/Performing Arts
+1769	0	<NULL>
+1770	1	Art/Foreign, Adaptation and Politics/Religion
+1771	1	Drama, Romance and Holiday
+1772	1	Drama, Thriller, Adaptation and Politics/Religion
+1773	1	Comedy, Kids/Family and Adaptation
+1774	1	Comedy and Drama
+1775	1	Art/Foreign, Comedy and Drama
+1776	1	Drama, Biopic and Politics/Religion
+1777	1	Comedy, Documentary, Drama and Musical/Performing Arts
+1778	1	Action/Adventure, Drama and Thriller
+1779	1	Art/Foreign, Comedy and Musical/Performing Arts
+1780	1	Documentary
+1781	1	Documentary
+1782	1	Documentary and Sports
+1783	1	Documentary and Musical/Performing Arts
+1784	1	Documentary
+1785	1	Comedy, Crime/Gangster and Remake
+1786	1	Art/Foreign, Documentary and Politics/Religion
+1787	1	Documentary
+1788	1	Comedy
+1789	1	Art/Foreign, Drama, Romance and Science Fiction/Fantasy
+1790	1	Art/Foreign, Comedy and Animation
+1791	1	Suspense/Horror, Thriller and Sequel
+1792	1	Documentary and Kids/Family
+1793	1	Art/Foreign and Comedy
+1794	1	Drama
+1795	1	Art/Foreign and Drama
+1796	1	Drama and Kids/Family
+1797	1	Suspense/Horror, Thriller and Remake
+1798	1	Drama
+1799	1	Art/Foreign, Drama and Thriller
+1800	1	Art/Foreign, Drama, Crime/Gangster and Adaptation
+1801	1	Art/Foreign, Comedy, Drama and Romance
+1802	1	Art/Foreign, Drama, Kids/Family and Musical/Performing Arts
+1803	1	Crime/Gangster and Sports
+1804	1	Drama
+1805	1	Art/Foreign and Drama
+1806	1	Action/Adventure and Art/Foreign
+1807	1	Suspense/Horror and Thriller
+1808	1	Drama and Suspense/Horror
+1809	1	Comedy and Romance
+1810	1	Drama and Adaptation
+1811	1	Comedy and Documentary
+1812	1	Documentary and Biopic
+1813	1	Documentary and Musical/Performing Arts
+1814	1	Documentary
+1815	1	Drama
+1816	1	Drama
+1817	1	Documentary and Politics/Religion
+1818	1	Action/Adventure, Thriller and Mystery
+1819	1	Comedy, Drama and Romance
+1820	1	Art/Foreign, Comedy, Drama, Adaptation and Biopic
+1821	1	Documentary and Musical/Performing Arts
+1822	1	Comedy
+1823	1	Comedy
+1824	1	Comedy
+1825	1	Art/Foreign and Drama
+1826	1	Comedy, Drama and Kids/Family
+1827	1	Art/Foreign, Drama and Adaptation
+1828	1	Art/Foreign, Biopic and War
+1829	0	<NULL>
+1830	1	Drama and Thriller
+1831	1	Art/Foreign, Drama, Biopic and Politics/Religion
+1832	1	Art/Foreign, Crime/Gangster and Politics/Religion
+1833	1	Drama and Romance
+1834	0	<NULL>
+1835	1	Art/Foreign and Drama
+1836	1	Art/Foreign, Adaptation, Biopic and Sports
+1837	1	Drama
+1838	1	Action/Adventure, Comedy, Romance and Adaptation
+1839	1	Art/Foreign, Drama and Adaptation
+1840	1	Drama and Biopic
+1841	1	Documentary
+1842	1	Documentary and Suspense/Horror
+1843	1	Comedy and Drama
+1844	0	<NULL>
+1845	1	Art/Foreign, Thriller, Crime/Gangster and Adaptation
+1846	1	Comedy, Drama and Adaptation
+1847	0	<NULL>
+1848	0	<NULL>
+1849	1	Action/Adventure, Comedy, Science Fiction/Fantasy and Adaptation
+1850	1	Art/Foreign, Drama and Adaptation
+1851	1	Action/Adventure, Art/Foreign, Comedy and Romance
+1852	1	Art/Foreign, Drama, Musical/Performing Arts and Biopic
+1853	1	Art/Foreign, Thriller, Western and Crime/Gangster
+1854	1	Art/Foreign, Documentary and Musical/Performing Arts
+1855	1	Documentary, Crime/Gangster and Politics/Religion
+1856	1	Drama
+1857	1	Drama, Thriller, Politics/Religion and Mystery
+1858	1	Comedy and Drama
+1859	1	Drama and Adaptation
+1860	1	Documentary and Kids/Family
+1861	1	Comedy
+1862	1	Comedy
+1863	1	Action/Adventure, Comedy, Science Fiction/Fantasy, Animation and Adaptation
+1864	1	Comedy and Romance
+1865	1	Art/Foreign, Drama, Science Fiction/Fantasy and Adaptation
+1866	1	Documentary
+1867	1	Art/Foreign, Science Fiction/Fantasy and Thriller
+1868	1	Drama
+1869	1	Art/Foreign, Drama and Crime/Gangster
+1870	1	Comedy
+1871	1	Thriller and Crime/Gangster
+1872	1	Drama
+1873	1	Drama
+1874	1	Documentary
+1875	1	Comedy
+1876	1	Suspense/Horror and Crime/Gangster
+1877	1	Comedy
+1878	1	Documentary
+1879	1	Drama, Romance and Adaptation
+1880	1	Art/Foreign and Suspense/Horror
+1881	1	Comedy, Kids/Family and Romance
+1882	1	Art/Foreign and Comedy
+1883	1	Art/Foreign and Comedy
+1884	1	Comedy
+1885	1	Action/Adventure, Thriller and Adaptation
+1886	1	Drama
+1887	1	Suspense/Horror
+1888	1	Art/Foreign, Suspense/Horror and Thriller
+1889	1	Comedy
+1890	1	Art/Foreign and Drama
+1891	0	<NULL>
+1892	1	Drama, Romance, Suspense/Horror and Thriller
+1893	1	Drama, Kids/Family, Romance and Adaptation
+1894	1	Drama
+1895	1	Action/Adventure, Art/Foreign and Drama
+1896	1	Action/Adventure, Comedy and Adaptation
+1897	1	Comedy, Kids/Family, Romance, Adaptation and Teen
+1898	1	Art/Foreign, Drama, Adaptation and Biopic
+1899	1	Art/Foreign
+1900	1	Action/Adventure, Comedy and Suspense/Horror
+1901	1	Kids/Family, Animation and Holiday
+1902	1	Comedy
+1903	1	Art/Foreign, Comedy, Drama and Politics/Religion
+1904	1	Art/Foreign and Documentary
+1905	1	Documentary
+1906	1	Documentary, Biopic and Politics/Religion
+1907	1	Action/Adventure, Romance and Thriller
+1908	1	Drama and Romance
+1909	1	Comedy and Adaptation
+1910	1	Comedy
+1911	1	Art/Foreign, Comedy, Drama and Adaptation
+1912	1	Drama, Science Fiction/Fantasy and Thriller
+1913	1	Art/Foreign, Thriller and Remake
+1914	1	Thriller
+1915	1	Drama, Thriller and Adaptation
+1916	1	Action/Adventure, Drama and Sports
+1917	1	Comedy, Drama and Romance
+1918	1	Art/Foreign, Documentary and Kids/Family
+1919	1	Drama and Romance
+1920	1	Drama and Biopic
+1921	1	Action/Adventure and Drama
+1922	1	Comedy, Documentary, Adaptation and Sequel
+1923	1	Art/Foreign and Comedy
+1924	1	Comedy, Documentary and Drama
+1925	1	Art/Foreign and Drama
+1926	1	Art/Foreign, Comedy and Drama
+1927	1	Documentary
+1928	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+1929	1	Comedy, Documentary and Biopic
+1930	1	Documentary
+1931	1	Documentary and Musical/Performing Arts
+1932	1	Art/Foreign and Documentary
+1933	1	Documentary and Thriller
+1934	1	Drama
+1935	1	Drama
+1936	1	Drama
+1937	1	Suspense/Horror and Thriller
+1938	1	Art/Foreign, Documentary and Biopic
+1939	1	Art/Foreign and Comedy
+1940	1	Art/Foreign, Drama, Thriller and War
+1941	1	Comedy and Remake
+1942	1	Art/Foreign, Drama, Adaptation and Biopic
+1943	1	Comedy and Romance
+1944	1	Art/Foreign and Thriller
+1945	1	Documentary
+1946	1	Comedy, Documentary and Biopic
+1947	1	Comedy
+1948	1	Drama
+1949	1	Documentary and Biopic
+1950	1	Action/Adventure, Science Fiction/Fantasy, Sequel and Sports
+1951	1	Documentary
+1952	1	Documentary
+1953	0	<NULL>
+1954	1	Documentary and Biopic
+1955	1	Comedy, Drama and Romance
+1956	1	Action/Adventure, Western, Adaptation and Remake
+1957	1	Documentary
+1958	1	Romance, Thriller and Adaptation
+1959	1	Action/Adventure, Comedy and Drama
+1960	1	Drama, Romance and Adaptation
+1961	1	Documentary
+1962	1	Documentary
+1963	1	Comedy, Romance and Adaptation
+1964	1	Art/Foreign, Comedy, Drama and Musical/Performing Arts
+1965	1	Action/Adventure, Science Fiction/Fantasy and Adaptation
+1966	1	Fantasy
+1967	1	Art/Foreign, Thriller and Adaptation
+1968	1	Art/Foreign and Drama
+1969	1	Documentary and Politics/Religion
+1970	1	Comedy and Drama
+1971	1	Drama
+1972	1	Drama
+1973	1	Comedy
+1974	1	Comedy and Drama
+1975	1	Drama, Kids/Family, Politics/Religion and War
+1976	1	Comedy, Drama, Biopic and War
+1977	1	Comedy, Drama and Sports
+1978	1	Documentary
+1979	1	Art/Foreign, Drama and Romance
+1980	1	Drama, Thriller and Crime/Gangster
+1981	1	Art/Foreign and Comedy
+1982	1	Drama, Kids/Family and Holiday
+1983	1	Art/Foreign, Drama, Sports and Teen
+1984	1	Art/Foreign and Comedy
+1985	1	Art/Foreign, Drama and Adaptation
+1986	1	Art/Foreign and Comedy
+1987	1	Art/Foreign and Comedy
+1988	1	Comedy and Drama
+1989	1	Drama
+1990	1	Drama and War
+1991	1	Comedy and Politics/Religion
+1992	1	Art/Foreign, Drama and Kids/Family
+1993	1	Comedy
+1994	1	Action/Adventure, Thriller and Crime/Gangster
+1995	1	Action/Adventure, Art/Foreign, Comedy, Kids/Family and Animation
+1996	1	Art/Foreign and Drama
+1997	1	Art/Foreign, Drama and War
+1998	1	Documentary
+1999	1	Drama, Politics/Religion and Teen

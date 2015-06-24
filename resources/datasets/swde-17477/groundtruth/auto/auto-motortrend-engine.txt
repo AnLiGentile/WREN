@@ -1,0 +1,1269 @@
+﻿auto	motortrend	engine
+1267	1267	1267	262
+0000	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+0001	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0002	1	Engine: 4.0L V 8 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0003	1	Engine: 4.0L V 8 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0004	1	Engine: 4.0L V 8 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0005	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0006	1	Engine: 3.0L in-line 6 double overhead cam ( 17.0 :1 compression ratio ; four valves per cylinder)
+0007	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0008	1	Engine: 4.4L V 8 double overhead cam with VVT ( 9.3 :1 compression ratio ; four valves per cylinder)
+0009	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+0010	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+0011	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+0012	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0013	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0014	1	Engine: 4.4L V 8 double overhead cam with VVT ( 9.3 :1 compression ratio ; four valves per cylinder)
+0015	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0016	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0017	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0018	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0019	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0020	1	Engine: 2.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0021	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0022	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0023	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0024	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0025	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0026	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0027	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0028	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0029	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0030	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0031	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0032	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0033	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0034	1	Engine: 3.8L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0035	1	Engine: 3.8L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0036	1	Engine: 3.8L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0037	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0038	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0039	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0040	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0041	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0042	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0043	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0044	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0045	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0046	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.1 :1 compression ratio ; four valves per cylinder)
+0047	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.1 :1 compression ratio ; four valves per cylinder)
+0048	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0049	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0050	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0051	1	Engine: 2.7L V 6 double overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+0052	1	Engine: 2.7L V 6 double overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+0053	1	Engine: 3.8L horizontal 6 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0054	1	Engine: 3.8L horizontal 6 double overhead cam with VVT ( 9.8 :1 compression ratio ; four valves per cylinder)
+0055	1	Engine: 3.8L horizontal 6 double overhead cam with VVT ( 9.8 :1 compression ratio ; four valves per cylinder)
+0056	1	Engine: 3.4L horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0057	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0058	1	Engine: 4.8L V-8 DOHC with variable valve timing and four valves per cylinder
+0059	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0060	1	Engine: 4.8L V-8 DOHC with variable valve timing and four valves per cylinder
+0061	1	Engine: 3.6L V 6 double overhead cam with VVT ( 12.3 :1 compression ratio ; four valves per cylinder)
+0062	1	Engine: 4.8L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+0063	1	Engine: 4.8L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+0064	1	Engine: 4.8L V 8 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0065	1	Engine: 4.8L V 8 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0066	1	Engine: 4.8L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+0067	1	Engine: 4.8L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+0068	1	Engine: 4.8L V 8 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0069	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0070	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0071	1	Engine: 2.4L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0072	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0073	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0074	1	Engine: 3.0L V 6 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0075	1	Engine: 3.0L V 6 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0076	1	Engine: 3.6L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0077	1	Engine: 3.9L V-6 OHV with variable valve timing and two valves per cylinder
+0078	1	Engine: 3.9L V-6 OHV with variable valve timing and two valves per cylinder
+0079	1	Engine: 3.9L V-6 OHV with variable valve timing and two valves per cylinder
+0080	1	Engine: 4.6L Northstar V-8 DOHC and four valves per cylinder
+0081	1	Engine: 2.4L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0082	1	Engine: 5.2L V-10 DOHC with variable valve timing and four valves per cylinder
+0083	1	Engine: 5.2L V-10 DOHC with variable valve timing and four valves per cylinder
+0084	1	Engine: 6.5L V-12 DOHC with variable valve timing and four valves per cylinder
+0085	1	Engine: 6.5L V-12 DOHC with variable valve timing and four valves per cylinder
+0086	1	Engine: 6.5L V-12 DOHC with variable valve timing and four valves per cylinder
+0087	1	Engine: 6.6L V-12 DOHC with variable valve timing and four valves per cylinder
+0088	1	Engine: 6.7L V-12 DOHC with variable valve timing and four valves per cylinder
+0089	1	Engine: 6.7L V-12 DOHC with variable valve timing and four valves per cylinder
+0090	1	Engine: 6.7L V-12 DOHC with variable valve timing and four valves per cylinder
+0091	1	Engine: 6.7L V-12 DOHC with variable valve timing and four valves per cylinder
+0092	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0093	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0094	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0095	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0096	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0097	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0098	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0099	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0100	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0101	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0102	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0103	1	Engine: 3.0L V 6 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0104	1	Engine: 3.6L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0105	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0106	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0107	1	Engine: 6.2L V 8 overhead valve ( 9.0 :1 compression ratio ; two valves per cylinder)
+0108	1	Engine: 4.6L Northstar V-8 DOHC and four valves per cylinder
+0109	1	Engine: 4.6L Northstar V-8 DOHC and four valves per cylinder
+0110	1	Engine: 4.6L Northstar V-8 DOHC and four valves per cylinder
+0111	1	Engine: 4.6L Northstar V-8 DOHC and four valves per cylinder
+0112	1	Engine: 6.2L V 8 overhead valve with VVT ( 10.5 :1 compression ratio ; two valves per cylinder)
+0113	1	Engine: 6.2L V 8 overhead valve with VVT ( 10.5 :1 compression ratio ; two valves per cylinder)
+0114	1	Engine: 6.0L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0115	1	Engine: 6.2L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0116	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0117	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0118	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0119	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0120	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0121	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0122	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0123	1	Engine: 3.2L in-line6 DOHC with variable valve timing and four valves per cylinder
+0124	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0125	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0126	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+0127	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0128	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0129	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0130	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0131	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+0132	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0133	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0134	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0135	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0136	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0137	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0138	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0139	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0140	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0141	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0142	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0143	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0144	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0145	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0146	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0147	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0148	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0149	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0150	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0151	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0152	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0153	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0154	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0155	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0156	1	Engine: 2.8L V 6 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+0157	1	Engine: 2.0L in-line 4 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0158	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0159	1	Engine: 2.8L V-6 DOHC with variable valve timing and four valves per cylinder
+0160	1	Engine: 2.8L V-6 DOHC with variable valve timing and four valves per cylinder
+0161	1	Engine: 2.8L V-6 DOHC with variable valve timing and four valves per cylinder
+0162	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0163	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0164	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0165	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0166	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0167	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0168	1	Engine: 1.6L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0169	1	Engine: 1.6L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0170	1	Engine: 1.6L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0171	1	Engine: 1.6L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0172	1	Engine: 3.6L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0173	1	Engine: 3.6L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0174	1	Engine: 6.2L V 8 overhead valve ( 10.7 :1 compression ratio ; two valves per cylinder)
+0175	1	Engine: 2.9L Vortec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0176	1	Engine: 2.9L Vortec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0177	1	Engine: 3.7L Vortec in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0178	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0179	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0180	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0181	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0182	1	Engine: 7.0L V-8 OHV and two valves per cylinder
+0183	1	Engine: 6.2L V-8 OHV and two valves per cylinder
+0184	1	Engine: 1.8L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0185	1	Engine: 1.4L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0186	1	Engine: 1.4L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0187	1	Engine: 1.4L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0188	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0189	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0190	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0191	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0192	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0193	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0194	1	Engine: 5.3L Vortec V-8 OHV and two valves per cylinder
+0195	1	Engine: 4.8L Vortec V-8 OHV and two valves per cylinder
+0196	1	Engine: 2.2L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0197	1	Engine: 2.2L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0198	1	Engine: 2.2L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0199	1	Engine: 2.2L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0200	1	Engine: 2.2L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0201	1	Engine: 2.2L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0202	1	Engine: 2.2L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0203	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.2 :1 compression ratio ; four valves per cylinder)
+0204	1	Engine: 3.5L V-6 OHV with variable valve timing and two valves per cylinder
+0205	1	Engine: 3.5L V-6 OHV with variable valve timing and two valves per cylinder
+0206	1	Engine: 3.9L V-6 OHV with variable valve timing and two valves per cylinder
+0207	1	Engine: 2.4L Ecotec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0208	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0209	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0210	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0211	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0212	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0213	1	Engine: 4.8L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0214	1	Engine: 4.3L Vortec V-6 OHV and two valves per cylinder
+0215	1	Engine: 5.3L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0216	1	Engine: 5.3L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0217	1	Engine: 6.0L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0218	1	Engine: 5.3L V 8 overhead valve with VVT ( 9.9 :1 compression ratio ; two valves per cylinder)
+0219	1	Engine: 4.8L V 8 overhead valve with VVT ( 8.8 :1 compression ratio ; two valves per cylinder)
+0220	1	Engine: 5.3L V 8 overhead valve with VVT ( 9.9 :1 compression ratio ; two valves per cylinder)
+0221	1	Engine: 6.0L V 8 overhead valve with VVT ( 10.8 :1 compression ratio ; two valves per cylinder)
+0222	1	Engine: 5.3L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0223	1	Engine: 5.3L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0224	1	Engine: 5.3L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0225	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0226	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0227	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0228	1	Engine: 3.5L V 6 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+0229	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0230	1	Engine: 3.5L V 6 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0231	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0232	1	Engine: 4.6L V 8 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0233	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0234	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0235	1	Engine: 4.6L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0236	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0237	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0238	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+0239	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0240	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0241	1	Engine: 2.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0242	1	Engine: 2.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0243	1	Engine: 2.5L V 6 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0244	1	Engine: 2.5L V 6 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0245	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0246	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0247	1	Engine: 3.5L V 6 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0248	1	Engine: 3.5L V 6 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0249	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0250	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0251	1	Engine: 4.6L V 8 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0252	1	Engine: 4.6L V 8 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0253	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0254	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.8 :1 compression ratio ; four valves per cylinder)
+0255	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0256	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0257	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0258	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0259	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0260	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0261	1	Engine: 4.3L V-8 DOHC with variable valve timing and four valves per cylinder
+0262	1	Engine: 3.5L V-6 OHC and four valves per cylinder
+0263	1	Engine: 3.5L V-6 OHC and four valves per cylinder
+0264	1	Engine: 5.7L V-8 OHV with variable valve timing and two valves per cylinder
+0265	1	Engine: 3.5L V-6 OHC and four valves per cylinder
+0266	1	Engine: 5.7L HEMI V-8 OHV with variable valve timing and two valves per cylinder
+0267	1	Engine: 6.1L HEMI V-8 OHV and two valves per cylinder
+0268	1	Engine: 5.7L V-8 OHV and two valves per cylinder
+0269	1	Engine: 2.4L in-linefour-cylinder DOHC and four valves per cylinder
+0270	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0271	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0272	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0273	1	Engine: 2.7L V-6 DOHC and four valves per cylinder
+0274	1	Engine: 3.5L V-6 OHC and four valves per cylinder
+0275	1	Engine: 3.6L V 6 double overhead cam with VVT
+0276	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0277	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0278	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0279	1	Engine: 3.8L V-6 OHV and two valves per cylinder
+0280	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+0281	1	Engine: 3.8L V-6 OHV and two valves per cylinder
+0282	1	Engine: 4.0L V-6 OHC and four valves per cylinder
+0283	1	Engine: 3.7L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0284	1	Engine: 3.5L EcoBoost V-6 DOHC with variable valve timing and four valves per cylinder
+0285	1	Engine: 3.5L EcoBoost V-6 DOHC with variable valve timing and four valves per cylinder
+0286	1	Engine: 3.7L V 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0287	1	Engine: 3.5L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0288	1	Engine: 2.5L Duratec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0289	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0290	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0291	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0292	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0293	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0294	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0295	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0296	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0297	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0298	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0299	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0300	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0301	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0302	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0303	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0304	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0305	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0306	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0307	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0308	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0309	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0310	1	Engine: 3.6L V 6 with VVT
+0311	1	Engine: 5.7L V 8 overhead valve with VVT ( 10.5 :1 compression ratio ; two valves per cylinder)
+0312	1	Engine: 6.4L V 8
+0313	1	Engine: 3.5L V 6 overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+0314	1	Engine: 5.7L V 8 overhead valve with VVT ( 10.5 :1 compression ratio ; two valves per cylinder)
+0315	1	Engine: 6.1L V 8 overhead valve ( 10.3 :1 compression ratio ; two valves per cylinder)
+0316	1	Engine: 3.6L
+0317	1	Engine: 5.7L HEMI
+0318	1	Engine: 2.7L V 6 double overhead cam ( 9.7 :1 compression ratio ; four valves per cylinder)
+0319	1	Engine: 3.5L V 6 overhead cam ( 9.9 :1 compression ratio ; four valves per cylinder)
+0320	1	Engine: 3.5L V 6 overhead cam ( 9.9 :1 compression ratio ; four valves per cylinder)
+0321	1	Engine: 5.7L V 8 overhead valve with VVT ( 9.6 :1 compression ratio ; two valves per cylinder)
+0322	1	Engine: 6.1L V 8 overhead valve ( 10.3 :1 compression ratio ; two valves per cylinder)
+0323	1	Engine: 3.7L V-6 OHC and two valves per cylinder
+0324	1	Engine: 3.7L V-6 OHC and two valves per cylinder
+0325	1	Engine: 3.7L V-6 OHC and two valves per cylinder
+0326	1	Engine: 3.7L V-6 OHC and two valves per cylinder
+0327	1	Engine: 4.7L V 8 overhead cam ( 9.0 :1 compression ratio ; two valves per cylinder)
+0328	1	Engine: 3.6L Pentastar V-6 DOHC with variable valve timing and four valves per cylinder
+0329	1	Engine: 3.6L Pentastar V-6 DOHC with variable valve timing and four valves per cylinder
+0330	1	Engine: 3.6L Pentastar V-6 DOHC with variable valve timing and four valves per cylinder
+0331	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+0332	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+0333	1	Engine: 5.7L V 8 overhead valve ; two valves per cylinder)
+0334	1	Engine: 3.3L V 6 overhead valve ( 9.3 :1 compression ratio ; two valves per cylinder)
+0335	1	Engine: 3.3L V 6 overhead valve ( 9.3 :1 compression ratio ; two valves per cylinder)
+0336	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+0337	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+0338	1	Engine: 4.0L V 6 overhead cam ( 10.3 :1 compression ratio ; four valves per cylinder)
+0339	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0340	1	Engine: 3.5L V 6 overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+0341	1	Engine: 3.5L V 6 overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+0342	1	Engine: 3.7L V-6 OHC and two valves per cylinder
+0343	1	Engine: 4.0L V-6 OHC and four valves per cylinder
+0344	1	Engine: 4.0L V-6 OHC and four valves per cylinder
+0345	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+0346	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+0347	1	Engine: 4.0L V 6 overhead cam ( 10.3 :1 compression ratio ; four valves per cylinder)
+0348	1	Engine: 4.0L V 6 overhead cam ( 10.3 :1 compression ratio ; four valves per cylinder)
+0349	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+0350	1	Engine: 4.7L V 8 overhead cam ( 9.8 :1 compression ratio ; two valves per cylinder)
+0351	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+0352	1	Engine: 4.7L V 8 overhead cam ( 9.8 :1 compression ratio ; two valves per cylinder)
+0353	1	Engine: 8.4L V-10 OHV with variable valve timing and two valves per cylinder
+0354	1	Engine: 8.4L V-10 OHV with variable valve timing and two valves per cylinder
+0355	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0356	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0357	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0358	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0359	1	Engine: 1.0L in-linethree-cylinder DOHC with variable valve timing and four valves per cylinder
+0360	1	Engine: 1.0L in-linethree-cylinder DOHC with variable valve timing and four valves per cylinder
+0361	1	Engine: 1.0L in-linethree-cylinder DOHC with variable valve timing and four valves per cylinder
+0362	1	Engine: 5.9L V-12 DOHC and four valves per cylinder
+0363	1	Engine: 5.9L V-12 DOHC and four valves per cylinder
+0364	1	Engine: 5.9L V 12 double overhead cam ( 10.9 :1 compression ratio ; four valves per cylinder)
+0365	1	Engine: 5.9L V 12 double overhead cam ( 10.9 :1 compression ratio ; four valves per cylinder)
+0366	1	Engine: 5.9L V-12 DOHC and four valves per cylinder
+0367	1	Engine: 5.9L V-12 DOHC and four valves per cylinder
+0368	1	Engine: 5.9L V 12 double overhead cam ( 10.9 :1 compression ratio ; four valves per cylinder)
+0369	1	Engine: 5.9L V 12 double overhead cam ( 10.9 :1 compression ratio ; four valves per cylinder)
+0370	1	Engine: 5.9L V-12 DOHC and four valves per cylinder
+0371	1	Engine: 5.9L V 12 double overhead cam ( 10.9 :1 compression ratio ; four valves per cylinder)
+0372	1	Engine: 5.9L V-12 DOHC and four valves per cylinder
+0373	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0374	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0375	1	Engine: 4.7L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0376	1	Engine: 4.7L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0377	1	Engine: 4.3L V-8 DOHC with variable valve timing and four valves per cylinder
+0378	1	Engine: 4.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0379	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0380	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0381	1	Engine: 4.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0382	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0383	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0384	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0385	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0386	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0387	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0388	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0389	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0390	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0391	1	Engine: 2.5L horizontal 4 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0392	1	Engine: 2.5L horizontal 4 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0393	1	Engine: 2.5L horizontal 4 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0394	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0395	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0396	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0397	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0398	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0399	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0400	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0401	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0402	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0403	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0404	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0405	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0406	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0407	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0408	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0409	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder DOHC with variable valve timing and four valves per cylinder
+0410	1	Engine: 2.5L horizontal 4 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0411	1	Engine: 2.5L horizontal 4 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0412	1	Engine: 2.5L horizontal 4 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0413	1	Engine: 3.6L horizontal 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0414	1	Engine: 2.5L horizontal 4 double overhead cam with VVT ( 8.4 :1 compression ratio ; four valves per cylinder)
+0415	1	Engine: 3.6L horizontal 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0416	1	Engine: 2.5L horizontal 4 double overhead cam with VVT ( 8.4 :1 compression ratio ; four valves per cylinder)
+0417	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0418	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0419	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0420	1	Engine: 2.5L SUBARU BOXER horizontally opposedfour-cylinder OHC with variable valve timing and four valves per cylinder
+0421	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0422	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0423	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0424	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0425	1	Engine: 3.6L SUBARU BOXER horizontally opposed6 DOHC with variable valve timing and four valves per cylinder
+0426	1	Engine: 3.6L horizontal 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0427	1	Engine: 3.6L horizontal 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0428	1	Engine: 3.6L horizontal 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0429	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0430	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0431	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0432	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0433	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0434	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0435	1	Engine: 5.4L V-8 OHC and two valves per cylinder
+0436	1	Engine: 5.4L V-8 OHC and two valves per cylinder
+0437	1	Engine: 5.4L V-8 OHC and two valves per cylinder
+0438	1	Engine: 5.4L V-8 OHC and two valves per cylinder
+0439	1	Engine: 5.4L V-8 OHC and two valves per cylinder
+0440	1	Engine: 5.4L V-8 OHC and two valves per cylinder
+0441	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0442	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0443	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0444	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0445	1	Engine: 2.5L Duratec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0446	1	Engine: 2.5L Duratec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0447	1	Engine: 2.5L Duratec in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0448	1	Engine: 2.5L Atkinson in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0449	1	Engine: 2.5L Atkinson in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0450	1	Engine: 5.4L V-8 OHC with variable valve timing and three valves per cylinder
+0451	1	Engine: 5.4L V 8 overhead cam with VVT ( 9.8 :1 compression ratio ; three valves per cylinder)
+0452	1	Engine: 5.4L V 8 overhead cam with VVT ( 9.8 :1 compression ratio ; three valves per cylinder)
+0453	1	Engine: 5.4L V 8 overhead cam with VVT ( 9.8 :1 compression ratio ; three valves per cylinder)
+0454	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0455	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0456	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0457	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0458	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0459	1	Engine: 3.5L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0460	1	Engine: 3.5L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0461	1	Engine: 3.5L EcoBoost V-6 DOHC with variable valve timing and four valves per cylinder
+0462	1	Engine: 3.5L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0463	1	Engine: 3.5L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0464	1	Engine: 3.5L EcoBoost V-6 DOHC with variable valve timing and four valves per cylinder
+0465	1	Engine: 3.5L EcoBoost V-6 DOHC with variable valve timing and four valves per cylinder
+0466	1	Engine: 2.0L Duratec in-linefour-cylinder DOHC and four valves per cylinder
+0467	1	Engine: 2.0L Duratec in-linefour-cylinder DOHC and four valves per cylinder
+0468	1	Engine: 2.0L Duratec in-linefour-cylinder DOHC and four valves per cylinder
+0469	1	Engine: 2.0L Duratec in-linefour-cylinder DOHC and four valves per cylinder
+0470	1	Engine: 5.5L V-12 OHC and three valves per cylinder
+0471	1	Engine: 6.0L V-12 OHC and three valves per cylinder
+0472	1	Engine: 6.0L V-12 OHC and three valves per cylinder
+0473	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0474	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0475	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0476	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0477	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0478	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0479	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0480	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+0481	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+0482	1	Engine: 4.0L V 6 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0483	1	Engine: 4.0L V 6 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0484	1	Engine: 4.0L V 6 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0485	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0486	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0487	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0488	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0489	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0490	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0491	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0492	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0493	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0494	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0495	1	Engine: 2.0L in-line 4 double overhead cam ( 10.5 :1 compression ratio ; four valves per cylinder)
+0496	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0497	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0498	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0499	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0500	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0501	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0502	1	Engine: 3.6L V-6 DOHC with variable valve timing and four valves per cylinder
+0503	1	Engine: 2.9L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0504	1	Engine: 2.9L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0505	1	Engine: 2.9L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0506	1	Engine: 2.9L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0507	1	Engine: 2.9L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0508	1	Engine: 3.7L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0509	1	Engine: 3.7L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0510	1	Engine: 5.3L Vortec V-8 OHV and two valves per cylinder
+0511	1	Engine: 5.3L Vortec V-8 OHV and two valves per cylinder
+0512	1	Engine: 4.8L Vortec V-8 OHV and two valves per cylinder
+0513	1	Engine: 5.3L V 8 overhead valve ( 9.5 :1 compression ratio ; two valves per cylinder)
+0514	1	Engine: 4.8L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0515	1	Engine: 4.3L Vortec V-6 OHV with variable valve timing and two valves per cylinder
+0516	1	Engine: 4.8L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0517	1	Engine: 4.8L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0518	1	Engine: 5.3L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0519	1	Engine: 6.0L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0520	1	Engine: 6.2L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0521	1	Engine: 4.3L V 6 overhead valve with VVT ( 9.2 :1 compression ratio ; two valves per cylinder)
+0522	1	Engine: 4.8L V 8 overhead valve with VVT ( 8.8 :1 compression ratio ; two valves per cylinder)
+0523	1	Engine: 5.3L V 8 overhead valve with VVT ( 9.9 :1 compression ratio ; two valves per cylinder)
+0524	1	Engine: 5.3L V 8 overhead valve with VVT ( 9.9 :1 compression ratio ; two valves per cylinder)
+0525	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0526	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0527	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0528	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0529	1	Engine: 6.0L Vortec V-8 OHV and two valves per cylinder
+0530	1	Engine: 6.2L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0531	1	Engine: 6.0L Vortec V-8 OHV and two valves per cylinder
+0532	1	Engine: 6.2L V 8 overhead valve with VVT ( 10.5 :1 compression ratio ; two valves per cylinder)
+0533	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0534	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0535	1	Engine: 6.0L V 8 overhead valve with VVT ( 9.9 :1 compression ratio ; two valves per cylinder)
+0536	1	Engine: 6.0L Vortec V-8 OHV with variable valve timing and two valves per cylinder
+0537	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0538	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0539	1	Engine: 2.3L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0540	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0541	1	Engine: 2.3L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0542	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0543	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0544	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+0545	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+0546	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0547	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0548	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0549	1	Engine: 3.7L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0550	1	Engine: 3.7L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0551	1	Engine: 3.7L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0552	1	Engine: 1.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0553	1	Engine: 1.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0554	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0555	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0556	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0557	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0558	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0559	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0560	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0561	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0562	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0563	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0564	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0565	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0566	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0567	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0568	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0569	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0570	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0571	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0572	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0573	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0574	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0575	1	Engine: 3.7L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0576	1	Engine: 3.7L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0577	1	Engine: 2.3L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0578	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+0579	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0580	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0581	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0582	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0583	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0584	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0585	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0586	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0587	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0588	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0589	1	Engine: 1.3L rotarytwo-cylinder none and zero valves per cylinder
+0590	1	Engine: 1.3L rotarytwo-cylinder none and zero valves per cylinder
+0591	1	Engine: 1.3L rotarytwo-cylinder none and zero valves per cylinder
+0592	1	Engine: 1.3L rotary 2 none ( 10.0 :1 compression ratio ; zero valves per cylinder)
+0593	1	Engine: 1.3L rotary 2 none ( 10.0 :1 compression ratio ; zero valves per cylinder)
+0594	1	Engine: 1.3L rotary 2 none ( 10.0 :1 compression ratio ; zero valves per cylinder)
+0595	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0596	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0597	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0598	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0599	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0600	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0601	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0602	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0603	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0604	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0605	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0606	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0607	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0608	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0609	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0610	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0611	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0612	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0613	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0614	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0615	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0616	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0617	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0618	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0619	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0620	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0621	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0622	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0623	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0624	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0625	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0626	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0627	1	Engine: 3.3L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0628	1	Engine: 3.3L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0629	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0630	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0631	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0632	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0633	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0634	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0635	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0636	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0637	1	Engine: 1.8L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0638	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0639	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0640	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0641	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0642	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0643	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0644	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0645	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0646	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0647	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0648	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0649	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0650	1	Engine: 2.7L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0651	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0652	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0653	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0654	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0655	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0656	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0657	1	Engine: 2.7L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0658	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0659	1	Engine: 2.7L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0660	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0661	1	Engine: 2.7L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0662	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0663	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0664	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0665	1	Engine: 2.7L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0666	1	Engine: 2.7L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0667	1	Engine: 2.7L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0668	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0669	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0670	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0671	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0672	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0673	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0674	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0675	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0676	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0677	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0678	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0679	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0680	1	Engine: 5.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0681	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0682	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0683	1	Engine: 4.0L V 6 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0684	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0685	1	Engine: 5.7L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0686	1	Engine: 4.6L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0687	1	Engine: 4.6L V 8 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+0688	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0689	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0690	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0691	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0692	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0693	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0694	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0695	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0696	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0697	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0698	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0699	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0700	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0701	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0702	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0703	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0704	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0705	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0706	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0707	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0708	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0709	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0710	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0711	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0712	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0713	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0714	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0715	1	Engine: 2.0L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0716	1	Engine: 2.0L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0717	1	Engine: 1.3L i-VTEC in-linefour-cylinder OHC with variable valve timing and two valves per cylinder
+0718	1	Engine: 1.8L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0719	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0720	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0721	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0722	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0723	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0724	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0725	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0726	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0727	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0728	1	Engine: 1.8L in-line 4 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0729	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0730	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0731	1	Engine: 1.3L in-line 4 overhead cam with VVT ( 10.8 :1 compression ratio ; two valves per cylinder)
+0732	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0733	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0734	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0735	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0736	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0737	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0738	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0739	1	Engine: 1.5L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0740	1	Engine: 1.5L i-VTEC in-linefour-cylinder OHC with variable valve timing and four valves per cylinder
+0741	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0742	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0743	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0744	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 9.7 :1 compression ratio ; four valves per cylinder)
+0745	1	Engine: 1.5L in-line 4 overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0746	1	Engine: 1.5L in-line 4 overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0747	1	Engine: 1.3L in-line 4 overhead cam with VVT ( 10.8 :1 compression ratio ; two valves per cylinder)
+0748	1	Engine: 1.3L in-line 4 overhead cam with VVT ( 10.8 :1 compression ratio ; two valves per cylinder)
+0749	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0750	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0751	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0752	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0753	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0754	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0755	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0756	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0757	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0758	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0759	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0760	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0761	1	Engine: 3.5L i-VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0762	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0763	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0764	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0765	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0766	1	Engine: 3.5L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0767	1	Engine: 3.5L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0768	1	Engine: 3.5L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0769	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0770	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0771	1	Engine: 3.5L V 6 overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0772	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0773	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0774	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0775	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0776	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0777	1	Engine: 2.2L in-line 4 double overhead cam with VVT ( 11.1 :1 compression ratio ; four valves per cylinder)
+0778	1	Engine: 2.2L in-line 4 double overhead cam with VVT ( 11.1 :1 compression ratio ; four valves per cylinder)
+0779	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0780	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0781	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0782	1	Engine: 5.0L V-8 DOHC with variable valve timing and four valves per cylinder
+0783	1	Engine: 2.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0784	1	Engine: 2.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0785	1	Engine: 2.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0786	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0787	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0788	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0789	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0790	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0791	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0792	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0793	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0794	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0795	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0796	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0797	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0798	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0799	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0800	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0801	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0802	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0803	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0804	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0805	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0806	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0807	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0808	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0809	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0810	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+0811	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0812	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0813	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0814	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0815	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0816	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+0817	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0818	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+0819	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0820	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0821	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0822	1	Engine: 6.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0823	1	Engine: 3.0L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0824	1	Engine: 3.0L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0825	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0826	1	Engine: 6.2L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0827	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0828	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0829	1	Engine: 5.5L V-12 OHC with variable valve timing and three valves per cylinder
+0830	1	Engine: 6.0L V-12 OHC and three valves per cylinder
+0831	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0832	1	Engine: 6.2L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0833	1	Engine: 5.5L V 12 overhead cam with VVT ( 9.0 :1 compression ratio ; three valves per cylinder)
+0834	1	Engine: 6.0L V 12 overhead cam ( 9.0 :1 compression ratio ; three valves per cylinder)
+0835	1	Engine: 2.3L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0836	1	Engine: 2.3L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0837	1	Engine: 2.3L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0838	1	Engine: 2.3L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0839	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0840	1	Engine: 6.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0841	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0842	1	Engine: 6.2L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0843	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0844	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0845	1	Engine: 3.0L BlueTEC V-6 DOHC and four valves per cylinder
+0846	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0847	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0848	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0849	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0850	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0851	1	Engine: 6.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0852	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0853	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0854	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0855	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0856	1	Engine: 6.2L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0857	1	Engine: 5.5L V-8 OHV and four valves per cylinder
+0858	1	Engine: 5.4L V-8 OHC with variable valve timing and three valves per cylinder
+0859	1	Engine: 5.5L V 8 double overhead cam ( 10.7 :1 compression ratio ; four valves per cylinder)
+0860	1	Engine: 5.4L V 8 overhead cam with VVT ( 9.0 :1 compression ratio ; three valves per cylinder)
+0861	1	Engine: 3.0L BlueTEC V-6 OHC with variable valve timing and four valves per cylinder
+0862	1	Engine: 4.7L V-8 DOHC with variable valve timing and four valves per cylinder
+0863	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0864	1	Engine: 3.0L V 6 double overhead cam with VVT ( 16.5 :1 compression ratio ; four valves per cylinder)
+0865	1	Engine: 4.7L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0866	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0867	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0868	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0869	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 8.8 :1 compression ratio ; four valves per cylinder)
+0870	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 8.8 :1 compression ratio ; four valves per cylinder)
+0871	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 8.8 :1 compression ratio ; four valves per cylinder)
+0872	1	Engine: 2.3L in-line 4 double overhead cam with VVT ( 8.8 :1 compression ratio ; four valves per cylinder)
+0873	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0874	1	Engine: 3.0L BlueTEC V-6 DOHC and four valves per cylinder
+0875	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0876	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0877	1	Engine: 6.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0878	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0879	1	Engine: 3.0L V 6 double overhead cam ( 16.5 :1 compression ratio ; four valves per cylinder)
+0880	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0881	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0882	1	Engine: 6.2L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0883	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0884	1	Engine: 3.0L BlueTEC V-6 DOHC and four valves per cylinder
+0885	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0886	1	Engine: 3.0L V 6 double overhead cam ( 16.5 :1 compression ratio ; four valves per cylinder)
+0887	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0888	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0889	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0890	1	Engine: 5.5L V-12 OHC and three valves per cylinder
+0891	1	Engine: 6.0L V-12 OHC and three valves per cylinder
+0892	1	Engine: 3.5L V 6 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0893	1	Engine: 5.5L V 8 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+0894	1	Engine: 6.2L V 8 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0895	1	Engine: 5.5L V 12 overhead cam ( 9.0 :1 compression ratio ; three valves per cylinder)
+0896	1	Engine: 6.0L V 12 overhead cam ( 9.0 :1 compression ratio ; three valves per cylinder)
+0897	1	Engine: 5.5L V-8 DOHC with variable valve timing and four valves per cylinder
+0898	1	Engine: 6.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0899	1	Engine: 6.0L V-12 OHC and three valves per cylinder
+0900	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+0901	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+0902	1	Engine: 3.0L V 6 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+0903	1	Engine: 3.5L V 6 double overhead cam with VVT ( 11.7 :1 compression ratio ; four valves per cylinder)
+0904	1	Engine: 5.4L V 8 overhead cam ( 11.0 :1 compression ratio ; three valves per cylinder)
+0905	1	Engine: 6.2L V-8 DOHC with variable valve timing and four valves per cylinder
+0906	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0907	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0908	1	Engine: 2.5L in-linefive-cylinder DOHC and four valves per cylinder
+0909	1	Engine: 2.5L in-linefive-cylinder DOHC and four valves per cylinder
+0910	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0911	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0912	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0913	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0914	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0915	1	Engine: 3.6L V 6 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0916	1	Engine: 3.6L V 6 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0917	1	Engine: 3.6L V 6 double overhead cam with VVT ( 12.0 :1 compression ratio ; four valves per cylinder)
+0918	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0919	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0920	1	Engine: 2.5L in-line 5 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0921	1	Engine: 2.0L in-line 4 double overhead cam ( 16.5 :1 compression ratio ; four valves per cylinder)
+0922	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0923	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0924	1	Engine: 3.5L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0925	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0926	1	Engine: 3.5L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0927	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+0928	1	Engine: 2.0L
+0929	1	Engine: 2.0L
+0930	1	Engine: 2.5L in-linefive-cylinder DOHC and four valves per cylinder
+0931	1	Engine: 2.5L in-line 5 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0932	1	Engine: 2.5L in-linefive-cylinder DOHC and four valves per cylinder
+0933	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0934	1	Engine: 2.5L in-line 5 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0935	1	Engine: 2.0L in-line 4 double overhead cam ( 16.5 :1 compression ratio ; four valves per cylinder)
+0936	1	Engine: 2.5L in-line 5 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0937	1	Engine: 2.5L in-line 5 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0938	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+0939	1	Engine: 2.5L in-line 5 double overhead cam ( 9.5 :1 compression ratio ; four valves per cylinder)
+0940	1	Engine: 2.0L in-line 4 double overhead cam ( 16.5 :1 compression ratio ; four valves per cylinder)
+0941	1	Engine: 2.0L in-linefour-cylinder DOHC and four valves per cylinder
+0942	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0943	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0944	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0945	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0946	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0947	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0948	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+0949	1	Engine: 3.7L in-line 5 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0950	1	Engine: 3.7L in-line 5 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0951	1	Engine: 3.7L in-line 5 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0952	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0953	1	Engine: 3.7L in-line 5 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0954	1	Engine: 3.7L in-line 5 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0955	1	Engine: 3.7L in-line 5 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+0956	1	Engine: 5.3L V 8 overhead valve ( 9.9 :1 compression ratio ; two valves per cylinder)
+0957	1	Engine: 3.5L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0958	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0959	1	Engine: 3.5L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0960	1	Engine: 3.7L V 6 overhead cam with VVT ( 11.2 :1 compression ratio ; four valves per cylinder)
+0961	1	Engine: 4.6L V-8 OHC and two valves per cylinder
+0962	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0963	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0964	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0965	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0966	1	Engine: 3.0L Duratec V-6 DOHC with variable valve timing and four valves per cylinder
+0967	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0968	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0969	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0970	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0971	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0972	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0973	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0974	1	Engine: 2.4L in-line 5 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0975	1	Engine: 2.5L in-line 5 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+0976	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0977	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+0978	1	Engine: 2.5L in-line 5 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+0979	1	Engine: 2.4L in-line 5 double overhead cam with VVT ( 8.5 :1 compression ratio ; four valves per cylinder)
+0980	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0981	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 9.3 :1 compression ratio ; four valves per cylinder)
+0982	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+0983	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0984	1	Engine: 2.5L in-linefive-cylinder DOHC with variable valve timing and four valves per cylinder
+0985	1	Engine: 2.4L i-VTEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+0986	1	Engine: 2.4L in-line 5 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+0987	1	Engine: 2.5L in-line 5 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+0988	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0989	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0990	1	Engine: 3.2L in-line6 DOHC with variable valve timing and four valves per cylinder
+0991	1	Engine: 3.2L in-line6 DOHC with variable valve timing and four valves per cylinder
+0992	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+0993	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0994	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 9.3 :1 compression ratio ; four valves per cylinder)
+0995	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 9.3 :1 compression ratio ; four valves per cylinder)
+0996	1	Engine: 3.2L in-line6 DOHC with variable valve timing and four valves per cylinder
+0997	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+0998	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+0999	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 9.3 :1 compression ratio ; four valves per cylinder)
+1000	1	Engine: 3.2L in-line6 DOHC with variable valve timing and four valves per cylinder
+1001	1	Engine: 3.2L in-line6 DOHC with variable valve timing and four valves per cylinder
+1002	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1003	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+1004	1	Engine: 3.2L in-line 6 double overhead cam with VVT ( 10.8 :1 compression ratio ; four valves per cylinder)
+1005	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+1006	1	Engine: 2.4L in-line 4 overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1007	1	Engine: 2.4L in-line 4 overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1008	1	Engine: 3.8L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1009	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+1010	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+1011	1	Engine: 3.7L VTEC V-6 OHC with variable valve timing and four valves per cylinder
+1012	1	Engine: 2.4L in-line 4 overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1013	1	Engine: 3.8L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1014	1	Engine: 3.8L V 6 overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+1015	1	Engine: 3.8L V 6 overhead cam ( 10.0 :1 compression ratio ; four valves per cylinder)
+1016	1	Engine: 2.4L in-line 4 overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1017	1	Engine: 2.4L in-line 4 overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1018	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1019	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1020	1	Engine: 2.4L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1021	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1022	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1023	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1024	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1025	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+1026	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+1027	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+1028	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+1029	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+1030	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1031	1	Engine: 2.4L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1032	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1033	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1034	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1035	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1036	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1037	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1038	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.0 :1 compression ratio ; four valves per cylinder)
+1039	1	Engine: 2.4L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1040	1	Engine: 2.4L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1041	1	Engine: 3.0L MIVEC V-6 OHC with variable valve timing and four valves per cylinder
+1042	1	Engine: 3.0L MIVEC V-6 OHC with variable valve timing and four valves per cylinder
+1043	1	Engine: 3.0L V 6 overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1044	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1045	1	Engine: 2.0L MIVEC in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1046	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1047	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 16.5 :1 compression ratio ; four valves per cylinder)
+1048	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 16.5 :1 compression ratio ; four valves per cylinder)
+1049	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1050	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1051	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1052	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1053	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1054	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1055	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1056	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1057	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1058	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1059	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1060	1	Engine: 1.6L in-line 4 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1061	1	Engine: 3.2L V 6 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1062	1	Engine: 3.0L V 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1063	1	Engine: 3.0L V 6 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1064	1	Engine: 4.2L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1065	1	Engine: 4.2L V-8 DOHC with variable valve timing and four valves per cylinder
+1066	1	Engine: 4.2L V-8 DOHC with variable valve timing and four valves per cylinder
+1067	1	Engine: 4.2L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1068	1	Engine: 4.2L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1069	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1070	1	Engine: 3.2L V 6 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1071	1	Engine: 3.2L V 6 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1072	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1073	1	Engine: 4.2L V 8 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1074	1	Engine: 5.2L V 10 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1075	1	Engine: 5.2L V 10 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1076	1	Engine: 3.3L V-6 DOHC with variable valve timing and four valves per cylinder
+1077	1	Engine: 3.8L V-6 DOHC with variable valve timing and four valves per cylinder
+1078	1	Engine: 3.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1079	1	Engine: 3.0L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+1080	1	Engine: 4.2L V 8 double overhead cam with VVT ( 11.4 :1 compression ratio ; four valves per cylinder)
+1081	1	Engine: 3.0L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+1082	1	Engine: 4.2L V 8 double overhead cam with VVT ( 11.4 :1 compression ratio ; four valves per cylinder)
+1083	1	Engine: 3.0L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+1084	1	Engine: 5.2L V 10 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1085	1	Engine: 5.2L V 10 double overhead cam with VVT ( 12.5 :1 compression ratio ; four valves per cylinder)
+1086	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1087	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1088	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1089	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1090	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.8 :1 compression ratio ; four valves per cylinder)
+1091	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.8 :1 compression ratio ; four valves per cylinder)
+1092	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.8 :1 compression ratio ; four valves per cylinder)
+1093	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.8 :1 compression ratio ; four valves per cylinder)
+1094	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+1095	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+1096	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1097	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1098	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+1099	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+1100	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1101	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1102	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1103	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1104	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+1105	1	Engine: 5.0L V 8 double overhead cam with VVT ( 11.5 :1 compression ratio ; four valves per cylinder)
+1106	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1107	1	Engine: 5.0L V 8 double overhead cam with VVT ( 9.5 :1 compression ratio ; four valves per cylinder)
+1108	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+1109	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+1110	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+1111	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+1112	1	Engine: 3.7L V-6 DOHC with variable valve timing and four valves per cylinder
+1113	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+1114	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+1115	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+1116	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+1117	1	Engine: 3.7L V 6 double overhead cam with VVT ( 11.0 :1 compression ratio ; four valves per cylinder)
+1118	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1119	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1120	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1121	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1122	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1123	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1124	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1125	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1126	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1127	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+1128	1	Engine: 2.5L in-line 4 double overhead cam with VVT ( 9.6 :1 compression ratio ; four valves per cylinder)
+1129	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.3 :1 compression ratio ; four valves per cylinder)
+1130	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1131	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1132	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1133	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1134	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1135	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1136	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1137	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1138	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1139	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1140	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1141	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1142	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1143	1	Engine: 3.8L V-6 DOHC with variable valve timing and four valves per cylinder
+1144	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1145	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1146	1	Engine: 1.6L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1147	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.1 :1 compression ratio ; four valves per cylinder)
+1148	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.1 :1 compression ratio ; four valves per cylinder)
+1149	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1150	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1151	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1152	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1153	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1154	1	Engine: 3.5L V-6 DOHC with variable valve timing and four valves per cylinder
+1155	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1156	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1157	1	Engine: 4.0L V-6 DOHC with variable valve timing and four valves per cylinder
+1158	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1159	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1160	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1161	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1162	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.1 :1 compression ratio ; four valves per cylinder)
+1163	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 10.1 :1 compression ratio ; four valves per cylinder)
+1164	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1165	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1166	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1167	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1168	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1169	1	Engine: 2.5L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1170	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1171	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1172	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1173	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1174	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1175	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1176	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1177	1	Engine: 5.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1178	1	Engine: 6.8L V-8 DOHC and two valves per cylinder
+1179	1	Engine: 6.8L V-8 OHV and two valves per cylinder
+1180	1	Engine: 6.0L W12 DOHC with variable valve timing and four valves per cylinder
+1181	1	Engine: 6.0L W12 DOHC with variable valve timing and four valves per cylinder
+1182	1	Engine: 4.6L V-8 DOHC with variable valve timing and four valves per cylinder
+1183	1	Engine: 3.8L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+1184	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.4 :1 compression ratio ; four valves per cylinder)
+1185	1	Engine: 2.0L in-line 4 double overhead cam with VVT ( 9.4 :1 compression ratio ; four valves per cylinder)
+1186	1	Engine: 3.8L V 6 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+1187	1	Engine: 4.6L V 8 double overhead cam with VVT ( 10.4 :1 compression ratio ; four valves per cylinder)
+1188	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1189	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1190	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1191	1	Engine: 3.8L V-6 DOHC with variable valve timing and four valves per cylinder
+1192	1	Engine: 3.8L V-6 DOHC with variable valve timing and four valves per cylinder
+1193	1	Engine: 2.4L Theta in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1194	1	Engine: 3.5L Lambda V-6 DOHC with variable valve timing and four valves per cylinder
+1195	1	Engine: 3.5L Lambda V-6 DOHC with variable valve timing and four valves per cylinder
+1196	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1197	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.6 :1 compression ratio ; four valves per cylinder)
+1198	1	Engine: 3.5L V 6 double overhead cam with VVT ( 10.6 :1 compression ratio ; four valves per cylinder)
+1199	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 11.3 :1 compression ratio ; four valves per cylinder)
+1200	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1201	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1202	1	Engine: 2.0L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1203	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1204	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1205	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1206	1	Engine: 2.4L in-line 4 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1207	1	Engine: 3.8L V-6 DOHC with variable valve timing and four valves per cylinder
+1208	1	Engine: 3.8L V-6 DOHC with variable valve timing and four valves per cylinder
+1209	1	Engine: 3.6L V-6 DOHC and four valves per cylinder
+1210	1	Engine: 3.6L V 6 double overhead cam ( 10.2 :1 compression ratio ; four valves per cylinder)
+1211	1	Engine: 3.6L V 6 double overhead cam ( 10.2 :1 compression ratio ; four valves per cylinder)
+1212	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+1213	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+1214	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+1215	1	Engine: 3.7L V 6 overhead cam ( 9.7 :1 compression ratio ; two valves per cylinder)
+1216	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1217	1	Engine: 2.4L in-linefour-cylinder DOHC with variable valve timing and four valves per cylinder
+1218	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+1219	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+1220	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+1221	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+1222	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+1223	1	Engine: 3.8L V 6 overhead valve ( 9.6 :1 compression ratio ; two valves per cylinder)
+1224	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1225	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1226	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1227	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1228	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1229	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1230	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1231	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1232	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1233	1	Engine: 3.0L in-line 6 double overhead cam ( 16.5 :1 compression ratio ; four valves per cylinder)
+1234	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1235	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1236	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1237	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1238	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1239	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1240	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1241	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1242	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1243	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1244	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1245	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1246	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1247	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1248	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.7 :1 compression ratio ; four valves per cylinder)
+1249	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1250	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1251	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1252	1	Engine: 3.0L in-line6 DOHC with variable valve timing and four valves per cylinder
+1253	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1254	1	Engine: 4.8L V 8 double overhead cam with VVT ( 10.5 :1 compression ratio ; four valves per cylinder)
+1255	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1256	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1257	1	Engine: 3.0L in-line 6 double overhead cam with VVT ( 10.2 :1 compression ratio ; four valves per cylinder)
+1258	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1259	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1260	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1261	1	Engine: 4.4L V 8 double overhead cam with VVT ( 10.0 :1 compression ratio ; four valves per cylinder)
+1262	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1263	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1264	1	Engine: 6.0L V-12 DOHC with variable valve timing and four valves per cylinder
+1265	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder
+1266	1	Engine: 4.4L V-8 DOHC with variable valve timing and four valves per cylinder

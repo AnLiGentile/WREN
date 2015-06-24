@@ -1,0 +1,2002 @@
+﻿job	jobtarget	location
+2000	2000	2000	671
+0000	1	Grand Rapids, Michigan, United States
+0001	1	Cincinnati, Ohio, United States
+0002	1	Bellevue, Washington, United States
+0003	1	Kanata, Ontario, Canada
+0004	1	Endicott, New York, United States
+0005	1	Sacramento, California, United States
+0006	1	andover, Massachusetts, United States
+0007	1	Andover, Massachusetts, United States
+0008	1	Cincinnati, Ohio, United States
+0009	1	Cincinnati, Ohio, United States
+0010	1	Center Valley, Pennsylvania, United States
+0011	1	Philadelphia, Pennsylvania, United States
+0012	1	, New York, United States
+0013	1	St. Paul, Minnesota, United States
+0014	1	Omaha, Nebraska, United States
+0015	1	Boise, Idaho, United States
+0016	1	Leesburg, Virginia, United States
+0017	1	Columbus, Ohio, United States
+0018	1	Rockville, Maryland, United States
+0019	1	Memphis, Tennessee, United States
+0020	1	New Orleans, Louisiana, United States
+0021	1	Oakland, California, United States
+0022	1	Austin, Texas, United States
+0023	1	Columbus, Ohio, United States
+0024	1	Elkhorn, Wisconsin, United States
+0025	1	, Maryland, United States
+0026	1	Redding, Connecticut
+0027	1	San Francisco, California, United States
+0028	1	Chicago, Illinois, USA
+0029	1	Colorado Springs, Colorado, United States
+0030	1	Concord, North Carolina, United States
+0031	1	Des Moines, Iowa, United States
+0032	1	Little Rock, Arkansas, United States
+0033	1	San Francisco, California, United States
+0034	1	Frederick, Maryland, United States
+0035	1	Overland Park, Kansas, United States
+0036	1	Northampton, Massachusetts, United States
+0037	1	Las Vegas, Nevada, United States
+0038	1	Columbus, Ohio, United States
+0039	1	Sacramento, California, United States
+0040	1	Sacramento, California, United States
+0041	1	Houston, Texas, United States
+0042	1	Waukegan, Illinois, United States
+0043	1	San Diego, California, United States
+0044	1	Salt Lake City, Utah, United States
+0045	1	Mt. Prospect, Illinois, United States
+0046	1	Manhattan, Kansas, United States
+0047	1	Montvale, New Jersey, United States
+0048	1	Cambridge, Massachusetts, United States
+0049	1	Kansas City, Missouri, United States
+0050	1	St. Paul, Minnesota, United States
+0051	1	Austin, Texas, United States
+0052	1	Austin, Texas, United States
+0053	1	Atlanta, Georgia, United States
+0054	1	Tampa, Florida, United States
+0055	1	Houston, Texas, United States
+0056	1	Chennai, Tamil Nadu, India
+0057	1	Plano, Texas, United States
+0058	1	White Plains, New York, United States
+0059	1	Portland, Oregon, United States
+0060	1	Portland, Oregon, United States
+0061	1	Lewiston, Idaho, United States
+0062	1	Lewiston, Idaho, United States
+0063	1	Lewiston, Idaho, United States
+0064	1	Seattle, Washington, United States
+0065	1	Cullman, Alabama, United States
+0066	1	Ottawa, Ontario, Canada
+0067	1	Mission Viejo, California, United States
+0068	1	Madison, Wisconsin, United States
+0069	1	Orem, Utah, United States
+0070	1	New Orleans, Louisiana, United States
+0071	1	Phoenix, Arizona, United States
+0072	1	St. Paul, Minnesota, United States
+0073	1	St. Paul, Minnesota, United States
+0074	1	Stamford, Connecticut, United States
+0075	1	columbus, Ohio, United States
+0076	1	San Antonio, Texas, United States
+0077	1	Boston, Massachusetts, United States
+0078	1	Cary, North Carolina, United States
+0079	1	Atlanta, Georgia, United States
+0080	1	Washington, Dist. Columbia, United States
+0081	1	Washington, Dist. Columbia, United States
+0082	1	Rockville, Maryland, United States
+0083	1	Atlanta, Georgia, United States
+0084	1	Alexandria, Virginia, United States
+0085	1	San Francisco, California, United States
+0086	1	Philadelphia, Pennsylvania, United States
+0087	1	Chantilly, Virginia, United States
+0088	1	Dallas, Texas, United States
+0089	1	Medford, Massachusetts, United States
+0090	1	Riverside, California, United States
+0091	1	Austin, Texas, United States
+0092	1	Dallas, Texas, United States
+0093	1	Portland, Oregon, United States
+0094	1	Orem/Provo, Utah, United States
+0095	1	McLean, Virginia, United States
+0096	1	Boston, Massachusetts, United States
+0097	1	Plano, Texas, United States
+0098	1	Sterling, Virginia, United States
+0099	1	West Point, Pennsylvania, United States
+0100	1	Boston, Massachusetts, United States
+0101	1	Vernon Hills, Illinois, United States
+0102	1	Saint Louis, Missouri, United States
+0103	1	Saint Louis, Missouri, United States
+0104	1	Los Angeles, California, United States
+0105	1	Olympia, Washington, United States
+0106	1	, Nationwide, United States
+0107	1	, Anywhere from you home in the US, United States
+0108	1	Dallas, Texas, United States
+0109	1	Atlanta, Georgia, United States
+0110	1	Dallas, Texas, United States
+0111	1	Bedford, Texas, United States
+0112	1	Wheaton, Illinois, United States
+0113	1	Wheaton, Illinois, United States
+0114	1	Columbia, Maryland, United States
+0115	1	New York, New York City - Manhattan, United States
+0116	1	Sturgeon Bay, Wisconsin, United States
+0117	1	Houston, Texas, United States
+0118	1	Boise, Idaho, United States
+0119	1	Northbrook, Illinois, United States
+0120	1	New Haven, Southern Connecticut - New Haven, United States
+0121	1	San Francisco, California, United States
+0122	1	Richland, Washington, United States
+0123	1	Bremerton, Washington, United States
+0124	1	Brisbane, California, United States
+0125	1	Salem, Oregon, United States
+0126	1	Neenah, Wisconsin, United States
+0127	1	Milford, Connecticut,
+0128	1	Los Angeles, California, United States
+0129	1	Moon Township, Pennsylvania, United States
+0130	1	Harvard, Massachusetts, United States
+0131	1	Austin, Texas, United States
+0132	1	Seattle, Washington, United States
+0133	1	Seattle, Washington, United States
+0134	1	Tacoma, Washington, United States
+0135	1	Tacoma, Washington, United States
+0136	1	Tacoma, Washington, United States
+0137	1	Portland, Oregon, United States
+0138	1	Portland, Oregon, United States
+0139	1	Portland, Oregon, United States
+0140	1	Seattle, Washington, United States
+0141	1	Provo, Utah, United States
+0142	1	, New York, United States
+0143	1	Medford, Massachusetts, United States
+0144	1	, Illinois, United States
+0145	1	Columbus, Ohio, United States
+0146	1	Topeka, Kansas, United States
+0147	1	Boston, Massachusetts, United States
+0148	1	Riverside, Irwindale, CA, United States
+0149	1	Raleigh, North Carolina, United States
+0150	1	Skokie, Illinois, United States
+0151	1	Blacksburg, Virginia, United States
+0152	1	Skokie, Illinois, United States
+0153	1	, Massachusetts, United States
+0154	1	Leesburg, Virginia, United States
+0155	1	Austin, Texas, United States
+0156	1	Plano, Texas, United States
+0157	1	Washington, Dist. Columbia, United States
+0158	1	Gallup, New Mexico, United States
+0159	1	Fort Lauderdale, Florida, United States
+0160	1	McLean, Virginia, United States
+0161	1	Stafford, , United States
+0162	1	Stafford, , United States
+0163	1	Stafford, , United States
+0164	1	Virginia Beach, Virginia, United States
+0165	1	Milwaukee, Wisconsin, United States
+0166	1	Cherry Hill, New Jersey, United States
+0167	1	New Castle, Delaware, United States
+0168	1	Novato, California, United States
+0169	1	Richmond, Virginia, United States
+0170	1	Washington, Dist. Columbia, United States
+0171	1	Washington, Dist. Columbia, United States
+0172	1	Mc Lean, Virginia, United States
+0173	1	, New York, United States
+0174	1	, New York, United States
+0175	1	Palo Alto, California, United States
+0176	1	Knoxville, Tennessee, United States
+0177	1	Houston, Texas, United States
+0178	1	Leesburg, Virginia, United States
+0179	1	Riverside, California, United States
+0180	1	Houston, Texas, United States
+0181	1	Charlotte, North Carolina, United States
+0182	1	Charlotte, North Carolina, United States
+0183	1	Glendale, California, United States
+0184	1	Albuquerque, New Mexico, United States
+0185	1	Herndon, Virginia, United States
+0186	1	Saint Charles, Illinois, United States
+0187	1	Atlanta, Georgia, United States
+0188	1	Saint Louis, Missouri, United States
+0189	1	Lynchburg, Virginia, United States
+0190	1	Fort Belvoir, Virginia, United States
+0191	1	Alexandria, Virginia, United States
+0192	1	Aberdeen, Maryland, United States
+0193	1	Tacoma, Washington, United States
+0194	1	Portland, Oregon, United States
+0195	1	Denver, Colorado, United States
+0196	1	Westlake, Ohio, United States
+0197	1	Austin, Texas, United States
+0198	1	Dublin, Ohio, United States
+0199	1	Houston, Texas, United States
+0200	1	Boston, Massachusetts, United States
+0201	1	Fridley, Minnesota, United States
+0202	1	Portland, Oregon, United States
+0203	1	Portland, Oregon, United States
+0204	1	Portland, Oregon, United States
+0205	1	Seattle, Washington, United States
+0206	1	Seattle, Washington, United States
+0207	1	Seattle, Washington, United States
+0208	1	Sacramento, California, United States
+0209	1	Boston, Massachusetts, United States
+0210	1	Boston, Massachusetts, United States
+0211	1	Boston, Massachusetts, United States
+0212	1	Anderson, South Carolina, United States
+0213	1	San Diego, California, United States
+0214	1	Washington, Dist. Columbia, United States
+0215	1	New York, New York, United States
+0216	1	Alpharetta, Georgia, United States
+0217	1	Burlington, Massachusetts, United States
+0218	1	Sacramento, California, United States
+0219	1	, Virginia, United States
+0220	1	, New York, United States
+0221	1	, New York, United States
+0222	1	, Virginia, United States
+0223	1	, Virginia, United States
+0224	1	St. Paul, Minnesota, United States
+0225	1	Carpinteria, California, United States
+0226	1	Ottawa, Ontario, Canada
+0227	1	Fort Pierce, Florida, United States
+0228	1	Atlanta, Georgia, United States
+0229	1	Chicago, Illinois, United States
+0230	1	, Massachusetts, United States
+0231	1	, Massachusetts, United States
+0232	1	, Massachusetts, United States
+0233	1	St. Paul, Minnesota, United States
+0234	1	Aurora, Colorado, United States
+0235	1	Bethlehem, Connecticut,
+0236	1	Philadelphia, Pennsylvania, United States
+0237	1	Philadelphia, Pennsylvania, United States
+0238	1	Boulder, Colorado, United States
+0239	1	Bellevue, Washington, United States
+0240	1	Flexible, Multiple US Cities/Locations, United States
+0241	1	Deerfield, Illinois, United States
+0242	1	Greenwich, Connecticut, United States
+0243	1	Houston, Texas, United States
+0244	1	Berkeley, California, United States
+0245	1	Tampa, Florida, United States
+0246	1	Bethesda, Maryland, United States
+0247	1	Mundelein, Illinois, United States
+0248	1	Boston, Massachusetts, United States
+0249	1	, New York, United States
+0250	1	San Jose, California, United States
+0251	1	Palo alto, California, United States
+0252	1	San Jose, California, United States
+0253	1	Danville, Pennsylvania, United States
+0254	1	Virginia Beach, Virginia, United States
+0255	1	AUSTIN, Texas, United States
+0256	1	San Jose, California, United States
+0257	1	Leesburg, Virginia, United States
+0258	1	, Massachusetts, United States
+0259	1	Alexandria, Virginia, United States
+0260	1	Chicago, Illinois, United States
+0261	1	Ann Arbor, Michigan, United States
+0262	1	University Park, Pennsylvania, United States
+0263	1	Philadelphia, Pennsylvania, United States
+0264	1	Waltham, Massachusetts, United States
+0265	1	, Virginia, United States
+0266	1	University Park, Illinois, United States
+0267	1	Hillsboro, Oregon, United States
+0268	1	Portland, Oregon, United States
+0269	1	Portland, Oregon, United States
+0270	1	Portland, Oregon, United States
+0271	1	Portland, Oregon, United States
+0272	1	Winona, Minnesota, United States
+0273	1	Lake Mary, Florida, United States
+0274	1	Toronto, Ontario, Canada
+0275	1	Austin, Texas, United States
+0276	1	Austin, Texas, United States
+0277	1	Sacramento, California, United States
+0278	1	New York, New York, United States
+0279	1	Austin, Texas, United States
+0280	1	San Mateo, California, United States
+0281	1	Austin, Texas, United States
+0282	1	Austin, Texas, United States
+0283	1	Baghdad, Select a State, Iraq
+0284	1	Framingham, Massachusetts, United States
+0285	1	Iowa City, Iowa, United States
+0286	1	Iowa City, Iowa, United States
+0287	1	AUSTIN, Texas, United States
+0288	1	Moscow, Idaho, United States
+0289	1	Gaithersburg, Maryland, United States
+0290	1	Monterey, California, United States
+0291	1	Provo, Utah, United States
+0292	1	Salt Lake City, Utah, United States
+0293	1	Denver, Colorado, United States
+0294	1	, New York, United States
+0295	1	, Illinois, United States
+0296	1	, Illinois, United States
+0297	1	, Virginia, United States
+0298	1	Costa Mesa, California, United States
+0299	1	Medford, Massachusetts, United States
+0300	1	Mundelein, Illinois, United States
+0301	1	Plainville, Connecticut,
+0302	1	Seattle, Washington, United States
+0303	1	Fort Meade, Maryland, United States
+0304	1	Hamel, Minnesota, United States
+0305	1	Bridgewater, New Jersey, United States
+0306	1	Colorado Springs, Colorado, United States
+0307	1	Ottawa, Ontario, Canada
+0308	1	, Massachusetts, United States
+0309	1	Atlanta, Georgia, United States
+0310	1	San Francisco, California, United States
+0311	1	Ft. Myers, Florida, United States
+0312	1	Ft. Myers, Florida, United States
+0313	1	Plymouth Meeting, Pennsylvania, United States
+0314	1	, New York, United States
+0315	1	Chicago, Illinois, United States
+0316	1	Mt. Pleasant, Michigan, United States
+0317	1	Marked Tree, Arkansas, United States
+0318	1	Baltimore, Maryland, United States
+0319	1	Framingham, Massachusetts, United States
+0320	1	Seattle, Washington, United States
+0321	1	Greenbelt, Maryland, United States
+0322	1	, New York, United States
+0323	1	Farifax, Virginia, United States
+0324	1	Ashburn, Virginia, United States
+0325	1	Corona, California, United States
+0326	1	New York, New York, United States
+0327	1	College Park, Maryland, United States
+0328	1	Middleboro, Massachusetts, United States
+0329	1	Lexington Park, Maryland, United States
+0330	1	, Florida, United States
+0331	1	College Park, Maryland, United States
+0332	1	Washington, Dist. Columbia, United States
+0333	1	New York City, New York, United States
+0334	1	Washington, Dist. Columbia, United States
+0335	1	University Park, Illinois, United States
+0336	1	Philadelphia, Pennsylvania, United States
+0337	1	Dallas, Texas, United States
+0338	1	Columbus, Ohio, United States
+0339	1	Chicago, Illinois, United States
+0340	1	Rockville, Maryland, United States
+0341	1	Rochester Hills, Michigan, United States
+0342	1	Reading, Pennsylvania, United States
+0343	1	Oklahoma City, Oklahoma, United States
+0344	1	Winston-Salem, North Carolina, United States
+0345	1	Alexandria, Virginia, United States
+0346	1	University of Richmond, Virginia, United States
+0347	1	San Francisco, California, United States
+0348	1	Ottawa, Ontario, Canada
+0349	1	Santa Barbara, California, United States
+0350	1	San Francisco, California, United States
+0351	1	Ottawa, Ontario, Canada
+0352	1	Irvine, California, United States
+0353	1	Westport, Connecticut,
+0354	1	Marked Tree, Arkansas, United States
+0355	1	San Francisco, California, United States
+0356	1	Atlanta, Georgia, United States
+0357	1	Denver, Colorado, United States
+0358	1	, Maryland, United States
+0359	1	Westport, Connecticut,
+0360	1	Provo, Utah, United States
+0361	1	Atlanta, Georgia, United States
+0362	1	Newark, New Jersey, United States
+0363	1	Columbia, Maryland, United States
+0364	1	New York, New York, United States
+0365	1	Las Vegas, Nevada, United States
+0366	1	Brenham, Texas, United States
+0367	1	Reston, Virginia, United States
+0368	1	Washington, Dist. Columbia, United States
+0369	1	Dayton, Ohio, United States
+0370	1	Princeton, New Jersey, United States
+0371	1	Orlando/Tampa/Daytona, Florida, United States
+0372	1	, Washington, United States
+0373	1	Chicago, Illinois, United States
+0374	1	Summit, New Jersey, United States
+0375	1	, New York, United States
+0376	1	Salem, Oregon, United States
+0377	1	Portland, Oregon, United States
+0378	1	Portland, Oregon, United States
+0379	1	Portland, Oregon, United States
+0380	1	Dallas, Texas, United States
+0381	1	Atlanta, Georgia, United States
+0382	1	Cambridge, Massachusetts, United States
+0383	1	Los Altos Hills, California, United States
+0384	1	Seattle, Washington, United States
+0385	1	, New York, United States
+0386	1	Portland, Oregon, United States
+0387	1	San Francisco, California, United States
+0388	1	Boston, Massachusetts, United States
+0389	1	Raleigh, North Carolina, United States
+0390	1	Richmond, Virginia, United States
+0391	1	, New York, United States
+0392	1	Springfield, Virginia, United States
+0393	1	Annandale, Virginia, United States
+0394	1	Atlanta, Georgia, United States
+0395	1	Detroit, Michigan, United States
+0396	1	Portland, Oregon, United States
+0397	1	Loma Linda, California, United States
+0398	1	Loma Linda, California, United States
+0399	1	Loma Linda, California, United States
+0400	1	Medford, Massachusetts, United States
+0401	1	Bloomington, Indiana, United States
+0402	1	Boston, Massachusetts, United States
+0403	1	Boston, Massachusetts, United States
+0404	1	Boston, Massachusetts, United States
+0405	1	Urbana, Illinois, United States
+0406	1	Cambridge, Massachusetts, United States
+0407	1	Lincoln, Nebraska, United States
+0408	1	New York, New York, United States
+0409	1	MIAMI, Florida, United States
+0410	1	Overland Park, Kansas, United States
+0411	1	Chicago, Illinois, United States
+0412	1	Charleston, South Carolina, United States
+0413	1	Austin, Texas, United States
+0414	1	Austin, Texas, United States
+0415	1	Portland, Oregon, United States
+0416	1	Portland, Oregon, United States
+0417	1	Lincolnshire, Illinois, United States
+0418	1	Fitchburg, Massachusetts, United States
+0419	1	Fitchburg, Massachusetts, United States
+0420	1	Fitchburg, Massachusetts, United States
+0421	1	Bethesda, Maryland, United States
+0422	1	Fitchburg, Massachusetts, United States
+0423	1	Ridgefield, Connecticut,
+0424	1	Fitchburg, Massachusetts, United States
+0425	1	Chicago, Illinois, United States
+0426	1	Tucson, Arizona, United States
+0427	1	Philadelphia, Pennsylvania, United States
+0428	1	, Minnesota, United States
+0429	1	, New York, United States
+0430	1	, Illinois, United States
+0431	1	Jacksonville, Florida, United States
+0432	1	Albuquerque, New Mexico, United States
+0433	1	Houston, Texas, United States
+0434	1	Fitchburg, Massachusetts, United States
+0435	1	Cambridge, Massachusetts, United States
+0436	1	Boulder/Longmont, Colorado, United States
+0437	1	Lewiston, Idaho, United States
+0438	1	Fitchburg, Massachusetts, United States
+0439	1	Fitchburg, Massachusetts, United States
+0440	1	Natick, Massachusetts, United States
+0441	1	Fitchburg, Massachusetts, United States
+0442	1	Fitchburg, Massachusetts, United States
+0443	1	, Texas, United States
+0444	1	Boston, Massachusetts, United States
+0445	1	Salt Lake City, Utah, United States
+0446	1	San Jose, California, United States
+0447	1	, California, United States
+0448	1	, Dist. Columbia, United States
+0449	1	, Florida, United States
+0450	1	, Minnesota, United States
+0451	1	, Maryland, United States
+0452	1	, Indiana, United States
+0453	1	, Connecticut, United States
+0454	1	Lexington, Kentucky, United States
+0455	1	Perrysburg, Ohio, United States
+0456	1	, Connecticut, United States
+0457	1	, Minnesota, United States
+0458	1	, Florida, United States
+0459	1	, Florida, United States
+0460	1	Norwalk, Connecticut,
+0461	1	, Connecticut, United States
+0462	1	, Connecticut, United States
+0463	1	Livermore, California, United States
+0464	1	Livermore, California, United States
+0465	1	Livermore, California, United States
+0466	1	Bronx, New York, United States
+0467	1	Philadelphia, Pennsylvania, United States
+0468	1	Stamford, Connecticut,
+0469	1	Thornwood, New York,
+0470	1	Washington, Dist. Columbia, United States
+0471	1	Stanford, California, United States
+0472	1	, Florida, United States
+0473	1	New Haven County, Connecticut,
+0474	1	New Haven County, Connecticut,
+0475	1	Austin, Texas, United States
+0476	1	San Francisco, California, United States
+0477	1	Richmond, Virginia, United States
+0478	1	New York, New York, United States
+0479	1	Munich, Other / Non-US, Germany
+0480	1	Manassas, Virginia, United States
+0481	1	Washington, Dist. Columbia, United States
+0482	1	Benson, Arizona, United States
+0483	1	Mount Pleasant, Michigan, United States
+0484	1	Virtual, Eastern, US, , United States
+0485	1	Fitchburg, Massachusetts, United States
+0486	1	Fitchburg, Massachusetts, United States
+0487	1	Fitchburg, Massachusetts, United States
+0488	1	Fitchburg, Massachusetts, United States
+0489	1	Winter Springs, Florida, United States
+0490	1	Salt Lake City, Utah, United States
+0491	1	, Missouri, United States
+0492	1	, Missouri, United States
+0493	1	, Missouri, United States
+0494	1	Monroe, Wisconsin, United States
+0495	1	Medford, Massachusetts, United States
+0496	1	Mount Kisco, New York, United States
+0497	1	Portland, Oregon, United States
+0498	1	Portland, Oregon, United States
+0499	1	Seattle, Washington, United States
+0500	1	Branchville, New Jersey, United States
+0501	1	Woodbridge, Virginia, United States
+0502	1	Batesville, Indiana, United States
+0503	1	Woodland Hills, California, United States
+0504	1	Alachua, Florida, United States
+0505	1	Houston, Texas, United States
+0506	1	, Florida, United States
+0507	1	Denver, Colorado, United States
+0508	1	Washington, Dist. Columbia, United States
+0509	1	Hannibal, Missouri, United States
+0510	1	Alexandria, Virginia, United States
+0511	1	Lexington Park, Maryland, United States
+0512	1	Lexington Park, Maryland, United States
+0513	1	Lexington Park, Maryland, United States
+0514	1	Alexandria, Virginia, United States
+0515	1	Bronx, New York, United States
+0516	1	Columbia, Maryland, United States
+0517	1	Houston, Texas, United States
+0518	1	Annapoliss, Maryland, United States
+0519	1	London, Other / Non-US, United Kingdom
+0520	1	, North Carolina, United States
+0521	1	Woodbridge, Virginia, United States
+0522	1	Montreal, Other / Non-US, Canada
+0523	1	Dallas, Texas, United States
+0524	1	, California, United States
+0525	1	, Texas, United States
+0526	1	Portland, Oregon, United States
+0527	1	, Maryland, United States
+0528	1	Flint, Mid-Michigan, United States
+0529	1	SAN JOSE, California, United States
+0530	1	Newark, New Jersey, United States
+0531	1	Farmington Hills, Michigan, United States
+0532	1	Perrysburg, Ohio, United States
+0533	1	Phoenix, Arizona, United States
+0534	1	Stratford, Connecticut,
+0535	1	Clemson, South Carolina, United States
+0536	1	Hercules, California, United States
+0537	1	Glendora, California, United States
+0538	1	Memphis, Tennessee, United States
+0539	1	San Diego, California, United States
+0540	1	Columbia, Maryland, United States
+0541	1	San Diego, California, United States
+0542	1	Mckinney, Texas, United States
+0543	1	, Maryland, United States
+0544	1	, Michigan, United States
+0545	1	, Alabama, United States
+0546	1	, Kentucky, United States
+0547	1	, Mississippi, United States
+0548	1	, Missouri, United States
+0549	1	, Minnesota, United States
+0550	1	, Tennessee, United States
+0551	1	, Iowa, United States
+0552	1	, Virginia, United States
+0553	1	, New York, United States
+0554	1	, Illinois, United States
+0555	1	, Pennsylvania, United States
+0556	1	, Florida, United States
+0557	1	, West Virginia, United States
+0558	1	, North Carolina, United States
+0559	1	Norwalk, Connecticut,
+0560	1	Los Angeles, California, United States
+0561	1	Atlanta, Georgia, United States
+0562	1	Perrysburg, Ohio, United States
+0563	1	Reston, Virginia, United States
+0564	1	Newtown, Connecticut,
+0565	1	Winston-Salem, North Carolina, United States
+0566	1	Lake County, Illinois, United States
+0567	1	Somerville, Massachusetts, United States
+0568	1	SAN JOSE, California, United States
+0569	1	Mt. Prospect, Illinois, United States
+0570	1	Bethlehem, Pennsylvania, United States
+0571	1	Edgewood, Maryland, United States
+0572	1	Live Oak, Texas, United States
+0573	1	Oakland, California, United States
+0574	1	Oakland, California, United States
+0575	1	Oakland, California, United States
+0576	1	Westlake, Ohio, United States
+0577	1	Westlake, Ohio, United States
+0578	1	Endicott, New York, United States
+0579	1	Andover, Massachusetts, United States
+0580	1	Cupertino, California, United States
+0581	1	Endicott, New York, United States
+0582	1	Abu Dhabi, United Arab Emirates, U.A.E.
+0583	1	Mason, Michigan, United States
+0584	1	Palo Alto, California, United States
+0585	1	Richmond, Virginia, United States
+0586	1	Denver, Colorado, United States
+0587	1	Sacramento, California, United States
+0588	1	San Jose, California, United States
+0589	1	San Jose, California, United States
+0590	1	Blacksburg, Virginia, United States
+0591	1	Seaford, Delaware, United States
+0592	1	Houston, Texas, United States
+0593	1	San Jose, California, United States
+0594	1	Madison, Wisconsin, United States
+0595	1	Austin, Texas, United States
+0596	1	San Diego, California, United States
+0597	1	, Washington, United States
+0598	1	, Virginia, United States
+0599	1	, Virginia, United States
+0600	1	, California, United States
+0601	1	, California, United States
+0602	1	, New York, United States
+0603	1	, New York, United States
+0604	1	Devils Lake, North Dakota, United States
+0605	1	Flint, Mid-Michigan, United States
+0606	1	San Antonio, Texas, United States
+0607	1	Phoenix, Arizona, United States
+0608	1	Chicago, Illinois, United States
+0609	1	Baton Rouge, Louisiana, United States
+0610	1	Upper Montclair, New Jersey, United States
+0611	1	San Jose, California, United States
+0612	1	Shelton, Connecticut,
+0613	1	Boston, Massachusetts, United States
+0614	1	Boston, Massachusetts, United States
+0615	1	Boston, Massachusetts, United States
+0616	1	Boston, Massachusetts, United States
+0617	1	Stamford, Connecticut,
+0618	1	Shelton, Connecticut,
+0619	1	San Francisco, California, United States
+0620	1	Boston, Massachusetts, United States
+0621	1	San Francisco, California, United States
+0622	1	Winston Salem, North Carolina, United States
+0623	1	Duluth, Georgia, United States
+0624	1	Huntsville, Alabama, United States
+0625	1	Shelton, Connecticut,
+0626	1	Jupiter, Florida, United States
+0627	1	Summerville, South Carolina, United States
+0628	1	Columbus, Ohio, United States
+0629	1	Houston, Texas, United States
+0630	1	Houston, Texas, United States
+0631	1	Muncie, Indiana, United States
+0632	1	, Florida, United States
+0633	1	Chicago, Illinois, United States
+0634	1	Ketchikan, Alaska, United States
+0635	1	Atlanta, Georgia, United States
+0636	1	Urbandale, Iowa, United States
+0637	1	Keene, New Hampshire, United States
+0638	1	Leesburg, Virginia, United States
+0639	1	Leesburg, Virginia, United States
+0640	1	Leesburg, Virginia, United States
+0641	1	Leesburg, Virginia, United States
+0642	1	Leesburg, Virginia, United States
+0643	1	Leesburg, Virginia, United States
+0644	1	Washington, Dist. Columbia, United States
+0645	1	San Jose, California, United States
+0646	1	Denver, Colorado, United States
+0647	1	Burbank, California, United States
+0648	1	Blacksburg, Virginia, United States
+0649	1	Georgia, Georgia, United States
+0650	1	Lake Jackson, Texas, United States
+0651	1	, Massachusetts, United States
+0652	1	Portland, Oregon, United States
+0653	1	Portland, Oregon, United States
+0654	1	Portland, Oregon, United States
+0655	1	Bemidji, Minnesota, United States
+0656	1	, Florida, United States
+0657	1	MUNDELEIN, Illinois, United States
+0658	1	New Haven, Southern Connecticut - New Haven, United States
+0659	1	Chapel Hill, North Carolina, United States
+0660	1	East Haven, Connecticut,
+0661	1	Irvine, California, United States
+0662	1	Manhattan (West Village), New York, United States
+0663	1	Houston, Texas, United States
+0664	1	Houston, Texas, United States
+0665	1	Houston, Texas, United States
+0666	1	Houston, Texas, United States
+0667	1	Houston, Texas, United States
+0668	1	Plano, Texas, United States
+0669	1	Orange, California, United States
+0670	1	Grand Rapids, Michigan, United States
+0671	1	Sunrise, Florida, United States
+0672	1	Otterburne, Manitoba, Canada
+0673	1	Atlanta, Georgia, United States
+0674	1	San Jose, California, United States
+0675	1	Groton, Massachusetts, United States
+0676	1	Groton, Massachusetts, United States
+0677	1	Cambridge, Massachusetts, United States
+0678	1	Tampa, Florida, United States
+0679	1	Berkeley, CA, Washington, DC, United States
+0680	1	Boston, Massachusetts, United States
+0681	1	Groton, Massachusetts, United States
+0682	1	Hamilton, New York, United States
+0683	1	Groton, Massachusetts, United States
+0684	1	Neenah, Wisconsin, United States
+0685	1	Abu Dhabi, Other / Non-US, U.A.E.
+0686	1	Kotzebue, Alaska, United States
+0687	1	Fairfield, Connecticut,
+0688	1	Santa Rosa, California, United States
+0689	1	Baltimore, Maryland, United States
+0690	1	Minneapolis, Minnesota, United States
+0691	1	Ypsilanti, Southeast Michigan, United States
+0692	1	, Florida, United States
+0693	1	Neenah, Wisconsin, United States
+0694	1	Tarrytown, New York, United States
+0695	1	New York, New York, United States
+0696	1	Minneapolis, Minnesota, United States
+0697	1	New york City, New York, United States
+0698	1	Cambridge, Massachusetts, United States
+0699	1	Gaithersburg, Maryland, United States
+0700	1	Amherst, Massachusetts, United States
+0701	1	Norwalk, Connecticut,
+0702	1	Houston, Texas, United States
+0703	1	, New York, United States
+0704	1	, Ohio, United States
+0705	1	, Illinois, United States
+0706	1	, California, United States
+0707	1	, Illinois, United States
+0708	1	Springfield, Virginia, United States
+0709	1	Jacksonville, Florida, United States
+0710	1	Jacksonville, Florida, United States
+0711	1	Oakland, California, United States
+0712	1	Pittsburgh, Pennsylvania, United States
+0713	1	Jacksonville, Florida, United States
+0714	1	Los Angeles, California, United States
+0715	1	Jacksonville, Florida, United States
+0716	1	Tarrytown, New York,
+0717	1	Costa Mesa, California, United States
+0718	1	Dallas, Texas, United States
+0719	1	Irvine, California, United States
+0720	1	Roseville, California, United States
+0721	1	, Virginia, United States
+0722	1	Anaheim, California, United States
+0723	1	Westchester, New York, United States
+0724	1	Boulder, Colorado, United States
+0725	1	Bloomington, Illinois, United States
+0726	1	Daytona Beach, Florida, United States
+0727	1	Naperville, Illinois, United States
+0728	1	Tulsa, Oklahoma, United States
+0729	1	Orange County, California, United States
+0730	1	Chicago, Illinois, United States
+0731	1	Wichita, Kansas, United States
+0732	1	Tucson, Arizona, United States
+0733	1	Springfield, Missouri, United States
+0734	1	Wooncocket, Rhode Island, United States
+0735	1	, Washington, United States
+0736	1	, Oregon, United States
+0737	1	, Texas, United States
+0738	1	Utica, New York, United States
+0739	1	Vancouver, Washington, United States
+0740	1	Omaha, Nebraska, United States
+0741	1	San Jose, California, United States
+0742	1	San Diego, California, United States
+0743	1	, Texas, United States
+0744	1	West Monroe, Louisiana, United States
+0745	1	Waltham, Massachusetts, United States
+0746	1	Portland, Oregon, United States
+0747	1	San Jose, California, United States
+0748	1	New York City, New York, United States
+0749	1	New York, New York, United States
+0750	1	South Bend, Indiana, United States
+0751	1	Topeka, Kansas, United States
+0752	1	Boulder, Colorado, United States
+0753	1	Chicago, Illinois, United States
+0754	1	houston, Texas, United States
+0755	1	Sacramento, California, United States
+0756	1	Columbia, Maryland, United States
+0757	1	Westlake, Ohio, United States
+0758	1	Christiansburg, Virginia, United States
+0759	1	Wilton, Connecticut,
+0760	1	Bay City, Texas, United States
+0761	1	Naperville, Illinois, United States
+0762	1	Shelbyville, Kentucky, United States
+0763	1	Norwalk, Connecticut,
+0764	1	Freeport, Texas, United States
+0765	1	, Your Home State, United States
+0766	1	San Luis Obispo, vicinity of San Luis Obispo, United States
+0767	1	Frederick, Maryland, United States
+0768	1	Dallas, Texas, United States
+0769	1	, Arkansas, United States
+0770	1	, New York, United States
+0771	1	New London, Connecticut, United States
+0772	1	FALLS CHURCH, Virginia, United States
+0773	1	OVERLAND PARK, Kansas, United States
+0774	1	Middletown, Pennsylvania, United States
+0775	1	Ventura, California, United States
+0776	1	170 Sigourney Street, Connecticut,
+0777	1	BOSTON, Massachusetts, United States
+0778	1	Parsippany, New Jersey, United States
+0779	1	Groton, Connecticut, United States
+0780	1	Birmingham, Alabama, United States
+0781	1	Bedford, Ohio, United States
+0782	1	Austin, Texas, United States
+0783	1	Northern, Indiana, United States
+0784	1	Washington, Dist. Columbia, United States
+0785	1	Fort Wayne, Indiana, United States
+0786	1	Bedford, Ohio, United States
+0787	1	Bedford, Ohio, United States
+0788	1	Washington, Dist. Columbia, United States
+0789	1	Washington, Dist. Columbia, United States
+0790	1	Tacoma, Washington, United States
+0791	1	Salt Lake City, Utah, United States
+0792	1	Burlington, Washington, United States
+0793	1	, California, United States
+0794	1	London, , United Kingdom
+0795	1	Portland, Oregon, United States
+0796	1	Portland, Oregon, United States
+0797	1	Salem, Oregon, United States
+0798	1	Salem, Oregon, United States
+0799	1	Wheaton, Illinois, United States
+0800	1	Boston, Massachusetts, United States
+0801	1	Benton, Michigan, United States
+0802	1	Mississauga, Other / Non-US, Canada
+0803	1	Flint, Mid-michigan, United States
+0804	1	Mississauga, Other / Non-US, Canada
+0805	1	Bend, Oregon, United States
+0806	1	St. Mary's City, Maryland - Southern, United States
+0807	1	Columbus, Ohio, United States
+0808	1	Boston, Massachusetts, United States
+0809	1	Mundelein, Illinois, United States
+0810	1	Irving, Texas, United States
+0811	1	Hamilton, Texas, United States
+0812	1	Spokane, Washington, United States
+0813	1	Houston, Texas, United States
+0814	1	Los Angeles, California, United States
+0815	1	Austin, Texas, United States
+0816	1	Dallas, Texas, United States
+0817	1	, California, United States
+0818	1	, California, United States
+0819	1	, New Jersey, United States
+0820	1	Brisbane, California, United States
+0821	1	Nanjing, Other / Non-US, China
+0822	1	Westlake, Ohio, United States
+0823	1	Westlake, Ohio, United States
+0824	1	Toronto, Ontario, Canada
+0825	1	Boise, Idaho, United States
+0826	1	Atlanta, Georgia, United States
+0827	1	, Massachusetts, United States
+0828	1	Lee County, Florida, United States
+0829	1	Richmond, Virginia, United States
+0830	1	Houston, Texas, United States
+0831	1	, New York, United States
+0832	1	, New York, United States
+0833	1	, New York, United States
+0834	1	Phoenix, Arizona, United States
+0835	1	Stamford, Connecticut,
+0836	1	Oakland, California, United States
+0837	1	Chicago, Illinois, United States
+0838	1	Upton, New York, United States
+0839	1	Worcester, Massachusetts, United States
+0840	1	Frederick, Maryland, United States
+0841	1	Bentonville, Arkansas, United States
+0842	1	Benton, Arkansas, United States
+0843	1	Bloomington, Indiana, United States
+0844	1	San Jose, California, United States
+0845	1	San Diego, California, United States
+0846	1	Cleveland, Ohio, United States
+0847	1	Chambersburg, Pennsylvania, United States
+0848	1	Boston, Massachusetts, United States
+0849	1	El Segundo, California, United States
+0850	1	Salem, Oregon, United States
+0851	1	Tacoma, Washington, United States
+0852	1	Westport, Connecticut,
+0853	1	Chicago, Illinois, United States
+0854	1	Portland, Oregon, United States
+0855	1	Salina, Kansas, United States
+0856	1	Washington, Dist. Columbia, United States
+0857	1	Dallas, Texas, United States
+0858	1	Portland, Oregon, United States
+0859	1	Salem, Oregon, United States
+0860	1	Salt Lake City, Utah, United States
+0861	1	Salt Lake City, Utah, United States
+0862	1	Lewiston, Idaho, United States
+0863	1	Lewiston, Idaho, United States
+0864	1	Tacoma, Washington, United States
+0865	1	Palatine, Illinois, United States
+0866	1	Portland, Oregon, United States
+0867	1	Rochester Hills, Michigan, United States
+0868	1	Kansas City/ Lenexa, Kansas, United States
+0869	1	Waterbury, Vermont, United States
+0870	1	Bloomington, Illinois, United States
+0871	1	Paris, IDF, France
+0872	1	Kailua, Hawaii, United States
+0873	1	Chicago, Illinois, United States
+0874	1	, Pennsylvania, United States
+0875	1	, Ohio, United States
+0876	1	, New York, United States
+0877	1	, New York, United States
+0878	1	Phoenix, Arizona, United States
+0879	1	Boise, Idaho, United States
+0880	1	Waltham, Massachusetts, United States
+0881	1	Owensboro, Kentucky, United States
+0882	1	Houston, Pennsylvania, United States
+0883	1	Seattle, Washington, United States
+0884	1	Seattle, Washington, United States
+0885	1	Seattle, Washington, United States
+0886	1	Salt Lake City, Utah, United States
+0887	1	Salt Lake City, Utah, United States
+0888	1	Salt Lake City, Utah, United States
+0889	1	Cypress, California, United States
+0890	1	Edmonton or Calgary, Alberta, Canada
+0891	1	Fort Worth, Texas, United States
+0892	1	Los Angeles, California, United States
+0893	1	Greensboro, North Carolina, United States
+0894	1	Greensboro, North Carolina, United States
+0895	1	Santa Barbara, California, United States
+0896	1	Fairfield, Connecticut,
+0897	1	, Massachusetts, United States
+0898	1	, Ohio, United States
+0899	1	, Ohio, United States
+0900	1	, Massachusetts, United States
+0901	1	, Michigan, United States
+0902	1	Rocklin, California, United States
+0903	1	Missoula, Montana, United States
+0904	1	Missoula, Montana, United States
+0905	1	Owensboro, Kentucky, United States
+0906	1	Lawrence, Kansas, United States
+0907	1	Rockville, Maryland, United States
+0908	1	Ocala, Florida, United States
+0909	1	Farmington, Connecticut, United States
+0910	1	Fort Myers, Florida, United States
+0911	1	Omaha, Nebraska, United States
+0912	1	Aberdeen, Maryland, United States
+0913	1	Lethbridge, Alberta, Canada
+0914	1	Decatur, Georgia, United States
+0915	1	Decatur, Georgia, United States
+0916	1	Austin, Texas, United States
+0917	1	Los Angeles, California, United States
+0918	1	Greenville, North Carolina, United States
+0919	1	, Michigan, United States
+0920	1	, Texas, United States
+0921	1	, New York, United States
+0922	1	Missoula, Montana, United States
+0923	1	St. Louis, St. Louis Metro, United States
+0924	1	Alexandria, Virginia, United States
+0925	1	Harvard, Massachusetts, United States
+0926	1	Baltimore, Maryland, United States
+0927	1	Queens, New York, United States
+0928	1	Missoula, Montana, United States
+0929	1	, Wisconsin, United States
+0930	1	Beverly, Massachusetts, United States
+0931	1	Bridgeport, Connecticut,
+0932	1	Broomfield, Colorado, United States
+0933	1	Galveston, Texas, United States
+0934	1	, Massachusetts, United States
+0935	1	Tampa Bay Area, Florida, United States
+0936	1	, North Carolina, United States
+0937	1	Bronx, New York, United States
+0938	1	Evans, Colorado, United States
+0939	1	Wilmington, Delaware, United States
+0940	1	Oro Valley, Arizona, United States
+0941	1	Burlington, Massachusetts, United States
+0942	1	Ottawa, Ontario, Canada
+0943	1	Chattanooga, Tennessee, United States
+0944	1	Orlando, Florida, United States
+0945	1	Atlanta, Georgia, United States
+0946	1	Sacramento, California, United States
+0947	1	Philadelphia, Pennsylvania, United States
+0948	1	Burlington, Vermont, United States
+0949	1	Denver, Colorado, United States
+0950	1	Woodridge, Illinois, United States
+0951	1	Denver, Colorado, United States
+0952	1	Woodridge, Illinois, United States
+0953	1	Woodridge, Illinois, United States
+0954	1	Woodridge, Illinois, United States
+0955	1	Dallas, Texas, United States
+0956	1	Woodridge, Illinois, United States
+0957	1	Woodridge, Illinois, United States
+0958	1	Seattle, Washington, United States
+0959	1	Pontiac, Michigan, United States
+0960	1	Pontiac, Michigan, United States
+0961	1	Vancouver, Washington, United States
+0962	1	Salem, Oregon, United States
+0963	1	Salem, Oregon, United States
+0964	1	Los Angeles, California, United States
+0965	1	Sugar Land, TX, , United States
+0966	1	Boston, Massachusetts, United States
+0967	1	Ottawa, Ontario, Canada
+0968	1	Nashville, Tennessee, United States
+0969	1	New York, New York, United States
+0970	1	5505 Blue Lagoon Drive, Florida, United States
+0971	1	Andover, Massachusetts, United States
+0972	1	Arlington Heights, Illinois, United States
+0973	1	Utica, New York, United States
+0974	1	Montreal, Quebec, Canada
+0975	1	Miami Lakes, Florida, United States
+0976	1	Miami Lakes, Florida, United States
+0977	1	Charleston, South Carolina, United States
+0978	1	, Florida, United States
+0979	1	Salem, Oregon, United States
+0980	1	Lansing, Michigan, United States
+0981	1	Yeonsu-Gu, Incheon, South Korea
+0982	1	UPPER MONTCLAIR, New Jersey, United States
+0983	1	Bridgewater, New Jersey, United States
+0984	1	Cambridge, Massachusetts, United States
+0985	1	Houston, Texas, United States
+0986	1	Dallas, Texas, United States
+0987	1	Chicago, Illinois, United States
+0988	1	Sacramento, California, United States
+0989	1	Baltimore, Maryland, United States
+0990	1	Capital Federal, Other / Non-US, Argentina
+0991	1	, Florida, United States
+0992	1	, Pennsylvania, United States
+0993	1	Rosemont, Illinois, United States
+0994	1	Charlotte, North Carolina, United States
+0995	1	Vienna, Virginia, United States
+0996	1	New York, New York, United States
+0997	1	Statewide, Rhode Island, United States
+0998	1	Rockville, Maryland, United States
+0999	1	New Jersey, New York, United States
+1000	1	Chicago, Illinois, United States
+1001	1	El Segundo, California, United States
+1002	1	Granbury, Texas, United States
+1003	1	Northern NJ & LAX area, California, United States
+1004	1	New York, New York, United States
+1005	1	Washington, Dist. Columbia, United States
+1006	1	Chicago, Illinois, United States
+1007	1	Baltimore, Maryland, United States
+1008	1	Houston, Texas, United States
+1009	1	Toronto, Ontario, Canada
+1010	1	New York, New York, United States
+1011	1	Morristown, New Jersey, United States
+1012	1	Des Moines, Iowa, United States
+1013	1	Seattle, Washington, United States
+1014	1	San Francisco Bay Area, California, United States
+1015	1	Chelmsford, Massachusetts, United States
+1016	1	New York, New York, United States
+1017	1	New York, New York, United States
+1018	1	Ottawa/Gatineau, Quebec, Canada
+1019	1	Ottawa/Gatineau, Quebec, Canada
+1020	1	Ottawa/Gatineau, Quebec, Canada
+1021	1	Columbia, Maryland, United States
+1022	1	Austin, Texas, United States
+1023	1	Cincinnati, Ohio, United States
+1024	1	Los Angeles, California, United States
+1025	1	Bellevue, Washington, United States
+1026	1	, New York, United States
+1027	1	Cincinnati, Ohio, United States
+1028	1	, Florida, United States
+1029	1	Kingsport, Tennessee, United States
+1030	1	Houston, Texas, United States
+1031	1	Tampa, Florida, Florida, United States
+1032	1	, Minnesota, United States
+1033	1	Beer Sheva, International, Israel
+1034	1	Seattle, Washington, United States
+1035	1	, New York, United States
+1036	1	EastCoast / Anywhere, New York, United States
+1037	1	Seattle, Washington, United States
+1038	1	, Massachusetts, United States
+1039	1	, Florida, United States
+1040	1	San Diego, California, United States
+1041	1	San Diego, California, United States
+1042	1	Austin, Texas, United States
+1043	1	Houston, Texas, United States
+1044	1	Houston, Texas, United States
+1045	1	Austin, Texas, United States
+1046	1	Bethesda, Maryland, United States
+1047	1	Bethesda, Maryland, United States
+1048	1	Houston, Texas, United States
+1049	1	Austin, Texas, United States
+1050	1	, New York, United States
+1051	1	, New York, United States
+1052	1	, New York, United States
+1053	1	Cincinnati, Ohio,
+1054	1	Rockville, Maryland, United States
+1055	1	, Dist. Columbia, United States
+1056	1	Troy, Michigan, United States
+1057	1	Cambridge, Massachusetts, United States
+1058	1	Statewide, Massachusetts, United States
+1059	1	Bellevue, Washington, United States
+1060	1	Statewide, Massachusetts, United States
+1061	1	Statewide, Maine, United States
+1062	1	Rockville, Maryland, United States
+1063	1	Chicago, Illinois, United States
+1064	1	Detroit, Michigan, United States
+1065	1	Austin, Texas, United States
+1066	1	Rockville, Maryland, United States
+1067	1	Greensburg, Pennsylvania, United States
+1068	1	Boston, Massachusetts, United States
+1069	1	St. Petersburg, Florida, United States
+1070	1	Wallingford, Connecticut, United States
+1071	1	Adelphi, Maryland, United States
+1072	1	Newark, Delaware, United States
+1073	1	Vernon Hills, Illinois, United States
+1074	1	Vernon Hills, Illinois, United States
+1075	1	Vernon Hills, Illinois, United States
+1076	1	Bridgeport, Connecticut, United States
+1077	1	Hackett, Arkansas, United States
+1078	1	Norwalk, Connecticut,
+1079	1	Denver, Colorado, United States
+1080	1	Falls Church, Virginia, United States
+1081	1	Texas City, Texas, United States
+1082	1	Hartford, Connecticut,
+1083	1	Hartford, Connecticut,
+1084	1	, Dist. Columbia, United States
+1085	1	Seattle, Washington, United States
+1086	1	Vernon Hills, Illinois, United States
+1087	1	Boston, Massachusetts, United States
+1088	1	Phoenix, Arizona, United States
+1089	1	, Texas, United States
+1090	1	Charlottesville, Virginia, United States
+1091	1	Dallas, Texas, United States
+1092	1	Austin, Texas, United States
+1093	1	, Florida, United States
+1094	1	Chicago, Illinois, United States
+1095	1	Statewide, Maryland, United States
+1096	1	Statewide, Virginia, United States
+1097	1	Statewide, Vermont, United States
+1098	1	Statewide, New Hampshire, United States
+1099	1	Statewide, Rhode Island, United States
+1100	1	Statewide, Arizona, United States
+1101	1	Statewide, California, United States
+1102	1	Statewide, Florida, United States
+1103	1	Statewide, Kentucky, United States
+1104	1	, Louisiana, United States
+1105	1	Statewide, Nevada, United States
+1106	1	Statewide, Oregon, United States
+1107	1	Statewide, West Virginia, United States
+1108	1	Rockville, Maryland, United States
+1109	1	Statewide, Indiana, United States
+1110	1	Statewide, Georgia, United States
+1111	1	Statewide, New York, United States
+1112	1	Statewide, Pennsylvania, United States
+1113	1	Statewide, Maryland, United States
+1114	1	Statewide, Virginia, United States
+1115	1	Statewide, Maine, United States
+1116	1	Statewide, Vermont, United States
+1117	1	Mundelein, Illinois, United States
+1118	1	Statewide, New Hampshire, United States
+1119	1	Alpharetta, Georgia, United States
+1120	1	Statewide, Rhode Island, United States
+1121	1	Statewide, Michigan, United States
+1122	1	Statewide, New York, United States
+1123	1	Charlotte, North Carolina, United States
+1124	1	Statewide, Michigan, United States
+1125	1	Statewide, Georgia, United States
+1126	1	Statewide, Connecticut, United States
+1127	1	Statewide, New Jersey, United States
+1128	1	Statewide, Pennsylvania, United States
+1129	1	Norwalk, Connecticut,
+1130	1	Houston, & Pearland, United States
+1131	1	San Francisco or Sacramento, California, United States
+1132	1	Chicago, Illinois, United States
+1133	1	Denver, Colorado, United States
+1134	1	Daphne, Alabama, United States
+1135	1	San Francisco, California, United States
+1136	1	Las Vegas, Nevada, United States
+1137	1	San Jose, California, United States
+1138	1	San Jose, California, United States
+1139	1	Ottawa/Gatineau, Quebec, Canada
+1140	1	Ottawa/Gatineau, Quebec, Canada
+1141	1	Ottawa/Gatineau, Quebec, Canada
+1142	1	San Jose, California, United States
+1143	1	Auburn, Alabama, United States
+1144	1	San Jose, California, United States
+1145	1	San Jose, California, United States
+1146	1	Denver, Colorado, United States
+1147	1	Boston, Massachusetts, United States
+1148	1	, New York, United States
+1149	1	, Connecticut, United States
+1150	1	, Utah, United States
+1151	1	, Dist. Columbia, United States
+1152	1	Chesapeake, Virginia, United States
+1153	1	St. Paul, Minnesota, United States
+1154	1	Cincinnati, Ohio, United States
+1155	1	San Antonio, Texas, United States
+1156	1	Lockport, Illinois,
+1157	1	, California, United States
+1158	1	Corpus Christi, Texas, United States
+1159	1	Grafton, Massachusetts, United States
+1160	1	Wrentham, Massachusetts, United States
+1161	1	Boca Raton, Florida, United States
+1162	1	O'Fallon, Missouri, United States
+1163	1	Lisle, Illinois, United States
+1164	1	PALATKA, Florida, United States
+1165	1	Boston, Massachusetts, United States
+1166	1	Evans, Colorado, United States
+1167	1	Everett, Washington, United States
+1168	1	Loma Linda, California, United States
+1169	1	Loma Linda, California, United States
+1170	1	Philadelphia, Pennsylvania, United States
+1171	1	Somerville, New Jersey, United States
+1172	1	Boston, Massachusetts, United States
+1173	1	St. Louis, Missouri, United States
+1174	1	Seattle, Washington, United States
+1175	1	College Park, Maryland, United States
+1176	1	Loma Linda, California, United States
+1177	1	Loma Linda, California, United States
+1178	1	Loma Linda, California, United States
+1179	1	Loma Linda, California, United States
+1180	1	Baltimore, Maryland, United States
+1181	1	Westford, Massachusetts, United States
+1182	1	Groton, Connecticut, United States
+1183	1	Denver, Colorado, United States
+1184	1	Palatine, Illinois, United States
+1185	1	Waltham, Massachusetts, United States
+1186	1	Syracuse, New York, United States
+1187	1	Morrisville, North Carolina, United States
+1188	1	Bethlehem, Pennsylvania, United States
+1189	1	Minneapolis, Minnesota, United States
+1190	1	Lexington, Massachusetts, United States
+1191	1	Miami, Florida, United States
+1192	1	Shelton, Connecticut,
+1193	1	Waltham, Massachusetts, United States
+1194	1	, Other / Non-US, Kuwait
+1195	1	York, Pennsylvania, United States
+1196	1	Salt Lake City, Utah, United States
+1197	1	Greenwood Village, Colorado, United States
+1198	1	Chicago, Illinois, United States
+1199	1	Wayne, Pennsylvania, United States
+1200	1	Austin, Texas, United States
+1201	1	Sacramento, California, United States
+1202	1	Houston, Texas, United States
+1203	1	Houston, Texas, United States
+1204	1	, Texas, United States
+1205	1	, Michigan, United States
+1206	1	, Illinois, United States
+1207	1	, Illinois, United States
+1208	1	, Michigan, United States
+1209	1	, California, United States
+1210	1	Houston, Texas, United States
+1211	1	Woodridge, Illinois, United States
+1212	1	Washington, Dist. Columbia, United States
+1213	1	Auburns Hills, Michigan, United States
+1214	1	Phoenix, Arizona, United States
+1215	1	Seattle, Washington, United States
+1216	1	Oakland, California, United States
+1217	1	, Rhode Island, United States
+1218	1	, Massachusetts, United States
+1219	1	Iowa City, Iowa, United States
+1220	1	Chicago, Illinois, United States
+1221	1	Williston, North Dakota, United States
+1222	1	, Alabama, United States
+1223	1	, Tennessee, United States
+1224	1	, Texas, United States
+1225	1	Williston, North Dakota, United States
+1226	1	Herndon, Virginia, United States
+1227	1	Jacksonville, Florida, United States
+1228	1	, May Work Remotely, United States
+1229	1	Boston, Massachusetts, United States
+1230	1	Indianapolis, Indiana, United States
+1231	1	Atlanta, Georgia, United States
+1232	1	Zionsville, Indiana, United States
+1233	1	Indianapolis, Indiana, United States
+1234	1	Jacksonville, Florida, United States
+1235	1	Joliet, Illinois, United States
+1236	1	, Alabama, United States
+1237	1	Denver, Colorado, United States
+1238	1	South San Francisco, California, United States
+1239	1	San Diego, California, United States
+1240	1	Palo Alto, California, United States
+1241	1	Ft. Worth, Texas, United States
+1242	1	Danbury, Connecticut, United States
+1243	1	Ottawa/Gatineau, Quebec, Canada
+1244	1	Toronto, Ontario, Canada
+1245	1	Danbury, Connecticut,
+1246	1	Philadelphia, New Jersey, United States
+1247	1	Commerce, California, United States
+1248	1	Milford, Connecticut,
+1249	1	, Massachusetts, United States
+1250	1	Charleston, South Carolina, United States
+1251	1	Norwalk, Connecticut
+1252	1	Piscataway, New Jersey, United States
+1253	1	Piscataway, New Jersey, United States
+1254	1	Scottsdale, Arizona, United States
+1255	1	Roseville, California, United States
+1256	1	Marion, Indiana, United States
+1257	1	Richmond, Virginia, United States
+1258	1	, Virginia, United States
+1259	1	, California, United States
+1260	1	, Minnesota, United States
+1261	1	, Florida, United States
+1262	1	San Francisco, California, United States
+1263	1	San Francisco, California, United States
+1264	1	San Francisco, California, United States
+1265	1	St. Louis, Missouri, United States
+1266	1	, Tennessee, United States
+1267	1	Atlanta, Georgia, United States
+1268	1	Bradenton, Florida, United States
+1269	1	Ocala, Florida, United States
+1270	1	Norwalk, Connecticut,
+1271	1	Seattle, Washington, United States
+1272	1	Plano, Texas, United States
+1273	1	St. Louis, Missouri, United States
+1274	1	St. Louis, Missouri, United States
+1275	1	Bridgewater, Massachusetts, United States
+1276	1	Gig Harbor, Washington, United States
+1277	1	Norwalk, Connecticut,
+1278	1	Princeton, New Jersey, United States
+1279	1	Portland, Oregon, United States
+1280	1	San Bernardino, California, United States
+1281	1	San Bernardino, California, United States
+1282	1	Billings, Montana, United States
+1283	1	Billings, Montana, United States
+1284	1	Washington, Dist. Columbia, United States
+1285	1	, Eastern, US, United States
+1286	1	Melrose Park, Illinois, United States
+1287	1	Kaiserslautern/Saarbruecken, Other / Non-US, Germany
+1288	1	Westlake, Ohio, United States
+1289	1	Greenwich, Connecticut, United States
+1290	1	Ottawa/Gatineau, Quebec, Canada
+1291	1	Ottawa/Gatineau, Quebec, Canada
+1292	1	Ottawa/Gatineau, Quebec, Canada
+1293	1	Ottawa/Gatineau, Quebec, Canada
+1294	1	Sacramento, California, United States
+1295	1	Sacramento, California, United States
+1296	1	Lexington, Kentucky, United States
+1297	1	Washington, Dist. Columbia, United States
+1298	1	Seattle, Washington, United States
+1299	1	, Massachusetts, United States
+1300	1	Seattle, Washington, United States
+1301	1	Portland, Oregon, United States
+1302	1	Portland, Oregon, United States
+1303	1	Salem, Oregon, United States
+1304	1	Salem, Oregon, United States
+1305	1	Lewiston, Idaho, United States
+1306	1	Lewiston, Idaho, United States
+1307	1	Salt Lake City, Utah, United States
+1308	1	Salt Lake City, Utah, United States
+1309	1	Austin, Texas, United States
+1310	1	Gig Harbor, Washington, United States
+1311	1	South San Francisco, California, United States
+1312	1	Detroit, Michigan, United States
+1313	1	, Georgia, United States
+1314	1	Seattle, Washington, United States
+1315	1	Boston, Massachusetts, United States
+1316	1	San Francisco, California, United States
+1317	1	Cincinnati, Ohio, United States
+1318	1	San Francisco, California, United States
+1319	1	Seattle, Washington, United States
+1320	1	Tacoma, Washington, United States
+1321	1	Tacoma, Washington, United States
+1322	1	Chicago, Illinois, United States
+1323	1	Chicago, Illinois, United States
+1324	1	Chicago, Illinois, United States
+1325	1	White Plains, New York,
+1326	1	Waukegan, Illinois, United States
+1327	1	Darien, Connecticut,
+1328	1	San Jose, California, United States
+1329	1	San Jose, California, United States
+1330	1	, Georgia, United States
+1331	1	Chicago, Illinois, United States
+1332	1	Greenwich, Connecticut,
+1333	1	, Arizona, United States
+1334	1	Ashley, North Dakota, United States
+1335	1	Dallas, Texas, United States
+1336	1	, Nationwide, United States
+1337	1	Boston, Massachusetts, United States
+1338	1	Danbury, Connecticut, United States
+1339	1	San Diego, California, United States
+1340	1	Danbury, Connecticut, United States
+1341	1	Montreal, Quebec, Canada
+1342	1	Boston, Massachusetts, United States
+1343	1	, New Jersey, United States
+1344	1	Burlington, Washington, United States
+1345	1	Tacoma, Washington, United States
+1346	1	Lewiston, Idaho, United States
+1347	1	Lewiston, Idaho, United States
+1348	1	Seattle, Washington, United States
+1349	1	Portland, Oregon, United States
+1350	1	Mahwah, New Jersey, United States
+1351	1	Portland, Oregon, United States
+1352	1	New York, New York, United States
+1353	1	Cleveland, Ohio, United States
+1354	1	Cedar Falls, Iowa, United States
+1355	1	Atlanta, Georgia, United States
+1356	1	San Antonio, Texas, United States
+1357	1	Philadelphia, Pennsylvania, United States
+1358	1	Birmingham, Alabama, United States
+1359	1	Norwalk, Connecticut,
+1360	1	Bridgeport, Connecticut, United States
+1361	1	Roseland, New Jersey, United States
+1362	1	, Virginia, United States
+1363	1	Albany, New York,
+1364	1	Houston, Texas, United States
+1365	1	San Antonio, Texas, United States
+1366	1	Golden, Colorado, United States
+1367	1	cupertino, California, United States
+1368	1	Ottawa, Ontario, Canada
+1369	1	Westlake, Ohio, United States
+1370	1	Reading, Massachusetts, United States
+1371	1	Denver, Colorado, United States
+1372	1	McLean, Virginia, United States
+1373	1	Sacramento, California, United States
+1374	1	San Francisco, California, United States
+1375	1	Austin, Texas, United States
+1376	1	Chicago, Illinois, United States
+1377	1	Salem, Oregon, United States
+1378	1	Salem, Oregon, United States
+1379	1	Central, Texas, United States
+1380	1	Branchburg, New Jersey, United States
+1381	1	Salt Lake City, Utah, United States
+1382	1	Salt Lake City, Utah, United States
+1383	1	Warren, Michigan, United States
+1384	1	Falls Church, Virginia, United States
+1385	1	Durahm, North Carolina, United States
+1386	1	Emeryville, California, United States
+1387	1	Marshall, Minnesota, United States
+1388	1	Chicago, Illinois, United States
+1389	1	Skokie, Illinois, United States
+1390	1	Melbourne, Florida, United States
+1391	1	Chicago, Illinois, United States
+1392	1	, Pennsylvania, United States
+1393	1	Bellevue, Washington, United States
+1394	1	Baltimore, Maryland - Capital Central, United States
+1395	1	Manchester, New Hampshire, United States
+1396	1	Akron, Ohio, United States
+1397	1	Santa Rosa, California, United States
+1398	1	Toano, Virginia, United States
+1399	1	Winona, Minnesota, United States
+1400	1	Boston, Massachusetts, United States
+1401	1	Bronx, New York, United States
+1402	1	Boston, Massachusetts, United States
+1403	1	Minneapolis, Minnesota, United States
+1404	1	, Florida, United States
+1405	1	, Massachusetts, United States
+1406	1	Los Angeles, California, United States
+1407	1	Slippery Rock, Pennsylvania, United States
+1408	1	Madison, New Jersey, United States
+1409	1	Greenville, Alabama, United States
+1410	1	Peterborough, New Hampshire, United States
+1411	1	Boston, Massachusetts, United States
+1412	1	West Hartford, Connecticut, United States
+1413	1	Los Angeles, California, United States
+1414	1	Woodbury, New York, United States
+1415	1	, Northern US, United States
+1416	1	Jacksonville, Florida, United States
+1417	1	The City of Alexandria, Virginia, United States
+1418	1	Troy, Michigan, United States
+1419	1	Chicago - Northwest Suburbs, Illinois, United States
+1420	1	Midddleburg Heights, Ohio, United States
+1421	1	Troy, Michigan, United States
+1422	1	Houston, Texas, United States
+1423	1	New York, New York, United States
+1424	1	, Illinois, United States
+1425	1	Harvard, Massachusetts, United States
+1426	1	SUNRISE, Florida, United States
+1427	1	, Massachusetts, United States
+1428	1	Ottawa, Ontario, Canada
+1429	1	San Francisco, California, United States
+1430	1	Calgary, Alberta, Canada
+1431	1	Calgary, Alberta, Canada
+1432	1	toronto, ON, Canada
+1433	1	Seattle, Washington, United States
+1434	1	, Virginia, United States
+1435	1	Stamford, Connecticut, United States
+1436	1	Arlington, Virginia, United States
+1437	1	Colorado Springs, Colorado, United States
+1438	1	Fort Myers, Florida, United States
+1439	1	Monterey, California, United States
+1440	1	Chelmsford, Massachusetts, United States
+1441	1	Baltimore, Maryland, United States
+1442	1	Baltimore, Maryland, United States
+1443	1	Montvale, New Jersey, United States
+1444	1	Montvale, New Jersey, United States
+1445	1	Montvale, New Jersey, United States
+1446	1	Montvale, New Jersey, United States
+1447	1	Bentonville, Arkansas, United States
+1448	1	Ypsilanti, Michigan, United States
+1449	1	Philadelphia, Pennsylvania, United States
+1450	1	Redondo Beach, California, United States
+1451	1	Worcester, Massachusetts, United States
+1452	1	Norwalk, Connecticut,
+1453	1	North Hollywood, California, United States
+1454	1	Worcester, Massachusetts, United States
+1455	1	Southborough, Massachusetts, United States
+1456	1	Cairo, EG28, Egypt
+1457	1	Chicopee, Massachusetts, United States
+1458	1	Mt. Pleasant, Michigan, United States
+1459	1	New York, New York, United States
+1460	1	Boise, Idaho, United States
+1461	1	Washington, Dist. Columbia, United States
+1462	1	Boise, Idaho, United States
+1463	1	Salem, Oregon, United States
+1464	1	Renton, Washington, United States
+1465	1	Portland, Oregon, United States
+1466	1	Portland, Oregon, United States
+1467	1	Portland, Oregon, United States
+1468	1	Westminster, Maryland, United States
+1469	1	Dallas, Texas, United States
+1470	1	Cambridge, Massachusetts, United States
+1471	1	Contoocook, New Hampshire, United States
+1472	1	Fort Myers, Florida, United States
+1473	1	Melbourne, Florida, United States
+1474	1	Sacramento, California, United States
+1475	1	, Virginia, United States
+1476	1	Hartford, Connecticut, United States
+1477	1	Tulsa, Oklahoma, United States
+1478	1	Nashville, Tennessee, United States
+1479	1	Eden Prairie, Minnesota, United States
+1480	1	Fairfax, Virginia, United States
+1481	1	New York, New York, United States
+1482	1	Houston, Texas, United States
+1483	1	, Oregon, United States
+1484	1	Saint Louis, Missouri, United States
+1485	1	, Open for consideration, United States
+1486	1	Clinton, Missouri, United States
+1487	1	Brooklyn, New York, United States
+1488	1	Brooklyn, New York, United States
+1489	1	Overland Park, Kansas, United States
+1490	1	Greenwich, Connecticut,
+1491	1	St. Louis, Missouri, United States
+1492	1	Norwalk, Connecticut,
+1493	1	Westport, Connecticut,
+1494	1	Lexington Park, Maryland, United States
+1495	1	Provo, Utah, United States
+1496	1	Houston, Texas, United States
+1497	1	Plano, Texas, United States
+1498	1	Dallas, Texas, United States
+1499	1	, North Carolina, United States
+1500	1	, New York, United States
+1501	1	, Virginia, United States
+1502	1	Carlsbad, California, United States
+1503	1	San Diego, California, United States
+1504	1	Bakersfield, California, United States
+1505	1	Loma Linda, California, United States
+1506	1	North East, Maryland, United States
+1507	1	Corpus Christi, Texas, United States
+1508	1	Washington, Dist. Columbia, United States
+1509	1	Denver, Colorado, United States
+1510	1	Denver, Colorado, United States
+1511	1	Denver, Colorado, United States
+1512	1	Washington, Dist. Columbia, United States
+1513	1	Richland, Washington, United States
+1514	1	Johnson City, New York, United States
+1515	1	Cleveland, Ohio, United States
+1516	1	RDU Airport, North Carolina, United States
+1517	1	Kathmandu, Other / Non-US, Nepal
+1518	1	San Francisco, California, United States
+1519	1	Charlottesville, Virginia, United States
+1520	1	Anaheim, California, United States
+1521	1	Fort Collins, Colorado, United States
+1522	1	North Brunswick, New Jersey, United States
+1523	1	Atlantis, Florida, United States
+1524	1	Albuquerque, New Mexico, United States
+1525	1	Morristown, New Jersey, United States
+1526	1	Morristown, New Jersey, United States
+1527	1	New York, New York, United States
+1528	1	St. Louis, Missouri, United States
+1529	1	Troy, Michigan, United States
+1530	1	, Connecticut,
+1531	1	Bethesda, Maryland, United States
+1532	1	Waltham, Massachusetts, United States
+1533	1	Aurora, Colorado, United States
+1534	1	Wayne, New Jersey, United States
+1535	1	Albuquerque, New Mexico, United States
+1536	1	Beijing, Other / Non-US, China
+1537	1	Montvale, New Jersey, United States
+1538	1	Elkhart, Indiana, United States
+1539	1	Armonk, New York,
+1540	1	Middleboro, Massachusetts, United States
+1541	1	Houston, Texas, United States
+1542	1	Houston, Texas, United States
+1543	1	Chicago, Illinois, United States
+1544	1	Chicago, Illinois, United States
+1545	1	Boston, Massachusetts, United States
+1546	1	Chicago, Illinois, United States
+1547	1	Philadelphia, Pennsylvania, United States
+1548	1	Philadelphia, Pennsylvania, United States
+1549	1	Detroit, Michigan, United States
+1550	1	Grand Rapids, Michigan, United States
+1551	1	, New York, United States
+1552	1	Somerville, Massachusetts, United States
+1553	1	, California, United States
+1554	1	, Texas, United States
+1555	1	, Texas, United States
+1556	1	, Texas, United States
+1557	1	, Texas, United States
+1558	1	, Texas, United States
+1559	1	New York, Long Island City, United States
+1560	1	Phoenix, Arizona, United States
+1561	1	Phoenix, Arizona, United States
+1562	1	Waltham, Massachusetts, United States
+1563	1	Boston, Massachusetts, United States
+1564	1	Boston, Massachusetts, United States
+1565	1	Boston, Massachusetts, United States
+1566	1	Charolotte, North Carolina, United States
+1567	1	Hamden, Connecticut, United States
+1568	1	Beachwood, Ohio,
+1569	1	Anaheim, California, United States
+1570	1	Los Altos Hills, California, United States
+1571	1	Kirkland, Washington, United States
+1572	1	, Virginia, United States
+1573	1	Frankfurt am Main, Hessen, Germany
+1574	1	, Virginia, United States
+1575	1	Stafford, , United States
+1576	1	Norwalk, Connecticut,
+1577	1	Chicago, Illinois, United States
+1578	1	Charlotte, North Carolina, United States
+1579	1	Corpus Christi or San Antonio, Texas, United States
+1580	1	Houston, Texas, United States
+1581	1	Chicago, Illinois, United States
+1582	1	Bronx, New York, United States
+1583	1	, New York, United States
+1584	1	Chelmsford, Massachusetts, United States
+1585	1	San Diego, California, United States
+1586	1	Saint Louis, Missouri, United States
+1587	1	Washington, Dist. Columbia, United States
+1588	1	Greenwich, Connecticut,
+1589	1	Coos Bay, Oregon, United States
+1590	1	, Dist. Columbia, United States
+1591	1	Montréal, Quebec, Canada
+1592	1	Parsippany, New Jersey, United States
+1593	1	Corpus Christin & San Antonio, Texas, United States
+1594	1	Milwaukee, Wisconsin, United States
+1595	1	Las Cruces, New Mexico, United States
+1596	1	Sioux Falls, South Dakota, United States
+1597	1	Farmington, Connecticut, United States
+1598	1	Atlanta, Georgia, United States
+1599	1	Dallas Ft. Worth, Texas, United States
+1600	1	Salt Lake City, Utah, United States
+1601	1	Greater Nashville Area, Tennessee, United States
+1602	1	Medford, Massachusetts, United States
+1603	1	Kansas City, Missouri, United States
+1604	1	Roswell, Georgia, United States
+1605	1	Centennial, Colorado, United States
+1606	1	Phoenix, Arizona, United States
+1607	1	Webster, Texas, United States
+1608	1	Waltham, Massachusetts, United States
+1609	1	Fond du Lac, Wisconsin, United States
+1610	1	Westport, Connecticut,
+1611	1	Ann Arbor, Michigan, United States
+1612	1	Waltham, Massachusetts, United States
+1613	1	South Norwalk, Connecticut,
+1614	1	Lake Bluff, Illinois, United States
+1615	1	Camden, North Carolina, United States
+1616	1	Danbury, Connecticut,
+1617	1	Washington, Dist. Columbia, United States
+1618	1	Old Westbury, New York, United States
+1619	1	Stamford, Connecticut,
+1620	1	Bedford, Massachusetts, United States
+1621	1	South Norwalk, Connecticut,
+1622	1	Cleveland, Ohio, United States
+1623	1	Norwalk, Connecticut,
+1624	1	Little Rock, Arkansas, United States
+1625	1	, New York, United States
+1626	1	Denver, Colorado, United States
+1627	1	Norwalk, Connecticut,
+1628	1	Shelton, Connecticut,
+1629	1	, Colorado, United States
+1630	1	, Utah, United States
+1631	1	Perrysburg, Ohio, United States
+1632	1	, California, United States
+1633	1	, California, United States
+1634	1	, California, United States
+1635	1	New York, New York, United States
+1636	1	Atlanta, Georgia, United States
+1637	1	Atlanta, Georgia, United States
+1638	1	Detroit, Michigan, United States
+1639	1	Houston, Texas, United States
+1640	1	Florence, Kentucky, United States
+1641	1	Rochester Hills, Michigan, United States
+1642	1	San Francisco, California, United States
+1643	1	Roseville, California, United States
+1644	1	Salinas, California, United States
+1645	1	, Connecticut, United States
+1646	1	, New Jersey, United States
+1647	1	, New York, United States
+1648	1	, New Jersey, United States
+1649	1	Norwalk, Connecticut,
+1650	1	Shelton, Connecticut,
+1651	1	Stratford, Connecticut,
+1652	1	Chicago, Illinois, United States
+1653	1	Westport, Connecticut,
+1654	1	Glen Ellyn, Illinois, United States
+1655	1	Historic, Virginia, United States
+1656	1	New Bern, North Carolina, United States
+1657	1	Augusta, Georgia, United States
+1658	1	Greenwich, Connecticut,
+1659	1	Brookfield, Connecticut,
+1660	1	Brookfield, Connecticut,
+1661	1	Cincinnati, Ohio, United States
+1662	1	Price, Utah, United States
+1663	1	Solon, Ohio, United States
+1664	1	Fort Lauderdale, Florida, United States
+1665	1	Haar / Munich, Other / Non-US, Germany
+1666	1	Westlake, Ohio, United States
+1667	1	, Virginia, United States
+1668	1	Cambridge, Massachusetts, United States
+1669	1	Bronx, New York, United States
+1670	1	Columbia, Maryland, United States
+1671	1	Norwalk, Connecticut
+1672	1	Atlanta, Georgia, United States
+1673	1	Baltimore, Maryland, United States
+1674	1	Houston, Texas, United States
+1675	1	Verona, Wisconsin, United States
+1676	1	Austin, Texas, United States
+1677	1	, Virginia, United States
+1678	1	Palo Alto, California, United States
+1679	1	Chantilly, Virginia, United States
+1680	1	Houston, Texas, United States
+1681	1	Denver, Colorado, United States
+1682	1	Oklahoma City, Oklahoma, United States
+1683	1	Buffalo, New York, United States
+1684	1	San Jose, California, United States
+1685	1	San Francisco, California, United States
+1686	1	Springfield, Virginia, United States
+1687	1	Reading, Massachusetts, United States
+1688	1	Springfield, Virginia, United States
+1689	1	Reading, Massachusetts, United States
+1690	1	Houston, Texas, United States
+1691	1	New York, New York, United States
+1692	1	Columbia, Maryland, United States
+1693	1	San Diego, California, United States
+1694	1	Tampa, Florida, United States
+1695	1	Sacramento, California, United States
+1696	1	Elgin, Illinois, United States
+1697	1	Arlington, Virginia, United States
+1698	1	Urbandale, Iowa, United States
+1699	1	Stafford, , United States
+1700	1	Sacramento, California, United States
+1701	1	Portland, Oregon, United States
+1702	1	Boston, Massachusetts, United States
+1703	1	Arlington, Virginia, United States
+1704	1	San Diego, California, United States
+1705	1	Greenwich, Connecticut, United States
+1706	1	Rockville, Maryland, United States
+1707	1	Houston, Texas, United States
+1708	1	Portland, Oregon, United States
+1709	1	Kokomo, Indiana, United States
+1710	1	, North Carolina, United States
+1711	1	Ottawa/Gatineau, Quebec, Canada
+1712	1	San Francisco Bay, California, United States
+1713	1	Cupertino, California, United States
+1714	1	Dallas, Texas, United States
+1715	1	Columbus, Ohio, United States
+1716	1	Baltimore, Maryland, United States
+1717	1	Shelton, Connecticut, United States
+1718	1	San Jose, California, United States
+1719	1	Salt Lake City, Utah, United States
+1720	1	Portland, Oregon, United States
+1721	1	Portland, Oregon, United States
+1722	1	Portland, Oregon, United States
+1723	1	Princeton, New Jersey, United States
+1724	1	Atlanta, Georgia, United States
+1725	1	San Francisco, California, United States
+1726	1	San Francisco, California, United States
+1727	1	Boston, Massachusetts, United States
+1728	1	Houston, Texas, United States
+1729	1	Boston, Massachusetts, United States
+1730	1	Shelton, Connecticut,
+1731	1	Austin, Texas, United States
+1732	1	Austin, Texas, United States
+1733	1	London, Other / Non-US, United Kingdom
+1734	1	Frankfurt am Main, Hessen, Germany
+1735	1	Denver, Colorado, United States
+1736	1	Sacramento, California, United States
+1737	1	Skokie, Illinois, United States
+1738	1	Skokie, Illinois, United States
+1739	1	Warren, Michigan, United States
+1740	1	Warren, Michigan, United States
+1741	1	Weston, Massachusetts, United States
+1742	1	Denver, Colorado, United States
+1743	1	San Diego, California, United States
+1744	1	Austin, Texas, United States
+1745	1	, New York, United States
+1746	1	Houston, Texas, United States
+1747	1	Sterling, Virginia, United States
+1748	1	Palo Alto, California, United States
+1749	1	Clearwater, Florida, United States
+1750	1	Houston, Texas, United States
+1751	1	Washington, Dist. Columbia, United States
+1752	1	San Jose, California, United States
+1753	1	Providence, Rhode Island, United States
+1754	1	Austin, Texas, United States
+1755	1	Columbia, Maryland, United States
+1756	1	Boulder, Colorado, United States
+1757	1	Urbandale, Iowa, United States
+1758	1	San Jose, California, United States
+1759	1	Austin, Texas, United States
+1760	1	Austin, Texas, United States
+1761	1	Austin, Texas, United States
+1762	1	Austin, Texas, United States
+1763	1	Austin, Texas, United States
+1764	1	Sacramento, California, United States
+1765	1	New York, New York, United States
+1766	1	Fairfax, Virginia, United States
+1767	1	Greenbelt, Maryland, United States
+1768	1	Boulder, Colorado, United States
+1769	1	Salt Lake City, Utah, United States
+1770	1	Austin, Texas, United States
+1771	1	Houston, Texas, United States
+1772	1	Ottawa, Ontario, Canada
+1773	1	Cupertino, California, United States
+1774	1	Austin, Texas, United States
+1775	1	San Francisco, California, United States
+1776	1	Kirkland, Washington, United States
+1777	1	Kirkland, Washington, United States
+1778	1	San Francisco, California, United States
+1779	1	New Haven, Southern Connecticut - New Haven, United States
+1780	1	Houston, Texas, United States
+1781	1	cupertino, California, United States
+1782	1	Olympia, Washington, United States
+1783	1	Austin, Texas, United States
+1784	1	Houston, Texas, United States
+1785	1	Pittsburgh, Pennsylvania, United States
+1786	1	cupertino, California, United States
+1787	1	Brisbane, California, United States
+1788	1	Sterling, Virginia, United States
+1789	1	Ottawa, Ontario, Canada
+1790	1	Denver, Colorado, United States
+1791	1	Denver, Colorado, United States
+1792	1	San Diego, California, United States
+1793	1	Boston, Massachusetts, United States
+1794	1	Del Mar, California, United States
+1795	1	Columbus, Ohio, United States
+1796	1	Morgantown, West Virginia, United States
+1797	1	Sacramento, California, United States
+1798	1	Dublin, Ohio, United States
+1799	1	Springfield, Virginia, United States
+1800	1	Villanova University, Pennsylvania, United States
+1801	1	Stafford, , United States
+1802	1	Dublin, Ohio, United States
+1803	1	Fort Collins, Colorado, United States
+1804	1	Warren, Michigan, United States
+1805	1	Durant, Oklahoma, United States
+1806	1	cupertino, California, United States
+1807	1	Houston, Texas, United States
+1808	1	, Maine, United States
+1809	1	San Jose, California, United States
+1810	1	Austin, Texas, United States
+1811	1	Rockville, Maryland, United States
+1812	1	La Jolla, California, United States
+1813	1	Rosslyn, Virginia, United States
+1814	1	Richmond, Virginia, United States
+1815	1	Baltimore, Maryland, United States
+1816	1	Cupertino, California, United States
+1817	1	Fairfax, Virginia, United States
+1818	1	St. Louis, Missouri, United States
+1819	1	Austin, Texas, United States
+1820	1	providence, Rhode Island, United States
+1821	1	Pontiac, Michigan, United States
+1822	1	Richmond, Virginia, United States
+1823	1	Redlands, California, United States
+1824	1	St Louis, Missouri, United States
+1825	1	Palo Alto, California, United States
+1826	1	Austin, Texas, United States
+1827	1	Austin, Texas, United States
+1828	1	Princeton, New Jersey, United States
+1829	1	Chicago, Illinois, United States
+1830	1	New York, New York, United States
+1831	1	Dallas, Texas, United States
+1832	1	Chicago, Illinois, United States
+1833	1	Dallas, Texas, United States
+1834	1	dallas, Texas, United States
+1835	1	Atlanta, Georgia, United States
+1836	1	San Francisco, California, United States
+1837	1	Jupiter, Florida, United States
+1838	1	Plano, Texas, United States
+1839	1	Richmond, Virginia, United States
+1840	1	Cincinnati, Ohio, United States
+1841	1	Houston, Texas, United States
+1842	1	La Jolla, California, United States
+1843	1	Norwalk, Connecticut,
+1844	1	, California, United States
+1845	1	Boston, Massachusetts, United States
+1846	1	Los Angeles, California, United States
+1847	1	Houston, Texas, United States
+1848	1	Urbandale, Iowa, United States
+1849	1	Westlake, Ohio, United States
+1850	1	Seattle, Washington, United States
+1851	1	, Ontario, Canada
+1852	1	San Jose, California, United States
+1853	1	New York, New York, United States
+1854	1	Iowa City, Iowa, United States
+1855	1	, Illinois, United States
+1856	1	Flexible Locations, Remote/Virtual, United States
+1857	1	Denver, Colorado, United States
+1858	1	Kohler, Wisconsin, United States
+1859	1	Winston Salem, North Carolina, United States
+1860	1	Houston, Texas, United States
+1861	1	Washington, Dist. Columbia, United States
+1862	1	Claremont, California, United States
+1863	1	Houston, Texas, United States
+1864	1	Houston, Texas, United States
+1865	1	Denver, Colorado, United States
+1866	1	Medford, Massachusetts, United States
+1867	1	Denver, Colorado, United States
+1868	1	Linthicum, Maryland, United States
+1869	1	Houston, Texas, United States
+1870	1	Hanover, Maryland, United States
+1871	1	Tetovo, Macedonia, Macedonia
+1872	1	Austin, Texas, United States
+1873	1	Willowbrook near, Illinois, United States
+1874	1	New York, New York, United States
+1875	1	McLean, Virginia, United States
+1876	1	Harvard, Massachusetts, United States
+1877	1	Chicago, Illinois, United States
+1878	1	Boston, Massachusetts, United States
+1879	1	New York, New York, United States
+1880	1	Boston, Massachusetts, United States
+1881	1	Hawaii National Park, ,
+1882	1	Ottawa, Ontario, Canada
+1883	1	Reston, DC Metro Area, United States
+1884	1	Austin, Texas, United States
+1885	1	New Haven, Southern Connecticut - New Haven, United States
+1886	1	Toronto, Ontario, Canada
+1887	1	Bethesda, Maryland, United States
+1888	1	Greenbelt, Maryland, United States
+1889	1	Santa Clara, California, USA
+1890	1	Austin, Texas, United States
+1891	1	, Daegu, South Korea
+1892	1	Cambridge, Massachusetts, United States
+1893	1	San Jose, California, United States
+1894	1	New York, New York, United States
+1895	1	New York, New York, United States
+1896	1	Austin, Texas, United States
+1897	1	Houston, Texas, United States
+1898	1	Murray, Utah, United States
+1899	1	Dublin, Ohio, United States
+1900	1	San Jose, California, United States
+1901	1	San Jose, California, United States
+1902	1	Bowie, Maryland, United States
+1903	1	, Illinois, United States
+1904	1	Ottawa, Ontario, Canada
+1905	1	San Mateo, California, United States
+1906	1	Chicago, Illinois, United States
+1907	1	Lexington Park, Maryland, United States
+1908	1	Chelmsford, Massachusetts, United States
+1909	1	Atlanta, Georgia, United States
+1910	1	Ottawa/Gatineau, Quebec, Canada
+1911	1	cupertino, California, United States
+1912	1	Riverside, California, United States
+1913	1	Cambridge, Massachusetts, United States
+1914	1	Somerville, Massachusetts, United States
+1915	1	Alexandria, Virginia, United States
+1916	1	Oak Ridge, Tennessee, United States
+1917	1	Greenwood, South Carolina, United States
+1918	1	Rohnert Park, California, United States
+1919	1	Waterbury, Connecticut, United States
+1920	1	Austin, Texas, United States
+1921	1	Arlington, Virginia, United States
+1922	1	Gatineau, Quebec, Canada
+1923	1	Gatineau, Quebec, Canada
+1924	1	Ottawa/Gatineau, Quebec, Canada
+1925	1	Redlands, California, United States
+1926	1	Ottawa, Ontario, Canada
+1927	1	Denver, Colorado, United States
+1928	1	Buffalo, New York, United States
+1929	1	New York, New York, United States
+1930	1	Bridgewater, Massachusetts, United States
+1931	1	Dallas, Texas, United States
+1932	1	Columbus, Ohio, United States
+1933	1	New Haven, Southern Connecticut - New Haven, United States
+1934	1	Johnson City, New York, United States
+1935	1	Harrisburg, Pennsylvania, United States
+1936	1	Medford, Massachusetts, United States
+1937	1	Yonkers, New York, United States
+1938	1	Urbana, Illinois, United States
+1939	1	Sacramento, California, United States
+1940	1	Vernon Hills, Illinois, United States
+1941	1	Plano, Texas, United States
+1942	1	Seattle, Washington, United States
+1943	1	Arlington, Virginia, United States
+1944	1	Phoenix, Arizona, United States
+1945	1	McLean, Virginia, United States
+1946	1	Fort Knox, Kentucky, United States
+1947	1	Arlington, Virginia, United States
+1948	1	Alpharetta, Georgia, United States
+1949	1	Irvine, California, United States
+1950	1	Somerville, Massachusetts, United States
+1951	1	Boston, Massachusetts, United States
+1952	1	Greenbelt, Maryland, United States
+1953	1	Leesburg, Virginia, United States
+1954	1	Leesburg, Virginia, United States
+1955	1	Denver, Colorado, United States
+1956	1	Ridgefield, Connecticut,
+1957	1	Chicago and Suburbs, Illinois, United States
+1958	1	Bridgeport, Connecticut, United States
+1959	1	Dallas, Texas, United States
+1960	1	Phoenix, Arizona, United States
+1961	1	Philadelphia, Pennsylvania, United States
+1962	1	Plano, Texas, United States
+1963	1	Houston, Texas, United States
+1964	1	Plano, Texas, United States
+1965	1	Naperville, Illinois, United States
+1966	1	Lemont, Illinois, United States
+1967	1	Lowell, Massachusetts, United States
+1968	1	Columbia, Maryland, United States
+1969	1	Tulsa, Oklahoma, United States
+1970	1	Tulsa, Oklahoma, United States
+1971	1	Greenbelt, Maryland, United States
+1972	1	Middletown, Pennsylvania, United States
+1973	1	Stafford, , United States
+1974	1	San Diego, California, United States
+1975	1	San Diego, California, United States
+1976	1	Palo Alto, California, United States
+1977	1	San Diego, California, United States
+1978	1	Palo Alto, California, United States
+1979	1	, New York, United States
+1980	1	Fort Wayne, Indiana, United States
+1981	1	San Diego, California, United States
+1982	1	Montgomery, Alabama, United States
+1983	1	Tacoma, Washington, United States
+1984	1	Rockville, Washington DC Metro Area, United States
+1985	1	, Virginia, United States
+1986	1	Marysville, California, United States
+1987	1	Marysville, California, United States
+1988	1	Bethesda, Maryland, United States
+1989	1	Easton, Ohio, United States
+1990	1	Ridgecrest, California, United States
+1991	1	Bensalem, Pennsylvania, United States
+1992	1	Harvard, Massachusetts, United States
+1993	1	Houston, Texas, United States
+1994	1	Austin, Texas, United States
+1995	1	Houston, Texas, United States
+1996	1	Studio City, California, United States
+1997	1	Del Mar, California, United States
+1998	1	Eatontown, New Jersey, United States
+1999	1	Sacramento, California, United States

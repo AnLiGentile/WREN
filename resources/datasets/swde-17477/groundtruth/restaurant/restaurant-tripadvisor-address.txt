@@ -1,0 +1,2002 @@
+﻿restaurant	tripadvisor	address
+2000	2000	9927	4999
+0000	6	234 West 56 Street	Between 8th Avenue & Broadway	New York City, NY 10019	New York City	NY	10019
+0001	5	155 W 51st St	New York City, NY 10019	New York City	NY	10019
+0002	5	254 W 47th St	New York City, NY 10019	New York City	NY	10019
+0003	4	84 Stanton St	New York City, NY	New York City	NY
+0004	5	72 W. 36th St.	New York City, NY 10018-8002	New York City	NY	10018-8002
+0005	5	60 E 65th St	New York City, NY 10021-7056	New York City	NY	10021-7056
+0006	4	53rd Street	New York City, NY	New York City	NY
+0007	5	204 E 43rd St	New York City, NY 10017-4713	New York City	NY	10017-4713
+0008	5	32 Spring Street	New York City, NY 10012-4173	New York City	NY	10012-4173
+0009	5	75 9th Ave	New York City, NY 10011	New York City	NY	10011
+0010	5	1221 6th Ave	New York City, NY 10020-1001	New York City	NY	10020-1001
+0011	5	5707 N Clark St	Chicago, IL 60660	Chicago	IL	60660
+0012	5	1120 S Michigan Ave	Chicago, IL 60605	Chicago	IL	60605
+0013	5	2900 W Belmont	Chicago, IL 60618	Chicago	IL	60618
+0014	5	615 W Randolph St	Chicago, IL 60661-2203	Chicago	IL	60661-2203
+0015	5	868 N. Franklin Street	Chicago, IL 60610	Chicago	IL	60610
+0016	5	1460 W Chicago Ave.	Chicago, IL 60642	Chicago	IL	60642
+0017	5	3800 N Pulaski Rd	Chicago, IL 60641	Chicago	IL	60641
+0018	5	2536 N Clark St.	Chicago, IL 60614	Chicago	IL	60614
+0019	5	201 E. Grand Ave.	Chicago, IL 60611	Chicago	IL	60611
+0020	4	444 N Wabash Ave	Chicago, IL	Chicago	IL
+0021	5	53 West Jackson Boulevard	Chicago, IL 60612-2512	Chicago	IL	60612-2512
+0022	5	21 E Hubbard St	Chicago, IL 60611	Chicago	IL	60611
+0023	5	1028 N Rush St	Chicago, IL 60611-1208	Chicago	IL	60611-1208
+0024	5	66 Kamehameha Hwy	Haleiwa, Oahu, HI 96712-2406	Haleiwa	HI	96712-2406
+0025	5	933 Kapahulu Ave	Honolulu, Oahu, HI 96816	Honolulu	HI	96816
+0026	6	1857 S King St.	Suite 3	Honolulu, Oahu, HI 96826-2172	Honolulu	HI	96826-2172
+0027	5	2199 Kalia Rd.	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0028	5	726 Kapahulu Ave	Honolulu, Oahu, HI 96816	Honolulu	HI	96816
+0029	5	1417 S King St.	Honolulu, Oahu, HI 96814-2506	Honolulu	HI	96814-2506
+0030	5	2199 Kalia Rd	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0031	6	2335 Kalakaua Ave., Suite 116	(at the Outrigger Waikiki)	Honolulu, Oahu, HI 96815-2900	Honolulu	HI	96815-2900
+0032	4	41-857 Kalanianaole Hwy.	Waimanalo, Oahu, HI	Waimanalo	HI
+0033	5	226 Lewers Street #L-233	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0034	5	251 West 50th St	New York City, NY 10019	New York City	NY	10019
+0035	5	450 Amsterdam Ave	New York City, NY 10024	New York City	NY	10024
+0036	5	18 Cornelia St	New York City, NY 10014-4138	New York City	NY	10014-4138
+0037	5	676 9th Ave	New York City, NY 10036-3611	New York City	NY	10036-3611
+0038	5	163 Duane Street	New York City, NY 10013-3803	New York City	NY	10013-3803
+0039	5	960 8TH Ave	New York City, NY 10107-3736	New York City	NY	10107-3736
+0040	5	110 Waverly Place	New York City, NY 10011-9109	New York City	NY	10011-9109
+0041	5	52 E 41st St	New York City, NY 10017	New York City	NY	10017
+0042	5	12 E 12th ST	New York City, NY 10003-4428	New York City	NY	10003-4428
+0043	5	336 Lexington Ave	New York City, NY 10016-0936	New York City	NY	10016-0936
+0044	5	236 5th Avenue	New York City, NY 10001	New York City	NY	10001
+0045	5	4406 W Reno Ave	Oklahoma City, OK 73107	Oklahoma City	OK	73107
+0046	5	6816 N Western Ave	Oklahoma City, OK 73116-7214	Oklahoma City	OK	73116-7214
+0047	5	2515 W Memorial Rd	Oklahoma City, OK 73134-8002	Oklahoma City	OK	73134-8002
+0048	5	4426 SE 44th St	Oklahoma City, OK 73135	Oklahoma City	OK	73135
+0049	4	1035 NW 63	Oklahoma City, OK	Oklahoma City	OK
+0050	5	2116 W Memorial Rd	Oklahoma City, OK 73134	Oklahoma City	OK	73134
+0051	5	1614 NW 23rd St	Oklahoma City, OK 73106-3623	Oklahoma City	OK	73106-3623
+0052	5	4718 SE 29TH St	Oklahoma City, OK 73115-5002	Oklahoma City	OK	73115-5002
+0053	5	6001 N May Ave	Oklahoma City, OK 73112	Oklahoma City	OK	73112
+0054	5	8860 S Western Ave	Oklahoma City, OK 73139	Oklahoma City	OK	73139
+0055	5	282 Franklin Street	Buffalo, NY 14202	Buffalo	NY	14202
+0056	5	92 W Chippewa St	Buffalo, NY 14202	Buffalo	NY	14202
+0057	5	4080 Maple Rd	Buffalo, NY 14226	Buffalo	NY	14226
+0058	5	186 Allen St	Buffalo, NY 14201	Buffalo	NY	14201
+0059	5	2192 Niagara St	Buffalo, NY 14207	Buffalo	NY	14207
+0060	5	1195 Niagara St	Buffalo, NY 14213-1715	Buffalo	NY	14213-1715
+0061	5	kenmore ave	Buffalo, NY 14223	Buffalo	NY	14223
+0062	5	307 Bryant St	Buffalo, NY 14222-1998	Buffalo	NY	14222-1998
+0063	5	103 Inverness Cors	Birmingham, AL 35242-3762	Birmingham	AL	35242-3762
+0064	5	4437 Pinson Valley Pkwy	Birmingham, AL 35215	Birmingham	AL	35215
+0065	5	1041 Montgomery Hwy	Birmingham, AL 35216	Birmingham	AL	35216
+0066	5	1000 Riverchase Galleria	Birmingham, AL 35244	Birmingham	AL	35244
+0067	5	1830 29th Avenue South	Birmingham, AL 35209	Birmingham	AL	35209
+0068	5	2201 4th Pl W	Birmingham, AL 35204	Birmingham	AL	35204
+0069	5	591 Shades Crest Rd	Birmingham, AL 35226-1249	Birmingham	AL	35226-1249
+0070	5	112 21ST St N	Birmingham, AL 35203-4106	Birmingham	AL	35203-4106
+0071	5	3450 Galleria Cir	Birmingham, AL 35244-2339	Birmingham	AL	35244-2339
+0072	5	620 Old Town Rd	Birmingham, AL 35216-3758	Birmingham	AL	35216-3758
+0073	5	595 Brookwood Village	Birmingham, AL 35209	Birmingham	AL	35209
+0074	5	5408 Highway 280 S	Birmingham, AL 35242	Birmingham	AL	35242
+0075	5	13802 N Scottsdale Rd	Scottsdale, AZ 85254-3458	Scottsdale	AZ	85254-3458
+0076	5	8787 N Scottsdale Rd Ste 214-216	Scottsdale, AZ 85253	Scottsdale	AZ	85253
+0077	6	15034 N Scottsdale Road	Suite 140	Scottsdale, AZ 85254-8140	Scottsdale	AZ	85254-8140
+0078	6	4400 North Scottsdale Road	Suite #100	Scottsdale, AZ 85251	Scottsdale	AZ	85251
+0079	6	23425 North Scottsdale Road	Suite 6	Scottsdale, AZ 85255	Scottsdale	AZ	85255
+0080	5	15205 N Kierland Blvd #100	Scottsdale, AZ 85254	Scottsdale	AZ	85254
+0081	5	6339 E. Greenway, Suite 108	Scottsdale, AZ 85254	Scottsdale	AZ	85254
+0082	5	424 S Main St	Tulsa, OK 74103-5032	Tulsa	OK	74103-5032
+0083	5	5 E Brady St	Tulsa, OK 74103	Tulsa	OK	74103
+0084	5	4848 S Yale Ave	Tulsa, OK 74135	Tulsa	OK	74135
+0085	5	108 W 4th St	Tulsa, OK 74103	Tulsa	OK	74103
+0086	5	3022 S Garnett Rd	Tulsa, OK 74129-5104	Tulsa	OK	74129-5104
+0087	5	9635 Riverside Pkwy	Tulsa, OK 74137-7398	Tulsa	OK	74137-7398
+0088	5	3301 W 5TH St	Tulsa, OK 74127-8244	Tulsa	OK	74127-8244
+0089	5	332 E. 1st Street	Tulsa, OK 74120	Tulsa	OK	74120
+0090	5	861 W Morgan St	Raleigh, NC 27603	Raleigh	NC	27603
+0091	5	3100 Wake Forest Rd	Raleigh, NC 27609	Raleigh	NC	27609
+0092	5	7321 Six Forks Rd	Raleigh, NC 27615	Raleigh	NC	27615
+0093	5	2444 Wycliff Rd	Raleigh, NC 27606	Raleigh	NC	27606
+0094	5	2400 Hillsborough St	Raleigh, NC 27607-7248	Raleigh	NC	27607-7248
+0095	5	414 Glenwood Avenue	Raleigh, NC 27603-1220	Raleigh	NC	27603-1220
+0096	5	319 Fayetteville Street #101	Raleigh, NC 27601	Raleigh	NC	27601
+0097	5	6405 Westgate Rd	Raleigh, NC 27617-4757	Raleigh	NC	27617-4757
+0098	5	225 N Bloodworth St	Raleigh, NC 27601-1105	Raleigh	NC	27601-1105
+0099	5	6196 Falls Of Neuse Rd Ste 120	Raleigh, NC 27609	Raleigh	NC	27609
+0100	5	7316 Kingston Pike	Knoxville, TN 37919	Knoxville	TN	37919
+0101	5	5018 Kingston Pike	Knoxville, TN 37919	Knoxville	TN	37919
+0102	5	11348 Parkside Dr	Knoxville, TN 37934	Knoxville	TN	37934
+0103	5	8008 Kingston Pike	Knoxville, TN 37919	Knoxville	TN	37919
+0104	5	601 James Agee St	Knoxville, TN 37916-2505	Knoxville	TN	37916-2505
+0105	5	7116 Strawberry Plains Pike	Knoxville, TN 37914-9637	Knoxville	TN	37914-9637
+0106	5	3325 N Broadway St	Knoxville, TN 37917	Knoxville	TN	37917
+0107	5	10508 Kingston Pike	Knoxville, TN 37922	Knoxville	TN	37922
+0108	4	11378 Parkside Drive	Knoxville, TN	Knoxville	TN
+0109	5	9209 Middlebrook Pike	Knoxville, TN 37931-4702	Knoxville	TN	37931-4702
+0110	5	1 Market Sq	Knoxville, TN 37902	Knoxville	TN	37902
+0111	5	8520 Kingston Pike	Knoxville, TN 37919	Knoxville	TN	37919
+0112	5	9915 Kingston Pike, Cokesbury Center	Knoxville, TN 37923	Knoxville	TN	37923
+0113	5	338 N Peters Rd	Knoxville, TN 37922-7508	Knoxville	TN	37922-7508
+0114	5	2934 Vineland Rd	Kissimmee, FL 34746-5503	Kissimmee	FL	34746-5503
+0115	5	909 W Vine St	Kissimmee, FL 34741	Kissimmee	FL	34741
+0116	5	1205 W Oak St	Kissimmee, FL 34741	Kissimmee	FL	34741
+0117	6	2770 Old Lake Wilson Rd	onsite at Westgate Vacation Villas	Kissimmee, FL 34747	Kissimmee	FL	34747
+0118	5	606 Market St	Kissimmee, FL 34747	Kissimmee	FL	34747
+0119	5	7007 Sea World Drive	SeaWorld	Kissimmee, FL	Kissimmee	FL
+0120	5	8687 W Irlo Bronson Memrl	Kissimmee, FL 34747	Kissimmee	FL	34747
+0121	5	3514 West Vine St.	Kissimmee, FL 34741	Kissimmee	FL	34741
+0122	5	925 NE 62ND St	Fort Lauderdale, FL 33334-4116	Fort Lauderdale	FL	33334-4116
+0123	5	2500 Griffin Rd	Fort Lauderdale, FL 33312-5999	Fort Lauderdale	FL	33312-5999
+0124	5	100 S Andrews Ave	Fort Lauderdale, FL 33301-1830	Fort Lauderdale	FL	33301-1830
+0125	5	Galleria Mall	2414 Sunrise Blvd.	Fort Lauderdale, FL	Fort Lauderdale	FL
+0126	4	3355 NE33rd Street	Fort Lauderdale, FL	Fort Lauderdale	FL
+0127	5	3354 N Ocean Blvd	Fort Lauderdale, FL 33308	Fort Lauderdale	FL	33308
+0128	5	2100 E Oakland Park Blvd	Fort Lauderdale, FL 33306-1108	Fort Lauderdale	FL	33306-1108
+0129	5	209 SW 2nd Ave	Fort Lauderdale, FL 33301	Fort Lauderdale	FL	33301
+0130	5	1207 SE 17th St	Fort Lauderdale, FL 33316	Fort Lauderdale	FL	33316
+0131	5	650 N Federal Hwy	Fort Lauderdale, FL 33304-4687	Fort Lauderdale	FL	33304-4687
+0132	5	330 SE 24TH St	Fort Lauderdale, FL 33316-3914	Fort Lauderdale	FL	33316-3914
+0133	5	504 S Broadway St	Wichita, KS 67202	Wichita	KS	67202
+0134	5	614 W Douglas Ave	Wichita, KS 67203	Wichita	KS	67203
+0135	5	1261 S Rock Rd	Wichita, KS 67207	Wichita	KS	67207
+0136	5	2244 North Webb Road	Wichita, KS 67226	Wichita	KS	67226
+0137	5	1930 N Rock Rd	Wichita, KS 67206	Wichita	KS	67206
+0138	5	811 N Broadway St	Wichita, KS 67214	Wichita	KS	67214
+0139	5	7777 E Central Ave	Wichita, KS 67206	Wichita	KS	67206
+0140	5	233 N Mosley St	Wichita, KS 67202	Wichita	KS	67202
+0141	5	3750 N Woodlawn St	Wichita, KS 67220	Wichita	KS	67220
+0142	5	1860 S HILLSIDE ST	Wichita, KS 67211	Wichita	KS	67211
+0143	5	53 E. Randolph Street	Chicago, IL 60601	Chicago	IL	60601
+0144	5	431 N Dearborn St	Chicago, IL 60610	Chicago	IL	60610
+0145	5	661 N Lasalle St	Chicago, IL 60610-3722	Chicago	IL	60610-3722
+0146	5	520 N Michigan Ave	Chicago, IL 60611	Chicago	IL	60611
+0147	5	100 West Ontario Street	Chicago, IL 60654	Chicago	IL	60654
+0148	5	1470 N Milwaukee Ave	Chicago, IL 60622-2025	Chicago	IL	60622-2025
+0149	5	720 N Rush St	Chicago, IL 60611-2504	Chicago	IL	60611-2504
+0150	5	2024 N Halsted St	Chicago, IL 60614	Chicago	IL	60614
+0151	5	439 N Wells St	Chicago, IL 60610-4512	Chicago	IL	60610-4512
+0152	5	10248 Florida Blvd	Baton Rouge, LA 70815-1719	Baton Rouge	LA	70815-1719
+0153	5	7633 Jefferson Hwy	Baton Rouge, LA 70809-1102	Baton Rouge	LA	70809-1102
+0154	5	4733 Jones Creek Rd	Baton Rouge, LA 70817	Baton Rouge	LA	70817
+0155	5	6401 Bluebonnet Blvd Ste 1206	Baton Rouge, LA 70836-1206	Baton Rouge	LA	70836-1206
+0156	5	5350 Government St	Baton Rouge, LA 70806-6028	Baton Rouge	LA	70806-6028
+0157	5	7550 Bluebonnet Blvd	Baton Rouge, LA 70810-1627	Baton Rouge	LA	70810-1627
+0158	4	18291 highland rd	Baton Rouge, LA	Baton Rouge	LA
+0159	5	734 W Bullard Ave	Fresno, CA 93704-1610	Fresno	CA	93704-1610
+0160	5	5128 N Palm Ave	Fresno, CA 93704	Fresno	CA	93704
+0161	5	7937 N. Blackstone	Fresno, CA 93720-431	Fresno	CA	93720-431
+0162	5	389 E Shaw Ave	Fresno, CA 93710	Fresno	CA	93710
+0163	5	9447 N Fort Washington Rd #112	Fresno, CA 93730-0697	Fresno	CA	93730-0697
+0164	5	7006 N Cedar Ave	Fresno, CA 93720	Fresno	CA	93720
+0165	5	1823 W Olive Ave	Fresno, CA 93728	Fresno	CA	93728
+0166	5	3404 E Butler Ave	Fresno, CA 93702	Fresno	CA	93702
+0167	5	4069 E Ashlan Ave	Fresno, CA 93726	Fresno	CA	93726
+0168	4	Erie Boulevard	Syracuse, NY	Syracuse	NY
+0169	5	135 E Water St	Syracuse, NY 13202	Syracuse	NY	13202
+0170	5	135 Marshall St	Syracuse, NY 13210	Syracuse	NY	13210
+0171	5	6760 Thompson Rd	Syracuse, NY 13211-2122	Syracuse	NY	13211-2122
+0172	5	1305 Milton Ave	Syracuse, NY 13204-1159	Syracuse	NY	13204-1159
+0173	5	107 Marshall St	Syracuse, NY 13210	Syracuse	NY	13210
+0174	5	4324 E Genesee St	Syracuse, NY 13214-2122	Syracuse	NY	13214-2122
+0175	5	130 Kai Malina Parkway	Lahaina, Maui, HI 96761	Lahaina	HI	96761
+0176	5	2511 S Kihei Rd	Kihei, Maui, HI 96753	Kihei	HI	96753
+0177	5	900 Front Street	Lahaina, Maui, HI 96761	Lahaina	HI	96761
+0178	5	3750 Wailea Alanui Dr	Kihei, Maui, HI 96753-8336	Kihei	HI	96753-8336
+0179	4	1913 South Kihei Road	Kihei, Maui, HI	Kihei	HI
+0180	5	824 Kokomo Road	Haiku, Maui, HI 96708	Haiku	HI	96708
+0181	5	2439 S Kihei Rd Ste 107A	Kihei, Maui, HI 96753-7283	Kihei	HI	96753-7283
+0182	4	3850 Wailea Alanui Dr	Wailea, Maui, HI	Wailea	HI
+0183	5	5900 Lower Honoapiilani Rd.	Lahaina, Maui, HI 96761	Lahaina	HI	96761
+0184	4	345 Keawe St	Lahaina, Maui, HI	Lahaina	HI
+0185	5	880 Front St Ste A12	Lahaina, Maui, HI 96761-1636	Lahaina	HI	96761-1636
+0186	4	Lower Kula Rd.	Maui, HI 96790-8123	HI	96790-8123
+0187	5	3103 Broad St	Chattanooga, TN 37408	Chattanooga	TN	37408
+0188	5	2204 Hamilton Pl Blvd	Chattanooga, TN 37421-6002	Chattanooga	TN	37421-6002
+0189	5	5621 Brainerd Rd	Chattanooga, TN 37411	Chattanooga	TN	37411
+0190	5	1251 Market St	Chattanooga, TN 37402-2791	Chattanooga	TN	37402-2791
+0191	5	2030 Hamilton Place Blvd	Chattanooga, TN 37421	Chattanooga	TN	37421
+0192	5	233 East MLK Blvd	Chattanooga, TN 37403	Chattanooga	TN	37403
+0193	5	201 Broad St	Chattanooga, TN 37402-1041	Chattanooga	TN	37402-1041
+0194	5	1627 Rossville Ave.	Chattanooga, TN 37408	Chattanooga	TN	37408
+0195	5	2200 Bams Dr	Chattanooga, TN 37421	Chattanooga	TN	37421
+0196	5	2 Broad St	Chattanooga, TN 37402-1006	Chattanooga	TN	37402-1006
+0197	5	6057 Lee Hwy	Chattanooga, TN 37421	Chattanooga	TN	37421
+0198	5	305 N 170th St	Omaha, NE 68118	Omaha	NE	68118
+0199	4	16901 Wright Plaza	Omaha, NE	Omaha	NE
+0200	5	15712 W Center Rd	Omaha, NE 68130	Omaha	NE	68130
+0201	5	7051 Ames Ave	Omaha, NE 68104-1969	Omaha	NE	68104-1969
+0202	5	10020 Regency Circle	Omaha, NE 68114	Omaha	NE	68114
+0203	5	400 Selby Ave	Saint Paul, MN 55102-4508	Saint Paul	MN	55102-4508
+0204	5	2728 GANNON ROAD	Saint Paul, MN 55116	Saint Paul	MN	55116
+0205	5	253 Seventh St W	Saint Paul, MN 55102-2522	Saint Paul	MN	55102-2522
+0206	5	1825 University Ave W	Saint Paul, MN 55104	Saint Paul	MN	55104
+0207	5	452 Selby Ave	Saint Paul, MN 55102-1727	Saint Paul	MN	55102-1727
+0208	5	432 University Ave W	Saint Paul, MN 55103-1933	Saint Paul	MN	55103-1933
+0209	5	1931 Ford Pkwy	Saint Paul, MN 55116	Saint Paul	MN	55116
+0210	5	622 Como Ave	Saint Paul, MN 55103	Saint Paul	MN	55103
+0211	4	225 W. 7th St.	Saint Paul, MN	Saint Paul	MN
+0212	5	433 Robert St S	Saint Paul, MN 55107-2217	Saint Paul	MN	55107-2217
+0213	5	1100 Grand Ave	Saint Paul, MN 55105-2628	Saint Paul	MN	55105-2628
+0214	5	908 Savannah Hwy	Charleston, SC 29407	Charleston	SC	29407
+0215	5	15 Beaufain St	Charleston, SC 29401-1931	Charleston	SC	29401-1931
+0216	5	7 Gamecock Ave Ste 708	Charleston, SC 29407-3379	Charleston	SC	29407-3379
+0217	5	160 Church St	Charleston, SC 29401-3125	Charleston	SC	29401-3125
+0218	5	714 Rutledge Avenue	Charleston, SC 29403	Charleston	SC	29403
+0219	5	137 Market St.	Charleston, SC 29401	Charleston	SC	29401
+0220	5	2332 Meeting Street Rd	Charleston, SC 29405	Charleston	SC	29405
+0221	5	302 W Riverside Ave	Spokane, WA 99201	Spokane	WA	99201
+0222	5	707 W Main Ave Ste 14	Spokane, WA 99201	Spokane	WA	99201
+0223	5	West 9105 State Route 2	Spokane, WA 99224	Spokane	WA	99224
+0224	5	808 W. Main Ste. 105	Spokane, WA 99201	Spokane	WA	99201
+0225	5	825 W Riverside Ave	Spokane, WA 99201	Spokane	WA	99201
+0226	5	5012 N Market St	Spokane, WA 99217	Spokane	WA	99217
+0227	5	154 S Madison St	Spokane, WA 99201	Spokane	WA	99201
+0228	5	10 S Post St	Spokane, WA 99201	Spokane	WA	99201
+0229	5	9602 N Newport Hwy	Spokane, WA 99218-1236	Spokane	WA	99218-1236
+0230	5	4120 N Division St	Spokane, WA 99207	Spokane	WA	99207
+0231	5	1406 W 3RD Ave	Spokane, WA 99201-7024	Spokane	WA	99201-7024
+0232	5	3111 Woodward Ave	Detroit, MI 48201	Detroit	MI	48201
+0233	5	2030 Park Avenue	Detroit, MI 48226	Detroit	MI	48226
+0234	5	1000 River Pl	Detroit, MI 48207	Detroit	MI	48207
+0235	5	1326 E Jefferson Ave	Detroit, MI 48207-3104	Detroit	MI	48207-3104
+0236	5	65 Cadillac Sq Ste 101	Detroit, MI 48226-2889	Detroit	MI	48226-2889
+0237	5	5900 W Vernor Hwy	Detroit, MI 48209-2160	Detroit	MI	48209-2160
+0238	5	333 E Jefferson Ave	Detroit, MI 48226	Detroit	MI	48226
+0239	5	136 Monroe St	Detroit, MI 48226	Detroit	MI	48226
+0240	5	544 S Grand	Los Angeles, CA 90071	Los Angeles	CA	90071
+0241	6	641 N. Highland Ave.	at Melrose & Highland	Los Angeles, CA 90038	Los Angeles	CA	90038
+0242	5	812 N Evergreen Ave	Los Angeles, CA 90033	Los Angeles	CA	90033
+0243	5	11288 Ventura Blvd Ste C	Los Angeles, CA 91604-3149	Los Angeles	CA	91604-3149
+0244	5	1429 Abbot Kinney Blvd	Los Angeles, CA 90291	Los Angeles	CA	90291
+0245	5	8360 Melrose Ave	Los Angeles, CA 90069-6501	Los Angeles	CA	90069-6501
+0246	5	2130 Sawtelle Blvd. Suite #110	Los Angeles, CA 90025	Los Angeles	CA	90025
+0247	5	712 N Heliotrope Dr	Los Angeles, CA 90029	Los Angeles	CA	90029
+0248	5	1900 N Highland Ave Ste 5	Los Angeles, CA 90068	Los Angeles	CA	90068
+0249	5	13031 Ventura Blvd	Los Angeles, CA 91604	Los Angeles	CA	91604
+0250	5	1514 N Gower St	Los Angeles, CA 90028-6422	Los Angeles	CA	90028-6422
+0251	5	5273 Hollywood Boulevard	Los Angeles, CA 90027	Los Angeles	CA	90027
+0252	5	11676 Gateway	Los Angeles, CA 90064	Los Angeles	CA	90064
+0253	5	2205 W 4TH St	Reno, NV 89503-5014	Reno	NV	89503-5014
+0254	5	1155 W 4th St Ste 113	Reno, NV 89503	Reno	NV	89503
+0255	5	4600 Kietzke Ln Ste 250	Reno, NV 89502-5033	Reno	NV	89502-5033
+0256	5	1507 S Virginia St.	Reno, NV 89502	Reno	NV	89502
+0257	5	10 East 9th Street	Reno, NV 89501	Reno	NV	89501
+0258	5	936 5TH Ave S	Naples, FL 34102-6492	Naples	FL	34102-6492
+0259	5	280 Vanderbilt Beach Rd.	Naples, FL 34108	Naples	FL	34108
+0260	5	330 9TH St S	Naples, FL 34102-6422	Naples	FL	34102-6422
+0261	5	2650 Airport Rd S Ste F	Naples, FL 34112-4886	Naples	FL	34112-4886
+0262	5	3560 Tamiami Trail East	Naples, FL 34112	Naples	FL	34112
+0263	5	4681 Tamiami Trl N	Naples, FL 34103-3004	Naples	FL	34103-3004
+0264	5	505 5TH Ave S	Naples, FL 34102-6639	Naples	FL	34102-6639
+0265	5	1000 Immokalee Rd	Naples, FL 34110-4803	Naples	FL	34110-4803
+0266	4	Pine Ridge and Livingston	Naples, FL	Naples	FL
+0267	5	870 Neapolitan Way	Naples, FL 34103-3120	Naples	FL	34103-3120
+0268	5	6290 N Lockwood Rdg Rd	Sarasota, FL 34243-2529	Sarasota	FL	34243-2529
+0269	5	4059 Cattlemen Rd	Sarasota, FL 34233-5002	Sarasota	FL	34233-5002
+0270	5	325 John Ringling Boulevard	Sarasota, FL 34236	Sarasota	FL	34236
+0271	5	987 S Packinghouse Rd	Sarasota, FL 34232-2898	Sarasota	FL	34232-2898
+0272	5	1917 South Osprey Ave.	Sarasota, FL 34239	Sarasota	FL	34239
+0273	5	2881 Clark Rd	Sarasota, FL 34231-6296	Sarasota	FL	34231-6296
+0274	5	4791 Swift Road	Sarasota, FL 34231	Sarasota	FL	34231
+0275	5	1920 Hillview Street	Sarasota, FL 34239	Sarasota	FL	34239
+0276	5	6604 Gateway Ave	Sarasota, FL 34231-5806	Sarasota	FL	34231-5806
+0277	5	5353 S Tamiami Trl	Sarasota, FL 34231-4269	Sarasota	FL	34231-4269
+0278	5	900 Central Ave	Albany, NY 12206-1302	Albany	NY	12206-1302
+0279	5	1178 Western Ave Ste 2	Albany, NY 12203-3314	Albany	NY	12203-3314
+0280	5	1736 Western Ave	Albany, NY 12203	Albany	NY	12203
+0281	5	1475 Western Ave Ste 40A	Albany, NY 12203-3520	Albany	NY	12203-3520
+0282	5	212 Central Ave	Albany, NY 12206	Albany	NY	12206
+0283	5	1343 Central Ave	Albany, NY 12205	Albany	NY	12205
+0284	5	8 Wolf Rd	Albany, NY 12205-2603	Albany	NY	12205-2603
+0285	5	900 Central Avenue	Albany, NY 12206	Albany	NY	12206
+0286	5	1814 Western Ave	Albany, NY 12203	Albany	NY	12203
+0287	5	200-202 Lark St.	Albany, NY 12210	Albany	NY	12210
+0288	5	500 President Clinton Ave	Little Rock, AR 72201-1756	Little Rock	AR	72201-1756
+0289	5	1307 John Barrow Rd Ste A	Little Rock, AR 72205-6531	Little Rock	AR	72205-6531
+0290	5	6211 Asher Ave	Little Rock, AR 72204-7731	Little Rock	AR	72204-7731
+0291	5	6010 Lancaster Rd	Little Rock, AR 72209	Little Rock	AR	72209
+0292	5	44 Custom House St	Providence, RI 02903-2614	Providence	RI	02903-2614
+0293	5	103 Pt St	Providence, RI 02903-4715	Providence	RI	02903-4715
+0294	5	4 Governor St	Providence, RI 02906-3004	Providence	RI	02906-3004
+0295	5	865 Westminster St	Providence, RI 02903	Providence	RI	02903
+0296	6	4 Richmond Square	Suite 100B	Providence, RI 02906-5137	Providence	RI	02906-5137
+0297	5	787 Hope St	Providence, RI 02906	Providence	RI	02906
+0298	5	950 Bridge St NW	Grand Rapids, MI 49504-5538	Grand Rapids	MI	49504-5538
+0299	5	2455 Burton SE	Grand Rapids, MI 49506	Grand Rapids	MI	49506
+0300	5	2183 E Beltline Ave NE	Grand Rapids, MI 49525-9779	Grand Rapids	MI	49525-9779
+0301	5	6600 28th St SE	Grand Rapids, MI 49546	Grand Rapids	MI	49546
+0302	4	Leonard St. NW	Grand Rapids, MI	Grand Rapids	MI
+0303	5	1015 Wealthy St SE	Grand Rapids, MI 49506	Grand Rapids	MI	49506
+0304	5	5430 Northland Dr Ne	Grand Rapids, MI 49503	Grand Rapids	MI	49503
+0305	5	4242 Division Ave S	Grand Rapids, MI 49548	Grand Rapids	MI	49548
+0306	4	3139 S. Bown Way	Boise, ID	Boise	ID
+0307	5	211 W Parkcenter Blvd	Boise, ID 83706	Boise	ID	83706
+0308	5	577 Park Blvd	Boise, ID 83712	Boise	ID	83712
+0309	5	980 N Milwaukee St	Boise, ID 83704	Boise	ID	83704
+0310	5	1666 S Entertainment Ave	Boise, ID 83709	Boise	ID	83709
+0311	5	1700 S Entertainment Ave	Boise, ID 83709-8300	Boise	ID	83709-8300
+0312	5	120 College Pl	Norfolk, VA 23510-1908	Norfolk	VA	23510-1908
+0313	5	5750 E Virginia Beach Blvd	Norfolk, VA 23502-2422	Norfolk	VA	23502-2422
+0314	6	333 Waterside Drive	Space 210	Norfolk, VA 23510	Norfolk	VA	23510
+0315	5	6200 Antioch St	Oakland, CA 94611	Oakland	CA	94611
+0316	5	3425 Grand Ave	Oakland, CA 94610	Oakland	CA	94610
+0317	5	5231 College Ave	Oakland, CA 94618-1414	Oakland	CA	94618-1414
+0318	5	4060 Piedmont Ave	Oakland, CA 94611	Oakland	CA	94611
+0319	5	412 15th St	Oakland, CA 94612	Oakland	CA	94612
+0320	5	439 Grand Ave	Oakland, CA 94610-5022	Oakland	CA	94610-5022
+0321	5	4258 Piedmont Ave	Oakland, CA 94611-4741	Oakland	CA	94611-4741
+0322	4	6099 Claremont Ave	Oakland, CA	Oakland	CA
+0323	5	1152 Taylor St	San Francisco, CA 94108	San Francisco	CA	94108
+0324	5	2401 Harrison Street @ 20th Street	San Francisco, CA 94110	San Francisco	CA	94110
+0325	5	659 Columbus Ave	San Francisco, CA 94133	San Francisco	CA	94133
+0326	5	438 Geary St	San Francisco, CA 94102	San Francisco	CA	94102
+0327	5	3611 18th St	San Francisco, CA 94110	San Francisco	CA	94110
+0328	5	3621 18th St	San Francisco, CA 94110-1531	San Francisco	CA	94110-1531
+0329	5	309 Clement St	San Francisco, CA 94118-2315	San Francisco	CA	94118-2315
+0330	4	319 N Frances St	Madison, WI	Madison	WI
+0331	5	2009 Atwood Ave	Madison, WI 53704	Madison	WI	53704
+0332	5	1236 Williamson St	Madison, WI 53703-3755	Madison	WI	53703-3755
+0333	5	534 N. Midvale Blvd.	Madison, WI 53705	Madison	WI	53705
+0334	5	515 S Park St	Madison, WI 53715-1619	Madison	WI	53715-1619
+0335	5	900 S Park St	Madison, WI 53715-1834	Madison	WI	53715-1834
+0336	5	2 S Mills St	Madison, WI 53715-1308	Madison	WI	53715-1308
+0337	4	827 East Johnson St.	Madison, WI	Madison	WI
+0338	5	128 E Wilson St	Madison, WI 53703	Madison	WI	53703
+0339	5	3416 University Ave	Madison, WI 53705	Madison	WI	53705
+0340	5	118 State St	Madison, WI 53703-2524	Madison	WI	53703-2524
+0341	5	1860 E Washington Ave	Madison, WI 53704-5224	Madison	WI	53704-5224
+0342	5	1 W. Dayton Street	Madison, WI 53703	Madison	WI	53703
+0343	5	4556 Monona Dr	Madison, WI 53716-1051	Madison	WI	53716-1051
+0344	4	752 E Gorham Street	Madison, WI	Madison	WI
+0345	5	4344 E Towne Blvd	Madison, WI 53704-3706	Madison	WI	53704-3706
+0346	5	2143 Zeier Rd	Madison, WI 53704-7414	Madison	WI	53704-7414
+0347	5	1221 Ann St	Madison, WI 53713-2409	Madison	WI	53713-2409
+0348	5	2147 E Springs Dr	Madison, WI 53704-7422	Madison	WI	53704-7422
+0349	5	344 Huron Ave	Cambridge, MA 02138-6827	Cambridge	MA	02138-6827
+0350	5	1105 Massachusetts Ave	Cambridge, MA 02138	Cambridge	MA	02138
+0351	5	204 Hampshire St	Cambridge, MA 02139	Cambridge	MA	02139
+0352	5	50 Church St	Cambridge, MA 02138-3726	Cambridge	MA	02138-3726
+0353	5	739 Massachusetts Ave	Cambridge, MA 02139-3303	Cambridge	MA	02139-3303
+0354	5	0 Brattle St	Cambridge, MA 02138-3720	Cambridge	MA	02138-3720
+0355	5	45 1/2 Mount Auburn St	Cambridge, MA 02138	Cambridge	MA	02138
+0356	5	901 Main St	Cambridge, MA 02139-3512	Cambridge	MA	02139-3512
+0357	5	1680 Massachusetts Ave	Cambridge, MA 02138	Cambridge	MA	02138
+0358	5	575 Memorial Drive	Cambridge, MA 02139	Cambridge	MA	02139
+0359	5	498 Cambridge St	Cambridge, MA 02141-1113	Cambridge	MA	02141-1113
+0360	5	1065 Washington Ave	Miami Beach, FL 33139-5017	Miami Beach	FL	33139-5017
+0361	5	1500 Alton Rd	Miami Beach, FL 33139	Miami Beach	FL	33139
+0362	5	1450 washington avenue	Miami Beach, FL 33139	Miami Beach	FL	33139
+0363	5	525 Lincoln Rd	Miami Beach, FL 33139-2913	Miami Beach	FL	33139-2913
+0364	4	3025 Collins Avenue	Miami Beach, FL	Miami Beach	FL
+0365	5	101 Ocean Drive	Miami Beach, FL 33139	Miami Beach	FL	33139
+0366	5	1935 West Avenue	Miami Beach, FL 33139	Miami Beach	FL	33139
+0367	5	1208 Washington Ave	Miami Beach, FL 33139-4614	Miami Beach	FL	33139-4614
+0368	5	481 Town Center Pl	Columbia, SC 29229	Columbia	SC	29229
+0369	5	715 Crowson Rd	Columbia, SC 29205-2123	Columbia	SC	29205-2123
+0370	5	1600 Charleston Highway, West	Columbia, SC 29169	Columbia	SC	29169
+0371	5	285 Columbiana Dr	Columbia, SC 29212	Columbia	SC	29212
+0372	5	1600 Charleston Hwy	Columbia, SC 29169	Columbia	SC	29169
+0373	5	4717 Devine St	Columbia, SC 29209	Columbia	SC	29209
+0374	5	4365 Jackson Blvd	Columbia, SC 29207	Columbia	SC	29207
+0375	6	8 Waveland Avenue	off Wm Hilton Parkway	Columbia, SC 29202	Columbia	SC	29202
+0376	5	151 Clemson Rd	Columbia, SC 29229	Columbia	SC	29229
+0377	5	3409 College Pt Blvd	Flushing, NY 11354-2716	Flushing	NY	11354-2716
+0378	5	37-11 Main St.	Flushing, NY 11354	Flushing	NY	11354
+0379	5	40-33 Main St.	Flushing, NY 11354	Flushing	NY	11354
+0380	5	20002 Northern Blvd	Flushing, NY 11361-2541	Flushing	NY	11361-2541
+0381	5	13613 38TH Ave	Flushing, NY 11354-6500	Flushing	NY	11354-6500
+0382	5	10612 71ST Ave	Flushing, NY 11375-4727	Flushing	NY	11375-4727
+0383	5	1221 Woodruff Rd	Greenville, SC 29607-5737	Greenville	SC	29607-5737
+0384	5	21 Roper Mountain Rd	Greenville, SC 29607-4125	Greenville	SC	29607-4125
+0385	5	1099 E. Butler Road #K	Greenville, SC 29607	Greenville	SC	29607
+0386	5	40 Beacon Dr	Greenville, SC 29615-5032	Greenville	SC	29615-5032
+0387	5	765 Haywood Rd Ste E	Greenville, SC 29607	Greenville	SC	29607
+0388	5	637 Congaree Rd	Greenville, SC 29607	Greenville	SC	29607
+0389	5	4295 Augusta Rd.	Greenville, SC 29605	Greenville	SC	29605
+0390	5	3601 E North St Ste 1	Greenville, SC 29615-1970	Greenville	SC	29615-1970
+0391	4	11215 Abercorn St	Savannah, GA	Savannah	GA
+0392	5	1514 Bull St	Savannah, GA 31401	Savannah	GA	31401
+0393	5	187 Macceo Dr	Savannah, GA 31410	Savannah	GA	31410
+0394	5	313 West Saint Julian Street	Savannah, GA 31401-2401	Savannah	GA	31401-2401
+0395	5	125 W River St	Savannah, GA 31401	Savannah	GA	31401
+0396	4	200 Eisenhower Dr	Savannah, GA	Savannah	GA
+0397	5	4700 US Highway 80	Savannah, GA 31410	Savannah	GA	31410
+0398	5	54 W Montgomery XRD	Savannah, GA 31406-3434	Savannah	GA	31406-3434
+0399	5	2631 Skidaway Rd	Savannah, GA 31404	Savannah	GA	31404
+0400	5	2210 S Chambers Rd	Aurora, CO 80014-4528	Aurora	CO	80014-4528
+0401	5	3055 S Parker Rd Ste 204	Aurora, CO 80014-2932	Aurora	CO	80014-2932
+0402	5	16645 E Smoky Hill Rd	Aurora, CO 80015	Aurora	CO	80015
+0403	5	2200 W Main St	Durham, NC 27705	Durham	NC	27705
+0404	5	4625 Hillsborough Rd	Durham, NC 27705	Durham	NC	27705
+0405	5	3644 Durham Chapel Hill Blvd	Durham, NC 27707-2661	Durham	NC	27707-2661
+0406	5	2700 Guess Rd	Durham, NC 27705	Durham	NC	27705
+0407	5	740 9th St	Durham, NC 27705-4803	Durham	NC	27705-4803
+0408	5	737 Ninth St	Durham, NC 27705	Durham	NC	27705
+0409	5	706 E Main St	Durham, NC 27701	Durham	NC	27701
+0410	5	4853 NC Hwy 55	Durham, NC 27713-2258	Durham	NC	27713-2258
+0411	5	904 W Main St	Durham, NC 27701-2025	Durham	NC	27701-2025
+0412	4	219 South Elm Street	Greensboro, NC	Greensboro	NC
+0413	5	4705 High Point Rd	Greensboro, NC 27407	Greensboro	NC	27407
+0414	5	2924 Battleground Ave	Greensboro, NC 27408	Greensboro	NC	27408
+0415	5	222 Spur Rd	Greensboro, NC 27406	Greensboro	NC	27406
+0416	5	114 N Elm St	Greensboro, NC 27401	Greensboro	NC	27401
+0417	5	5834 High Pt Rd	Greensboro, NC 27407-7069	Greensboro	NC	27407-7069
+0418	5	416 N Eugene St	Greensboro, NC 27401-2116	Greensboro	NC	27401-2116
+0419	5	1609 W Friendly Ave Ste B	Greensboro, NC 27403	Greensboro	NC	27403
+0420	5	3900 Battleground Ave Ste A	Greensboro, NC 27410-8574	Greensboro	NC	27410-8574
+0421	5	116 W Crosstimbers St	Houston, TX 77018-5630	Houston	TX	77018-5630
+0422	5	2405 W Alabama St	Houston, TX 77098	Houston	TX	77098
+0423	4	6100 Westheimer Dr	Houston, TX	Houston	TX
+0424	5	2424 Dunstan Rd	Houston, TX 77005	Houston	TX	77005
+0425	5	3701 Travis St	Houston, TX 77002	Houston	TX	77002
+0426	5	602 Fairview St	Houston, TX 77006-2904	Houston	TX	77006-2904
+0427	5	2706 Westheimer Rd	Houston, TX 77098	Houston	TX	77098
+0428	5	1835 W Alabama St	Houston, TX 77098	Houston	TX	77098
+0429	5	318 Stafford St	Houston, TX 77079-2325	Houston	TX	77079-2325
+0430	5	2631 4th St. N.	St. Petersburg, FL 33716	St. Petersburg	FL	33716
+0431	5	2525 54th Ave N	St. Petersburg, FL 33714	St. Petersburg	FL	33714
+0432	5	1951 4TH St N	St. Petersburg, FL 33704-4307	St. Petersburg	FL	33704-4307
+0433	5	5236 16th St N	St. Petersburg, FL 33703	St. Petersburg	FL	33703
+0434	5	4th Street North of 54th Ave N.	St. Petersburg, FL 33704	St. Petersburg	FL	33704
+0435	4	Pasadena Ave	St. Petersburg, FL	St. Petersburg	FL
+0436	5	3232 Dauphin St	Mobile, AL 36606	Mobile	AL	36606
+0437	5	312 Schillinger Rd S Ste C	Mobile, AL 36608	Mobile	AL	36608
+0438	4	6120 Marina Drive South	Mobile, AL	Mobile	AL
+0439	5	3156 Airport Blvd	Mobile, AL 36606-3803	Mobile	AL	36606-3803
+0440	5	6800 Airport Blvd	Mobile, AL 36608-3710	Mobile	AL	36608-3710
+0441	5	2617 Dauphin St	Mobile, AL 36606	Mobile	AL	36606
+0442	5	3674 Airport Blvd	Mobile, AL 36608	Mobile	AL	36608
+0443	5	3249 Dauphin St	Mobile, AL 36606-4037	Mobile	AL	36606-4037
+0444	6	110 Beauregard Street	North side of the GM&O Building	Mobile, AL 36602	Mobile	AL	36602
+0445	5	5369 Highway 90 W # D	Mobile, AL 36619-4223	Mobile	AL	36619-4223
+0446	5	75-5707 Alii Dr.	Kailua-Kona, Island of Hawaii, HI 96740	Kailua-Kona	HI	96740
+0447	6	1 North Kaniku Drive	The Fairmont Orchard	Kamuela, Island of Hawaii, HI 96743	Kamuela	HI	96743
+0448	6	71 Banyan Dr	Hilo Hawaiian Hotel	Hilo, Island of Hawaii, HI 96720	Hilo	HI	96720
+0449	5	150 Wiwoole St	Hilo, Island of Hawaii, HI 96720-5124	Hilo	HI	96720-5124
+0450	5	75-5739 Alii Dr	Kailua-Kona, Island of Hawaii, HI 96740-1736	Kailua-Kona	HI	96740-1736
+0451	5	2301 Ingersoll Ave	Des Moines, IA 50312	Des Moines	IA	50312
+0452	5	2724 Ingersoll Ave	Des Moines, IA 50312	Des Moines	IA	50312
+0453	5	3322 Indianola Ave	Des Moines, IA 50315-2961	Des Moines	IA	50315-2961
+0454	5	209 Euclid Ave	Des Moines, IA 50313	Des Moines	IA	50313
+0455	5	801 Grand Ave Ste 335	Des Moines, IA 50309-8000	Des Moines	IA	50309-8000
+0456	5	3715 Douglas Ave	Des Moines, IA 50310-5347	Des Moines	IA	50310-5347
+0457	5	2400 Ingersoll Ave	Des Moines, IA 50312-5234	Des Moines	IA	50312-5234
+0458	5	3803 Indianola Ave	Des Moines, IA 50320	Des Moines	IA	50320
+0459	5	2152 Center St	Berkeley, CA 94704	Berkeley	CA	94704
+0460	5	1600 Shattuck Ave Ste 112	Berkeley, CA 94709-1647	Berkeley	CA	94709-1647
+0461	5	1647 Solano Ave	Berkeley, CA 94707-2108	Berkeley	CA	94707-2108
+0462	4	1799 4th St.	Berkeley, CA	Berkeley	CA
+0463	5	1901 University Ave	Berkeley, CA 94704	Berkeley	CA	94704
+0464	5	2914 College Ave	Berkeley, CA 94705-2204	Berkeley	CA	94705-2204
+0465	5	2142 Center Street	Berkeley, CA 94704	Berkeley	CA	94704
+0466	5	1736 Solano Ave	Berkeley, CA 94707-2215	Berkeley	CA	94707-2215
+0467	5	2430 Bancroft Way	Berkeley, CA 94704-1609	Berkeley	CA	94704-1609
+0468	5	2240 Shattuck Ave	Berkeley, CA 94704-1416	Berkeley	CA	94704-1416
+0469	5	2629 Telegraph Ave	Berkeley, CA 94704	Berkeley	CA	94704
+0470	5	2265 5TH St	Berkeley, CA 94710-2216	Berkeley	CA	94710-2216
+0471	5	2420 Shattuck Ave	Berkeley, CA 94704	Berkeley	CA	94704
+0472	5	1834 Euclid Ave	Berkeley, CA 94709-1318	Berkeley	CA	94709-1318
+0473	4	3131 Manchester Expy	Columbus, GA	Columbus	GA
+0474	5	14 11th Street	Columbus, GA 31901	Columbus	GA	31901
+0475	4	887 E. Palmetto Park Road	Boca Raton, FL	Boca Raton	FL
+0476	5	297 E Palmetto Park Rd	Boca Raton, FL 33432	Boca Raton	FL	33432
+0477	5	9181 Glades Rd	Boca Raton, FL 33434	Boca Raton	FL	33434
+0478	5	8221 Glades Rd	Boca Raton, FL 33434-4072	Boca Raton	FL	33434-4072
+0479	5	5101 Congress Ave	Boca Raton, FL 33487-3617	Boca Raton	FL	33487-3617
+0480	5	499 S Federal Hwy	Boca Raton, FL 33432	Boca Raton	FL	33432
+0481	5	3011 Yamato Rd #A1	Boca Raton, FL 33434-5352	Boca Raton	FL	33434-5352
+0482	5	5050 Town Center Cir #247	Boca Raton, FL 33486-1066	Boca Raton	FL	33486-1066
+0483	5	4351 N Federal Hwy	Boca Raton, FL 33431-5127	Boca Raton	FL	33431-5127
+0484	5	22191 Powerline Rd,#10B	Boca Raton, FL 33433-5006	Boca Raton	FL	33433-5006
+0485	5	2200 Glades Rd	Boca Raton, FL 33431	Boca Raton	FL	33431
+0486	5	9244 Glades Rd	Boca Raton, FL 33434-3906	Boca Raton	FL	33434-3906
+0487	5	1806 E Southern Ave	Tempe, AZ 85282	Tempe	AZ	85282
+0488	5	930 W Broadway Rd Ste 11	Tempe, AZ 85282	Tempe	AZ	85282
+0489	5	1815 E. Elliot Rd.	Tempe, AZ 85284	Tempe	AZ	85284
+0490	5	2309 Columbia Ave	Lancaster, PA 17603-4107	Lancaster	PA	17603-4107
+0491	5	2020 Fruitville Pike	Lancaster, PA 17601	Lancaster	PA	17601
+0492	5	47 N Prince St	Lancaster, PA 17603	Lancaster	PA	17603
+0493	5	2133 Lincoln Hwy E	Lancaster, PA 17602-1109	Lancaster	PA	17602-1109
+0494	5	1308 Pearl St	Boulder, CO 80302	Boulder	CO	80302
+0495	5	2525 Arapahoe Ave Ste E50	Boulder, CO 80302	Boulder	CO	80302
+0496	5	2543 Broadway St	Boulder, CO 80304-4110	Boulder	CO	80304-4110
+0497	5	657 S. Broadway	Boulder, CO 80305	Boulder	CO	80305
+0498	5	835 Walnut St	Boulder, CO 80302-5034	Boulder	CO	80302-5034
+0499	5	2500 30th Street, Suite 101	Boulder, CO 80301	Boulder	CO	80301
+0500	5	555 30th St	Boulder, CO 80303	Boulder	CO	80303
+0501	5	5290 Arapahoe Ave	Boulder, CO 80303	Boulder	CO	80303
+0502	5	2018 10th St	Boulder, CO 80302	Boulder	CO	80302
+0503	5	2922 Baseline Rd.	Boulder, CO 80303	Boulder	CO	80303
+0504	5	2770 Pearl St	Boulder, CO 80302-3833	Boulder	CO	80302-3833
+0505	5	3033 28th St	Boulder, CO 80301-1313	Boulder	CO	80301-1313
+0506	5	1685 29th St	Boulder, CO 80301	Boulder	CO	80301
+0507	4	2785 Iris Ave	Boulder, CO	Boulder	CO
+0508	5	1906 28th St	Boulder, CO 80301	Boulder	CO	80301
+0509	5	1701 Pearl St	Boulder, CO 80302	Boulder	CO	80302
+0510	5	500 Hotel Cir N	San Diego, CA 92108	San Diego	CA	92108
+0511	5	4529 Mission Bay Drive	San Diego, CA 92109	San Diego	CA	92109
+0512	5	2929 Fifth Ave	San Diego, CA 92103	San Diego	CA	92103
+0513	5	2801 University Ave	San Diego, CA 92104	San Diego	CA	92104
+0514	5	1810 W. Washingon Street	San Diego, CA 92103	San Diego	CA	92103
+0515	5	721 Ninth Ave	San Diego, CA 92101-6481	San Diego	CA	92101-6481
+0516	5	1137 25th Street	San Diego, CA 92102	San Diego	CA	92102
+0517	5	3628 5th Ave	San Diego, CA 92103-4220	San Diego	CA	92103-4220
+0518	5	1549 El Prado	San Diego, CA 92101	San Diego	CA	92101
+0519	5	4651 Park Blvd.	San Diego, CA 92116	San Diego	CA	92116
+0520	5	1411 N 45th St	Seattle, WA 98103	Seattle	WA	98103
+0521	5	2124 Fifth Ave	Seattle, WA 98102	Seattle	WA	98102
+0522	5	1401 Third Avenue	Seattle, WA 98101	Seattle	WA	98101
+0523	5	2101 N 55th St	Seattle, WA 98103	Seattle	WA	98103
+0524	5	602 19th Ave E	Seattle, WA 98112	Seattle	WA	98112
+0525	5	6049 Seaview Ave NW	Seattle, WA 98107	Seattle	WA	98107
+0526	5	1933 1ST Ave	Seattle, WA 98101-1010	Seattle	WA	98101-1010
+0527	5	411 University St.	Seattle, WA 98101	Seattle	WA	98101
+0528	4	17 Cleveland Place	New York City, NY	New York City	NY
+0529	5	203 E 10th St	New York City, NY 10003	New York City	NY	10003
+0530	5	402 E 78th St	New York City, NY 10021-1676	New York City	NY	10021-1676
+0531	5	75 9th Ave (in the Chelsea Market)	New York City, NY 10011	New York City	NY	10011
+0532	5	60 Thompson St	New York City, NY 10012-4308	New York City	NY	10012-4308
+0533	5	31 Cornelia St	New York City, NY 10014-4129	New York City	NY	10014-4129
+0534	5	314 W 11th Street	New York City, NY 10014	New York City	NY	10014
+0535	5	210 Spring St	New York City, NY 10012	New York City	NY	10012
+0536	5	763 9th Ave	New York City, NY 10019	New York City	NY	10019
+0537	5	43 Carmine Street	New York City, NY 10014	New York City	NY	10014
+0538	5	52 W Elm St	Chicago, IL 60610	Chicago	IL	60610
+0539	5	900 N Franklin St	Chicago, IL 60610	Chicago	IL	60610
+0540	5	4729 N Lincoln Ave	Chicago, IL 60625-2009	Chicago	IL	60625-2009
+0541	6	800 N Michigan Ave	Park Hyatt Hotel	Chicago, IL 60611	Chicago	IL	60611
+0542	5	3002 N Sheffield Ave	Chicago, IL 60657-4420	Chicago	IL	60657-4420
+0543	5	1804 West Division St	Chicago, IL 60622	Chicago	IL	60622
+0544	5	110 E. Pearson St.	Chicago, IL 60611	Chicago	IL	60611
+0545	5	2039 W North Ave	Chicago, IL 60647	Chicago	IL	60647
+0546	5	151 E Wacker Drive	Chicago, IL 60601	Chicago	IL	60601
+0547	5	1960 N Western Ave	Chicago, IL 60647	Chicago	IL	60647
+0548	5	600 W. Chicago Avenue	Chicago, IL 60610	Chicago	IL	60610
+0549	5	500 N Clark St	Chicago, IL 60610	Chicago	IL	60610
+0550	5	516 N Clark St	Chicago, IL 60610-4207	Chicago	IL	60610-4207
+0551	4	5951 N. Broadway	Chicago, IL	Chicago	IL
+0552	5	6714 Hollywood Blvd	Los Angeles, CA 90028	Los Angeles	CA	90028
+0553	5	6051 Hollywood Blvd, Ste 105	Los Angeles, CA 90028-5496	Los Angeles	CA	90028-5496
+0554	5	6100 Topanga Canyon Blvd	Los Angeles, CA 91367	Los Angeles	CA	91367
+0555	5	13355 Ventura Blvd	Los Angeles, CA 91423	Los Angeles	CA	91423
+0556	5	5870 Melrose Ave	Los Angeles, CA 90038-3700	Los Angeles	CA	90038-3700
+0557	5	2930 Beverly Glen Cir	Los Angeles, CA 90077	Los Angeles	CA	90077
+0558	5	4141 S Centinela Ave	Los Angeles, CA 90066-4908	Los Angeles	CA	90066-4908
+0559	5	530 N Point St	San Francisco, CA 94133-1312	San Francisco	CA	94133-1312
+0560	5	1 Market St	San Francisco, CA 94105	San Francisco	CA	94105
+0561	5	401 Columbus Ave	San Francisco, CA 94133	San Francisco	CA	94133
+0562	5	542 Green St	San Francisco, CA 94133-3921	San Francisco	CA	94133-3921
+0563	5	450 Post St	San Francisco, CA 94102	San Francisco	CA	94102
+0564	4	452 Larkin St	San Francisco, CA	San Francisco	CA
+0565	5	689 Mission St	San Francisco, CA 94103	San Francisco	CA	94103
+0566	5	1700 Stockton St	San Francisco, CA 94133-2915	San Francisco	CA	94133-2915
+0567	5	937 Harrison St	San Francisco, CA 94107	San Francisco	CA	94107
+0568	5	141 Waverly Place	San Francisco, CA 94108	San Francisco	CA	94108
+0569	4	201 Berry St.	San Francisco, CA	San Francisco	CA
+0570	5	5857 Westheimer Rd	Houston, TX 77057	Houston	TX	77057
+0571	5	1701 S Shepherd Dr	Houston, TX 77019	Houston	TX	77019
+0572	5	515 Westheimer Rd	Houston, TX 77006	Houston	TX	77006
+0573	5	4720 Washington Ave Suite B	Houston, TX 77007	Houston	TX	77007
+0574	5	5061 Westheimer Rd, Ste 8050	Houston, TX 77056	Houston	TX	77056
+0575	5	5600 Kirby Dr Ste 5	Houston, TX 77005	Houston	TX	77005
+0576	5	5230 Westpark Drive	Houston, TX 77056	Houston	TX	77056
+0577	5	909 Texas St	Houston, TX 77002	Houston	TX	77002
+0578	5	3919 Scott St	Houston, TX 77004-5522	Houston	TX	77004-5522
+0579	5	823 Antoine Dr	Houston, TX 77024-3611	Houston	TX	77024-3611
+0580	5	4411 Stone Way North	Seattle, WA 98103	Seattle	WA	98103
+0581	5	2429 Second Avenue	Seattle, WA 98121	Seattle	WA	98121
+0582	5	4529 University Way NE	Seattle, WA 98105-4510	Seattle	WA	98105-4510
+0583	5	600 Queen Anne Ave N	Seattle, WA 98109-4012	Seattle	WA	98109-4012
+0584	5	81 Pike St	Seattle, WA 98101	Seattle	WA	98101
+0585	5	1423 34TH Ave Ste A	Seattle, WA 98122-3300	Seattle	WA	98122-3300
+0586	5	5411 Ballard Ave NW	Seattle, WA 98107	Seattle	WA	98107
+0587	5	219 Broadway E Ste 11	Seattle, WA 98102	Seattle	WA	98102
+0588	5	1100 Fifth Ave	Seattle, WA 98101	Seattle	WA	98101
+0589	5	1115 12th Ave	Seattle, WA 98122	Seattle	WA	98122
+0590	6	World Trade Center East	2 Seaport Lane	Boston, MA 02210	Boston	MA	02210
+0591	5	1918 Beacon St.	Boston, MA 02135	Boston	MA	02135
+0592	5	34 Oxford St. (Beach St.)	Boston, MA 02111-2002	Boston	MA	02111-2002
+0593	5	55 Huntington Ave.	Boston, MA 02116	Boston	MA	02116
+0594	5	190 North St	Boston, MA 02113-2412	Boston	MA	02113-2412
+0595	5	10 Huntington Ave	Boston, MA 02116-5707	Boston	MA	02116-5707
+0596	5	69 Bromfield Street	Boston, MA 02108-4121	Boston	MA	02108-4121
+0597	5	26 Park Plaza	Boston, MA 02116	Boston	MA	02116
+0598	5	266 Newbury St	Boston, MA 02116	Boston	MA	02116
+0599	6	61 Exeter St	Lenox Hotel	Boston, MA 02116	Boston	MA	02116
+0600	5	138 St. James Street	Boston, MA 02116	Boston	MA	02116
+0601	5	636 Beacon St	Boston, MA 02115	Boston	MA	02115
+0602	5	1001 NW Couch St	Portland, OR 97209	Portland	OR	97209
+0603	5	2878 SE Gladstone St	Portland, OR 97202-3561	Portland	OR	97202-3561
+0604	5	852 SW 21st Ave	Portland, OR 97205	Portland	OR	97205
+0605	5	706 NW 21st Ave	Portland, OR 97209	Portland	OR	97209
+0606	5	5314 NE Sandy Blvd	Portland, OR 97213-2565	Portland	OR	97213-2565
+0607	5	1313 NW Skyline Blvd	Portland, OR 97229-6824	Portland	OR	97229-6824
+0608	5	4733 SE Hawthorne Blvd	Portland, OR 97215-3249	Portland	OR	97215-3249
+0609	5	301 SE Morrison	Portland, OR 97214	Portland	OR	97214
+0610	5	1818 NW 23rd Pl	Portland, OR 97210	Portland	OR	97210
+0611	5	5411 NE 30th Ave	Portland, OR 97211	Portland	OR	97211
+0612	5	129 Fremont St	Las Vegas, NV 89101	Las Vegas	NV	89101
+0613	5	7700 Las Vegas Blvd S	Las Vegas, NV 89123	Las Vegas	NV	89123
+0614	5	600 E Warm Springs Rd	Las Vegas, NV 89119	Las Vegas	NV	89119
+0615	6	3500 Las Vegas Boulevard South	Forum Shops at Caesars	Las Vegas, NV 89109	Las Vegas	NV	89109
+0616	4	3400 Las Vegas Blvd S	Las Vegas, NV	Las Vegas	NV
+0617	5	3131 Las Vegas Blvd S	Las Vegas, NV 89109	Las Vegas	NV	89109
+0618	5	9777 Las Vegas Blvd S	Las Vegas, NV 89183	Las Vegas	NV	89183
+0619	5	3570 Las Vegas Blvd. S.	Caesars Palace	Las Vegas, NV	Las Vegas	NV
+0620	5	4147 S Maryland Pkwy	Las Vegas, NV 89119	Las Vegas	NV	89119
+0621	5	3377 Las Vegas Blvd.	Las Vegas, NV 89109	Las Vegas	NV	89109
+0622	5	3725 Las Vegas Blvd S	Las Vegas, NV 89109-4308	Las Vegas	NV	89109-4308
+0623	5	138 Market St.	Philadelphia, PA 19106	Philadelphia	PA	19106
+0624	5	1141 Pine St	Philadelphia, PA 19107	Philadelphia	PA	19107
+0625	5	106 Chestnut St	Philadelphia, PA 19106-3009	Philadelphia	PA	19106-3009
+0626	5	1708 Lombard	Philadelphia, PA 19146	Philadelphia	PA	19146
+0627	5	1847 Callowhill Street	Philadelphia, PA 19130	Philadelphia	PA	19130
+0628	5	122 Lombard St	Philadelphia, PA 19147	Philadelphia	PA	19147
+0629	5	205 S 18th St	Philadelphia, PA 19103-5900	Philadelphia	PA	19103-5900
+0630	5	370A Commonwealth Ave	Boston, MA 02215	Boston	MA	02215
+0631	5	1704 Washington St.	Boston, MA 02118	Boston	MA	02118
+0632	5	1033 Commonwealth Ave	Boston, MA 02215-1001	Boston	MA	02215-1001
+0633	5	131 Dartmouth St	Boston, MA 02116	Boston	MA	02116
+0634	5	550 Tremont St	Boston, MA 02116-6336	Boston	MA	02116-6336
+0635	5	161 Berkeley St	Boston, MA 02116	Boston	MA	02116
+0636	4	69 Church St.	Boston, MA	Boston	MA
+0637	5	1 Huntington Ave	Boston, MA 02116	Boston	MA	02116
+0638	4	528 Commonwealth Avenue	Boston, MA	Boston	MA
+0639	5	552 Tremont St.	Boston, MA 02118-3717	Boston	MA	02118-3717
+0640	5	477 Shawmut Ave	Boston, MA 02118	Boston	MA	02118
+0641	5	37 Bowdoin St	Boston, MA 02114-4201	Boston	MA	02114-4201
+0642	4	53 Kamehameha Hwy	Punaluu	Oahu, HI	HI
+0643	5	108 Hekili St	Kailua, Oahu, HI 96734	Kailua	HI	96734
+0644	5	46-018 Kamehameha Hwy	Kaneohe, Oahu, HI 96744-3714	Kaneohe	HI	96744-3714
+0645	5	641 Keeaumoku St Ste 2	Honolulu, Oahu, HI 96814	Honolulu	HI	96814
+0646	5	66-250 Kamehameha Hwy	Haleiwa, Oahu, HI 96712	Haleiwa	HI	96712
+0647	5	4210 Wai'alae Ave.	Honolulu, Oahu, HI 96816	Honolulu	HI	96816
+0648	5	1627 Nuuanu Ave	Honolulu, Oahu, HI 96817	Honolulu	HI	96817
+0649	5	611 Kapahulu Ave Ste 102	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0650	5	1860 Ala Moana Blvd	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0651	5	1694 Kalakaua Ave	Honolulu, Oahu, HI 96826	Honolulu	HI	96826
+0652	5	27 Hoolai Street	Kailua, Oahu, HI 96734	Kailua	HI	96734
+0653	6	1121 Nuuanu Ave.	Suite 105	Honolulu, Oahu, HI 96813	Honolulu	HI	96813
+0654	5	1260 University Ave	San Diego, CA 92103	San Diego	CA	92103
+0655	4	1110 Rosecrans St	San Diego, CA	San Diego	CA
+0656	5	4574 Park Blvd	San Diego, CA 92116	San Diego	CA	92116
+0657	5	1243 University Avenue	San Diego, CA 92147	San Diego	CA	92147
+0658	5	1735 India St	San Diego, CA 92101	San Diego	CA	92101
+0659	5	3923 4th Ave	San Diego, CA 92103	San Diego	CA	92103
+0660	4	3823 30th Street	San Diego, CA	San Diego	CA
+0661	5	273 Buckhead Avenue	Atlanta, GA 30305	Atlanta	GA	30305
+0662	5	3085 Piedmont Rd	Atlanta, GA 30305	Atlanta	GA	30305
+0663	5	1594 Woodcliff Dr NE Ste G	Atlanta, GA 30329-3133	Atlanta	GA	30329-3133
+0664	4	265 Ponce de Leon Avenue	Atlanta, GA	Atlanta	GA
+0665	5	141 Sycamore Street	Atlanta, GA 30030	Atlanta	GA	30030
+0666	5	2345 Cheshire Bridge Rd NE	Atlanta, GA 30324	Atlanta	GA	30324
+0667	5	3393 Peachtree Rd NE	Atlanta, GA 30326-1162	Atlanta	GA	30326-1162
+0668	6	488 Flat Shoals Avenue	East Atlanta Village	Atlanta, GA 30316	Atlanta	GA	30316
+0669	5	4969 Roswell Rd NE	Atlanta, GA 30342	Atlanta	GA	30342
+0670	5	1040 N Highland Ave NE	Atlanta, GA 30306-3551	Atlanta	GA	30306-3551
+0671	5	200 14th St NW	Atlanta, GA 30318	Atlanta	GA	30318
+0672	5	1710 Wynkoop St.	Denver, CO 80202	Denver	CO	80202
+0673	5	3030 E Sixth Ave	Denver, CO 80206-4328	Denver	CO	80206-4328
+0674	5	500 16th Street, 120	Denver, CO 80202	Denver	CO	80202
+0675	5	1585 Lawrence St	Denver, CO 80202	Denver	CO	80202
+0676	5	719 E 17th Ave	Denver, CO 80203	Denver	CO	80203
+0677	5	1525 Blake St	Denver, CO 80202	Denver	CO	80202
+0678	5	2819 E 2ND Ave	Denver, CO 80206-4926	Denver	CO	80206-4926
+0679	5	107 W 6th St	Austin, TX 78701	Austin	TX	78701
+0680	5	301 W Riverside Dr	Austin, TX 78704	Austin	TX	78704
+0681	5	1900 Rio Grande St	Austin, TX 78705	Austin	TX	78705
+0682	5	16405 Clara Van St	Austin, TX 78734	Austin	TX	78734
+0683	5	13450 N Highway 183	Austin, TX 78750	Austin	TX	78750
+0684	5	98 San Jacinto Blvd	Austin, TX 78701	Austin	TX	78701
+0685	5	13435 N Highway 183	Austin, TX 78750	Austin	TX	78750
+0686	5	6400 S First St	Austin, TX 78745	Austin	TX	78745
+0687	5	South Lamar & Barton Skyway	Austin, TX 78704	Austin	TX	78704
+0688	5	3902 Mccullough Ave	San Antonio, TX 78212-2484	San Antonio	TX	78212-2484
+0689	5	322 W Rector St	San Antonio, TX 78216-5718	San Antonio	TX	78216-5718
+0690	5	18008 San Pedro Ave	San Antonio, TX 78232	San Antonio	TX	78232
+0691	5	3011 N St Marys St	San Antonio, TX 78212-3534	San Antonio	TX	78212-3534
+0692	5	2211 NW Military Hwy Ste 123	San Antonio, TX 78213-1850	San Antonio	TX	78213-1850
+0693	5	1226 E Houston St	San Antonio, TX 78205-2033	San Antonio	TX	78205-2033
+0694	5	3123 Broadway St	San Antonio, TX 78209-6718	San Antonio	TX	78209-6718
+0695	5	301 E Houston St	San Antonio, TX 78205	San Antonio	TX	78205
+0696	5	4711 NW Loop 410	San Antonio, TX 78229-5181	San Antonio	TX	78229-5181
+0697	5	4116 Lorain Ave	Cleveland, OH 44113-3719	Cleveland	OH	44113-3719
+0698	5	3030 Superior Ave E	Cleveland, OH 44114	Cleveland	OH	44114
+0699	4	5712 Detroit Ave	Cleveland, OH	Cleveland	OH
+0700	5	3314 WARREN RD	Cleveland, OH 44111	Cleveland	OH	44111
+0701	5	11725 Snow Rd	Cleveland, OH 44130-1019	Cleveland	OH	44130-1019
+0702	5	3900 Orange Pl	Cleveland, OH 44122-7400	Cleveland	OH	44122-7400
+0703	5	20920 Brookpark Road	Cleveland, OH 44135	Cleveland	OH	44135
+0704	5	13000 Lorain Ave	Cleveland, OH 44111	Cleveland	OH	44111
+0705	5	927 E Westfield Blvd	Indianapolis, IN 46220	Indianapolis	IN	46220
+0706	5	6158 Hillside Ave	Indianapolis, IN 46220	Indianapolis	IN	46220
+0707	5	888 Massachusetts Ave	Indianapolis, IN 46204	Indianapolis	IN	46204
+0708	5	10 W Washington St	Indianapolis, IN 46204	Indianapolis	IN	46204
+0709	4	4907 N College Ave	Indianapolis, IN	Indianapolis	IN
+0710	5	14 W Maryland St	Indianapolis, IN 46204	Indianapolis	IN	46204
+0711	6	130 S Meridian St	Circle Center Mall Dowtown	Indianapolis, IN 46225	Indianapolis	IN	46225
+0712	5	906 S Wolfe St	Baltimore, MD 21231-3514	Baltimore	MD	21231-3514
+0713	5	1105 W 36TH St	Baltimore, MD 21211-2410	Baltimore	MD	21211-2410
+0714	5	2218 Boston Street	Baltimore, MD 21231	Baltimore	MD	21231
+0715	5	1723 N Charles St	Baltimore, MD 21201	Baltimore	MD	21201
+0716	5	2200 Boston St	Baltimore, MD 21231-3200	Baltimore	MD	21231-3200
+0717	5	800 North Charles St.	Baltimore, MD 21201	Baltimore	MD	21201
+0718	5	236 S High St	Baltimore, MD 21202-4443	Baltimore	MD	21202-4443
+0719	5	1031 W.36th St.	Baltimore, MD 21211	Baltimore	MD	21211
+0720	5	2907 Odonnell St	Baltimore, MD 21224-4821	Baltimore	MD	21224-4821
+0721	5	6209 Eastern Ave	Baltimore, MD 21224-2992	Baltimore	MD	21224-2992
+0722	5	402 Key Hwy	Baltimore, MD 21230-3973	Baltimore	MD	21230-3973
+0723	5	1032 Light St	Baltimore, MD 21230	Baltimore	MD	21230
+0724	5	Florida Mall	Orlando, FL 32830	Orlando	FL	32830
+0725	5	309 N Alafaya Trl	Orlando, FL 32828-7012	Orlando	FL	32828-7012
+0726	6	Walt Disney World Resort	The Land Pavilion, Epcot	Orlando, FL 32830	Orlando	FL	32830
+0727	5	6327 International Dr	Orlando, FL 32819-8213	Orlando	FL	32819-8213
+0728	5	4200 Conroy Rd #A144	Orlando, FL 32839	Orlando	FL	32839
+0729	5	132 SW Third Ave	Portland, OR 97204-2705	Portland	OR	97204-2705
+0730	5	1014 SW Stark St	Portland, OR 97205	Portland	OR	97205
+0731	5	3226 SE Division St	Portland, OR 97202	Portland	OR	97202
+0732	5	200 NE 28th Ave	Portland, OR 97232	Portland	OR	97232
+0733	5	10 SE Seventh Ave	Portland, OR 97214	Portland	OR	97214
+0734	5	701 NW 23rd Ave	Portland, OR 97210	Portland	OR	97210
+0735	5	900 Northwest 11th Avenue	Portland, OR 97209	Portland	OR	97209
+0736	5	1713 NE 15th	Portland, OR 97212	Portland	OR	97212
+0737	5	3901 N Williams Ave	Portland, OR 97227	Portland	OR	97227
+0738	5	25 NW 11th Ave	Portland, OR 97209	Portland	OR	97209
+0739	5	2824 East Indian School Road	Phoenix, AZ 85016	Phoenix	AZ	85016
+0740	5	4142 E Chandler Blvd	Phoenix, AZ 85044	Phoenix	AZ	85044
+0741	5	1326 North Central Ave.	Phoenix, AZ 85004	Phoenix	AZ	85004
+0742	5	3939 E Campbell Ave	Phoenix, AZ 85018	Phoenix	AZ	85018
+0743	5	4130 N 19th Ave	Phoenix, AZ 85015-5104	Phoenix	AZ	85015-5104
+0744	5	7000 E Mayo	Phoenix, AZ 85054	Phoenix	AZ	85054
+0745	5	2812 E Thomas Rd	Phoenix, AZ 85016-8010	Phoenix	AZ	85016-8010
+0746	5	5220 N. 16th St.	Phoenix, AZ 85016	Phoenix	AZ	85016
+0747	5	7000 E Mayo Blvd.	Phoenix, AZ 85054	Phoenix	AZ	85054
+0748	5	3668 West Anthem Way	Phoenix, AZ 85086	Phoenix	AZ	85086
+0749	5	2221 Greenville Ave	Dallas, TX 75206	Dallas	TX	75206
+0750	5	2912 N Henderson Ave	Dallas, TX 75206	Dallas	TX	75206
+0751	5	5100 Belt Line Rd.	Dallas, TX 75240	Dallas	TX	75240
+0752	5	6130 Luther Lane	Dallas, TX 75225	Dallas	TX	75225
+0753	5	4154 N Central Expy	Dallas, TX 75204	Dallas	TX	75204
+0754	6	7639 Campbell Rd.	# 800	Dallas, TX 75249	Dallas	TX	75249
+0755	5	2211 North Houston Street	Dallas, TX 75219	Dallas	TX	75219
+0756	5	18323 Dallas Pkwy	Dallas, TX 75287	Dallas	TX	75287
+0757	5	14854 Montfort Dr	Dallas, TX 75254-7518	Dallas	TX	75254-7518
+0758	5	702 Ross Ave	Dallas, TX 75202	Dallas	TX	75202
+0759	6	2017 Emmons Ave	Sheepshead Bay	Brooklyn, NY 11235	Brooklyn	NY	11235
+0760	5	135 N Fifth St	Brooklyn, NY 11211	Brooklyn	NY	11211
+0761	5	276 Court St	Brooklyn, NY 11231	Brooklyn	NY	11231
+0762	5	7414 5TH Ave	Brooklyn, NY 11209-2704	Brooklyn	NY	11209-2704
+0763	5	2016 P St. NW	Washington DC, DC 20036	Washington DC	DC	20036
+0764	5	415 New Jersey Ave., NW	Washington DC, DC 20001	Washington DC	DC	20001
+0765	5	3206 N Street, NW	Washington DC, DC 20007	Washington DC	DC	20007
+0766	5	3124-28 M St NW	Washington DC, DC 20007	Washington DC	DC	20007
+0767	4	465 K Street NW	Washington DC, DC	Washington DC	DC
+0768	4	915 E Street, NW	Washington DC, DC	Washington DC	DC
+0769	5	775 G Street, NW	Washington DC, DC 20001	Washington DC	DC	20001
+0770	5	1225 19th St. NW	Washington DC, DC 20036-2411	Washington DC	DC	20036-2411
+0771	4	4300 Connecticut NW	Washington DC, DC	Washington DC	DC
+0772	6	1834 Wisconsin Ave. NW	Georgetown Hill Inn	Washington DC, DC 20007	Washington DC	DC	20007
+0773	5	3512 Connecticut Ave. NW, #14	Washington DC, DC 20008	Washington DC	DC	20008
+0774	5	1847 Columbia Road	Washington DC, DC 20009	Washington DC	DC	20009
+0775	5	5349 Ballantyne Commons Pkwy	Charlotte, NC 28277	Charlotte	NC	28277
+0776	5	1936 E 7th St	Charlotte, NC 28204	Charlotte	NC	28204
+0777	5	7828 REA Rd Ste F	Charlotte, NC 28277-6550	Charlotte	NC	28277-6550
+0778	5	512 N Tryon St	Charlotte, NC 28202	Charlotte	NC	28202
+0779	5	8400 Bellhaven Blvd Ste H	Charlotte, NC 28216-6100	Charlotte	NC	28216-6100
+0780	6	1315 East Boulevard	Suite 130	Charlotte, NC 28203	Charlotte	NC	28203
+0781	5	301 S Tryon St Ste 55	Charlotte, NC 28282-1945	Charlotte	NC	28282-1945
+0782	5	2424 N. Davidson St.	Charlotte, NC 28205	Charlotte	NC	28205
+0783	5	377 Keahole St Ste C3	Honolulu, Oahu, HI 96825	Honolulu	HI	96825
+0784	5	4211 Waialae Ave E-1	Honolulu, Oahu, HI 96816	Honolulu	HI	96816
+0785	5	1170 Nuuanu Avenue	Honolulu, Oahu, HI 96817	Honolulu	HI	96817
+0786	5	134 Kapahulu Ave	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0787	5	2490 Kalakaua Ave	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0788	4	1135 N Nimitz Hwy	Honolulu, Oahu, HI	Honolulu	HI
+0789	5	1427 Makaloa Street	Honolulu, Oahu, HI 96814	Honolulu	HI	96814
+0790	5	2255 Kalakaua Ave	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0791	5	2255 Kalakaua Ave	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+0792	5	3113 Mokihana St	Honolulu, Oahu, HI 96816	Honolulu	HI	96816
+0793	5	500 Grant St	Pittsburgh, PA 15219-2502	Pittsburgh	PA	15219-2502
+0794	5	1473 Banksville Rd	Pittsburgh, PA 15216-3365	Pittsburgh	PA	15216-3365
+0795	5	4729 Liberty Ave	Pittsburgh, PA 15224-2032	Pittsburgh	PA	15224-2032
+0796	5	4501 Steubenville Pike	Pittsburgh, PA 15205	Pittsburgh	PA	15205
+0797	5	301 Fifth Avenue	Pittsburgh, PA 15224	Pittsburgh	PA	15224
+0798	5	253 Atwood St	Pittsburgh, PA 15213-4052	Pittsburgh	PA	15213-4052
+0799	5	630 Stanwix St	Pittsburgh, PA 15222	Pittsburgh	PA	15222
+0800	5	Four Gateway Center	Pittsburgh, PA 15222-1207	Pittsburgh	PA	15222-1207
+0801	5	5830 Ellsworth Ave Ste 100	Pittsburgh, PA 15232-1778	Pittsburgh	PA	15232-1778
+0802	5	925 Geyer Ave	Saint Louis, MO 63104	Saint Louis	MO	63104
+0803	5	32 Maryland Plaza	Saint Louis, MO 63108	Saint Louis	MO	63108
+0804	5	3210 S Grand Blvd	Saint Louis, MO 63118	Saint Louis	MO	63118
+0805	5	1811 Pestalozzi St	Saint Louis, MO 63118-1720	Saint Louis	MO	63118-1720
+0806	5	1057 Wolfrum Rd.	Saint Louis, MO 63304	Saint Louis	MO	63304
+0807	5	4071 S Grand Blvd	Saint Louis, MO 63118-3418	Saint Louis	MO	63118-3418
+0808	5	5201 Southwest Ave	Saint Louis, MO 63139-1400	Saint Louis	MO	63139-1400
+0809	5	7927 Forsyth Boulevard	Saint Louis, MO 63105	Saint Louis	MO	63105
+0810	5	3036 Madison Rd	Cincinnati, OH 45209-1751	Cincinnati	OH	45209-1751
+0811	5	50 Tri County Pkwy	Cincinnati, OH 45246	Cincinnati	OH	45246
+0812	5	313 Calhoun St	Cincinnati, OH 45219	Cincinnati	OH	45219
+0813	5	330 Walnut St	Cincinnati, OH 45202-4004	Cincinnati	OH	45202-4004
+0814	5	4579 Hamilton Avenue	Cincinnati, OH 45223	Cincinnati	OH	45223
+0815	5	4008 Glenway Ave	Cincinnati, OH 45205-1418	Cincinnati	OH	45205-1418
+0816	5	135 W Kemper Rd	Cincinnati, OH 45246-2511	Cincinnati	OH	45246-2511
+0817	5	165 Columbus City Ctr Dr	Columbus, OH 43215-5154	Columbus	OH	43215-5154
+0818	5	544 S Front St	Columbus, OH 43215	Columbus	OH	43215
+0819	5	3993 Easton Sta	Columbus, OH 43219	Columbus	OH	43219
+0820	5	2001 E Dublin Granville Rd	Columbus, OH 43229-3510	Columbus	OH	43229-3510
+0821	5	100 Granville St	Columbus, OH 43230	Columbus	OH	43230
+0822	5	2247 N High St	Columbus, OH 43201	Columbus	OH	43201
+0823	5	3415 E Broad St	Columbus, OH 43213-1000	Columbus	OH	43213-1000
+0824	5	2655 E Desert Inn Rd	Las Vegas, NV 89121-3618	Las Vegas	NV	89121-3618
+0825	6	3131 S. Las Vegas Blvd	Encore	Las Vegas, NV 89109	Las Vegas	NV	89109
+0826	5	3900 Paradise Rd.	Las Vegas, NV 89169	Las Vegas	NV	89169
+0827	5	3131 Las Vegas Boulevard South	at the Wynn Las Vegas	Las Vegas, NV	Las Vegas	NV
+0828	5	3500 las vegas Blvd. South	Las Vegas, NV 89109	Las Vegas	NV	89109
+0829	6	3600 Las Vegas Boulevard South	Bellagio Las Vegas	Las Vegas, NV 89109-4303	Las Vegas	NV	89109-4303
+0830	5	3475 Las Vegas Blvd S	Las Vegas, NV 89109-8922	Las Vegas	NV	89109-8922
+0831	6	3355 Las Vegas Blvd S	(at The Venetian Hotel & Casino)	Las Vegas, NV 89109-8941	Las Vegas	NV	89109-8941
+0832	5	3600 Las Vegas Boulevard South	Las Vegas, NV 89109	Las Vegas	NV	89109
+0833	5	7705 W Flagler St	Miami, FL 33144-2301	Miami	FL	33144-2301
+0834	5	9059 S Dixie Hwy	Miami, FL 33156	Miami	FL	33156
+0835	5	19501 Biscayne Blvd	Miami, FL 33180-2342	Miami	FL	33180-2342
+0836	5	16850 Collins Ave	Miami, FL 33160	Miami	FL	33160
+0837	5	10603 NW 12th St # 180	Miami, FL 33172	Miami	FL	33172
+0838	5	1511 SW 37TH Ave	Miami, FL 33145-1052	Miami	FL	33145-1052
+0839	5	130 N.E. 40th St.	Miami, FL 33137	Miami	FL	33137
+0840	5	8332 S Dixie Hwy	Miami, FL 33143-7714	Miami	FL	33143-7714
+0841	5	10712 SW 113TH Pl	Miami, FL 33176-3254	Miami	FL	33176-3254
+0842	6	South Beach	728 Ocean Drive	Miami, FL 33139	Miami	FL	33139
+0843	5	1757 NE 2nd Ave	Miami, FL 33132	Miami	FL	33132
+0844	5	4935 Nine Mile Rd	Richmond, VA 23223-5738	Richmond	VA	23223-5738
+0845	5	401 N Robinson St	Richmond, VA 23220-3323	Richmond	VA	23220-3323
+0846	5	4800 Forest Hill Ave	Richmond, VA 23225-3144	Richmond	VA	23225-3144
+0847	5	9115 Quioccasin Rd	Richmond, VA 23229-5423	Richmond	VA	23229-5423
+0848	5	1548 E Main St	Richmond, VA 23219-3650	Richmond	VA	23219-3650
+0849	5	10301 Jefferson Davis Highway	Richmond, VA 23237-3737	Richmond	VA	23237-3737
+0850	5	4820 Williamsburg Rd	Richmond, VA 23231	Richmond	VA	23231
+0851	5	805 N Davis Ave	Richmond, VA 23220-1907	Richmond	VA	23220-1907
+0852	5	4008 Glenside Dr	Richmond, VA 23228-4102	Richmond	VA	23228-4102
+0853	5	5704 Grove Ave	Richmond, VA 23226-2346	Richmond	VA	23226-2346
+0854	5	6400 Horsepen Rd	Richmond, VA 23226-2906	Richmond	VA	23226-2906
+0855	5	902 W Busch Blvd	Tampa, FL 33612-7765	Tampa	FL	33612-7765
+0856	5	1015 S Howard Ave	Tampa, FL 33606-2431	Tampa	FL	33606-2431
+0857	5	1610 W Swann Ave	Tampa, FL 33606	Tampa	FL	33606
+0858	5	2223 N Westshore Blvd	Tampa, FL 33607-1411	Tampa	FL	33607-1411
+0859	5	3915 HENDERSON BLVD	Tampa, FL 33629	Tampa	FL	33629
+0860	5	5503 West Spruce Street	Tampa, FL 33607	Tampa	FL	33607
+0861	5	3225 S. MacDill Ave	Tampa, FL 33629	Tampa	FL	33629
+0862	5	1700 N. Westshore Blvd.	Tampa, FL 33607	Tampa	FL	33607
+0863	5	1727 E 7th Ave	Tampa, FL 33605	Tampa	FL	33605
+0864	5	2708 E. Fowler Avenue	Tampa, FL 33612	Tampa	FL	33612
+0865	5	2205 N. Westshore Blvd	Tampa, FL 33607	Tampa	FL	33607
+0866	4	117 N. Jefferson Street	Milwaukee, WI	Milwaukee	WI
+0867	5	6030 W. North Avenue	Milwaukee, WI 53213	Milwaukee	WI	53213
+0868	5	3401 S 13th St	Milwaukee, WI 53215	Milwaukee	WI	53215
+0869	5	1422 E Brady Street	Milwaukee, WI 53202	Milwaukee	WI	53202
+0870	5	5067 S Howell Ave	Milwaukee, WI 53207	Milwaukee	WI	53207
+0871	5	1958-62 N Farwell Ave	Milwaukee, WI 53202	Milwaukee	WI	53202
+0872	5	945 Howe Avenue	Sacramento, CA 95825	Sacramento	CA	95825
+0873	5	537 Pavilions Ln	Sacramento, CA 95825	Sacramento	CA	95825
+0874	5	1716 L Street	Sacramento, CA 95811	Sacramento	CA	95811
+0875	5	2998 Freeport Blvd	Sacramento, CA 95818	Sacramento	CA	95818
+0876	5	4301 Truxel Rd	Sacramento, CA 95834	Sacramento	CA	95834
+0877	5	2598 Alta Arden Expressway	Sacramento, CA 95825	Sacramento	CA	95825
+0878	5	606 Washington Ave. SE	Minneapolis, MN 55414	Minneapolis	MN	55414
+0879	4	819 W. 50th St.	Minneapolis, MN	Minneapolis	MN
+0880	5	2424 University Ave NE	Minneapolis, MN 55418	Minneapolis	MN	55418
+0881	5	95 Merriam St	Minneapolis, MN 55401	Minneapolis	MN	55401
+0882	5	1300 Lagoon Ave S	Minneapolis, MN 55408	Minneapolis	MN	55408
+0883	5	414 CEDAR Ave S	Minneapolis, MN 55454-1033	Minneapolis	MN	55454-1033
+0884	5	2200 E. Franklin Ave	Minneapolis, MN 55404	Minneapolis	MN	55404
+0885	5	205 E Hennepin Ave	Minneapolis, MN 55414-1013	Minneapolis	MN	55414-1013
+0886	5	118 N 4th St	Minneapolis, MN 55401	Minneapolis	MN	55401
+0887	5	1320 Fourth St SE	Minneapolis, MN 55414-2029	Minneapolis	MN	55414-2029
+0888	5	2919 Hennepin Ave	Minneapolis, MN 55408-1909	Minneapolis	MN	55408-1909
+0889	5	1115 Second Avenue South	Minneapolis, MN 55403	Minneapolis	MN	55403
+0890	5	3401 Candelaria Rd NE Ste G	Albuquerque, NM 87107	Albuquerque	NM	87107
+0891	5	4703 Central Ave NW	Albuquerque, NM 87105	Albuquerque	NM	87105
+0892	5	5021 Pan American West Fwy	Albuquerque, NM 87109-2239	Albuquerque	NM	87109-2239
+0893	5	9780 Coors Blvd. NW, Suite A	Albuquerque, NM 87114	Albuquerque	NM	87114
+0894	5	106 Buena Vista Dr SE	Albuquerque, NM 87106	Albuquerque	NM	87106
+0895	5	2220 Louisiana Blvd NE	Albuquerque, NM 87110	Albuquerque	NM	87110
+0896	4	411 Central Avenue Northwest	Albuquerque, NM	Albuquerque	NM
+0897	5	1217 Eubank Blvd NE	Albuquerque, NM 87112	Albuquerque	NM	87112
+0898	5	510 Central Ave. SE	Albuquerque, NM 87102	Albuquerque	NM	87102
+0899	5	5901 Wyoming Blvd NE Ste X	Albuquerque, NM 87109	Albuquerque	NM	87109
+0900	5	3120 San Mateo Blvd. NE	Albuquerque, NM 87110	Albuquerque	NM	87110
+0901	5	1221 Story Rd	San Jose, CA 95122	San Jose	CA	95122
+0902	5	2082 N Capitol Ave	San Jose, CA 95132	San Jose	CA	95132
+0903	5	2077 Airport Blvd	San Jose, CA 95110	San Jose	CA	95110
+0904	4	1285 The Alameda	San Jose, CA	San Jose	CA
+0905	6	1583A Meridian Ave	Giant Plaza Shopping Center	San Jose, CA 95125	San Jose	CA	95125
+0906	5	90 Skyport Dr	San Jose, CA 95110	San Jose	CA	95110
+0907	5	925 Blossom Hill Rd	San Jose, CA 95123-1230	San Jose	CA	95123-1230
+0908	5	1001 Story Road, 2n Floor	San Jose, CA 95122	San Jose	CA	95122
+0909	5	15 S 1ST St	San Jose, CA 95113-2402	San Jose	CA	95113-2402
+0910	5	62 W Santa Clara St	San Jose, CA 95113	San Jose	CA	95113
+0911	5	2623 N Main St	Jacksonville, FL 32206-2945	Jacksonville	FL	32206-2945
+0912	5	5208 Ricker Rd	Jacksonville, FL 32210	Jacksonville	FL	32210
+0913	5	5624 Arlington Rd	Jacksonville, FL 32211	Jacksonville	FL	32211
+0914	5	7361 103rd Street	Jacksonville, FL 32210	Jacksonville	FL	32210
+0915	5	2220 County Road 210 West	Jacksonville, FL 32259	Jacksonville	FL	32259
+0916	5	7025 Salisbury Rd	Jacksonville, FL 32256-6952	Jacksonville	FL	32256-6952
+0917	5	1965 San Marco Blvd	Jacksonville, FL 32207	Jacksonville	FL	32207
+0918	5	4495 Roosevelt Blvd	Jacksonville, FL 32210	Jacksonville	FL	32210
+0919	5	2708 Park St	Jacksonville, FL 32205	Jacksonville	FL	32205
+0920	5	7643 Gate Pkwy	Jacksonville, FL 32256	Jacksonville	FL	32256
+0921	5	2105 Madison Ave Ste 1	Memphis, TN 38104	Memphis	TN	38104
+0922	5	5689 Quince Rd	Memphis, TN 38119-7017	Memphis	TN	38119-7017
+0923	5	4818 Summer Ave	Memphis, TN 38122	Memphis	TN	38122
+0924	5	2801 Bartlett Blvd	Memphis, TN 38134	Memphis	TN	38134
+0925	5	2126 Madison Ave	Memphis, TN 38104	Memphis	TN	38104
+0926	5	4724 Poplar Ave	Memphis, TN 38117	Memphis	TN	38117
+0927	5	138 S Second St	Philadelphia, PA 19106	Philadelphia	PA	19106
+0928	5	31 S. 18th St.	Philadelphia, PA 19103	Philadelphia	PA	19103
+0929	6	210 W Rittenhouse Sq	Rittenhouse Hotel	Philadelphia, PA 19103	Philadelphia	PA	19103
+0930	5	120 Lombard St	Philadelphia, PA 19147	Philadelphia	PA	19147
+0931	5	14 Snyder Ave	Philadelphia, PA 19148	Philadelphia	PA	19148
+0932	5	2604 E Somerset St	Philadelphia, PA 19134	Philadelphia	PA	19134
+0933	5	1602 Locust Street	Philadelphia, PA 19103-6305	Philadelphia	PA	19103-6305
+0934	4	277 South 18th Street	Philadelphia, PA	Philadelphia	PA
+0935	5	221 N 11th St	Philadelphia, PA 19107	Philadelphia	PA	19107
+0936	5	7839 Saint Charles Ave	New Orleans, LA 70118-3848	New Orleans	LA	70118-3848
+0937	5	3636 Saint Charles Ave	New Orleans, LA 70115	New Orleans	LA	70115
+0938	5	333 Saint Charles Ave	New Orleans, LA 70130	New Orleans	LA	70130
+0939	5	6215 S Miro St	New Orleans, LA 70125	New Orleans	LA	70125
+0940	5	1525 St. Charles Ave.	New Orleans, LA 70130	New Orleans	LA	70130
+0941	5	1923 S. Charles Avenue	New Orleans, LA 70130	New Orleans	LA	70130
+0942	5	1501 Saint Charles Ave	New Orleans, LA 70130-4445	New Orleans	LA	70130-4445
+0943	5	2985 E Skyline Dr	Tucson, AZ 85718	Tucson	AZ	85718
+0944	5	4500 E Speedway Blvd Ste 78	Tucson, AZ 85712-5318	Tucson	AZ	85712-5318
+0945	5	6751 E Broadway Blvd	Tucson, AZ 85710-2806	Tucson	AZ	85710-2806
+0946	5	7053 E Tanque Verde Rd	Tucson, AZ 85715-5311	Tucson	AZ	85715-5311
+0947	5	2950 N. Swan Road	Tucson, AZ 85712	Tucson	AZ	85712
+0948	5	8814 E Tanque Verde Rd	Tucson, AZ 85749-9607	Tucson	AZ	85749-9607
+0949	5	1918 Monroe Ave	Rochester, NY 14618	Rochester	NY	14618
+0950	5	2595 W Henrietta Rd	Rochester, NY 14623	Rochester	NY	14623
+0951	5	1425 Jefferson Rd	Rochester, NY 14623	Rochester	NY	14623
+0952	5	861 Fetzner Rd	Rochester, NY 14626	Rochester	NY	14626
+0953	5	489 South Ave	Rochester, NY 14620	Rochester	NY	14620
+0954	5	295 Alexander St	Rochester, NY 14607	Rochester	NY	14607
+0955	5	151 St. Paul Street	Rochester, NY 14604	Rochester	NY	14604
+0956	5	630 Monroe Ave	Rochester, NY 14607	Rochester	NY	14607
+0957	5	274 N. Goodman Street	Rochester, NY 14607	Rochester	NY	14607
+0958	5	274 Goodman St N	Rochester, NY 14607	Rochester	NY	14607
+0959	5	978 S 3Rd St	Louisville, KY 40203-2216	Louisville	KY	40203-2216
+0960	5	12003 Shelbyville Rd	Louisville, KY 40243	Louisville	KY	40243
+0961	5	1201 S 1ST St	Louisville, KY 40203-2805	Louisville	KY	40203-2805
+0962	5	2311 Frankfort Ave	Louisville, KY 40206-2409	Louisville	KY	40206-2409
+0963	5	318 Wallace Ave	Louisville, KY 40207	Louisville	KY	40207
+0964	5	9424 Shelbyville Road	Louisville, KY 40208	Louisville	KY	40208
+0965	4	2520 Music Valley Drive	Nashville, TN	Nashville	TN
+0966	5	1721 Church St	Nashville, TN 37203	Nashville	TN	37203
+0967	5	2739 Old Elm Hill Pike	Nashville, TN 37214	Nashville	TN	37214
+0968	5	15560 Old Hickory Blvd	Nashville, TN 37211-7330	Nashville	TN	37211-7330
+0969	5	2131 Bandywood Dr	Nashville, TN 37215	Nashville	TN	37215
+0970	5	3415 West End Ave	Nashville, TN 37203	Nashville	TN	37203
+0971	4	1515 Church Street	Nashville, TN	Nashville	TN
+0972	5	1605 George Dieter Dr Ste 202	El Paso, TX 79936	El Paso	TX	79936
+0973	5	255 Shadow Mountain Dr Ste B	El Paso, TX 79912-4714	El Paso	TX	79912-4714
+0974	5	8220 Gateway Blvd E	El Paso, TX 79907	El Paso	TX	79907
+0975	5	7410 Remcon Cir	El Paso, TX 79912	El Paso	TX	79912
+0976	5	6110 Gateway Blvd E	El Paso, TX 79905	El Paso	TX	79905
+0977	4	701 E. Yandell Dr	El Paso, TX	El Paso	TX
+0978	5	2223 W Colorado Ave	Colorado Springs, CO 80904	Colorado Springs	CO	80904
+0979	5	3878 Maizeland Rd	Colorado Springs, CO 80909	Colorado Springs	CO	80909
+0980	5	2848 N Powers Blvd	Colorado Springs, CO 80922	Colorado Springs	CO	80922
+0981	5	306 S 8TH St	Colorado Springs, CO 80905-1804	Colorado Springs	CO	80905-1804
+0982	5	3408 N Academy Blvd	Colorado Springs, CO 80917-5086	Colorado Springs	CO	80917-5086
+0983	5	513 N Academy Blvd	Colorado Springs, CO 80909-8300	Colorado Springs	CO	80909-8300
+0984	5	252 E Cheyenne Mountain Blvd	Colorado Springs, CO 80906-3720	Colorado Springs	CO	80906-3720
+0985	5	4785 Barnes Rd Ste F	Colorado Springs, CO 80917	Colorado Springs	CO	80917
+0986	5	239 N Academy Blvd	Colorado Springs, CO 80909-6603	Colorado Springs	CO	80909-6603
+0987	5	7815 N Academy Blvd	Colorado Springs, CO 80920	Colorado Springs	CO	80920
+0988	5	6318 Brookside Plz	Kansas City, MO 64113-1709	Kansas City	MO	64113-1709
+0989	5	6307 Brookside Plz	Kansas City, MO 64113-1708	Kansas City	MO	64113-1708
+0990	5	910 Southwest Blvd	Kansas City, MO 64108-2341	Kansas City	MO	64108-2341
+0991	4	5932 Prospect	Kansas City, MO	Kansas City	MO
+0992	4	1350 Walnut Street	Kansas City, MO	Kansas City	MO
+0993	5	200 East 25th Street, Suite 400	Kansas City, MO 64108	Kansas City	MO	64108
+0994	5	2010 S State St	Salt Lake City, UT 84115	Salt Lake City	UT	84115
+0995	5	1414 Foothill Blvd	Salt Lake City, UT 84108	Salt Lake City	UT	84108
+0996	5	1458 Foothill Dr	Salt Lake City, UT 84108-2342	Salt Lake City	UT	84108-2342
+0997	4	722 South State Street	Salt Lake City, UT	Salt Lake City	UT
+0998	5	1206 E 2100 S	Salt Lake City, UT 84106-2825	Salt Lake City	UT	84106-2825
+0999	5	1391 S 300 W	Salt Lake City, UT 84115-5136	Salt Lake City	UT	84115-5136
+1000	5	15 E South Temple	Salt Lake City, UT 84111	Salt Lake City	UT	84111
+1001	5	600 S 700 E Ste 189	Salt Lake City, UT 84102	Salt Lake City	UT	84102
+1002	5	3900 Atlantic Ave	Virginia Beach, VA 23451	Virginia Beach	VA	23451
+1003	5	3101 Piedmont Rd	Atlanta, GA 30303	Atlanta	GA	30303
+1004	5	4199 Paces Ferry Road NW	Atlanta, GA 30339	Atlanta	GA	30339
+1005	5	1782 Cheshire Bridge Rd NE	Atlanta, GA 30324	Atlanta	GA	30324
+1006	5	1811 Piedmont Ave NE	Atlanta, GA 30324-5214	Atlanta	GA	30324-5214
+1007	5	820 Ralph McGill Blvd	Atlanta, GA 30306	Atlanta	GA	30306
+1008	5	2637 Peachtree Rd NE	Atlanta, GA 30305	Atlanta	GA	30305
+1009	5	1620 Piedmont Ave.	Atlanta, GA 30324	Atlanta	GA	30324
+1010	5	961 Amsterdam Ave NE	Atlanta, GA 30306	Atlanta	GA	30306
+1011	5	3060 Peachtree Rd	Atlanta, GA 30305	Atlanta	GA	30305
+1012	6	2365 Kalakaua Avenue	The Moana Surfrider, A Westin Resort	Honolulu, Oahu, HI 96815Beach	Honolulu	HI	96815Beach
+1013	5	134 Kapahulu Avenue	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+1014	5	1133 N Nimitz Hwy	Honolulu, Oahu, HI 96817	Honolulu	HI	96817
+1015	5	15 N Robinson Ave	Oklahoma City, OK 73102-5400	Oklahoma City	OK	73102-5400
+1016	5	111 E California Ave	Oklahoma City, OK 73104	Oklahoma City	OK	73104
+1017	5	9622 N May Ave	Oklahoma City, OK 73120-2714	Oklahoma City	OK	73120-2714
+1018	5	6900 N. May Ave.	Oklahoma City, OK 73116	Oklahoma City	OK	73116
+1019	5	10712 N May Ave	Oklahoma City, OK 73120	Oklahoma City	OK	73120
+1020	5	1593 Niagara Falls Blvd	Buffalo, NY 14228	Buffalo	NY	14228
+1021	5	3545 Sheridan Dr	Buffalo, NY 14226-1629	Buffalo	NY	14226-1629
+1022	5	257 E Ferry St	Buffalo, NY 14208	Buffalo	NY	14208
+1023	5	2370 Seneca St	Buffalo, NY 14210-2624	Buffalo	NY	14210-2624
+1024	5	555 Elmwood Ave	Buffalo, NY 14222-1815	Buffalo	NY	14222-1815
+1025	5	62 Allen St	Buffalo, NY 14202	Buffalo	NY	14202
+1026	5	360 Palisades Blvd	Birmingham, AL 35209	Birmingham	AL	35209
+1027	5	4673 Hwy 280 S Ste 4	Birmingham, AL 35242-5086	Birmingham	AL	35242-5086
+1028	5	220 Oxmoor Rd	Birmingham, AL 35209	Birmingham	AL	35209
+1029	5	Patton Creek Pkwy	Birmingham, AL 35203	Birmingham	AL	35203
+1030	5	2007 University Blvd	Birmingham, AL 35233	Birmingham	AL	35233
+1031	5	7014 E. Camelback Road	Scottsdale, AZ 85251-1227	Scottsdale	AZ	85251-1227
+1032	5	7575 East Princess Drive	Fairmont Scottsdale Princess Hotel	Scottsdale, AZ	Scottsdale	AZ
+1033	5	16489 N Scottsdale Rd.	Scottsdale, AZ 85254	Scottsdale	AZ	85254
+1034	4	8752 E Shea Blvd	Scottsdale, AZ	Scottsdale	AZ
+1035	5	7014 E Camelback Rd Ste 553	Scottsdale, AZ 85251	Scottsdale	AZ	85251
+1036	5	8909 E Indian Bend RD	Scottsdale, AZ 85250-8504	Scottsdale	AZ	85250-8504
+1037	5	6000 East Camelback Road	Scottsdale, AZ 85251	Scottsdale	AZ	85251
+1038	5	6333 N Scottsdale Rd	Scottsdale, AZ 85250-5401	Scottsdale	AZ	85250-5401
+1039	5	7620 E Indian School Rd, Ste 103	Scottsdale, AZ 85251	Scottsdale	AZ	85251
+1040	5	3208 east 11th Street	Tulsa, OK 74104	Tulsa	OK	74104
+1041	5	2130 S Harvard Ave	Tulsa, OK 74114-1918	Tulsa	OK	74114-1918
+1042	5	3302 E 51st St	Tulsa, OK 74135	Tulsa	OK	74135
+1043	5	1520 E. 15th St	Tulsa, OK 74120	Tulsa	OK	74120
+1044	5	6027 S Sheridan Rd	Tulsa, OK 74145-9211	Tulsa	OK	74145-9211
+1045	5	7439 Six Forks Rd	Raleigh, NC 27615-6164	Raleigh	NC	27615-6164
+1046	5	10750 Wakefield Commons Dr Ste 101	Raleigh, NC 27614	Raleigh	NC	27614
+1047	5	707 Semart Dr	Raleigh, NC 27604-1158	Raleigh	NC	27604-1158
+1048	5	500 Daniels St	Raleigh, NC 27605	Raleigh	NC	27605
+1049	5	6309 Hillsborough St	Raleigh, NC 27606	Raleigh	NC	27606
+1050	5	3301 Capital Blvd	Raleigh, NC 27604-3339	Raleigh	NC	27604-3339
+1051	5	331 Blake St.	Raleigh, NC 27601	Raleigh	NC	27601
+1052	5	8515 Kingston Pike	Knoxville, TN 37919	Knoxville	TN	37919
+1053	5	2520 Loves Creek Rd	Knoxville, TN 37924	Knoxville	TN	37924
+1054	5	4211 Chapman Hwy	Knoxville, TN 37920-4259	Knoxville	TN	37920-4259
+1055	5	11001 Parkside Dr	Knoxville, TN 37922	Knoxville	TN	37922
+1056	5	113 North Peters Road	Knoxville, TN 37923-4908	Knoxville	TN	37923-4908
+1057	5	7117 Chapman Hwy	Knoxville, TN 37920	Knoxville	TN	37920
+1058	5	5614 Kingston Pike Ste 2	Knoxville, TN 37919	Knoxville	TN	37919
+1059	5	1930 N John Young Pkwy	Kissimmee, FL 34741	Kissimmee	FL	34741
+1060	5	2860 Florida Plz Blvd	Kissimmee, FL 34746	Kissimmee	FL	34746
+1061	5	7725 W Hwy 192	Kissimmee, FL 34746	Kissimmee	FL	34746
+1062	5	1111 E Vine St	Kissimmee, FL 34744	Kissimmee	FL	34744
+1063	5	926 Northeast 20th Avenue	Fort Lauderdale, FL 33304	Fort Lauderdale	FL	33304
+1064	5	4824 N Federal Hwy	Fort Lauderdale, FL 33308-4606	Fort Lauderdale	FL	33308-4606
+1065	5	1 Seminole Way	Fort Lauderdale, FL 33314	Fort Lauderdale	FL	33314
+1066	5	3936 Galt Ocean Dr	Fort Lauderdale, FL 33308	Fort Lauderdale	FL	33308
+1067	5	7887 E Central Ave	Wichita, KS 67206-2169	Wichita	KS	67206-2169
+1068	5	4600 W Kellogg Dr Ste 315	Wichita, KS 67209-2592	Wichita	KS	67209-2592
+1069	5	3213 N Toben St	Wichita, KS 67226	Wichita	KS	67226
+1070	5	6249 E 21st St N	Wichita, KS 67208	Wichita	KS	67208
+1071	5	505 Laurel St	San Diego, CA 92101	San Diego	CA	92101
+1072	5	544 Fifth Ave	San Diego, CA 92101	San Diego	CA	92101
+1073	5	1776 Sunset Cliffs Blvd	San Diego, CA 92107	San Diego	CA	92107
+1074	5	285 J St.	San Diego, CA 92101	San Diego	CA	92101
+1075	5	11880 Carmel Mountain Road	San Diego, CA 92128	San Diego	CA	92128
+1076	5	340 5th Ave	San Diego, CA 92101	San Diego	CA	92101
+1077	5	535 4th Avenue	San Diego, CA 92101	San Diego	CA	92101
+1078	5	7067 Friars Rd	San Diego, CA 92108	San Diego	CA	92108
+1079	5	4625 South Sherwood Forest Blvd.	Baton Rouge, LA 70816	Baton Rouge	LA	70816
+1080	5	3202 Sherwood Forest Blvd	Baton Rouge, LA 70816	Baton Rouge	LA	70816
+1081	5	6401 Bluebonnet Blvd Ste 1164	Baton Rouge, LA 70836-1164	Baton Rouge	LA	70836-1164
+1082	5	1109 Highland Rd	Baton Rouge, LA 70802-7515	Baton Rouge	LA	70802-7515
+1083	5	6606 Siegen Ln	Baton Rouge, LA 70809	Baton Rouge	LA	70809
+1084	5	1335 W Shields Ave	Fresno, CA 93705	Fresno	CA	93705
+1085	5	5789 N Palm Ave	Fresno, CA 93704	Fresno	CA	93704
+1086	5	2336 Tulare St	Fresno, CA 93721	Fresno	CA	93721
+1087	5	5104 N. West Ave.	Fresno, CA 93711	Fresno	CA	93711
+1088	5	3140 W. Shaw Avenue	Fresno, CA 93711	Fresno	CA	93711
+1089	5	783 E Barstow Ave Ste C	Fresno, CA 93710	Fresno	CA	93710
+1090	5	7010 N Marks Ave	Fresno, CA 93711	Fresno	CA	93711
+1091	5	690 E Nees Ave	Fresno, CA 93720	Fresno	CA	93720
+1092	5	745 N Salina St	Syracuse, NY 13208	Syracuse	NY	13208
+1093	5	426 N.Franklin Street	Syracuse, NY 13204	Syracuse	NY	13204
+1094	5	9760 Carousel Ctr	Syracuse, NY 13290	Syracuse	NY	13290
+1095	5	820 Danforth St	Syracuse, NY 13208	Syracuse	NY	13208
+1096	5	3612 Baldwin Ave	Makawao, Maui, HI 96768-9547	Makawao	HI	96768-9547
+1097	6	1215 S Kihei Road	Suite F	Kihei, Maui, HI 96753	Kihei	HI	96753
+1098	5	831 Front St	Lahaina, Maui, HI 96761-1607	Lahaina	HI	96761-1607
+1099	5	100 Wailea Ike Dr	Kihei, Maui, HI 96753	Kihei	HI	96753
+1100	5	505 Front St Ste 130	Lahaina, Maui, HI 96761-1172	Lahaina	HI	96761-1172
+1101	6	The Fairmont Kea Lani Maui	4100 Wailea Alanui	Kihei, Maui, HI 96753	Kihei	HI	96753
+1102	5	2288 Gunbarrel Rd Ste 101	Chattanooga, TN 37421	Chattanooga	TN	37421
+1103	5	224 Frazier Ave	Chattanooga, TN 37405-4048	Chattanooga	TN	37405-4048
+1104	4	301 Manufacturers Rd.	Chattanooga, TN	Chattanooga	TN
+1105	4	Amnicola Hwy	Chattanooga, TN	Chattanooga	TN
+1106	5	7025 Shallowford Rd	Chattanooga, TN 37421	Chattanooga	TN	37421
+1107	4	501 N. 13th Street	Omaha, NE	Omaha	NE
+1108	5	9229 Mormon Bridge Road	Omaha, NE 68152	Omaha	NE	68152
+1109	5	7010 Dodge St.	Omaha, NE 68132	Omaha	NE	68132
+1110	5	17330 W Ctr Rd Ste 106	Omaha, NE 68130-2392	Omaha	NE	68130-2392
+1111	5	1015 Farnam St.	Omaha, NE 68102	Omaha	NE	68102
+1112	4	48th and Dodge	Omaha, NE	Omaha	NE
+1113	5	3801 Ames Ave	Omaha, NE 68111-2236	Omaha	NE	68111-2236
+1114	5	1950 Seventh St W	Saint Paul, MN 55116-3203	Saint Paul	MN	55116-3203
+1115	5	425 7th St W	Saint Paul, MN 55102	Saint Paul	MN	55102
+1116	5	631 Snelling Ave S	Saint Paul, MN 55116-1529	Saint Paul	MN	55116-1529
+1117	5	694 Snelling Ave N	Saint Paul, MN 55104	Saint Paul	MN	55104
+1118	5	1562 Selby Ave	Saint Paul, MN 55104-6303	Saint Paul	MN	55104-6303
+1119	5	930 Raymond Ave	Saint Paul, MN 55114	Saint Paul	MN	55114
+1120	6	1000 Gramsie Rd.	Shoreview	Saint Paul, MN 55126	Saint Paul	MN	55126
+1121	5	1117 Savannah Hwy	Charleston, SC 29407	Charleston	SC	29407
+1122	5	851 Savannah Hwy	Charleston, SC 29407	Charleston	SC	29407
+1123	5	17 Lockwood Dr	Charleston, SC 29401	Charleston	SC	29401
+1124	5	364 King St	Charleston, SC 29401	Charleston	SC	29401
+1125	5	2526 E 29TH Ave	Spokane, WA 99223-4804	Spokane	WA	99223-4804
+1126	4	4221 S. Cheney Spokane Rd.	Spokane, WA	Spokane	WA
+1127	5	1003 E Trent Ave Ste 180	Spokane, WA 99202-2185	Spokane	WA	99202-2185
+1128	5	126 N Division St	Spokane, WA 99202	Spokane	WA	99202
+1129	5	4750 N Division St	Spokane, WA 99207	Spokane	WA	99207
+1130	5	607 W Spokane Falls Blvd	Spokane, WA 99201-0807	Spokane	WA	99201-0807
+1131	5	2819 N Division St	Spokane, WA 99207	Spokane	WA	99207
+1132	5	1425 W Lafayette Blvd	Detroit, MI 48216	Detroit	MI	48216
+1133	5	20353 W 7 Mile Rd	Detroit, MI 48219-3407	Detroit	MI	48219-3407
+1134	5	1435 Randolph	Detroit, MI 48226	Detroit	MI	48226
+1135	5	19419 Mack Avenue	Detroit, MI 48236	Detroit	MI	48236
+1136	5	612 Woodward Avenue	Detroit, MI 48226	Detroit	MI	48226
+1137	5	19143 Kelly Rd	Detroit, MI 48224-1009	Detroit	MI	48224-1009
+1138	5	70 West Paces Ferry	Atlanta, GA 30305	Atlanta	GA	30305
+1139	5	1812 Peachtree St NW	Atlanta, GA 30309	Atlanta	GA	30309
+1140	5	191 Peachtree Street	Atlanta, GA 30303	Atlanta	GA	30303
+1141	5	41 Fourteenth Street	Atlanta, GA 30309	Atlanta	GA	30309
+1142	5	3024 Peachtree Rd NW	Atlanta, GA 30305	Atlanta	GA	30305
+1143	5	415 Memorial Dr SE	Atlanta, GA 30312-2264	Atlanta	GA	30312-2264
+1144	5	250 Park Avenue West, Suite 104	Atlanta, GA 30313	Atlanta	GA	30313
+1145	5	235 N Lake St	Reno, NV 89501	Reno	NV	89501
+1146	5	2500 E 2nd St	Reno, NV 89502	Reno	NV	89502
+1147	5	7499 Longley Ln	Reno, NV 89511-1208	Reno	NV	89511-1208
+1148	5	5180 Kietzke Ln	Reno, NV 89511	Reno	NV	89511
+1149	5	1495 Ridgeview Suite 230	Reno, NV 89509	Reno	NV	89509
+1150	5	2355 US Hwy 41 N	Naples, FL 34104	Naples	FL	34104
+1151	5	# 1575 Pine Ridge Road, #9	Naples, FL 34109	Naples	FL	34109
+1152	5	3743 Tamiami Trl E	Naples, FL 34112-6215	Naples	FL	34112-6215
+1153	5	1205 Third St. South	Naples, FL 34102	Naples	FL	34102
+1154	5	2355 Vanderbilt Beach Road	Naples, FL 34109	Naples	FL	34109
+1155	6	1265 South Airport Rd	Unit 19	Naples, FL 34104	Naples	FL	34104
+1156	5	4270 Gulf Shore Blvd N	Naples, FL 34103-2208	Naples	FL	34103-2208
+1157	5	367 Saint Armands Cir.	Sarasota, FL 34236	Sarasota	FL	34236
+1158	4	5555 Palmer Crossing Circle	Sarasota, FL	Sarasota	FL
+1159	5	4290 Bee Rdg Rd	Sarasota, FL 34233-2563	Sarasota	FL	34233-2563
+1160	5	128 N Orange Ave	Sarasota, FL 34236	Sarasota	FL	34236
+1161	5	325 John Ringling Blvd	Sarasota, FL 34236-1320	Sarasota	FL	34236-1320
+1162	5	145 Wolf Rd	Albany, NY 12205-1150	Albany	NY	12205-1150
+1163	5	121 Madison Ave	Albany, NY 12202	Albany	NY	12202
+1164	5	556 Delaware Ave	Albany, NY 12209	Albany	NY	12209
+1165	6	1273 Central Ave	Suite 1	Albany, NY 12205-5269	Albany	NY	12205-5269
+1166	5	40 Stuyvesant Blvd Ste A	Albany, NY 12211	Albany	NY	12211
+1167	5	1095 Central Ave Ste A	Albany, NY 12205	Albany	NY	12205
+1168	5	331 Madison Ave	Albany, NY 12210	Albany	NY	12210
+1169	5	12111 W Markham St Suite 450	Little Rock, AR 72211	Little Rock	AR	72211
+1170	5	5923 Kavanaugh Blvd.	Little Rock, AR 72207	Little Rock	AR	72207
+1171	4	Shackleford	Little Rock, AR	Little Rock	AR
+1172	5	400 President Clinton Ave	Little Rock, AR 72201	Little Rock	AR	72201
+1173	4	107 Commerce Street	Little Rock, AR	Little Rock	AR
+1174	5	1023 W. Markham St.	Little Rock, AR 72201	Little Rock	AR	72201
+1175	5	3024 Cantrell Rd	Little Rock, AR 72202-2010	Little Rock	AR	72202-2010
+1176	5	5110 W Markham St	Little Rock, AR 72205	Little Rock	AR	72205
+1177	5	267 Thayer St	Providence, RI 02906	Providence	RI	02906
+1178	5	303 S Main St	Providence, RI 02903-2910	Providence	RI	02903-2910
+1179	6	286 Atwells Ave	Federal Hill	Providence, RI 02903-1530	Providence	RI	02903-1530
+1180	5	351 Atwells Ave	Providence, RI 02903-1443	Providence	RI	02903-1443
+1181	5	1041 Branch Ave	Providence, RI 02904-1004	Providence	RI	02904-1004
+1182	5	36 Exchange Terr.	Downtown	Providence, RI	Providence	RI
+1183	5	242 Broad St	Providence, RI 02903	Providence	RI	02903
+1184	5	228 Thayer St	Providence, RI 02906	Providence	RI	02906
+1185	5	2035 28th SE	Grand Rapids, MI 49508	Grand Rapids	MI	49508
+1186	5	1319 Fulton St E	Grand Rapids, MI 49503-3851	Grand Rapids	MI	49503-3851
+1187	5	4787 Lake Michigan Dr NW	Grand Rapids, MI 49544	Grand Rapids	MI	49544
+1188	5	3835 28TH St SE	Grand Rapids, MI 49512-1876	Grand Rapids	MI	49512-1876
+1189	5	3900 W Overland Rd	Boise, ID 83705	Boise	ID	83705
+1190	5	7070 Fairview Avenue	Boise, ID 83704	Boise	ID	83704
+1191	5	1201 S Vista Ave	Boise, ID 83705-2531	Boise	ID	83705-2531
+1192	4	36th Street & Hill Road	Boise, ID	Boise	ID
+1193	5	8840 W Fairview Ave	Boise, ID 83704	Boise	ID	83704
+1194	5	1520 North 13th Street	Boise, ID 83702	Boise	ID	83702
+1195	5	1512 N 13th St	Boise, ID 83702	Boise	ID	83702
+1196	5	5616 W State St	Boise, ID 83703	Boise	ID	83703
+1197	5	1140 N Military Hwy	Norfolk, VA 23502	Norfolk	VA	23502
+1198	5	5700 E Virginia Beach Blvd	Norfolk, VA 23502-2422	Norfolk	VA	23502-2422
+1199	5	2010 Colley Ave	Norfolk, VA 23517-1502	Norfolk	VA	23517-1502
+1200	5	3915 Broadway	Oakland, CA 94611	Oakland	CA	94611
+1201	5	5897 College Ave	Oakland, CA 94618-1602	Oakland	CA	94618-1602
+1202	5	303 Broadway	Oakland, CA 94607-3804	Oakland	CA	94607-3804
+1203	5	708 Franklin St	Oakland, CA 94607	Oakland	CA	94607
+1204	5	6106 LA Salle Ave	Oakland, CA 94611-2802	Oakland	CA	94611-2802
+1205	5	5422 College Ave	Oakland, CA 94618	Oakland	CA	94618
+1206	5	3411 E 12th St	Oakland, CA 94601	Oakland	CA	94601
+1207	5	3941 Piedmont Ave	Oakland, CA 94611-5351	Oakland	CA	94611-5351
+1208	5	446 E 12TH St	Oakland, CA 94606-2311	Oakland	CA	94606-2311
+1209	5	930 Webster St	Oakland, CA 94607-4222	Oakland	CA	94607-4222
+1210	5	4721 Telegraph Avenue	Oakland, CA 94609	Oakland	CA	94609
+1211	5	4239 Park Boulevard	Oakland, CA 94602	Oakland	CA	94602
+1212	5	1735 19th St	Denver, CO 80202-6001	Denver	CO	80202-6001
+1213	5	630 South Federal Blvd	Denver, CO 80219	Denver	CO	80219
+1214	5	1500 Curtis St	Denver, CO 80202-2343	Denver	CO	80202-2343
+1215	5	2129 Larimer Street	Denver, CO 80205	Denver	CO	80205
+1216	4	1600 Glenarm Place, Suite 140	Denver, CO	Denver	CO
+1217	5	2039 E 13th Ave	Denver, CO 80206-2003	Denver	CO	80206-2003
+1218	5	3010 Crossroads Dr.	Madison, WI 53718	Madison	WI	53718
+1219	5	410 E Wilson St	Madison, WI 53703-3429	Madison	WI	53703-3429
+1220	5	119 E Main St	Madison, WI 53703-3363	Madison	WI	53703-3363
+1221	4	127 N. Hamilton	Madison, WI	Madison	WI
+1222	4	106 King St	Madison, WI	Madison	WI
+1223	5	7952 Tree Ln	Madison, WI 53717-2011	Madison	WI	53717-2011
+1224	5	735 Massachusetts Ave	Cambridge, MA 02139	Cambridge	MA	02139
+1225	5	18 Eliot St	Cambridge, MA 02138-5706	Cambridge	MA	02138-5706
+1226	5	228 Broadway	Cambridge, MA 02139-1904	Cambridge	MA	02139-1904
+1227	5	14 Herbert St	Cambridge, MA 02140	Cambridge	MA	02140
+1228	5	143 Main St	Cambridge, MA 02142-1518	Cambridge	MA	02142-1518
+1229	5	1945 Massachusetts Ave	Cambridge, MA 02140-1405	Cambridge	MA	02140-1405
+1230	5	1759 Massachusetts Ave	Cambridge, MA 02140-2218	Cambridge	MA	02140-2218
+1231	5	500 Ocean Dr	Miami Beach, FL 33139-6616	Miami Beach	FL	33139-6616
+1232	5	2001 Collins Ave	Miami Beach, FL 33139	Miami Beach	FL	33139
+1233	5	1200 West Avenue	Miami Beach, FL 33139	Miami Beach	FL	33139
+1234	5	2201 Collins Ave	Miami Beach, FL 33139	Miami Beach	FL	33139
+1235	5	929 Washington Ave	Miami Beach, FL 33139-5015	Miami Beach	FL	33139-5015
+1236	5	919 Alton Rd	Miami Beach, FL 33139-5203	Miami Beach	FL	33139-5203
+1237	5	921 Washington Ave	Miami Beach, FL 33139	Miami Beach	FL	33139
+1238	5	710 Washington Ave	Miami Beach, FL 33139-6254	Miami Beach	FL	33139-6254
+1239	5	530 41st Street	Miami Beach, FL 33140-3510	Miami Beach	FL	33140-3510
+1240	5	956 Washington Ave	Miami Beach, FL 33139	Miami Beach	FL	33139
+1241	5	1637 Jefferson Ave	Miami Beach, FL 33139-7602	Miami Beach	FL	33139-7602
+1242	5	933 Normandy Dr	Miami Beach, FL 33141-2927	Miami Beach	FL	33141-2927
+1243	5	501 S. Federal Highway	Miami Beach, FL 33009	Miami Beach	FL	33009
+1244	4	235 14th Street	Miami Beach, FL	Miami Beach	FL
+1245	5	1052 Ocean Drive	Miami Beach, FL 33139-5014	Miami Beach	FL	33139-5014
+1246	4	736 Ocean Drive	Miami Beach, FL	Miami Beach	FL
+1247	5	4411 Devine St	Columbia, SC 29205	Columbia	SC	29205
+1248	5	4600 Devine St	Columbia, SC 29205-3616	Columbia	SC	29205-3616
+1249	5	4645 Broad River Road	Columbia, SC 29210	Columbia	SC	29210
+1250	5	813 Saint Andrews Rd	Columbia, SC 29210	Columbia	SC	29210
+1251	5	2800 Rosewood Dr	Columbia, SC 29205-3459	Columbia	SC	29205-3459
+1252	5	7427 37TH Ave	Flushing, NY 11372-6339	Flushing	NY	11372-6339
+1253	5	13515 37TH Ave	Flushing, NY 11354-4119	Flushing	NY	11354-4119
+1254	6	3717 Prince St	#A	Flushing, NY 11354	Flushing	NY	11354
+1255	4	929 S. Main Street	Greenville, SC	Greenville	SC
+1256	5	104 S Main St Ste 105	Greenville, SC 29601	Greenville	SC	29601
+1257	4	Augusta Rd.	Greenville, SC	Greenville	SC
+1258	5	34 S. main street	Greenville, SC 29601	Greenville	SC	29601
+1259	5	219 N Main St	Greenville, SC 29601	Greenville	SC	29601
+1260	5	2728 Wade Hampton Blvd Ste B	Greenville, SC 29615	Greenville	SC	29615
+1261	5	620 Congaree Road	Greenville, SC 29607	Greenville	SC	29607
+1262	5	1002 N Pleasantburg Dr	Greenville, SC 29607	Greenville	SC	29607
+1263	5	775 Haywood Road	Greenville, SC 29607	Greenville	SC	29607
+1264	5	1611 Augusta St	Greenville, SC 29605	Greenville	SC	29605
+1265	5	1629 W Bay Street	Savannah, GA 31415	Savannah	GA	31415
+1266	5	6707 Waters Avenue	Savannah, GA 31406	Savannah	GA	31406
+1267	6	202 West Saint Julian Street	City Market at Ellis Square	Savannah, GA 31401	Savannah	GA	31401
+1268	5	114 Barnard St	Savannah, GA 31401	Savannah	GA	31401
+1269	5	2419 Guess Rd	Durham, NC 27705	Durham	NC	27705
+1270	5	202 W Nc Highway 54	Durham, NC 27713	Durham	NC	27713
+1271	5	2816 Erwin Rd Suite 207	Durham, NC 27705	Durham	NC	27705
+1272	5	2103 Allendown Dr	Durham, NC 27713	Durham	NC	27713
+1273	5	754 9th Street	Durham, NC 27705	Durham	NC	27705
+1274	5	3500 Mount Moriah Rd	Durham, NC 27707-9015	Durham	NC	27707-9015
+1275	5	5850 Fayetteville Rd Ste 106	Durham, NC 27713	Durham	NC	27713
+1276	5	2330 W North Loop Blvd	Austin, TX 78756-2327	Austin	TX	78756-2327
+1277	5	300 Colorado St	Austin, TX 78701-3925	Austin	TX	78701-3925
+1278	5	1600 S Congress Ave	Austin, TX 78704	Austin	TX	78704
+1279	5	12001 Burnet Rd	Austin, TX 78758	Austin	TX	78758
+1280	5	6203 N Capital of Texas Hwy	Austin, TX 78731-1702	Austin	TX	78731-1702
+1281	5	807 W Sixth St	Austin, TX 78703	Austin	TX	78703
+1282	5	106 E Sixth St	Austin, TX 78701	Austin	TX	78701
+1283	5	400 Jessie Street	Austin, TX 78704	Austin	TX	78704
+1284	5	2444 Central Ave	St. Petersburg, FL 33712	St. Petersburg	FL	33712
+1285	6	4088 Park Street N	Lighthouse Point	St. Petersburg, FL 33709-4034	St. Petersburg	FL	33709-4034
+1286	5	1126 62ND Ave N	St. Petersburg, FL 33702-7422	St. Petersburg	FL	33702-7422
+1287	5	532 1st Ave N	St. Petersburg, FL 33701	St. Petersburg	FL	33701
+1288	5	2302 Tyrone Boulevard N.	St. Petersburg, FL 33710	St. Petersburg	FL	33710
+1289	5	6297 Central Avenue	St. Petersburg, FL 33701-3928	St. Petersburg	FL	33701-3928
+1290	5	4801 37th St. S.	St. Petersburg, FL 33711	St. Petersburg	FL	33711
+1291	4	300 38th Ave.	St. Petersburg, FL	St. Petersburg	FL
+1292	5	364 Azalea Rd	Mobile, AL 36609	Mobile	AL	36609
+1293	5	2101 Airport Blvd.	Mobile, AL 36604	Mobile	AL	36604
+1294	5	845 Schillinger Rd S	Mobile, AL 36695	Mobile	AL	36695
+1295	5	110 S Florida St	Mobile, AL 36606	Mobile	AL	36606
+1296	5	6255 Airport Blvd	Mobile, AL 36608	Mobile	AL	36608
+1297	5	75-1027 Henry St Ste 104	Kailua-Kona, Island of Hawaii, HI 96740-3154	Kailua-Kona	HI	96740-3154
+1298	5	65-1299 Kawaihae Rd	Kamuela, Island of Hawaii, HI 96743	Kamuela	HI	96743
+1299	5	1930 SE 14th St	Des Moines, IA 50320	Des Moines	IA	50320
+1300	5	5514 Douglas Avenue	Des Moines, IA 50310-1842	Des Moines	IA	50310-1842
+1301	5	2901 6th Ave	Des Moines, IA 50313	Des Moines	IA	50313
+1302	5	2558 Hubbell Ave	Des Moines, IA 50317-6102	Des Moines	IA	50317-6102
+1303	6	700 Grand Avenue	At Des Moines Marriott Downtown	Des Moines, IA 50309	Des Moines	IA	50309
+1304	5	2000 Mckinley Ave	Des Moines, IA 50315	Des Moines	IA	50315
+1305	5	2102 Shattuck Ave	Berkeley, CA 94704	Berkeley	CA	94704
+1306	5	2984 College Ave	Berkeley, CA 94705	Berkeley	CA	94705
+1307	5	2975 College Ave	Berkeley, CA 94705	Berkeley	CA	94705
+1308	5	2519 Durant Ave Ste B	Berkeley, CA 94704-1761	Berkeley	CA	94704-1761
+1309	5	1807 Euclid Ave	Berkeley, CA 94709-1317	Berkeley	CA	94709-1317
+1310	5	6030 SW 18th St	Boca Raton, FL 33433	Boca Raton	FL	33433
+1311	5	752 W Elliot Rd	Tempe, AZ 85282	Tempe	AZ	85282
+1312	5	1805 E Elliot Rd Ste 109	Tempe, AZ 85284	Tempe	AZ	85284
+1313	5	1831 E Baseline Rd	Tempe, AZ 85283-1501	Tempe	AZ	85283-1501
+1314	5	400 W University Dr	Tempe, AZ 85281-5543	Tempe	AZ	85281-5543
+1315	5	1825 E Guadalupe Rd # 110	Tempe, AZ 85283	Tempe	AZ	85283
+1316	5	1831 Columbia Ave	Lancaster, PA 17603	Lancaster	PA	17603
+1317	5	2002 Fruitville Pike	Lancaster, PA 17601	Lancaster	PA	17601
+1318	5	101 East King Street	Lancaster, PA 17602	Lancaster	PA	17602
+1319	5	2850 Iris Ave	Boulder, CO 80301	Boulder	CO	80301
+1320	5	2855 28th St	Boulder, CO 80301	Boulder	CO	80301
+1321	5	1647 Arapahoe Ave	Boulder, CO 80302	Boulder	CO	80302
+1322	5	1575 Folsom St	Boulder, CO 80302-6715	Boulder	CO	80302-6715
+1323	5	3325 28th St	Boulder, CO 80301	Boulder	CO	80301
+1324	5	1311 Broadway St	Boulder, CO 80302	Boulder	CO	80302
+1325	5	1345 28th St	Boulder, CO 80302	Boulder	CO	80302
+1326	5	2027 13th St	Boulder, CO 80302	Boulder	CO	80302
+1327	5	2731 Iris Ave	Boulder, CO 80304-2433	Boulder	CO	80304-2433
+1328	5	2721 Arapahoe Ave	Boulder, CO 80302-6713	Boulder	CO	80302-6713
+1329	5	1043 Pearl St	Boulder, CO 80302-5110	Boulder	CO	80302-5110
+1330	4	645 Ken Pratt Blvd.	Boulder, CO	Boulder	CO
+1331	5	4800 Baseline Rd Ste A110	Boulder, CO 80303-2643	Boulder	CO	80303-2643
+1332	5	1808 Blake St.	Denver, CO 80202	Denver	CO	80202
+1333	5	275 S Logan St	Denver, CO 80209	Denver	CO	80209
+1334	5	909 17th St	Denver, CO 80202	Denver	CO	80202
+1335	4	1513 Wynkoop St	Denver, CO	Denver	CO
+1336	5	1450 Larimer St	Denver, CO 80202	Denver	CO	80202
+1337	5	1530 16th St	Denver, CO 80202-1464	Denver	CO	80202-1464
+1338	5	711 Grant St	Denver, CO 80203	Denver	CO	80203
+1339	5	7720 Jones Maltsberger Rd	San Antonio, TX 78216-6993	San Antonio	TX	78216-6993
+1340	4	St. Mary's	San Antonio, TX	San Antonio	TX
+1341	5	328 E Josephine St	San Antonio, TX 78215-1127	San Antonio	TX	78215-1127
+1342	5	4223 Blanco Rd	San Antonio, TX 78212-1178	San Antonio	TX	78212-1178
+1343	4	200 East Grayson No. 100	San Antonio, TX	San Antonio	TX
+1344	5	16641 La Cantera Pkwy	San Antonio, TX 78256	San Antonio	TX	78256
+1345	5	7400 San Pedro Ave Ste 120	San Antonio, TX 78216	San Antonio	TX	78216
+1346	4	118 East 15th Street	New York City, NY	New York City	NY
+1347	5	50 Clinton St	New York City, NY 10002-2401	New York City	NY	10002-2401
+1348	5	151 E 58th	New York City, NY 10022	New York City	NY	10022
+1349	5	119 Macdougal St	New York City, NY 10012	New York City	NY	10012
+1350	5	9 Pell St	New York City, NY 10013-5134	New York City	NY	10013-5134
+1351	5	717 5th avenue	New York City, NY 10022	New York City	NY	10022
+1352	5	53W 19th St	New York City, NY 10011	New York City	NY	10011
+1353	5	864 N State St	Chicago, IL 60610-8691	Chicago	IL	60610-8691
+1354	5	415 N Dearborn St	Chicago, IL 60610	Chicago	IL	60610
+1355	5	2056 N Lincoln Park W	Chicago, IL 60614-4708	Chicago	IL	60614-4708
+1356	5	1901 N Halsted Ave	Chicago, IL 60614-5008	Chicago	IL	60614-5008
+1357	5	805 S. State Street	Chicago, IL 60605	Chicago	IL	60605
+1358	5	39 E Chicago Ave	Chicago, IL 60611	Chicago	IL	60611
+1359	5	215 E Ohio St	Chicago, IL 60611	Chicago	IL	60611
+1360	5	160 N Loomis St	Chicago, IL 60607	Chicago	IL	60607
+1361	5	404 S Figueroa St	Los Angeles, CA 90071	Los Angeles	CA	90071
+1362	5	911 N Seward St	Los Angeles, CA 90038	Los Angeles	CA	90038
+1363	5	211 23rd Ave	San Francisco, CA 94121-2008	San Francisco	CA	94121-2008
+1364	5	2400 Polk St	San Francisco, CA 94109	San Francisco	CA	94109
+1365	5	342 Howard St	San Francisco, CA 94105	San Francisco	CA	94105
+1366	5	83 Eddy Street	San Francisco, CA 94102	San Francisco	CA	94102
+1367	5	1600 Stockton St	San Francisco, CA 94133	San Francisco	CA	94133
+1368	5	3218 Mission St	San Francisco, CA 94110	San Francisco	CA	94110
+1369	5	5116 Geary Boulevard	San Francisco, CA 94118-2816	San Francisco	CA	94118-2816
+1370	5	715 Bush St	San Francisco, CA 94108-3402	San Francisco	CA	94108-3402
+1371	5	1475 Polk Street	San Francisco, CA 94109	San Francisco	CA	94109
+1372	5	445 Balboa St	San Francisco, CA 94118	San Francisco	CA	94118
+1373	5	1207 Union St	San Francisco, CA 94109	San Francisco	CA	94109
+1374	5	648 Bush St	San Francisco, CA 94108	San Francisco	CA	94108
+1375	5	760 Clay St	San Francisco, CA 94108-1808	San Francisco	CA	94108-1808
+1376	5	347 Geary St	San Francisco, CA 94102	San Francisco	CA	94102
+1377	5	1800 Mason St	San Francisco, CA 94133	San Francisco	CA	94133
+1378	4	5061 Westheimer Rd.	Houston, TX	Houston	TX
+1379	5	2515 S Loop W	Houston, TX 77054-2633	Houston	TX	77054-2633
+1380	5	318 Tuam	Houston, TX 77006	Houston	TX	77006
+1381	5	2621 Westpark Dr	Houston, TX 77098-5015	Houston	TX	77098-5015
+1382	5	318 Gray St	Houston, TX 77002-8526	Houston	TX	77002-8526
+1383	4	6855 Southwest Fwy	Houston, TX	Houston	TX
+1384	5	2441 University Blvd	Houston, TX 77005	Houston	TX	77005
+1385	5	955 1/2 Dairy Ashford St	Houston, TX 77079	Houston	TX	77079
+1386	5	99 Union Street	Seattle, WA 98101	Seattle	WA	98101
+1387	5	2260 First Ave S	Seattle, WA 98134-1408	Seattle	WA	98134-1408
+1388	5	400 Broad Street	Seattle, WA 98109	Seattle	WA	98109
+1389	5	1501 Western Avenue Suite 202	Seattle, WA 98101	Seattle	WA	98101
+1390	5	111 NE 45th St.	Seattle, WA 98105	Seattle	WA	98105
+1391	5	2411 2nd Avenue	Seattle, WA 98121	Seattle	WA	98121
+1392	5	215 James St	Seattle, WA 98104-2211	Seattle	WA	98104-2211
+1393	5	416 Broadway E	Seattle, WA 98102-5010	Seattle	WA	98102-5010
+1394	4	1115 Broadway E	Seattle, WA	Seattle	WA
+1395	5	5517 Roosevelt Way NE	Seattle, WA 98105	Seattle	WA	98105
+1396	5	156 Cambridge St	Boston, MA 02114	Boston	MA	02114
+1397	5	571 Tremont St.	Boston, MA 02118	Boston	MA	02118
+1398	5	1616 Commonwealth Ave	Boston, MA 02135-5001	Boston	MA	02135-5001
+1399	5	225 Northern Ave	Boston, MA 01810	Boston	MA	01810
+1400	5	177 Tremont St. (Boylston St.)	Boston, MA 02101	Boston	MA	02101
+1401	5	58 Hemenway St	Boston, MA 02115-2910	Boston	MA	02115-2910
+1402	5	1 Appleton Street	Boston, MA 02116	Boston	MA	02116
+1403	5	120 Huntington Ave	Boston, MA 02116	Boston	MA	02116
+1404	5	84 Beacon St	Boston, MA 02108-3496	Boston	MA	02108-3496
+1405	5	2411 SE Belmont St	Portland, OR 97214-2820	Portland	OR	97214-2820
+1406	5	1632 NW Thurman St	Portland, OR 97209	Portland	OR	97209
+1407	5	9111 SW Barbur Blvd	Portland, OR 97219	Portland	OR	97219
+1408	5	1325 NE Broadway St	Portland, OR 97232-1235	Portland	OR	97232-1235
+1409	5	6749 NE Sandy Blvd	Portland, OR 97213-5251	Portland	OR	97213-5251
+1410	5	2525 SE Clinton St	Portland, OR 97202	Portland	OR	97202
+1411	5	1135 NE M L King Blvd	Portland, OR 97232	Portland	OR	97232
+1412	5	226 NW Davis St	Portland, OR 97209	Portland	OR	97209
+1413	5	4321 W Flamingo Rd	Las Vegas, NV 89103	Las Vegas	NV	89103
+1414	5	4833 W Charleston Blvd	Las Vegas, NV 89146	Las Vegas	NV	89146
+1415	5	3411 Las Vegas Blvd S	Las Vegas, NV 89109-8955	Las Vegas	NV	89109-8955
+1416	5	6020 W. Flamingo Rd	Las Vegas, NV 89103	Las Vegas	NV	89103
+1417	5	6115 S Fort Apache Rd Ste 100	Las Vegas, NV 89148-6727	Las Vegas	NV	89148-6727
+1418	6	3730 Las Vegas Blvd S	Promenade level Aria Resort & Casino	Las Vegas, NV 89109	Las Vegas	NV	89109
+1419	5	6390 W Sahara Ave	Las Vegas, NV 89146-3050	Las Vegas	NV	89146-3050
+1420	5	3655 Las Vegas Blvd	Las Vegas, NV 89109	Las Vegas	NV	89109
+1421	5	834 Chestnut St	Philadelphia, PA 19107	Philadelphia	PA	19107
+1422	5	4365 Main St	Philadelphia, PA 19127	Philadelphia	PA	19127
+1423	5	219 S 17th St	Philadelphia, PA 19103-6316	Philadelphia	PA	19103-6316
+1424	5	1201 Filbert St.	Philadelphia, PA 19107-2818	Philadelphia	PA	19107-2818
+1425	5	527 Fairmount Ave	Philadelphia, PA 19123	Philadelphia	PA	19123
+1426	5	136 Chestnut St	Philadelphia, PA 19106	Philadelphia	PA	19106
+1427	5	2212 South St	Philadelphia, PA 19146	Philadelphia	PA	19146
+1428	5	1646 E Passyunk Ave	Philadelphia, PA 19148-1122	Philadelphia	PA	19148-1122
+1429	5	3636 Sansom St	Philadelphia, PA 19104	Philadelphia	PA	19104
+1430	5	1923 W 25TH St	Cleveland, OH 44113-3418	Cleveland	OH	44113-3418
+1431	5	2366 W 11th St	Cleveland, OH 44113-3678	Cleveland	OH	44113-3678
+1432	5	2785 Euclid Heights Blvd	Cleveland, OH 44106-2883	Cleveland	OH	44106-2883
+1433	5	6610 Euclid Ave	Cleveland, OH 44103-3912	Cleveland	OH	44103-3912
+1434	5	2179 W 11th St	Cleveland, OH 44113	Cleveland	OH	44113
+1435	5	824 W. Saint Clair Ave.	Cleveland, OH 44113	Cleveland	OH	44113
+1436	5	55 Public Sq	Cleveland, OH 44113-1901	Cleveland	OH	44113-1901
+1437	5	1276 W Sixth St	Cleveland, OH 44113-1351	Cleveland	OH	44113-1351
+1438	5	24 Public Sq	Cleveland, OH 44113-2213	Cleveland	OH	44113-2213
+1439	5	24265 Cedar Rd	Cleveland, OH 44124	Cleveland	OH	44124
+1440	5	1300 W 9th	Cleveland, OH 44113-1031	Cleveland	OH	44113-1031
+1441	5	2201 Kalakaua Ave Ste A305	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+1442	5	2752 Woodlawn Dr Ste 5-104	Honolulu, Oahu, HI 96822-1855	Honolulu	HI	96822-1855
+1443	5	2895 Kalakaua Ave	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+1444	5	745 Keeaumoku St	Honolulu, Oahu, HI 96814	Honolulu	HI	96814
+1445	5	1646 Kona St Ste B	Honolulu, Oahu, HI 96814	Honolulu	HI	96814
+1446	5	413 Kawailoa Rd	Kailua, Oahu, HI 96734-3134	Kailua	HI	96734-3134
+1447	5	3446 Waialae Ave	Honolulu, Oahu, HI 96816-2620	Honolulu	HI	96816-2620
+1448	5	4619 Convoy St.	San Diego, CA 92111	San Diego	CA	92111
+1449	5	1404 Vacation Rd	San Diego, CA 92109	San Diego	CA	92109
+1450	5	2000 Spindrift Dr.	San Diego, CA 92037	San Diego	CA	92037
+1451	5	4237 Alabama St	San Diego, CA 92104-1021	San Diego	CA	92104-1021
+1452	5	4050 Adams Ave	San Diego, CA 92116	San Diego	CA	92116
+1453	5	3831 Park Blvd	San Diego, CA 92103-3609	San Diego	CA	92103-3609
+1454	6	Travelodge Hotel	1201 Hotel Circle South	San Diego, CA 92108	San Diego	CA	92108
+1455	5	643 5th Ave	San Diego, CA 92101	San Diego	CA	92101
+1456	5	4474 Mission Blvd	San Diego, CA 92109-3920	San Diego	CA	92109-3920
+1457	5	1411 Dresden Drive, Suite 160	Atlanta, GA 30319	Atlanta	GA	30319
+1458	5	600 Ponce De Leon Ave NE	Atlanta, GA 30308	Atlanta	GA	30308
+1459	5	3280 Peachtree Road, NW #110	Atlanta, GA 30305	Atlanta	GA	30305
+1460	5	754 Peachtree Street	Atlanta, GA 30308	Atlanta	GA	30308
+1461	5	2225 Cheshire Bridge Rd NE	Atlanta, GA 30324-4234	Atlanta	GA	30324-4234
+1462	5	790 Ponce De Leon Ave NE	Atlanta, GA 30306-4330	Atlanta	GA	30306-4330
+1463	5	500 10th St NE	Atlanta, GA 30309	Atlanta	GA	30309
+1464	5	1026 1/2 N Highland Ave NE	Atlanta, GA 30306-3551	Atlanta	GA	30306-3551
+1465	5	62 Broad St NW	Atlanta, GA 30303-2323	Atlanta	GA	30303-2323
+1466	5	4974 Lowell Blvd.	Denver, CO 80221	Denver	CO	80221
+1467	5	1401 Larimer	Denver, CO 80202-1704	Denver	CO	80202-1704
+1468	5	3484 W 32nd Ave	Denver, CO 80211-3104	Denver	CO	80211-3104
+1469	5	3625 W 32nd Ave	Denver, CO 80211-3119	Denver	CO	80211-3119
+1470	5	4140 W 38th Ave	Denver, CO 80212	Denver	CO	80212
+1471	5	1575 Boulder St	Denver, CO 80211	Denver	CO	80211
+1472	5	2330 S Lamar Blvd	Austin, TX 78704	Austin	TX	78704
+1473	5	5808 Burleson Rd	Austin, TX 78744-1323	Austin	TX	78744-1323
+1474	5	3500 Guadalupe St	Austin, TX 78705-1336	Austin	TX	78705-1336
+1475	5	4109 S Capital Of Texas Hwy	Austin, TX 78704-7919	Austin	TX	78704-7919
+1476	5	1901 E Cesar Chavez St	Austin, TX 78702-4501	Austin	TX	78702-4501
+1477	5	1115 E. 11th Street	Austin, TX 78702	Austin	TX	78702
+1478	5	849 E Commerce	San Antonio, TX 78205	San Antonio	TX	78205
+1479	5	111 W Crockett St	San Antonio, TX 78205	San Antonio	TX	78205
+1480	5	16109 Nacogdoches Rd	San Antonio, TX 78247-1002	San Antonio	TX	78247-1002
+1481	4	Riverwalk	San Antonio, TX	San Antonio	TX
+1482	5	10820 Bandera Rd	San Antonio, TX 78250-6809	San Antonio	TX	78250-6809
+1483	5	4200 Broadway St	San Antonio, TX 78209-6317	San Antonio	TX	78209-6317
+1484	5	223 Losoya St	San Antonio, TX 78205	San Antonio	TX	78205
+1485	5	7300 Jones Maltsberger Rd	San Antonio, TX 78209-1870	San Antonio	TX	78209-1870
+1486	5	21 Brees Blvd	San Antonio, TX 78209-4001	San Antonio	TX	78209-4001
+1487	5	111 W Crockett St Ste 104	San Antonio, TX 78205	San Antonio	TX	78205
+1488	4	509 Palo Alto	San Antonio, TX	San Antonio	TX
+1489	5	7701 Broadway St	San Antonio, TX 78209-3231	San Antonio	TX	78209-3231
+1490	5	7708 Marbach Road	San Antonio, TX 78227	San Antonio	TX	78227
+1491	5	14490 Cedar Road	Cleveland, OH 44121-3313	Cleveland	OH	44121-3313
+1492	5	200 Public Sq	Cleveland, OH 44114-2316	Cleveland	OH	44114-2316
+1493	5	3365 Richmond Rd	Cleveland, OH 44122-4116	Cleveland	OH	44122-4116
+1494	5	1332 Carnegie Ave	Cleveland, OH 44115	Cleveland	OH	44115
+1495	5	839 SOM Ctr Rd	Cleveland, OH 44143-3524	Cleveland	OH	44143-3524
+1496	5	60 Severance Cir	Cleveland, OH 44118-1501	Cleveland	OH	44118-1501
+1497	4	1307 Auburn Ave	Cleveland, OH	Cleveland	OH
+1498	5	8602 Bancroft Ave	Cleveland, OH 44105-6680	Cleveland	OH	44105-6680
+1499	5	140 Public Sq	Cleveland, OH 44114-2227	Cleveland	OH	44114-2227
+1500	5	1992 Warrensville Center Rd	Cleveland, OH 44121	Cleveland	OH	44121
+1501	5	8220 Brookville Rd	Indianapolis, IN 46239	Indianapolis	IN	46239
+1502	5	2610 S Lynhurst Dr	Indianapolis, IN 46241-8629	Indianapolis	IN	46241-8629
+1503	5	6342 E 82ND St	Indianapolis, IN 46250-1529	Indianapolis	IN	46250-1529
+1504	4	1025 Virginia Ave	Indianapolis, IN	Indianapolis	IN
+1505	5	6815 E 82ND St	Indianapolis, IN 46250-1507	Indianapolis	IN	46250-1507
+1506	5	6288 East 82nd Street	Indianapolis, IN 46250-1549	Indianapolis	IN	46250-1549
+1507	5	1421 N Arlington Ave	Indianapolis, IN 46219	Indianapolis	IN	46219
+1508	5	148 S. Illinois St.	Indianapolis, IN 46204	Indianapolis	IN	46204
+1509	5	8810 S Emerson Ave	Indianapolis, IN 46237-8581	Indianapolis	IN	46237-8581
+1510	4	25 South High School Road	Indianapolis, IN	Indianapolis	IN
+1511	5	1401 East Clement Street	Baltimore, MD 21230-5205	Baltimore	MD	21230-5205
+1512	4	726 S. Broadway	Baltimore, MD	Baltimore	MD
+1513	5	904 N. Charles Street	Baltimore, MD 21201	Baltimore	MD	21201
+1514	5	300 S High St	Baltimore, MD 21202-4333	Baltimore	MD	21202-4333
+1515	5	618 S Exeter St	Baltimore, MD 21202	Baltimore	MD	21202
+1516	5	133 W North Ave	Baltimore, MD 21201	Baltimore	MD	21201
+1517	5	1719 Eastern Avenue	Baltimore, MD 21231	Baltimore	MD	21231
+1518	5	527 N Charles St	Baltimore, MD 21201	Baltimore	MD	21201
+1519	6	8031 Turkey Lake Road	#700	Orlando, FL 32819	Orlando	FL	32819
+1520	4	5320 S Kirkman Rd.	Orlando, FL	Orlando	FL
+1521	6	1640 East Buena Vista Drive	Lake Buena Vista	Orlando, FL 32830	Orlando	FL	32830
+1522	4	4151 Conroy Rd	Orlando, FL	Orlando	FL
+1523	5	621 E Central Blvd	Orlando, FL 32801	Orlando	FL	32801
+1524	5	7000 S. Kirkman Road	Orlando, FL 32819	Orlando	FL	32819
+1525	5	EPCOT Center, Walt Disney World	Orlando, FL 32830	Orlando	FL	32830
+1526	5	7536 Dr Phillips Blvd	Orlando, FL 32819	Orlando	FL	32819
+1527	5	6040 S Orange Blossom Trl	Orlando, FL 32809	Orlando	FL	32809
+1528	5	49 W Maryland St	Indianapolis, IN 46204	Indianapolis	IN	46204
+1529	5	401 E Michigan St	Indianapolis, IN 46204	Indianapolis	IN	46204
+1530	5	4911 N Pennsylvania St	Indianapolis, IN 46205-1034	Indianapolis	IN	46205-1034
+1531	4	339 Massachusetts Ave.	Indianapolis, IN	Indianapolis	IN
+1532	5	301 N Illinois St	Indianapolis, IN 46204-1277	Indianapolis	IN	46204-1277
+1533	4	8319 Michigan Rd	Indianapolis, IN	Indianapolis	IN
+1534	5	5012 E Van Buren St	Phoenix, AZ 85008-7007	Phoenix	AZ	85008-7007
+1535	5	2021 W Baseline Rd, Tempe, AZ	Phoenix, AZ 85044	Phoenix	AZ	85044
+1536	5	1044 E Camelback Rd	Phoenix, AZ 85014	Phoenix	AZ	85014
+1537	4	10625 N. Tatum Boulevard	Phoenix, AZ	Phoenix	AZ
+1538	5	1588 E Bethany Home Rd	Phoenix, AZ 85014-2434	Phoenix	AZ	85014-2434
+1539	5	10540 W Indian School Rd Ste 4	Phoenix, AZ 85037-5827	Phoenix	AZ	85037-5827
+1540	6	3626 E Ray Rd	Ahwatukee	Phoenix, AZ 85044	Phoenix	AZ	85044
+1541	5	16842 N 7th St., Ste 1	Phoenix, AZ 85022-2694	Phoenix	AZ	85022-2694
+1542	5	7126 N 35TH Ave	Phoenix, AZ 85051-8312	Phoenix	AZ	85051-8312
+1543	5	705 North 1st St, suite 110	Phoenix, AZ 85004	Phoenix	AZ	85004
+1544	5	3802 W Northwest Hwy	Dallas, TX 75220-5139	Dallas	TX	75220-5139
+1545	5	4416 W Lovers Ln	Dallas, TX 75209	Dallas	TX	75209
+1546	5	4301 Bryan St	Dallas, TX 75204-6751	Dallas	TX	75204-6751
+1547	5	7713 Inwood Rd	Dallas, TX 75209	Dallas	TX	75209
+1548	5	1800 South Akard	Dallas, TX 75215	Dallas	TX	75215
+1549	5	11654 Harry Hines	Dallas, TX 75229-2203	Dallas	TX	75229-2203
+1550	5	11617 North Central Expressway	Dallas, TX 75243	Dallas	TX	75243
+1551	5	5365 Spring Valley Rd Ste 138	Dallas, TX 75254-3003	Dallas	TX	75254-3003
+1552	5	1901 W Northwest Hwy	Dallas, TX 75220-2313	Dallas	TX	75220-2313
+1553	5	8442 Walnut Hill Ln	Dallas, TX 75231-3807	Dallas	TX	75231-3807
+1554	5	3011 Routh St	Dallas, TX 75201	Dallas	TX	75201
+1555	4	3699 McKinney	Dallas, TX	Dallas	TX
+1556	5	25 Lafayette Ave	Brooklyn, NY 11217-1413	Brooklyn	NY	11217-1413
+1557	5	72 Seventh Ave.	Brooklyn, NY 11217	Brooklyn	NY	11217
+1558	5	232 Vanderbilt Ave	Brooklyn, NY 11238	Brooklyn	NY	11238
+1559	5	295 5th Ave	Brooklyn, NY 11215	Brooklyn	NY	11215
+1560	5	63 Clinton St	Brooklyn, NY 11201	Brooklyn	NY	11201
+1561	4	188 5th Ave.	Brooklyn, NY	Brooklyn	NY
+1562	5	295 Berry Street	Brooklyn, NY 11211	Brooklyn	NY	11211
+1563	5	400 1ST St SE	Washington DC, DC 20003-1826	Washington DC	DC	20003-1826
+1564	5	2453 18th St NW	Washington DC, DC 20009	Washington DC	DC	20009
+1565	5	800 F St. NW	Washington DC, DC 20004	Washington DC	DC	20004
+1566	5	509 7TH St NW	Washington DC, DC 20004-1601	Washington DC	DC	20004-1601
+1567	5	4907 Wisconsin Ave. NW	Washington DC, DC 20016	Washington DC	DC	20016
+1568	5	2651 Connecticut Ave NW	Washington DC, DC 20008	Washington DC	DC	20008
+1569	5	214 N Tryon St	Charlotte, NC 28202	Charlotte	NC	28202
+1570	5	4707 South Blvd	Charlotte, NC 28217-2117	Charlotte	NC	28217-2117
+1571	5	3124 Eastway Dr Ste 510	Charlotte, NC 28205-5687	Charlotte	NC	28205-5687
+1572	5	517 University Center Blvd	Charlotte, NC 28262	Charlotte	NC	28262
+1573	5	3020 Prosperity Church Rd	Charlotte, NC 28269-7197	Charlotte	NC	28269-7197
+1574	5	225 East 6th Street	Charlotte, NC 28212	Charlotte	NC	28212
+1575	5	800 E Morehead St	Charlotte, NC 28202-2706	Charlotte	NC	28202-2706
+1576	5	5011 South Blvd	Charlotte, NC 28217	Charlotte	NC	28217
+1577	5	121 W Trade St	Charlotte, NC 28202	Charlotte	NC	28202
+1578	5	500 Ala Moana Blvd	Honolulu, Oahu, HI 96813	Honolulu	HI	96813
+1579	5	1145C 12th Ave	Honolulu, Oahu, HI 96816	Honolulu	HI	96816
+1580	5	1960 Kapiolani Blvd Ste 200	Honolulu, Oahu, HI 96826	Honolulu	HI	96826
+1581	6	1010 S King St.	Suite 108	Honolulu, Oahu, HI 96814-1700	Honolulu	HI	96814-1700
+1582	5	3106 Monsarrat Ave	Honolulu, Oahu, HI 96815	Honolulu	HI	96815
+1583	4	1010 University Ave	Honolulu, Oahu, HI	Honolulu	HI
+1584	5	238 Spahr St	Pittsburgh, PA 15232-1722	Pittsburgh	PA	15232-1722
+1585	5	110 Andrew Dr	Pittsburgh, PA 15275-1200	Pittsburgh	PA	15275-1200
+1586	5	655 Rodi Rd	Pittsburgh, PA 15235	Pittsburgh	PA	15235
+1587	5	2017 E Carson St	Pittsburgh, PA 15203-1916	Pittsburgh	PA	15203-1916
+1588	5	413 S Craig St	Pittsburgh, PA 15213-3708	Pittsburgh	PA	15213-3708
+1589	5	1082 Bower Hill Rd	Pittsburgh, PA 15243-1324	Pittsburgh	PA	15243-1324
+1590	5	5981 Baptist Rd	Pittsburgh, PA 15236	Pittsburgh	PA	15236
+1591	5	636 Washington Rd	Pittsburgh, PA 15228-1916	Pittsburgh	PA	15228-1916
+1592	5	25 Mcmurray Rd	Pittsburgh, PA 15241-1647	Pittsburgh	PA	15241-1647
+1593	5	721 N Second St	Saint Louis, MO 63102-2518	Saint Louis	MO	63102-2518
+1594	5	34 S Old Orchard Ave	Saint Louis, MO 63119	Saint Louis	MO	63119
+1595	5	1000 Hampton Ave	Saint Louis, MO 63139	Saint Louis	MO	63139
+1596	5	3427 S Kingshighway Blvd	Saint Louis, MO 63139-1201	Saint Louis	MO	63139-1201
+1597	5	6504 Delmar Blvd	Saint Louis, MO 63130	Saint Louis	MO	63130
+1598	5	28 Maryland Pz	Saint Louis, MO 63108	Saint Louis	MO	63108
+1599	5	711 Olive St	Saint Louis, MO 63101-2202	Saint Louis	MO	63101-2202
+1600	5	3939 Union Rd	Saint Louis, MO 63125-4322	Saint Louis	MO	63125-4322
+1601	5	392 N Euclid Ave	Saint Louis, MO 63108-1247	Saint Louis	MO	63108-1247
+1602	5	4663 Maryland Ave	Saint Louis, MO 63108	Saint Louis	MO	63108
+1603	5	4753 Mcpherson Ave	Saint Louis, MO 63108-1918	Saint Louis	MO	63108-1918
+1604	5	126 E 6th St	Cincinnati, OH 45202	Cincinnati	OH	45202
+1605	5	3215 Jefferson Avenue	Cincinnati, OH 45220-2216	Cincinnati	OH	45220-2216
+1606	5	11700 Princeton Pike	Cincinnati, OH 45246-2535	Cincinnati	OH	45246-2535
+1607	5	2673 Putz Pl	Cincinnati, OH 45211-2717	Cincinnati	OH	45211-2717
+1608	5	520 Vine Street	Cincinnati, OH 45202	Cincinnati	OH	45202
+1609	4	958 Pavilion Street	Cincinnati, OH	Cincinnati	OH
+1610	5	3443 Edwards Rd	Cincinnati, OH 45208-2123	Cincinnati	OH	45208-2123
+1611	5	19 East 7th Street	Cincinnati, OH 45202	Cincinnati	OH	45202
+1612	5	7370 Sawmill Rd	Columbus, OH 43235-1889	Columbus	OH	43235-1889
+1613	5	1550 W Ln Ave	Columbus, OH 43221-3921	Columbus	OH	43221-3921
+1614	5	265 W 11TH Ave	Columbus, OH 43201-2356	Columbus	OH	43201-2356
+1615	5	122 Hutchinson Ave	Columbus, OH 43235	Columbus	OH	43235
+1616	5	898 Mohawk St	Columbus, OH 43206	Columbus	OH	43206
+1617	5	7619 Huntington Park Dr	Columbus, OH 43235-5679	Columbus	OH	43235-5679
+1618	5	401 N. Front Street	Columbus, OH 43215	Columbus	OH	43215
+1619	5	1951 E Dublin Granville Rd	Columbus, OH 43229	Columbus	OH	43229
+1620	5	1319 Polaris Parkway	Columbus, OH 43240-2039	Columbus	OH	43240-2039
+1621	5	6501 Eastern Ave	Baltimore, MD 21224	Baltimore	MD	21224
+1622	5	2901 O'Donnell St	Baltimore, MD 21224-4821	Baltimore	MD	21224-4821
+1623	4	1002 Light St.	Baltimore, MD	Baltimore	MD
+1624	5	519 E Belvedere Ave	Baltimore, MD 21212	Baltimore	MD	21212
+1625	5	801 Eastern Ave	Baltimore, MD 21202-4321	Baltimore	MD	21202-4321
+1626	4	2 North Charles Street	Baltimore, MD	Baltimore	MD
+1627	5	1431 John St	Baltimore, MD 21217-4268	Baltimore	MD	21217-4268
+1628	5	3131 Eastern Ave	Baltimore, MD 21224-3904	Baltimore	MD	21224-3904
+1629	5	1800 Thames St	Baltimore, MD 21231	Baltimore	MD	21231
+1630	5	1019 E Lombard St	Baltimore, MD 21202-4505	Baltimore	MD	21202-4505
+1631	5	9796 SW Eighth St.	Miami, FL 33135	Miami	FL	33135
+1632	4	163 NE 39th St.	Miami, FL	Miami	FL
+1633	5	1510 SW 8TH St	Miami, FL 33135-5219	Miami	FL	33135-5219
+1634	5	8287 South Dixie Highway	Miami, FL 33143	Miami	FL	33143
+1635	5	1223 Lincoln Rd	Miami, FL 33139	Miami	FL	33139
+1636	5	10000 SW 56th St	Miami, FL 33165	Miami	FL	33165
+1637	5	1126 Westbriar Dr	Richmond, VA 23233	Richmond	VA	23233
+1638	5	4001 W Broad St	Richmond, VA 23230-3915	Richmond	VA	23230-3915
+1639	5	8978 Quioccasin Rd	Richmond, VA 23229-5535	Richmond	VA	23229-5535
+1640	5	1420 N Parham Rd	Richmond, VA 23229	Richmond	VA	23229
+1641	4	700 E. Broad Street	Richmond, VA	Richmond	VA
+1642	5	1213 Carmia Way	Richmond, VA 23235-4755	Richmond	VA	23235-4755
+1643	5	203 North Foushee	Richmond, VA 23220	Richmond	VA	23220
+1644	5	2743 Hungary Spring Rd	Richmond, VA 23294	Richmond	VA	23294
+1645	5	2600 W Main St	Richmond, VA 23220	Richmond	VA	23220
+1646	5	703 E Grace St	Richmond, VA 23219	Richmond	VA	23219
+1647	5	1100 W Main St	Richmond, VA 23220	Richmond	VA	23220
+1648	5	315 S Howard Ave	Tampa, FL 33606-1774	Tampa	FL	33606-1774
+1649	5	Neptune	Tampa, FL 33629	Tampa	FL	33629
+1650	5	201 W Platt St	Tampa, FL 33606-1838	Tampa	FL	33606-1838
+1651	5	8201 N Dale Mabry Hwy Ste A	Tampa, FL 33614	Tampa	FL	33614
+1652	5	615 Channelside Dr Ste 112	Tampa, FL 33602-5407	Tampa	FL	33602-5407
+1653	4	717 South Howard	Tampa, FL	Tampa	FL
+1654	5	10706 Countryway Blvd	Tampa, FL 33626	Tampa	FL	33626
+1655	5	3247 W Columbus Dr	Tampa, FL 33607-1852	Tampa	FL	33607-1852
+1656	5	1683 N Van Buren St	Milwaukee, WI 53202	Milwaukee	WI	53202
+1657	5	1935 N Water St	Milwaukee, WI 53202	Milwaukee	WI	53202
+1658	5	1041 N. Old World Third St.	Milwaukee, WI 53203	Milwaukee	WI	53203
+1659	4	6969 N Port Washington Rd	Milwaukee, WI	Milwaukee	WI
+1660	5	419 E Wells St	Milwaukee, WI 53202-3706	Milwaukee	WI	53202-3706
+1661	5	7630 W Good Hope Rd	Milwaukee, WI 53223-4514	Milwaukee	WI	53223-4514
+1662	5	500 N Water St	Milwaukee, WI 53202	Milwaukee	WI	53202
+1663	5	1233 E Brady St	Milwaukee, WI 53202-1602	Milwaukee	WI	53202-1602
+1664	5	555 N James Lovell St	Milwaukee, WI 53233-2401	Milwaukee	WI	53233-2401
+1665	5	2801 N Mayfair Rd	Milwaukee, WI 53222-4493	Milwaukee	WI	53222-4493
+1666	5	1000 N. Water Street	Milwaukee, WI 53202	Milwaukee	WI	53202
+1667	5	8491 Folsom Blvd	Sacramento, CA 95826-3515	Sacramento	CA	95826-3515
+1668	5	1804 J St	Sacramento, CA 95814	Sacramento	CA	95814
+1669	5	601 Munroe St	Sacramento, CA 95658-9360	Sacramento	CA	95658-9360
+1670	5	2001 J St	Sacramento, CA 95811-3119	Sacramento	CA	95811-3119
+1671	5	1910 "J" Street	Sacramento, CA 95814	Sacramento	CA	95814
+1672	5	2509 Broadway	Sacramento, CA 95818-2658	Sacramento	CA	95818-2658
+1673	5	1780 Challenge Way	Sacramento, CA 95815	Sacramento	CA	95815
+1674	5	1689 Arden Way	Sacramento, CA 95815	Sacramento	CA	95815
+1675	5	980 9th St	Sacramento, CA 95814	Sacramento	CA	95814
+1676	5	180 Otto Crcl.	Sacramento, CA 95822	Sacramento	CA	95822
+1677	4	8 E. 26th St.	Minneapolis, MN	Minneapolis	MN
+1678	5	5325 Lyndale Ave S	Minneapolis, MN 55419-1229	Minneapolis	MN	55419-1229
+1679	5	2308 W 50th St	Minneapolis, MN 55410	Minneapolis	MN	55410
+1680	5	3450 Lyndale Ave S	Minneapolis, MN 55408	Minneapolis	MN	55408
+1681	5	212 3rd Avenue North Suite 210	Minneapolis, MN 55401-1436	Minneapolis	MN	55401-1436
+1682	5	423 S. Main St	Nicollet Mall	Minneapolis, MN	Minneapolis	MN
+1683	4	2990 West River Pkwy.	Minneapolis, MN	Minneapolis	MN
+1684	5	359 13th Ave NE	Minneapolis, MN 55413	Minneapolis	MN	55413
+1685	5	1508 Wyoming Blvd NE Ste C	Albuquerque, NM 87112	Albuquerque	NM	87112
+1686	5	7001 San Antonio Dr NE Ste G	Albuquerque, NM 87109-4873	Albuquerque	NM	87109-4873
+1687	5	8032 4th St. NW	Albuquerque, NM 87104	Albuquerque	NM	87104
+1688	5	2240 Louisiana Blvd Ne	Albuquerque, NM 87110	Albuquerque	NM	87110
+1689	5	6217 Central Ave NW	Albuquerque, NM 87105	Albuquerque	NM	87105
+1690	5	2201 Silver Ave SE	Albuquerque, NM 87106-3532	Albuquerque	NM	87106-3532
+1691	5	150 S 1ST St Ste 115	San Jose, CA 95113-2605	San Jose	CA	95113-2605
+1692	5	374 S 1st St	San Jose, CA 95113	San Jose	CA	95113
+1693	5	65 N. San Pedro St.	San Jose, CA 95110	San Jose	CA	95110
+1694	5	185 Park Ave., 6th Fl.	San Jose, CA 95115	San Jose	CA	95115
+1695	5	1671 N Capitol Ave Ste 8	San Jose, CA 95132	San Jose	CA	95132
+1696	5	377 Santana Row	San Jose, CA 95128	San Jose	CA	95128
+1697	5	170 South Market Street	San Jose, CA 95113	San Jose	CA	95113
+1698	4	5899 Santa Teresa Blvd., Ste 101	San Jose, CA	San Jose	CA
+1699	5	9070 Merrill Rd	Jacksonville, FL 32225-4360	Jacksonville	FL	32225-4360
+1700	5	1631 Hendricks Ave	Jacksonville, FL 32207-3109	Jacksonville	FL	32207-3109
+1701	5	9465 Atlantic Blvd	Jacksonville, FL 32225-8233	Jacksonville	FL	32225-8233
+1702	5	530 State Road 13 Ste 3	Jacksonville, FL 32259	Jacksonville	FL	32259
+1703	5	12620 Beach Blvd Ste 19	Jacksonville, FL 32246-7130	Jacksonville	FL	32246-7130
+1704	5	11701 San Jose Blvd Ste 23	Jacksonville, FL 32223	Jacksonville	FL	32223
+1705	5	9551 Baymeadows Rd Ste 21	Jacksonville, FL 32256-7938	Jacksonville	FL	32256-7938
+1706	5	315 Beale St	Memphis, TN 38103	Memphis	TN	38103
+1707	5	2965 N Germantown Road	Memphis, TN 38133	Memphis	TN	38133
+1708	5	544 S Highland St	Memphis, TN 38111-4304	Memphis	TN	38111-4304
+1709	5	2105 Madison Ave	Memphis, TN 38104	Memphis	TN	38104
+1710	5	6069 Macon Cove	Memphis, TN 38134	Memphis	TN	38134
+1711	5	2946 Poplar Ave	Memphis, TN 38111-2706	Memphis	TN	38111-2706
+1712	5	1354 Madison Ave	Memphis, TN 38104	Memphis	TN	38104
+1713	5	539 S Highland Street	Memphis, TN 38111	Memphis	TN	38111
+1714	5	3588 Ridgeway Rd	Memphis, TN 38115	Memphis	TN	38115
+1715	6	1200 Epcot Resorts Blvd.	Walt Disney World Swan & Dolphin	Orlando, FL 32830	Orlando	FL	32830
+1716	5	1710 E Buena Vista Dr	Orlando, FL 32830	Orlando	FL	32830
+1717	5	Disney's Contemporary Resort, 4600 N World Dr	Orlando, FL 32830-8413	Orlando	FL	32830-8413
+1718	5	7830 W Sand Lake Rd	Orlando, FL 32819	Orlando	FL	32819
+1719	6	1676 East Buena Vista Dr.	Lake Buena Vista	Orlando, FL 32830	Orlando	FL	32830
+1720	5	1141 Decatur St	New Orleans, LA 70116-2605	New Orleans	LA	70116-2605
+1721	5	200 Poydras St	New Orleans, LA 70130	New Orleans	LA	70130
+1722	5	3800 Canal St	New Orleans, LA 70119	New Orleans	LA	70119
+1723	5	14207 Chef Menteur Hwy	New Orleans, LA 70129-2019	New Orleans	LA	70129-2019
+1724	5	208 Bourbon Street	New Orleans, LA 70130	New Orleans	LA	70130
+1725	5	3500 Magazine Street	New Orleans, LA 70115	New Orleans	LA	70115
+1726	5	5932 Magazine St	New Orleans, LA 70115-3221	New Orleans	LA	70115-3221
+1727	5	729 Conti St	New Orleans, LA 70130-2220	New Orleans	LA	70130-2220
+1728	5	6202 E Broadway Blvd	Tucson, AZ 85711-4008	Tucson	AZ	85711-4008
+1729	5	198 W Cushing St	Tucson, AZ 85701-2219	Tucson	AZ	85701-2219
+1730	5	1909 E Grant Rd	Tucson, AZ 85719-3408	Tucson	AZ	85719-3408
+1731	4	942 East University	Tucson, AZ	Tucson	AZ
+1732	5	3250 E Speedway Blvd	Tucson, AZ 85716	Tucson	AZ	85716
+1733	5	5870 E. Broadway, Suite 524	Tucson, AZ 85711	Tucson	AZ	85711
+1734	5	1225 Jefferson Rd	Rochester, NY 14623	Rochester	NY	14623
+1735	5	487 Monroe Ave	Rochester, NY 14607	Rochester	NY	14607
+1736	5	282 Alexander St	Rochester, NY 14607	Rochester	NY	14607
+1737	5	404 Empire Blvd	Rochester, NY 14609	Rochester	NY	14609
+1738	5	400 Jay Scutti Blvd	Rochester, NY 14623-2540	Rochester	NY	14623-2540
+1739	5	3349 Monroe Ave	Rochester, NY 14618-5513	Rochester	NY	14618-5513
+1740	5	798 Clinton Ave S	Rochester, NY 14620	Rochester	NY	14620
+1741	5	120 East Ave	Rochester, NY 14604	Rochester	NY	14604
+1742	5	532 Jefferson Rd	Rochester, NY 14623-3228	Rochester	NY	14623-3228
+1743	5	176 S. Goodman St.	Rochester, NY 14607	Rochester	NY	14607
+1744	5	956 Baxter Avenue	Louisville, KY 40204	Louisville	KY	40204
+1745	5	416 W Muhammad Ali Blvd	Louisville, KY 40202	Louisville	KY	40202
+1746	5	1702 Bardstown Rd	Louisville, KY 40205	Louisville	KY	40205
+1747	5	1573 Bardstown Rd	Louisville, KY 40205-1150	Louisville	KY	40205-1150
+1748	4	1153 Logan Street	Louisville, KY	Louisville	KY
+1749	5	970 S 3rd St	Louisville, KY 40203	Louisville	KY	40203
+1750	5	9498 Brownsboror Road	Louisville, KY 40241	Louisville	KY	40241
+1751	5	9120 Shelbyville Rd	Louisville, KY 40222	Louisville	KY	40222
+1752	5	2901 Brownsboro Road	Louisville, KY 40206	Louisville	KY	40206
+1753	5	429 Broadway	Nashville, TN 37203	Nashville	TN	37203
+1754	5	1041 Murfreesboro Pike	Nashville, TN 37217-1503	Nashville	TN	37217-1503
+1755	5	15 Arcade Building	Nashville, TN 37219	Nashville	TN	37219
+1756	5	110 21st Avenue South	Nashville, TN 37203	Nashville	TN	37203
+1757	5	1805 21st Ave S	Nashville, TN 37212-3705	Nashville	TN	37212-3705
+1758	5	1008 Woodland St	Nashville, TN 37206	Nashville	TN	37206
+1759	4	1330 Dickerson Pike	Nashville, TN	Nashville	TN
+1760	5	2450 Music Valley Dr	Nashville, TN 37214	Nashville	TN	37214
+1761	5	210 N 25th Ave	Nashville, TN 37203	Nashville	TN	37203
+1762	5	865 N Resler Dr	El Paso, TX 79912	El Paso	TX	79912
+1763	4	865 N Resler Dr, #K	El Paso, TX	El Paso	TX
+1764	4	9530 Viscount Blvd	El Paso, TX	El Paso	TX
+1765	5	2500 N. Mesa	El Paso, TX 79902	El Paso	TX	79902
+1766	5	7585 N Academy Blvd	Colorado Springs, CO 80920	Colorado Springs	CO	80920
+1767	5	4547 Austin Bluffs Pkwy	Colorado Springs, CO 80918	Colorado Springs	CO	80918
+1768	5	24 E Kiowa St	Colorado Springs, CO 80903	Colorado Springs	CO	80903
+1769	5	945 S 8TH St	Colorado Springs, CO 80906-1318	Colorado Springs	CO	80906-1318
+1770	5	215 Fontaine Blvd	Colorado Springs, CO 80911	Colorado Springs	CO	80911
+1771	5	908 N Circle Dr Ste A	Colorado Springs, CO 80909	Colorado Springs	CO	80909
+1772	5	6269 N Oak Trfy	Kansas City, MO 64118	Kansas City	MO	64118
+1773	5	1 East Pershing Road	Kansas City, MO 64108-2503	Kansas City	MO	64108-2503
+1774	5	7612 NW Prairie View Rd	Kansas City, MO 64151-1533	Kansas City	MO	64151-1533
+1775	5	1810 Baltimore Avenue	Kansas City, MO 64103	Kansas City	MO	64103
+1776	5	1022 Westport Rd	Kansas City, MO 64111-4040	Kansas City	MO	64111-4040
+1777	5	4112 Pennsylvania Ave Ste B	Kansas City, MO 64111	Kansas City	MO	64111
+1778	5	3250 S 700 E	Salt Lake City, UT 84106	Salt Lake City	UT	84106
+1779	5	202 W Broadway	Salt Lake City, UT 84101	Salt Lake City	UT	84101
+1780	5	481 E South Temple	Salt Lake City, UT 84101	Salt Lake City	UT	84101
+1781	5	865 E 900 S	Salt Lake City, UT 85105	Salt Lake City	UT	85105
+1782	5	7588 South Union Park Ave. ( 1300 East )	Salt Lake City, UT 84121	Salt Lake City	UT	84121
+1783	5	779 S 500 E	Salt Lake City, UT 84102	Salt Lake City	UT	84102
+1784	5	358 S 700 E Ste E	Salt Lake City, UT 84102	Salt Lake City	UT	84102
+1785	5	2000 Cir Of Hope Dr	Salt Lake City, UT 84112-5550	Salt Lake City	UT	84112-5550
+1786	5	928 Diamond Springs Rd	Virginia Beach, VA 23455	Virginia Beach	VA	23455
+1787	5	4300 Holland Rd	Virginia Beach, VA 23452	Virginia Beach	VA	23452
+1788	5	30th and Pacific Avenue	Virginia Beach, VA 23450	Virginia Beach	VA	23450
+1789	5	701 Atlantic Ave	Virginia Beach, VA 23451-3525	Virginia Beach	VA	23451-3525
+1790	5	2400 Elson Green Ave	Virginia Beach, VA 23456	Virginia Beach	VA	23456
+1791	5	3809 Princess Anne Rd	Virginia Beach, VA 23456	Virginia Beach	VA	23456
+1792	6	2137 Upton Drive	Suite 312	Virginia Beach, VA 23454	Virginia Beach	VA	23454
+1793	5	216 24TH St	Virginia Beach, VA 23451-3219	Virginia Beach	VA	23451-3219
+1794	5	3157 Virginia Beach Blvd	Virginia Beach, VA 23452-6927	Virginia Beach	VA	23452-6927
+1795	5	4816 Virginia Beach Blvd	Virginia Beach, VA 23462	Virginia Beach	VA	23462
+1796	5	1014 N Lamar Blvd Ste E	Austin, TX 78703	Austin	TX	78703
+1797	5	11570 Research Blvd	Austin, TX 78759-4036	Austin	TX	78759-4036
+1798	5	309 E. 3rd St., Ste. 100	Austin, TX 78701	Austin	TX	78701
+1799	5	510 Neches St	Austin, TX 78701	Austin	TX	78701
+1800	5	4700 West Guadalupe Ste 12	Austin, TX 78751	Austin	TX	78751
+1801	5	340 E 2nd St	Austin, TX 78701	Austin	TX	78701
+1802	5	303 Red River St	Austin, TX 78701	Austin	TX	78701
+1803	5	3509 Ranch Rd 620 N	Austin, TX 78734	Austin	TX	78734
+1804	5	1110 W Sixth St	Austin, TX 78703	Austin	TX	78703
+1805	5	11051 N Black Canyon Hwy	Phoenix, AZ 85029-4719	Phoenix	AZ	85029-4719
+1806	5	6933 North 7th St.	Phoenix, AZ 85014	Phoenix	AZ	85014
+1807	4	3146 East Camelback Road	Phoenix, AZ	Phoenix	AZ
+1808	5	4404 N Central Ave Ste 1	Phoenix, AZ 85012-1815	Phoenix	AZ	85012-1815
+1809	5	2201 N 7TH St	Phoenix, AZ 85006-1605	Phoenix	AZ	85006-1605
+1810	5	2805 W. Agua Fria Fwy.	Phoenix, AZ 85027	Phoenix	AZ	85027
+1811	5	4236 NW Expressway St Ste 120	Oklahoma City, OK 73116	Oklahoma City	OK	73116
+1812	5	101 E Sheridan Ave	Oklahoma City, OK 73104	Oklahoma City	OK	73104
+1813	5	2737 West Memorial Road	Oklahoma City, OK 73134	Oklahoma City	OK	73134
+1814	5	6241 NW Expwy St	Oklahoma City, OK 73132-5127	Oklahoma City	OK	73132-5127
+1815	5	1500 NW 23rd St	Oklahoma City, OK 73106	Oklahoma City	OK	73106
+1816	5	11921 N Pennsylvania Ave	Oklahoma City, OK 73120-7897	Oklahoma City	OK	73120-7897
+1817	5	477 Elmwood Ave	Buffalo, NY 14222	Buffalo	NY	14222
+1818	5	5 Perimeter Park South	Birmingham, AL 35243	Birmingham	AL	35243
+1819	5	3321 Lorna Rd Ste 3	Birmingham, AL 35216-5449	Birmingham	AL	35216-5449
+1820	5	1413 Montgomery Hwy Ste 101	Birmingham, AL 35216	Birmingham	AL	35216
+1821	5	1540 Montclair Rd	Birmingham, AL 35210	Birmingham	AL	35210
+1822	5	121 Oak Street	Birmingham, AL 35213	Birmingham	AL	35213
+1823	5	430 Greensprings Highway	Birmingham, AL 35209	Birmingham	AL	35209
+1824	5	2901 2ND Ave S	Birmingham, AL 35233-2900	Birmingham	AL	35233-2900
+1825	5	9393 N 90th St	Scottsdale, AZ 85258	Scottsdale	AZ	85258
+1826	6	Phoenician Boulevard	The Phoenician	Scottsdale, AZ 85251	Scottsdale	AZ	85251
+1827	5	5402 East Lincoln Drive	Scottsdale, AZ 85253	Scottsdale	AZ	85253
+1828	5	7144 East Stetson Drive	Scottsdale, AZ 85251	Scottsdale	AZ	85251
+1829	5	7210 E Second St	Scottsdale, AZ 85251-5602	Scottsdale	AZ	85251-5602
+1830	5	9069 E Indian Bend Rd	Scottsdale, AZ 85250	Scottsdale	AZ	85250
+1831	5	10135 E Via Linda	Scottsdale, AZ 85258	Scottsdale	AZ	85258
+1832	5	9343 E. Shea Blvd	Scottsdale, AZ 85260	Scottsdale	AZ	85260
+1833	4	4218 N Scottsdale Rd	Scottsdale, AZ	Scottsdale	AZ
+1834	4	7831 E 71 Street	Tulsa, OK	Tulsa	OK
+1835	5	3523 S Peoria	Tulsa, OK 74105	Tulsa	OK	74105
+1836	5	5629 E 41ST St	Tulsa, OK 74135-6010	Tulsa	OK	74135-6010
+1837	5	2003 S. 129th East Ave.	Tulsa, OK 74108-6711	Tulsa	OK	74108-6711
+1838	4	4107 S. Yale Avenue	Tulsa, OK	Tulsa	OK
+1839	6	6380 E 31ST St Ste M	Sheridan	Tulsa, OK 74135-5456	Tulsa	OK	74135-5456
+1840	5	401 Daniels St	Raleigh, NC 27605	Raleigh	NC	27605
+1841	5	306 E Hargett St	Raleigh, NC 27601-1436	Raleigh	NC	27601-1436
+1842	5	607 Glenwood Ave	Raleigh, NC 27603-1223	Raleigh	NC	27603-1223
+1843	5	5629 Creedmoor Rd	Raleigh, NC 27612	Raleigh	NC	27612
+1844	5	4325 Glenwood Ave	Raleigh, NC 27612	Raleigh	NC	27612
+1845	5	2900 Spring Forest Rd	Raleigh, NC 27616	Raleigh	NC	27616
+1846	5	2316 Hillsborough St Ste 102	Raleigh, NC 27607-7384	Raleigh	NC	27607-7384
+1847	5	6505 Falls Of Neuse Rd	Raleigh, NC 27615-6814	Raleigh	NC	27615-6814
+1848	5	2109 Avent Ferry Rd Ste 110	Raleigh, NC 27606-2137	Raleigh	NC	27606-2137
+1849	5	150 Fayetteville St.	Raleigh, NC 27601	Raleigh	NC	27601
+1850	5	8906 Kingston Pike	Knoxville, TN 37923	Knoxville	TN	37923
+1851	5	2204 Cumberland Ave	Knoxville, TN 37916-2812	Knoxville	TN	37916-2812
+1852	5	3700 E Magnolia Ave	Knoxville, TN 37914	Knoxville	TN	37914
+1853	5	5222 N Broadway St	Knoxville, TN 37918	Knoxville	TN	37918
+1854	5	4861 Kingston Pike	Knoxville, TN 37919	Knoxville	TN	37919
+1855	5	7798 W Irlo Bronson Meml Hwy	Kissimmee, FL 34747-1734	Kissimmee	FL	34747-1734
+1856	5	715 E Vine St	Kissimmee, FL 34744	Kissimmee	FL	34744
+1857	5	1107 Bryan St	Kissimmee, FL 34741	Kissimmee	FL	34741
+1858	5	3160 Vineland Rd	Kissimmee, FL 34746	Kissimmee	FL	34746
+1859	5	5305 W Irlo Bronson Memorial Hwy	Kissimmee, FL 34746	Kissimmee	FL	34746
+1860	5	5033 W Irlo Bronson Memorial Hwy	Kissimmee, FL 34747	Kissimmee	FL	34747
+1861	5	619 N Fort Lauderdale Beach Blvd	Fort Lauderdale, FL 33304	Fort Lauderdale	FL	33304
+1862	5	300 SW 1st Ave,#109	Fort Lauderdale, FL 33301-1846	Fort Lauderdale	FL	33301-1846
+1863	5	911 SUNRISE LN	Fort Lauderdale, FL 33304	Fort Lauderdale	FL	33304
+1864	5	1850 SE 17th St Causeway	Fort Lauderdale, FL 33316	Fort Lauderdale	FL	33316
+1865	5	2823 East Oakland Park Boulevard	Fort Lauderdale, FL 33306	Fort Lauderdale	FL	33306
+1866	5	5825 W Central Ave	Wichita, KS 67212-2839	Wichita	KS	67212-2839
+1867	5	519 S Broadway St	Wichita, KS 67202	Wichita	KS	67202
+1868	5	1815 S Broadway St	Wichita, KS 67211	Wichita	KS	67211
+1869	4	5905 W. Kellog Dr.	Wichita, KS	Wichita	KS
+1870	5	4217 Oak Lawn Ave	Dallas, TX 75219	Dallas	TX	75219
+1871	4	4001 Maple Avenue	Dallas, TX	Dallas	TX
+1872	5	6047 Lewis St	Dallas, TX 75206-7979	Dallas	TX	75206-7979
+1873	5	2840 E Ledbetter Dr	Dallas, TX 75216	Dallas	TX	75216
+1874	5	7879 Spring Valley Rd.	Dallas, TX 75240-2841	Dallas	TX	75240-2841
+1875	5	5251 Spring Valley Rd	Dallas, TX 75254	Dallas	TX	75254
+1876	5	4501 Travis St	Dallas, TX 75205	Dallas	TX	75205
+1877	5	600 N Akard St	Dallas, TX 75201	Dallas	TX	75201
+1878	6	6617 Hillcrest Ave.	Snider Plaza	Dallas, TX 75205	Dallas	TX	75205
+1879	5	7838 Airline Hwy	Baton Rouge, LA 70815-8195	Baton Rouge	LA	70815-8195
+1880	4	3723 Government Street	Baton Rouge, LA	Baton Rouge	LA
+1881	5	9431 Delcourt Ave	Baton Rouge, LA 70815	Baton Rouge	LA	70815
+1882	5	9655 Perkins Rd	Baton Rouge, LA 70810	Baton Rouge	LA	70810
+1883	5	7060 Siegen Ln	Baton Rouge, LA 70809-4531	Baton Rouge	LA	70809-4531
+1884	5	4215 S Sherwood Forest Blvd #1	Baton Rouge, LA 70816-4323	Baton Rouge	LA	70816-4323
+1885	5	8322 Bluebonnet Blvd	Baton Rouge, LA 70810-2825	Baton Rouge	LA	70810-2825
+1886	5	7524 Bluebonnet Boulevard	Baton Rouge, LA 70810	Baton Rouge	LA	70810
+1887	5	1784 W Bullard Ave	Fresno, CA 93711-2328	Fresno	CA	93711-2328
+1888	5	3844 N Blackstone Ave	Fresno, CA 93726	Fresno	CA	93726
+1889	5	1075 E Bullard Ave Suite 103	Fresno, CA 93710	Fresno	CA	93710
+1890	5	7855 North Palm Avenue	Fresno, CA 93711	Fresno	CA	93711
+1891	5	7959 N Blackstone Ave	Fresno, CA 93720	Fresno	CA	93720
+1892	5	3331 West Shaw Avenue	Fresno, CA 93711	Fresno	CA	93711
+1893	5	1333 Buckley Rd	Syracuse, NY 13212-4308	Syracuse	NY	13212-4308
+1894	5	2863 Erie Blvd E	Syracuse, NY 13224-1303	Syracuse	NY	13224-1303
+1895	5	4800 McDonald Rd	Syracuse, NY 13215	Syracuse	NY	13215
+1896	5	900 Front Street Space A-3	Lahaina, Maui, HI 96761-2335	Lahaina	HI	96761-2335
+1897	5	730 Front St	Lahaina, Maui, HI 96761-1532	Lahaina	HI	96761-1532
+1898	5	844 Front St.	Lahaina, Maui, HI 96761-1626	Lahaina	HI	96761-1626
+1899	5	1132 Lower Main St	Wailuku, Maui, HI 96793	Wailuku	HI	96793
+1900	5	93 Hana Hwy	Paia, Maui, HI 96779	Paia	HI	96779
+1901	5	1280 S Kihei Rd Ste 107	Kihei, Maui, HI 96753-8240	Kihei	HI	96753-8240
+1902	5	1770 South Kihei Road	Kihei, Maui, HI 96753-8215	Kihei	HI	96753-8215
+1903	5	291 Pi Ikea Ave.	Kihei, Maui, HI 96753	Kihei	HI	96753
+1904	5	2960 S Kihei Rd	Kihei, Maui, HI 96753-9602	Kihei	HI	96753-9602
+1905	5	828 Georgia Ave	Chattanooga, TN 37402	Chattanooga	TN	37402
+1906	5	4764 Highway 58	Chattanooga, TN 37416	Chattanooga	TN	37416
+1907	5	2134 Suck Creek Rd	Chattanooga, TN 37405	Chattanooga	TN	37405
+1908	5	414 Market St	Chattanooga, TN 37402	Chattanooga	TN	37402
+1909	5	14132 Arbor St	Omaha, NE 68144-2381	Omaha	NE	68144-2381
+1910	5	7923 Blondo St	Omaha, NE 68134-6611	Omaha	NE	68134-6611
+1911	5	3420 N 90th St	Omaha, NE 68134	Omaha	NE	68134
+1912	5	1620 S 10TH St	Omaha, NE 68108-3697	Omaha	NE	68108-3697
+1913	5	10150 California St	Omaha, NE 68114	Omaha	NE	68114
+1914	4	2101 N 120th St	Omaha, NE	Omaha	NE
+1915	5	7059 Dodge St	Omaha, NE 68132-2707	Omaha	NE	68132-2707
+1916	6	1314 S 119th St	South of 119th & Pacific	Omaha, NE 68144	Omaha	NE	68144
+1917	4	5413 S 72nd Street	Omaha, NE	Omaha	NE
+1918	5	7425 Dodge Street	Omaha, NE 68114	Omaha	NE	68114
+1919	5	8216 Grover St	Omaha, NE 68124-3336	Omaha	NE	68124-3336
+1920	5	995 W 7 St	Saint Paul, MN 55102	Saint Paul	MN	55102
+1921	5	767 Cleveland Ave S	Saint Paul, MN 55116-1348	Saint Paul	MN	55116-1348
+1922	5	761 Snelling Ave N	Saint Paul, MN 55104-2859	Saint Paul	MN	55104-2859
+1923	5	1333 Randolph Ave	Saint Paul, MN 55105-2957	Saint Paul	MN	55105-2957
+1924	5	1758 University Ave W	Saint Paul, MN 55104-3508	Saint Paul	MN	55104-3508
+1925	5	241 Seventh St E	Saint Paul, MN 55101-2346	Saint Paul	MN	55101-2346
+1926	5	56 6TH St E Ste 208	Saint Paul, MN 55101-1714	Saint Paul	MN	55101-1714
+1927	5	11 Kellogg Blvd E	Saint Paul, MN 55101-1005	Saint Paul	MN	55101-1005
+1928	5	1668 White Bear Ave N	Saint Paul, MN 55106	Saint Paul	MN	55106
+1929	5	1825 University Ave	Saint Paul, MN 55104	Saint Paul	MN	55104
+1930	5	2075 Snelling Ave N	Saint Paul, MN 55113	Saint Paul	MN	55113
+1931	5	1626 White Bear Ave.	Saint Paul, MN 55406	Saint Paul	MN	55406
+1932	5	1716 North Bridge Shopping Center	Charleston, SC 29407	Charleston	SC	29407
+1933	5	807 Folly Road	Charleston, SC 29412	Charleston	SC	29412
+1934	5	504 Folly Rd	Charleston, SC 29412-3002	Charleston	SC	29412-3002
+1935	5	18 Vendue Range	Charleston, SC 29401	Charleston	SC	29401
+1936	5	77 Wentworth St	Charleston, SC 29401-1427	Charleston	SC	29401-1427
+1937	5	350 King Street	Charleston, SC 29401	Charleston	SC	29401
+1938	5	40 N Market Street	Charleston, SC 29401	Charleston	SC	29401
+1939	5	808 Folly Rd	Charleston, SC 29412-3474	Charleston	SC	29412-3474
+1940	5	821 E Sharp Ave	Spokane, WA 99202-1934	Spokane	WA	99202-1934
+1941	5	6429 N Division St	Spokane, WA 99208	Spokane	WA	99208
+1942	5	1918 N Division St	Spokane, WA 99207	Spokane	WA	99207
+1943	5	245 W Spokane Falls Blvd	Spokane, WA 99201-0124	Spokane	WA	99201-0124
+1944	4	245 W Spokane Falls Blvd	Spokane, WA	Spokane	WA
+1945	5	12 E Olive Ave	Spokane, WA 99202-1661	Spokane	WA	99202-1661
+1946	5	4750 N Division St Ste 289	Spokane, WA 99207-1440	Spokane	WA	99207-1440
+1947	5	8424 Third Avenue	Brooklyn, NY 11209	Brooklyn	NY	11209
+1948	5	44 Henry St	Brooklyn, NY 11201-1385	Brooklyn	NY	11201-1385
+1949	5	177 Vanderbilt Ave	Brooklyn, NY 11205	Brooklyn	NY	11205
+1950	5	1310 Surf Avenue	Brooklyn, NY 11224-2497	Brooklyn	NY	11224-2497
+1951	5	495 Lorimer St	Brooklyn, NY 11211-3510	Brooklyn	NY	11211-3510
+1952	5	394 Broadway	Brooklyn, NY 11211-9408	Brooklyn	NY	11211-9408
+1953	5	278 Fifth Ave	Brooklyn, NY 11215	Brooklyn	NY	11215
+1954	5	86 5th Avenue	Brooklyn, NY 11217	Brooklyn	NY	11217
+1955	5	10580 N Mccarran Blvd Ste 102	Reno, NV 89503-1896	Reno	NV	89503-1896
+1956	5	2740 S Virginia St	Reno, NV 89502	Reno	NV	89502
+1957	5	680 N Wells Ave	Reno, NV 89512	Reno	NV	89512
+1958	5	565 W Moana Ln	Reno, NV 89509	Reno	NV	89509
+1959	5	55 W Arroyo St	Reno, NV 89509	Reno	NV	89509
+1960	5	91 W Plumb Ln	Reno, NV 89509-3414	Reno	NV	89509-3414
+1961	5	345 North Arlington Avenue	Second Floor	Reno, NV	Reno	NV
+1962	5	801 N Virginia St	Reno, NV 89501	Reno	NV	89501
+1963	6	13101 S Virginia St	Tamarack Junction Casino	Reno, NV 89511-8974	Reno	NV	89511-8974
+1964	5	853 5TH Ave S	Naples, FL 34102-6605	Naples	FL	34102-6605
+1965	5	75 Ninth Street South (US 41)	Naples, FL 34102	Naples	FL	34102
+1966	5	5975 Pine Rdg Rd EXT	Naples, FL 34119-3955	Naples	FL	34119-3955
+1967	4	Fifth Avenue South	Naples, FL	Naples	FL
+1968	6	1803 Tamiami Trail North	(also known as Ninth Street North)	Naples, FL 34102	Naples	FL	34102
+1969	5	3575 Bayshore Drive	Naples, FL 34112	Naples	FL	34112
+1970	5	3756 Tamiami Trl N	Naples, FL 34103-3707	Naples	FL	34103-3707
+1971	5	8793 Tamiami Trl E Ste 120	Naples, FL 34113-3324	Naples	FL	34113-3324
+1972	5	375 13TH Ave S	Naples, FL 34102-7230	Naples	FL	34102-7230
+1973	5	975 Imperial Gulf Course Blvd	Naples, FL 34110	Naples	FL	34110
+1974	5	4195 N Tamiami Trl	Sarasota, FL 34234	Sarasota	FL	34234
+1975	5	1316 Whitfield Ave	Sarasota, FL 34243	Sarasota	FL	34243
+1976	5	1420 Main St	Sarasota, FL 34236-5715	Sarasota	FL	34236-5715
+1977	5	15 S Blvd Of Presidents	Sarasota, FL 34236-1423	Sarasota	FL	34236-1423
+1978	5	5131 N Tamiami Trl	Sarasota, FL 34234-2741	Sarasota	FL	34234-2741
+1979	4	8126 Lakewood Main St.	Sarasota, FL	Sarasota	FL
+1980	5	5045 Ringwood Mdws	Sarasota, FL 34235-2035	Sarasota	FL	34235-2035
+1981	4	1558 Central Avenue	Albany, NY	Albany	NY
+1982	5	1619 CENTRAL AVE.	Albany, NY 12205	Albany	NY	12205
+1983	5	10700 N Rodney Parham Rd	Little Rock, AR 72212	Little Rock	AR	72212
+1984	5	10102 N Rodney Parham Rd Ste B	Little Rock, AR 72227	Little Rock	AR	72227
+1985	5	165 Angell St	Providence, RI 02906	Providence	RI	02906
+1986	5	258 Thayer St	Providence, RI 02906-1343	Providence	RI	02906-1343
+1987	5	471 W Fountain St	Providence, RI 02903-3529	Providence	RI	02903-3529
+1988	5	120 Francis Street	Providence, RI 02903	Providence	RI	02903
+1989	5	3760 S.DIVISION	Grand Rapids, MI 49548	Grand Rapids	MI	49548
+1990	4	4176 28th St Se	Grand Rapids, MI	Grand Rapids	MI
+1991	5	3883 28TH St SE	Grand Rapids, MI 49512-1803	Grand Rapids	MI	49512-1803
+1992	5	4445 Breton Rd SE	Grand Rapids, MI 49508-8411	Grand Rapids	MI	49508-8411
+1993	5	956 Fulton St W	Grand Rapids, MI 49504-6261	Grand Rapids	MI	49504-6261
+1994	5	3504 W State St	Boise, ID 83703	Boise	ID	83703
+1995	5	199 North 8th Street	Boise, ID 83702	Boise	ID	83702
+1996	5	4200 W. Norfolk Avenue	Norfolk, VA 68701	Norfolk	VA	68701
+1997	4	6311 College Avenue	Oakland, CA	Oakland	CA
+1998	5	6101 La Salle Avenue	Oakland, CA 94611	Oakland	CA	94611
+1999	5	2060 Mountain Blvd	Oakland, CA 94611-2816	Oakland	CA	94611-2816

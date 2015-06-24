@@ -1,0 +1,1065 @@
+﻿university	ecampustours	type
+1063	1063	1063	6
+0000	1	Public- 4-year or above
+0001	1	Public- 4-year or above
+0002	1	Public- 4-year or above
+0003	1	Public- 4-year or above
+0004	1	Private not-for-profit- 4-year or above
+0005	1	Private not-for-profit- 4-year or above
+0006	1	Private not-for-profit- 4-year or above
+0007	1	Private not-for-profit- 4-year or above
+0008	1	Public- 4-year or above
+0009	1	Public- 2-year
+0010	1	Private not-for-profit- 4-year or above
+0011	1	Private not-for-profit- 4-year or above
+0012	1	Public- 2-year
+0013	1	Private not-for-profit- 4-year or above
+0014	1	Public- 4-year or above
+0015	1	Private not-for-profit- 4-year or above
+0016	1	Public- 4-year or above
+0017	1	Public- 4-year or above
+0018	1	Public- 4-year or above
+0019	1	Private not-for-profit- 4-year or above
+0020	1	Public- 4-year or above
+0021	1	Public- 4-year or above
+0022	1	Public- 4-year or above
+0023	1	Public- 4-year or above
+0024	1	Private not-for-profit- 4-year or above
+0025	1	Public- 4-year or above
+0026	1	Public- 4-year or above
+0027	1	Private not-for-profit- 4-year or above
+0028	1	Public- 4-year or above
+0029	1	Public- 4-year or above
+0030	1	Private not-for-profit- 4-year or above
+0031	1	Public- 2-year
+0032	1	Public- 4-year or above
+0033	1	Private not-for-profit- 4-year or above
+0034	1	Private not-for-profit- 4-year or above
+0035	1	Private not-for-profit- 4-year or above
+0036	1	Public- 2-year
+0037	1	Private not-for-profit- 4-year or above
+0038	1	Public- 4-year or above
+0039	1	Public- 4-year or above
+0040	1	Private not-for-profit- 4-year or above
+0041	1	Public- 4-year or above
+0042	1	Private for-profit- 4-year or above
+0043	1	Public- 2-year
+0044	1	Private not-for-profit- 4-year or above
+0045	1	Private not-for-profit- 4-year or above
+0046	1	Private not-for-profit- 4-year or above
+0047	1	Public- 4-year or above
+0048	1	Public- 4-year or above
+0049	1	Public- 4-year or above
+0050	1	Public- 2-year
+0051	1	Public- 4-year or above
+0052	1	Public- 4-year or above
+0053	1	Public- 2-year
+0054	1	Public- 4-year or above
+0055	1	Private not-for-profit- 4-year or above
+0056	1	Private not-for-profit- 4-year or above
+0057	1	Public- 4-year or above
+0058	1	Public- 4-year or above
+0059	1	Private not-for-profit- 4-year or above
+0060	1	Public- 4-year or above
+0061	1	Private not-for-profit- 4-year or above
+0062	1	Private not-for-profit- 4-year or above
+0063	1	Private not-for-profit- 4-year or above
+0064	1	Private not-for-profit- 4-year or above
+0065	1	Private not-for-profit- 4-year or above
+0066	1	Private not-for-profit- 4-year or above
+0067	1	Public- 4-year or above
+0068	1	Private not-for-profit- 4-year or above
+0069	1	Private for-profit- 4-year or above
+0070	1	Private not-for-profit- 4-year or above
+0071	1	Private not-for-profit- 4-year or above
+0072	1	Private not-for-profit- 4-year or above
+0073	1	Private not-for-profit- 4-year or above
+0074	1	Public- 4-year or above
+0075	1	Public- 4-year or above
+0076	1	Public- 4-year or above
+0077	1	Private not-for-profit- 4-year or above
+0078	1	Private not-for-profit- 4-year or above
+0079	1	Private not-for-profit- 4-year or above
+0080	1	Private not-for-profit- 4-year or above
+0081	1	Public- 2-year
+0082	1	Public- 2-year
+0083	1	Public- 4-year or above
+0084	1	Public- 4-year or above
+0085	1	Private not-for-profit- 4-year or above
+0086	1	Public- 4-year or above
+0087	1	Private not-for-profit- 4-year or above
+0088	1	Public- 4-year or above
+0089	1	Public- 4-year or above
+0090	1	Private not-for-profit- 4-year or above
+0091	1	Private not-for-profit- 4-year or above
+0092	1	Private not-for-profit- 4-year or above
+0093	1	Private not-for-profit- 4-year or above
+0094	1	Private not-for-profit- 4-year or above
+0095	1	Private not-for-profit- 4-year or above
+0096	1	Private not-for-profit- 4-year or above
+0097	1	Public- 4-year or above
+0098	1	Private not-for-profit- 4-year or above
+0099	1	Private not-for-profit- 4-year or above
+0100	1	Private for-profit- 4-year or above
+0101	1	Private not-for-profit- 4-year or above
+0102	1	Private not-for-profit- 4-year or above
+0103	1	Private not-for-profit- 4-year or above
+0104	1	Public- 2-year
+0105	1	Private not-for-profit- 4-year or above
+0106	1	Private not-for-profit- 4-year or above
+0107	1	Public- 4-year or above
+0108	1	Private not-for-profit- 4-year or above
+0109	1	Private not-for-profit- 4-year or above
+0110	1	Private not-for-profit- 4-year or above
+0111	1	Private not-for-profit- 4-year or above
+0112	1	Private not-for-profit- 4-year or above
+0113	1	Private not-for-profit- 4-year or above
+0114	1	Private not-for-profit- 4-year or above
+0115	1	Private not-for-profit- 4-year or above
+0116	1	Private for-profit- 4-year or above
+0117	1	Private not-for-profit- 4-year or above
+0118	1	Private not-for-profit- 4-year or above
+0119	1	Public- 2-year
+0120	1	Private not-for-profit- 4-year or above
+0121	1	Private not-for-profit- 4-year or above
+0122	1	Public- 4-year or above
+0123	1	Public- 4-year or above
+0124	1	Private not-for-profit- 4-year or above
+0125	1	Public- 2-year
+0126	1	Private not-for-profit- 4-year or above
+0127	1	Private not-for-profit- 4-year or above
+0128	1	Private not-for-profit- 4-year or above
+0129	1	Private not-for-profit- 4-year or above
+0130	1	Private not-for-profit- 4-year or above
+0131	1	Private not-for-profit- 4-year or above
+0132	1	Private not-for-profit- 4-year or above
+0133	1	Public- 4-year or above
+0134	1	Private not-for-profit- 4-year or above
+0135	1	Public- 4-year or above
+0136	1	Private not-for-profit- 2-year
+0137	1	Private not-for-profit- 4-year or above
+0138	1	Public- 4-year or above
+0139	1	Private not-for-profit- 4-year or above
+0140	1	Private not-for-profit- 4-year or above
+0141	1	Private not-for-profit- 4-year or above
+0142	1	Private not-for-profit- 4-year or above
+0143	1	Private not-for-profit- 4-year or above
+0144	1	Private not-for-profit- 4-year or above
+0145	1	Private not-for-profit- 4-year or above
+0146	1	Private not-for-profit- 4-year or above
+0147	1	Private not-for-profit- 4-year or above
+0148	1	Public- 4-year or above
+0149	1	Public- 4-year or above
+0150	1	Private not-for-profit- 4-year or above
+0151	1	Private not-for-profit- 4-year or above
+0152	1	Private not-for-profit- 4-year or above
+0153	1	Private not-for-profit- 4-year or above
+0154	1	Private not-for-profit- 4-year or above
+0155	1	Private not-for-profit- 4-year or above
+0156	1	Private not-for-profit- 4-year or above
+0157	1	Private not-for-profit- 4-year or above
+0158	1	Private not-for-profit- 4-year or above
+0159	1	Private not-for-profit- 4-year or above
+0160	1	Public- 4-year or above
+0161	1	Private not-for-profit- 4-year or above
+0162	1	Private not-for-profit- 4-year or above
+0163	1	Private not-for-profit- 4-year or above
+0164	1	Private not-for-profit- 4-year or above
+0165	1	Private not-for-profit- 4-year or above
+0166	1	Private not-for-profit- 4-year or above
+0167	1	Private not-for-profit- 4-year or above
+0168	1	Private not-for-profit- 4-year or above
+0169	1	Private not-for-profit- 4-year or above
+0170	1	Private not-for-profit- 4-year or above
+0171	1	Private not-for-profit- 4-year or above
+0172	1	Private not-for-profit- 4-year or above
+0173	1	Public- 4-year or above
+0174	1	Private not-for-profit- 4-year or above
+0175	1	Private not-for-profit- 4-year or above
+0176	1	Private not-for-profit- 4-year or above
+0177	1	Private not-for-profit- 4-year or above
+0178	1	Private not-for-profit- 4-year or above
+0179	1	Private not-for-profit- 4-year or above
+0180	1	Public- 4-year or above
+0181	1	Private not-for-profit- 4-year or above
+0182	1	Private not-for-profit- 4-year or above
+0183	1	Public- 2-year
+0184	1	Private not-for-profit- 4-year or above
+0185	1	Private not-for-profit- 4-year or above
+0186	1	Private not-for-profit- 4-year or above
+0187	1	Public- 2-year
+0188	1	Public- 2-year
+0189	1	Public- 4-year or above
+0190	1	Public- 4-year or above
+0191	1	Private not-for-profit- 4-year or above
+0192	1	Private not-for-profit- 2-year
+0193	1	Public- 2-year
+0194	1	Public- 2-year
+0195	1	Public- 4-year or above
+0196	1	Private not-for-profit- 4-year or above
+0197	1	Private not-for-profit- 4-year or above
+0198	1	Private not-for-profit- 4-year or above
+0199	1	Private not-for-profit- 4-year or above
+0200	1	Public- 4-year or above
+0201	1	Private not-for-profit- 4-year or above
+0202	1	Private not-for-profit- 4-year or above
+0203	1	Private not-for-profit- 4-year or above
+0204	1	Public- 4-year or above
+0205	1	Private not-for-profit- 4-year or above
+0206	1	Public- 4-year or above
+0207	1	Public- 4-year or above
+0208	1	Private not-for-profit- 4-year or above
+0209	1	Private not-for-profit- 4-year or above
+0210	1	Private not-for-profit- 4-year or above
+0211	1	Private not-for-profit- 4-year or above
+0212	1	Private not-for-profit- 4-year or above
+0213	1	Public- 4-year or above
+0214	1	Private not-for-profit- 4-year or above
+0215	1	Public- 2-year
+0216	1	Private not-for-profit- 4-year or above
+0217	1	Public- 4-year or above
+0218	1	Private not-for-profit- 4-year or above
+0219	1	Private not-for-profit- 4-year or above
+0220	1	Private not-for-profit- 4-year or above
+0221	1	Public- 4-year or above
+0222	1	Public- 4-year or above
+0223	1	Public- 4-year or above
+0224	1	Private not-for-profit- 4-year or above
+0225	1	Private not-for-profit- 4-year or above
+0226	1	Private not-for-profit- 4-year or above
+0227	1	Private not-for-profit- 4-year or above
+0228	1	Public- 4-year or above
+0229	1	Public- 4-year or above
+0230	1	Private not-for-profit- 4-year or above
+0231	1	Public- 4-year or above
+0232	1	Private not-for-profit- 4-year or above
+0233	1	Private not-for-profit- 4-year or above
+0234	1	Public- 4-year or above
+0235	1	Private not-for-profit- 4-year or above
+0236	1	Public- 2-year
+0237	1	Public- 4-year or above
+0238	1	Private not-for-profit- 4-year or above
+0239	1	Public- 4-year or above
+0240	1	Public- 4-year or above
+0241	1	Private not-for-profit- 4-year or above
+0242	1	Private not-for-profit- 4-year or above
+0243	1	Public- 4-year or above
+0244	1	Public- 4-year or above
+0245	1	Private not-for-profit- 4-year or above
+0246	1	Public- 4-year or above
+0247	1	Public- 4-year or above
+0248	1	Private not-for-profit- 4-year or above
+0249	1	Private not-for-profit- 4-year or above
+0250	1	Private not-for-profit- 4-year or above
+0251	1	Private not-for-profit- 4-year or above
+0252	1	Public- 4-year or above
+0253	1	Private not-for-profit- 4-year or above
+0254	1	Private not-for-profit- 4-year or above
+0255	1	Public- 4-year or above
+0256	1	Public- 4-year or above
+0257	1	Public- 4-year or above
+0258	1	Public- 4-year or above
+0259	1	Public- 4-year or above
+0260	1	Private not-for-profit- 4-year or above
+0261	1	Public- 4-year or above
+0262	1	Public- 2-year
+0263	1	Private for-profit- 4-year or above
+0264	1	Private for-profit- 4-year or above
+0265	1	Public- 4-year or above
+0266	1	Public- 4-year or above
+0267	1	Public- 2-year
+0268	1	Public- 4-year or above
+0269	1	Private not-for-profit- 4-year or above
+0270	1	Public- 2-year
+0271	1	Public- 4-year or above
+0272	1	Public- 4-year or above
+0273	1	Public- 2-year
+0274	1	Private not-for-profit- 4-year or above
+0275	1	Private not-for-profit- 4-year or above
+0276	1	Private not-for-profit- 4-year or above
+0277	1	Private not-for-profit- 4-year or above
+0278	1	Public- 2-year
+0279	1	Private not-for-profit- 4-year or above
+0280	1	Private not-for-profit- 4-year or above
+0281	1	Private not-for-profit- 4-year or above
+0282	1	Private not-for-profit- 4-year or above
+0283	1	Private not-for-profit- 4-year or above
+0284	1	Private not-for-profit- 4-year or above
+0285	1	Private not-for-profit- 4-year or above
+0286	1	Private not-for-profit- 4-year or above
+0287	1	Private not-for-profit- 4-year or above
+0288	1	Private not-for-profit- 4-year or above
+0289	1	Private not-for-profit- 4-year or above
+0290	1	Private not-for-profit- 4-year or above
+0291	1	Private not-for-profit- 4-year or above
+0292	1	Private not-for-profit- 4-year or above
+0293	1	Private not-for-profit- 4-year or above
+0294	1	Private not-for-profit- 4-year or above
+0295	1	Private not-for-profit- 4-year or above
+0296	1	Public- 4-year or above
+0297	1	Public- 4-year or above
+0298	1	Private not-for-profit- 4-year or above
+0299	1	Private not-for-profit- 4-year or above
+0300	1	Private not-for-profit- 4-year or above
+0301	1	Private not-for-profit- 4-year or above
+0302	1	Public- 4-year or above
+0303	1	Private not-for-profit- 4-year or above
+0304	1	Private not-for-profit- 4-year or above
+0305	1	Private not-for-profit- 4-year or above
+0306	1	Private not-for-profit- 4-year or above
+0307	1	Private not-for-profit- 4-year or above
+0308	1	Private not-for-profit- 4-year or above
+0309	1	Private not-for-profit- 4-year or above
+0310	1	Private not-for-profit- 4-year or above
+0311	1	Public- 4-year or above
+0312	1	Public- 4-year or above
+0313	1	Private not-for-profit- 4-year or above
+0314	1	Private not-for-profit- 4-year or above
+0315	1	Public- 4-year or above
+0316	1	Private not-for-profit- 4-year or above
+0317	1	Private not-for-profit- 4-year or above
+0318	1	Private not-for-profit- 4-year or above
+0319	1	Private not-for-profit- 4-year or above
+0320	1	Public- 4-year or above
+0321	1	Private not-for-profit- 4-year or above
+0322	1	Private not-for-profit- 4-year or above
+0323	1	Private not-for-profit- 4-year or above
+0324	1	Private not-for-profit- 4-year or above
+0325	1	Private not-for-profit- 4-year or above
+0326	1	Private not-for-profit- 4-year or above
+0327	1	Public- 4-year or above
+0328	1	Public- 4-year or above
+0329	1	Private not-for-profit- 4-year or above
+0330	1	Private not-for-profit- 4-year or above
+0331	1	Public- 4-year or above
+0332	1	Private not-for-profit- 4-year or above
+0333	1	Private not-for-profit- 4-year or above
+0334	1	Private not-for-profit- 4-year or above
+0335	1	Private not-for-profit- 4-year or above
+0336	1	Private not-for-profit- 4-year or above
+0337	1	Public- 4-year or above
+0338	1	Private not-for-profit- 4-year or above
+0339	1	Private not-for-profit- 4-year or above
+0340	1	Public- 4-year or above
+0341	1	Public- 4-year or above
+0342	1	Public- 4-year or above
+0343	1	Private not-for-profit- 4-year or above
+0344	1	Public- 4-year or above
+0345	1	Private not-for-profit- 4-year or above
+0346	1	Private not-for-profit- 4-year or above
+0347	1	Public- 4-year or above
+0348	1	Public- 2-year
+0349	1	Private not-for-profit- 4-year or above
+0350	1	Private not-for-profit- 4-year or above
+0351	1	Private not-for-profit- 4-year or above
+0352	1	Public- 4-year or above
+0353	1	Public- 4-year or above
+0354	1	Public- 4-year or above
+0355	1	Private not-for-profit- 4-year or above
+0356	1	Private not-for-profit- 4-year or above
+0357	1	Private not-for-profit- 4-year or above
+0358	1	Private not-for-profit- 4-year or above
+0359	1	Private not-for-profit- 4-year or above
+0360	1	Private not-for-profit- 4-year or above
+0361	1	Private not-for-profit- 4-year or above
+0362	1	Private not-for-profit- 4-year or above
+0363	1	Private not-for-profit- 4-year or above
+0364	1	Private not-for-profit- 4-year or above
+0365	1	Private not-for-profit- 4-year or above
+0366	1	Public- 2-year
+0367	1	Public- 4-year or above
+0368	1	Private not-for-profit- 4-year or above
+0369	1	Private not-for-profit- 4-year or above
+0370	1	Public- 2-year
+0371	1	Public- 4-year or above
+0372	1	Public- 4-year or above
+0373	1	Public- 4-year or above
+0374	1	Public- 4-year or above
+0375	1	Private not-for-profit- 4-year or above
+0376	1	Public- 4-year or above
+0377	1	Private not-for-profit- 4-year or above
+0378	1	Private not-for-profit- 4-year or above
+0379	1	Public- 4-year or above
+0380	1	Public- 2-year
+0381	1	Public- 4-year or above
+0382	1	Private not-for-profit- 4-year or above
+0383	1	Private not-for-profit- 4-year or above
+0384	1	Public- 4-year or above
+0385	1	Public- 4-year or above
+0386	1	Private not-for-profit- 4-year or above
+0387	1	Public- 4-year or above
+0388	1	Private not-for-profit- 4-year or above
+0389	1	Private not-for-profit- 4-year or above
+0390	1	Private not-for-profit- 4-year or above
+0391	1	Private not-for-profit- 2-year
+0392	1	Private not-for-profit- 4-year or above
+0393	1	Private not-for-profit- 4-year or above
+0394	1	Private not-for-profit- 4-year or above
+0395	1	Public- 4-year or above
+0396	1	Private not-for-profit- 4-year or above
+0397	1	Public- 4-year or above
+0398	1	Public- 4-year or above
+0399	1	Private not-for-profit- 4-year or above
+0400	1	Private not-for-profit- 4-year or above
+0401	1	Private not-for-profit- 4-year or above
+0402	1	Public- 4-year or above
+0403	1	Private not-for-profit- 4-year or above
+0404	1	Private not-for-profit- 4-year or above
+0405	1	Public- 4-year or above
+0406	1	Public- 4-year or above
+0407	1	Public- 4-year or above
+0408	1	Private not-for-profit- 4-year or above
+0409	1	Private not-for-profit- 4-year or above
+0410	1	Private not-for-profit- 4-year or above
+0411	1	Public- 4-year or above
+0412	1	Public- 4-year or above
+0413	1	Private not-for-profit- 4-year or above
+0414	1	Public- 4-year or above
+0415	1	Private not-for-profit- 4-year or above
+0416	1	Public- 4-year or above
+0417	1	Private not-for-profit- 4-year or above
+0418	1	Private not-for-profit- 4-year or above
+0419	1	Private not-for-profit- 4-year or above
+0420	1	Private not-for-profit- 4-year or above
+0421	1	Private not-for-profit- 4-year or above
+0422	1	Private not-for-profit- 4-year or above
+0423	1	Private not-for-profit- 4-year or above
+0424	1	Private not-for-profit- 4-year or above
+0425	1	Private not-for-profit- 4-year or above
+0426	1	Private not-for-profit- 4-year or above
+0427	1	Private not-for-profit- 4-year or above
+0428	1	Public- 4-year or above
+0429	1	Private not-for-profit- 4-year or above
+0430	1	Public- 4-year or above
+0431	1	Public- 4-year or above
+0432	1	Public- 4-year or above
+0433	1	Public- 4-year or above
+0434	1	Public- 2-year
+0435	1	Public- 4-year or above
+0436	1	Private not-for-profit- 4-year or above
+0437	1	Public- 4-year or above
+0438	1	Private not-for-profit- 4-year or above
+0439	1	Private not-for-profit- 4-year or above
+0440	1	Public- 4-year or above
+0441	1	Private not-for-profit- 4-year or above
+0442	1	Private not-for-profit- 4-year or above
+0443	1	Private not-for-profit- 4-year or above
+0444	1	Public- 2-year
+0445	1	Private not-for-profit- 4-year or above
+0446	1	Private not-for-profit- 4-year or above
+0447	1	Public- 2-year
+0448	1	Public- 2-year
+0449	1	Public- 4-year or above
+0450	1	Public- 4-year or above
+0451	1	Public- 4-year or above
+0452	1	Private not-for-profit- 4-year or above
+0453	1	Private not-for-profit- 4-year or above
+0454	1	Private not-for-profit- 4-year or above
+0455	1	Private not-for-profit- 4-year or above
+0456	1	Public- 4-year or above
+0457	1	Private not-for-profit- 4-year or above
+0458	1	Public- 4-year or above
+0459	1	Public- 4-year or above
+0460	1	Public- 4-year or above
+0461	1	Private not-for-profit- 4-year or above
+0462	1	Private not-for-profit- 4-year or above
+0463	1	Public- 4-year or above
+0464	1	Private for-profit- 4-year or above
+0465	1	Public- 4-year or above
+0466	1	Private not-for-profit- 4-year or above
+0467	1	Private not-for-profit- 4-year or above
+0468	1	Private not-for-profit- 4-year or above
+0469	1	Private not-for-profit- 4-year or above
+0470	1	Private not-for-profit- 4-year or above
+0471	1	Private not-for-profit- 4-year or above
+0472	1	Public- 4-year or above
+0473	1	Private not-for-profit- 4-year or above
+0474	1	Private not-for-profit- 4-year or above
+0475	1	Public- 2-year
+0476	1	Private not-for-profit- 4-year or above
+0477	1	Private not-for-profit- 4-year or above
+0478	1	Private not-for-profit- 4-year or above
+0479	1	Private not-for-profit- 4-year or above
+0480	1	Private not-for-profit- 4-year or above
+0481	1	Public- 4-year or above
+0482	1	Private for-profit- 4-year or above
+0483	1	Private not-for-profit- 4-year or above
+0484	1	Private not-for-profit- 4-year or above
+0485	1	Private not-for-profit- 4-year or above
+0486	1	Private not-for-profit- 4-year or above
+0487	1	Private not-for-profit- 4-year or above
+0488	1	Private not-for-profit- 4-year or above
+0489	1	Private not-for-profit- 4-year or above
+0490	1	Private not-for-profit- 4-year or above
+0491	1	Private not-for-profit- 4-year or above
+0492	1	Private not-for-profit- 4-year or above
+0493	1	Private not-for-profit- 4-year or above
+0494	1	Private not-for-profit- 4-year or above
+0495	1	Private not-for-profit- 4-year or above
+0496	1	Private not-for-profit- 4-year or above
+0497	1	Private not-for-profit- 4-year or above
+0498	1	Private not-for-profit- 4-year or above
+0499	1	Private not-for-profit- 4-year or above
+0500	1	Private not-for-profit- 4-year or above
+0501	1	Private not-for-profit- 4-year or above
+0502	1	Public- 4-year or above
+0503	1	Private not-for-profit- 4-year or above
+0504	1	Private not-for-profit- 4-year or above
+0505	1	Public- 2-year
+0506	1	Private not-for-profit- 4-year or above
+0507	1	Private not-for-profit- 4-year or above
+0508	1	Private not-for-profit- 4-year or above
+0509	1	Private for-profit- 4-year or above
+0510	1	Private not-for-profit- 4-year or above
+0511	1	Private not-for-profit- 4-year or above
+0512	1	Private not-for-profit- 4-year or above
+0513	1	Private not-for-profit- 4-year or above
+0514	1	Private not-for-profit- 4-year or above
+0515	1	Public- 4-year or above
+0516	1	Public- 4-year or above
+0517	1	Public- 4-year or above
+0518	1	Public- 4-year or above
+0519	1	Public- 4-year or above
+0520	1	Public- 4-year or above
+0521	1	Public- 4-year or above
+0522	1	Public- 4-year or above
+0523	1	Public- 4-year or above
+0524	1	Public- 4-year or above
+0525	1	Public- 4-year or above
+0526	1	Public- 4-year or above
+0527	1	Private not-for-profit- 4-year or above
+0528	1	Private not-for-profit- 4-year or above
+0529	1	Private not-for-profit- 4-year or above
+0530	1	Private not-for-profit- 4-year or above
+0531	1	Private not-for-profit- 4-year or above
+0532	1	Private not-for-profit- 4-year or above
+0533	1	Private not-for-profit- 4-year or above
+0534	1	Private not-for-profit- 4-year or above
+0535	1	Private not-for-profit- 4-year or above
+0536	1	Private not-for-profit- 4-year or above
+0537	1	Private not-for-profit- 4-year or above
+0538	1	Private not-for-profit- 4-year or above
+0539	1	Private not-for-profit- 4-year or above
+0540	1	Private not-for-profit- 4-year or above
+0541	1	Private for-profit- 4-year or above
+0542	1	Public- 4-year or above
+0543	1	Private not-for-profit- 4-year or above
+0544	1	Public- 4-year or above
+0545	1	Private not-for-profit- 4-year or above
+0546	1	Private not-for-profit- 4-year or above
+0547	1	Private not-for-profit- 4-year or above
+0548	1	Private not-for-profit- 4-year or above
+0549	1	Private not-for-profit- 4-year or above
+0550	1	Private not-for-profit- 4-year or above
+0551	1	Private not-for-profit- 4-year or above
+0552	1	Private not-for-profit- 4-year or above
+0553	1	Public- 4-year or above
+0554	1	Private not-for-profit- 4-year or above
+0555	1	Private not-for-profit- 4-year or above
+0556	1	Private not-for-profit- 4-year or above
+0557	1	Private not-for-profit- 4-year or above
+0558	1	Private not-for-profit- 4-year or above
+0559	1	Private not-for-profit- 4-year or above
+0560	1	Private not-for-profit- 4-year or above
+0561	1	Public- 4-year or above
+0562	1	Private not-for-profit- 4-year or above
+0563	1	Public- 4-year or above
+0564	1	Private not-for-profit- 4-year or above
+0565	1	Public- 4-year or above
+0566	1	Private not-for-profit- 4-year or above
+0567	1	Private not-for-profit- 4-year or above
+0568	1	Public- 4-year or above
+0569	1	Private for-profit- 2-year
+0570	1	Private not-for-profit- 4-year or above
+0571	1	Private not-for-profit- 4-year or above
+0572	1	Private not-for-profit- 4-year or above
+0573	1	Private not-for-profit- 4-year or above
+0574	1	Private not-for-profit- 4-year or above
+0575	1	Public- 2-year
+0576	1	Public- 4-year or above
+0577	1	Private not-for-profit- 4-year or above
+0578	1	Public- 4-year or above
+0579	1	Private not-for-profit- 4-year or above
+0580	1	Private for-profit- 2-year
+0581	1	Private not-for-profit- 4-year or above
+0582	1	Private not-for-profit- 4-year or above
+0583	1	Private not-for-profit- 4-year or above
+0584	1	Private not-for-profit- 4-year or above
+0585	1	Public- 2-year
+0586	1	Public- 4-year or above
+0587	1	Private not-for-profit- 4-year or above
+0588	1	Private not-for-profit- 4-year or above
+0589	1	Private not-for-profit- 4-year or above
+0590	1	Private not-for-profit- 4-year or above
+0591	1	Public- 4-year or above
+0592	1	Private not-for-profit- 4-year or above
+0593	1	Private not-for-profit- 4-year or above
+0594	1	Private not-for-profit- 4-year or above
+0595	1	Private not-for-profit- 4-year or above
+0596	1	Private not-for-profit- 4-year or above
+0597	1	Public- 4-year or above
+0598	1	Private not-for-profit- 4-year or above
+0599	1	Private not-for-profit- 4-year or above
+0600	1	Public- 2-year
+0601	1	Public- 4-year or above
+0602	1	Public- 4-year or above
+0603	1	Private not-for-profit- 4-year or above
+0604	1	Private not-for-profit- 4-year or above
+0605	1	Public- 4-year or above
+0606	1	Private not-for-profit- 4-year or above
+0607	1	Private not-for-profit- 4-year or above
+0608	1	Private not-for-profit- 4-year or above
+0609	1	Public- 2-year
+0610	1	Private not-for-profit- 4-year or above
+0611	1	Private not-for-profit- 4-year or above
+0612	1	Private not-for-profit- 4-year or above
+0613	1	Public- 4-year or above
+0614	1	Private not-for-profit- 4-year or above
+0615	1	Public- 4-year or above
+0616	1	Public- 4-year or above
+0617	1	Public- 4-year or above
+0618	1	Private not-for-profit- 4-year or above
+0619	1	Public- 4-year or above
+0620	1	Private not-for-profit- 4-year or above
+0621	1	Private not-for-profit- 4-year or above
+0622	1	Private not-for-profit- 4-year or above
+0623	1	Private not-for-profit- 4-year or above
+0624	1	Public- 2-year
+0625	1	Private not-for-profit- 4-year or above
+0626	1	Private not-for-profit- 4-year or above
+0627	1	Public- 4-year or above
+0628	1	Private not-for-profit- 4-year or above
+0629	1	Public- 2-year
+0630	1	Public- 2-year
+0631	1	Private not-for-profit- 4-year or above
+0632	1	Private not-for-profit- 4-year or above
+0633	1	Private not-for-profit- 4-year or above
+0634	1	Private not-for-profit- 4-year or above
+0635	1	Private not-for-profit- 4-year or above
+0636	1	Private not-for-profit- 4-year or above
+0637	1	Private not-for-profit- 4-year or above
+0638	1	Public- 4-year or above
+0639	1	Private not-for-profit- 4-year or above
+0640	1	Public- 4-year or above
+0641	1	Private not-for-profit- 4-year or above
+0642	1	Public- 2-year
+0643	1	Public- 4-year or above
+0644	1	Private not-for-profit- 4-year or above
+0645	1	Private not-for-profit- 4-year or above
+0646	1	Public- 4-year or above
+0647	1	Private not-for-profit- 4-year or above
+0648	1	Private not-for-profit- 4-year or above
+0649	1	Private not-for-profit- 4-year or above
+0650	1	Private not-for-profit- 4-year or above
+0651	1	Private not-for-profit- 4-year or above
+0652	1	Private not-for-profit- 4-year or above
+0653	1	Private not-for-profit- 4-year or above
+0654	1	Private not-for-profit- 4-year or above
+0655	1	Private not-for-profit- 4-year or above
+0656	1	Private for-profit- 4-year or above
+0657	1	Private not-for-profit- 4-year or above
+0658	1	Private not-for-profit- 4-year or above
+0659	1	Public- 4-year or above
+0660	1	Public- 4-year or above
+0661	1	Private not-for-profit- 4-year or above
+0662	1	Private not-for-profit- 4-year or above
+0663	1	Private not-for-profit- 4-year or above
+0664	1	Private not-for-profit- 4-year or above
+0665	1	Private not-for-profit- 4-year or above
+0666	1	Private not-for-profit- 4-year or above
+0667	1	Private not-for-profit- 4-year or above
+0668	1	Private not-for-profit- 4-year or above
+0669	1	Private not-for-profit- 4-year or above
+0670	1	Private not-for-profit- 4-year or above
+0671	1	Private not-for-profit- 4-year or above
+0672	1	Private not-for-profit- 4-year or above
+0673	1	Private not-for-profit- 4-year or above
+0674	1	Private not-for-profit- 4-year or above
+0675	1	Private not-for-profit- 4-year or above
+0676	1	Private not-for-profit- 4-year or above
+0677	1	Private not-for-profit- 4-year or above
+0678	1	Public- 4-year or above
+0679	1	Private not-for-profit- 4-year or above
+0680	1	Private not-for-profit- 2-year
+0681	1	Private not-for-profit- 4-year or above
+0682	1	Public- 4-year or above
+0683	1	Public- 4-year or above
+0684	1	Private not-for-profit- 4-year or above
+0685	1	Private not-for-profit- 4-year or above
+0686	1	Private not-for-profit- 4-year or above
+0687	1	Private not-for-profit- 4-year or above
+0688	1	Private not-for-profit- 4-year or above
+0689	1	Private not-for-profit- 4-year or above
+0690	1	Private not-for-profit- 4-year or above
+0691	1	Private for-profit- 2-year
+0692	1	Private not-for-profit- 4-year or above
+0693	1	Private not-for-profit- 4-year or above
+0694	1	Private not-for-profit- 4-year or above
+0695	1	Private not-for-profit- 4-year or above
+0696	1	Private not-for-profit- 4-year or above
+0697	1	Private not-for-profit- 4-year or above
+0698	1	Private not-for-profit- 4-year or above
+0699	1	Public- 4-year or above
+0700	1	Private not-for-profit- 4-year or above
+0701	1	Private not-for-profit- 4-year or above
+0702	1	Private not-for-profit- 4-year or above
+0703	1	Public- 4-year or above
+0704	1	Public- 4-year or above
+0705	1	Private not-for-profit- 4-year or above
+0706	1	Private not-for-profit- 4-year or above
+0707	1	Private not-for-profit- 4-year or above
+0708	1	Private not-for-profit- 4-year or above
+0709	1	Private not-for-profit- 4-year or above
+0710	1	Private not-for-profit- 4-year or above
+0711	1	Private not-for-profit- 4-year or above
+0712	1	Private not-for-profit- 4-year or above
+0713	1	Private not-for-profit- 4-year or above
+0714	1	Private not-for-profit- 4-year or above
+0715	1	Private not-for-profit- 4-year or above
+0716	1	Private not-for-profit- 4-year or above
+0717	1	Public- 4-year or above
+0718	1	Private not-for-profit- 4-year or above
+0719	1	Private not-for-profit- 4-year or above
+0720	1	Public- 4-year or above
+0721	1	Private for-profit- 4-year or above
+0722	1	Private not-for-profit- 4-year or above
+0723	1	Private not-for-profit- 4-year or above
+0724	1	Private not-for-profit- 4-year or above
+0725	1	Private not-for-profit- 4-year or above
+0726	1	Private not-for-profit- 4-year or above
+0727	1	Private not-for-profit- 4-year or above
+0728	1	Private not-for-profit- 4-year or above
+0729	1	Private not-for-profit- 4-year or above
+0730	1	Private not-for-profit- 4-year or above
+0731	1	Private not-for-profit- 4-year or above
+0732	1	Private for-profit- 4-year or above
+0733	1	Private not-for-profit- 4-year or above
+0734	1	Private not-for-profit- 4-year or above
+0735	1	Public- 2-year
+0736	1	Private not-for-profit- 4-year or above
+0737	1	Private not-for-profit- 4-year or above
+0738	1	Private not-for-profit- 4-year or above
+0739	1	Private not-for-profit- 4-year or above
+0740	1	Public- 2-year
+0741	1	Private not-for-profit- 4-year or above
+0742	1	Private for-profit- 4-year or above
+0743	1	Private not-for-profit- 4-year or above
+0744	1	Private not-for-profit- 4-year or above
+0745	1	Private not-for-profit- 4-year or above
+0746	1	Private not-for-profit- 4-year or above
+0747	1	Private not-for-profit- 4-year or above
+0748	1	Public- 2-year
+0749	1	Public- 2-year
+0750	1	Public- 2-year
+0751	1	Private not-for-profit- 4-year or above
+0752	1	Private not-for-profit- 4-year or above
+0753	1	Private not-for-profit- 4-year or above
+0754	1	Private not-for-profit- 4-year or above
+0755	1	Public- 4-year or above
+0756	1	Public- 4-year or above
+0757	1	Private not-for-profit- 4-year or above
+0758	1	Private not-for-profit- 4-year or above
+0759	1	Private not-for-profit- 4-year or above
+0760	1	Private not-for-profit- 4-year or above
+0761	1	Private not-for-profit- 4-year or above
+0762	1	Private not-for-profit- 4-year or above
+0763	1	Private not-for-profit- 4-year or above
+0764	1	Public- 4-year or above
+0765	1	Public- 4-year or above
+0766	1	Private not-for-profit- 4-year or above
+0767	1	Private not-for-profit- 4-year or above
+0768	1	Private not-for-profit- 4-year or above
+0769	1	Private not-for-profit- 4-year or above
+0770	1	Private not-for-profit- 4-year or above
+0771	1	Private not-for-profit- 2-year
+0772	1	Public- 4-year or above
+0773	1	Public- 4-year or above
+0774	1	Private not-for-profit- 4-year or above
+0775	1	Public- 4-year or above
+0776	1	Private not-for-profit- 4-year or above
+0777	1	Public- 4-year or above
+0778	1	Public- 4-year or above
+0779	1	Public- 4-year or above
+0780	1	Private not-for-profit- 4-year or above
+0781	1	Private not-for-profit- 4-year or above
+0782	1	Private not-for-profit- 4-year or above
+0783	1	Private not-for-profit- 4-year or above
+0784	1	Private not-for-profit- 4-year or above
+0785	1	Public- 2-year
+0786	1	Private not-for-profit- 4-year or above
+0787	1	Public- 2-year
+0788	1	Public- 2-year
+0789	1	Private not-for-profit- 4-year or above
+0790	1	Public- 2-year
+0791	1	Public- 4-year or above
+0792	1	Private not-for-profit- 4-year or above
+0793	1	Private not-for-profit- 4-year or above
+0794	1	Private not-for-profit- 4-year or above
+0795	1	Public- 2-year
+0796	1	Private not-for-profit- 4-year or above
+0797	1	Private not-for-profit- 4-year or above
+0798	1	Private not-for-profit- 4-year or above
+0799	1	Private not-for-profit- 4-year or above
+0800	1	Private not-for-profit- 4-year or above
+0801	1	Private not-for-profit- 4-year or above
+0802	1	Private not-for-profit- 4-year or above
+0803	1	Private not-for-profit- 4-year or above
+0804	1	Private not-for-profit- 4-year or above
+0805	1	Private not-for-profit- 4-year or above
+0806	1	Public- 4-year or above
+0807	1	Private not-for-profit- 4-year or above
+0808	1	Public- 2-year
+0809	1	Public- 2-year
+0810	1	Private not-for-profit- 4-year or above
+0811	1	Public- 2-year
+0812	1	Private not-for-profit- 4-year or above
+0813	1	Public- 4-year or above
+0814	1	Public- 4-year or above
+0815	1	Private not-for-profit- 4-year or above
+0816	1	Private not-for-profit- 4-year or above
+0817	1	Private not-for-profit- 4-year or above
+0818	1	Private not-for-profit- 4-year or above
+0819	1	Private not-for-profit- 4-year or above
+0820	1	Public- 4-year or above
+0821	1	Public- 4-year or above
+0822	1	Public- 4-year or above
+0823	1	Private not-for-profit- 4-year or above
+0824	1	Private not-for-profit- 4-year or above
+0825	1	Private not-for-profit- 4-year or above
+0826	1	Public- 2-year
+0827	1	Public- 2-year
+0828	1	Private not-for-profit- 4-year or above
+0829	1	Private not-for-profit- 4-year or above
+0830	1	Private not-for-profit- 4-year or above
+0831	1	Public- 2-year
+0832	1	Private not-for-profit- 4-year or above
+0833	1	Private not-for-profit- 4-year or above
+0834	1	Private not-for-profit- 4-year or above
+0835	1	Private for-profit- 4-year or above
+0836	1	Private not-for-profit- 4-year or above
+0837	1	Private not-for-profit- 4-year or above
+0838	1	Private not-for-profit- 4-year or above
+0839	1	Private not-for-profit- 4-year or above
+0840	1	Private not-for-profit- 4-year or above
+0841	1	Public- 2-year
+0842	1	Public- 4-year or above
+0843	1	Private not-for-profit- 4-year or above
+0844	1	Private not-for-profit- 4-year or above
+0845	1	Private not-for-profit- 4-year or above
+0846	1	Private not-for-profit- 4-year or above
+0847	1	Private not-for-profit- 4-year or above
+0848	1	Public- 4-year or above
+0849	1	Public- 4-year or above
+0850	1	Public- 4-year or above
+0851	1	Public- 4-year or above
+0852	1	Public- 4-year or above
+0853	1	Public- 4-year or above
+0854	1	Private not-for-profit- 4-year or above
+0855	1	Private not-for-profit- 4-year or above
+0856	1	Public- 4-year or above
+0857	1	Public- 4-year or above
+0858	1	Private not-for-profit- 4-year or above
+0859	1	Public- 4-year or above
+0860	1	Private not-for-profit- 4-year or above
+0861	1	Private not-for-profit- 4-year or above
+0862	1	Public- 4-year or above
+0863	1	Private not-for-profit- 4-year or above
+0864	1	Public- 4-year or above
+0865	1	Public- 4-year or above
+0866	1	Public- 4-year or above
+0867	1	Public- 4-year or above
+0868	1	Private not-for-profit- 4-year or above
+0869	1	Private not-for-profit- 4-year or above
+0870	1	Public- 4-year or above
+0871	1	Private not-for-profit- 4-year or above
+0872	1	Private not-for-profit- 4-year or above
+0873	1	Private not-for-profit- 2-year
+0874	1	Public- 4-year or above
+0875	1	Public- 4-year or above
+0876	1	Public- 4-year or above
+0877	1	Public- 4-year or above
+0878	1	Private not-for-profit- 4-year or above
+0879	1	Private not-for-profit- 4-year or above
+0880	1	Private not-for-profit- 4-year or above
+0881	1	Private not-for-profit- 4-year or above
+0882	1	Private not-for-profit- 4-year or above
+0883	1	Private not-for-profit- 4-year or above
+0884	1	Public- 4-year or above
+0885	1	Public- 4-year or above
+0886	1	Private not-for-profit- 4-year or above
+0887	1	Private not-for-profit- 4-year or above
+0888	1	Private not-for-profit- 4-year or above
+0889	1	Private not-for-profit- 4-year or above
+0890	1	Public- 4-year or above
+0891	1	Public- 4-year or above
+0892	1	Private for-profit- 2-year
+0893	1	Private not-for-profit- 4-year or above
+0894	1	Private not-for-profit- 4-year or above
+0895	1	Private not-for-profit- 4-year or above
+0896	1	Public- 4-year or above
+0897	1	Private not-for-profit- 4-year or above
+0898	1	Private for-profit- 4-year or above
+0899	1	Private not-for-profit- 4-year or above
+0900	1	Private not-for-profit- 4-year or above
+0901	1	Public- 4-year or above
+0902	1	Public- 4-year or above
+0903	1	Private not-for-profit- 4-year or above
+0904	1	Private not-for-profit- 4-year or above
+0905	1	Private not-for-profit- 4-year or above
+0906	1	Public- 4-year or above
+0907	1	Public- 2-year
+0908	1	Private not-for-profit- 4-year or above
+0909	1	Public- 4-year or above
+0910	1	Private not-for-profit- 4-year or above
+0911	1	Private not-for-profit- 4-year or above
+0912	1	Private not-for-profit- 4-year or above
+0913	1	Public- 2-year
+0914	1	Public- 2-year
+0915	1	Public- 4-year or above
+0916	1	Private not-for-profit- 4-year or above
+0917	1	Private not-for-profit- 4-year or above
+0918	1	Private not-for-profit- 4-year or above
+0919	1	Private not-for-profit- 4-year or above
+0920	1	Private not-for-profit- 4-year or above
+0921	1	Private not-for-profit- 4-year or above
+0922	1	Public- 4-year or above
+0923	1	Public- 2-year
+0924	1	Public- 2-year
+0925	1	Public- 4-year or above
+0926	1	Private not-for-profit- 4-year or above
+0927	1	Public- 4-year or above
+0928	1	Public- 4-year or above
+0929	1	Private not-for-profit- 4-year or above
+0930	1	Public- 4-year or above
+0931	1	Public- 4-year or above
+0932	1	Private not-for-profit- 4-year or above
+0933	1	Private not-for-profit- 4-year or above
+0934	1	Public- 4-year or above
+0935	1	Public- 2-year
+0936	1	Private for-profit- 4-year or above
+0937	1	Public- 4-year or above
+0938	1	Private not-for-profit- 4-year or above
+0939	1	Public- 2-year
+0940	1	Public- 2-year
+0941	1	Public- 4-year or above
+0942	1	Private not-for-profit- 4-year or above
+0943	1	Private not-for-profit- 4-year or above
+0944	1	Private not-for-profit- 4-year or above
+0945	1	Private not-for-profit- 4-year or above
+0946	1	Public- 4-year or above
+0947	1	Private not-for-profit- 4-year or above
+0948	1	Private not-for-profit- 4-year or above
+0949	1	Public- 4-year or above
+0950	1	Public- 4-year or above
+0951	1	Private not-for-profit- 4-year or above
+0952	1	Private not-for-profit- 4-year or above
+0953	1	Private not-for-profit- 4-year or above
+0954	1	Private not-for-profit- 4-year or above
+0955	1	Private not-for-profit- 4-year or above
+0956	1	Public- 4-year or above
+0957	1	Public- 4-year or above
+0958	1	Public- 4-year or above
+0959	1	Private not-for-profit- 4-year or above
+0960	1	Private not-for-profit- 4-year or above
+0961	1	Private for-profit- 4-year or above
+0962	1	Private not-for-profit- 4-year or above
+0963	1	Public- 4-year or above
+0964	1	Private not-for-profit- 4-year or above
+0965	1	Private not-for-profit- 4-year or above
+0966	1	Private not-for-profit- 4-year or above
+0967	1	Private not-for-profit- 4-year or above
+0968	1	Private not-for-profit- 4-year or above
+0969	1	Private not-for-profit- 4-year or above
+0970	1	Private not-for-profit- 4-year or above
+0971	1	Private not-for-profit- 4-year or above
+0972	1	Private not-for-profit- 4-year or above
+0973	1	Private not-for-profit- 4-year or above
+0974	1	Private not-for-profit- 4-year or above
+0975	1	Private not-for-profit- 4-year or above
+0976	1	Private not-for-profit- 4-year or above
+0977	1	Private not-for-profit- 4-year or above
+0978	1	Private not-for-profit- 4-year or above
+0979	1	Private not-for-profit- 4-year or above
+0980	1	Private not-for-profit- 4-year or above
+0981	1	Private not-for-profit- 4-year or above
+0982	1	Private not-for-profit- 4-year or above
+0983	1	Private not-for-profit- 4-year or above
+0984	1	Public- 4-year or above
+0985	1	Public- 4-year or above
+0986	1	Public- 4-year or above
+0987	1	Public- 4-year or above
+0988	1	Public- 4-year or above
+0989	1	Public- 4-year or above
+0990	1	Public- 4-year or above
+0991	1	Private not-for-profit- 4-year or above
+0992	1	Public- 4-year or above
+0993	1	Public- 2-year
+0994	1	Private not-for-profit- 4-year or above
+0995	1	Public- 2-year
+0996	1	Public- 4-year or above
+0997	1	Public- 4-year or above
+0998	1	Public- 4-year or above
+0999	1	Public- 4-year or above
+1000	1	Private not-for-profit- 4-year or above
+1001	1	Public- 4-year or above
+1002	1	Private not-for-profit- 4-year or above
+1003	1	Public- 2-year
+1004	1	Public- 4-year or above
+1005	1	Private not-for-profit- 4-year or above
+1006	1	Public- 4-year or above
+1007	1	Public- 4-year or above
+1008	1	Public- 2-year
+1009	1	Public- 4-year or above
+1010	1	Private for-profit- 4-year or above
+1011	1	Private not-for-profit- 4-year or above
+1012	1	Private not-for-profit- 4-year or above
+1013	1	Private not-for-profit- 4-year or above
+1014	1	Private not-for-profit- 4-year or above
+1015	1	Private not-for-profit- 4-year or above
+1016	1	Private not-for-profit- 4-year or above
+1017	1	Public- 4-year or above
+1018	1	Private not-for-profit- 4-year or above
+1019	1	Private not-for-profit- 4-year or above
+1020	1	Private not-for-profit- 4-year or above
+1021	1	Private not-for-profit- 4-year or above
+1022	1	Private not-for-profit- 4-year or above
+1023	1	Public- 4-year or above
+1024	1	Private not-for-profit- 4-year or above
+1025	1	Private not-for-profit- 4-year or above
+1026	1	Public- 4-year or above
+1027	1	Private not-for-profit- 4-year or above
+1028	1	Private for-profit- 4-year or above
+1029	1	Private for-profit- 4-year or above
+1030	1	Private not-for-profit- 4-year or above
+1031	1	Private not-for-profit- 4-year or above
+1032	1	Private not-for-profit- 4-year or above
+1033	1	Public- 2-year
+1034	1	Private not-for-profit- 4-year or above
+1035	1	Private not-for-profit- 4-year or above
+1036	1	Public- 4-year or above
+1037	1	Private not-for-profit- 4-year or above
+1038	1	Public- 4-year or above
+1039	1	Private not-for-profit- 4-year or above
+1040	1	Public- 4-year or above
+1041	1	Private not-for-profit- 4-year or above
+1042	1	Public- 4-year or above
+1043	1	Public- 4-year or above
+1044	1	Private for-profit- 4-year or above
+1045	1	Private not-for-profit- 4-year or above
+1046	1	Private not-for-profit- 4-year or above
+1047	1	Public- 4-year or above
+1048	1	Private not-for-profit- 4-year or above
+1049	1	Private not-for-profit- 4-year or above
+1050	1	Private not-for-profit- 4-year or above
+1051	1	Private not-for-profit- 4-year or above
+1052	1	Private not-for-profit- 4-year or above
+1053	1	Private not-for-profit- 4-year or above
+1054	1	Public- 4-year or above
+1055	1	Private not-for-profit- 4-year or above
+1056	1	Private not-for-profit- 4-year or above
+1057	1	Public- 4-year or above
+1058	1	Public- 4-year or above
+1059	1	Private not-for-profit- 4-year or above
+1060	1	Public- 4-year or above
+1061	1	Private not-for-profit- 4-year or above
+1062	1	Private not-for-profit- 4-year or above

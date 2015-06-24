@@ -1,0 +1,2002 @@
+﻿restaurant	urbanspoon	cuisine
+2000	1934	3826	81
+0000	2	Diner	New Mexican
+0001	2	Pizza	Italian
+0002	1	Brazilian
+0003	2	American	Hot Dogs
+0004	1	Indian
+0005	1	Indian
+0006	3	Thai	Sushi	Vegetarian
+0007	3	Coffee	Bakery	Sandwiches/Subs
+0008	2	Diner	New Mexican
+0009	3	Southwestern	Breakfast/Brunch	Diner
+0010	1	French
+0011	1	Pub Food
+0012	1	Sushi
+0013	1	Breakfast/Brunch
+0014	3	Steakhouse	American	Seafood
+0015	3	Southwestern	Mexican	New Mexican
+0016	2	Mexican	New Mexican
+0017	3	Diner	American	Sandwiches/Subs
+0018	2	Barbecue	Southwestern
+0019	3	French	American	European
+0020	1	Asian
+0021	3	Asian	American	Vegetarian
+0022	1	Sandwiches/Subs
+0023	3	Seafood	American	International
+0024	2	Bakery	Chinese
+0025	3	American	Gastropub	Tapas
+0026	1	Mexican
+0027	3	Steakhouse	American	Seafood
+0028	2	Sandwiches/Subs	Soups
+0029	1	Coffee
+0030	2	Mediterranean	Middle Eastern
+0031	2	Bakery	European
+0032	1	Thai
+0033	2	Mexican	Burgers
+0034	2	Sandwiches/Subs	Soups
+0035	3	Burgers	American	Steakhouse
+0036	1	Sandwiches/Subs
+0037	3	Desserts/Ice Cream	European	International
+0038	2	Tapas	Spanish
+0039	1	Barbecue
+0040	3	Pizza	Italian	Sandwiches/Subs
+0041	3	Hot Dogs	American	Burgers
+0042	1	Barbecue
+0043	2	Breakfast/Brunch	Sandwiches/Subs
+0044	2	Tacos	Mexican
+0045	3	Cuban	Caribbean	Sandwiches/Subs
+0046	3	Pizza	Sandwiches/Subs	Vegetarian
+0047	2	Southern &amp; Soul	American
+0048	3	Southern &amp; Soul	American	Modern American
+0049	3	Bakery	Coffee	Sandwiches/Subs
+0050	1	Barbecue
+0051	1	Modern American
+0052	2	Italian	Pizza
+0053	3	Thai	American	Asian
+0054	3	Bakery	Italian	Pizza
+0055	2	Italian	Pizza
+0056	1	Italian
+0057	3	Burgers	American	Southern &amp; Soul
+0058	2	American	Vegetarian
+0059	3	American	Organic	Vegetarian
+0060	3	Tacos	Mexican	Tex-Mex
+0061	3	Desserts/Ice Cream	Bakery	Coffee
+0062	2	Mexican	Tex-Mex
+0063	2	Barbecue	American
+0064	2	Barbecue	American
+0065	1	Vegetarian
+0066	3	American	Breakfast/Brunch	Coffee
+0067	3	Tacos	Breakfast/Brunch	Mexican
+0068	2	Japanese	Sushi
+0069	3	Cajun/Creole	Seafood	Southern &amp; Soul
+0070	3	American	International	Seafood
+0071	1	Barbecue
+0072	2	American	Breakfast/Brunch
+0073	2	Seafood	Fast Food
+0074	2	American	International
+0075	3	Pizza	Italian	Vegetarian
+0076	1	Mexican
+0077	2	Thai	Vegetarian
+0078	3	Pizza	American	Pub Food
+0079	2	Fast Food	Sandwiches/Subs
+0080	1	American
+0081	3	International	American	Gastropub
+0082	1	Pub Food
+0083	3	French	European	Seafood
+0084	2	American	Hot Dogs
+0085	2	Seafood	American
+0086	3	Thai	Japanese	Sushi
+0087	3	Seafood	American	Pub Food
+0088	3	Steakhouse	Italian	Seafood
+0089	1	Mexican
+0090	3	Seafood	Asian	Hawaiian
+0091	3	Pizza	Sandwiches/Subs	Soups
+0092	3	Pub Food	American	Burgers
+0093	3	Southern &amp; Soul	American	Seafood
+0094	3	Chinese	Asian	Vegetarian
+0095	3	American	Seafood	Southern &amp; Soul
+0096	1	Seafood
+0097	2	American	Barbecue
+0098	1	Italian
+0099	2	Barbecue	Burgers
+0100	2	Desserts/Ice Cream	Coffee
+0101	3	Bakery	Coffee	Tea
+0102	3	American	Burgers	Pub Food
+0103	2	Barbecue	American
+0104	3	Thai	Buffet	Sushi
+0105	1	Italian
+0106	3	Pizza	Italian	Seafood
+0107	1	Desserts/Ice Cream
+0108	1	Mexican
+0109	3	Asian	Chinese	Vegetarian
+0110	1	Italian
+0111	1	Mexican
+0112	1	Greek
+0113	3	Chinese	Sushi	Thai
+0114	3	Italian	American	Tex-Mex
+0115	3	Pizza	Italian	Sandwiches/Subs
+0116	1	Barbecue
+0117	2	Southern &amp; Soul	French
+0118	3	Italian	Breakfast/Brunch	Sandwiches/Subs
+0119	3	Asian	Chinese	Sushi
+0120	1	Chinese
+0121	1	Italian
+0122	2	Barbecue	Southern &amp; Soul
+0123	2	Sandwiches/Subs	American
+0124	3	Wine Bar	European	Seafood
+0125	3	Italian	Barbecue	Pizza
+0126	1	Italian
+0127	3	Mediterranean	International	Middle Eastern
+0128	2	American	Burgers
+0129	3	Desserts/Ice Cream	Burgers	Seafood
+0130	3	French	American	Mediterranean
+0131	2	Chinese	Dim Sum
+0132	2	Mexican	Tex-Mex
+0133	2	Indian	Vegetarian
+0134	2	Asian	Chinese
+0135	2	International	Tapas
+0136	2	Pizza	Italian
+0137	2	Italian	Pizza
+0138	2	Vegetarian	Pizza
+0139	2	Pizza	Italian
+0140	2	Italian	Pizza
+0141	3	American	Burgers	Gastropub
+0142	1	Italian
+0143	1	Mexican
+0144	1	Mexican
+0145	3	Tapas	International	Wine Bar
+0146	1	Indian
+0147	3	Burgers	Fast Food	Pub Food
+0148	3	Burgers	American	Pub Food
+0149	3	Barbecue	Sandwiches/Subs	Southern &amp; Soul
+0150	2	Hot Dogs	American
+0151	2	American	Cajun/Creole
+0152	2	Barbecue	Southern &amp; Soul
+0153	2	Tex-Mex	Tacos
+0154	1	Bakery
+0155	2	Mexican	Tex-Mex
+0156	3	Sandwiches/Subs	Italian	Soups
+0157	3	Sushi	Chinese	Japanese
+0158	3	Burgers	Desserts/Ice Cream	Hot Dogs
+0159	3	Thai	Asian	Vietnamese
+0160	2	Southern &amp; Soul	American
+0161	3	Steakhouse	American	Seafood
+0162	2	Pub Food	English/Irish
+0163	3	Coffee	Breakfast/Brunch	Sandwiches/Subs
+0164	2	Mexican	Southwestern
+0165	2	Thai	Asian
+0166	3	Greek	Mediterranean	Tapas
+0167	3	Diner	Breakfast/Brunch	Southern &amp; Soul
+0168	2	Pizza	Italian
+0169	1	Italian
+0170	3	Italian	Modern American	Southern &amp; Soul
+0171	2	Seafood	Sandwiches/Subs
+0172	2	Steakhouse	Italian
+0173	2	Pizza	Sandwiches/Subs
+0174	1	Italian
+0175	1	Barbecue
+0176	1	Seafood
+0177	1	Pizza
+0178	3	Asian	Sushi	Thai
+0179	2	Tapas	Seafood
+0180	3	Coffee	Sandwiches/Subs	Wine Bar
+0181	3	Bakery	French	Soups
+0182	2	Italian	Pizza
+0183	2	Steakhouse	Brazilian
+0184	2	Steakhouse	Seafood
+0185	1	German
+0186	3	European	Desserts/Ice Cream	Gastropub
+0187	3	American	Breakfast/Brunch	Southern &amp; Soul
+0188	2	Pizza	Italian
+0189	1	Barbecue
+0190	3	Pizza	Eastern European	Vegetarian
+0191	3	Sushi	Asian	Japanese
+0192	2	Sushi	Japanese
+0193	2	Pizza	Pub Food
+0194	2	Spanish	Tapas
+0195	3	Sushi	Asian	Japanese
+0196	2	Hot Dogs	Fast Food
+0197	3	Breakfast/Brunch	International	Organic
+0198	3	American	Desserts/Ice Cream	Gastropub
+0199	3	Hot Dogs	American	Burgers
+0200	3	Italian	Pizza	Wine Bar
+0201	3	Japanese	International	Sushi
+0202	2	American	Barbecue
+0203	1	Sushi
+0204	3	Italian	Pizza	Seafood
+0205	2	Modern American	French
+0206	2	Tapas	Spanish
+0207	1	Italian
+0208	1	American
+0209	3	Mexican	Southwestern	Tex-Mex
+0210	2	Coffee	European
+0211	3	Caribbean	American	Southern &amp; Soul
+0212	1	American
+0213	3	American	Barbecue	Fast Food
+0214	3	Asian	Noodle Shop	Vietnamese
+0215	1	American
+0216	3	Vietnamese	Asian	French
+0217	3	Mexican	Breakfast/Brunch	Tex-Mex
+0218	2	American	Burgers
+0219	3	American	Burgers	Pub Food
+0220	2	Thai	Japanese
+0221	3	Pizza	Italian	Sandwiches/Subs
+0222	3	Mediterranean	International	Middle Eastern
+0223	3	Vietnamese	French	International
+0224	2	Pizza	Vegetarian
+0225	3	Thai	Sushi	Vegetarian
+0226	2	French	Portuguese
+0227	1	Italian
+0228	1	Seafood
+0229	3	American	Breakfast/Brunch	Diner
+0230	1	Desserts/Ice Cream
+0231	3	Italian	American	Vegetarian
+0232	2	Southwestern	Mexican
+0233	2	Middle Eastern	Greek
+0234	1	Greek
+0235	3	Hot Dogs	Burgers	Fast Food
+0236	1	Pizza
+0237	1	Pizza
+0238	2	Italian	Pizza
+0239	1	Pizza
+0240	2	Burgers	Cuban
+0241	2	Breakfast/Brunch	Sandwiches/Subs
+0242	3	Wine Bar	International	Mediterranean
+0243	2	Steakhouse	Japanese
+0244	3	Middle Eastern	Mediterranean	Vegetarian
+0245	1	American
+0246	1	Bakery
+0247	2	Italian	Wine Bar
+0248	2	Sandwiches/Subs	Italian
+0249	3	American	Burgers	Pub Food
+0250	2	Pizza	Italian
+0251	1	Indian
+0252	2	Thai	Japanese
+0253	3	Italian	American	Pizza
+0254	2	Italian	Pizza
+0255	3	American	English/Irish	Pub Food
+0256	2	Bakery	Coffee
+0257	3	Middle Eastern	Mediterranean	Vegetarian
+0258	1	Pizza
+0259	2	Italian	Pizza
+0260	1	Sandwiches/Subs
+0261	1	Thai
+0262	3	Asian	Japanese	Sushi
+0263	2	Chinese	Asian
+0264	3	Pub Food	American	Burgers
+0265	1	Desserts/Ice Cream
+0266	3	German	California	Sandwiches/Subs
+0267	3	Japanese	Korean	Sushi
+0268	2	American	Breakfast/Brunch
+0269	2	Burgers	Fast Food
+0270	3	Asian	Thai	Vietnamese
+0271	2	Greek	Mediterranean
+0272	1	Barbecue
+0273	3	Mediterranean	Greek	Turkish
+0274	1	Barbecue
+0275	2	American	Breakfast/Brunch
+0276	1	Mexican
+0277	1	Desserts/Ice Cream
+0278	2	Asian	Thai
+0279	1	Italian
+0280	2	Mediterranean	Greek
+0281	2	Pub Food	English/Irish
+0282	1	Italian
+0283	1	Indian
+0284	3	Pub Food	Burgers	Pizza
+0285	3	Wine Bar	Italian	Seafood
+0286	2	Italian	Pizza
+0287	2	Asian	Chinese
+0288	3	Pizza	Pub Food	Sandwiches/Subs
+0289	2	Italian	Pizza
+0290	1	Seafood
+0291	2	Southern &amp; Soul	American
+0292	3	American	Italian	Southern &amp; Soul
+0293	1	Mexican
+0294	2	Steakhouse	Brazilian
+0295	3	Southern &amp; Soul	American	Chicken
+0296	3	Burgers	American	Greek
+0297	2	Mexican	Tex-Mex
+0298	2	Tacos	Latin American
+0299	2	Pizza	Italian
+0300	1	Barbecue
+0301	2	Mexican	Tex-Mex
+0302	2	Southwestern	Steakhouse
+0303	1	Italian
+0304	3	Mexican	American	Tex-Mex
+0305	2	Japanese	Sushi
+0306	3	Desserts/Ice Cream	American	Hot Dogs
+0307	1	Barbecue
+0308	2	Pizza	Italian
+0309	1	Italian
+0310	1	International
+0311	3	Southern &amp; Soul	American	Breakfast/Brunch
+0312	2	Thai	Asian
+0313	1	French
+0314	2	American	Breakfast/Brunch
+0315	2	Italian	American
+0316	3	American	Burgers	Tex-Mex
+0317	3	Italian	Pizza	Sandwiches/Subs
+0318	3	Southern &amp; Soul	American	Barbecue
+0319	2	American	French
+0320	1	Chinese
+0321	3	American	Steakhouse	Wine Bar
+0322	1	Mediterranean
+0323	3	Asian	Chinese	Thai
+0324	3	Pub Food	American	English/Irish
+0325	3	American	Greek	Mediterranean
+0326	3	Italian	French	Pizza
+0327	3	Japanese	Asian	Sushi
+0328	2	Mexican	Tex-Mex
+0329	3	Southern &amp; Soul	American	Breakfast/Brunch
+0330	2	Middle Eastern	Vegetarian
+0331	3	Asian	Dim Sum	Vietnamese
+0332	1	Pizza
+0333	1	Sushi
+0334	2	Mexican	Tex-Mex
+0335	2	Pizza	American
+0336	2	Vietnamese	Asian
+0337	1	Italian
+0338	3	Barbecue	Cajun/Creole	Caribbean
+0339	2	Seafood	Sushi
+0340	1	Pizza
+0341	2	American	Italian
+0342	1	Breakfast/Brunch
+0343	1	French
+0344	3	Steakhouse	Japanese	Sushi
+0345	3	Pub Food	English/Irish	Gastropub
+0346	1	Fast Food
+0347	1	Thai
+0348	1	Desserts/Ice Cream
+0349	2	Sandwiches/Subs	Soups
+0350	3	Mexican	American	Tex-Mex
+0351	1	Chinese
+0352	3	Sandwiches/Subs	Organic	Soups
+0353	3	Breakfast/Brunch	Bakery	International
+0354	2	Breakfast/Brunch	American
+0355	1	Coffee
+0356	1	Chinese
+0357	1	Barbecue
+0358	1	Mexican
+0359	2	Barbecue	Pub Food
+0360	1	Italian
+0361	1	Chinese
+0362	2	Burgers	American
+0363	2	Breakfast/Brunch	European
+0364	2	Hot Dogs	American
+0365	2	Cuban	Caribbean
+0366	3	Pub Food	American	Gastropub
+0367	2	Mediterranean	Middle Eastern
+0368	3	International	American	Breakfast/Brunch
+0369	2	American	Steakhouse
+0370	3	Pizza	California	Italian
+0371	2	International	American
+0372	3	American	Burgers	Steakhouse
+0373	2	Middle Eastern	Mediterranean
+0374	1	Cuban
+0375	2	Mexican	Tex-Mex
+0376	1	Barbecue
+0377	3	American	Barbecue	Southern &amp; Soul
+0378	2	Italian	Pizza
+0379	3	Seafood	Italian	Pizza
+0380	3	American	Barbecue	Burgers
+0381	2	Italian	Pizza
+0382	1	Thai
+0383	2	Desserts/Ice Cream	Sandwiches/Subs
+0384	1	Barbecue
+0385	2	American	Burgers
+0386	2	Steakhouse	Seafood
+0387	2	Breakfast/Brunch	Desserts/Ice Cream
+0388	2	California	Pub Food
+0389	3	Sushi	Japanese	Korean
+0390	1	Mexican
+0391	1	Pizza
+0392	1	Burgers
+0393	1	Sandwiches/Subs
+0394	1	European
+0395	1	Bakery
+0396	2	Smoothies	American
+0397	1	Mexican
+0398	2	American	Breakfast/Brunch
+0399	3	American	Burgers	Sandwiches/Subs
+0400	2	Japanese	Sushi
+0401	3	Pub Food	Seafood	Steakhouse
+0402	3	Coffee	Desserts/Ice Cream	Diner
+0403	2	Italian	Pizza
+0404	3	Greek	European	Mediterranean
+0405	3	Coffee	Bakery	Breakfast/Brunch
+0406	3	Italian	Pizza	Sandwiches/Subs
+0407	3	American	Seafood	Steakhouse
+0408	2	Pub Food	Burgers
+0409	3	Mediterranean	Seafood	Soups
+0410	3	Coffee	Organic	Sandwiches/Subs
+0411	0	<NULL>
+0412	2	Pub Food	Soups
+0413	1	Mexican
+0414	3	Steakhouse	American	Seafood
+0415	2	Buffet	Asian
+0416	1	Chinese
+0417	3	Diner	Breakfast/Brunch	Vegetarian
+0418	2	Sushi	Japanese
+0419	1	Pizza
+0420	1	Bagels
+0421	1	Burgers
+0422	2	Tapas	Spanish
+0423	3	Sushi	Asian	Japanese
+0424	1	Italian
+0425	3	Breakfast/Brunch	American	Diner
+0426	3	Italian	Pizza	Sandwiches/Subs
+0427	2	Mediterranean	Middle Eastern
+0428	1	American
+0429	2	Italian	Pizza
+0430	1	Desserts/Ice Cream
+0431	3	Pizza	Italian	Sandwiches/Subs
+0432	2	Burgers	Hot Dogs
+0433	2	Pizza	American
+0434	2	Seafood	Steakhouse
+0435	1	Burgers
+0436	3	Seafood	American	Steakhouse
+0437	2	Coffee	American
+0438	1	Seafood
+0439	2	Caribbean	Cuban
+0440	3	Seafood	Japanese	Sushi
+0441	3	Seafood	Asian	Hawaiian
+0442	3	American	Italian	Organic
+0443	2	American	Breakfast/Brunch
+0444	1	Thai
+0445	3	American	Burgers	Sandwiches/Subs
+0446	2	Hawaiian	Desserts/Ice Cream
+0447	1	Desserts/Ice Cream
+0448	2	Hawaiian	Asian
+0449	1	Burgers
+0450	3	Pizza	Sandwiches/Subs	Seafood
+0451	1	American
+0452	1	Hawaiian
+0453	1	Japanese
+0454	1	Steakhouse
+0455	3	Seafood	American	Asian
+0456	1	Breakfast/Brunch
+0457	2	Steakhouse	American
+0458	1	Smoothies
+0459	1	Sushi
+0460	3	American	Asian	Southwestern
+0461	3	Asian	Noodle Shop	Vegetarian
+0462	1	Breakfast/Brunch
+0463	1	Desserts/Ice Cream
+0464	2	Coffee	Breakfast/Brunch
+0465	3	American	Breakfast/Brunch	Desserts/Ice Cream
+0466	2	Sushi	Japanese
+0467	2	American	Breakfast/Brunch
+0468	3	American	Bakery	Burgers
+0469	2	Italian	Pizza
+0470	1	Italian
+0471	2	American	Burgers
+0472	1	Steakhouse
+0473	2	Seafood	Steakhouse
+0474	2	Indian	Vegetarian
+0475	3	Chinese	Asian	Vegetarian
+0476	3	Fast Food	Bagels	Breakfast/Brunch
+0477	2	Seafood	Steakhouse
+0478	3	International	Mediterranean	Spanish
+0479	1	Steakhouse
+0480	2	Pizza	Sandwiches/Subs
+0481	2	Italian	Wine Bar
+0482	3	Asian	Buffet	Sushi
+0483	3	American	Burgers	Gastropub
+0484	3	American	Coffee	Sandwiches/Subs
+0485	2	Pizza	Sandwiches/Subs
+0486	3	Pizza	Italian	Sandwiches/Subs
+0487	2	Tapas	Spanish
+0488	2	French	American
+0489	3	Thai	Asian	Vietnamese
+0490	3	Breakfast/Brunch	Pizza	Sandwiches/Subs
+0491	2	French	Breakfast/Brunch
+0492	3	Pizza	Italian	Sandwiches/Subs
+0493	3	Japanese	Steakhouse	Sushi
+0494	3	Turkish	Halal	Middle Eastern
+0495	3	Pub Food	Breakfast/Brunch	Gastropub
+0496	3	Sandwiches/Subs	Burgers	Soups
+0497	1	Seafood
+0498	2	Burgers	Hot Dogs
+0499	2	Steakhouse	Japanese
+0500	2	Pizza	Italian
+0501	1	Sushi
+0502	3	American	Burgers	Pizza
+0503	1	Seafood
+0504	2	Seafood	American
+0505	2	Middle Eastern	Greek
+0506	1	Mexican
+0507	3	Pizza	Sandwiches/Subs	Vegetarian
+0508	3	American	Modern American	Seafood
+0509	3	Steakhouse	Brazilian	International
+0510	1	Steakhouse
+0511	1	French
+0512	1	Thai
+0513	3	Coffee	American	Breakfast/Brunch
+0514	1	American
+0515	1	Chinese
+0516	3	Barbecue	Seafood	Steakhouse
+0517	1	Steakhouse
+0518	3	Mexican	Southwestern	Tacos
+0519	1	French
+0520	1	Greek
+0521	2	American	Burgers
+0522	3	American	Breakfast/Brunch	Vegetarian
+0523	1	Indian
+0524	3	Japanese	Sushi	Teriyaki
+0525	2	American	Pub Food
+0526	1	Thai
+0527	1	American
+0528	1	Burgers
+0529	3	Burgers	American	Gastropub
+0530	3	Diner	Asian	Chinese
+0531	1	Italian
+0532	3	Sushi	Italian	Sandwiches/Subs
+0533	3	Italian	European	Mediterranean
+0534	2	Steakhouse	Japanese
+0535	3	Japanese	Korean	Sushi
+0536	3	American	Pizza	Vegetarian
+0537	1	Sushi
+0538	1	American
+0539	3	Burgers	Breakfast/Brunch	Sandwiches/Subs
+0540	2	American	Barbecue
+0541	1	American
+0542	1	Seafood
+0543	1	Indian
+0544	3	American	Pizza	Vegetarian
+0545	3	American	Seafood	Steakhouse
+0546	2	American	Tea
+0547	3	Diner	Barbecue	Pub Food
+0548	1	Japanese
+0549	1	Mexican
+0550	3	American	Sandwiches/Subs	Seafood
+0551	2	Barbecue	Pub Food
+0552	2	Pizza	Italian
+0553	2	Pizza	Italian
+0554	2	Pizza	Italian
+0555	2	Asian	Chinese
+0556	3	Fast Food	Breakfast/Brunch	Sandwiches/Subs
+0557	1	Pub Food
+0558	2	American	Barbecue
+0559	2	Japanese	Asian
+0560	2	American	Barbecue
+0561	1	Desserts/Ice Cream
+0562	3	Mediterranean	Spanish	Tapas
+0563	2	Southwestern	American
+0564	3	American	Pizza	Pub Food
+0565	2	Brazilian	Steakhouse
+0566	2	Sushi	Japanese
+0567	1	Steakhouse
+0568	2	Mexican	Spanish
+0569	2	Seafood	Steakhouse
+0570	3	American	Burgers	Desserts/Ice Cream
+0571	2	Breakfast/Brunch	Buffet
+0572	1	Mexican
+0573	3	Bagels	American	Soups
+0574	2	Mediterranean	California
+0575	1	Pizza
+0576	2	American	Breakfast/Brunch
+0577	2	Japanese	Sushi
+0578	2	American	Breakfast/Brunch
+0579	2	Asian	Chinese
+0580	2	Thai	Asian
+0581	2	Seafood	American
+0582	2	American	Sandwiches/Subs
+0583	3	Italian	Gastropub	Modern American
+0584	2	Sushi	Japanese
+0585	3	Diner	American	Southern &amp; Soul
+0586	1	Steakhouse
+0587	2	Seafood	American
+0588	3	Chinese	Asian	Vegetarian
+0589	3	Breakfast/Brunch	Burgers	Sandwiches/Subs
+0590	2	Burgers	Hot Dogs
+0591	1	Caribbean
+0592	2	American	Steakhouse
+0593	1	Mexican
+0594	2	Japanese	Sushi
+0595	2	Indian	Vegetarian
+0596	2	Pizza	Italian
+0597	3	Sandwiches/Subs	Bakery	Burgers
+0598	1	Middle Eastern
+0599	2	Sandwiches/Subs	Soups
+0600	3	Diner	American	Southern &amp; Soul
+0601	1	American
+0602	3	Burgers	American	Desserts/Ice Cream
+0603	3	American	Bakery	Coffee
+0604	2	Italian	Pizza
+0605	1	Mexican
+0606	3	Desserts/Ice Cream	Fast Food	Smoothies
+0607	2	Desserts/Ice Cream	Smoothies
+0608	3	Mediterranean	California	Italian
+0609	2	Chinese	Dim Sum
+0610	1	Pizza
+0611	2	Asian	Thai
+0612	2	Italian	Pizza
+0613	1	German
+0614	2	Organic	Tea
+0615	2	American	Steakhouse
+0616	3	Burgers	American	Diner
+0617	3	Middle Eastern	Armenian	Fast Food
+0618	3	Burgers	Hot Dogs	Seafood
+0619	2	Indian	Vegetarian
+0620	1	Thai
+0621	3	Steakhouse	Seafood	Sushi
+0622	3	Pizza	Italian	Sandwiches/Subs
+0623	2	Sushi	Japanese
+0624	1	Mexican
+0625	1	Middle Eastern
+0626	1	Latin American
+0627	2	Italian	European
+0628	2	Pizza	Sandwiches/Subs
+0629	3	American	Gastropub	Tapas
+0630	3	Barbecue	Pub Food	Soups
+0631	1	Mediterranean
+0632	2	Coffee	Bakery
+0633	1	Japanese
+0634	2	Donuts	Coffee
+0635	1	Barbecue
+0636	1	Southern &amp; Soul
+0637	3	Pub Food	American	California
+0638	2	German	European
+0639	1	Italian
+0640	1	Barbecue
+0641	2	Seafood	American
+0642	2	Sushi	Japanese
+0643	3	Southern &amp; Soul	Barbecue	Desserts/Ice Cream
+0644	2	Italian	Sandwiches/Subs
+0645	1	Seafood
+0646	1	Mexican
+0647	2	Sandwiches/Subs	California
+0648	1	Caribbean
+0649	1	Burgers
+0650	3	Japanese	Chinese	Sushi
+0651	1	Pizza
+0652	2	Pub Food	American
+0653	2	Pizza	Italian
+0654	3	Burgers	Fast Food	Hot Dogs
+0655	2	Steakhouse	Japanese
+0656	3	American	Burgers	Desserts/Ice Cream
+0657	2	Italian	Pizza
+0658	3	Sandwiches/Subs	American	Burgers
+0659	3	Burgers	Fast Food	Hot Dogs
+0660	3	Seafood	American	Fast Food
+0661	3	American	Breakfast/Brunch	Mediterranean
+0662	2	Steakhouse	American
+0663	1	Modern American
+0664	1	Sandwiches/Subs
+0665	3	Thai	Chinese	Sushi
+0666	3	Sandwiches/Subs	American	Fast Food
+0667	2	Italian	Pizza
+0668	1	Peruvian
+0669	3	Latin American	Coffee	El Salvadoran
+0670	2	Brazilian	Sushi
+0671	3	International	Breakfast/Brunch	Seafood
+0672	3	Coffee	Breakfast/Brunch	Sandwiches/Subs
+0673	3	American	Breakfast/Brunch	Diner
+0674	3	Italian	Organic	Pizza
+0675	3	Soups	American	Sandwiches/Subs
+0676	2	Japanese	Sushi
+0677	2	Italian	Pizza
+0678	3	Desserts/Ice Cream	Burgers	Fast Food
+0679	2	Asian	Chinese
+0680	1	American
+0681	1	Eastern European
+0682	1	Tapas
+0683	3	Latin American	Mexican	Spanish
+0684	3	Steakhouse	Barbecue	Southwestern
+0685	3	Pizza	Italian	Sandwiches/Subs
+0686	1	Italian
+0687	3	American	Hot Dogs	Sandwiches/Subs
+0688	3	American	Burgers	Pub Food
+0689	2	American	Burgers
+0690	3	American	Desserts/Ice Cream	Pub Food
+0691	3	Burgers	American	Pub Food
+0692	3	American	Desserts/Ice Cream	Sandwiches/Subs
+0693	3	American	Burgers	Diner
+0694	2	Pizza	Italian
+0695	3	Pizza	American	Pub Food
+0696	2	Cuban	Caribbean
+0697	2	Asian	Thai
+0698	3	Asian	Japanese	Sushi
+0699	3	Seafood	American	Pub Food
+0700	3	American	Breakfast/Brunch	Burgers
+0701	3	Burgers	Pub Food	Sandwiches/Subs
+0702	1	Italian
+0703	3	Burgers	American	Pizza
+0704	2	Pizza	Italian
+0705	3	Pizza	European	Italian
+0706	3	Asian	Thai	Vegetarian
+0707	3	Asian	Chinese	Vietnamese
+0708	1	Mexican
+0709	3	American	Breakfast/Brunch	Vegetarian
+0710	3	American	Italian	Latin American
+0711	3	Pub Food	English/Irish	European
+0712	2	Steakhouse	Seafood
+0713	3	Bakery	American	Breakfast/Brunch
+0714	2	Sushi	Thai
+0715	3	International	Middle Eastern	Smoothies
+0716	3	Coffee	American	Italian
+0717	1	Italian
+0718	1	Mexican
+0719	2	Sushi	International
+0720	1	Mexican
+0721	2	Sushi	Japanese
+0722	2	American	Greek
+0723	1	Italian
+0724	3	Burgers	American	Steakhouse
+0725	1	Seafood
+0726	3	Mexican	Tacos	Tex-Mex
+0727	2	Southern &amp; Soul	American
+0728	2	French	Cajun/Creole
+0729	3	Breakfast/Brunch	Diner	Seafood
+0730	2	Cajun/Creole	French
+0731	2	Sushi	Japanese
+0732	3	Sandwiches/Subs	Cajun/Creole	Southern &amp; Soul
+0733	1	Breakfast/Brunch
+0734	3	Southern &amp; Soul	French	Seafood
+0735	2	Italian	Pizza
+0736	3	American	Steakhouse	Wine Bar
+0737	3	Breakfast/Brunch	Burgers	Sandwiches/Subs
+0738	3	American	Burgers	Desserts/Ice Cream
+0739	2	French	Breakfast/Brunch
+0740	2	Pizza	Italian
+0741	2	American	Desserts/Ice Cream
+0742	1	European
+0743	3	Burgers	American	Pub Food
+0744	2	Pizza	Italian
+0745	2	American	Southern &amp; Soul
+0746	1	Latin American
+0747	2	Asian	Chinese
+0748	1	Noodle Shop
+0749	1	Mexican
+0750	1	Italian
+0751	2	Pizza	Italian
+0752	1	Italian
+0753	3	Bakery	Desserts/Ice Cream	Mediterranean
+0754	2	American	Modern American
+0755	3	Caribbean	Latin American	Southern &amp; Soul
+0756	1	Greek
+0757	1	Thai
+0758	3	Latin American	Cuban	Spanish
+0759	3	Asian	Chinese	Noodle Shop
+0760	2	Italian	Seafood
+0761	2	American	French
+0762	3	Latin American	Pub Food	Seafood
+0763	2	Pizza	Italian
+0764	3	Turkish	Vegetarian	Wine Bar
+0765	3	American	Burgers	Vegetarian
+0766	2	Chinese	Asian
+0767	1	Italian
+0768	3	Greek	Eastern European	Mediterranean
+0769	3	Vegetarian	Latin American	Mexican
+0770	2	Italian	Pizza
+0771	1	Barbecue
+0772	3	Pizza	Italian	Sandwiches/Subs
+0773	3	Italian	Greek	Pizza
+0774	3	Thai	Japanese	Vegetarian
+0775	2	Italian	Seafood
+0776	3	Mexican	Pub Food	Tacos
+0777	3	Sandwiches/Subs	American	Mediterranean
+0778	2	Italian	Vegetarian
+0779	1	Italian
+0780	3	Pizza	Italian	Sandwiches/Subs
+0781	3	Seafood	American	Breakfast/Brunch
+0782	1	Vietnamese
+0783	2	Diner	Sandwiches/Subs
+0784	1	Thai
+0785	3	Japanese	Seafood	Sushi
+0786	3	Seafood	American	Vegetarian
+0787	3	Barbecue	American	Steakhouse
+0788	1	Sandwiches/Subs
+0789	1	Desserts/Ice Cream
+0790	2	Latin American	Cuban
+0791	2	Italian	American
+0792	1	Seafood
+0793	1	Cuban
+0794	2	Pizza	Italian
+0795	3	Sandwiches/Subs	Bagels	Breakfast/Brunch
+0796	1	Modern American
+0797	2	Barbecue	Portuguese
+0798	2	Chinese	Noodle Shop
+0799	3	American	Burgers	Hot Dogs
+0800	3	Steakhouse	Portuguese	Spanish
+0801	2	Pizza	Italian
+0802	1	Southwestern
+0803	1	Italian
+0804	1	Pizza
+0805	1	French
+0806	3	Burgers	American	Hot Dogs
+0807	2	Chinese	Japanese
+0808	1	Italian
+0809	2	American	European
+0810	1	Pizza
+0811	1	Italian
+0812	2	Steakhouse	Japanese
+0813	3	Burgers	Brazilian	Fast Food
+0814	3	Fast Food	Burgers	Portuguese
+0815	1	Sushi
+0816	1	Thai
+0817	2	Spanish	Portuguese
+0818	2	Sushi	Japanese
+0819	1	Italian
+0820	3	Pizza	California	Vegetarian
+0821	3	Asian	Chinese	Vegetarian
+0822	2	Burgers	Diner
+0823	1	French
+0824	1	Italian
+0825	1	Asian
+0826	3	California	American	Mediterranean
+0827	3	Diner	Breakfast/Brunch	Coffee
+0828	1	Middle Eastern
+0829	2	Burgers	Vegetarian
+0830	2	American	California
+0831	3	Tapas	French	Spanish
+0832	1	Desserts/Ice Cream
+0833	3	Chinese	Asian	Dim Sum
+0834	2	Burgers	Diner
+0835	2	Japanese	Sushi
+0836	3	Burgers	American	Desserts/Ice Cream
+0837	3	Sandwiches/Subs	Italian	Pizza
+0838	2	Breakfast/Brunch	Modern American
+0839	2	French	Bakery
+0840	3	Desserts/Ice Cream	American	French
+0841	2	Chinese	Asian
+0842	3	Pizza	Desserts/Ice Cream	Sandwiches/Subs
+0843	1	Thai
+0844	3	Coffee	Bakery	Desserts/Ice Cream
+0845	3	Gastropub	American	Pub Food
+0846	2	Mexican	Tex-Mex
+0847	3	Seafood	American	Wine Bar
+0848	1	Thai
+0849	3	Spanish	European	Tapas
+0850	1	Sandwiches/Subs
+0851	2	Mexican	Tex-Mex
+0852	2	Pizza	Italian
+0853	3	Wine Bar	Italian	Seafood
+0854	3	Tea	Desserts/Ice Cream	Sandwiches/Subs
+0855	2	Italian	American
+0856	3	Bakery	Coffee	Sandwiches/Subs
+0857	1	Thai
+0858	1	Italian
+0859	2	Mexican	Tex-Mex
+0860	1	Indian
+0861	2	Tacos	Mexican
+0862	2	Italian	Steakhouse
+0863	3	Modern American	Bistro	Wine Bar
+0864	2	Steakhouse	American
+0865	3	Breakfast/Brunch	German	Southern &amp; Soul
+0866	2	Middle Eastern	Mediterranean
+0867	3	Chinese	Asian	Soups
+0868	2	Steakhouse	American
+0869	1	Steakhouse
+0870	3	Pub Food	American	Burgers
+0871	1	American
+0872	3	Organic	American	Vegetarian
+0873	3	Chinese	Asian	Buffet
+0874	2	Asian	Chinese
+0875	2	American	Burgers
+0876	2	Cajun/Creole	Seafood
+0877	1	Pizza
+0878	2	Mexican	Breakfast/Brunch
+0879	2	Thai	Vietnamese
+0880	2	Italian	Breakfast/Brunch
+0881	2	Sandwiches/Subs	Salads
+0882	2	Sushi	Japanese
+0883	1	Barbecue
+0884	3	Japanese	Sushi	Teriyaki
+0885	3	American	Sandwiches/Subs	Vegetarian
+0886	2	Italian	Pizza
+0887	3	American	California	Steakhouse
+0888	2	Japanese	Sushi
+0889	3	American	Breakfast/Brunch	Soups
+0890	1	Burgers
+0891	2	Italian	Pizza
+0892	2	American	Seafood
+0893	1	American
+0894	2	American	Burgers
+0895	1	Seafood
+0896	3	Vegetarian	American	Sandwiches/Subs
+0897	1	Burgers
+0898	2	American	Steakhouse
+0899	1	Mexican
+0900	1	Italian
+0901	3	Gastropub	English/Irish	Modern American
+0902	1	Hawaiian
+0903	2	African	Buffet
+0904	1	Pizza
+0905	3	Japanese	Steakhouse	Sushi
+0906	2	Tapas	Spanish
+0907	2	American	Sushi
+0908	2	American	Desserts/Ice Cream
+0909	3	Cuban	Latin American	Sandwiches/Subs
+0910	1	Modern American
+0911	3	Italian	Pizza	Sandwiches/Subs
+0912	3	Pub Food	English/Irish	Seafood
+0913	3	American	Seafood	Steakhouse
+0914	1	Desserts/Ice Cream
+0915	1	Asian
+0916	2	Japanese	Sushi
+0917	1	Vietnamese
+0918	2	Barbecue	American
+0919	3	Thai	Asian	Japanese
+0920	1	Puerto Rican
+0921	2	Japanese	Sushi
+0922	3	Seafood	American	Pub Food
+0923	3	Sandwiches/Subs	Cheesesteak	Italian
+0924	2	Cheesesteak	Sandwiches/Subs
+0925	3	Fast Food	American	Burgers
+0926	3	Bakery	Desserts/Ice Cream	Sandwiches/Subs
+0927	1	Italian
+0928	3	Japanese	Soups	Sushi
+0929	3	American	Pub Food	Seafood
+0930	3	Caribbean	Afghan	Cuban
+0931	1	Chinese
+0932	2	American	International
+0933	1	Italian
+0934	3	Breakfast/Brunch	Bakery	Sandwiches/Subs
+0935	2	Pizza	Sandwiches/Subs
+0936	1	American
+0937	2	Pub Food	American
+0938	1	Chinese
+0939	1	American
+0940	3	Latin American	Cuban	Spanish
+0941	2	Steakhouse	American
+0942	1	Desserts/Ice Cream
+0943	3	American	Barbecue	Sandwiches/Subs
+0944	2	Pub Food	American
+0945	2	Seafood	American
+0946	1	Spanish
+0947	1	Caribbean
+0948	2	American	Pub Food
+0949	2	Organic	Modern American
+0950	3	Mexican	Caribbean	Chinese
+0951	3	Wine Bar	American	Italian
+0952	3	Hot Dogs	American	Fast Food
+0953	3	International	Desserts/Ice Cream	Greek
+0954	3	Pizza	American	Italian
+0955	3	Pizza	American	Italian
+0956	3	Steakhouse	American	Seafood
+0957	1	Mexican
+0958	2	Italian	Pizza
+0959	2	Italian	Pizza
+0960	1	Mexican
+0961	2	Seafood	Cajun/Creole
+0962	2	Pizza	Italian
+0963	1	Thai
+0964	2	Breakfast/Brunch	American
+0965	2	Asian	Thai
+0966	3	Pizza	American	Sandwiches/Subs
+0967	1	Thai
+0968	3	Japanese	Asian	Sushi
+0969	1	American
+0970	3	Modern American	American	Pub Food
+0971	2	Vietnamese	Vegetarian
+0972	2	Pizza	Italian
+0973	3	Buffet	Asian	Seafood
+0974	3	Italian	European	Wine Bar
+0975	3	American	Breakfast/Brunch	Coffee
+0976	1	Pizza
+0977	2	Sushi	Japanese
+0978	2	Burgers	American
+0979	3	Desserts/Ice Cream	Breakfast/Brunch	Coffee
+0980	3	French	Breakfast/Brunch	Desserts/Ice Cream
+0981	2	Pub Food	Burgers
+0982	1	Mexican
+0983	1	Pizza
+0984	2	French	Coffee
+0985	3	Steakhouse	Japanese	Sushi
+0986	2	Latin American	Tapas
+0987	3	Cuban	Caribbean	Desserts/Ice Cream
+0988	3	Middle Eastern	Greek	Mediterranean
+0989	2	French	Breakfast/Brunch
+0990	2	Thai	Vegetarian
+0991	3	Latin American	Mexican	Tapas
+0992	1	Pub Food
+0993	3	American	Breakfast/Brunch	Burgers
+0994	3	Breakfast/Brunch	Coffee	Sandwiches/Subs
+0995	3	Thai	Asian	Vegetarian
+0996	3	Diner	Breakfast/Brunch	Burgers
+0997	3	Steakhouse	American	Seafood
+0998	2	Pizza	Italian
+0999	2	Teriyaki	Japanese
+1000	3	American	Breakfast/Brunch	Coffee
+1001	2	Japanese	Asian
+1002	1	Italian
+1003	3	Hawaiian	Burgers	Teriyaki
+1004	2	Seafood	Northwest
+1005	2	Pizza	Sandwiches/Subs
+1006	3	Pub Food	Gastropub	Vegetarian
+1007	3	American	Breakfast/Brunch	Burgers
+1008	2	Japanese	Sushi
+1009	3	Asian	Japanese	Vietnamese
+1010	3	Burgers	American	Seafood
+1011	2	Pizza	Fast Food
+1012	1	French
+1013	3	American	French	Modern American
+1014	1	Chinese
+1015	2	Italian	French
+1016	3	Wine Bar	Seafood	Steakhouse
+1017	3	Asian	Chinese	Thai
+1018	1	Pizza
+1019	3	Japanese	Sushi	Vegetarian
+1020	1	Bagels
+1021	2	Caribbean	Latin American
+1022	3	Vietnamese	Chinese	Thai
+1023	2	International	Italian
+1024	2	Modern American	Gastropub
+1025	1	Bakery
+1026	2	Asian	Korean
+1027	1	Pizza
+1028	2	International	American
+1029	3	Steakhouse	American	Seafood
+1030	1	Desserts/Ice Cream
+1031	2	Pizza	Italian
+1032	3	German	Coffee	Wine Bar
+1033	3	American	International	Pub Food
+1034	2	Mexican	Southwestern
+1035	3	American	Burgers	Diner
+1036	3	Japanese	American	Chinese
+1037	2	Pizza	Italian
+1038	3	Italian	Desserts/Ice Cream	Mediterranean
+1039	3	American	Pub Food	Sandwiches/Subs
+1040	3	American	International	Pub Food
+1041	3	Southern &amp; Soul	American	Breakfast/Brunch
+1042	1	Burgers
+1043	2	American	Pub Food
+1044	3	American	Burgers	Sandwiches/Subs
+1045	3	American	Desserts/Ice Cream	International
+1046	2	Southern &amp; Soul	Cajun/Creole
+1047	2	Burgers	American
+1048	3	Japanese	Soups	Sushi
+1049	2	Japanese	Sushi
+1050	3	Sushi	Asian	Seafood
+1051	3	Italian	Pizza	Sandwiches/Subs
+1052	2	Vietnamese	Asian
+1053	1	Southern &amp; Soul
+1054	1	European
+1055	1	Pizza
+1056	3	Seafood	Caribbean	Latin American
+1057	2	Burgers	American
+1058	1	Thai
+1059	2	Thai	Vegetarian
+1060	2	American	California
+1061	3	Steakhouse	Japanese	Sushi
+1062	1	Sushi
+1063	3	Japanese	Asian	Sushi
+1064	3	Fast Food	American	Mexican
+1065	1	Mexican
+1066	1	Thai
+1067	1	American
+1068	1	American
+1069	3	Donuts	Coffee	Diner
+1070	2	Japanese	Steakhouse
+1071	1	Barbecue
+1072	1	Thai
+1073	1	American
+1074	1	Mediterranean
+1075	1	International
+1076	1	Italian
+1077	1	Mexican
+1078	1	Italian
+1079	3	Seafood	Burgers	Sandwiches/Subs
+1080	3	Sandwiches/Subs	Coffee	Smoothies
+1081	1	Italian
+1082	2	Seafood	Steakhouse
+1083	3	Mediterranean	Italian	Tapas
+1084	3	American	Pizza	Tapas
+1085	2	Bakery	Sandwiches/Subs
+1086	1	Italian
+1087	2	Japanese	Sushi
+1088	1	Chinese
+1089	1	Italian
+1090	3	Japanese	Asian	Sushi
+1091	1	Pizza
+1092	3	French	Breakfast/Brunch	California
+1093	2	Vegetarian	Fast Food
+1094	1	Pizza
+1095	3	American	Salads	Sandwiches/Subs
+1096	2	Japanese	Sushi
+1097	3	Italian	California	Pizza
+1098	3	American	Salads	Sandwiches/Subs
+1099	3	Japanese	Buffet	Sushi
+1100	2	American	California
+1101	3	Mexican	Caribbean	International
+1102	3	Greek	Mediterranean	Middle Eastern
+1103	1	Mexican
+1104	3	Burgers	American	Fast Food
+1105	1	Barbecue
+1106	3	Chinese	Asian	Vegetarian
+1107	1	Steakhouse
+1108	1	Middle Eastern
+1109	2	International	Indian
+1110	3	Breakfast/Brunch	American	Coffee
+1111	1	Brazilian
+1112	2	International	American
+1113	1	Indian
+1114	2	German	Pub Food
+1115	2	Bakery	Donuts
+1116	3	Coffee	American	Sandwiches/Subs
+1117	3	European	American	Breakfast/Brunch
+1118	1	Burgers
+1119	2	Vegetarian	American
+1120	3	Mexican	Tacos	Tex-Mex
+1121	3	Asian	Sushi	Thai
+1122	3	Indian	Asian	International
+1123	3	Tapas	European	Vegetarian
+1124	2	American	Burgers
+1125	3	American	Burgers	Southwestern
+1126	2	Pizza	Italian
+1127	3	Burgers	American	Hot Dogs
+1128	3	Mexican	International	Tex-Mex
+1129	1	Italian
+1130	3	American	Burgers	Seafood
+1131	2	Mexican	Tex-Mex
+1132	2	Sushi	Japanese
+1133	1	Burgers
+1134	2	American	European
+1135	3	American	Burgers	Tex-Mex
+1136	2	Sushi	Japanese
+1137	3	French	Breakfast/Brunch	Seafood
+1138	3	Sandwiches/Subs	International	Soups
+1139	3	American	Burgers	Modern American
+1140	1	American
+1141	1	Moroccan
+1142	2	Italian	Mediterranean
+1143	1	Mexican
+1144	3	Pizza	Burgers	Hot Dogs
+1145	2	Pizza	Italian
+1146	3	Ethiopian/Eritrean	African	Vegetarian
+1147	3	Seafood	American	California
+1148	2	American	Burgers
+1149	2	Sushi	Japanese
+1150	2	Seafood	American
+1151	1	Italian
+1152	3	Vegetarian	California	International
+1153	2	Spanish	Tapas
+1154	2	Japanese	Sushi
+1155	3	French	American	European
+1156	1	Sushi
+1157	1	Mexican
+1158	1	Mexican
+1159	1	Mexican
+1160	1	Pizza
+1161	3	Sandwiches/Subs	Desserts/Ice Cream	Hot Dogs
+1162	1	Thai
+1163	1	Desserts/Ice Cream
+1164	2	Tacos	Mexican
+1165	1	Mexican
+1166	1	Breakfast/Brunch
+1167	1	Italian
+1168	1	Pizza
+1169	1	American
+1170	1	Desserts/Ice Cream
+1171	3	Italian	California	Pizza
+1172	1	Sandwiches/Subs
+1173	1	Thai
+1174	2	California	Breakfast/Brunch
+1175	2	Seafood	Modern American
+1176	2	Southern &amp; Soul	Breakfast/Brunch
+1177	2	Italian	Pizza
+1178	1	Sandwiches/Subs
+1179	1	French
+1180	1	French
+1181	1	Thai
+1182	3	Breakfast/Brunch	Cajun/Creole	French
+1183	2	Italian	Seafood
+1184	1	Thai
+1185	3	Northwest	Modern American	Seafood
+1186	3	Cuban	Caribbean	Sandwiches/Subs
+1187	2	Greek	Mediterranean
+1188	1	Steakhouse
+1189	2	Northwest	American
+1190	3	Mexican	Southwestern	Spanish
+1191	2	Vietnamese	Vegetarian
+1192	3	Turkish	Greek	Mediterranean
+1193	2	Italian	Seafood
+1194	2	Pizza	Italian
+1195	2	Coffee	Desserts/Ice Cream
+1196	1	Desserts/Ice Cream
+1197	1	American
+1198	2	American	Wine Bar
+1199	3	Middle Eastern	Mediterranean	Vegetarian
+1200	2	American	Pub Food
+1201	3	Mexican	Spanish	Tacos
+1202	2	American	Seafood
+1203	3	English/Irish	Gastropub	Pub Food
+1204	2	Greek	Mediterranean
+1205	1	Italian
+1206	1	American
+1207	1	Desserts/Ice Cream
+1208	1	Italian
+1209	2	American	Pub Food
+1210	3	Steakhouse	Japanese	Sushi
+1211	3	Japanese	Seafood	Thai
+1212	2	Italian	American
+1213	1	Mexican
+1214	1	Pizza
+1215	3	Pizza	Italian	Sandwiches/Subs
+1216	1	Barbecue
+1217	3	American	Burgers	Sandwiches/Subs
+1218	3	Wine Bar	Italian	Pizza
+1219	1	Tapas
+1220	1	Middle Eastern
+1221	3	Pizza	Italian	Sandwiches/Subs
+1222	3	Burgers	American	Hot Dogs
+1223	2	Sushi	Japanese
+1224	1	Italian
+1225	3	Sandwiches/Subs	Italian	Pizza
+1226	1	Mexican
+1227	1	Pizza
+1228	2	Pub Food	Burgers
+1229	2	Italian	Wine Bar
+1230	1	Indian
+1231	1	Pizza
+1232	1	Chinese
+1233	1	Sandwiches/Subs
+1234	1	Desserts/Ice Cream
+1235	1	Italian
+1236	3	American	Southern &amp; Soul	Vegetarian
+1237	3	Seafood	American	Steakhouse
+1238	3	Mexican	Breakfast/Brunch	Spanish
+1239	3	Tapas	Breakfast/Brunch	Spanish
+1240	3	Steakhouse	Japanese	Sushi
+1241	3	Italian	European	Mediterranean
+1242	3	Desserts/Ice Cream	American	Sandwiches/Subs
+1243	2	Wine Bar	American
+1244	3	Thai	Asian	Sushi
+1245	3	Pizza	American	Italian
+1246	2	Asian	Vietnamese
+1247	1	Barbecue
+1248	1	Cajun/Creole
+1249	2	American	Desserts/Ice Cream
+1250	2	Spanish	Tapas
+1251	1	Seafood
+1252	3	Italian	International	Seafood
+1253	3	Pub Food	California	Sandwiches/Subs
+1254	1	Desserts/Ice Cream
+1255	1	Burgers
+1256	1	Greek
+1257	2	Bakery	Sandwiches/Subs
+1258	1	Mexican
+1259	3	Pub Food	American	Pizza
+1260	2	Italian	Pizza
+1261	1	Indian
+1262	1	Breakfast/Brunch
+1263	2	Mexican	California
+1264	3	Sandwiches/Subs	Coffee	Pizza
+1265	2	Tacos	Mexican
+1266	2	Italian	Pizza
+1267	2	Tacos	Mexican
+1268	1	Mexican
+1269	1	Indian
+1270	1	Coffee
+1271	1	Mexican
+1272	2	American	Fast Food
+1273	3	Greek	Fast Food	Mediterranean
+1274	1	Steakhouse
+1275	3	Latin American	Caribbean	Spanish
+1276	3	Pub Food	American	English/Irish
+1277	2	Pub Food	American
+1278	2	Japanese	Sushi
+1279	2	Pizza	Sandwiches/Subs
+1280	2	Steakhouse	Seafood
+1281	1	Mexican
+1282	2	Mexican	Tex-Mex
+1283	2	Italian	Pizza
+1284	3	American	Buffet	Cajun/Creole
+1285	1	Mexican
+1286	2	Japanese	Steakhouse
+1287	2	Diner	Asian
+1288	1	Breakfast/Brunch
+1289	3	Burgers	American	Breakfast/Brunch
+1290	1	American
+1291	3	American	Seafood	Steakhouse
+1292	1	Mexican
+1293	2	Japanese	Sushi
+1294	1	Italian
+1295	1	Pizza
+1296	3	Steakhouse	American	Burgers
+1297	1	Burgers
+1298	3	Sandwiches/Subs	Breakfast/Brunch	Hot Dogs
+1299	3	Pizza	American	Burgers
+1300	2	Mediterranean	International
+1301	2	Pizza	Italian
+1302	3	Italian	Pizza	Sandwiches/Subs
+1303	2	Tapas	Spanish
+1304	3	Pub Food	Belgian	European
+1305	2	Seafood	American
+1306	1	Italian
+1307	2	Burgers	Fast Food
+1308	3	Burgers	American	Pub Food
+1309	1	Thai
+1310	3	Mediterranean	American	Vegetarian
+1311	3	Middle Eastern	Fast Food	Vegetarian
+1312	3	Greek	Mediterranean	Pizza
+1313	2	Chicken	African
+1314	1	Thai
+1315	1	Sandwiches/Subs
+1316	3	Greek	Mediterranean	Tapas
+1317	3	Southwestern	Latin American	Mexican
+1318	3	American	Breakfast/Brunch	Pub Food
+1319	3	Desserts/Ice Cream	American	Bakery
+1320	3	Latin American	Mexican	Tex-Mex
+1321	2	Burgers	Fast Food
+1322	2	Pizza	Italian
+1323	3	American	Seafood	Steakhouse
+1324	3	Burgers	Fast Food	Organic
+1325	3	American	Coffee	Southern &amp; Soul
+1326	3	Sandwiches/Subs	Bakery	Breakfast/Brunch
+1327	0	<NULL>
+1328	2	American	Sandwiches/Subs
+1329	3	Southwestern	Barbecue	Mexican
+1330	2	Southwestern	Barbecue
+1331	2	Pizza	Wine Bar
+1332	1	Fast Food
+1333	1	Pizza
+1334	0	<NULL>
+1335	0	<NULL>
+1336	2	Pizza	Italian
+1337	3	Steakhouse	Italian	Wine Bar
+1338	3	Pizza	Buffet	Italian
+1339	1	Tacos
+1340	1	Pizza
+1341	2	New Mexican	Mexican
+1342	2	Thai	Vegetarian
+1343	2	Pizza	Italian
+1344	1	Pub Food
+1345	1	Indian
+1346	3	Pizza	Italian	Pub Food
+1347	1	Chinese
+1348	1	Pizza
+1349	1	Coffee
+1350	2	Tapas	American
+1351	2	Asian	Chinese
+1352	3	Sandwiches/Subs	Coffee	Desserts/Ice Cream
+1353	1	Smoothies
+1354	1	Sandwiches/Subs
+1355	2	Sandwiches/Subs	Breakfast/Brunch
+1356	1	Sushi
+1357	3	Sandwiches/Subs	Fast Food	Soups
+1358	3	Breakfast/Brunch	American	Southwestern
+1359	1	Sandwiches/Subs
+1360	2	Mexican	New Mexican
+1361	1	Barbecue
+1362	2	Pub Food	Sandwiches/Subs
+1363	1	Mexican
+1364	2	American	Fast Food
+1365	2	Mexican	New Mexican
+1366	1	American
+1367	1	Sandwiches/Subs
+1368	3	American	Burgers	Fast Food
+1369	2	Mexican	New Mexican
+1370	0	<NULL>
+1371	0	<NULL>
+1372	2	Mexican	Southwestern
+1373	2	Coffee	Diner
+1374	1	Sandwiches/Subs
+1375	1	Pizza
+1376	3	Sandwiches/Subs	Bagels	Breakfast/Brunch
+1377	1	Pizza
+1378	2	Pizza	Buffet
+1379	3	Steakhouse	Italian	Mediterranean
+1380	1	Diner
+1381	1	Burgers
+1382	3	Fast Food	American	Burgers
+1383	1	Pizza
+1384	2	Burgers	Hot Dogs
+1385	3	Burgers	Fast Food	Sandwiches/Subs
+1386	1	Pizza
+1387	1	French
+1388	2	Mexican	New Mexican
+1389	3	Sushi	Asian	Japanese
+1390	0	<NULL>
+1391	2	Thai	Vegetarian
+1392	3	Bakery	Donuts	Sandwiches/Subs
+1393	2	Thai	Asian
+1394	0	<NULL>
+1395	2	Seafood	Sandwiches/Subs
+1396	1	Coffee
+1397	1	Chinese
+1398	0	<NULL>
+1399	1	Sandwiches/Subs
+1400	3	Barbecue	American	Seafood
+1401	1	Desserts/Ice Cream
+1402	3	Vegetarian	Burgers	Organic
+1403	1	American
+1404	1	Asian
+1405	2	Sushi	Japanese
+1406	1	Pizza
+1407	1	Chinese
+1408	2	Pizza	Italian
+1409	0	<NULL>
+1410	2	Bakery	Sandwiches/Subs
+1411	1	Pizza
+1412	2	Sushi	Japanese
+1413	1	Seafood
+1414	1	Chinese
+1415	3	Mexican	American	Barbecue
+1416	1	Pizza
+1417	1	Mexican
+1418	1	Pizza
+1419	1	Mexican
+1420	1	Pizza
+1421	2	Barbecue	Korean
+1422	1	Coffee
+1423	2	Hawaiian	Burgers
+1424	1	Pizza
+1425	0	<NULL>
+1426	1	Pizza
+1427	1	Sandwiches/Subs
+1428	0	<NULL>
+1429	1	Pizza
+1430	1	Thai
+1431	1	Pizza
+1432	1	Desserts/Ice Cream
+1433	1	Fast Food
+1434	0	<NULL>
+1435	1	Asian
+1436	0	<NULL>
+1437	2	Japanese	Sushi
+1438	1	Coffee
+1439	1	American
+1440	2	Pub Food	International
+1441	1	Donuts
+1442	1	Coffee
+1443	3	Seafood	Breakfast/Brunch	Steakhouse
+1444	1	Steakhouse
+1445	2	American	Diner
+1446	1	Desserts/Ice Cream
+1447	2	Tacos	Mexican
+1448	0	<NULL>
+1449	1	American
+1450	3	Bagels	Breakfast/Brunch	Sandwiches/Subs
+1451	1	Coffee
+1452	0	<NULL>
+1453	1	Chinese
+1454	1	American
+1455	1	Chinese
+1456	1	Burgers
+1457	0	<NULL>
+1458	3	American	Breakfast/Brunch	Burgers
+1459	1	Mexican
+1460	0	<NULL>
+1461	1	Chinese
+1462	3	American	Burgers	Sandwiches/Subs
+1463	1	Seafood
+1464	1	Desserts/Ice Cream
+1465	3	Southern &amp; Soul	Cajun/Creole	Seafood
+1466	3	Steakhouse	American	Seafood
+1467	3	European	Italian	Modern American
+1468	1	Breakfast/Brunch
+1469	1	Desserts/Ice Cream
+1470	3	Sandwiches/Subs	American	Seafood
+1471	2	Coffee	Diner
+1472	1	Italian
+1473	3	American	Gastropub	Wine Bar
+1474	1	Desserts/Ice Cream
+1475	2	Desserts/Ice Cream	Smoothies
+1476	1	Steakhouse
+1477	2	Mexican	American
+1478	1	Sandwiches/Subs
+1479	1	Steakhouse
+1480	2	Modern American	Tapas
+1481	2	Italian	Pizza
+1482	2	Seafood	Cajun/Creole
+1483	2	French	Mediterranean
+1484	2	American	Pub Food
+1485	2	Cuban	Latin American
+1486	0	<NULL>
+1487	0	<NULL>
+1488	3	American	Breakfast/Brunch	Caribbean
+1489	3	Bagels	Breakfast/Brunch	Sandwiches/Subs
+1490	2	Mexican	California
+1491	3	Coffee	American	Sandwiches/Subs
+1492	3	Thai	Asian	French
+1493	2	Southern &amp; Soul	Modern American
+1494	1	Southern &amp; Soul
+1495	1	Coffee
+1496	2	Sushi	Thai
+1497	2	Sushi	American
+1498	2	American	Smoothies
+1499	2	American	Burgers
+1500	1	Sandwiches/Subs
+1501	2	Thai	Sushi
+1502	2	Barbecue	Burgers
+1503	2	American	Sandwiches/Subs
+1504	2	American	Pub Food
+1505	3	Burgers	Fast Food	Hot Dogs
+1506	2	Chinese	Asian
+1507	1	Fast Food
+1508	3	American	Pub Food	Sandwiches/Subs
+1509	2	Southern &amp; Soul	American
+1510	1	Desserts/Ice Cream
+1511	1	Mexican
+1512	2	Burgers	Hot Dogs
+1513	2	Mediterranean	Italian
+1514	1	Pub Food
+1515	1	American
+1516	1	Sandwiches/Subs
+1517	2	Turkish	Mediterranean
+1518	1	Modern American
+1519	1	Pub Food
+1520	2	Coffee	Donuts
+1521	2	Asian	Chinese
+1522	3	Pub Food	American	Steakhouse
+1523	1	Pub Food
+1524	0	<NULL>
+1525	3	Hot Dogs	Burgers	Sandwiches/Subs
+1526	1	Mexican
+1527	3	Japanese	Seafood	Sushi
+1528	1	Thai
+1529	0	<NULL>
+1530	1	Italian
+1531	1	Chinese
+1532	3	International	Tapas	Wine Bar
+1533	3	Sandwiches/Subs	Tapas	Wine Bar
+1534	1	Southwestern
+1535	1	Pizza
+1536	1	Mexican
+1537	3	Bakery	American	Sandwiches/Subs
+1538	2	Mexican	Tex-Mex
+1539	0	<NULL>
+1540	3	International	English/Irish	Seafood
+1541	2	American	Diner
+1542	1	Donuts
+1543	1	Coffee
+1544	2	Modern American	Southern &amp; Soul
+1545	2	Mexican	Vegetarian
+1546	1	American
+1547	2	Indian	Seafood
+1548	2	Pub Food	Sandwiches/Subs
+1549	2	Thai	Asian
+1550	1	Southwestern
+1551	1	Bakery
+1552	1	Desserts/Ice Cream
+1553	3	Sushi	American	Thai
+1554	3	Pub Food	English/Irish	Sandwiches/Subs
+1555	1	Thai
+1556	2	Sushi	Vegetarian
+1557	3	Mexican	Southwestern	Tacos
+1558	1	American
+1559	1	Coffee
+1560	3	African	Middle Eastern	Moroccan
+1561	2	Mexican	American
+1562	2	Mexican	American
+1563	1	Coffee
+1564	3	Fast Food	Burgers	Sandwiches/Subs
+1565	2	American	Burgers
+1566	1	Pub Food
+1567	2	French	Thai
+1568	3	Bakery	Desserts/Ice Cream	Sandwiches/Subs
+1569	1	Pizza
+1570	2	Steakhouse	American
+1571	1	Italian
+1572	2	Steakhouse	American
+1573	3	Sandwiches/Subs	Breakfast/Brunch	Desserts/Ice Cream
+1574	2	International	Pub Food
+1575	1	Sandwiches/Subs
+1576	1	Barbecue
+1577	3	Sandwiches/Subs	Greek	Mediterranean
+1578	3	Mexican	Southwestern	Tex-Mex
+1579	2	Mexican	Fast Food
+1580	1	Desserts/Ice Cream
+1581	1	Pizza
+1582	3	Burgers	American	Fast Food
+1583	1	Bakery
+1584	3	Vegetarian	Pub Food	Smoothies
+1585	1	Vegetarian
+1586	0	<NULL>
+1587	3	Coffee	Bakery	Sandwiches/Subs
+1588	1	Steakhouse
+1589	3	Sandwiches/Subs	Pizza	Soups
+1590	3	American	Burgers	Pub Food
+1591	3	Vietnamese	Japanese	Sushi
+1592	1	American
+1593	1	Desserts/Ice Cream
+1594	2	American	Sandwiches/Subs
+1595	3	Coffee	Breakfast/Brunch	Sandwiches/Subs
+1596	1	Pizza
+1597	1	International
+1598	1	Desserts/Ice Cream
+1599	3	Sandwiches/Subs	Coffee	Organic
+1600	1	Tacos
+1601	2	Mexican	Tex-Mex
+1602	3	American	Greek	International
+1603	0	<NULL>
+1604	2	Italian	Pizza
+1605	3	Organic	Breakfast/Brunch	Vegetarian
+1606	2	Mexican	Tex-Mex
+1607	1	Barbecue
+1608	1	Japanese
+1609	1	Hot Dogs
+1610	1	Vietnamese
+1611	2	Breakfast/Brunch	American
+1612	2	Tacos	Mexican
+1613	3	Pizza	Italian	Sandwiches/Subs
+1614	0	<NULL>
+1615	2	Coffee	Bakery
+1616	2	Burgers	Breakfast/Brunch
+1617	2	Fast Food	Chicken
+1618	0	<NULL>
+1619	1	Greek
+1620	0	<NULL>
+1621	2	Chinese	Korean
+1622	1	Barbecue
+1623	1	Pizza
+1624	3	Wine Bar	Coffee	Desserts/Ice Cream
+1625	1	Fast Food
+1626	3	Bagels	Coffee	Sandwiches/Subs
+1627	0	<NULL>
+1628	2	Chinese	Dim Sum
+1629	2	Tex-Mex	Mexican
+1630	0	<NULL>
+1631	2	Cajun/Creole	Southern &amp; Soul
+1632	1	Pub Food
+1633	1	Mexican
+1634	1	Chinese
+1635	3	Sushi	Asian	Japanese
+1636	3	American	Breakfast/Brunch	Diner
+1637	1	Mexican
+1638	1	Desserts/Ice Cream
+1639	2	Steakhouse	American
+1640	1	Pizza
+1641	1	Italian
+1642	1	Coffee
+1643	1	Pizza
+1644	1	Donuts
+1645	3	African	Buffet	Wine Bar
+1646	0	<NULL>
+1647	1	American
+1648	1	Mexican
+1649	1	Mexican
+1650	3	American	Burgers	Pub Food
+1651	1	Barbecue
+1652	1	Sandwiches/Subs
+1653	0	<NULL>
+1654	1	French
+1655	3	Seafood	American	Steakhouse
+1656	0	<NULL>
+1657	2	Asian	Sushi
+1658	1	Eastern European
+1659	1	Chinese
+1660	1	Sandwiches/Subs
+1661	1	Seafood
+1662	1	Desserts/Ice Cream
+1663	2	Pub Food	American
+1664	1	Indian
+1665	0	<NULL>
+1666	1	American
+1667	0	<NULL>
+1668	2	French	Caribbean
+1669	1	Vietnamese
+1670	1	Chinese
+1671	2	Wine Bar	Tapas
+1672	0	<NULL>
+1673	0	<NULL>
+1674	1	Middle Eastern
+1675	1	Seafood
+1676	3	Greek	Pizza	Sandwiches/Subs
+1677	2	Seafood	Italian
+1678	2	Burgers	Fast Food
+1679	2	Fast Food	American
+1680	0	<NULL>
+1681	2	Middle Eastern	Afghan
+1682	1	Barbecue
+1683	0	<NULL>
+1684	1	Soups
+1685	3	Seafood	Greek	Mediterranean
+1686	1	Pub Food
+1687	1	Pub Food
+1688	3	Sushi	Japanese	Teriyaki
+1689	1	Bakery
+1690	0	<NULL>
+1691	1	Pub Food
+1692	0	<NULL>
+1693	2	Bakery	Greek
+1694	0	<NULL>
+1695	2	Latin American	Mexican
+1696	0	<NULL>
+1697	2	Bakery	Middle Eastern
+1698	3	Pub Food	American	Italian
+1699	1	Pub Food
+1700	0	<NULL>
+1701	2	Sandwiches/Subs	Fast Food
+1702	1	Chinese
+1703	2	Modern American	Wine Bar
+1704	1	American
+1705	1	Mexican
+1706	1	International
+1707	1	Sandwiches/Subs
+1708	1	Bagels
+1709	1	Japanese
+1710	1	Pizza
+1711	2	Southern &amp; Soul	Breakfast/Brunch
+1712	3	Coffee	Indian	Smoothies
+1713	1	Desserts/Ice Cream
+1714	0	<NULL>
+1715	1	Thai
+1716	3	Indian	Pizza	Sandwiches/Subs
+1717	1	American
+1718	1	Donuts
+1719	3	Spanish	Latin American	Mexican
+1720	2	Pizza	Sandwiches/Subs
+1721	1	Asian
+1722	1	Sandwiches/Subs
+1723	1	Coffee
+1724	1	Sandwiches/Subs
+1725	3	Southwestern	American	Breakfast/Brunch
+1726	3	American	Breakfast/Brunch	Southern &amp; Soul
+1727	1	Caribbean
+1728	2	Mexican	Fast Food
+1729	1	Burgers
+1730	2	Sandwiches/Subs	Eastern European
+1731	2	Coffee	American
+1732	1	Coffee
+1733	1	Cajun/Creole
+1734	3	Burgers	American	Italian
+1735	1	Steakhouse
+1736	1	Chinese
+1737	1	Desserts/Ice Cream
+1738	2	Asian	Chinese
+1739	1	Seafood
+1740	1	Italian
+1741	3	American	Fast Food	Sandwiches/Subs
+1742	0	<NULL>
+1743	1	Seafood
+1744	1	Coffee
+1745	1	Mexican
+1746	3	American	Asian	Sushi
+1747	3	Seafood	Pub Food	Soups
+1748	1	American
+1749	3	Southern &amp; Soul	Seafood	Steakhouse
+1750	1	Chinese
+1751	1	African
+1752	1	Sushi
+1753	1	Barbecue
+1754	1	Italian
+1755	1	Fast Food
+1756	1	Greek
+1757	1	Desserts/Ice Cream
+1758	1	Desserts/Ice Cream
+1759	1	Chinese
+1760	1	Japanese
+1761	1	Seafood
+1762	2	Southern &amp; Soul	Fast Food
+1763	1	Barbecue
+1764	0	<NULL>
+1765	1	Chinese
+1766	2	Sandwiches/Subs	Soups
+1767	2	Donuts	Bakery
+1768	2	French	Southern &amp; Soul
+1769	3	Coffee	Desserts/Ice Cream	Tea
+1770	1	Mediterranean
+1771	2	Fast Food	Smoothies
+1772	1	Chinese
+1773	2	Bakery	Breakfast/Brunch
+1774	2	Bakery	Sandwiches/Subs
+1775	2	Fast Food	Burgers
+1776	1	Pizza
+1777	3	Pizza	Italian	Seafood
+1778	1	Mexican
+1779	3	Tacos	Fast Food	Mexican
+1780	1	Mexican
+1781	1	Seafood
+1782	0	<NULL>
+1783	3	American	Fast Food	Sandwiches/Subs
+1784	0	<NULL>
+1785	1	Sushi
+1786	1	Chinese
+1787	1	Thai
+1788	2	Seafood	Steakhouse
+1789	2	American	Fast Food
+1790	2	Coffee	Tea
+1791	1	Chinese
+1792	1	Coffee
+1793	2	Vegetarian	Mexican
+1794	3	Mexican	American	Latin American
+1795	1	Pizza
+1796	2	Burgers	Fast Food
+1797	1	Fast Food
+1798	3	Sandwiches/Subs	Pizza	Soups
+1799	3	Japanese	Asian	Sushi
+1800	3	Noodle Shop	Chinese	Italian
+1801	1	Thai
+1802	1	Sandwiches/Subs
+1803	3	Mediterranean	Greek	Italian
+1804	1	Desserts/Ice Cream
+1805	1	Barbecue
+1806	2	Fast Food	Burgers
+1807	1	Hot Dogs
+1808	3	Bakery	Sandwiches/Subs	Soups
+1809	1	Coffee
+1810	2	Mediterranean	Greek
+1811	3	American	Desserts/Ice Cream	Soups
+1812	2	American	Burgers
+1813	1	Mexican
+1814	2	Bakery	Sandwiches/Subs
+1815	1	Barbecue
+1816	3	Sandwiches/Subs	Seafood	Soups
+1817	1	Barbecue
+1818	1	Mexican
+1819	2	Bakery	Sandwiches/Subs
+1820	1	Southern &amp; Soul
+1821	1	Sandwiches/Subs
+1822	3	Sandwiches/Subs	American	Southern &amp; Soul
+1823	1	Coffee
+1824	1	Mexican
+1825	1	Mexican
+1826	3	American	Breakfast/Brunch	Diner
+1827	2	Barbecue	American
+1828	1	Coffee
+1829	3	Seafood	Burgers	Southern &amp; Soul
+1830	3	American	Seafood	Steakhouse
+1831	1	Mexican
+1832	3	Barbecue	Fast Food	Pub Food
+1833	1	Mexican
+1834	3	Japanese	Asian	Sushi
+1835	1	Desserts/Ice Cream
+1836	3	American	Breakfast/Brunch	Diner
+1837	3	Coffee	Bakery	Desserts/Ice Cream
+1838	3	Pub Food	Cajun/Creole	Sandwiches/Subs
+1839	1	Italian
+1840	1	Ethiopian/Eritrean
+1841	1	Donuts
+1842	2	Middle Eastern	Kosher
+1843	1	Pizza
+1844	2	Coffee	Diner
+1845	3	Bakery	Coffee	Diner
+1846	3	Japanese	Korean	Sushi
+1847	2	Italian	Sandwiches/Subs
+1848	2	Italian	Pizza
+1849	2	Italian	Pizza
+1850	1	Italian
+1851	2	Coffee	Tea
+1852	1	Thai
+1853	3	Sandwiches/Subs	Burgers	Soups
+1854	1	Bakery
+1855	3	Japanese	Korean	Sushi
+1856	0	<NULL>
+1857	3	Gastropub	English/Irish	Pub Food
+1858	2	Breakfast/Brunch	American
+1859	1	Sandwiches/Subs
+1860	1	Pub Food
+1861	3	Pizza	Italian	Sandwiches/Subs
+1862	2	Burgers	American
+1863	2	Seafood	Chinese
+1864	1	Pizza
+1865	1	Fast Food
+1866	1	Chinese
+1867	0	<NULL>
+1868	2	Soups	Pizza
+1869	3	Donuts	Desserts/Ice Cream	Fast Food
+1870	1	Pub Food
+1871	2	American	International
+1872	1	Pizza
+1873	2	Indian	Pakistani
+1874	1	Sandwiches/Subs
+1875	1	Pizza
+1876	3	Desserts/Ice Cream	Bakery	Coffee
+1877	1	Sandwiches/Subs
+1878	1	Coffee
+1879	1	Pizza
+1880	0	<NULL>
+1881	1	Japanese
+1882	1	American
+1883	2	Italian	Desserts/Ice Cream
+1884	2	Italian	Pizza
+1885	2	Pub Food	American
+1886	1	Portuguese
+1887	0	<NULL>
+1888	2	Vegetarian	Organic
+1889	1	American
+1890	3	Japanese	Asian	Korean
+1891	1	Pizza
+1892	3	Chinese	American	Asian
+1893	2	Barbecue	Chinese
+1894	0	<NULL>
+1895	0	<NULL>
+1896	2	Asian	Chinese
+1897	3	Coffee	Desserts/Ice Cream	Smoothies
+1898	0	<NULL>
+1899	1	Mexican
+1900	2	Coffee	Donuts
+1901	1	Spanish
+1902	1	Pub Food
+1903	1	Chinese
+1904	2	Burgers	Fast Food
+1905	1	Pizza
+1906	2	Italian	Pizza
+1907	2	French	American
+1908	3	Bagels	Donuts	Fast Food
+1909	3	Coffee	Desserts/Ice Cream	Diner
+1910	3	American	Fast Food	Soups
+1911	1	Burgers
+1912	2	Italian	Modern American
+1913	1	Pizza
+1914	1	Desserts/Ice Cream
+1915	2	Vietnamese	Asian
+1916	3	Pizza	Sandwiches/Subs	Soups
+1917	1	Pizza
+1918	3	Italian	Mediterranean	Pizza
+1919	3	Asian	Noodle Shop	Vietnamese
+1920	1	Desserts/Ice Cream
+1921	1	Barbecue
+1922	0	<NULL>
+1923	3	Sushi	American	Sandwiches/Subs
+1924	0	<NULL>
+1925	3	Sandwiches/Subs	Breakfast/Brunch	Fast Food
+1926	1	Pizza
+1927	3	Fast Food	Sandwiches/Subs	Southern &amp; Soul
+1928	1	Pub Food
+1929	3	Sandwiches/Subs	Breakfast/Brunch	Fast Food
+1930	3	Breakfast/Brunch	Diner	Sandwiches/Subs
+1931	3	American	Pub Food	Sandwiches/Subs
+1932	1	Desserts/Ice Cream
+1933	1	Coffee
+1934	1	Pub Food
+1935	1	Mexican
+1936	3	Sandwiches/Subs	American	Breakfast/Brunch
+1937	0	<NULL>
+1938	2	Pub Food	American
+1939	3	Coffee	Breakfast/Brunch	Fast Food
+1940	1	Steakhouse
+1941	2	Mediterranean	Fast Food
+1942	1	Korean
+1943	3	Burgers	American	Sandwiches/Subs
+1944	1	Chinese
+1945	3	Sandwiches/Subs	Breakfast/Brunch	Fast Food
+1946	3	Burgers	Breakfast/Brunch	Fast Food
+1947	3	Mediterranean	Greek	Middle Eastern
+1948	3	Fast Food	Bagels	Coffee
+1949	1	Burgers
+1950	3	Pizza	Italian	Sandwiches/Subs
+1951	2	Pizza	Italian
+1952	2	Italian	Pizza
+1953	1	Pizza
+1954	3	Pizza	Barbecue	Fast Food
+1955	3	Breakfast/Brunch	Greek	Hot Dogs
+1956	3	Coffee	Bakery	Diner
+1957	2	Burgers	American
+1958	3	Pizza	Sandwiches/Subs	Tacos
+1959	1	Italian
+1960	2	Mediterranean	Greek
+1961	3	Coffee	Bagels	Fast Food
+1962	1	Pizza
+1963	0	<NULL>
+1964	3	Chinese	Pizza	Pub Food
+1965	1	Donuts
+1966	3	Latin American	Cuban	Mexican
+1967	1	Bakery
+1968	1	Pizza
+1969	3	Coffee	Breakfast/Brunch	Donuts
+1970	0	<NULL>
+1971	3	Sandwiches/Subs	Breakfast/Brunch	Fast Food
+1972	1	Pizza
+1973	0	<NULL>
+1974	1	Italian
+1975	3	Southwestern	American	Tex-Mex
+1976	3	Bakery	Breakfast/Brunch	Sandwiches/Subs
+1977	1	Pizza
+1978	3	Fast Food	Sandwiches/Subs	Southern &amp; Soul
+1979	1	Chinese
+1980	3	Fast Food	Sandwiches/Subs	Southern &amp; Soul
+1981	2	Sandwiches/Subs	Pizza
+1982	1	Chinese
+1983	3	Pizza	Sandwiches/Subs	Tacos
+1984	0	<NULL>
+1985	0	<NULL>
+1986	1	Chinese
+1987	3	Italian	Pizza	Wine Bar
+1988	2	Greek	American
+1989	3	Fast Food	Breakfast/Brunch	Coffee
+1990	3	Pub Food	Burgers	Sandwiches/Subs
+1991	1	Chinese
+1992	3	Breakfast/Brunch	American	Desserts/Ice Cream
+1993	1	Coffee
+1994	3	Fast Food	American	Sandwiches/Subs
+1995	0	<NULL>
+1996	3	Fast Food	American	Sandwiches/Subs
+1997	2	Pizza	Italian
+1998	0	<NULL>
+1999	1	Italian

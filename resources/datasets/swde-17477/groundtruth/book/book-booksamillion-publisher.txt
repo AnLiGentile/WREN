@@ -1,0 +1,2002 @@
+﻿book	booksamillion	publisher
+2000	2000	2000	450
+0000	1	: Hachette Book Group
+0001	1	: Zebra
+0002	1	: Threshold Editions
+0003	1	: Atria Books
+0004	1	: Ace Books
+0005	1	: Aphrodisia
+0006	1	: Razorbill
+0007	1	: Jove Books
+0008	1	: Jove Books
+0009	1	: Mira Books
+0010	1	: Not Avail
+0011	1	: Orbit
+0012	1	: Doubleday
+0013	1	: Grand Central Publishing
+0014	1	: Putnam Adult
+0015	1	: Mira Books
+0016	1	: Silhouette Books
+0017	1	: Thomas Nelson Publishers
+0018	1	: Avon Books
+0019	1	: Mira Books
+0020	1	: Brilliance Corporation
+0021	1	: Berkley Publishing Group
+0022	1	: Orbit
+0023	1	: Howard Books
+0024	1	: Del Rey Books
+0025	1	: Megan Tingley Books
+0026	1	: St. Martin's Griffin
+0027	1	: HarperCollins
+0028	1	: Mira Books
+0029	1	: Megan Tingley Books
+0030	1	: Amistad Press
+0031	1	: Penguin Books
+0032	1	: Gallup Press
+0033	1	: Doubleday Books
+0034	1	: Pinnacle Books
+0035	1	: St. Martin's Press
+0036	1	: Little, Brown Books for Young Readers
+0037	1	: Signet Book
+0038	1	: Ace Books
+0039	1	: Sentinel
+0040	1	: Frontline Books
+0041	1	: Games Workshop
+0042	1	: Baen Books
+0043	1	: Gallery Press
+0044	1	: Mira Books
+0045	1	: Broadway Books
+0046	1	: Threshold Editions
+0047	1	: Simon Pulse
+0048	1	: Berkley Publishing Group
+0049	1	: Thomas Dunne Books
+0050	1	: Putnam Adult
+0051	1	: Penguin Books
+0052	1	: W. W. Norton & Company
+0053	1	: Brilliance Corporation
+0054	1	: Balzer & Bray/Harperteen
+0055	1	: Brilliance Audio
+0056	1	: Marvel Comics
+0057	1	: Ace Books
+0058	1	: Minotaur Books
+0059	1	: HarperCollins
+0060	1	: Grand Central Publishing
+0061	1	: Hyperion Books
+0062	1	: Bantam
+0063	1	: Putnam Adult
+0064	1	: Jove Books
+0065	1	: Free Press
+0066	1	: Amulet Books
+0067	1	: Rodale Press
+0068	1	: Scholastic Inc.
+0069	1	: Viking Books
+0070	1	: Crown Publishing Group (NY)
+0071	1	: Zondervan
+0072	1	: Little Brown and Company
+0073	1	: Ace Books
+0074	1	: Harmony Books
+0075	1	: Berkley Publishing Group
+0076	1	: Pocket Books
+0077	1	: Delacorte Press
+0078	1	: Regnery Publishing
+0079	1	: St. Martin's Press
+0080	1	: Harper
+0081	1	: Grand Central Publishing
+0082	1	: Razorbill
+0083	1	: Philomel Books
+0084	1	: John Wiley & Sons
+0085	1	: Scribner Book Company
+0086	1	: Artisan
+0087	1	: Delacorte Press
+0088	1	: Twelve
+0089	1	: Pamela Dorman Books
+0090	1	: Harper
+0091	1	: Ace Books
+0092	1	: Thomas Nelson Publishers
+0093	1	: New American Library
+0094	1	: Wendy Lamb Books
+0095	1	: Ballantine Books
+0096	1	: TokyoPop
+0097	1	: Marvel Comics
+0098	1	: Kensington Publishing Corporation
+0099	1	: Dafina Books
+0100	1	: Plume Books
+0101	1	: Plume Books
+0102	1	: Harlequin
+0103	1	: Harper Perennial
+0104	1	: Alfred A. Knopf Books for Young Readers
+0105	1	: Putnam Adult
+0106	1	: Faithwords
+0107	1	: Putnam Adult
+0108	1	: Scholastic Press
+0109	1	: Delacorte Press
+0110	1	: HarperCollins Publishers
+0111	1	: Ballantine Books
+0112	1	: Chicken House
+0113	1	: Grand Central Publishing
+0114	1	: Hyperion Books
+0115	1	: Crown Publishing Group (NY)
+0116	1	: Ace Books
+0117	1	: Grand Central Publishing
+0118	1	: Scholastic
+0119	1	: Zebra
+0120	1	: St. Martin's Griffin
+0121	1	: Hachette
+0122	1	: Philomel Books
+0123	1	: Knopf Publishing Group
+0124	1	: Grand Central Publishing
+0125	1	: HarperCollins
+0126	1	: John Wiley & Sons
+0127	1	: Grand Central Publishing
+0128	1	: Miramax Books
+0129	1	: Simon Pulse
+0130	1	: Laurel Leaf Library
+0131	1	: Berkley Prime Crime
+0132	1	: William Morrow & Company
+0133	1	: Arthur A. Levine Books
+0134	1	: Touchstone Books
+0135	1	: Harlequin Books
+0136	1	: Zondervan
+0137	1	: Avon Books
+0138	1	: Simon Spotlight Entertainment
+0139	1	: Harper
+0140	1	: Berkley
+0141	1	: Little Brown & Co.
+0142	1	: Katherine Tegen Books
+0143	1	: St. Martin's Press
+0144	1	: Thomas Nelson Publishers
+0145	1	: Back Bay Books
+0146	1	: Zondervan
+0147	1	: Anchor Books
+0148	1	: Shadow Mountain
+0149	1	: McGraw-Hill
+0150	1	: Random House Books for Young Readers
+0151	1	: John Wiley & Sons
+0152	1	: St. Martin's Press
+0153	1	: Hyperion Books for Children
+0154	1	: St. Martin's Press
+0155	1	: DC Comics
+0156	1	: Viking Children's Books
+0157	1	: Warner Books
+0158	1	: Behler Publications
+0159	1	: Harper
+0160	1	: Little Brown and Company
+0161	1	: St. Martin's Press
+0162	1	: St. Martin's Griffin
+0163	1	: Jove Books
+0164	1	: Berkley Publishing Group
+0165	1	: Jove Books
+0166	1	: St. Martin's Press
+0167	1	: Tyndale House Publishers
+0168	1	: ESPN Video
+0169	1	: Little, Brown Books for Young Readers
+0170	1	: Spectra Books
+0171	1	: Ballantine Books
+0172	1	: Stewart, Tabori, & Chang
+0173	1	: Little, Brown Young Readers
+0174	1	: Dial Press
+0175	1	: St. Martin's Press
+0176	1	: Square Fish
+0177	1	: HarperCollins
+0178	1	: St. Martin's Press
+0179	1	: G. P. Putnam's Sons
+0180	1	: Dell Publishing Company
+0181	1	: Bantam
+0182	1	: Wizards of the Coast
+0183	1	: Compendium Publishing & Communications
+0184	1	: Riverhead Books
+0185	1	: Jove Books
+0186	1	: Touchstone Books
+0187	1	: Ballantine Books
+0188	1	: Jove Books
+0189	1	: Penguin Books
+0190	1	: Listening Library
+0191	1	: Atria Books
+0192	1	: Dell Publishing Company
+0193	1	: Eos
+0194	1	: Sentinel
+0195	1	: Bloomsbury Publishing PLC
+0196	1	: Harlequin
+0197	1	: Dutton Books
+0198	1	: Orbit
+0199	1	: Bantam
+0200	1	: Avon Books
+0201	1	: Penguin Books
+0202	1	: Hyperion Books
+0203	1	: Delacorte Press Books for Young Readers
+0204	1	: Bantam Books
+0205	1	: HarperFestival
+0206	1	: Little Brown and Company
+0207	1	: Mira Books
+0208	1	: Simon & Schuster
+0209	1	: William Morrow & Company
+0210	1	: Penguin Audiobooks
+0211	1	: Touchstone Books
+0212	1	: Del Rey Books
+0213	1	: St. Martin's Press
+0214	1	: Sentinel
+0215	1	: St. Martin's Press
+0216	1	: HarperCollins Publishers
+0217	1	: Avon Books
+0218	1	: Zondervan
+0219	1	: St. Martin's Press
+0220	1	: St. Martin's Press
+0221	1	: Grand Central Publishing
+0222	1	: Tyndale House Publishers
+0223	1	: Bantam
+0224	1	: University of Chicago Press
+0225	1	: Knopf Publishing Group
+0226	1	: Harper
+0227	1	: HarperCollins
+0228	1	: Little Brown and Company
+0229	1	: Penguin Books
+0230	1	: Simon & Schuster Children's Publishing
+0231	1	: HarperCollins
+0232	1	: Little Brown and Company
+0233	1	: Harper
+0234	1	: Harper Paperbacks
+0235	1	: St. Martin's Press
+0236	1	: Speak
+0237	1	: Mira Books
+0238	1	: Workman Publishing
+0239	1	: Vintage Books USA
+0240	1	: Ballantine Books
+0241	1	: St. Martin's Press
+0242	1	: Harlequin Books
+0243	1	: Pinnacle Books
+0244	1	: Berrett-Koehler Publishers
+0245	1	: Warner Vision
+0246	1	: Multnomah Publishers
+0247	1	: Signet Book
+0248	1	: Obsidian Mysteries
+0249	1	: Poppy Books
+0250	1	: Avon Books
+0251	1	: Razorbill
+0252	1	: Jove Books
+0253	1	: HarperCollins
+0254	1	: Putnam Adult
+0255	1	: St. Martin's Press
+0256	1	: Threshold Editions
+0257	1	: Onyx Books
+0258	1	: National Geographic Society
+0259	1	: Little Brown & Co.
+0260	1	: Tor Books
+0261	1	: Puffin Books
+0262	1	: Jove Books
+0263	1	: Kimani Press
+0264	1	: Vintage Books USA
+0265	1	: Avon Books
+0266	1	: Ballantine Books
+0267	1	: Charisma House
+0268	1	: Farrar Straus Giroux
+0269	1	: Penguin Books
+0270	1	: Seven Seas
+0271	1	: Jove Books
+0272	1	: St. Martin's Press
+0273	1	: ECW Press
+0274	1	: Roc
+0275	1	: Houghton Mifflin Harcourt (HMH)
+0276	1	: Workman Publishing
+0277	1	: Avon Books
+0278	1	: St. Martin's Press
+0279	1	: Dial Press
+0280	1	: Tyndale House Publishers
+0281	1	: Urban Books
+0282	1	: Avon Books
+0283	1	: St. Martin's Press
+0284	1	: Bantam
+0285	1	: Ballantine Books
+0286	1	: Lucas Books
+0287	1	: Hyperion Books
+0288	1	: Jove Books
+0289	1	: Dover Publications
+0290	1	: Random House Children's Books
+0291	1	: Heat
+0292	1	: Viking Books
+0293	1	: Penguin Books
+0294	1	: Back Bay Books
+0295	1	: Harper Perennial
+0296	1	: Merriam-Webster
+0297	1	: Springboard Press
+0298	1	: Berkley Publishing Group
+0299	1	: Puffin Books
+0300	1	: Grand Central Publishing
+0301	1	: Putnam Adult
+0302	1	: Grand Central Publishing
+0303	1	: Avon Books
+0304	1	: Bantam
+0305	1	: Nelson Business
+0306	1	: HarperAudio
+0307	1	: Simon & Schuster
+0308	1	: Random House
+0309	1	: Simon & Schuster
+0310	1	: Tyndale House Publishers
+0311	1	: W Publishing Group
+0312	1	: Lafayette Publishing Co.
+0313	1	: Baen Books
+0314	1	: Obsidian Mysteries
+0315	1	: Workman Publishing
+0316	1	: St. Martin's Griffin
+0317	1	: Ace Books
+0318	1	: HarperCollins
+0319	1	: Ballantine Books
+0320	1	: Hyperion Books
+0321	1	: Grand Central Publishing
+0322	1	: Harper Perennial
+0323	1	: Bantam Books
+0324	1	: Springboard Press
+0325	1	: St. Martin's Press
+0326	1	: Mira Books
+0327	1	: Jove Books
+0328	1	: Mira Books
+0329	1	: Houghton Mifflin Harcourt (HMH)
+0330	1	: Margaret K. McElderry Books
+0331	1	: Pocket Books
+0332	1	: Harlequin Books
+0333	1	: David Fickling Books
+0334	1	: Eos
+0335	1	: Greenwillow Books
+0336	1	: Anchor Books
+0337	1	: Scholastic
+0338	1	: Harlequin Books
+0339	1	: Jove Books
+0340	1	: Berkley
+0341	1	: Avon Books
+0342	1	: Grand Central Publishing
+0343	1	: Paraclete Press (MA)
+0344	1	: Rodale Press
+0345	1	: TokyoPop
+0346	1	: Weinstein Books
+0347	1	: Zebra
+0348	1	: Barbour Publishing
+0349	1	: William Morrow & Company
+0350	1	: Tyndale House Publishers
+0351	1	: Scholastic Paperbacks
+0352	1	: Thomas Nelson Publishers
+0353	1	: Yearling Books
+0354	1	: Thomas Nelson Publishers
+0355	1	: Vintage Books USA
+0356	1	: Avon Books
+0357	1	: Grand Central Publishing
+0358	1	: Bethany House Publishers
+0359	1	: Forever
+0360	1	: Pocket Star Books
+0361	1	: Grand Central Publishing
+0362	1	: B&H Publishing Group
+0363	1	: HarperCollins Publishers
+0364	1	: St. Martin's Press
+0365	1	: Pocket Star Books
+0366	1	: Zondervan
+0367	1	: Berkley
+0368	1	: Tor Books
+0369	1	: Avon Books
+0370	1	: Running Press Book Publishers
+0371	1	: Knopf Publishing Group
+0372	1	: Little, Brown Books for Young Readers
+0373	1	: Berkley
+0374	1	: Charisma House
+0375	1	: Pocket Star Books
+0376	1	: Marvel Comics
+0377	1	: Putnam Adult
+0378	1	: Twelve
+0379	1	: St. Martin's Press
+0380	1	: Scholastic
+0381	1	: Silhouette Books
+0382	1	: Pocket Books
+0383	1	: Sequoia Publishing
+0384	1	: Simon & Schuster Children's Publishing
+0385	1	: Siloam Press
+0386	1	: St. Martin's Press
+0387	1	: Roc
+0388	1	: Berkley
+0389	1	: Harper
+0390	1	: Dell Publishing Company
+0391	1	: Rodale Press
+0392	1	: Multnomah Publishers
+0393	1	: Adams Media Corporation
+0394	1	: Berkley
+0395	1	: Simon & Schuster Children's Publishing
+0396	1	: Minotaur Books
+0397	1	: Blue Book Publications
+0398	1	: Wizards of the Coast
+0399	1	: Dell Publishing Company
+0400	1	: Thomas Nelson Publishers
+0401	1	: Touchstone Books
+0402	1	: Random House Books for Young Readers
+0403	1	: Viking Books
+0404	1	: Random House
+0405	1	: Zebra Books
+0406	1	: David C. Cook
+0407	1	: Bantam Classics
+0408	1	: Price Stern Sloan
+0409	1	: Dutton Books
+0410	1	: Mira Books
+0411	1	: Houghton Mifflin Harcourt (HMH)
+0412	1	: Simon Pulse
+0413	1	: Collins Design
+0414	1	: Bethany House Publishers
+0415	1	: Random House (NY)
+0416	1	: Putnam Adult
+0417	1	: Roc
+0418	1	: Dell Publishing Company
+0419	1	: Harper
+0420	1	: HarperTorch
+0421	1	: Basic Books
+0422	1	: Grand Central Publishing
+0423	1	: Simon & Schuster Children's Publishing
+0424	1	: Scholastic Paperbacks
+0425	1	: Berkley
+0426	1	: Hyperion Books
+0427	1	: Bantam
+0428	1	: Arthur A. Levine Books
+0429	1	: W. W. Norton & Company
+0430	1	: Dutton Books
+0431	1	: Avery Publishing Group
+0432	1	: Thomas Nelson Publishers
+0433	1	: Zebra
+0434	1	: Dell Publishing Company
+0435	1	: Yearling Books
+0436	1	: Heat
+0437	1	: Bantam Books
+0438	1	: Plume Books
+0439	1	: Pocket Star Books
+0440	1	: Good Books
+0441	1	: Hyperion Books for Children
+0442	1	: Harper Perennial
+0443	1	: Scholastic Paperbacks
+0444	1	: Thomas Nelson Publishers
+0445	1	: Candlewick Press (MA)
+0446	1	: Grand Central Publishing
+0447	1	: Zondervan
+0448	1	: Jove Books
+0449	1	: Forever
+0450	1	: Ace Books
+0451	1	: Berkley
+0452	1	: Harvard Business School Press
+0453	1	: Signet Book
+0454	1	: Simon & Schuster
+0455	1	: Jove Books
+0456	1	: Random House (NY)
+0457	1	: St. Martin's Press
+0458	1	: Aladdin Paperbacks
+0459	1	: Harlequin Books
+0460	1	: Mira Books
+0461	1	: Random House Disney
+0462	1	: Workman Publishing
+0463	1	: Grand Central Publishing
+0464	1	: Brilliance Audio
+0465	1	: Signet Book
+0466	1	: Harper Perennial
+0467	1	: Tyndale House Publishers
+0468	1	: Fawcett Books
+0469	1	: Knopf Publishing Group
+0470	1	: Disney Press
+0471	1	: Crossway Books
+0472	1	: Parent Magic
+0473	1	: Back Bay Books
+0474	1	: Berkley Publishing Group
+0475	1	: Ballantine Books
+0476	1	: G. P. Putnam's Sons
+0477	1	: Putnam Publishing Group
+0478	1	: Signet Book
+0479	1	: Forever
+0480	1	: Thomas Nelson Publishers
+0481	1	: Fireside Books
+0482	1	: Bantam Classics
+0483	1	: Obsidian Mysteries
+0484	1	: Abingdon Press
+0485	1	: Workman Publishing
+0486	1	: Zebra
+0487	1	: Waterbrook Press
+0488	1	: Razorbill
+0489	1	: Center Street
+0490	1	: HarperCollins
+0491	1	: Harper
+0492	1	: Free Press
+0493	1	: Puffin Books
+0494	1	: Yearling Books
+0495	1	: Speak
+0496	1	: Vanguard Press
+0497	1	: Waterbrook Press
+0498	1	: Hqn
+0499	1	: Shadow Mountain
+0500	1	: Dell Publishing Company
+0501	1	: Berkley Trade Pub
+0502	1	: Little, Brown Books for Young Readers
+0503	1	: St. Martin's Press
+0504	1	: Thomas Dunne Books
+0505	1	: NavPress Publishing Group
+0506	1	: Harper
+0507	1	: Pocket Star Books
+0508	1	: St. Martin's Press
+0509	1	: HarperCollins Publishers
+0510	1	: St. Martin's Griffin
+0511	1	: Pocket Books
+0512	1	: Pocket Star Books
+0513	1	: Roc
+0514	1	: Random House Children's Books
+0515	1	: Pocket Books
+0516	1	: Grand Central Publishing
+0517	1	: Roc
+0518	1	: W. W. Norton & Company
+0519	1	: Puffin Books
+0520	1	: Poppy Books
+0521	1	: Tyndale House Publishers
+0522	1	: Aladdin Paperbacks
+0523	1	: Signet Classics
+0524	1	: Hazelden Publishing & Educational Services
+0525	1	: Poppy Books
+0526	1	: Random House Audio
+0527	1	: Harper
+0528	1	: Mira Books
+0529	1	: St. Martin's Griffin
+0530	1	: St. Martin's Griffin
+0531	1	: Katherine Tegen Books
+0532	1	: Houghton Mifflin Harcourt (HMH)
+0533	1	: Ballantine Books
+0534	1	: Avon Books
+0535	1	: MacMillan Audio
+0536	1	: Marvel Comics
+0537	1	: Broadway Business
+0538	1	: Harlequin Books
+0539	1	: HarperCollins
+0540	1	: Arabesque
+0541	1	: Dover Publications
+0542	1	: Vintage Books USA
+0543	1	: Dutton Books
+0544	1	: Delacorte Press
+0545	1	: Simon & Schuster
+0546	1	: Prima Lifestyles
+0547	1	: Zebra
+0548	1	: Samhain Publishing
+0549	1	: Gun Digest Books
+0550	1	: Berkley Publishing Group
+0551	1	: Alfred A. Knopf Books for Young Readers
+0552	1	: HarperCollins Publishers
+0553	1	: McGraw-Hill
+0554	1	: NavPress Publishing Group
+0555	1	: Del Rey Books
+0556	1	: William Morrow Cookbooks
+0557	1	: Harlequin Books
+0558	1	: Urban Books
+0559	1	: Power Press
+0560	1	: Simon & Schuster
+0561	1	: Don't Sweat Press
+0562	1	: Vanguard Press
+0563	1	: Sourcebooks Casablanca
+0564	1	: Jove Books
+0565	1	: Faithwords
+0566	1	: Ballantine Books
+0567	1	: Graphia Books
+0568	1	: Random House
+0569	1	: Del Rey Books
+0570	1	: Speak
+0571	1	: Doubleday Books
+0572	1	: David Fickling Books
+0573	1	: Dell Publishing Company
+0574	1	: Bantam Doubleday Dell Publishing Group
+0575	1	: Pocket Books
+0576	1	: Philomel Books
+0577	1	: Jossey-Bass
+0578	1	: Hachette Audio
+0579	1	: Urban Books
+0580	1	: Avon a
+0581	1	: Atria Books
+0582	1	: Workman Publishing
+0583	1	: Barbour Publishing
+0584	1	: Heat
+0585	1	: Sourcebooks
+0586	1	: Workman Publishing
+0587	1	: Vintage Books USA
+0588	1	: Harper Perennial
+0589	1	: Pocket Star Books
+0590	1	: Warner Books
+0591	1	: Knopf Publishing Group
+0592	1	: William Morrow & Company
+0593	1	: Joanna Cotler Books
+0594	1	: Knopf Publishing Group
+0595	1	: Knopf Publishing Group
+0596	1	: Washington Square Press
+0597	1	: St. Martin's Press
+0598	1	: Zondervan Publishing Company
+0599	1	: Mira Books
+0600	1	: Dutton Books
+0601	1	: Adams Media Corporation
+0602	1	: Zondervan
+0603	1	: Signet Book
+0604	1	: Zebra
+0605	1	: Crown Publishing Group (NY)
+0606	1	: Penguin Books
+0607	1	: St. Martin's Press
+0608	1	: University of Chicago Press
+0609	1	: Yearling Books
+0610	1	: Thomas Nelson Publishers
+0611	1	: New American Library
+0612	1	: Dell Publishing Company
+0613	1	: St. Martin's Press
+0614	1	: Jove Books
+0615	1	: Tyndale House Publishers
+0616	1	: Plume Books
+0617	1	: HarperTrophy
+0618	1	: Berkley Prime Crime
+0619	1	: Berkley Prime Crime
+0620	1	: Hyperion Books
+0621	1	: Brilliance Corporation
+0622	1	: Harvest House Publishers
+0623	1	: Touchstone Books
+0624	1	: Ballantine Books
+0625	1	: Pocket Books
+0626	1	: Dell Publishing Company
+0627	1	: Silhouette Books
+0628	1	: Hay House
+0629	1	: Random House Books for Young Readers
+0630	1	: World Wrestling Entertainment Books
+0631	1	: Regnery Publishing
+0632	1	: HarperBusiness
+0633	1	: New World Library
+0634	1	: Vintage Books USA
+0635	1	: Avon Books
+0636	1	: Thomas Nelson Publishers
+0637	1	: Pocket Star Books
+0638	1	: Thomas Nelson Publishers
+0639	1	: Zondervan Publishing Company
+0640	1	: Hyperion Books for Children
+0641	1	: Yearling Books
+0642	1	: St. Martin's Press
+0643	1	: Putnam Adult
+0644	1	: HarperCollins
+0645	1	: Business Plus
+0646	1	: NavPress Publishing Group
+0647	1	: Random House Books for Young Readers
+0648	1	: Berkley Publishing Group
+0649	1	: Sourcebooks Landmark
+0650	1	: Ecco
+0651	1	: Roc
+0652	1	: Berkley
+0653	1	: Miramax Books
+0654	1	: HarperTrophy
+0655	1	: Yearling Books
+0656	1	: Fireside Books
+0657	1	: St. Martin's Press
+0658	1	: Zondervan
+0659	1	: Mira Books
+0660	1	: Simon & Schuster Audio
+0661	1	: Doubleday Books
+0662	1	: Puffin Books
+0663	1	: Hay House
+0664	1	: Baen Books
+0665	1	: Riverhead Books
+0666	1	: Games Workshop
+0667	1	: HarperAudio
+0668	1	: Nal Obsidian Mystery
+0669	1	: Berkley
+0670	1	: Thomas Nelson Publishers
+0671	1	: New American Library
+0672	1	: St. Martin's Press
+0673	1	: Viking Books
+0674	1	: Signet Book
+0675	1	: Howard Books
+0676	1	: Little, Brown Young Readers
+0677	1	: Kimani Press
+0678	1	: Berkley Publishing Group
+0679	1	: Rodale Press
+0680	1	: Tyndale House Publishers
+0681	1	: Houghton Mifflin Harcourt (HMH)
+0682	1	: Whitman Publishing
+0683	1	: Scribner Book Company
+0684	1	: Smart Publications
+0685	1	: Grief Watch
+0686	1	: Brilliance Corporation
+0687	1	: Roc
+0688	1	: Kimani Press
+0689	1	: Kimani Press
+0690	1	: Orbit
+0691	1	: St. Martin's Press
+0692	1	: Little Brown and Company
+0693	1	: Signet Book
+0694	1	: Speak
+0695	1	: Berkley Publishing Group
+0696	1	: Atria Books
+0697	1	: Island
+0698	1	: New Trends Publishing,
+0699	1	: Random House Books for Young Readers
+0700	1	: Jove Books
+0701	1	: Mira Books
+0702	1	: Clarkson N Potter Publishers
+0703	1	: Forge
+0704	1	: Dutton Books
+0705	1	: Random House Children's Books
+0706	1	: McGraw-Hill Companies
+0707	1	: Harper Paperbacks
+0708	1	: Delacorte Press
+0709	1	: Vh1
+0710	1	: Large Print Press
+0711	1	: Avon Books
+0712	1	: Bantam
+0713	1	: B&H Publishing Group
+0714	1	: HarperTrophy
+0715	1	: Onyx Books
+0716	1	: Clarkson N Potter Publishers
+0717	1	: Pocket Star Books
+0718	1	: FT Press
+0719	1	: USCCB
+0720	1	: Aladdin Paperbacks
+0721	1	: Random House Children's Books
+0722	1	: Luna Books
+0723	1	: DC Comics
+0724	1	: Hyperion Books for Children
+0725	1	: Harvest House Publishers
+0726	1	: Viking Books
+0727	1	: Brilliance Corporation
+0728	1	: Jove Books
+0729	1	: Multnomah Publishers
+0730	1	: Atlantic Monthly Press
+0731	1	: Gold Eagle
+0732	1	: Harlequin Books
+0733	1	: Harper Teen
+0734	1	: Harper Teen
+0735	1	: Thomas Nelson Publishers
+0736	1	: Scholastic Paperbacks
+0737	1	: Random House Audio
+0738	1	: Dutton Books
+0739	1	: Jove Books
+0740	1	: St. Martin's Press
+0741	1	: Fireside Books
+0742	1	: Random House Children's Books
+0743	1	: Dutton Books
+0744	1	: HarperCollins
+0745	1	: Simon Spotlight Entertainment
+0746	1	: Faithwords
+0747	1	: Broadway Business
+0748	1	: St. Martin's Press
+0749	1	: Plume Books
+0750	1	: Tyndale House Publishers
+0751	1	: John Wiley & Sons
+0752	1	: Bantam
+0753	1	: St. Martin's Griffin
+0754	1	: New American Library
+0755	1	: Penguin Audiobooks
+0756	1	: Mariner Books
+0757	1	: St. Martin's Press
+0758	1	: NorthSouth
+0759	1	: DK Publishing (Dorling Kindersley)
+0760	1	: Shadow Mountain
+0761	1	: Pocket Books
+0762	1	: Gallery Press
+0763	1	: Daw Books
+0764	1	: Avon Books
+0765	1	: Ballantine Books
+0766	1	: Silhouette Books
+0767	1	: New American Library
+0768	1	: Harlequin Books
+0769	1	: Pocket Books
+0770	1	: Zebra
+0771	1	: Signet Book
+0772	1	: Laurel Leaf Library
+0773	1	: Quirk Books
+0774	1	: Princeton Review
+0775	1	: Pocket Star Books
+0776	1	: John Wiley & Sons
+0777	1	: Mira Books
+0778	1	: Berkley Trade Pub
+0779	1	: Vintage Books USA
+0780	1	: Tyndale House Publishers
+0781	1	: Fireside Books
+0782	1	: Random House Children's Books
+0783	1	: Rodale Press
+0784	1	: Pocket Books
+0785	1	: Pocket Books
+0786	1	: Berkley Trade Pub
+0787	1	: Voice
+0788	1	: Collector Books
+0789	1	: St. Martin's Griffin
+0790	1	: Zondervan Publishing Company
+0791	1	: Harvest Books
+0792	1	: Warner Books
+0793	1	: Waterbrook Press
+0794	1	: Tyndale House Publishers
+0795	1	: Harlequin
+0796	1	: Multnomah Publishers
+0797	1	: Orbit
+0798	1	: Regnery Publishing
+0799	1	: Random House Books for Young Readers
+0800	1	: Warner Books
+0801	1	: Eos
+0802	1	: Kensington Publishing Corporation
+0803	1	: Standard Pub
+0804	1	: Bantam
+0805	1	: Harlequin Books
+0806	1	: Lippincott Williams & Wilkins
+0807	1	: Berkley
+0808	1	: HarperOne
+0809	1	: HarperCollins
+0810	1	: Portfolio
+0811	1	: Ballantine Books
+0812	1	: Pocket Books
+0813	1	: Baen Books
+0814	1	: MTV Books
+0815	1	: Poppy Books
+0816	1	: Knopf Publishing Group
+0817	1	: Jossey-Bass
+0818	1	: Atria Books
+0819	1	: William Morrow & Company
+0820	1	: St. Martin's Press
+0821	1	: Tyndale House Publishers
+0822	1	: Little Simon
+0823	1	: One World
+0824	1	: Marvel Comics
+0825	1	: Oxmoor House
+0826	1	: Alfred A. Knopf Books for Young Readers
+0827	1	: Hachette Audio
+0828	1	: Thomas Nelson Publishers
+0829	1	: HarperCollins
+0830	1	: Hyperion Books
+0831	1	: Berkley Trade Pub
+0832	1	: Puffin Books
+0833	1	: Princeton Review
+0834	1	: HarperCollins Publishers
+0835	1	: Vintage Books USA
+0836	1	: New Directions Publishing Corporation
+0837	1	: Penguin Putnam Books for Young Readers
+0838	1	: John Wiley & Sons
+0839	1	: St. Martin's Griffin
+0840	1	: Tyndale House Publishers
+0841	1	: RDR Books
+0842	1	: Harcourt Children's Books
+0843	1	: Harperluxe
+0844	1	: Inspirio
+0845	1	: Tyndale House Publishers
+0846	1	: Laurel Leaf Library
+0847	1	: Harper
+0848	1	: Random House Books for Young Readers
+0849	1	: Zebra
+0850	1	: Anchor Books
+0851	1	: Plume Books
+0852	1	: HarperCollins
+0853	1	: Viz Media
+0854	1	: Random House Trade
+0855	1	: Viking Children's Books
+0856	1	: Berkley Prime Crime
+0857	1	: Simon & Schuster Children's Publishing
+0858	1	: Regnery Publishing
+0859	1	: Pocket Books
+0860	1	: Puffin Books
+0861	1	: HarperCollins
+0862	1	: Dell Publishing Company
+0863	1	: Golden Books
+0864	1	: Del Rey Books
+0865	1	: St. Martin's Press
+0866	1	: Thomas Nelson Publishers
+0867	1	: Harlequin Books
+0868	1	: Berkley
+0869	1	: Hyperion Books
+0870	1	: Mira Books
+0871	1	: Broadway Books
+0872	1	: Zondervan Publishing Company
+0873	1	: Berkley
+0874	1	: Zebra
+0875	1	: Jove Books
+0876	1	: Thomas Nelson Publishers
+0877	1	: Taschen
+0878	1	: Viz Media
+0879	1	: Hyperion Books
+0880	1	: Headline Book Publishing
+0881	1	: Harper
+0882	1	: Old Farmer's Almanac
+0883	1	: Mira Books
+0884	1	: Brilliance Corporation
+0885	1	: Eloquent Books
+0886	1	: Thomas Nelson Publishers
+0887	1	: Knopf Publishing Group
+0888	1	: St. Martin's True Crime
+0889	1	: Pocket Books
+0890	1	: New American Library
+0891	1	: St. Martin's Griffin
+0892	1	: Tor Books
+0893	1	: Faith Library Publications
+0894	1	: Berkley Trade Pub
+0895	1	: Little Brown and Company
+0896	1	: Touchstone Books
+0897	1	: Berkley Sensations
+0898	1	: Kaplan Publishing
+0899	1	: Bantam
+0900	1	: Charisma House
+0901	1	: Berkley Publishing Group
+0902	1	: HarperTorch
+0903	1	: Jove Books
+0904	1	: Thomas Nelson Publishers
+0905	1	: Jove Books
+0906	1	: Zondervan
+0907	1	: Knopf Publishing Group
+0908	1	: DC Comics
+0909	1	: Zebra
+0910	1	: Signet Book
+0911	1	: Portfolio
+0912	1	: Barron's Educational Series
+0913	1	: Bantam Classics
+0914	1	: Philomel Books
+0915	1	: Mira Books
+0916	1	: Delacorte Press Books for Young Readers
+0917	1	: Random House Audio
+0918	1	: Wiley Publishing
+0919	1	: Thomas Nelson Publishers
+0920	1	: John Wiley & Sons
+0921	1	: Zondervan Publishing Company
+0922	1	: Workman Publishing
+0923	1	: Warner Books
+0924	1	: Ace Books
+0925	1	: Feiwel & Friends
+0926	1	: Anchor Books
+0927	1	: William Morrow & Company
+0928	1	: iUniverse
+0929	1	: Penguin Press
+0930	1	: Wellness Central
+0931	1	: St. Martin's Press
+0932	1	: Integrity Publishers
+0933	1	: Merriam-Webster
+0934	1	: Tyndale House Publishers
+0935	1	: Tyndale House Publishers
+0936	1	: Island
+0937	1	: Cartwheel Books
+0938	1	: HarperTrophy
+0939	1	: Harlequin Books
+0940	1	: Zondervan
+0941	1	: Zonderkidz
+0942	1	: Kaplan Publishing
+0943	1	: Jove Books
+0944	1	: Knopf Publishing Group
+0945	1	: Berkley
+0946	1	: Atheneum Books
+0947	1	: Treasure House
+0948	1	: Sterling
+0949	1	: Harvard Business School Press
+0950	1	: Washington Square Press
+0951	1	: Vintage Books USA
+0952	1	: Thomas Nelson Publishers
+0953	1	: Gallup Press
+0954	1	: Little Brown and Company
+0955	1	: HarperCollins
+0956	1	: Berkley Trade Pub
+0957	1	: Random House Audio
+0958	1	: Mariner Books
+0959	1	: Washington Square Press
+0960	1	: Riverhead Books
+0961	1	: Simon Pulse
+0962	1	: Graphia Books
+0963	1	: Putnam Adult
+0964	1	: Simon & Schuster Audio
+0965	1	: Ballantine Books
+0966	1	: Klutz
+0967	1	: Broadway Business
+0968	1	: Jove Books
+0969	1	: Penguin Group USA
+0970	1	: Harvest Books
+0971	1	: Warner Books
+0972	1	: Random House (NY)
+0973	1	: Mira Books
+0974	1	: Tor Books
+0975	1	: Pantheon Books
+0976	1	: St. Martin's Press
+0977	1	: Little, Brown Young Readers
+0978	1	: For Dummies
+0979	1	: Thomas Nelson Publishers
+0980	1	: Faithwords
+0981	1	: Pocket Star Books
+0982	1	: For Dummies
+0983	1	: Pocket Books
+0984	1	: City Christian Publishing
+0985	1	: Grand Central Publishing
+0986	1	: Simon Pulse
+0987	1	: HarperCollins
+0988	1	: Pinnacle Books
+0989	1	: Avon Books
+0990	1	: Tyndale House Publishers
+0991	1	: William Morrow & Company
+0992	1	: Atria Books
+0993	1	: For Dummies
+0994	1	: Zondervan Publishing Company
+0995	1	: Pocket Star Books
+0996	1	: Simon & Schuster Audio
+0997	1	: Nal Caliber
+0998	1	: Avon Inspire
+0999	1	: Dafina Books
+1000	1	: Brava
+1001	1	: Dial Press
+1002	1	: Bantam
+1003	1	: Marvel Comics
+1004	1	: Heat
+1005	1	: Villard Books
+1006	1	: Random House Books for Young Readers
+1007	1	: St. Martin's Press
+1008	1	: Tor Books
+1009	1	: Plume Books
+1010	1	: Back Bay Books
+1011	1	: Brilliance Corporation
+1012	1	: Jove Books
+1013	1	: HarperCollins
+1014	1	: HarperCollins
+1015	1	: BarnaBooks
+1016	1	: Alfaguara
+1017	1	: Warner Books
+1018	1	: Waldman House Press
+1019	1	: Random House Children's Books
+1020	1	: Alfred A. Knopf
+1021	1	: Random House Children's Books
+1022	1	: William Morrow & Company
+1023	1	: Thomas Nelson Publishers
+1024	1	: Nal Obsidian Mystery
+1025	1	: Berkley Praise
+1026	1	: Harper Teen
+1027	1	: Berkley
+1028	1	: Ballantine Books
+1029	1	: William Morrow & Company
+1030	1	: Bantam
+1031	1	: Hyperion Books for Children
+1032	1	: Pocket Books
+1033	1	: Faithwords
+1034	1	: Zondervan Publishing Company
+1035	1	: Harvest House Publishers
+1036	1	: St. Martin's Press
+1037	1	: Joanna Cotler Books
+1038	1	: Aladdin Paperbacks
+1039	1	: Random House Children's Books
+1040	1	: Random House Children's Books
+1041	1	: Silhouette Books
+1042	1	: Random House (NY)
+1043	1	: Benbella Books
+1044	1	: Zebra
+1045	1	: Berkley
+1046	1	: Warner Books
+1047	1	: Workman Publishing
+1048	1	: DK Publishing (Dorling Kindersley)
+1049	1	: Collins
+1050	1	: Brilliance Corporation
+1051	1	: Fleming H. Revell Company
+1052	1	: Basic Books
+1053	1	: St. Martin's Press
+1054	1	: St. Martin's Griffin
+1055	1	: Penguin Press
+1056	1	: Broadway Books
+1057	1	: Jove Books
+1058	1	: Running Press Book Publishers
+1059	1	: Merriam-Webster
+1060	1	: Putnam Publishing Group
+1061	1	: Abingdon Press
+1062	1	: Regnery Publishing
+1063	1	: Knopf Publishing Group
+1064	1	: Frontline
+1065	1	: Center Street
+1066	1	: G. P. Putnam's Sons
+1067	1	: Mira Books
+1068	1	: Tor Books
+1069	1	: Bethany House Publishers
+1070	1	: Ballantine Books
+1071	1	: Samhain Publishing
+1072	1	: Rainbow Bridge Publishing (UT)
+1073	1	: Penguin Books
+1074	1	: Obsidian Mysteries
+1075	1	: Houghton Mifflin Harcourt (HMH)
+1076	1	: Farrar Straus Giroux
+1077	1	: McGraw-Hill
+1078	1	: Samhain Publishing
+1079	1	: Obsidian Mysteries
+1080	1	: Three Rivers Press (CA)
+1081	1	: Leisure Books
+1082	1	: Random House Books for Young Readers
+1083	1	: Bantam Books
+1084	1	: Princeton Review
+1085	1	: Dafina Books
+1086	1	: Aphrodisia
+1087	1	: Viz Media
+1088	1	: Penguin Audiobooks
+1089	1	: Signet Book
+1090	1	: Harper Teen
+1091	1	: Pocket Star Books
+1092	1	: William Morrow & Company
+1093	1	: HarperTrophy
+1094	1	: New Harbinger Publications
+1095	1	: Puffin Books
+1096	1	: Barron's Educational Series
+1097	1	: Penguin Books
+1098	1	: St. Martin's Press
+1099	1	: Golden Books
+1100	1	: Viking Books
+1101	1	: Bethany House Publishers
+1102	1	: Grosset & Dunlap
+1103	1	: Simon Spotlight Entertainment
+1104	1	: Avon Books
+1105	1	: Springboard Press
+1106	1	: B&H Publishing Group
+1107	1	: Ace Books
+1108	1	: Atria Books
+1109	1	: Warner Books
+1110	1	: William Morrow & Company
+1111	1	: Jove Books
+1112	1	: Grand Central Publishing
+1113	1	: Pinnacle Books
+1114	1	: Brilliance Corporation
+1115	1	: Rodale Press
+1116	1	: Shadow Mountain
+1117	1	: Puffin Books
+1118	1	: NavPress Publishing Group
+1119	1	: NavPress Publishing Group
+1120	1	: HarperTrophy
+1121	1	: Broadway Business
+1122	1	: Viking Books
+1123	1	: Kimani Press
+1124	1	: Pocket Books
+1125	1	: Harper
+1126	1	: Berkley Publishing Group
+1127	1	: Berkley Publishing Group
+1128	1	: Harper Perennial
+1129	1	: Jove Books
+1130	1	: St. Martin's Press
+1131	1	: Multnomah Publishers
+1132	1	: Warner Books
+1133	1	: Lucas Books
+1134	1	: Bantam
+1135	1	: Signet Book
+1136	1	: William Morrow & Company
+1137	1	: Brilliance Corporation
+1138	1	: Signet Book
+1139	1	: Katherine Tegen Books
+1140	1	: St. Martin's Press
+1141	1	: Hay House
+1142	1	: Random House Trade
+1143	1	: Grosset & Dunlap
+1144	1	: Guilford Publications
+1145	1	: Berkley Publishing Group
+1146	1	: Poppy Books
+1147	1	: Berkley
+1148	1	: Harlequin Books
+1149	1	: One World
+1150	1	: Houghton Mifflin Harcourt (HMH)
+1151	1	: St. Martin's Press
+1152	1	: Roc
+1153	1	: Vintage Books USA
+1154	1	: Variance Publishing LLC
+1155	1	: Dial Press
+1156	1	: Grand Central Pub
+1157	1	: Scholastic Inc.
+1158	1	: Touchstone Books
+1159	1	: Multnomah Publishers
+1160	1	: Simon & Schuster Children's Publishing
+1161	1	: Pocket Books
+1162	1	: Gold Eagle
+1163	1	: Signet Classics
+1164	1	: Bethany House Publishers
+1165	1	: Hyperion Books
+1166	1	: Signet Book
+1167	1	: Berkley
+1168	1	: Kimani Press
+1169	1	: Jossey-Bass
+1170	1	: Triple Crown Publications
+1171	1	: Thomas Nelson Publishers
+1172	1	: Berkley Publishing Group
+1173	1	: Dover Publications
+1174	1	: Bantam Classics
+1175	1	: McGraw-Hill/Glencoe
+1176	1	: Regnery Publishing
+1177	1	: W. W. Norton & Company
+1178	1	: Viz Media
+1179	1	: Pinnacle Books
+1180	1	: Signet Book
+1181	1	: Little Brown and Company
+1182	1	: Candlewick Press (MA)
+1183	1	: St. Martin's Griffin
+1184	1	: Viz Media
+1185	1	: Free Press
+1186	1	: Jove Books
+1187	1	: Nelson Reference & Electronic Publishing
+1188	1	: HarperTrophy
+1189	1	: Multnomah Publishers
+1190	1	: Viz Media
+1191	1	: Viz Media
+1192	1	: Gallery Press
+1193	1	: Forge
+1194	1	: For Dummies
+1195	1	: House of Collectibles
+1196	1	: Minotaur Books
+1197	1	: Dell Publishing Company
+1198	1	: Grand Central Publishing
+1199	1	: John Wiley & Sons
+1200	1	: Del Rey Books
+1201	1	: St. Martin's Press
+1202	1	: Simon Pulse
+1203	1	: Voyager Paperbacks
+1204	1	: Jove Books
+1205	1	: Jove Books
+1206	1	: Viking Books
+1207	1	: Leisure Books
+1208	1	: Anchor Books
+1209	1	: Waterbrook Press
+1210	1	: Dell Publishing Company
+1211	1	: Atria Books
+1212	1	: Washington Square Press
+1213	1	: Wiley Publishing
+1214	1	: Love Spell
+1215	1	: Thomas Nelson Publishers
+1216	1	: John Wiley & Sons
+1217	1	: W. W. Norton & Company
+1218	1	: Brilliance Audio
+1219	1	: Mind Publishing Company
+1220	1	: Poppy Books
+1221	1	: Mariner Books
+1222	1	: Elsevier Science Health Science div
+1223	1	: Scribner Book Company
+1224	1	: Scribner Book Company
+1225	1	: Random House
+1226	1	: Wizards of the Coast
+1227	1	: GPP Travel
+1228	1	: Yen Press
+1229	1	: William Morrow & Company
+1230	1	: For Dummies
+1231	1	: Mira Books
+1232	1	: Avon Books
+1233	1	: Barbour Pub Inc
+1234	1	: Saltriver
+1235	1	: Tyndale House Publishers
+1236	1	: Ballantine Books
+1237	1	: Yearling Books
+1238	1	: Atria Books
+1239	1	: Harper
+1240	1	: Amber-Allen Publishing
+1241	1	: Aladdin Paperbacks
+1242	1	: Dell Publishing Company
+1243	1	: Ballantine Books
+1244	1	: Mira Books
+1245	1	: John Wiley & Sons
+1246	1	: Touchstone Books
+1247	1	: Simon & Schuster Children's Publishing
+1248	1	: Santillana USA Publishing Company
+1249	1	: Gallup Press
+1250	1	: Atria Books
+1251	1	: Chosen Books
+1252	1	: Bantam Books
+1253	1	: Hawks Flight & Association
+1254	1	: Aladdin Paperbacks
+1255	1	: Bantam Books
+1256	1	: HarperTrophy
+1257	1	: Atria Books
+1258	1	: W. W. Norton & Company
+1259	1	: Pocket Books
+1260	1	: Viz Media
+1261	1	: St. Martin's Griffin
+1262	1	: Cornerstone
+1263	1	: Hachette Audio
+1264	1	: Little Brown and Company
+1265	1	: Harper
+1266	1	: Weinstein Books
+1267	1	: Avon Books
+1268	1	: Scholastic Paperbacks
+1269	1	: Viking Books
+1270	1	: Thomas Nelson Publishers
+1271	1	: Little, Brown Books for Young Readers
+1272	1	: Avon Books
+1273	1	: Tor Books
+1274	1	: Smart Pop
+1275	1	: William Morrow & Company
+1276	1	: Signet Book
+1277	1	: Cedar Fort
+1278	1	: Zebra
+1279	1	: Center Street
+1280	1	: Scribner Book Company
+1281	1	: Berkley Trade Pub
+1282	1	: St. Martin's Press
+1283	1	: Little Brown and Company
+1284	1	: Kensington Publishing Corporation
+1285	1	: Harlequin Books
+1286	1	: Kensington Pub Corp
+1287	1	: Dell Publishing Company
+1288	1	: Regnery Publishing
+1289	1	: Picador USA
+1290	1	: Counterpoint LLC
+1291	1	: Yearling Books
+1292	1	: Ballantine Books
+1293	1	: Puffin Books
+1294	1	: Signet Book
+1295	1	: HarperCollins Publishers
+1296	1	: Clarion Books
+1297	1	: William Morrow & Company
+1298	1	: Van Patten Publishing
+1299	1	: Simon & Schuster Children's Publishing
+1300	1	: Zondervan Publishing Company
+1301	1	: Tyndale House Publishers
+1302	1	: Simon & Schuster
+1303	1	: William Morrow & Company
+1304	1	: HarperAudio
+1305	1	: Doubleday Books
+1306	1	: Jossey-Bass
+1307	1	: Dutton Books
+1308	1	: Poppy Books
+1309	1	: Viz Media
+1310	1	: Collins
+1311	1	: Heat
+1312	1	: Signet Book
+1313	1	: HarperEntertainment
+1314	1	: Harper Teen
+1315	1	: Berkley
+1316	1	: Wizards of the Coast
+1317	1	: Leisure Books
+1318	1	: Pocket Star Books
+1319	1	: Ballantine Books
+1320	1	: Jove Books
+1321	1	: Delacorte Press Books for Young Readers
+1322	1	: Harper Perennial
+1323	1	: Viz Media
+1324	1	: Avon Books
+1325	1	: Tantor Media
+1326	1	: Wizards of the Coast
+1327	1	: Berkley Sensations
+1328	1	: One World
+1329	1	: Blackstone Audiobooks
+1330	1	: Metropolitan Books
+1331	1	: Walker & Company
+1332	1	: Princeton Review
+1333	1	: St. Martin's Griffin
+1334	1	: Feiwel & Friends
+1335	1	: Minotaur Books
+1336	1	: St. Martin's Press
+1337	1	: Thomas Dunne Books
+1338	1	: It Books
+1339	1	: Ecco
+1340	1	: HarperCollins
+1341	1	: HarperCollins
+1342	1	: Bantam
+1343	1	: Holman Bibles
+1344	1	: Jove Books
+1345	1	: Mira Books
+1346	1	: Frank Schaffer Publications
+1347	1	: Tyndale House Publishers
+1348	1	: Berkley Publishing Group
+1349	1	: Harper Paperbacks
+1350	1	: Dafina Books
+1351	1	: St. Martin's Press
+1352	1	: Vintage Books USA
+1353	1	: Simon & Schuster
+1354	1	: Signet Book
+1355	1	: Chronicle Books
+1356	1	: Wizards of the Coast
+1357	1	: Clarkson N Potter Publishers
+1358	1	: Random House Children's Books
+1359	1	: Random House Children's Books
+1360	1	: Realms
+1361	1	: Berkley Sensations
+1362	1	: Berkley Sensations
+1363	1	: Anchor Books
+1364	1	: Harper
+1365	1	: Simon Spotlight
+1366	1	: Pocket Star Books
+1367	1	: Scholastic Inc.
+1368	1	: Dell Publishing Company
+1369	1	: Onyx Books
+1370	1	: St. Martin's Press
+1371	1	: Accord Publishing
+1372	1	: TokyoPop
+1373	1	: Berkley Trade Pub
+1374	1	: Tyndale House Publishers
+1375	1	: Three Rivers Press (CA)
+1376	1	: For Dummies
+1377	1	: Warner Vision
+1378	1	: Zebra Books
+1379	1	: Rutledge Hill Press
+1380	1	: Christian Fellowship Publishers
+1381	1	: HarperCollins Publishers
+1382	1	: William Morrow & Company
+1383	1	: Charisma House
+1384	1	: Tyndale House Publishers
+1385	1	: Smiley Books
+1386	1	: Atria Books
+1387	1	: Prima Games
+1388	1	: Mira Books
+1389	1	: Back Bay Books
+1390	1	: Hay House
+1391	1	: Barron's Educational Series
+1392	1	: Teri Woods Publishing
+1393	1	: Pocket Books
+1394	1	: Bantam Books
+1395	1	: Rainbow Bridge Publishing (UT)
+1396	1	: Signet Classics
+1397	1	: Vida Publishers
+1398	1	: Cardoza Publishing
+1399	1	: Avon Books
+1400	1	: Tor Books
+1401	1	: Warner Books
+1402	1	: Baen Books
+1403	1	: Houghton Mifflin Harcourt (HMH)
+1404	1	: W. W. Norton & Company
+1405	1	: Harper Teen
+1406	1	: Thomas Nelson Publishers
+1407	1	: Del Rey Books
+1408	1	: HarperCollins
+1409	1	: Hyperion Books
+1410	1	: Pocket Star Books
+1411	1	: Thorndike Press
+1412	1	: Viz Media
+1413	1	: Brava
+1414	1	: Viking Books
+1415	1	: Henry Holt & Company
+1416	1	: Harper Perennial
+1417	1	: Puffin Books
+1418	1	: Chronicle Books
+1419	1	: Putnam Publishing Group
+1420	1	: Multnomah Publishers
+1421	1	: Signet Book
+1422	1	: Faithwords
+1423	1	: Augsburg Fortress Publishers
+1424	1	: Red Wagon Books
+1425	1	: Random House Children's Books
+1426	1	: Tor Books
+1427	1	: Tor Books
+1428	1	: Simon & Schuster Books for Young Readers
+1429	1	: Faith Library Publications
+1430	1	: Viking Books
+1431	1	: Dutton Books
+1432	1	: Pinnacle Books
+1433	1	: Yen Press
+1434	1	: Twelve
+1435	1	: Ecco
+1436	1	: Brilliance Corporation
+1437	1	: Penguin Books
+1438	1	: Thomas Nelson Publishers
+1439	1	: Harlequin Books
+1440	1	: Grand Central Publishing
+1441	1	: Pocket Books
+1442	1	: Signet Classics
+1443	1	: HarperCollins Publishers
+1444	1	: Nelson Books
+1445	1	: Wiley Publishing
+1446	1	: Vintage Books USA
+1447	1	: American Girl Publishing Inc
+1448	1	: Faithwords
+1449	1	: Kenneth Hagin Ministries
+1450	1	: McGraw-Hill
+1451	1	: Simon & Schuster Books for Young Readers
+1452	1	: Ballantine Books
+1453	1	: Kimani Press
+1454	1	: Scholastic Paperbacks
+1455	1	: Grosset & Dunlap
+1456	1	: Viz Media
+1457	1	: St. Martin's Press
+1458	1	: Random House (NY)
+1459	1	: Vintage Books USA
+1460	1	: Ballantine Books
+1461	1	: Thomas Nelson Publishers
+1462	1	: Thomas Nelson Publishers
+1463	1	: Grand Central Publishing
+1464	1	: Blue Sky Press (AZ)
+1465	1	: Durban House Publishing
+1466	1	: Signet Book
+1467	1	: Plume Books
+1468	1	: Howell Books
+1469	1	: Focus on the Family Publishing
+1470	1	: Multnomah Publishers
+1471	1	: Tor Books
+1472	1	: Berkley Publishing Group
+1473	1	: GuidepostsBooks
+1474	1	: Baen Books
+1475	1	: Reader's Digest Association
+1476	1	: Berkley
+1477	1	: Ecco
+1478	1	: Viz Media
+1479	1	: Zebra
+1480	1	: Wizards of the Coast
+1481	1	: St. Martin's Press
+1482	1	: Berkley Prime Crime
+1483	1	: Multnomah Publishers
+1484	1	: Douglas & McIntyre
+1485	1	: Harvest House Publishers
+1486	1	: Berkley Publishing Group
+1487	1	: Random House Books for Young Readers
+1488	1	: Signet Book
+1489	1	: Paizo Publishing
+1490	1	: DK Publishing (Dorling Kindersley)
+1491	1	: Samhain Publishing
+1492	1	: Avery Publishing Group
+1493	1	: Regnery Publishing
+1494	1	: Mira Books
+1495	1	: Kaplan Publishing
+1496	1	: Random House Books for Young Readers
+1497	1	: Forever
+1498	1	: Simon & Schuster
+1499	1	: Signet Book
+1500	1	: Picador USA
+1501	1	: Pocket Books
+1502	1	: Gallup Press
+1503	1	: Mariner Books
+1504	1	: Faithwords
+1505	1	: Aladdin Paperbacks
+1506	1	: Random House Children's Books
+1507	1	: Anchor Books
+1508	1	: Free Press
+1509	1	: Signet Book
+1510	1	: Thomas Nelson Publishers
+1511	1	: Harper Teen
+1512	1	: Talentsmart
+1513	1	: Sasquatch Books
+1514	1	: Touchstone Books
+1515	1	: Harper Perennial
+1516	1	: Harper
+1517	1	: Doubleday Religion
+1518	1	: Visual
+1519	1	: Baby Einstein
+1520	1	: Random House
+1521	1	: Forge
+1522	1	: Jove Books
+1523	1	: Ballantine Books
+1524	1	: Jove Books
+1525	1	: Hyperion Books
+1526	1	: Adams Media Corporation
+1527	1	: For Dummies
+1528	1	: Pocket Books
+1529	1	: Brilliance Corporation
+1530	1	: Orbit
+1531	1	: St. Martin's Griffin
+1532	1	: Yen Press
+1533	1	: Milady Publishing
+1534	1	: John Wiley & Sons
+1535	1	: Hay House
+1536	1	: Three Rivers Press (CA)
+1537	1	: Hachette Audio
+1538	1	: IVP Books
+1539	1	: Marvel Comics
+1540	1	: Harper
+1541	1	: Doubleday Books
+1542	1	: Puffin Books
+1543	1	: Viz Media
+1544	1	: Signet Book
+1545	1	: Atheneum Books
+1546	1	: Berkley Publishing Group
+1547	1	: Thomas Nelson Publishers
+1548	1	: Signet Book
+1549	1	: Clarion Books
+1550	1	: Bantam
+1551	1	: IDW Publishing
+1552	1	: Mira Books
+1553	1	: Delacorte Press Books for Young Readers
+1554	1	: Dell Publishing Company
+1555	1	: Pocket Books
+1556	1	: Triumph Books (IL)
+1557	1	: Avon Books
+1558	1	: Image Comics
+1559	1	: Candlewick Press (MA)
+1560	1	: Greenwillow Books
+1561	1	: Berkley
+1562	1	: Atria Books
+1563	1	: Pogue Press
+1564	1	: Forever
+1565	1	: Bantam Books
+1566	1	: Thomas Nelson Publishers
+1567	1	: Grand Central Publishing
+1568	1	: Three Rivers Press (CA)
+1569	1	: Berkley Prime Crime
+1570	1	: Pinnacle Books
+1571	1	: Dell Publishing Company
+1572	1	: Voice
+1573	1	: Tyndale House Publishers
+1574	1	: Ballantine Books
+1575	1	: Scribner Book Company
+1576	1	: Portfolio
+1577	1	: St. Martin's Griffin
+1578	1	: John Wiley & Sons Inc
+1579	1	: Tyndale House Publishers
+1580	1	: Pocket Books
+1581	1	: Carson Dellosa Pub Co Inc
+1582	1	: One World
+1583	1	: Anchor Books
+1584	1	: Lampo Group Inc
+1585	1	: Pocket Books
+1586	1	: Delacorte Press Books for Young Readers
+1587	1	: Random House Books for Young Readers
+1588	1	: HarperAudio
+1589	1	: Random House Large Print Publishing
+1590	1	: Viz Media
+1591	1	: Katherine Tegen Books
+1592	1	: Aphrodisia
+1593	1	: Thomas Nelson Publishers
+1594	1	: Harvest House Publishers
+1595	1	: Aladdin Paperbacks
+1596	1	: DK Publishing (Dorling Kindersley)
+1597	1	: Broadway Books
+1598	1	: John Wiley & Sons
+1599	1	: HarperCollins
+1600	1	: Tyndale House Publishers
+1601	1	: Delacorte Press
+1602	1	: W Publishing Group
+1603	1	: Brilliance Audio
+1604	1	: Little Brown and Company
+1605	1	: Whitman Publishing
+1606	1	: Chicken Soup for the Soul
+1607	1	: Random House Large Print Publishing
+1608	1	: Ballantine Books
+1609	1	: St. Martin's Press
+1610	1	: Del Rey Books
+1611	1	: Tor Books
+1612	1	: Simon & Schuster
+1613	1	: Puffin Books
+1614	1	: Aladdin Paperbacks
+1615	1	: Zondervan Publishing Company
+1616	1	: Little, Brown Books for Young Readers
+1617	1	: Robert Rose
+1618	1	: Ballantine Books
+1619	1	: HarperTorch
+1620	1	: Atheneum Books
+1621	1	: Shoes and Ships and Sealing Wax.
+1622	1	: Usborne Books
+1623	1	: Poppy Books
+1624	1	: Scholastic
+1625	1	: Ballantine Books
+1626	1	: Ballantine Books
+1627	1	: Bantam
+1628	1	: Back Bay Books
+1629	1	: Plume Books
+1630	1	: Doubleday Books
+1631	1	: Penguin Books
+1632	1	: Viking Press
+1633	1	: Random House Children's Books
+1634	1	: Thomas Nelson Publishers
+1635	1	: Sixth & Spring Books
+1636	1	: Night Shade Books
+1637	1	: Simon & Schuster
+1638	1	: Zebra
+1639	1	: Marvel Comics
+1640	1	: Bethany House Publishers
+1641	1	: Scholastic Inc.
+1642	1	: Orchard Books
+1643	1	: Signet Book
+1644	1	: Signet Book
+1645	1	: Harlequin Books
+1646	1	: Harlequin
+1647	1	: Zondervan
+1648	1	: Zondervan
+1649	1	: Harper
+1650	1	: Harper
+1651	1	: Dell Publishing Company
+1652	1	: Harper
+1653	1	: College Board
+1654	1	: Mira Books
+1655	1	: Houghton Mifflin Harcourt (HMH)
+1656	1	: DK Publishing (Dorling Kindersley)
+1657	1	: JIST Works
+1658	1	: Stewart, Tabori, & Chang
+1659	1	: Berkley
+1660	1	: Berkley Publishing Group
+1661	1	: Ballantine Books
+1662	1	: Bethany House Publishers
+1663	1	: Avon Books
+1664	1	: Yearling Books
+1665	1	: Jove Books
+1666	1	: Avon Books
+1667	1	: Star Trek
+1668	1	: Experiment
+1669	1	: Tor Books
+1670	1	: Del Rey Books
+1671	1	: Games Workshop
+1672	1	: Leisure Books
+1673	1	: Putnam Adult
+1674	1	: Anchor Books
+1675	1	: American Girl Publishing Inc
+1676	1	: Ballantine Books
+1677	1	: Philomel Books
+1678	1	: Dutton Children's Books
+1679	1	: For Dummies
+1680	1	: Simon Pulse
+1681	1	: Pocket Books
+1682	1	: Kensington Publishing Corporation
+1683	1	: Candlewick Press (MA)
+1684	1	: Viz Media
+1685	1	: Bantam Books
+1686	1	: Berkley Publishing Group
+1687	1	: DK Publishing (Dorling Kindersley)
+1688	1	: Harper
+1689	1	: Ballantine Books
+1690	1	: Touchstone Books
+1691	1	: Crimeline
+1692	1	: Tantor Media
+1693	1	: Amulet Books
+1694	1	: Eos
+1695	1	: Dell Publishing Company
+1696	1	: Spectra Books
+1697	1	: Scholastic Paperbacks
+1698	1	: Grand Central Publishing
+1699	1	: Thomas Nelson Publishers
+1700	1	: St. Martin's Press
+1701	1	: Andrews McMeel Publishing
+1702	1	: Random House Disney
+1703	1	: Love Spell
+1704	1	: Anchor Books
+1705	1	: Ballantine Books
+1706	1	: Waterbrook Press
+1707	1	: Brilliance Corporation
+1708	1	: Berkley Trade Pub
+1709	1	: Harvest Books
+1710	1	: Berkley Publishing Group
+1711	1	: Aphrodisia
+1712	1	: Jove Books
+1713	1	: Ballantine Books
+1714	1	: Vanguard Press
+1715	1	: Square Fish
+1716	1	: Running Press Book Publishers
+1717	1	: Avon Books
+1718	1	: Berkley Publishing Group
+1719	1	: Simon & Schuster Children's Publishing
+1720	1	: Mariner Books
+1721	1	: Nelson Bibles
+1722	1	: Monarch Books
+1723	1	: Avon Books
+1724	1	: Laurel Leaf Library
+1725	1	: Random House Children's Books
+1726	1	: Grove/Atlantic
+1727	1	: Bantam Classics
+1728	1	: Golden Books
+1729	1	: Fleming H. Revell Company
+1730	1	: Bethany House Publishers
+1731	1	: Avon a
+1732	1	: Rodale Press
+1733	1	: Razorbill
+1734	1	: Jeremy P. Tarcher
+1735	1	: Putnam Publishing Group
+1736	1	: Mira Books
+1737	1	: Zebra
+1738	1	: Zebra
+1739	1	: Avon a
+1740	1	: Harper
+1741	1	: Skyhorse Publishing
+1742	1	: Berkley
+1743	1	: Gallery Books
+1744	1	: Scribner Book Company
+1745	1	: Harper Teen
+1746	1	: Scholastic Paperbacks
+1747	1	: Zondervan
+1748	1	: Little Brown and Company
+1749	1	: Simon & Schuster
+1750	1	: Simon & Schuster
+1751	1	: Grand Central Publishing
+1752	1	: Encounter Books
+1753	1	: Health Communications
+1754	1	: Berkley Trade Pub
+1755	1	: Broadway Books
+1756	1	: Broadway Books
+1757	1	: HarperCollins Publishers
+1758	1	: For Dummies
+1759	1	: LB Kids
+1760	1	: Jove Books
+1761	1	: Tommy Nelson
+1762	1	: Workman Publishing
+1763	1	: Simon & Schuster
+1764	1	: St. Martin's Griffin
+1765	1	: Simon & Schuster Audio
+1766	1	: Villard Books
+1767	1	: W. W. Norton & Company
+1768	1	: Pineapple Press
+1769	1	: Wizards of the Coast
+1770	1	: Rodale Press
+1771	1	: For Dummies
+1772	1	: Dutton Books
+1773	1	: Penguin Books
+1774	1	: Avon Books
+1775	1	: Dark Horse Comics
+1776	1	: Charisma House
+1777	1	: Little Brown and Company
+1778	1	: Eos
+1779	1	: William Morrow & Company
+1780	1	: Del Rey Books
+1781	1	: Kaplan Publishing
+1782	1	: Avon Books
+1783	1	: Atria Books
+1784	1	: Ballantine Books
+1785	1	: Grand Central Publishing
+1786	1	: Marlowe & Company
+1787	1	: Doubleday Books
+1788	1	: Speak
+1789	1	: Penguin Books
+1790	1	: Pocket Books
+1791	1	: Dover Publications
+1792	1	: Avon Books
+1793	1	: Pelican Publishing Company
+1794	1	: Dell Publishing Company
+1795	1	: Pocket Books
+1796	1	: Noonday Press
+1797	1	: Random House Children's Books
+1798	1	: Pocket Star Books
+1799	1	: Pocket Books
+1800	1	: Simon Pulse
+1801	1	: Aquamarine
+1802	1	: Mariner Books
+1803	1	: Knopf Publishing Group
+1804	1	: Scholastic Paperbacks
+1805	1	: Oxmoor House
+1806	1	: Metropolitan Books
+1807	1	: DK Publishing (Dorling Kindersley)
+1808	1	: Three Rivers Press (CA)
+1809	1	: HarperCollins
+1810	1	: Ballantine Books
+1811	1	: Penguin Books
+1812	1	: Eos
+1813	1	: Samhain Publishing
+1814	1	: Pocket Books
+1815	1	: Bethany House Publishers
+1816	1	: Puffin Books
+1817	1	: Grosset & Dunlap
+1818	1	: Wiley Publishing
+1819	1	: Ballantine Books
+1820	1	: Berkley Publishing Group
+1821	1	: Dell Publishing Company
+1822	1	: Love Spell
+1823	1	: Warner Books
+1824	1	: Touchstone Books
+1825	1	: Ballantine Books
+1826	1	: Bantam Books
+1827	1	: Simon Pulse
+1828	1	: Wharton School Publishing
+1829	1	: Penguin Press
+1830	1	: Oxford University Press
+1831	1	: Love Spell
+1832	1	: Simon & Schuster
+1833	1	: Viz Media
+1834	1	: Penguin Press
+1835	1	: St. Martin's Press
+1836	1	: Amulet Books
+1837	1	: Harper
+1838	1	: Northfield Publishers
+1839	1	: G. P. Putnam's Sons
+1840	1	: Avon Books
+1841	1	: Hyperion Books for Children
+1842	1	: DK Publishing (Dorling Kindersley)
+1843	1	: Grand Central Publishing
+1844	1	: Puffin Books
+1845	1	: Signet Book
+1846	1	: Random House Books for Young Readers
+1847	1	: Warner Books
+1848	1	: Signet Classics
+1849	1	: Ozark Press, LLC
+1850	1	: Blue Sky Press (AZ)
+1851	1	: Doubleday Religion
+1852	1	: Bantam Books
+1853	1	: Pocket Books
+1854	1	: Amber-Allen Publishing
+1855	1	: Berkley
+1856	1	: Bethany House Publishers
+1857	1	: Scribner Book Company
+1858	1	: Signet Book
+1859	1	: iUniverse.com
+1860	1	: Scholastic Paperbacks
+1861	1	: Zebra
+1862	1	: Watson-Guptill Publications
+1863	1	: Roc
+1864	1	: Random House Audio
+1865	1	: Brilliance Corporation
+1866	1	: Harlequin Books
+1867	1	: Charisma House
+1868	1	: Kensington Publishing Corporation
+1869	1	: Wizards of the Coast
+1870	1	: Tor Books
+1871	1	: Broadway Books
+1872	1	: Brighter Child
+1873	1	: Harvest House Publishers
+1874	1	: Crown Publishing Group (NY)
+1875	1	: Hachette Audio
+1876	1	: W. W. Norton & Company
+1877	1	: Algonquin Books of Chapel Hill
+1878	1	: Disney Editions
+1879	1	: Random House Audio
+1880	1	: William Morrow Cookbooks
+1881	1	: Zebra
+1882	1	: Scribner Book Company
+1883	1	: Shaye Areheart Books
+1884	1	: PublicAffairs
+1885	1	: Artisan Publishers
+1886	1	: St. Martin's Press
+1887	1	: Harper
+1888	1	: Clarion Books
+1889	1	: Kimani Press
+1890	1	: Frank Schaffer Publications
+1891	1	: Little Simon
+1892	1	: Zondervan Publishing Company
+1893	1	: Multnomah Publishers
+1894	1	: Random House (NY)
+1895	1	: Simon & Schuster
+1896	1	: Little, Brown Young Readers
+1897	1	: Aladdin Paperbacks
+1898	1	: Delta
+1899	1	: Adams Media Corporation
+1900	1	: Aladdin Paperbacks
+1901	1	: Ballantine Books
+1902	1	: Little Brown and Company
+1903	1	: St. Martin's Press
+1904	1	: Harlequin Books
+1905	1	: Ballantine Books
+1906	1	: Penguin Audiobooks
+1907	1	: Wizards of the Coast
+1908	1	: Simon Spotlight Entertainment
+1909	1	: Harperstudio
+1910	1	: Penguin Audiobooks
+1911	1	: Ace Books
+1912	1	: Perseus Books Group
+1913	1	: Samhain Publishing
+1914	1	: Pocket Books
+1915	1	: Signet Book
+1916	1	: Yearling Books
+1917	1	: Puffin Books
+1918	1	: Square Fish
+1919	1	: Speak
+1920	1	: Ballantine Books
+1921	1	: Random House Books for Young Readers
+1922	1	: Yearling Books
+1923	1	: Delacorte Press
+1924	1	: Vintage Books USA
+1925	1	: Harvest House Publishers
+1926	1	: DK Publishing (Dorling Kindersley)
+1927	1	: Zondervan Publishing Company
+1928	1	: Regnery Publishing
+1929	1	: Brilliance Audio
+1930	1	: Spiegel & Grau
+1931	1	: Zondervan
+1932	1	: Shambhala Publications
+1933	1	: Viz Media
+1934	1	: Simon Scribbles
+1935	1	: Marvel Comics
+1936	1	: Candlewick Press (MA)
+1937	1	: Princeton Review
+1938	1	: Princeton Review
+1939	1	: Harlequin
+1940	1	: Minotaur Books
+1941	1	: St. Martin's Griffin
+1942	1	: BarnaBooks
+1943	1	: Harlequin Books
+1944	1	: Savas Beatie
+1945	1	: Berkley Prime Crime
+1946	1	: Pinnacle Books
+1947	1	: Pocket Books
+1948	1	: John Wiley & Sons
+1949	1	: Anchor Books
+1950	1	: St. Martin's Griffin
+1951	1	: Scholastic Press
+1952	1	: Berkley Publishing Group
+1953	1	: Simon Pulse
+1954	1	: Multnomah Publishers
+1955	1	: Tommy Nelson
+1956	1	: Aladdin Paperbacks
+1957	1	: Business Plus
+1958	1	: Washington Square Press
+1959	1	: Berkley
+1960	1	: Price Stern Sloan
+1961	1	: Barbour Publishing
+1962	1	: Warner Books
+1963	1	: Laurel Leaf Library
+1964	1	: Center Street
+1965	1	: Hachette Audio
+1966	1	: Simon & Schuster
+1967	1	: Harper Paperbacks
+1968	1	: Pinnacle Books
+1969	1	: Simon & Schuster Children's Publishing
+1970	1	: Candlewick Press (MA)
+1971	1	: Love Spell
+1972	1	: HarperCollins Publishers
+1973	1	: Berkley
+1974	1	: Harlequin Books
+1975	1	: Zondervan
+1976	1	: Clarion Books
+1977	1	: Roc
+1978	1	: Anchor Books
+1979	1	: Tyndale House Publishers
+1980	1	: W. W. Norton & Company
+1981	1	: Marvel Comics
+1982	1	: St. Martin's Press
+1983	1	: Bilingual Books (WA)
+1984	1	: Signet Classics
+1985	1	: Multnomah Publishers
+1986	1	: Hyperion Books for Children
+1987	1	: Simon & Schuster
+1988	1	: Tyndale House Publishers
+1989	1	: Dutton Books
+1990	1	: Signet Book
+1991	1	: Joanna Cotler Books
+1992	1	: Wizards of the Coast
+1993	1	: Regal Books
+1994	1	: Zonderkidz
+1995	1	: Eos
+1996	1	: Rodale Press
+1997	1	: Brilliance Corporation
+1998	1	: Forever
+1999	1	: Grand Central Publishing

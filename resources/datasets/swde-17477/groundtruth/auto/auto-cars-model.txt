@@ -1,0 +1,659 @@
+﻿auto	cars	model
+657	657	657	657
+0000	1	2010 Acura ZDX
+0001	1	2010 Acura RDX
+0002	1	2011 Acura TSX
+0003	1	2010 Acura MDX
+0004	1	2011 Acura MDX
+0005	1	2011 Acura RDX
+0006	1	2010 Acura RL
+0007	1	2010 Acura TL
+0008	1	2011 Acura TL
+0009	1	2010 Acura TSX
+0010	1	2010 Aston Martin Rapide
+0011	1	2010 Aston Martin DB9
+0012	1	2010 Aston Martin DBS
+0013	1	2011 Aston Martin Rapide
+0014	1	2010 Aston Martin V8 Vantage
+0015	1	2010 Ferrari 458 Italia
+0016	1	2010 Ferrari California
+0017	1	2010 Ferrari 599 GTB Fiorano
+0018	1	2011 Ford Fiesta
+0019	1	2010 Ford Fusion Hybrid
+0020	1	2010 Ford Transit Connect
+0021	1	2011 Ford Edge
+0022	1	2011 Ford Explorer
+0023	1	2011 Ford F-250
+0024	1	2011 Ford F-350
+0025	1	2011 Ford F-450
+0026	1	2010 Ford Fusion
+0027	1	2010 Ford Mustang
+0028	1	2011 Ford Mustang
+0029	1	2010 Ford Taurus
+0030	1	2010 Ford E-150
+0031	1	2011 Ford E-150
+0032	1	2010 Ford E-250
+0033	1	2011 Ford E-250
+0034	1	2010 Ford E-350 Super Duty
+0035	1	2011 Ford E-350 Super Duty
+0036	1	2010 Ford Edge
+0037	1	2010 Ford Escape
+0038	1	2011 Ford Escape
+0039	1	2010 Ford Escape Hybrid
+0040	1	2011 Ford Escape Hybrid
+0041	1	2010 Ford Expedition
+0042	1	2011 Ford Expedition
+0043	1	2010 Ford Expedition EL
+0044	1	2011 Ford Expedition EL
+0045	1	2010 Ford Explorer
+0046	1	2010 Ford Explorer Sport Trac
+0047	1	2010 Ford F-150
+0048	1	2011 Ford F-150
+0049	1	2010 Ford F-250
+0050	1	2010 Ford F-350
+0051	1	2010 Ford F-450
+0052	1	2010 Ford Flex
+0053	1	2011 Ford Flex
+0054	1	2010 Ford Focus
+0055	1	2011 Ford Focus
+0056	1	2011 Ford Fusion
+0057	1	2011 Ford Fusion Hybrid
+0058	1	2010 Ford Ranger
+0059	1	2011 Ford Ranger
+0060	1	2011 Ford Taurus
+0061	1	2011 Ford Transit Connect
+0062	1	2010 GMC Terrain
+0063	1	2011 GMC Sierra 2500HD
+0064	1	2011 GMC Sierra 3500HD
+0065	1	2010 GMC Acadia
+0066	1	2011 GMC Acadia
+0067	1	2010 GMC Canyon
+0068	1	2011 GMC Canyon
+0069	1	2010 GMC Savana 1500
+0070	1	2011 GMC Savana 1500
+0071	1	2010 GMC Savana 2500
+0072	1	2011 GMC Savana 2500
+0073	1	2010 GMC Savana 3500
+0074	1	2011 GMC Savana 3500
+0075	1	2010 GMC Sierra 1500
+0076	1	2011 GMC Sierra 1500
+0077	1	2010 GMC Sierra 1500 Hybrid
+0078	1	2011 GMC Sierra 1500 Hybrid
+0079	1	2010 GMC Sierra 2500HD
+0080	1	2010 GMC Sierra 3500HD
+0081	1	2011 GMC Terrain
+0082	1	2010 GMC Yukon
+0083	1	2011 GMC Yukon
+0084	1	2010 GMC Yukon Hybrid
+0085	1	2011 GMC Yukon Hybrid
+0086	1	2010 GMC Yukon XL 1500
+0087	1	2011 GMC Yukon XL 1500
+0088	1	2010 Honda Accord Crosstour
+0089	1	2011 Honda CR-Z
+0090	1	2010 Honda Insight
+0091	1	2011 Honda Odyssey
+0092	1	2010 Honda Accord
+0093	1	2011 Honda Accord
+0094	1	2010 Honda Civic
+0095	1	2011 Honda Civic
+0096	1	2010 Honda Civic Hybrid
+0097	1	2011 Honda Civic Hybrid
+0098	1	2010 Honda CR-V
+0099	1	2011 Honda CR-V
+0100	1	2010 Honda Element
+0101	1	2011 Honda Element
+0102	1	2010 Honda Fit
+0103	1	2010 Honda Odyssey
+0104	1	2010 Honda Pilot
+0105	1	2011 Honda Pilot
+0106	1	2010 Honda Ridgeline
+0107	1	2011 Honda Ridgeline
+0108	1	2010 HUMMER H3 SUV
+0109	1	2010 HUMMER H3T
+0110	1	2011 Hyundai Equus
+0111	1	2010 Hyundai Genesis Coupe
+0112	1	2011 Hyundai Sonata Hybrid
+0113	1	2011 Hyundai Azera
+0114	1	2010 Hyundai Santa Fe
+0115	1	2011 Hyundai Sonata
+0116	1	2010 Hyundai Accent
+0117	1	2011 Hyundai Accent
+0118	1	2010 Hyundai Azera
+0119	1	2010 Hyundai Elantra
+0120	1	2010 Hyundai Elantra Touring
+0121	1	2011 Hyundai Elantra Touring
+0122	1	2010 Hyundai Genesis
+0123	1	2011 Hyundai Genesis
+0124	1	2011 Hyundai Genesis Coupe
+0125	1	2011 Hyundai Santa Fe
+0126	1	2010 Hyundai Sonata
+0127	1	2010 Hyundai Tucson
+0128	1	2011 Hyundai Tucson
+0129	1	2010 Hyundai Veracruz
+0130	1	2011 Hyundai Veracruz
+0131	1	2011 Infiniti G25
+0132	1	2010 Infiniti G37
+0133	1	2011 Infiniti M37
+0134	1	2011 Infiniti M56
+0135	1	2011 Infiniti QX56
+0136	1	2010 Infiniti EX35
+0137	1	2011 Infiniti EX35
+0138	1	2010 Infiniti FX35
+0139	1	2011 Infiniti FX35
+0140	1	2010 Infiniti FX50
+0141	1	2011 Infiniti FX50
+0142	1	2011 Infiniti G37
+0143	1	2010 Infiniti M35
+0144	1	2010 Infiniti M45
+0145	1	2010 Infiniti QX56
+0146	1	2010 Jaguar XF
+0147	1	2010 Jaguar XJ
+0148	1	2011 Jaguar XF
+0149	1	2011 Jaguar XJ
+0150	1	2010 Jaguar XK
+0151	1	2011 Jaguar XK
+0152	1	2011 Jeep Grand Cherokee
+0153	1	2010 Jeep Commander
+0154	1	2010 Jeep Compass
+0155	1	2010 Jeep Grand Cherokee
+0156	1	2010 Jeep Liberty
+0157	1	2011 Jeep Liberty
+0158	1	2010 Jeep Patriot
+0159	1	2011 Jeep Patriot
+0160	1	2010 Jeep Wrangler
+0161	1	2011 Jeep Wrangler
+0162	1	2010 Jeep Wrangler Unlimited
+0163	1	2011 Jeep Wrangler Unlimited
+0164	1	2010 Kia Forte
+0165	1	2010 Kia Forte Koup
+0166	1	2010 Kia Soul
+0167	1	2011 Kia Optima
+0168	1	2011 Kia Sorento
+0169	1	2011 Kia Sportage
+0170	1	2011 Kia Forte
+0171	1	2011 Kia Forte Koup
+0172	1	2010 Kia Optima
+0173	1	2010 Kia Rio
+0174	1	2011 Kia Rio
+0175	1	2010 Kia Rio5
+0176	1	2011 Kia Rio5
+0177	1	2010 Kia Rondo
+0178	1	2010 Kia Sedona
+0179	1	2011 Kia Sedona
+0180	1	2011 Kia Soul
+0181	1	2010 Kia Sportage
+0182	1	2011 Audi A8
+0183	1	2010 Audi Q7
+0184	1	2011 Audi R8
+0185	1	2010 Audi S4
+0186	1	2011 Audi TT
+0187	1	2011 Audi TTS
+0188	1	2010 Audi A3
+0189	1	2011 Audi A3
+0190	1	2010 Audi A4
+0191	1	2011 Audi A4
+0192	1	2010 Audi A5
+0193	1	2011 Audi A5
+0194	1	2010 Audi A6
+0195	1	2011 Audi A6
+0196	1	2010 Audi A8
+0197	1	2010 Audi Q5
+0198	1	2011 Audi Q5
+0199	1	2011 Audi Q7
+0200	1	2010 Audi R8
+0201	1	2011 Audi S4
+0202	1	2010 Audi S5
+0203	1	2011 Audi S5
+0204	1	2010 Audi S6
+0205	1	2011 Audi S6
+0206	1	2010 Audi TT
+0207	1	2010 Audi TTS
+0208	1	2010 Lamborghini Gallardo
+0209	1	2011 Lamborghini Gallardo
+0210	1	2010 Lamborghini Murcielago
+0211	1	2010 Land Rover LR4
+0212	1	2010 Land Rover LR2
+0213	1	2011 Land Rover LR2
+0214	1	2011 Land Rover LR4
+0215	1	2010 Land Rover Range Rover
+0216	1	2011 Land Rover Range Rover
+0217	1	2010 Land Rover Range Rover Sport
+0218	1	2011 Land Rover Range Rover Sport
+0219	1	2011 Lexus CT 200h
+0220	1	2010 Lexus HS 250h
+0221	1	2010 Lexus IS 250C
+0222	1	2010 Lexus IS 350C
+0223	1	2010 Lexus GX 460
+0224	1	2010 Lexus RX 350
+0225	1	2010 Lexus RX 450h
+0226	1	2010 Lexus ES 350
+0227	1	2011 Lexus ES 350
+0228	1	2010 Lexus GS 350
+0229	1	2011 Lexus GS 350
+0230	1	2010 Lexus GS 450h
+0231	1	2011 Lexus GS 450h
+0232	1	2010 Lexus GS 460
+0233	1	2011 Lexus GS 460
+0234	1	2011 Lexus GX 460
+0235	1	2011 Lexus HS 250h
+0236	1	2010 Lexus IS 250
+0237	1	2011 Lexus IS 250
+0238	1	2011 Lexus IS 250C
+0239	1	2010 Lexus IS 350
+0240	1	2011 Lexus IS 350
+0241	1	2011 Lexus IS 350C
+0242	1	2010 Lexus IS-F
+0243	1	2011 Lexus IS-F
+0244	1	2010 Lexus LS 460
+0245	1	2011 Lexus LS 460
+0246	1	2010 Lexus LS 600h
+0247	1	2011 Lexus LS 600h
+0248	1	2010 Lexus LX 570
+0249	1	2011 Lexus LX 570
+0250	1	2011 Lexus RX 350
+0251	1	2011 Lexus RX 450h
+0252	1	2010 Lexus SC 430
+0253	1	2010 Lincoln MKT
+0254	1	2011 Lincoln MKZ Hybrid
+0255	1	2011 Lincoln MKX
+0256	1	2010 Lincoln MKZ
+0257	1	2011 Lincoln MKZ
+0258	1	2010 Lincoln MKS
+0259	1	2011 Lincoln MKS
+0260	1	2011 Lincoln MKT
+0261	1	2010 Lincoln MKX
+0262	1	2010 Lincoln Navigator
+0263	1	2011 Lincoln Navigator
+0264	1	2010 Lincoln Town Car
+0265	1	2011 Lincoln Town Car
+0266	1	2010 Lotus Evora
+0267	1	2010 Lotus Elise
+0268	1	2010 Lotus Exige
+0269	1	2010 Maserati GranTurismo
+0270	1	2010 Maserati Quattroporte
+0271	1	2010 Maybach Landaulet
+0272	1	2010 Maybach 57
+0273	1	2011 Maybach 57
+0274	1	2010 Maybach 62
+0275	1	2011 Maybach 62
+0276	1	2011 Mazda Mazda2
+0277	1	2010 Mazda CX-7
+0278	1	2010 Mazda CX-9
+0279	1	2010 Mazda Mazda3
+0280	1	2010 Mazda MazdaSPEED3
+0281	1	2011 Mazda CX-7
+0282	1	2011 Mazda CX-9
+0283	1	2011 Mazda Mazda3
+0284	1	2010 Mazda Mazda5
+0285	1	2010 Mazda Mazda6
+0286	1	2011 Mazda Mazda6
+0287	1	2011 Mazda MazdaSPEED3
+0288	1	2010 Mazda MX-5 Miata
+0289	1	2011 Mazda MX-5 Miata
+0290	1	2010 Mazda RX-8
+0291	1	2011 Mazda RX-8
+0292	1	2010 Mazda Tribute
+0293	1	2011 Mazda Tribute
+0294	1	2010 Mazda Tribute Hybrid
+0295	1	2010 Mercedes-Benz GLK-Class
+0296	1	2011 Mercedes-Benz SLS AMG
+0297	1	2010 Mercedes-Benz E-Class
+0298	1	2011 Mercedes-Benz E-Class
+0299	1	2011 Mercedes-Benz R-Class
+0300	1	2010 Mercedes-Benz C-Class
+0301	1	2011 Mercedes-Benz C-Class
+0302	1	2010 Mercedes-Benz CL-Class
+0303	1	2011 Mercedes-Benz CL-Class
+0304	1	2010 Mercedes-Benz CLS-Class
+0305	1	2011 Mercedes-Benz CLS-Class
+0306	1	2010 Mercedes-Benz G-Class
+0307	1	2011 Mercedes-Benz G-Class
+0308	1	2010 Mercedes-Benz GL-Class
+0309	1	2011 Mercedes-Benz GL-Class
+0310	1	2011 Mercedes-Benz GLK-Class
+0311	1	2010 Mercedes-Benz M-Class
+0312	1	2011 Mercedes-Benz M-Class
+0313	1	2010 Mercedes-Benz R-Class
+0314	1	2010 Mercedes-Benz S-Class
+0315	1	2011 Mercedes-Benz S-Class
+0316	1	2011 Mercedes-Benz SL-Class
+0317	1	2010 Mercedes-Benz SLK-Class
+0318	1	2011 Mercedes-Benz SLK-Class
+0319	1	2010 Mercedes-Benz Sprinter
+0320	1	2011 Mercedes-Benz Sprinter
+0321	1	2010 Mercury Milan Hybrid
+0322	1	2010 Mercury Milan
+0323	1	2010 Mercury Grand Marquis
+0324	1	2011 Mercury Grand Marquis
+0325	1	2010 Mercury Mariner
+0326	1	2011 Mercury Mariner
+0327	1	2010 Mercury Mariner Hybrid
+0328	1	2011 Mercury Mariner Hybrid
+0329	1	2011 Mercury Milan
+0330	1	2011 Mercury Milan Hybrid
+0331	1	2010 Mercury Mountaineer
+0332	1	2011 Bentley Mulsanne
+0333	1	2010 Bentley Azure
+0334	1	2010 Bentley Brooklands
+0335	1	2010 Bentley Continental Flying Spur
+0336	1	2011 Bentley Continental Flying Spur
+0337	1	2010 Bentley Continental GT
+0338	1	2011 Bentley Continental GT
+0339	1	2010 Bentley Continental GTC
+0340	1	2011 Bentley Continental GTC
+0341	1	2011 Bentley Continental Supersports
+0342	1	2011 MINI Countryman
+0343	1	2011 MINI Countryman S
+0344	1	2010 MINI Cooper
+0345	1	2011 MINI Cooper
+0346	1	2010 MINI Cooper Clubman
+0347	1	2011 MINI Cooper Clubman
+0348	1	2010 MINI Cooper S
+0349	1	2011 MINI Cooper S
+0350	1	2010 MINI Cooper S Clubman
+0351	1	2011 MINI Cooper S Clubman
+0352	1	2010 Mitsubishi Lancer Sportback
+0353	1	2011 Mitsubishi Outlander Sport
+0354	1	2010 Mitsubishi Eclipse
+0355	1	2011 Mitsubishi Eclipse
+0356	1	2010 Mitsubishi Endeavor
+0357	1	2011 Mitsubishi Endeavor
+0358	1	2010 Mitsubishi Galant
+0359	1	2011 Mitsubishi Galant
+0360	1	2010 Mitsubishi Lancer
+0361	1	2011 Mitsubishi Lancer
+0362	1	2010 Mitsubishi Lancer Evolution
+0363	1	2011 Mitsubishi Lancer Evolution
+0364	1	2011 Mitsubishi Lancer Sportback
+0365	1	2010 Mitsubishi Outlander
+0366	1	2011 Mitsubishi Outlander
+0367	1	2011 Nissan Juke
+0368	1	2011 Nissan LEAF
+0369	1	2010 Nissan 370Z
+0370	1	2010 Nissan Altima
+0371	1	2011 Nissan Altima
+0372	1	2010 Nissan Altima Hybrid
+0373	1	2011 Nissan Altima Hybrid
+0374	1	2010 Nissan Armada
+0375	1	2011 Nissan Armada
+0376	1	2010 Nissan Cube
+0377	1	2010 Nissan Frontier
+0378	1	2011 Nissan Frontier
+0379	1	2010 Nissan GT-R
+0380	1	2011 Nissan GT-R
+0381	1	2010 Nissan Maxima
+0382	1	2011 Nissan Maxima
+0383	1	2010 Nissan Murano
+0384	1	2011 Nissan Murano
+0385	1	2010 Nissan Pathfinder
+0386	1	2011 Nissan Pathfinder
+0387	1	2010 Nissan Rogue
+0388	1	2011 Nissan Rogue
+0389	1	2010 Nissan Sentra
+0390	1	2011 Nissan Sentra
+0391	1	2010 Nissan Titan
+0392	1	2011 Nissan Titan
+0393	1	2010 Nissan Versa
+0394	1	2011 Nissan Versa
+0395	1	2010 Nissan Xterra
+0396	1	2011 Nissan Xterra
+0397	1	2010 Pontiac G3
+0398	1	2010 Pontiac Vibe
+0399	1	2011 Porsche Boxster
+0400	1	2011 Porsche Cayenne Hybrid
+0401	1	2010 Porsche Panamera
+0402	1	2011 Porsche Cayenne
+0403	1	2010 Porsche 911
+0404	1	2011 Porsche 911
+0405	1	2010 Porsche Boxster
+0406	1	2010 Porsche Cayenne
+0407	1	2010 Porsche Cayman
+0408	1	2011 Porsche Cayman
+0409	1	2011 Porsche Panamera
+0410	1	2010 Rolls-Royce Ghost
+0411	1	2010 Rolls-Royce Phantom Coupe
+0412	1	2010 Rolls-Royce Phantom Drophead Coupe
+0413	1	2010 Rolls-Royce Phantom
+0414	1	2010 Saab 9-5
+0415	1	2011 Saab 9-3
+0416	1	2011 Saab 9-5
+0417	1	2011 Scion iQ
+0418	1	2011 Scion tC
+0419	1	2010 Scion tC
+0420	1	2010 Scion xB
+0421	1	2011 Scion xB
+0422	1	2010 Scion xD
+0423	1	2011 Scion xD
+0424	1	2010 smart fortwo
+0425	1	2011 Subaru Impreza WRX STi
+0426	1	2010 Subaru Legacy
+0427	1	2011 Subaru Legacy
+0428	1	2010 Subaru Outback
+0429	1	2010 Subaru Forester
+0430	1	2011 Subaru Forester
+0431	1	2010 Subaru Impreza
+0432	1	2011 Subaru Impreza
+0433	1	2011 Subaru Impreza Outback Sport
+0434	1	2011 Subaru Outback
+0435	1	2010 Subaru Tribeca
+0436	1	2011 Subaru Tribeca
+0437	1	2011 BMW ActiveHybrid X6
+0438	1	2010 BMW X5 M
+0439	1	2010 BMW ActiveHybrid X6
+0440	1	2010 BMW X6 M
+0441	1	2011 BMW 528
+0442	1	2011 BMW 535
+0443	1	2011 BMW 550
+0444	1	2011 BMW X3
+0445	1	2010 BMW 128
+0446	1	2011 BMW 128
+0447	1	2010 BMW 135
+0448	1	2011 BMW 135
+0449	1	2010 BMW 328
+0450	1	2011 BMW 328
+0451	1	2010 BMW 335
+0452	1	2011 BMW 335
+0453	1	2010 BMW 528
+0454	1	2010 BMW 535
+0455	1	2010 BMW 535 Gran Turismo
+0456	1	2011 BMW 535 Gran Turismo
+0457	1	2010 BMW 550
+0458	1	2010 BMW 550 Gran Turismo
+0459	1	2011 BMW 550 Gran Turismo
+0460	1	2010 BMW 650
+0461	1	2011 BMW 740
+0462	1	2010 BMW 750
+0463	1	2011 BMW 750
+0464	1	2010 BMW 760
+0465	1	2011 BMW 760
+0466	1	2011 BMW ActiveHybrid 750
+0467	1	2011 BMW ALPINA B7
+0468	1	2010 BMW M3
+0469	1	2011 BMW M3
+0470	1	2010 BMW M5
+0471	1	2010 BMW M6
+0472	1	2010 BMW X3
+0473	1	2010 BMW X5
+0474	1	2011 BMW X5
+0475	1	2011 BMW X5 M
+0476	1	2010 BMW X6
+0477	1	2011 BMW X6
+0478	1	2011 BMW X6 M
+0479	1	2010 BMW Z4
+0480	1	2011 BMW Z4
+0481	1	2010 Suzuki Kizashi
+0482	1	2010 Suzuki Equator
+0483	1	2011 Suzuki Equator
+0484	1	2010 Suzuki Grand Vitara
+0485	1	2011 Suzuki Grand Vitara
+0486	1	2011 Suzuki Kizashi
+0487	1	2010 Suzuki SX4
+0488	1	2011 Suzuki SX4
+0489	1	2010 Tesla Roadster
+0490	1	2011 Tesla Roadster
+0491	1	2010 Toyota 4Runner
+0492	1	2011 Toyota Avalon
+0493	1	2010 Toyota Camry
+0494	1	2010 Toyota Camry Hybrid
+0495	1	2010 Toyota Prius
+0496	1	2011 Toyota Sienna
+0497	1	2011 Toyota 4Runner
+0498	1	2010 Toyota Avalon
+0499	1	2011 Toyota Camry
+0500	1	2011 Toyota Camry Hybrid
+0501	1	2010 Toyota Corolla
+0502	1	2010 Toyota FJ Cruiser
+0503	1	2011 Toyota FJ Cruiser
+0504	1	2010 Toyota Highlander
+0505	1	2011 Toyota Highlander
+0506	1	2010 Toyota Highlander Hybrid
+0507	1	2011 Toyota Highlander Hybrid
+0508	1	2010 Toyota Land Cruiser
+0509	1	2011 Toyota Land Cruiser
+0510	1	2010 Toyota Matrix
+0511	1	2011 Toyota Prius
+0512	1	2010 Toyota RAV4
+0513	1	2011 Toyota RAV4
+0514	1	2010 Toyota Sequoia
+0515	1	2011 Toyota Sequoia
+0516	1	2010 Toyota Sienna
+0517	1	2010 Toyota Tacoma
+0518	1	2011 Toyota Tacoma
+0519	1	2010 Toyota Tundra
+0520	1	2011 Toyota Tundra
+0521	1	2010 Toyota Venza
+0522	1	2011 Toyota Venza
+0523	1	2010 Toyota Yaris
+0524	1	2011 Toyota Yaris
+0525	1	2011 Volkswagen Touareg Hybrid
+0526	1	2010 Volkswagen Golf
+0527	1	2010 Volkswagen GTI
+0528	1	2011 Volkswagen Jetta
+0529	1	2011 Volkswagen Touareg
+0530	1	2010 Volkswagen CC
+0531	1	2011 Volkswagen CC
+0532	1	2010 Volkswagen Eos
+0533	1	2011 Volkswagen Eos
+0534	1	2011 Volkswagen Golf
+0535	1	2011 Volkswagen GTI
+0536	1	2010 Volkswagen Jetta
+0537	1	2010 Volkswagen New Beetle
+0538	1	2010 Volkswagen Passat
+0539	1	2010 Volkswagen Routan
+0540	1	2010 Volkswagen Tiguan
+0541	1	2011 Volkswagen Tiguan
+0542	1	2010 Volkswagen Touareg
+0543	1	2010 Volvo XC60
+0544	1	2011 Volvo C30
+0545	1	2011 Volvo S60
+0546	1	2010 Volvo C30
+0547	1	2010 Volvo C70
+0548	1	2011 Volvo C70
+0549	1	2010 Volvo S40
+0550	1	2011 Volvo S40
+0551	1	2010 Volvo S80
+0552	1	2011 Volvo S80
+0553	1	2010 Volvo V50
+0554	1	2011 Volvo V50
+0555	1	2010 Volvo V70
+0556	1	2011 Volvo XC60
+0557	1	2010 Volvo XC70
+0558	1	2011 Volvo XC70
+0559	1	2010 Volvo XC90
+0560	1	2011 Volvo XC90
+0561	1	2011 Buick Regal
+0562	1	2010 Buick LaCrosse
+0563	1	2010 Buick Enclave
+0564	1	2011 Buick Enclave
+0565	1	2011 Buick LaCrosse
+0566	1	2010 Buick Lucerne
+0567	1	2011 Buick Lucerne
+0568	1	2011 Cadillac CTS
+0569	1	2010 Cadillac SRX
+0570	1	2010 Cadillac CTS
+0571	1	2010 Cadillac DTS
+0572	1	2011 Cadillac DTS
+0573	1	2010 Cadillac Escalade
+0574	1	2011 Cadillac Escalade
+0575	1	2010 Cadillac Escalade ESV
+0576	1	2011 Cadillac Escalade ESV
+0577	1	2010 Cadillac Escalade EXT
+0578	1	2011 Cadillac Escalade EXT
+0579	1	2010 Cadillac Escalade Hybrid
+0580	1	2011 Cadillac Escalade Hybrid
+0581	1	2011 Cadillac SRX
+0582	1	2010 Cadillac STS
+0583	1	2011 Cadillac STS
+0584	1	2010 Chevrolet Camaro
+0585	1	2011 Chevrolet Cruze
+0586	1	2011 Chevrolet Volt
+0587	1	2010 Chevrolet Equinox
+0588	1	2011 Chevrolet Silverado 2500HD
+0589	1	2011 Chevrolet Silverado 3500HD
+0590	1	2010 Chevrolet Avalanche 1500
+0591	1	2011 Chevrolet Avalanche 1500
+0592	1	2010 Chevrolet Aveo
+0593	1	2011 Chevrolet Aveo
+0594	1	2011 Chevrolet Camaro
+0595	1	2010 Chevrolet Cobalt
+0596	1	2010 Chevrolet Colorado
+0597	1	2011 Chevrolet Colorado
+0598	1	2010 Chevrolet Corvette
+0599	1	2011 Chevrolet Corvette
+0600	1	2011 Chevrolet Equinox
+0601	1	2010 Chevrolet Express 1500
+0602	1	2011 Chevrolet Express 1500
+0603	1	2010 Chevrolet Express 2500
+0604	1	2011 Chevrolet Express 2500
+0605	1	2010 Chevrolet Express 3500
+0606	1	2011 Chevrolet Express 3500
+0607	1	2010 Chevrolet HHR
+0608	1	2011 Chevrolet HHR
+0609	1	2010 Chevrolet Impala
+0610	1	2011 Chevrolet Impala
+0611	1	2010 Chevrolet Malibu
+0612	1	2011 Chevrolet Malibu
+0613	1	2010 Chevrolet Silverado 1500
+0614	1	2011 Chevrolet Silverado 1500
+0615	1	2010 Chevrolet Silverado 1500 Hybrid
+0616	1	2011 Chevrolet Silverado 1500 Hybrid
+0617	1	2010 Chevrolet Silverado 2500HD
+0618	1	2010 Chevrolet Silverado 3500HD
+0619	1	2010 Chevrolet Suburban 1500
+0620	1	2011 Chevrolet Suburban 1500
+0621	1	2010 Chevrolet Tahoe
+0622	1	2011 Chevrolet Tahoe
+0623	1	2010 Chevrolet Tahoe Hybrid
+0624	1	2011 Chevrolet Tahoe Hybrid
+0625	1	2010 Chevrolet Traverse
+0626	1	2011 Chevrolet Traverse
+0627	1	2011 Chrysler 200
+0628	1	2011 Chrysler Town &amp; Country
+0629	1	2010 Chrysler 300
+0630	1	2010 Chrysler 300C
+0631	1	2010 Chrysler PT Cruiser
+0632	1	2010 Chrysler Sebring
+0633	1	2010 Chrysler Town &amp; Country
+0634	1	2010 Dodge Ram 2500
+0635	1	2010 Dodge Ram 3500
+0636	1	2010 Dodge Avenger
+0637	1	2011 Dodge Avenger
+0638	1	2010 Dodge Caliber
+0639	1	2011 Dodge Caliber
+0640	1	2010 Dodge Challenger
+0641	1	2010 Dodge Charger
+0642	1	2011 Dodge Charger
+0643	1	2010 Dodge Dakota
+0644	1	2011 Dodge Dakota
+0645	1	2011 Dodge Durango
+0646	1	2010 Dodge Grand Caravan
+0647	1	2011 Dodge Grand Caravan
+0648	1	2010 Dodge Journey
+0649	1	2011 Dodge Journey
+0650	1	2010 Dodge Nitro
+0651	1	2011 Dodge Nitro
+0652	1	2010 Dodge Ram 1500
+0653	1	2011 Dodge Ram 1500
+0654	1	2011 Dodge Ram 2500
+0655	1	2011 Dodge Ram 3500
+0656	1	2010 Dodge Viper

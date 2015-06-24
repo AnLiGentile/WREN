@@ -1,0 +1,2002 @@
+﻿university	studentaid	name
+2000	2000	2000	1999
+0000	1	Acadia University
+0001	1	Adams State College
+0002	1	Babson College
+0003	1	Bainbridge College
+0004	1	Baker College of Auburn Hills
+0005	1	Baker College of Cadillac
+0006	1	Baker College of Flint
+0007	1	Baker University
+0008	1	Bakersfield College
+0009	1	Baldwin-Wallace College
+0010	1	Ball State University
+0011	1	Baltimore City Community College
+0012	1	Baltimore City Community College - Harbor
+0013	1	Baltimore Hebrew University
+0014	1	Baltimore International College
+0015	1	Bank Street College of Education
+0016	1	Baptist Bible College and Seminary
+0017	1	Barclay College
+0018	1	Bard College
+0019	1	Barnard College
+0020	1	Barry University
+0021	1	Barstow Community College
+0022	1	Kalamazoo College
+0023	1	Kalamazoo Valley Community College
+0024	1	Kansas City Area Vocational Technical School
+0025	1	Kansas City Art Institute
+0026	1	Kansas City Kansas Community College
+0027	1	Kansas State University
+0028	1	Kansas Wesleyan University
+0029	1	Katharine Gibbs School - Montclair
+0030	1	Katharine Gibbs School - Piscataway
+0031	1	Kean University
+0032	1	Keene State College
+0033	1	Norwich University
+0034	1	Notre Dame College
+0035	1	Notre Dame de Namur University
+0036	1	Nova Scotia College of Art and Design
+0037	1	Nyack College
+0038	1	NYS College of Human Ecology
+0039	1	Ohio Wesleyan University
+0040	1	Ohlone College
+0041	1	Okaloosa-Walton Community College
+0042	1	Oklahoma Baptist University
+0043	1	Oklahoma Christian University
+0044	1	Oklahoma City Community College
+0045	1	Oklahoma Panhandle State University
+0046	1	Oklahoma State University - Stillwater
+0047	1	Olivet College
+0048	1	Olympic College
+0049	1	Onondaga Community College
+0050	1	Orange Coast College
+0051	1	Orange Technical Education Center - Orlando Tech
+0052	1	Orange Technical Education Center - Winter Park Tech
+0053	1	Orangeburg-Calhoun Technical College
+0054	1	Oregon Health Sciences University
+0055	1	Oregon Institute of Technology
+0056	1	Otis College of Art and Design
+0057	1	Ottawa University
+0058	1	Ouachita Baptist University
+0059	1	Ouachita Technical College
+0060	1	Our Lady of Holy Cross College
+0061	1	Our Lady of the Lake University
+0062	1	Owens State Community College - Toledo
+0063	1	Owensboro Community and Technical College
+0064	1	Oxford College of Emory University
+0065	1	Ozark Christian College
+0066	1	Patten University
+0067	1	Paul D. Camp Community College - Franklin Campus
+0068	1	Paul D. Camp Community College - Hobbs Campus
+0069	1	Paul Quinn College
+0070	1	Peace College
+0071	1	Pearl River Community College - Pearl River County Center
+0072	1	Pellissippi State Community College
+0073	1	Peninsula College
+0074	1	Penn State Beaver
+0075	1	Penn State Delaware County
+0076	1	Penn State Erie, Behrend College
+0077	1	Penn State Fayette
+0078	1	Penn State Harrisburg
+0079	1	Penn State McKeesport
+0080	1	Penn State University Park
+0081	1	Penn State Wilkes-Barre
+0082	1	Penn State Worthington Scranton
+0083	1	Penn State York
+0084	1	Penn Valley Community College
+0085	1	Pennsylvania Culinary Institute
+0086	1	Pennsylvania Gunsmith School
+0087	1	Pennsylvania School of Art and Design
+0088	1	Pepperdine University
+0089	1	Petit Jean College
+0090	1	Phillips Community College of the University of Arkansas
+0091	1	Phoenix College
+0092	1	Piedmont College
+0093	1	Piedmont Community College
+0094	1	Piedmont Virginia Community College
+0095	1	Pierce College
+0096	1	Pierpont Community and Technical College
+0097	1	Pikes Peak Community College
+0098	1	Pikeville College
+0099	1	Pima Community College
+0100	1	Pine Manor College
+0101	1	Pinellas Technical Education Center - St. Petersburg Campus
+0102	1	Pinellas Technical Education Centers - Clearwater
+0103	1	Pitt Community College
+0104	1	Pittsburgh Technical Institute
+0105	1	PJA School
+0106	1	Plaza Business Institute
+0107	1	Plymouth State College
+0108	1	Point Loma Nazarene University
+0109	1	Point Park College
+0110	1	Polk Community College
+0111	1	Polytechnic University
+0112	1	Polytechnic University of Puerto Rico
+0113	1	Portland Community College
+0114	1	Portland State University
+0115	1	Post University
+0116	1	Potomac State College of West Virginia University
+0117	1	Prairie View A&M University
+0118	1	Pratt Community College
+0119	1	Pratt Institute
+0120	1	Premiere Career College
+0121	1	Presbyterian College
+0122	1	Prescott College
+0123	1	Prince George's Community College
+0124	1	Prince William Sound Community College
+0125	1	Providence College and Theological Seminary
+0126	1	Pulaski Technical College
+0127	1	Purdue University
+0128	1	Purdue University - Calumet
+0129	1	Putnam County Technical Center
+0130	1	Rensselaer at Hartford
+0131	1	Research College of Nursing
+0132	1	Rhode Island School of Design
+0133	1	Rhodes College
+0134	1	Rhodes State College
+0135	1	Rice University
+0136	1	Rich Mountain Community College
+0137	1	Richard Bland College
+0138	1	Ricks College
+0139	1	Ridgewater College - Hutchinson
+0140	1	Ringling School of Art and Design
+0141	1	Ripon College
+0142	1	River Parishes Community College
+0143	1	Riverland Community College - Austin
+0144	1	Riverside City College
+0145	1	Rivier College
+0146	1	Roanoke Bible College
+0147	1	Roanoke College
+0148	1	Roanoke-Chowan Community College
+0149	1	Robert Morgan Vocational-Technical Center
+0150	1	Robert Morris University
+0151	1	Rochester Business Institute
+0152	1	Rochester Institute of Technology
+0153	1	Rockingham Community College
+0154	1	Rockland Community College
+0155	1	Rockland Community College - Haverstraw Learning Center
+0156	1	Rocky Mountain College of Art + Design
+0157	1	Rogers State University
+0158	1	L. E. Fletcher Technical Community College
+0159	1	La Salle University
+0160	1	Laboratory Institute of Merchandising
+0161	1	Laboure College
+0162	1	Lac Courte Oreilles Ojibwa Community College
+0163	1	Lackawanna College - Scranton
+0164	1	LaGrange College
+0165	1	LaGuardia Community College
+0166	1	Laguna College of Art and Design
+0167	1	Lake Forest College
+0168	1	Lake Land College
+0169	1	Lake Region State College
+0170	1	Lake Tahoe Community College
+0171	1	Lake Washington Technical College
+0172	1	Lake-Sumter Community College
+0173	1	Lakeland College
+0174	1	Lakeland Community College
+0175	1	Lakeshore Technical College
+0176	1	Lakeview College of Nursing
+0177	1	Lamar Community College
+0178	1	Lamar University
+0179	1	Lambuth University
+0180	1	Lancaster Bible College
+0181	1	Rolla Technical Institute
+0182	1	Rosedale Technical Institute
+0183	1	Rowan University
+0184	1	Rowan-Cabarrus Community College
+0185	1	Roxbury Community College
+0186	1	Rush University
+0187	1	Russell Sage College
+0188	1	Rust College
+0189	1	Rutgers University - Camden Campus
+0190	1	Rutgers University - Camden College of Arts and Sciences
+0191	1	Rutgers University - College of Nursing
+0192	1	Rutgers University - College of Pharmacy
+0193	1	Rutgers University - Mason Gross School of the Arts
+0194	1	Rutgers University - New Brunswick Campus
+0195	1	Rutgers University - Newark Campus
+0196	1	Rutgers University - School of Engineering
+0197	1	Ryerson Polytechnic University
+0198	1	Saint Mary's University of Minnesota
+0199	1	Saint Mary-of-the-Woods College
+0200	1	Saint Paul Technical College
+0201	1	Saint Paul's College
+0202	1	Saint Peter's College
+0203	1	Saint Petersburg College - Clearwater Campus
+0204	1	Saint Petersburg College - Tarpon Springs Campus
+0205	1	Saint Xavier University
+0206	1	Salem Community College
+0207	1	Salem County Vocational-Technical Schools
+0208	1	Salem International University
+0209	1	Salem State College
+0210	1	Salisbury State University
+0211	1	Salish Kootenai College
+0212	1	Salt Lake Community College
+0213	1	Samford University
+0214	1	Sampson Community College
+0215	1	Samuel Merritt University
+0216	1	San Diego Christian College
+0217	1	San Diego Mesa College
+0218	1	San Diego Miramar College
+0219	1	San Diego State University
+0220	1	San Francisco Art Institute
+0221	1	San Francisco Conservatory of Music
+0222	1	San Jose State University
+0223	1	San Juan College
+0224	1	Sandersville Technical College
+0225	1	Sanford-Brown College - St. Charles
+0226	1	Santa Barbara City College
+0227	1	Santa Clara University
+0228	1	Santa Fe College
+0229	1	Santa Fe Community College - Santa Fe
+0230	1	Santa Rosa Junior College
+0231	1	Sarah Lawrence College
+0232	1	Sarasota County Technical Institute
+0233	1	Savannah College of Art and Design, The
+0234	1	Savannah State University
+0235	1	Schenectady County Community College
+0236	1	School of the Art Institute of Chicago, The
+0237	1	School of Visual Arts
+0238	1	Scott Community College
+0239	1	Scottsdale Community College
+0240	1	Seattle Central Community College
+0241	1	Seattle Pacific University
+0242	1	Seattle University
+0243	1	Seminary Extension Independent Study Institute
+0244	1	Seminole Community College
+0245	1	Seminole State College
+0246	1	Seton Hall University
+0247	1	Seton Hill University
+0248	1	Seward County Community College
+0249	1	Shaw University
+0250	1	Shawnee State University
+0251	1	Sheldon Jackson College
+0252	1	Shenandoah University
+0253	1	Shepherd University
+0254	1	Shippensburg University of Pennsylvania
+0255	1	Shorter University
+0256	1	Siena College
+0257	1	Sierra Nevada College
+0258	1	Sikeston Career and Technology Center
+0259	1	Silver Lake College
+0260	1	Simmons Institute of Funeral Service, Inc.
+0261	1	Simon Fraser University
+0262	1	Simon's Rock College of Bard
+0263	1	Simpson College - Redding
+0264	1	Simpson University
+0265	1	Sitting Bull College
+0266	1	Skidmore College
+0267	1	Skyline College
+0268	1	Slippery Rock University of Pennsylvania
+0269	1	Snead State Community College
+0270	1	Snow College
+0271	1	Sojourner-Douglass College
+0272	1	Soka University of America
+0273	1	Solano Community College
+0274	1	Somerset Community College
+0275	1	Somerset County Technical Institute
+0276	1	Sonoma State University
+0277	1	South Carolina State University
+0278	1	South Dakota State University
+0279	1	South Hills School of Business and Technology - Main Campus
+0280	1	South Mountain Community College
+0281	1	South Piedmont Community College
+0282	1	South Plains College - Levelland
+0283	1	South Puget Sound Community College
+0284	1	South Seattle Community College
+0285	1	Southeast Arkansas College
+0286	1	Southeast Community College - Lincoln Campus
+0287	1	Southeast Community College - Milford Campus
+0288	1	Southeast Kentucky Community and Technical College
+0289	1	Southeast Missouri State University
+0290	1	Southeast Technical Institute
+0291	1	Southeastern Baptist College
+0292	1	Southeastern Bible College - Birmingham
+0293	1	Southeastern Community College
+0294	1	Southeastern Community College - West Burlington
+0295	1	Southeastern Oklahoma State University
+0296	1	Southeastern Technical College
+0297	1	Southern Arkansas University - Magnolia
+0298	1	Southern California Institute of Architecture
+0299	1	Southern Connecticut State University
+0300	1	Southern Crescent Technical College
+0301	1	Southern Illinois University - Carbondale
+0302	1	Southern Illinois University Edwardsville
+0303	1	Southern Methodist University
+0304	1	Southern Nazarene University
+0305	1	Southern Oregon University
+0306	1	Southern Polytechnic State University
+0307	1	Southern Union State Community College
+0308	1	Southern University and A&M College
+0309	1	Southern University at New Orleans
+0310	1	Southern University in Shreveport
+0311	1	Southern West Virginia Community & Technical College
+0312	1	Southside Virginia Community College
+0313	1	Southwest Georgia Technical College
+0314	1	Southwest Kansas Technical School
+0315	1	Southwest Missouri State University - West Plains
+0316	1	Southwest Tennessee Community College
+0317	1	Southwest Virginia Community College
+0318	1	Southwest Wisconsin Technical College
+0319	1	Southwestern Adventist University
+0320	1	Southwestern Assemblies of God University
+0321	1	Southwestern Baptist Theological Seminary
+0322	1	Southwestern Christian College
+0323	1	Southwestern College - Kansas
+0324	1	Southwestern College - Northern Kentucky Campus
+0325	1	Southwestern Community College
+0326	1	Southwestern Michigan College
+0327	1	Southwestern Oklahoma State University
+0328	1	Southwestern Oregon Community College
+0329	1	Southwestern University
+0330	1	Macalester College
+0331	1	MacCormac College
+0332	1	MacMurray College
+0333	1	Macomb Community College
+0334	1	Macomb Community College - Center Campus
+0335	1	Macon State College
+0336	1	Macon Technical Institute
+0337	1	Madonna University
+0338	1	Magnolia Bible College
+0339	1	Maine College of Art
+0340	1	Malone College
+0341	1	Manatee Community College
+0342	1	Manhattan Area Technical College
+0343	1	Manhattan Christian College
+0344	1	Manhattan College
+0345	1	Manhattanville College
+0346	1	Maple Woods Community College
+0347	1	Maranatha Baptist Bible College
+0348	1	Spalding University
+0349	1	Spartanburg Community College
+0350	1	Spartanburg Methodist College
+0351	1	Spelman College
+0352	1	Spokane Falls Community College
+0353	1	Spoon River College
+0354	1	Spring Hill College
+0355	1	Springfield College
+0356	1	Springfield Technical Community College
+0357	1	St. Ambrose University
+0358	1	St. Andrews Presbyterian College
+0359	1	St. Bonaventure University
+0360	1	St. Cloud State University
+0361	1	St. Francis College
+0362	1	St. Francis Medical Ctr/College of Nursing
+0363	1	St. Gregory's University
+0364	1	St. John Fisher College
+0365	1	St. John Vianney College Seminary
+0366	1	St. John's College - Annapolis
+0367	1	St. John's University
+0368	1	St. Joseph's College, Brooklyn Campus
+0369	1	St. Joseph's College, Suffolk Campus
+0370	1	St. Joseph's Hospital School of Nursing
+0371	1	St. Mary's College of Maryland
+0372	1	St. Thomas Aquinas College
+0373	1	St. Thomas University
+0374	1	St. Vincent's College
+0375	1	Stark State College of Technology
+0376	1	State University College at Brockport
+0377	1	State University College at Fredonia
+0378	1	State University College at New Paltz
+0379	1	State University College at Old Westbury
+0380	1	State University College at Oneonta
+0381	1	State University College at Plattsburgh
+0382	1	State University College at Potsdam
+0383	1	State University of New York at Albany
+0384	1	State University of New York at Binghamton
+0385	1	State University of New York at Buffalo
+0386	1	State University of New York at Stony Brook
+0387	1	State University of New York Downstate Medical Center
+0388	1	Stautzenberger College - South
+0389	1	Stephen F. Austin State University
+0390	1	Sterling College
+0391	1	Sterling College - Craftsbury Common
+0392	1	Stetson University
+0393	1	Stillman College
+0394	1	Stonehill College
+0395	1	Strayer University - Lexington Campus
+0396	1	Suffolk County Community College
+0397	1	Suffolk County Community College - Western
+0398	1	Suffolk University
+0399	1	Sullivan County Community College
+0400	1	Sullivan University
+0401	1	Sunbridge College
+0402	1	SUNY College of Agriculture & Technology at Cobleskill
+0403	1	SUNY College of Agriculture & Technology at Morrisville
+0404	1	SUNY College of Environmental Science & Forestry
+0405	1	SUNY College of Technology at Alfred
+0406	1	SUNY College of Technology at Farmingdale
+0407	1	SUNY Empire State College - Central New York Center
+0408	1	SUNY Empire State College - Genesee Valley Center
+0409	1	SUNY Empire State College - Hudson Valley Center
+0410	1	SUNY Empire State College - Long Island Center
+0411	1	SUNY Empire State College - Northeast Center
+0412	1	SUNY Empire State College - Van Arsdale Center for Labor Studies
+0413	1	SUNY Institute of Technology at Utica/Rome
+0414	1	Surry Community College
+0415	1	Sussex County Community College
+0416	1	Swedish Institute, Inc.
+0417	1	Syracuse University
+0418	1	Terra State Community College
+0419	1	Texas A&M International University
+0420	1	Texas A&M University - Corpus Christi
+0421	1	Texas A&M University - Kingsville
+0422	1	Texas A&M University - Texarkana
+0423	1	Texas Chiropractic College
+0424	1	Texas Christian University
+0425	1	Texas Lutheran University
+0426	1	Texas State University - San Marcos
+0427	1	Texas Tech University
+0428	1	Texas Woman's University
+0429	1	Thaddeus Stevens College of Technology
+0430	1	The College of Westchester
+0431	1	The Evergreen State College
+0432	1	Thomas Aquinas College
+0433	1	Thomas Edison State College
+0434	1	Thomas Jefferson University
+0435	1	Thomas More College
+0436	1	Thomas Technical Institute
+0437	1	Thomas University
+0438	1	Thompson Institute
+0439	1	Three Rivers Community College
+0440	1	TN Tech Center at Athens
+0441	1	TN Tech Center at Dickson
+0442	1	TN Tech Center at Hohenwald
+0443	1	TN Tech Center at Jacksboro
+0444	1	TN Tech Center at Jackson
+0445	1	TN Tech Center at Livingston
+0446	1	TN Tech Center at Morristown
+0447	1	TN Tech Center at Nashville
+0448	1	TN Tech Center at Oneida/Huntsville
+0449	1	TN Tech Center at Shelbyville
+0450	1	Tom P. Haney Technical Center
+0451	1	Towson University
+0452	1	Treasure Valley Community College
+0453	1	Trenholm State Technical College
+0454	1	Trent University
+0455	1	Trevecca Nazarene University
+0456	1	Tri-County Technical College
+0457	1	Tri-County Technical School
+0458	1	Tri-State College of Acupuncture
+0459	1	Tri-State University
+0460	1	Triangle Tech - Greensburg
+0461	1	Triangle Tech - Pittsburgh
+0462	1	Trident Technical College - Charleston
+0463	1	Trinidad State Junior College
+0464	1	Trinity Baptist College
+0465	1	Trinity Bible College
+0466	1	Trinity Christian College
+0467	1	Trinity College
+0468	1	Trinity College of Nursing
+0469	1	Trinity College of Vermont
+0470	1	Trinity International University
+0471	1	Trinity Lutheran College
+0472	1	Trinity University
+0473	1	Trinity Western University
+0474	1	Trocaire College
+0475	1	Truett-McConnell College
+0476	1	Truman State University
+0477	1	Tufts University
+0478	1	Tulane University
+0479	1	Tulsa Community College - Metro Campus
+0480	1	Tulsa Community College - Tulsa
+0481	1	Turtle Mountain Community College
+0482	1	Tusculum College
+0483	1	Tuskegee University
+0484	1	Tyler Junior College
+0485	1	Tyndale University College and Seminary
+0486	1	United States Naval Academy
+0487	1	United Tribes Technical College
+0488	1	Unity College
+0489	1	Univ. of Medicine & Dentistry of New Jersey - School of Nursing
+0490	1	Universal Business and Media School
+0491	1	Universal Technical Institute
+0492	1	Universidad del Turabo
+0493	1	University of Akron, The
+0494	1	University of Alabama - Huntsville
+0495	1	University of Alabama at Birmingham
+0496	1	University of Alaska - Anchorage
+0497	1	University of Alaska - Fairbanks
+0498	1	University of Alaska Anchorage - Kodiak College
+0499	1	University of Alaska Anchorage - Matanuska-Susitna College
+0500	1	University of Alaska Fairbanks - Kuskokwim Campus
+0501	1	University of Alaska Fairbanks - Northwest Campus
+0502	1	University of Alaska Southeast - Juneau Campus
+0503	1	University of Alaska Southeast - Sitka Campus
+0504	1	University of Alberta
+0505	1	University of Arkansas - Fayetteville
+0506	1	University of Arkansas - Fort Smith
+0507	1	University of Arkansas - Little Rock
+0508	1	Napa Valley College
+0509	1	Nassau Community College
+0510	1	National College of Business & Technology - Charlottesville
+0511	1	National College of Business & Technology - Florence
+0512	1	National College of Business & Technology - Lexington
+0513	1	National Conservatory of Dramatic Arts
+0514	1	National Hispanic University, The
+0515	1	University of British Columbia
+0516	1	University of Calgary
+0517	1	University of Central Arkansas
+0518	1	University of Charleston
+0519	1	University of Cincinnati - Clermont College
+0520	1	University of Cincinnati - Omi College of Applied Sciences
+0521	1	University of Cincinnati - University College
+0522	1	University of Colorado - Boulder
+0523	1	University of Colorado - Colorado Springs
+0524	1	University of Colorado Denver
+0525	1	University of Connecticut
+0526	1	University of Dallas
+0527	1	University of Delaware
+0528	1	University of Denver
+0529	1	University of Detroit Mercy
+0530	1	University of Evansville
+0531	1	University of Findlay, The
+0532	1	University of Florida
+0533	1	University of Georgia
+0534	1	University of Guam
+0535	1	University of Guelph
+0536	1	University of Hartford
+0537	1	University of Hawaii - Manoa
+0538	1	University of Hawaii - West Oahu
+0539	1	University of Houston
+0540	1	University of Houston - Clearlake
+0541	1	University of Houston - Downtown
+0542	1	University of Houston - Victoria
+0543	1	University of Idaho
+0544	1	University of Illinois - Springfield
+0545	1	University of Illinois - Urbana
+0546	1	University of Indianapolis
+0547	1	University of Kansas - Lawrence
+0548	1	University of Kansas - Medical Center - Kansas City
+0549	1	University of Kentucky
+0550	1	University of Louisiana - Lafayette
+0551	1	University of Louisiana - Monroe
+0552	1	University of Louisville
+0553	1	University of Maine
+0554	1	University of Maine - Farmington
+0555	1	University of Maine - Fort Kent
+0556	1	University of Maine - Machias
+0557	1	University of Mary Hardin-Baylor
+0558	1	University of Mary Washington
+0559	1	University of Maryland - Baltimore
+0560	1	University of Maryland - College Park
+0561	1	University of Maryland - Eastern Shore
+0562	1	University of Maryland - University College
+0563	1	University of Massachusetts - Amherst
+0564	1	University of Massachusetts - Boston
+0565	1	University of Massachusetts - Dartmouth
+0566	1	University of Michigan - Ann Arbor
+0567	1	University of Michigan - Dearborn
+0568	1	University of Minnesota - Duluth
+0569	1	University of Minnesota - Morris
+0570	1	University of Minnesota - Twin Cities
+0571	1	University of Missouri - Kansas City
+0572	1	University of Missouri - Rolla
+0573	1	University of Nebraska - Lincoln
+0574	1	University of Nevada - Las Vegas
+0575	1	University of Nevada - Reno
+0576	1	University of New Brunswick
+0577	1	University of New Hampshire
+0578	1	University of New Mexico - Main Campus
+0579	1	University of New Mexico - Valencia Campus
+0580	1	University of New Orleans
+0581	1	University of North Alabama
+0582	1	University of North Carolina at Asheville
+0583	1	University of North Carolina at Charlotte
+0584	1	University of North Carolina at Greensboro
+0585	1	University of North Dakota
+0586	1	University of North Texas
+0587	1	University of Northwestern Ohio
+0588	1	University of Notre Dame
+0589	1	University of Oklahoma
+0590	1	University of Oklahoma - Health Sciences Center
+0591	1	University of Oregon
+0592	1	University of Phoenix - Louisville
+0593	1	University of Pittsburgh - Johnstown
+0594	1	University of Pittsburgh - Titusville
+0595	1	University of Portland
+0596	1	University of Prince Edward Island
+0597	1	University of Puerto Rico - Arecibo Campus
+0598	1	University of Puerto Rico - Bayamon University College
+0599	1	University of Puerto Rico - Cayey University College
+0600	1	University of Puerto Rico - Humacao University College
+0601	1	University of Puerto Rico - La Montana University College
+0602	1	University of Puerto Rico - Mayaguez
+0603	1	University of Puerto Rico - Medical Sciences Campus
+0604	1	University of Puerto Rico - Ponce University College
+0605	1	University of Puerto Rico - Rio Piedras Campus
+0606	1	University of Redlands
+0607	1	University of Regina
+0608	1	University of Richmond
+0609	1	University of Rio Grande
+0610	1	University of Saint Francis - Indiana
+0611	1	University of Saint Mary
+0612	1	University of San Diego
+0613	1	University of Saskatchewan
+0614	1	University of Science and Arts of Oklahoma
+0615	1	University of Scranton
+0616	1	University of Sioux Falls
+0617	1	University of South Alabama
+0618	1	University of South Carolina - Aiken
+0619	1	University of South Carolina - Beaufort Campus
+0620	1	University of South Carolina - Lancaster Campus
+0621	1	University of South Carolina - Union Campus
+0622	1	University of South Carolina Sumter
+0623	1	University of South Carolina Upstate
+0624	1	University of South Dakota - Vermillion
+0625	1	University of Southern Indiana
+0626	1	University of Southern Maine
+0627	1	University of St. Francis
+0628	1	University of St. Thomas - TX
+0629	1	University of Tampa
+0630	1	University of Tennessee - Chattanooga
+0631	1	University of Tennessee Health Science Center, Memphis
+0632	1	University of Texas - Brownsville and Texas Southmost College
+0633	1	University of Texas - Dallas
+0634	1	University of Texas - El Paso
+0635	1	University of Texas - Health Science Center - San Antonio
+0636	1	University of Texas - Medical Branch at Galveston
+0637	1	University of Texas - Pan American
+0638	1	University of Texas - Permian Basin
+0639	1	University of Texas - San Antonio
+0640	1	University of the Cumberlands
+0641	1	University of the District of Columbia
+0642	1	University of the Sacred Heart
+0643	1	University of Toledo
+0644	1	University of Toronto
+0645	1	University of Utah
+0646	1	University of Vermont
+0647	1	University of Virginia
+0648	1	University of Virginia - College at Wise
+0649	1	University of Washington
+0650	1	University of West Florida
+0651	1	University of West Los Angeles
+0652	1	University of Wisconsin - Baraboo-Sauk County
+0653	1	University of Wisconsin - Barron Campus
+0654	1	University of Wisconsin - Eau Claire
+0655	1	University of Wisconsin - Fox Valley
+0656	1	University of Wisconsin - Green Bay
+0657	1	University of Wisconsin - LaCrosse
+0658	1	University of Wisconsin - Madison
+0659	1	University of Wisconsin - Manitowoc Campus
+0660	1	University of Wisconsin - Marathon Campus
+0661	1	University of Wisconsin - Marinette
+0662	1	University of Wisconsin - Marshfield-Wood County Campus
+0663	1	University of Wisconsin - Oshkosh
+0664	1	University of Wisconsin - Richland
+0665	1	University of Wisconsin - River Falls
+0666	1	University of Wisconsin - Stevens Point
+0667	1	University of Wisconsin - Superior
+0668	1	University of Wisconsin - Washington County Campus
+0669	1	University of Wisconsin - Whitewater
+0670	1	University of Wisconsin Colleges
+0671	1	University of Wisconsin Sheboygan
+0672	1	Upper Iowa University
+0673	1	Ursinus College
+0674	1	Utah College of Applied Technology - Bridgerland
+0675	1	Utah College of Applied Technology - Davis
+0676	1	Utah College of Applied Technology - Mountainland
+0677	1	Utah College of Applied Technology - Ogden-Weber
+0678	1	Utah College of Applied Technology - Uintah Basin
+0679	1	Utica College
+0680	1	Utica School of Commerce - Utica
+0681	1	Virginia Commonwealth University
+0682	1	Virginia Highlands Community College
+0683	1	Virginia Intermont College
+0684	1	Virginia Wesleyan College
+0685	1	Viterbo University
+0686	1	Volunteer State Community College
+0687	1	Wayland Baptist University
+0688	1	Wayne Community College
+0689	1	Wayne State College
+0690	1	Waynesville Technical Academy
+0691	1	Webb Institute
+0692	1	Webber College
+0693	1	Wentworth Military Academy and Junior College
+0694	1	Wesley College
+0695	1	Wesleyan College
+0696	1	West Chester University of Pennsylvania
+0697	1	West Georgia Technical College
+0698	1	West Kentucky Community and Technical College
+0699	1	West Shore Community College
+0700	1	West Suburban College of Nursing
+0701	1	West Virginia Business College
+0702	1	West Virginia Junior College - Charleston
+0703	1	West Virginia Northern Community College
+0704	1	West Virginia University - Parkersburg
+0705	1	West Virginia University Institute of Technology
+0706	1	Western Area Career & Technology Center
+0707	1	Western Connecticut State University
+0708	1	Western Illinois University
+0709	1	Western Iowa Tech Community College - Sioux City
+0710	1	Western Kentucky University
+0711	1	Western New England College
+0712	1	Western New Mexico University
+0713	1	Western Oklahoma Area Vocational Technical School
+0714	1	Western Oregon University
+0715	1	Western Piedmont Community College
+0716	1	Western State College of Colorado
+0717	1	Western Washington University
+0718	1	Western Wisconsin Technical College
+0719	1	Western Wyoming Community College
+0720	1	Westfield State College
+0721	1	Westminster College - Missouri
+0722	1	Westside Technical Center
+0723	1	Wharton County Junior College
+0724	1	Whatcom Community College
+0725	1	Wheaton College
+0726	1	Wheeling Jesuit University
+0727	1	Wheelock College
+0728	1	Whittier College
+0729	1	Whitworth College
+0730	1	Widener University
+0731	1	Oak Hills Christian College
+0732	1	Oakland Community College - Orchard Ridge Campus
+0733	1	Oakland Community College - Royal Oak Campus
+0734	1	Oakland University
+0735	1	Oakton Community College
+0736	1	Oakwood College
+0737	1	Oberlin College
+0738	1	Occidental College
+0739	1	Oglala Lakota College
+0740	1	Oglethorpe University
+0741	1	Ohio Northern University
+0742	1	Ohio State University, The - Lima
+0743	1	Ohio State University, The - Mansfield
+0744	1	Ohio University
+0745	1	Ohio University - Chillicothe Campus
+0746	1	Widener University School of Law
+0747	1	Wiley College
+0748	1	Wilkes-Barre Area Vocational Technical School
+0749	1	William Jessup University
+0750	1	William Jewell College
+0751	1	William Woods University
+0752	1	Williams College
+0753	1	Williamson Free School of Mechanical Trades, The
+0754	1	Wilmington College - Ohio
+0755	1	Wilson Technical Community College
+0756	1	Windward Community College
+0757	1	Wingate University
+0758	1	Winona State University - Rochester Center
+0759	1	Winthrop University
+0760	1	Wiregrass Georgia Technical College
+0761	1	Wisconsin Indianhead Technical College
+0762	1	Withlacoochee Technical Institute
+0763	1	Wood Tobe Coburn School
+0764	1	Woodbury College
+0765	1	Woodbury University
+0766	1	Woodland Community College
+0767	1	Worcester Polytechnic Institute
+0768	1	Wytheville Community College
+0769	1	Pace University
+0770	1	Pacific Lutheran Theological Seminary
+0771	1	Pacific Northwest College of Art
+0772	1	Pacific Oaks College
+0773	1	Pacific States University
+0774	1	Pacific Union College
+0775	1	Paine College
+0776	1	Palm Beach Atlantic University
+0777	1	Palm Beach Community College - Eissey Campus
+0778	1	Palo Alto College
+0779	1	Palomar College
+0780	1	Panola College
+0781	1	Paradise Valley Community College
+0782	1	Park University
+0783	1	Parkland College
+0784	1	Pasco-Hernando Community College - New Port Richey
+0785	1	Passaic County Community College
+0786	1	Queensborough Community College
+0787	1	Quincy University
+0788	1	Quinsigamond Community College
+0789	1	Rabbinical College of America
+0790	1	Radford University
+0791	1	Ramapo College of New Jersey
+0792	1	Randolph College
+0793	1	Randolph Community College
+0794	1	Randolph-Macon College
+0795	1	Ranger College
+0796	1	Rappahannock Community College - Glenns Campus
+0797	1	Red Rocks Community College
+0798	1	Redlands Community College
+0799	1	Reed College
+0800	1	Refrigeration School, The
+0801	1	Regis College
+0802	1	Regis University
+0803	1	Reinhardt College
+0804	1	Sage Junior College of Albany
+0805	1	Saginaw Valley State University
+0806	1	Saint Anselm College
+0807	1	Saint Charles County Community College
+0808	1	Saint Cloud Technical College
+0809	1	Saint Francis University
+0810	1	Saint John's College of Nursing
+0811	1	Saint John's University
+0812	1	Saint Joseph Seminary College
+0813	1	Saint Joseph's College (Maine)
+0814	1	Saint Joseph's University
+0815	1	Saint Leo University
+0816	1	Saint Louis Community College - Florissant Valley Campus
+0817	1	Saint Louis Community College - Forest Park Campus
+0818	1	Saint Louis Community College - Meramec Campus
+0819	1	Saint Luke's College
+0820	1	Talladega College
+0821	1	Tallahassee Community College
+0822	1	Talmudic University of Florida
+0823	1	Tarleton State University
+0824	1	Tarrant County Junior College
+0825	1	Taylor Business Institute - Chicago
+0826	1	TCI - The College for Technology
+0827	1	Temple University
+0828	1	Tennessee Technological University
+0829	1	Cabarrus College of Health Sciences
+0830	1	Cabell County Career Technology Center
+0831	1	Cabrillo College
+0832	1	Cabrini College
+0833	1	Cal Maritime
+0834	1	Cal Poly San Luis Obispo
+0835	1	California Baptist University
+0836	1	California College of the Arts
+0837	1	California Culinary Academy
+0838	1	California Institute of Technology
+0839	1	California Institute of the Arts
+0840	1	California University of Pennsylvania
+0841	1	Cambria County Area Community College
+0842	1	Cambria-Rowe Business College - Johnstown
+0843	1	Cambridge College - Cambridge
+0844	1	Cambridge Community College Campus of Anoka-Ramsey
+0845	1	UC Berkeley
+0846	1	UC Davis
+0847	1	UC Los Angeles
+0848	1	UC San Diego
+0849	1	UC Santa Cruz
+0850	1	Ultrasound Diagnostic School - Atlanta
+0851	1	Ultrasound Diagnostic School - Carle Place
+0852	1	Ultrasound Diagnostic School - Dallas
+0853	1	Ultrasound Diagnostic School - Elmsford
+0854	1	Ultrasound Diagnostic School - Jacksonville
+0855	1	Ultrasound Diagnostic School - Lauderdale Lakes
+0856	1	Ultrasound Diagnostic School - New York City
+0857	1	Umpqua Community College
+0858	1	Union Institute and University, The
+0859	1	Union University
+0860	1	United States Air Force Academy
+0861	1	United States Merchant Marine Academy
+0862	1	United States Military Academy
+0863	1	Valencia Community College - Orlando
+0864	1	Valley College of Technology
+0865	1	Valley Forge Christian College
+0866	1	Valley Forge Military Academy and College
+0867	1	Valparaiso University
+0868	1	Vance-Granville Community College
+0869	1	VanderCook College of Music
+0870	1	Vanderschmidt School, The
+0871	1	Vassar College
+0872	1	Victor Valley College
+0873	1	Victory University
+0874	1	Villanova University
+0875	1	Vincennes University
+0876	1	Vincennes University - Fort Harrison Center
+0877	1	Wabash College
+0878	1	Wabash Valley College
+0879	1	Wagner College
+0880	1	Wake Forest University
+0881	1	Wake Technical Community College
+0882	1	Wallace Community College - Alabama Aviation Technology Campus
+0883	1	Walsh College of Accountancy and Business Administration
+0884	1	Walsh University
+0885	1	Walters State Community College
+0886	1	Warner Pacific College
+0887	1	Warner Southern College
+0888	1	Warren County Community College
+0889	1	Wartburg College
+0890	1	Washburn University of Topeka - School of Applied Studies
+0891	1	Washington and Jefferson College
+0892	1	Washington and Lee University
+0893	1	Washington Bible College
+0894	1	Washington State University
+0895	1	Washington University in St. Louis
+0896	1	Washington-Holmes Area Vocational-Technical Center
+0897	1	Washtenaw Community College
+0898	1	Watkins College of Art and Design
+0899	1	Waubonsee Community College
+0900	1	Xavier University
+0901	1	Xavier University of Louisiana
+0902	1	Yakima Valley Community College
+0903	1	Yale University
+0904	1	Yeshiva University
+0905	1	York College
+0906	1	York College - CUNY
+0907	1	York College of Pennsylvania
+0908	1	York County Area Vocational Technical School
+0909	1	York Technical College
+0910	1	York University
+0911	1	Young Harris College
+0912	1	Youngstown State University
+0913	1	AIB College of Business
+0914	1	Aiken Technical College
+0915	1	Aims Community College - Greeley Campus
+0916	1	Akron Machining Institute
+0917	1	Alabama A&M University
+0918	1	Alabama Southern Community College - Monroeville
+0919	1	Alabama Southern Community College - Thomasville
+0920	1	Albany Medical College
+0921	1	Albertson College
+0922	1	Albertus Magnus College
+0923	1	Albion College
+0924	1	Albuquerque Technical-Vocational Institute
+0925	1	Alderson-Broaddus College
+0926	1	Alfred University
+0927	1	Alice Lloyd College
+0928	1	Allegany College of Maryland
+0929	1	Allegany College of Maryland - Bedford County
+0930	1	Allegany College of Maryland - Somerset County
+0931	1	Allen College
+0932	1	Allen County Community College
+0933	1	Allen University
+0934	1	Allentown Business School
+0935	1	Altamaha Technical College
+0936	1	Alvernia University
+0937	1	Alvin Community College
+0938	1	American Academy of Dramatic Arts
+0939	1	American Baptist College
+0940	1	American Health Information Management Association
+0941	1	American Indian College of the Assemblies of God
+0942	1	American Jewish University
+0943	1	American Musical and Dramatic Academy, The
+0944	1	American University - Washington
+0945	1	American University of Puerto Rico
+0946	1	Amherst College
+0947	1	Amridge University
+0948	1	Ancilla College
+0949	1	Anderson College
+0950	1	Anderson University
+0951	1	Andrew College
+0952	1	Angelina College
+0953	1	Anna Maria College
+0954	1	Antioch College
+0955	1	Antonelli College - Cincinnati
+0956	1	Antonelli College - Jackson
+0957	1	D'Youville College
+0958	1	Dabney S. Lancaster Community College
+0959	1	Daemen College
+0960	1	Dakota State University
+0961	1	Dakota Wesleyan University
+0962	1	Dallas Baptist University
+0963	1	Dallas Christian College
+0964	1	Dalton State College
+0965	1	Daniel Webster College
+0966	1	Danville Community College
+0967	1	Darton College
+0968	1	Davenport College of Business
+0969	1	Davidson County Community College
+0970	1	Davis & Elkins College
+0971	1	Davis College
+0972	1	Dawson Community College
+0973	1	Daytona State College
+0974	1	De Anza College
+0975	1	Antonelli Institute
+0976	1	Apollo College - Phoenix
+0977	1	Appalachian State University
+0978	1	Aquinas College - Grand Rapids
+0979	1	Aquinas College - Nashville
+0980	1	Arapahoe Community College
+0981	1	Arizona State University
+0982	1	Arizona State University East - Mesa
+0983	1	Arizona State University West - Phoenix
+0984	1	Arkansas Baptist College
+0985	1	Arkansas Northeastern College
+0986	1	Arkansas State University - Beebe
+0987	1	Arkansas State University - Newport Campus
+0988	1	Arkansas Valley Technical Institute
+0989	1	Armstrong Atlantic State University
+0990	1	Art Institute of Boston at Lesley
+0991	1	Ashland Community and Technical College
+0992	1	Asnuntuck Community College
+0993	1	Assabet Valley Regional Technical School
+0994	1	Assumption College
+0995	1	Athens State University
+0996	1	Athens Technical College
+0997	1	Atlanta Christian College
+0998	1	Atlanta Metropolitan College
+0999	1	Atlantic Cape Community College
+1000	1	Atlantic County Vocational School
+1001	1	Atlantic Technical Center - Coconut Creek
+1002	1	Auburn University
+1003	1	Augsburg College
+1004	1	Augusta Technical College
+1005	1	Augustana College
+1006	1	Augustana College - South Dakota
+1007	1	Austin Peay State University
+1008	1	Averett University
+1009	1	Aviation Institute of Maintenance - Indianapolis
+1010	1	Aviation Institute of Maintenance - Virginia Beach
+1011	1	Avila College
+1012	1	Baruch College
+1013	1	Bates Technical College
+1014	1	Bay de Noc Community College
+1015	1	Bay State College
+1016	1	Bayamon Central University
+1017	1	Baylor University
+1018	1	Beaufort County Community College
+1019	1	Bellevue Community College
+1020	1	Bellin College of Nursing
+1021	1	Bellingham Technical College
+1022	1	Belmont Abbey College
+1023	1	Belmont University
+1024	1	Beloit College
+1025	1	Benedict College
+1026	1	Bennett College
+1027	1	Bennington College
+1028	1	Berkeley College of New York City
+1029	1	Berklee College of Music
+1030	1	Berkshire Community College
+1031	1	Bethany College - WV
+1032	1	Bethany Lutheran College
+1033	1	Bethel University
+1034	1	Bevill State Community College - Brewer Campus
+1035	1	Bidwell Training Center
+1036	1	Big Sandy Community and Technical College
+1037	1	Biola University
+1038	1	Birmingham-Southern College
+1039	1	Bishop State Community College
+1040	1	Black River Technical College
+1041	1	Blackburn College
+1042	1	Bladen Community College
+1043	1	Blessing-Rieman College of Nursing
+1044	1	Bloomfield College
+1045	1	Bloomsburg University of Pennsylvania
+1046	1	Blue Mountain College
+1047	1	Blue Mountain Community College
+1048	1	Bluefield College
+1049	1	Bluefield State College
+1050	1	Bluegrass Community and Technical College
+1051	1	Boise Bible College
+1052	1	Boonslick Technical Education Center
+1053	1	Borough of Manhattan Community College
+1054	1	Boston Architectural Center
+1055	1	Boston College
+1056	1	Boston Conservatory, The
+1057	1	Boston University
+1058	1	Bowdoin College
+1059	1	Bowie State University
+1060	1	Bowling Green State University - Bowling Green
+1061	1	Bowling Green State University - Firelands College
+1062	1	Bowling Green Technical College - Glasgow Campus
+1063	1	Brenau University
+1064	1	Brescia University
+1065	1	Brevard College
+1066	1	Brevard Community College
+1067	1	Bridgewater College
+1068	1	Bridgewater State College
+1069	1	Briercrest College and Seminary
+1070	1	Brigham Young University - Hawaii Campus
+1071	1	Brigham Young University - Utah Campus
+1072	1	Bristol Community College
+1073	1	Brookdale Community College
+1074	1	Brookdale Community College - Asbury Park Learning Center
+1075	1	Brooklyn College
+1076	1	Brooks Institute of Photography
+1077	1	Broome Community College
+1078	1	Brown Mackie College - Louisville
+1079	1	Brown University
+1080	1	Brunswick Community College
+1081	1	Bryan College
+1082	1	Bryant University
+1083	1	Bryman College South
+1084	1	Bryn Mawr College
+1085	1	Bucks County Community College
+1086	1	Buena Vista University
+1087	1	Bunker Hill Community College - Boston
+1088	1	Butler County Community College
+1089	1	Butler County Community College - Kansas
+1090	1	Butler University
+1091	1	Butte College
+1092	1	East Arkansas Community College
+1093	1	East Central College
+1094	1	East Central Community College
+1095	1	East Central University
+1096	1	East Los Angeles College
+1097	1	East Mississippi Community College - Mayhew
+1098	1	East Tennessee State University
+1099	1	East Texas Baptist University
+1100	1	East West University
+1101	1	Eastern Idaho Technical College
+1102	1	Eastern Illinois University
+1103	1	Eastern Kentucky University
+1104	1	Eastern Maine Technical College
+1105	1	Eastern Mennonite University
+1106	1	Eastern Nazarene College
+1107	1	Eastern New Mexico University - Portales
+1108	1	Eastern Shore Community College
+1109	1	Eastern University
+1110	1	Eastern West Virginia Community and Technical College
+1111	1	Eastern Wyoming College
+1112	1	Eckerd College
+1113	1	Cameron University
+1114	1	Campbell University
+1115	1	Campbellsville University
+1116	1	Canada College
+1117	1	Canisius College
+1118	1	Cankdeska Cikana Community College
+1119	1	Cape Cod Community College
+1120	1	Cape Fear Community College
+1121	1	Cape May County Technical School District
+1122	1	Carl Albert State College
+1123	1	Carleton College
+1124	1	Carlow University
+1125	1	Carolinas College of Health Sciences
+1126	1	Carroll College - Montana
+1127	1	Carroll Community College
+1128	1	Carson-Newman College
+1129	1	Carteret Community College
+1130	1	Case Western Reserve University
+1131	1	Cass Career Center
+1132	1	Castleton State College
+1133	1	Catawba College
+1134	1	Catholic University of America, The
+1135	1	Cazenovia College
+1136	1	Cedar Crest College
+1137	1	Cedarville University
+1138	1	Centenary College
+1139	1	Central Baptist College
+1140	1	Central Carolina Community College
+1141	1	Central Carolina Technical College
+1142	1	Central Christian College of Kansas
+1143	1	Central Christian College of the Bible
+1144	1	Central College - Pella
+1145	1	Central Community College - Grand Island Campus
+1146	1	Central Community College - Program of Practical Nursing, Kearn
+1147	1	Central Connecticut State University
+1148	1	Central Georgia Technical College
+1149	1	Central Lakes College
+1150	1	Central Maine Medical Center School of Nursing
+1151	1	Central Michigan University
+1152	1	Central Missouri State University
+1153	1	Central Ohio Technical College
+1154	1	Central Oklahoma Area Vocational-Technical Center
+1155	1	Central Oregon Community College
+1156	1	Central Piedmont Community College
+1157	1	Central State University
+1158	1	Central Washington University
+1159	1	Central Wyoming College
+1160	1	Centralia College
+1161	1	Centre College
+1162	1	Centura College - Newport News
+1163	1	Century Community & Technical College
+1164	1	Cerritos College
+1165	1	Chabot College
+1166	1	Chaffey College
+1167	1	Chaminade University of Honolulu
+1168	1	Champlain College
+1169	1	Chandler-Gilbert Community College
+1170	1	Chapman University
+1171	1	Charles Stewart Mott Community College
+1172	1	Charleston Southern University
+1173	1	Charter Oak State College
+1174	1	Chatham College
+1175	1	Chattahoochee Valley Community College
+1176	1	Chesapeake College
+1177	1	Chester College of New England
+1178	1	Chesterfield-Marlboro Technical College
+1179	1	Chestnut Hill College
+1180	1	Cheyenne River Community College
+1181	1	Cheyney University of Pennsylvania
+1182	1	Chipola College
+1183	1	Chowan University
+1184	1	Christendom College
+1185	1	Christian Brothers University
+1186	1	Christie's Education, Inc.
+1187	1	Christopher Newport University
+1188	1	Churchman Business School
+1189	1	Cincinnati Bible College & Seminary
+1190	1	Cisco Junior College
+1191	1	Citadel, The
+1192	1	Citrus College
+1193	1	City College - Casselberry
+1194	1	City College of San Francisco
+1195	1	Clackamas Community College
+1196	1	Claremont McKenna College
+1197	1	Clarion University of Pennsylvania
+1198	1	Clark Atlanta University
+1199	1	Clark College
+1200	1	Clark State Community College
+1201	1	Clark University
+1202	1	Clarkson College
+1203	1	Clearwater Christian College
+1204	1	Cleary College
+1205	1	Clemson University
+1206	1	Cleveland Community College
+1207	1	Cleveland Institute of Art
+1208	1	Cleveland Institute of Music
+1209	1	Cleveland State Community College
+1210	1	Cleveland State University
+1211	1	Clinton Community College - Iowa
+1212	1	Clovis Community College
+1213	1	Coastal Carolina Community College
+1214	1	Coastal Carolina University
+1215	1	Coffeyville Community College
+1216	1	Cogswell Polytechnical College
+1217	1	Coker College
+1218	1	Colby College
+1219	1	Colby Community College
+1220	1	Colgate University
+1221	1	College of Applied Sciences/Arts - Southern Illinois University
+1222	1	College of Central Florida
+1223	1	College of Charleston
+1224	1	College of Coastal Georgia
+1225	1	College of DuPage
+1226	1	College of Eastern Utah
+1227	1	College of Lake County
+1228	1	College of Mount St. Joseph
+1229	1	College of Mount St. Vincent
+1230	1	College of New Rochelle
+1231	1	College of Notre Dame of Maryland
+1232	1	College of Saint Benedict
+1233	1	College of Saint Mary
+1234	1	College of Saint Rose
+1235	1	College of San Mateo
+1236	1	College of Santa Fe
+1237	1	College of St. Thomas More
+1238	1	College of Staten Island, The
+1239	1	College of the Desert
+1240	1	College of the Mainland
+1241	1	College of the Redwoods
+1242	1	College of the Sequoias
+1243	1	College of the Siskiyous
+1244	1	College of Visual Arts
+1245	1	College of William and Mary
+1246	1	Colorado Christian University
+1247	1	Colorado College
+1248	1	Colorado Mountain College - Leadville Campus
+1249	1	Colorado School of Mines
+1250	1	Colorado State University
+1251	1	Colorado State University - Pueblo
+1252	1	Colorado State University Global Campus
+1253	1	Colorado Technical University
+1254	1	Columbia College - Columbia
+1255	1	Columbia College - Hollywood
+1256	1	Columbia College Chicago
+1257	1	Columbia College of Nursing
+1258	1	Columbia International University
+1259	1	Columbia State Community College
+1260	1	Columbia Union College
+1261	1	Columbia University - Columbia College
+1262	1	Columbia University - School of General Studies
+1263	1	Columbus College of Art and Design
+1264	1	Community College of Allegheny County - Allegheny Campus
+1265	1	Fairleigh Dickinson University - Florham-Madison Campus
+1266	1	Fairleigh Dickinson University - Teaneck-Hackensack Campus
+1267	1	Fairmont State University
+1268	1	Faith Baptist Bible College and Theological Seminary
+1269	1	Fashion Institute of Design & Merchandising - Los Angeles
+1270	1	Faulkner University
+1271	1	Fayette Plateau Vocational-Technical Center
+1272	1	Fayetteville State University
+1273	1	Fayetteville Technical Community College
+1274	1	Felician College
+1275	1	Ferrum College
+1276	1	Fisher College
+1277	1	Fitchburg State College
+1278	1	Flagler College
+1279	1	Flathead Valley Community College - Kalispell
+1280	1	Flathead Valley Community College - Lincoln County Campus
+1281	1	Community College of Allegheny County - Boyce Campus
+1282	1	Community College of Allegheny County - North Campus
+1283	1	Community College of Allegheny County - South Campus
+1284	1	Community College of Aurora
+1285	1	Community College of Baltimore County - Dundalk
+1286	1	Community College of Denver
+1287	1	Community College of Philadelphia
+1288	1	Community College of Rhode Island - Flanagan Campus
+1289	1	Community College of Rhode Island - Knight Campus
+1290	1	Community College of Southern Nevada - Henderson Campus
+1291	1	Community College of Southern Nevada - Las Vegas
+1292	1	Community College of the Air Force
+1293	1	Community College of Vermont
+1294	1	Community Colleges of Colorado Online
+1295	1	Compton Community Education Center
+1296	1	Conception Seminary College
+1297	1	Concord University
+1298	1	Concordia College (Minnesota)
+1299	1	Concordia College - Selma
+1300	1	Concordia University - IL
+1301	1	Concordia University at Austin
+1302	1	Concordia University of Oregon
+1303	1	Connecticut College
+1304	1	Conservatory of Music of Puerto Rico
+1305	1	Consolidated School of Business - Lancaster
+1306	1	Consolidated School of Business - York
+1307	1	Converse College
+1308	1	Cooper Union
+1309	1	Copiah-Lincoln Community College
+1310	1	Coppin State University
+1311	1	Corcoran College of Art and Design
+1312	1	Cornell University
+1313	1	Cornish College of the Arts
+1314	1	Cossatot Community College of the University of Arkansas
+1315	1	Cottey College
+1316	1	County College of Morris
+1317	1	Court Reporting Institute, The
+1318	1	Covenant College
+1319	1	Creative Circus, The
+1320	1	Creighton University
+1321	1	Criswell College, The
+1322	1	CSU Channel Islands
+1323	1	CSU Dominguez Hills
+1324	1	CSU East Bay
+1325	1	CSU Fullerton
+1326	1	CSU Los Angeles
+1327	1	CSU Monterey Bay
+1328	1	CSU Northridge
+1329	1	CSU San Bernardino
+1330	1	CSU San Marcos
+1331	1	CSU Stanislaus
+1332	1	Cuesta College
+1333	1	Culver-Stockton College
+1334	1	Cumberland County College
+1335	1	Cumberland County Technical Education Center
+1336	1	Cumberland University
+1337	1	Curry College
+1338	1	Curtis Institute of Music
+1339	1	Cuyahoga Community College
+1340	1	Cuyahoga Community College - Eastern Campus - Highland Hills
+1341	1	Cuyahoga Community College - Metropolitan Campus - Cleveland
+1342	1	Cuyahoga Community College - Western Campus - Parma
+1343	1	Cuyamaca College
+1344	1	Cypress College
+1345	1	Defense Language Institute
+1346	1	Delaware College of Art and Design
+1347	1	Delaware Technical & Community College - Stanton Campus
+1348	1	Delaware Technical & Community College - Wilmington Campus
+1349	1	Delaware Valley College
+1350	1	Delgado Community College - West Bank
+1351	1	Denison University
+1352	1	DePauw University
+1353	1	Des Moines Area Community College - Ankeny
+1354	1	Des Moines Area Community College - Boone Campus
+1355	1	Des Moines Area Community College - Carroll Campus
+1356	1	DeSales University
+1357	1	Detroit College of Business (Warren)
+1358	1	DeVry University
+1359	1	DeVry University - New York
+1360	1	Diablo Valley College
+1361	1	Dickinson College
+1362	1	Dillard University
+1363	1	Diman Regional Technical Institute
+1364	1	Doane College
+1365	1	Dodge City Community College
+1366	1	Dominican University
+1367	1	Dominican University of California
+1368	1	Don Bosco Technical Institute
+1369	1	Drake University
+1370	1	Drew University - Madison
+1371	1	Drexel University
+1372	1	Drury University - Springfield
+1373	1	Dunwoody Institute
+1374	1	Durham Technical Community College
+1375	1	Edgecombe Community College
+1376	1	Edgewood College
+1377	1	Edison State Community College - Piqua
+1378	1	Edmonds Community College
+1379	1	Edward Waters College
+1380	1	Electronic Institute
+1381	1	Elizabethtown College
+1382	1	Elizabethtown Community and Technical College
+1383	1	Ellis Hospital School of Nursing
+1384	1	Ellsworth Community College
+1385	1	Elmira College
+1386	1	Elms College
+1387	1	Elon University
+1388	1	Embry-Riddle Aeronautical University - Worldwide
+1389	1	Emerson College
+1390	1	Emil Fries School of Piano Tuning & Technology
+1391	1	Emily Griffith Opportunity School
+1392	1	Emmanuel College
+1393	1	Emmanuel College
+1394	1	Emmaus Bible College
+1395	1	Emory & Henry College
+1396	1	Emory University
+1397	1	Endicott College
+1398	1	Enterprise-Ozark Community College
+1399	1	Erie Business Center
+1400	1	Erie Community College - Buffalo
+1401	1	Erie Community College - Williamsville
+1402	1	Erie Institute of Technology
+1403	1	Gainesville State College
+1404	1	Gannon University
+1405	1	Gardner-Webb University
+1406	1	Gateway Community and Technical College
+1407	1	Gateway Community College - AZ
+1408	1	Gemological Institute of America - Carlsbad
+1409	1	Gemological Institute of America - New York
+1410	1	Genesee Community College
+1411	1	George Mason University
+1412	1	George Stone Vocational-Technical Center
+1413	1	George Washington University, The
+1414	1	Georgetown College
+1415	1	Georgetown University
+1416	1	Georgia Baptist College of Nursing
+1417	1	Georgia College and State University
+1418	1	Essex County College - Newark
+1419	1	Essex County College - West Essex Branch Campus
+1420	1	Estrella Mountain Community College
+1421	1	Eugene Bible College
+1422	1	Evangel University
+1423	1	Everett Community College
+1424	1	Florence-Darlington Technical College
+1425	1	Florida A&M University
+1426	1	Florida Atlantic University
+1427	1	Florida Christian College
+1428	1	Florida Gulf Coast University
+1429	1	Florida Hospital College of Health Sciences
+1430	1	Florida International University
+1431	1	Florida Keys Community College
+1432	1	Florida Southern College
+1433	1	Florida State College at Jacksonville
+1434	1	Florida State University
+1435	1	Fontbonne College
+1436	1	Foothill College
+1437	1	Foothills Technical Institute
+1438	1	Fordham University
+1439	1	Forest Echoes Technical Institute
+1440	1	Forsyth Technical Community College
+1441	1	Fort Berthold Community College
+1442	1	Fort Hays State University
+1443	1	Fort Lewis College
+1444	1	Fox Valley Technical College
+1445	1	Framingham State College
+1446	1	Francis Marion University
+1447	1	Francis Tuttle Vocational-Technical Center
+1448	1	Franciscan University of Steubenville
+1449	1	Frank Lloyd Wright School of Architecture
+1450	1	Frank Phillips College
+1451	1	Franklin College
+1452	1	Franklin College Switzerland
+1453	1	Franklin University
+1454	1	Free Will Baptist Bible College
+1455	1	Freed-Hardeman University
+1456	1	Fresno Pacific University
+1457	1	Front Range Community College - Boulder County Campus
+1458	1	Frontier Community College
+1459	1	Fullerton College
+1460	1	Fulton-Montgomery Community College
+1461	1	Furman University
+1462	1	Georgia Gwinnett College
+1463	1	Georgia Highlands College
+1464	1	Georgia Institute of Technology
+1465	1	Georgia Northwestern Technical College
+1466	1	Georgia State University
+1467	1	Georgian Court College
+1468	1	Gettysburg College
+1469	1	Gibbs College
+1470	1	Glen Oaks Community College
+1471	1	Glendale Community College
+1472	1	Globe Institute of Technology
+1473	1	Gloucester County College
+1474	1	Goddard College
+1475	1	Gogebic Community College
+1476	1	Golden Gate University
+1477	1	Goodwin College
+1478	1	Gordon College
+1479	1	Goucher College
+1480	1	Grace Bible College
+1481	1	Grace University
+1482	1	Graceland University
+1483	1	Grambling State University
+1484	1	Grand Rapids Community College
+1485	1	Grand Valley State University
+1486	1	Gratz College
+1487	1	Grays Harbor College
+1488	1	Great Lakes College - Saginaw
+1489	1	Great Plains Area Vocational-Technical Center
+1490	1	Green River Community College
+1491	1	Greenfield Community College
+1492	1	Greensboro College
+1493	1	Greenville College
+1494	1	Grossmont College
+1495	1	Grove City College
+1496	1	Guilford College
+1497	1	Guilford Technical Community College
+1498	1	Guilford Technical Community College - Price Complex
+1499	1	Gustavus Adolphus College
+1500	1	Gwinnett Technical College
+1501	1	Hartnell College
+1502	1	Hartwick College
+1503	1	Harvard University
+1504	1	Hastings College
+1505	1	Haverford College
+1506	1	Hawaii Community College
+1507	1	Hawkeye Community College
+1508	1	Hazard Technical College
+1509	1	Heald College - Hayward
+1510	1	Heald College - Sacramento
+1511	1	Heald College - Salinas
+1512	1	Heald College - San Francisco
+1513	1	Heald College - Stockton
+1514	1	Heart of Georgia Technical College
+1515	1	Heartland Community College
+1516	1	Heidelberg College
+1517	1	Helena College of Technology of the University of Montana
+1518	1	Hellenic College
+1519	1	Henderson Community College
+1520	1	Henderson State University
+1521	1	Hennepin Technical College - Brooklyn Park
+1522	1	Hennepin Technical College - Eden Prairie Campus
+1523	1	Henry Cogswell College
+1524	1	Heritage Valley Sewickley School of Nursing
+1525	1	Herkimer Community College
+1526	1	High Point University
+1527	1	Hillsborough Community College - Tampa
+1528	1	Hillsdale College
+1529	1	Hillyard Technical Center
+1530	1	Hinds Community College - Raymond Campus
+1531	1	Hiram College
+1532	1	Hiwassee College
+1533	1	Hobe Sound Bible College
+1534	1	Hollins University
+1535	1	Holmes Community College - Goodman
+1536	1	Holy Cross College
+1537	1	Holy Family College
+1538	1	Holy Names University
+1539	1	Holy Trinity Orthodox Seminary
+1540	1	Honolulu Community College
+1541	1	Hope International University
+1542	1	Horry-Georgetown Technical College - Conway
+1543	1	Houghton College
+1544	1	Houston Baptist University
+1545	1	Halifax Community College
+1546	1	Hallmark Institute of Photography
+1547	1	Hamilton College
+1548	1	Hamline University
+1549	1	Hampshire College
+1550	1	Hanover College
+1551	1	Harcum College
+1552	1	Hardin-Simmons University
+1553	1	Harding University
+1554	1	Hartford Conservatory, The
+1555	1	Howard Community College
+1556	1	Howard Payne University
+1557	1	Howard University
+1558	1	Humphreys College
+1559	1	Huntingdon College - Montgomery
+1560	1	Hussian School of Art
+1561	1	Indiana University Bloomington
+1562	1	Indiana University East
+1563	1	Indiana University Northwest
+1564	1	Indiana University South Bend
+1565	1	Indiana University-Purdue University Fort Wayne
+1566	1	Indiana Wesleyan University - Louisville Campus
+1567	1	Institute of American Indian and Alaska Native Culture and Arts
+1568	1	Instructional Television
+1569	1	Inter American University of Puerto Rico
+1570	1	Inter American University of Puerto Rico Aguadilla Campus
+1571	1	Inter American University of Puerto Rico Guayama Campus
+1572	1	Inter American University of Puerto Rico Metropolitan Campus
+1573	1	Inter American University of Puerto Rico Ponce Campus
+1574	1	International Academy of Design
+1575	1	International Bible College
+1576	1	International College of Hospitality Management
+1577	1	Inver Hills Community College
+1578	1	Iona College
+1579	1	Iowa Central Community College - Eagle Grove Center
+1580	1	Iowa Central Community College - Fort Dodge Center
+1581	1	Iowa Lakes Community College - Estherville
+1582	1	Iowa Lakes Community College - Spirit Lake Center
+1583	1	Iowa State University
+1584	1	Iowa Western Community College - Clarinda Center
+1585	1	Iowa Western Community College - Council Bluffs Campus
+1586	1	Irvine Valley College
+1587	1	Island Drafting & Technical Institute
+1588	1	Itasca Community College
+1589	1	Ithaca College
+1590	1	ITT Technical Institute
+1591	1	ITT Technical Institute - Albany
+1592	1	ITT Technical Institute - Lexington
+1593	1	Ivy Tech State College - Columbus
+1594	1	Ivy Tech State College - Elkhart
+1595	1	Ivy Tech State College - Indianapolis
+1596	1	Ivy Tech State College - Kokomo
+1597	1	Ivy Tech State College - Lafayette
+1598	1	Ivy Tech State College - Lawrenceburg
+1599	1	Ivy Tech State College - Northcentral Region
+1600	1	Ivy Tech State College - Northwest
+1601	1	Ivy Tech State College - Richmond
+1602	1	Ivy Tech State College - Sellersburg
+1603	1	Ivy Tech State College - Southwest Region
+1604	1	John Carroll University
+1605	1	John Jay College of Criminal Justice
+1606	1	John Tyler Community College
+1607	1	John Wesley College
+1608	1	John Wood Community College
+1609	1	Johns Hopkins University
+1610	1	Johnson & Wales University - North Miami, FL
+1611	1	Johnson & Wales University - Providence, RI
+1612	1	Johnson Bible College
+1613	1	Johnson C. Smith University
+1614	1	Johnson State College
+1615	1	Jones College
+1616	1	Jones County Junior College
+1617	1	Judson College - AL
+1618	1	Judson University
+1619	1	Juniata College
+1620	1	Kennedy-King College
+1621	1	Kent State University - Ashtabula Campus
+1622	1	Kent State University - East Liverpool Campus
+1623	1	Kent State University - Kent
+1624	1	Kent State University - Trumbull Campus
+1625	1	Kentucky Christian University
+1626	1	Kentucky Mountain Bible College
+1627	1	Kentucky Wesleyan College
+1628	1	Kenyon College
+1629	1	Kettering University
+1630	1	Keuka College
+1631	1	King's College
+1632	1	King's University College, The
+1633	1	Kirkwood Community College
+1634	1	Knox College
+1635	1	Kutztown University of Pennsylvania
+1636	1	Landing School of Boat Building and Design, The
+1637	1	Lane Community College
+1638	1	Langston University
+1639	1	Lanier Technical College
+1640	1	Lansing Community College
+1641	1	Laurel Business Institute
+1642	1	Lawson State Community College
+1643	1	LDS Business College
+1644	1	Le Moyne College
+1645	1	Lee College - Baytown
+1646	1	Lee County High Tech Center Central - Fort Myers
+1647	1	Leech Lake Tribal College
+1648	1	Leeward Community College
+1649	1	Idaho State University - Pocatello
+1650	1	Illinois Central College
+1651	1	Illinois College
+1652	1	Illinois Institute of Art
+1653	1	Illinois Institute of Technology
+1654	1	Illinois Wesleyan University
+1655	1	Immaculata University
+1656	1	Imperial Valley College
+1657	1	Independence Community College
+1658	1	Indian Hills Community College - Ottumwa Campus
+1659	1	Indian River Community College - Dixon Hendry Center
+1660	1	Indian River Community College - St. Lucie West Center
+1661	1	Indiana Institute of Technology
+1662	1	Indiana State University
+1663	1	Lenoir-Rhyne College
+1664	1	Lesley University
+1665	1	LeTourneau University
+1666	1	Lewis & Clark Career Center
+1667	1	Lewis & Clark College
+1668	1	Lewis University
+1669	1	Lewis-Clark State College
+1670	1	Liberty University
+1671	1	Liceo de Arte y Tecnologia
+1672	1	Life Pacific College
+1673	1	Limestone College
+1674	1	Lincoln Christian College
+1675	1	Lincoln College
+1676	1	Lincoln Memorial University
+1677	1	Lincoln University
+1678	1	Lincoln University - San Francisco
+1679	1	Lindsey Wilson College
+1680	1	Linfield College
+1681	1	Lively Technical Center
+1682	1	Livingstone College
+1683	1	Lock Haven University of Pennsylvania
+1684	1	Long Beach City College - Pacific Coast Campus
+1685	1	Long Island University - C.W. Post
+1686	1	Long Island University - Southampton College
+1687	1	Longview Community College
+1688	1	Lord Fairfax Community College
+1689	1	Los Angeles Mission College
+1690	1	Los Angeles Trade-Technical College
+1691	1	Los Angeles Valley College
+1692	1	Los Medanos College
+1693	1	Louisburg College
+1694	1	Louisiana College
+1695	1	Louisiana State University - Agricultural and Mechanical College
+1696	1	Louisiana State University - Eunice Campus
+1697	1	Louisiana State University in Shreveport
+1698	1	Louisiana Technical College - Bastrop Campus
+1699	1	Louisiana Technical College - Delta-Ouachita Campus
+1700	1	Louisiana Technical College - Hammond Area Campus
+1701	1	Louisiana Technical College - Jumonville Memorial Campus
+1702	1	Louisiana Technical College - Lafayette Campus
+1703	1	Louisiana Technical College - Mansfield Campus & Coushetta Ext.
+1704	1	Louisiana Technical College - Margaret Surles Branch
+1705	1	Louisiana Technical College - Natchitoches Campus
+1706	1	Louisiana Technical College - North Central Campus
+1707	1	Louisiana Technical College - T.H. Harris Campus
+1708	1	Louisiana Technical College - Teche Area Campus
+1709	1	Louisiana Technical College - West Jefferson Campus
+1710	1	Louisiana Technical College - Young Memorial Campus
+1711	1	Louisiana Technical College, Baton Rouge
+1712	1	Lourdes College
+1713	1	Lower Columbia College
+1714	1	Loyola University of Chicago
+1715	1	Lubbock Christian University
+1716	1	Luna Vocational Technical Institute, A Community College - Las
+1717	1	Lurleen B. Wallace Community College
+1718	1	Luther College
+1719	1	Luzerne County Community College
+1720	1	Lyme Academy College of Fine Arts
+1721	1	Lyndon State College
+1722	1	Lynn University - Old Forge Center
+1723	1	Maria Parham Hospital - School of Medical Technology
+1724	1	Marian College
+1725	1	Marian Court College
+1726	1	Marian University
+1727	1	Marion Technical College
+1728	1	Marist College
+1729	1	Mars Hill College
+1730	1	Marshall University
+1731	1	Martin Community College
+1732	1	Martin Luther College
+1733	1	Martin Methodist College
+1734	1	Martin University
+1735	1	Mary Baldwin College
+1736	1	Marygrove College
+1737	1	Maryland College of Art and Design
+1738	1	Maryland Institute - College of Art
+1739	1	Marymount Manhattan College
+1740	1	Maryville College
+1741	1	Maryville University of Saint Louis
+1742	1	Marywood University
+1743	1	Massachusetts Bay Community College
+1744	1	Massachusetts College of Liberal Arts
+1745	1	Massachusetts Institute of Technology
+1746	1	Master's College, The
+1747	1	Maui Community College
+1748	1	Maysville Community and Technical College
+1749	1	Mayville State University
+1750	1	McCann School of Business and Technology - Mahanoy City
+1751	1	McCann School of Business and Technology - Pottsville
+1752	1	McDowell Technical Community College
+1753	1	McFatter Technical Center - Davie
+1754	1	McGill University
+1755	1	McHenry County College
+1756	1	McIntosh College
+1757	1	McKendree University
+1758	1	McMurry University
+1759	1	Medaille College
+1760	1	Medgar Evers College
+1761	1	Median School of Allied Health Careers
+1762	1	Medical College of Georgia
+1763	1	Medical University of South Carolina
+1764	1	Memorial University of Newfoundland
+1765	1	Merced College
+1766	1	Mercer County Community College - Trenton
+1767	1	Mercer County Technical Education Center
+1768	1	Mercer University
+1769	1	Mercy School of Nursing
+1770	1	Mercyhurst College
+1771	1	Meredith College
+1772	1	Merrimack College
+1773	1	Mesa Community College
+1774	1	Mesa State College
+1775	1	Mesa Technical College
+1776	1	Mesabi Range Community and Technical College - Eveleth
+1777	1	Mesabi Range Community and Technical College - Virginia
+1778	1	Messiah College
+1779	1	Methodist University
+1780	1	Metropolitan College of New York
+1781	1	Metropolitan Community College - Fort Omaha Campus
+1782	1	Metropolitan State College of Denver
+1783	1	Metropolitan State University
+1784	1	Miami University - Middletown Campus
+1785	1	Miami-Dade Community College - Kendall Campus
+1786	1	Miami-Dade Community College - Miami
+1787	1	Miami-Dade Community College - W.L. Philbrick School of Funeral
+1788	1	Michigan State University
+1789	1	Mid-America Christian University
+1790	1	Mid-Continent University
+1791	1	Mid-Florida Technical Institute
+1792	1	Mid-Plains Community College Area
+1793	1	MidAmerica Nazarene University
+1794	1	Middle Georgia College
+1795	1	Middle Georgia Technical College
+1796	1	Middle Tennessee State University
+1797	1	Middlesex Community College
+1798	1	Middlesex Community College - Bedford Campus
+1799	1	Middlesex Community College - Lowell Campus
+1800	1	Middlesex County College - Edison
+1801	1	Midland Lutheran College
+1802	1	Midway College
+1803	1	Midwestern State University
+1804	1	Midwestern University
+1805	1	Miles College
+1806	1	Miles Community College
+1807	1	Millersville University of Pennsylvania
+1808	1	Milligan College
+1809	1	Millikin University
+1810	1	Mills College
+1811	1	Millsaps College
+1812	1	Milwaukee Area Technical College
+1813	1	Milwaukee Area Technical College - South Campus
+1814	1	Mineral Area College
+1815	1	Mineral County Vocational-Technical Center
+1816	1	Minneapolis College of Art and Design
+1817	1	Minneapolis Community and Technical College
+1818	1	Minnesota State University, Mankato
+1819	1	Minnesota West Community and Technical College - Pipestone
+1820	1	Minot State University - Bottineau Campus
+1821	1	MiraCosta College
+1822	1	Misericordia University
+1823	1	Mission College
+1824	1	Mississippi College
+1825	1	Mississippi Gulf Coast CC - Applied Technology & Development
+1826	1	Mississippi Gulf Coast CC - West Harrison County Center
+1827	1	Mississippi State University
+1828	1	Mississippi Valley State University
+1829	1	Missouri Baptist University
+1830	1	Missouri College, Inc.
+1831	1	Missouri Valley College
+1832	1	Missouri Western State College
+1833	1	J. Sargeant Reynolds Community College - Richmond
+1834	1	Jackson State Community College
+1835	1	Jacksonville State University
+1836	1	Jacksonville University
+1837	1	James Madison University
+1838	1	James Rumsey Technical Institute
+1839	1	James Sprunt Community College
+1840	1	Jamestown Business College
+1841	1	Jamestown College
+1842	1	Jamestown Community College - Main
+1843	1	Jamestown Community College - North County Extension
+1844	1	Jamestown Community College - Olean
+1845	1	Jamestown Community College - Warren Extension
+1846	1	Jefferson College of Health Sciences
+1847	1	Jefferson Community and Technical College
+1848	1	Jefferson Community College
+1849	1	Jefferson County-DuBois Area Vocational Technical School
+1850	1	Jefferson State Community College
+1851	1	Jewish Hospital College of Nursing and Allied Health
+1852	1	John Brown University
+1853	1	Mitchell College
+1854	1	Mitchell Community College
+1855	1	Mitchell Technical Institute
+1856	1	Mohave Community College
+1857	1	Mohawk Valley Community College
+1858	1	Monmouth College
+1859	1	Monmouth University
+1860	1	Monongalia County Technical Education Center
+1861	1	Montana State University - Billings/College of Technology
+1862	1	Montana State University - Bozeman
+1863	1	Montana State University College of Technology - Great Falls
+1864	1	Montana Tech of The University of Montana - College of Tech.
+1865	1	Montcalm Community College
+1866	1	Montclair State University
+1867	1	Monterey Peninsula College
+1868	1	Monterrey Institute of Technology and Higher Educ. - Chiapas
+1869	1	Monterrey Institute of Technology and Higher Educ. - Guadalajara
+1870	1	Monterrey Institute of Technology and Higher Educ. - Hidalgo
+1871	1	Monterrey Institute of Technology and Higher Educ. - Leon
+1872	1	Monterrey Institute of Technology and Higher Educ. - Mazatlan
+1873	1	Monterrey Institute of Technology and Higher Educ. - Morelos
+1874	1	Monterrey Institute of Technology and Higher Educ. - N. Sonora
+1875	1	Monterrey Institute of Technology and Higher Educ. - Obregon
+1876	1	Monterrey Institute of Technology and Higher Educ. - Tampico
+1877	1	Monterrey Institute of Technology and Higher Educ. - Univ.
+1878	1	Monterrey Institute of Technology and Higher Education - Juarez
+1879	1	Monterrey Institute of Technology and Higher Education - Laguna
+1880	1	Monterrey Institute of Technology and Higher Education - Toluca
+1881	1	Montgomery College - Conroe
+1882	1	Montgomery College - Rockville
+1883	1	Montgomery County Community College
+1884	1	Montserrat College of Art
+1885	1	Moody Bible Institute
+1886	1	Morehead State University
+1887	1	Morgan Community College
+1888	1	Morris Brown College
+1889	1	Morris County Vocational-Technical School
+1890	1	Morrison University
+1891	1	Morton College
+1892	1	Mount Aloysius College
+1893	1	Mount Carmel College of Nursing
+1894	1	Mount Holyoke College
+1895	1	Mount Ida College
+1896	1	Mount Marty College
+1897	1	Mount Mary College
+1898	1	Mount Mercy College
+1899	1	Mount Saint Mary's College and Seminary
+1900	1	Mount St. Mary's College
+1901	1	Mount Union College
+1902	1	Mountain State College
+1903	1	Mountain View College
+1904	1	Mt. Hood Community College
+1905	1	Mt. San Antonio College
+1906	1	Multnomah Bible College and Biblical Seminary
+1907	1	Murray State College
+1908	1	Muskingum Area Technical College
+1909	1	Muskingum College
+1910	1	Myers University
+1911	1	National University
+1912	1	National-Louis University
+1913	1	Naugatuck Valley Community College
+1914	1	Navarro College
+1915	1	Nebraska College of Technical Agriculture - Univ. of Nebras
+1916	1	Nebraska Methodist College of Nursing and Allied Health
+1917	1	Nebraska Wesleyan University
+1918	1	NEI College of Technology
+1919	1	Neumann College
+1920	1	New College of Florida
+1921	1	New England College of Finance, The
+1922	1	New England Conservatory of Music
+1923	1	New England Culinary Institute
+1924	1	New England School of Communications
+1925	1	New Hampshire College
+1926	1	New Hampshire Community Technical College - Berlin
+1927	1	New Hampshire Community Technical College - Laconia
+1928	1	New Hampshire Community Technical College at Nashua/Claremont -
+1929	1	New Jersey City University
+1930	1	New Mexico Highlands University
+1931	1	New Mexico Institute of Mining and Technology
+1932	1	New Mexico State University - Alamogordo
+1933	1	New Mexico State University - Carlsbad
+1934	1	New River Community College
+1935	1	New School University
+1936	1	New York Career Institute
+1937	1	New York Chiropractic College
+1938	1	New York City College of Technology
+1939	1	New York College for Wholistic Health Education and Research
+1940	1	New York Medical College
+1941	1	New York School of Interior Design
+1942	1	New York Theological Seminary
+1943	1	Newbury College
+1944	1	Newman University
+1945	1	Newport Business Institute - Williamsport
+1946	1	Niagara University
+1947	1	Nicolet Area Technical College
+1948	1	North Arkansas College
+1949	1	North Bennet Street School
+1950	1	North Carolina School of the Arts
+1951	1	North Carolina Wesleyan College
+1952	1	North Central Kansas Technical College - Beloit
+1953	1	North Central Michigan College
+1954	1	North Central Missouri College
+1955	1	North Central Texas College
+1956	1	North Central University
+1957	1	North Dakota State University
+1958	1	North Florida Community College
+1959	1	North Georgia Technical College
+1960	1	North Greenville College
+1961	1	North Hennepin Community College
+1962	1	North Idaho College
+1963	1	North Iowa Area Community College - Mason City
+1964	1	North Park University
+1965	1	North Shore Community College
+1966	1	Northampton County Area Community College
+1967	1	Northeast Community College
+1968	1	Northeast Iowa Community College - Peosta Campus
+1969	1	Northeast Kansas Technical College
+1970	1	Northeastern Illinois University
+1971	1	Northeastern Oklahoma A&M College
+1972	1	Northeastern State University
+1973	1	Northeastern University
+1974	1	Northern Essex Community College - Haverhill
+1975	1	Northern Illinois University
+1976	1	Northern Kentucky University
+1977	1	Northern Michigan University
+1978	1	Northern Oklahoma College
+1979	1	Northern Tier Career Center
+1980	1	Northern Wyoming Community College District
+1981	1	Northland Career Center
+1982	1	Northland Community and Technical College
+1983	1	Northwest Christian College
+1984	1	Northwest Indian College
+1985	1	Northwest Iowa Community College
+1986	1	Northwest Missouri State University
+1987	1	Northwest Nazarene University
+1988	1	Northwest Technical School
+1989	1	Northwest University
+1990	1	Northwest-Shoals Community College - Muscle Shoals
+1991	1	Northwestern College - MN
+1992	1	Northwestern Community College
+1993	1	Northwestern Michigan College - Great Lakes Maritime Academy
+1994	1	Northwestern Oklahoma State University
+1995	1	Northwestern Polytechnic University
+1996	1	Northwestern State University of Louisiana
+1997	1	Northwestern University
+1998	1	Northwood University - Midland Campus
+1999	1	Northwood University - Texas Campus

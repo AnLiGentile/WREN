@@ -1,0 +1,2002 @@
+﻿auto	carquotes	fuel_economy
+2000	2000	2000	157
+0000	1	17 mpg City, 24 mpg Hwy
+0001	1	18 mpg City, 28 mpg Hwy
+0002	1	18 mpg City, 25 mpg Hwy
+0003	1	18 mpg City, 28 mpg Hwy
+0004	1	17 mpg City, 25 mpg Hwy
+0005	1	23 mpg City, 36 mpg Hwy
+0006	1	17 mpg City, 25 mpg Hwy
+0007	1	17 mpg City, 26 mpg Hwy
+0008	1	15 mpg City, 22 mpg Hwy
+0009	1	15 mpg City, 21 mpg Hwy
+0010	1	19 mpg City, 28 mpg Hwy
+0011	1	-
+0012	1	15 mpg City, 22 mpg Hwy
+0013	1	14 mpg City, 20 mpg Hwy
+0014	1	14 mpg City, 20 mpg Hwy
+0015	1	13 mpg City, 20 mpg Hwy
+0016	1	11 mpg City, 17 mpg Hwy
+0017	1	15 mpg City, 21 mpg Hwy
+0018	1	14 mpg City, 19 mpg Hwy
+0019	1	12 mpg City, 18 mpg Hwy
+0020	1	17 mpg City, 19 mpg Hwy
+0021	1	12 mpg City, 17 mpg Hwy
+0022	1	18 mpg City, 28 mpg Hwy
+0023	1	23 mpg City, 32 mpg Hwy
+0024	1	22 mpg City, 33 mpg Hwy
+0025	1	22 mpg City, 33 mpg Hwy
+0026	1	17 mpg City, 26 mpg Hwy
+0027	1	18 mpg City, 27 mpg Hwy
+0028	1	23 mpg City, 34 mpg Hwy
+0029	1	23 mpg City, 34 mpg Hwy
+0030	1	23 mpg City, 33 mpg Hwy
+0031	1	23 mpg City, 34 mpg Hwy
+0032	1	20 mpg City, 30 mpg Hwy
+0033	1	20 mpg City, 30 mpg Hwy
+0034	1	26 mpg City, 34 mpg Hwy
+0035	1	25 mpg City, 36 mpg Hwy
+0036	1	26 mpg City, 34 mpg Hwy
+0037	1	25 mpg City, 36 mpg Hwy
+0038	1	21 mpg City, 29 mpg Hwy
+0039	1	21 mpg City, 29 mpg Hwy
+0040	1	40 mpg City, 43 mpg Hwy
+0041	1	40 mpg City, 43 mpg Hwy
+0042	1	26 mpg City, 34 mpg Hwy
+0043	1	25 mpg City, 36 mpg Hwy
+0044	1	26 mpg City, 34 mpg Hwy
+0045	1	25 mpg City, 36 mpg Hwy
+0046	1	25 mpg City, 36 mpg Hwy
+0047	1	21 mpg City, 29 mpg Hwy
+0048	1	21 mpg City, 29 mpg Hwy
+0049	1	21 mpg City, 28 mpg Hwy
+0050	1	21 mpg City, 28 mpg Hwy
+0051	1	21 mpg City, 27 mpg Hwy
+0052	1	21 mpg City, 27 mpg Hwy
+0053	1	21 mpg City, 27 mpg Hwy
+0054	1	31 mpg City, 37 mpg Hwy
+0055	1	35 mpg City, 39 mpg Hwy
+0056	1	35 mpg City, 39 mpg Hwy
+0057	1	35 mpg City, 39 mpg Hwy
+0058	1	-
+0059	1	-
+0060	1	-
+0061	1	-
+0062	1	-
+0063	1	-
+0064	1	-
+0065	1	19 mpg City, 28 mpg Hwy
+0066	1	19 mpg City, 28 mpg Hwy
+0067	1	16 mpg City, 22 mpg Hwy
+0068	1	16 mpg City, 22 mpg Hwy
+0069	1	17 mpg City, 23 mpg Hwy
+0070	1	17 mpg City, 23 mpg Hwy
+0071	1	16 mpg City, 22 mpg Hwy
+0072	1	17 mpg City, 23 mpg Hwy
+0073	1	15 mpg City, 20 mpg Hwy
+0074	1	15 mpg City, 20 mpg Hwy
+0075	1	22 mpg City, 31 mpg Hwy
+0076	1	22 mpg City, 31 mpg Hwy
+0077	1	21 mpg City, 31 mpg Hwy
+0078	1	21 mpg City, 31 mpg Hwy
+0079	1	19 mpg City, 28 mpg Hwy
+0080	1	18 mpg City, 27 mpg Hwy
+0081	1	18 mpg City, 27 mpg Hwy
+0082	1	18 mpg City, 27 mpg Hwy
+0083	1	17 mpg City, 25 mpg Hwy
+0084	1	17 mpg City, 25 mpg Hwy
+0085	1	22 mpg City, 31 mpg Hwy
+0086	1	21 mpg City, 31 mpg Hwy
+0087	1	22 mpg City, 31 mpg Hwy
+0088	1	19 mpg City, 29 mpg Hwy
+0089	1	19 mpg City, 29 mpg Hwy
+0090	1	25 mpg City, 36 mpg Hwy
+0091	1	26 mpg City, 34 mpg Hwy
+0092	1	26 mpg City, 34 mpg Hwy
+0093	1	25 mpg City, 36 mpg Hwy
+0094	1	26 mpg City, 34 mpg Hwy
+0095	1	21 mpg City, 29 mpg Hwy
+0096	1	25 mpg City, 36 mpg Hwy
+0097	1	26 mpg City, 34 mpg Hwy
+0098	1	26 mpg City, 34 mpg Hwy
+0099	1	25 mpg City, 36 mpg Hwy
+0100	1	26 mpg City, 34 mpg Hwy
+0101	1	25 mpg City, 36 mpg Hwy
+0102	1	26 mpg City, 34 mpg Hwy
+0103	1	26 mpg City, 34 mpg Hwy
+0104	1	25 mpg City, 36 mpg Hwy
+0105	1	26 mpg City, 34 mpg Hwy
+0106	1	21 mpg City, 29 mpg Hwy
+0107	1	21 mpg City, 29 mpg Hwy
+0108	1	21 mpg City, 29 mpg Hwy
+0109	1	21 mpg City, 28 mpg Hwy
+0110	1	21 mpg City, 28 mpg Hwy
+0111	1	21 mpg City, 28 mpg Hwy
+0112	1	21 mpg City, 27 mpg Hwy
+0113	1	21 mpg City, 27 mpg Hwy
+0114	1	21 mpg City, 27 mpg Hwy
+0115	1	20 mpg City, 25 mpg Hwy
+0116	1	27 mpg City, 33 mpg Hwy
+0117	1	27 mpg City, 33 mpg Hwy
+0118	1	27 mpg City, 33 mpg Hwy
+0119	1	40 mpg City, 43 mpg Hwy
+0120	1	40 mpg City, 43 mpg Hwy
+0121	1	16 mpg City, 23 mpg Hwy
+0122	1	16 mpg City, 23 mpg Hwy
+0123	1	17 mpg City, 25 mpg Hwy
+0124	1	16 mpg City, 22 mpg Hwy
+0125	1	16 mpg City, 22 mpg Hwy
+0126	1	16 mpg City, 22 mpg Hwy
+0127	1	16 mpg City, 22 mpg Hwy
+0128	1	17 mpg City, 23 mpg Hwy
+0129	1	17 mpg City, 23 mpg Hwy
+0130	1	17 mpg City, 23 mpg Hwy
+0131	1	15 mpg City, 20 mpg Hwy
+0132	1	15 mpg City, 20 mpg Hwy
+0133	1	15 mpg City, 20 mpg Hwy
+0134	1	15 mpg City, 20 mpg Hwy
+0135	1	15 mpg City, 22 mpg Hwy
+0136	1	12 mpg City, 17 mpg Hwy
+0137	1	12 mpg City, 17 mpg Hwy
+0138	1	12 mpg City, 17 mpg Hwy
+0139	1	12 mpg City, 17 mpg Hwy
+0140	1	12 mpg City, 17 mpg Hwy
+0141	1	12 mpg City, 18 mpg Hwy
+0142	1	12 mpg City, 17 mpg Hwy
+0143	1	20 mpg City, 28 mpg Hwy
+0144	1	20 mpg City, 28 mpg Hwy
+0145	1	15 mpg City, 21 mpg Hwy
+0146	1	15 mpg City, 21 mpg Hwy
+0147	1	21 mpg City, 30 mpg Hwy
+0148	1	24 mpg City, 33 mpg Hwy
+0149	1	25 mpg City, 33 mpg Hwy
+0150	1	22 mpg City, 31 mpg Hwy
+0151	1	25 mpg City, 33 mpg Hwy
+0152	1	22 mpg City, 31 mpg Hwy
+0153	1	23 mpg City, 29 mpg Hwy
+0154	1	17 mpg City, 22 mpg Hwy
+0155	1	19 mpg City, 25 mpg Hwy
+0156	1	18 mpg City, 24 mpg Hwy
+0157	1	25 mpg City, 31 mpg Hwy
+0158	1	25 mpg City, 31 mpg Hwy
+0159	1	20 mpg City, 27 mpg Hwy
+0160	1	15 mpg City, 21 mpg Hwy
+0161	1	21 mpg City, 30 mpg Hwy
+0162	1	23 mpg City, 30 mpg Hwy
+0163	1	20 mpg City, 27 mpg Hwy
+0164	1	16 mpg City, 22 mpg Hwy
+0165	1	17 mpg City, 22 mpg Hwy
+0166	1	17 mpg City, 22 mpg Hwy
+0167	1	21 mpg City, 25 mpg Hwy
+0168	1	21 mpg City, 25 mpg Hwy
+0169	1	18 mpg City, 24 mpg Hwy
+0170	1	18 mpg City, 24 mpg Hwy
+0171	1	21 mpg City, 27 mpg Hwy
+0172	1	21 mpg City, 27 mpg Hwy
+0173	1	21 mpg City, 27 mpg Hwy
+0174	1	21 mpg City, 27 mpg Hwy
+0175	1	19 mpg City, 24 mpg Hwy
+0176	1	21 mpg City, 27 mpg Hwy
+0177	1	21 mpg City, 27 mpg Hwy
+0178	1	20 mpg City, 27 mpg Hwy
+0179	1	20 mpg City, 27 mpg Hwy
+0180	1	20 mpg City, 26 mpg Hwy
+0181	1	19 mpg City, 25 mpg Hwy
+0182	1	19 mpg City, 25 mpg Hwy
+0183	1	19 mpg City, 25 mpg Hwy
+0184	1	19 mpg City, 25 mpg Hwy
+0185	1	19 mpg City, 25 mpg Hwy
+0186	1	17 mpg City, 23 mpg Hwy
+0187	1	17 mpg City, 23 mpg Hwy
+0188	1	17 mpg City, 23 mpg Hwy
+0189	1	20 mpg City, 27 mpg Hwy
+0190	1	20 mpg City, 26 mpg Hwy
+0191	1	20 mpg City, 27 mpg Hwy
+0192	1	20 mpg City, 26 mpg Hwy
+0193	1	20 mpg City, 26 mpg Hwy
+0194	1	20 mpg City, 26 mpg Hwy
+0195	1	19 mpg City, 25 mpg Hwy
+0196	1	19 mpg City, 25 mpg Hwy
+0197	1	19 mpg City, 25 mpg Hwy
+0198	1	17 mpg City, 23 mpg Hwy
+0199	1	19 mpg City, 27 mpg Hwy
+0200	1	18 mpg City, 25 mpg Hwy
+0201	1	18 mpg City, 25 mpg Hwy
+0202	1	18 mpg City, 25 mpg Hwy
+0203	1	23 mpg City, 31 mpg Hwy
+0204	1	23 mpg City, 31 mpg Hwy
+0205	1	23 mpg City, 31 mpg Hwy
+0206	1	23 mpg City, 31 mpg Hwy
+0207	1	22 mpg City, 29 mpg Hwy
+0208	1	18 mpg City, 25 mpg Hwy
+0209	1	18 mpg City, 25 mpg Hwy
+0210	1	18 mpg City, 25 mpg Hwy
+0211	1	22 mpg City, 29 mpg Hwy
+0212	1	19 mpg City, 27 mpg Hwy
+0213	1	19 mpg City, 27 mpg Hwy
+0214	1	16 mpg City, 21 mpg Hwy
+0215	1	16 mpg City, 21 mpg Hwy
+0216	1	16 mpg City, 21 mpg Hwy
+0217	1	16 mpg City, 21 mpg Hwy
+0218	1	16 mpg City, 21 mpg Hwy
+0219	1	16 mpg City, 21 mpg Hwy
+0220	1	19 mpg City, 24 mpg Hwy
+0221	1	20 mpg City, 26 mpg Hwy
+0222	1	20 mpg City, 26 mpg Hwy
+0223	1	20 mpg City, 26 mpg Hwy
+0224	1	19 mpg City, 24 mpg Hwy
+0225	1	20 mpg City, 27 mpg Hwy
+0226	1	20 mpg City, 26 mpg Hwy
+0227	1	20 mpg City, 27 mpg Hwy
+0228	1	20 mpg City, 26 mpg Hwy
+0229	1	20 mpg City, 27 mpg Hwy
+0230	1	20 mpg City, 26 mpg Hwy
+0231	1	19 mpg City, 24 mpg Hwy
+0232	1	20 mpg City, 27 mpg Hwy
+0233	1	18 mpg City, 25 mpg Hwy
+0234	1	18 mpg City, 25 mpg Hwy
+0235	1	20 mpg City, 27 mpg Hwy
+0236	1	20 mpg City, 27 mpg Hwy
+0237	1	20 mpg City, 26 mpg Hwy
+0238	1	18 mpg City, 25 mpg Hwy
+0239	1	18 mpg City, 25 mpg Hwy
+0240	1	18 mpg City, 25 mpg Hwy
+0241	1	18 mpg City, 25 mpg Hwy
+0242	1	18 mpg City, 25 mpg Hwy
+0243	1	19 mpg City, 27 mpg Hwy
+0244	1	18 mpg City, 25 mpg Hwy
+0245	1	19 mpg City, 27 mpg Hwy
+0246	1	18 mpg City, 25 mpg Hwy
+0247	1	18 mpg City, 25 mpg Hwy
+0248	1	19 mpg City, 27 mpg Hwy
+0249	1	19 mpg City, 27 mpg Hwy
+0250	1	23 mpg City, 31 mpg Hwy
+0251	1	23 mpg City, 31 mpg Hwy
+0252	1	23 mpg City, 31 mpg Hwy
+0253	1	23 mpg City, 31 mpg Hwy
+0254	1	23 mpg City, 31 mpg Hwy
+0255	1	23 mpg City, 31 mpg Hwy
+0256	1	19 mpg City, 27 mpg Hwy
+0257	1	19 mpg City, 27 mpg Hwy
+0258	1	18 mpg City, 25 mpg Hwy
+0259	1	19 mpg City, 27 mpg Hwy
+0260	1	18 mpg City, 25 mpg Hwy
+0261	1	19 mpg City, 27 mpg Hwy
+0262	1	18 mpg City, 25 mpg Hwy
+0263	1	19 mpg City, 27 mpg Hwy
+0264	1	19 mpg City, 27 mpg Hwy
+0265	1	22 mpg City, 29 mpg Hwy
+0266	1	22 mpg City, 29 mpg Hwy
+0267	1	22 mpg City, 29 mpg Hwy
+0268	1	18 mpg City, 25 mpg Hwy
+0269	1	18 mpg City, 25 mpg Hwy
+0270	1	16 mpg City, 21 mpg Hwy
+0271	1	17 mpg City, 24 mpg Hwy
+0272	1	17 mpg City, 24 mpg Hwy
+0273	1	16 mpg City, 22 mpg Hwy
+0274	1	16 mpg City, 22 mpg Hwy
+0275	1	16 mpg City, 26 mpg Hwy
+0276	1	17 mpg City, 27 mpg Hwy
+0277	1	17 mpg City, 27 mpg Hwy
+0278	1	19 mpg City, 30 mpg Hwy
+0279	1	19 mpg City, 30 mpg Hwy
+0280	1	19 mpg City, 30 mpg Hwy
+0281	1	19 mpg City, 30 mpg Hwy
+0282	1	-
+0283	1	-
+0284	1	16 mpg City, 22 mpg Hwy
+0285	1	17 mpg City, 24 mpg Hwy
+0286	1	17 mpg City, 24 mpg Hwy
+0287	1	17 mpg City, 26 mpg Hwy
+0288	1	16 mpg City, 25 mpg Hwy
+0289	1	19 mpg City, 30 mpg Hwy
+0290	1	17 mpg City, 26 mpg Hwy
+0291	1	17 mpg City, 26 mpg Hwy
+0292	1	17 mpg City, 26 mpg Hwy
+0293	1	17 mpg City, 26 mpg Hwy
+0294	1	14 mpg City, 18 mpg Hwy
+0295	1	14 mpg City, 18 mpg Hwy
+0296	1	14 mpg City, 18 mpg Hwy
+0297	1	13 mpg City, 16 mpg Hwy
+0298	1	13 mpg City, 16 mpg Hwy
+0299	1	19 mpg City, 27 mpg Hwy
+0300	1	19 mpg City, 26 mpg Hwy
+0301	1	17 mpg City, 24 mpg Hwy
+0302	1	15 mpg City, 20 mpg Hwy
+0303	1	35 mpg City, 34 mpg Hwy
+0304	1	18 mpg City, 26 mpg Hwy
+0305	1	21 mpg City, 29 mpg Hwy
+0306	1	20 mpg City, 26 mpg Hwy
+0307	1	18 mpg City, 26 mpg Hwy
+0308	1	16 mpg City, 23 mpg Hwy
+0309	1	16 mpg City, 24 mpg Hwy
+0310	1	19 mpg City, 23 mpg Hwy
+0311	1	18 mpg City, 24 mpg Hwy
+0312	1	32 mpg City, 28 mpg Hwy
+0313	1	30 mpg City, 28 mpg Hwy
+0314	1	19 mpg City, 27 mpg Hwy
+0315	1	19 mpg City, 26 mpg Hwy
+0316	1	18 mpg City, 25 mpg Hwy
+0317	1	22 mpg City, 25 mpg Hwy
+0318	1	35 mpg City, 34 mpg Hwy
+0319	1	35 mpg City, 34 mpg Hwy
+0320	1	21 mpg City, 29 mpg Hwy
+0321	1	20 mpg City, 26 mpg Hwy
+0322	1	18 mpg City, 25 mpg Hwy
+0323	1	16 mpg City, 24 mpg Hwy
+0324	1	12 mpg City, 18 mpg Hwy
+0325	1	18 mpg City, 25 mpg Hwy
+0326	1	16 mpg City, 23 mpg Hwy
+0327	1	18 mpg City, 25 mpg Hwy
+0328	1	18 mpg City, 25 mpg Hwy
+0329	1	23 mpg City, 31 mpg Hwy
+0330	1	20 mpg City, 27 mpg Hwy
+0331	1	33 mpg City, 33 mpg Hwy
+0332	1	13 mpg City, 19 mpg Hwy
+0333	1	13 mpg City, 19 mpg Hwy
+0334	1	13 mpg City, 19 mpg Hwy
+0335	1	12 mpg City, 18 mpg Hwy
+0336	1	27 mpg City, 31 mpg Hwy
+0337	1	27 mpg City, 31 mpg Hwy
+0338	1	19 mpg City, 23 mpg Hwy
+0339	1	17 mpg City, 22 mpg Hwy
+0340	1	17 mpg City, 22 mpg Hwy
+0341	1	16 mpg City, 20 mpg Hwy
+0342	1	15 mpg City, 20 mpg Hwy
+0343	1	15 mpg City, 20 mpg Hwy
+0344	1	16 mpg City, 20 mpg Hwy
+0345	1	15 mpg City, 20 mpg Hwy
+0346	1	15 mpg City, 20 mpg Hwy
+0347	1	15 mpg City, 20 mpg Hwy
+0348	1	14 mpg City, 19 mpg Hwy
+0349	1	15 mpg City, 20 mpg Hwy
+0350	1	14 mpg City, 19 mpg Hwy
+0351	1	27 mpg City, 32 mpg Hwy
+0352	1	27 mpg City, 32 mpg Hwy
+0353	1	24 mpg City, 31 mpg Hwy
+0354	1	25 mpg City, 30 mpg Hwy
+0355	1	25 mpg City, 30 mpg Hwy
+0356	1	106 mpg City, 92 mpg Hwy
+0357	1	106 mpg City, 92 mpg Hwy
+0358	1	19 mpg City, 26 mpg Hwy
+0359	1	18 mpg City, 23 mpg Hwy
+0360	1	15 mpg City, 22 mpg Hwy
+0361	1	15 mpg City, 22 mpg Hwy
+0362	1	15 mpg City, 22 mpg Hwy
+0363	1	14 mpg City, 20 mpg Hwy
+0364	1	14 mpg City, 20 mpg Hwy
+0365	1	14 mpg City, 20 mpg Hwy
+0366	1	13 mpg City, 18 mpg Hwy
+0367	1	16 mpg City, 24 mpg Hwy
+0368	1	16 mpg City, 24 mpg Hwy
+0369	1	22 mpg City, 28 mpg Hwy
+0370	1	22 mpg City, 26 mpg Hwy
+0371	1	27 mpg City, 34 mpg Hwy
+0372	1	27 mpg City, 34 mpg Hwy
+0373	1	27 mpg City, 34 mpg Hwy
+0374	1	13 mpg City, 18 mpg Hwy
+0375	1	13 mpg City, 18 mpg Hwy
+0376	1	13 mpg City, 18 mpg Hwy
+0377	1	12 mpg City, 17 mpg Hwy
+0378	1	12 mpg City, 17 mpg Hwy
+0379	1	26 mpg City, 34 mpg Hwy
+0380	1	26 mpg City, 34 mpg Hwy
+0381	1	26 mpg City, 31 mpg Hwy
+0382	1	15 mpg City, 21 mpg Hwy
+0383	1	15 mpg City, 21 mpg Hwy
+0384	1	15 mpg City, 20 mpg Hwy
+0385	1	18 mpg City, 25 mpg Hwy
+0386	1	18 mpg City, 25 mpg Hwy
+0387	1	18 mpg City, 25 mpg Hwy
+0388	1	18 mpg City, 25 mpg Hwy
+0389	1	23 mpg City, 32 mpg Hwy
+0390	1	23 mpg City, 31 mpg Hwy
+0391	1	35 mpg City, 33 mpg Hwy
+0392	1	12 mpg City, 18 mpg Hwy
+0393	1	12 mpg City, 18 mpg Hwy
+0394	1	24 mpg City, 29 mpg Hwy
+0395	1	28 mpg City, 30 mpg Hwy
+0396	1	16 mpg City, 20 mpg Hwy
+0397	1	15 mpg City, 20 mpg Hwy
+0398	1	15 mpg City, 20 mpg Hwy
+0399	1	14 mpg City, 19 mpg Hwy
+0400	1	15 mpg City, 19 mpg Hwy
+0401	1	14 mpg City, 19 mpg Hwy
+0402	1	14 mpg City, 19 mpg Hwy
+0403	1	15 mpg City, 20 mpg Hwy
+0404	1	15 mpg City, 19 mpg Hwy
+0405	1	14 mpg City, 19 mpg Hwy
+0406	1	14 mpg City, 19 mpg Hwy
+0407	1	15 mpg City, 21 mpg Hwy
+0408	1	19 mpg City, 26 mpg Hwy
+0409	1	19 mpg City, 26 mpg Hwy
+0410	1	19 mpg City, 26 mpg Hwy
+0411	1	18 mpg City, 23 mpg Hwy
+0412	1	18 mpg City, 23 mpg Hwy
+0413	1	18 mpg City, 23 mpg Hwy
+0414	1	18 mpg City, 23 mpg Hwy
+0415	1	18 mpg City, 23 mpg Hwy
+0416	1	18 mpg City, 23 mpg Hwy
+0417	1	14 mpg City, 20 mpg Hwy
+0418	1	22 mpg City, 27 mpg Hwy
+0419	1	22 mpg City, 27 mpg Hwy
+0420	1	21 mpg City, 26 mpg Hwy
+0421	1	21 mpg City, 26 mpg Hwy
+0422	1	22 mpg City, 27 mpg Hwy
+0423	1	26 mpg City, 34 mpg Hwy
+0424	1	26 mpg City, 34 mpg Hwy
+0425	1	24 mpg City, 30 mpg Hwy
+0426	1	21 mpg City, 28 mpg Hwy
+0427	1	13 mpg City, 17 mpg Hwy
+0428	1	13 mpg City, 17 mpg Hwy
+0429	1	12 mpg City, 17 mpg Hwy
+0430	1	13 mpg City, 17 mpg Hwy
+0431	1	13 mpg City, 17 mpg Hwy
+0432	1	13 mpg City, 17 mpg Hwy
+0433	1	12 mpg City, 17 mpg Hwy
+0434	1	12 mpg City, 17 mpg Hwy
+0435	1	26 mpg City, 33 mpg Hwy
+0436	1	28 mpg City, 34 mpg Hwy
+0437	1	15 mpg City, 21 mpg Hwy
+0438	1	15 mpg City, 21 mpg Hwy
+0439	1	16 mpg City, 20 mpg Hwy
+0440	1	15 mpg City, 20 mpg Hwy
+0441	1	19 mpg City, 23 mpg Hwy
+0442	1	19 mpg City, 23 mpg Hwy
+0443	1	15 mpg City, 19 mpg Hwy
+0444	1	19 mpg City, 26 mpg Hwy
+0445	1	19 mpg City, 25 mpg Hwy
+0446	1	19 mpg City, 23 mpg Hwy
+0447	1	21 mpg City, 31 mpg Hwy
+0448	1	23 mpg City, 30 mpg Hwy
+0449	1	23 mpg City, 30 mpg Hwy
+0450	1	22 mpg City, 29 mpg Hwy
+0451	1	23 mpg City, 31 mpg Hwy
+0452	1	22 mpg City, 30 mpg Hwy
+0453	1	22 mpg City, 30 mpg Hwy
+0454	1	21 mpg City, 28 mpg Hwy
+0455	1	21 mpg City, 28 mpg Hwy
+0456	1	-
+0457	1	19 mpg City, 23 mpg Hwy
+0458	1	15 mpg City, 20 mpg Hwy
+0459	1	15 mpg City, 20 mpg Hwy
+0460	1	15 mpg City, 19 mpg Hwy
+0461	1	19 mpg City, 26 mpg Hwy
+0462	1	19 mpg City, 25 mpg Hwy
+0463	1	19 mpg City, 23 mpg Hwy
+0464	1	17 mpg City, 23 mpg Hwy
+0465	1	21 mpg City, 31 mpg Hwy
+0466	1	23 mpg City, 31 mpg Hwy
+0467	1	20 mpg City, 29 mpg Hwy
+0468	1	23 mpg City, 30 mpg Hwy
+0469	1	20 mpg City, 29 mpg Hwy
+0470	1	23 mpg City, 30 mpg Hwy
+0471	1	22 mpg City, 29 mpg Hwy
+0472	1	22 mpg City, 30 mpg Hwy
+0473	1	22 mpg City, 29 mpg Hwy
+0474	1	21 mpg City, 28 mpg Hwy
+0475	1	21 mpg City, 28 mpg Hwy
+0476	1	21 mpg City, 28 mpg Hwy
+0477	1	16 mpg City, 22 mpg Hwy
+0478	1	16 mpg City, 22 mpg Hwy
+0479	1	16 mpg City, 22 mpg Hwy
+0480	1	16 mpg City, 22 mpg Hwy
+0481	1	15 mpg City, 21 mpg Hwy
+0482	1	16 mpg City, 22 mpg Hwy
+0483	1	15 mpg City, 21 mpg Hwy
+0484	1	22 mpg City, 28 mpg Hwy
+0485	1	15 mpg City, 19 mpg Hwy
+0486	1	15 mpg City, 20 mpg Hwy
+0487	1	14 mpg City, 19 mpg Hwy
+0488	1	14 mpg City, 19 mpg Hwy
+0489	1	23 mpg City, 28 mpg Hwy
+0490	1	23 mpg City, 28 mpg Hwy
+0491	1	16 mpg City, 21 mpg Hwy
+0492	1	15 mpg City, 20 mpg Hwy
+0493	1	12 mpg City, 16 mpg Hwy
+0494	1	16 mpg City, 22 mpg Hwy
+0495	1	15 mpg City, 21 mpg Hwy
+0496	1	15 mpg City, 21 mpg Hwy
+0497	1	23 mpg City, 28 mpg Hwy
+0498	1	23 mpg City, 28 mpg Hwy
+0499	1	23 mpg City, 28 mpg Hwy
+0500	1	15 mpg City, 19 mpg Hwy
+0501	1	15 mpg City, 19 mpg Hwy
+0502	1	15 mpg City, 19 mpg Hwy
+0503	1	15 mpg City, 19 mpg Hwy
+0504	1	17 mpg City, 26 mpg Hwy
+0505	1	17 mpg City, 26 mpg Hwy
+0506	1	18 mpg City, 27 mpg Hwy
+0507	1	18 mpg City, 27 mpg Hwy
+0508	1	18 mpg City, 27 mpg Hwy
+0509	1	18 mpg City, 27 mpg Hwy
+0510	1	18 mpg City, 27 mpg Hwy
+0511	1	18 mpg City, 27 mpg Hwy
+0512	1	18 mpg City, 26 mpg Hwy
+0513	1	18 mpg City, 26 mpg Hwy
+0514	1	18 mpg City, 27 mpg Hwy
+0515	1	12 mpg City, 18 mpg Hwy
+0516	1	14 mpg City, 19 mpg Hwy
+0517	1	14 mpg City, 19 mpg Hwy
+0518	1	15 mpg City, 23 mpg Hwy
+0519	1	15 mpg City, 23 mpg Hwy
+0520	1	15 mpg City, 23 mpg Hwy
+0521	1	13 mpg City, 18 mpg Hwy
+0522	1	13 mpg City, 18 mpg Hwy
+0523	1	14 mpg City, 18 mpg Hwy
+0524	1	13 mpg City, 18 mpg Hwy
+0525	1	13 mpg City, 18 mpg Hwy
+0526	1	13 mpg City, 18 mpg Hwy
+0527	1	13 mpg City, 18 mpg Hwy
+0528	1	13 mpg City, 18 mpg Hwy
+0529	1	20 mpg City, 23 mpg Hwy
+0530	1	18 mpg City, 25 mpg Hwy
+0531	1	18 mpg City, 25 mpg Hwy
+0532	1	18 mpg City, 25 mpg Hwy
+0533	1	17 mpg City, 23 mpg Hwy
+0534	1	17 mpg City, 23 mpg Hwy
+0535	1	15 mpg City, 22 mpg Hwy
+0536	1	18 mpg City, 27 mpg Hwy
+0537	1	18 mpg City, 27 mpg Hwy
+0538	1	16 mpg City, 26 mpg Hwy
+0539	1	16 mpg City, 26 mpg Hwy
+0540	1	18 mpg City, 27 mpg Hwy
+0541	1	18 mpg City, 26 mpg Hwy
+0542	1	18 mpg City, 27 mpg Hwy
+0543	1	18 mpg City, 27 mpg Hwy
+0544	1	18 mpg City, 26 mpg Hwy
+0545	1	18 mpg City, 26 mpg Hwy
+0546	1	18 mpg City, 26 mpg Hwy
+0547	1	18 mpg City, 26 mpg Hwy
+0548	1	14 mpg City, 19 mpg Hwy
+0549	1	15 mpg City, 23 mpg Hwy
+0550	1	13 mpg City, 20 mpg Hwy
+0551	1	14 mpg City, 20 mpg Hwy
+0552	1	14 mpg City, 20 mpg Hwy
+0553	1	14 mpg City, 20 mpg Hwy
+0554	1	-
+0555	1	13 mpg City, 20 mpg Hwy
+0556	1	13 mpg City, 20 mpg Hwy
+0557	1	21 mpg City, 22 mpg Hwy
+0558	1	18 mpg City, 25 mpg Hwy
+0559	1	18 mpg City, 25 mpg Hwy
+0560	1	18 mpg City, 25 mpg Hwy
+0561	1	17 mpg City, 23 mpg Hwy
+0562	1	17 mpg City, 23 mpg Hwy
+0563	1	17 mpg City, 23 mpg Hwy
+0564	1	17 mpg City, 23 mpg Hwy
+0565	1	18 mpg City, 27 mpg Hwy
+0566	1	18 mpg City, 27 mpg Hwy
+0567	1	28 mpg City, 34 mpg Hwy
+0568	1	28 mpg City, 34 mpg Hwy
+0569	1	27 mpg City, 36 mpg Hwy
+0570	1	27 mpg City, 36 mpg Hwy
+0571	1	20 mpg City, 28 mpg Hwy
+0572	1	19 mpg City, 27 mpg Hwy
+0573	1	29 mpg City, 40 mpg Hwy
+0574	1	29 mpg City, 40 mpg Hwy
+0575	1	23 mpg City, 31 mpg Hwy
+0576	1	16 mpg City, 24 mpg Hwy
+0577	1	17 mpg City, 25 mpg Hwy
+0578	1	20 mpg City, 30 mpg Hwy
+0579	1	20 mpg City, 30 mpg Hwy
+0580	1	17 mpg City, 26 mpg Hwy
+0581	1	19 mpg City, 26 mpg Hwy
+0582	1	20 mpg City, 26 mpg Hwy
+0583	1	20 mpg City, 26 mpg Hwy
+0584	1	-
+0585	1	22 mpg City, 35 mpg Hwy
+0586	1	22 mpg City, 35 mpg Hwy
+0587	1	22 mpg City, 35 mpg Hwy
+0588	1	22 mpg City, 35 mpg Hwy
+0589	1	22 mpg City, 33 mpg Hwy
+0590	1	22 mpg City, 33 mpg Hwy
+0591	1	23 mpg City, 31 mpg Hwy
+0592	1	23 mpg City, 31 mpg Hwy
+0593	1	17 mpg City, 23 mpg Hwy
+0594	1	17 mpg City, 23 mpg Hwy
+0595	1	16 mpg City, 22 mpg Hwy
+0596	1	28 mpg City, 34 mpg Hwy
+0597	1	27 mpg City, 36 mpg Hwy
+0598	1	28 mpg City, 34 mpg Hwy
+0599	1	27 mpg City, 36 mpg Hwy
+0600	1	28 mpg City, 34 mpg Hwy
+0601	1	27 mpg City, 36 mpg Hwy
+0602	1	18 mpg City, 26 mpg Hwy
+0603	1	17 mpg City, 26 mpg Hwy
+0604	1	26 mpg City, 34 mpg Hwy
+0605	1	23 mpg City, 31 mpg Hwy
+0606	1	18 mpg City, 27 mpg Hwy
+0607	1	17 mpg City, 25 mpg Hwy
+0608	1	21 mpg City, 30 mpg Hwy
+0609	1	17 mpg City, 26 mpg Hwy
+0610	1	17 mpg City, 27 mpg Hwy
+0611	1	17 mpg City, 26 mpg Hwy
+0612	1	17 mpg City, 26 mpg Hwy
+0613	1	17 mpg City, 27 mpg Hwy
+0614	1	21 mpg City, 30 mpg Hwy
+0615	1	19 mpg City, 26 mpg Hwy
+0616	1	20 mpg City, 28 mpg Hwy
+0617	1	20 mpg City, 26 mpg Hwy
+0618	1	20 mpg City, 26 mpg Hwy
+0619	1	21 mpg City, 32 mpg Hwy
+0620	1	22 mpg City, 32 mpg Hwy
+0621	1	22 mpg City, 32 mpg Hwy
+0622	1	22 mpg City, 32 mpg Hwy
+0623	1	19 mpg City, 29 mpg Hwy
+0624	1	22 mpg City, 30 mpg Hwy
+0625	1	23 mpg City, 31 mpg Hwy
+0626	1	21 mpg City, 28 mpg Hwy
+0627	1	16 mpg City, 22 mpg Hwy
+0628	1	17 mpg City, 25 mpg Hwy
+0629	1	16 mpg City, 22 mpg Hwy
+0630	1	17 mpg City, 23 mpg Hwy
+0631	1	41 mpg City, 36 mpg Hwy
+0632	1	14 mpg City, 20 mpg Hwy
+0633	1	-
+0634	1	16 mpg City, 24 mpg Hwy
+0635	1	17 mpg City, 25 mpg Hwy
+0636	1	17 mpg City, 24 mpg Hwy
+0637	1	16 mpg City, 23 mpg Hwy
+0638	1	16 mpg City, 22 mpg Hwy
+0639	1	17 mpg City, 24 mpg Hwy
+0640	1	14 mpg City, 20 mpg Hwy
+0641	1	16 mpg City, 24 mpg Hwy
+0642	1	22 mpg City, 30 mpg Hwy
+0643	1	22 mpg City, 33 mpg Hwy
+0644	1	22 mpg City, 30 mpg Hwy
+0645	1	22 mpg City, 30 mpg Hwy
+0646	1	17 mpg City, 26 mpg Hwy
+0647	1	17 mpg City, 26 mpg Hwy
+0648	1	22 mpg City, 33 mpg Hwy
+0649	1	22 mpg City, 33 mpg Hwy
+0650	1	17 mpg City, 26 mpg Hwy
+0651	1	17 mpg City, 26 mpg Hwy
+0652	1	22 mpg City, 33 mpg Hwy
+0653	1	17 mpg City, 25 mpg Hwy
+0654	1	19 mpg City, 25 mpg Hwy
+0655	1	19 mpg City, 28 mpg Hwy
+0656	1	17 mpg City, 24 mpg Hwy
+0657	1	17 mpg City, 24 mpg Hwy
+0658	1	16 mpg City, 24 mpg Hwy
+0659	1	20 mpg City, 26 mpg Hwy
+0660	1	21 mpg City, 28 mpg Hwy
+0661	1	17 mpg City, 23 mpg Hwy
+0662	1	17 mpg City, 22 mpg Hwy
+0663	1	20 mpg City, 29 mpg Hwy
+0664	1	22 mpg City, 33 mpg Hwy
+0665	1	22 mpg City, 33 mpg Hwy
+0666	1	22 mpg City, 32 mpg Hwy
+0667	1	22 mpg City, 33 mpg Hwy
+0668	1	20 mpg City, 29 mpg Hwy
+0669	1	26 mpg City, 34 mpg Hwy
+0670	1	28 mpg City, 35 mpg Hwy
+0671	1	26 mpg City, 34 mpg Hwy
+0672	1	17 mpg City, 21 mpg Hwy
+0673	1	20 mpg City, 25 mpg Hwy
+0674	1	18 mpg City, 24 mpg Hwy
+0675	1	18 mpg City, 24 mpg Hwy
+0676	1	17 mpg City, 22 mpg Hwy
+0677	1	17 mpg City, 22 mpg Hwy
+0678	1	28 mpg City, 28 mpg Hwy
+0679	1	28 mpg City, 28 mpg Hwy
+0680	1	25 mpg City, 31 mpg Hwy
+0681	1	51 mpg City, 48 mpg Hwy
+0682	1	22 mpg City, 28 mpg Hwy
+0683	1	22 mpg City, 28 mpg Hwy
+0684	1	19 mpg City, 27 mpg Hwy
+0685	1	19 mpg City, 27 mpg Hwy
+0686	1	21 mpg City, 27 mpg Hwy
+0687	1	19 mpg City, 26 mpg Hwy
+0688	1	19 mpg City, 26 mpg Hwy
+0689	1	14 mpg City, 20 mpg Hwy
+0690	1	14 mpg City, 18 mpg Hwy
+0691	1	14 mpg City, 18 mpg Hwy
+0692	1	12 mpg City, 17 mpg Hwy
+0693	1	13 mpg City, 18 mpg Hwy
+0694	1	12 mpg City, 17 mpg Hwy
+0695	1	13 mpg City, 18 mpg Hwy
+0696	1	12 mpg City, 17 mpg Hwy
+0697	1	18 mpg City, 24 mpg Hwy
+0698	1	18 mpg City, 24 mpg Hwy
+0699	1	19 mpg City, 26 mpg Hwy
+0700	1	18 mpg City, 24 mpg Hwy
+0701	1	21 mpg City, 25 mpg Hwy
+0702	1	18 mpg City, 20 mpg Hwy
+0703	1	18 mpg City, 21 mpg Hwy
+0704	1	19 mpg City, 25 mpg Hwy
+0705	1	15 mpg City, 19 mpg Hwy
+0706	1	18 mpg City, 21 mpg Hwy
+0707	1	14 mpg City, 18 mpg Hwy
+0708	1	16 mpg City, 20 mpg Hwy
+0709	1	17 mpg City, 21 mpg Hwy
+0710	1	16 mpg City, 20 mpg Hwy
+0711	1	16 mpg City, 20 mpg Hwy
+0712	1	14 mpg City, 18 mpg Hwy
+0713	1	16 mpg City, 20 mpg Hwy
+0714	1	14 mpg City, 18 mpg Hwy
+0715	1	14 mpg City, 18 mpg Hwy
+0716	1	15 mpg City, 20 mpg Hwy
+0717	1	14 mpg City, 18 mpg Hwy
+0718	1	13 mpg City, 17 mpg Hwy
+0719	1	14 mpg City, 19 mpg Hwy
+0720	1	13 mpg City, 17 mpg Hwy
+0721	1	13 mpg City, 17 mpg Hwy
+0722	1	13 mpg City, 17 mpg Hwy
+0723	1	20 mpg City, 25 mpg Hwy
+0724	1	18 mpg City, 25 mpg Hwy
+0725	1	29 mpg City, 36 mpg Hwy
+0726	1	29 mpg City, 36 mpg Hwy
+0727	1	29 mpg City, 35 mpg Hwy
+0728	1	17 mpg City, 23 mpg Hwy
+0729	1	17 mpg City, 22 mpg Hwy
+0730	1	17 mpg City, 22 mpg Hwy
+0731	1	17 mpg City, 22 mpg Hwy
+0732	1	18 mpg City, 23 mpg Hwy
+0733	1	19 mpg City, 28 mpg Hwy
+0734	1	19 mpg City, 28 mpg Hwy
+0735	1	22 mpg City, 33 mpg Hwy
+0736	1	22 mpg City, 32 mpg Hwy
+0737	1	19 mpg City, 28 mpg Hwy
+0738	1	22 mpg City, 32 mpg Hwy
+0739	1	22 mpg City, 33 mpg Hwy
+0740	1	22 mpg City, 32 mpg Hwy
+0741	1	22 mpg City, 33 mpg Hwy
+0742	1	22 mpg City, 32 mpg Hwy
+0743	1	26 mpg City, 35 mpg Hwy
+0744	1	22 mpg City, 30 mpg Hwy
+0745	1	26 mpg City, 34 mpg Hwy
+0746	1	17 mpg City, 22 mpg Hwy
+0747	1	18 mpg City, 24 mpg Hwy
+0748	1	18 mpg City, 24 mpg Hwy
+0749	1	17 mpg City, 23 mpg Hwy
+0750	1	17 mpg City, 23 mpg Hwy
+0751	1	27 mpg City, 25 mpg Hwy
+0752	1	27 mpg City, 25 mpg Hwy
+0753	1	21 mpg City, 29 mpg Hwy
+0754	1	51 mpg City, 48 mpg Hwy
+0755	1	51 mpg City, 48 mpg Hwy
+0756	1	51 mpg City, 48 mpg Hwy
+0757	1	51 mpg City, 48 mpg Hwy
+0758	1	51 mpg City, 48 mpg Hwy
+0759	1	22 mpg City, 28 mpg Hwy
+0760	1	21 mpg City, 27 mpg Hwy
+0761	1	21 mpg City, 27 mpg Hwy
+0762	1	19 mpg City, 26 mpg Hwy
+0763	1	19 mpg City, 24 mpg Hwy
+0764	1	17 mpg City, 22 mpg Hwy
+0765	1	17 mpg City, 22 mpg Hwy
+0766	1	13 mpg City, 18 mpg Hwy
+0767	1	14 mpg City, 19 mpg Hwy
+0768	1	16 mpg City, 21 mpg Hwy
+0769	1	16 mpg City, 21 mpg Hwy
+0770	1	17 mpg City, 23 mpg Hwy
+0771	1	17 mpg City, 23 mpg Hwy
+0772	1	17 mpg City, 23 mpg Hwy
+0773	1	20 mpg City, 26 mpg Hwy
+0774	1	19 mpg City, 25 mpg Hwy
+0775	1	17 mpg City, 22 mpg Hwy
+0776	1	15 mpg City, 18 mpg Hwy
+0777	1	17 mpg City, 21 mpg Hwy
+0778	1	17 mpg City, 22 mpg Hwy
+0779	1	14 mpg City, 18 mpg Hwy
+0780	1	16 mpg City, 20 mpg Hwy
+0781	1	15 mpg City, 19 mpg Hwy
+0782	1	14 mpg City, 18 mpg Hwy
+0783	1	15 mpg City, 20 mpg Hwy
+0784	1	15 mpg City, 19 mpg Hwy
+0785	1	14 mpg City, 18 mpg Hwy
+0786	1	15 mpg City, 20 mpg Hwy
+0787	1	14 mpg City, 18 mpg Hwy
+0788	1	14 mpg City, 19 mpg Hwy
+0789	1	13 mpg City, 17 mpg Hwy
+0790	1	14 mpg City, 19 mpg Hwy
+0791	1	13 mpg City, 17 mpg Hwy
+0792	1	14 mpg City, 19 mpg Hwy
+0793	1	14 mpg City, 19 mpg Hwy
+0794	1	13 mpg City, 17 mpg Hwy
+0795	1	13 mpg City, 17 mpg Hwy
+0796	1	13 mpg City, 17 mpg Hwy
+0797	1	20 mpg City, 28 mpg Hwy
+0798	1	29 mpg City, 36 mpg Hwy
+0799	1	29 mpg City, 35 mpg Hwy
+0800	1	29 mpg City, 35 mpg Hwy
+0801	1	29 mpg City, 36 mpg Hwy
+0802	1	29 mpg City, 35 mpg Hwy
+0803	1	15 mpg City, 21 mpg Hwy
+0804	1	15 mpg City, 21 mpg Hwy
+0805	1	15 mpg City, 21 mpg Hwy
+0806	1	27 mpg City, 35 mpg Hwy
+0807	1	27 mpg City, 35 mpg Hwy
+0808	1	27 mpg City, 35 mpg Hwy
+0809	1	16 mpg City, 24 mpg Hwy
+0810	1	17 mpg City, 28 mpg Hwy
+0811	1	17 mpg City, 28 mpg Hwy
+0812	1	17 mpg City, 28 mpg Hwy
+0813	1	16 mpg City, 24 mpg Hwy
+0814	1	18 mpg City, 26 mpg Hwy
+0815	1	17 mpg City, 25 mpg Hwy
+0816	1	17 mpg City, 25 mpg Hwy
+0817	1	17 mpg City, 25 mpg Hwy
+0818	1	18 mpg City, 25 mpg Hwy
+0819	1	17 mpg City, 23 mpg Hwy
+0820	1	14 mpg City, 20 mpg Hwy
+0821	1	18 mpg City, 24 mpg Hwy
+0822	1	18 mpg City, 24 mpg Hwy
+0823	1	17 mpg City, 23 mpg Hwy
+0824	1	16 mpg City, 21 mpg Hwy
+0825	1	16 mpg City, 26 mpg Hwy
+0826	1	16 mpg City, 26 mpg Hwy
+0827	1	16 mpg City, 26 mpg Hwy
+0828	1	16 mpg City, 26 mpg Hwy
+0829	1	16 mpg City, 26 mpg Hwy
+0830	1	16 mpg City, 26 mpg Hwy
+0831	1	14 mpg City, 20 mpg Hwy
+0832	1	16 mpg City, 26 mpg Hwy
+0833	1	16 mpg City, 26 mpg Hwy
+0834	1	15 mpg City, 24 mpg Hwy
+0835	1	15 mpg City, 24 mpg Hwy
+0836	1	24 mpg City, 36 mpg Hwy
+0837	1	-
+0838	1	22 mpg City, 32 mpg Hwy
+0839	1	22 mpg City, 32 mpg Hwy
+0840	1	20 mpg City, 29 mpg Hwy
+0841	1	10 mpg City, 16 mpg Hwy
+0842	1	10 mpg City, 16 mpg Hwy
+0843	1	10 mpg City, 16 mpg Hwy
+0844	1	10 mpg City, 16 mpg Hwy
+0845	1	10 mpg City, 16 mpg Hwy
+0846	1	10 mpg City, 16 mpg Hwy
+0847	1	13 mpg City, 17 mpg Hwy
+0848	1	10 mpg City, 16 mpg Hwy
+0849	1	13 mpg City, 17 mpg Hwy
+0850	1	13 mpg City, 17 mpg Hwy
+0851	1	11 mpg City, 17 mpg Hwy
+0852	1	-
+0853	1	13 mpg City, 17 mpg Hwy
+0854	1	-
+0855	1	11 mpg City, 16 mpg Hwy
+0856	1	22 mpg City, 32 mpg Hwy
+0857	1	22 mpg City, 32 mpg Hwy
+0858	1	22 mpg City, 32 mpg Hwy
+0859	1	19 mpg City, 29 mpg Hwy
+0860	1	22 mpg City, 33 mpg Hwy
+0861	1	22 mpg City, 33 mpg Hwy
+0862	1	22 mpg City, 33 mpg Hwy
+0863	1	20 mpg City, 28 mpg Hwy
+0864	1	14 mpg City, 19 mpg Hwy
+0865	1	13 mpg City, 18 mpg Hwy
+0866	1	15 mpg City, 21 mpg Hwy
+0867	1	15 mpg City, 21 mpg Hwy
+0868	1	15 mpg City, 21 mpg Hwy
+0869	1	15 mpg City, 21 mpg Hwy
+0870	1	14 mpg City, 19 mpg Hwy
+0871	1	14 mpg City, 19 mpg Hwy
+0872	1	15 mpg City, 22 mpg Hwy
+0873	1	13 mpg City, 18 mpg Hwy
+0874	1	15 mpg City, 21 mpg Hwy
+0875	1	20 mpg City, 23 mpg Hwy
+0876	1	20 mpg City, 23 mpg Hwy
+0877	1	20 mpg City, 23 mpg Hwy
+0878	1	-
+0879	1	-
+0880	1	-
+0881	1	-
+0882	1	-
+0883	1	-
+0884	1	-
+0885	1	-
+0886	1	-
+0887	1	-
+0888	1	-
+0889	1	-
+0890	1	-
+0891	1	-
+0892	1	-
+0893	1	-
+0894	1	-
+0895	1	-
+0896	1	-
+0897	1	-
+0898	1	-
+0899	1	-
+0900	1	-
+0901	1	-
+0902	1	-
+0903	1	-
+0904	1	-
+0905	1	-
+0906	1	-
+0907	1	-
+0908	1	-
+0909	1	-
+0910	1	-
+0911	1	-
+0912	1	-
+0913	1	-
+0914	1	-
+0915	1	-
+0916	1	15 mpg City, 21 mpg Hwy
+0917	1	15 mpg City, 21 mpg Hwy
+0918	1	10 mpg City, 16 mpg Hwy
+0919	1	15 mpg City, 21 mpg Hwy
+0920	1	15 mpg City, 21 mpg Hwy
+0921	1	20 mpg City, 23 mpg Hwy
+0922	1	17 mpg City, 24 mpg Hwy
+0923	1	16 mpg City, 23 mpg Hwy
+0924	1	16 mpg City, 23 mpg Hwy
+0925	1	15 mpg City, 21 mpg Hwy
+0926	1	16 mpg City, 21 mpg Hwy
+0927	1	16 mpg City, 21 mpg Hwy
+0928	1	27 mpg City, 35 mpg Hwy
+0929	1	27 mpg City, 35 mpg Hwy
+0930	1	16 mpg City, 24 mpg Hwy
+0931	1	17 mpg City, 29 mpg Hwy
+0932	1	16 mpg City, 24 mpg Hwy
+0933	1	25 mpg City, 37 mpg Hwy
+0934	1	25 mpg City, 37 mpg Hwy
+0935	1	25 mpg City, 37 mpg Hwy
+0936	1	25 mpg City, 35 mpg Hwy
+0937	1	18 mpg City, 25 mpg Hwy
+0938	1	15 mpg City, 20 mpg Hwy
+0939	1	18 mpg City, 24 mpg Hwy
+0940	1	15 mpg City, 20 mpg Hwy
+0941	1	16 mpg City, 21 mpg Hwy
+0942	1	16 mpg City, 21 mpg Hwy
+0943	1	16 mpg City, 26 mpg Hwy
+0944	1	16 mpg City, 26 mpg Hwy
+0945	1	16 mpg City, 26 mpg Hwy
+0946	1	16 mpg City, 26 mpg Hwy
+0947	1	16 mpg City, 26 mpg Hwy
+0948	1	16 mpg City, 26 mpg Hwy
+0949	1	16 mpg City, 26 mpg Hwy
+0950	1	16 mpg City, 26 mpg Hwy
+0951	1	16 mpg City, 26 mpg Hwy
+0952	1	15 mpg City, 24 mpg Hwy
+0953	1	20 mpg City, 29 mpg Hwy
+0954	1	20 mpg City, 29 mpg Hwy
+0955	1	22 mpg City, 32 mpg Hwy
+0956	1	20 mpg City, 29 mpg Hwy
+0957	1	15 mpg City, 20 mpg Hwy
+0958	1	-
+0959	1	13 mpg City, 17 mpg Hwy
+0960	1	-
+0961	1	-
+0962	1	-
+0963	1	13 mpg City, 17 mpg Hwy
+0964	1	13 mpg City, 17 mpg Hwy
+0965	1	-
+0966	1	-
+0967	1	13 mpg City, 17 mpg Hwy
+0968	1	22 mpg City, 32 mpg Hwy
+0969	1	22 mpg City, 32 mpg Hwy
+0970	1	22 mpg City, 32 mpg Hwy
+0971	1	22 mpg City, 32 mpg Hwy
+0972	1	19 mpg City, 24 mpg Hwy
+0973	1	17 mpg City, 22 mpg Hwy
+0974	1	17 mpg City, 22 mpg Hwy
+0975	1	18 mpg City, 29 mpg Hwy
+0976	1	18 mpg City, 29 mpg Hwy
+0977	1	22 mpg City, 30 mpg Hwy
+0978	1	22 mpg City, 33 mpg Hwy
+0979	1	15 mpg City, 20 mpg Hwy
+0980	1	14 mpg City, 19 mpg Hwy
+0981	1	14 mpg City, 18 mpg Hwy
+0982	1	14 mpg City, 19 mpg Hwy
+0983	1	15 mpg City, 21 mpg Hwy
+0984	1	15 mpg City, 21 mpg Hwy
+0985	1	13 mpg City, 18 mpg Hwy
+0986	1	13 mpg City, 18 mpg Hwy
+0987	1	15 mpg City, 21 mpg Hwy
+0988	1	15 mpg City, 21 mpg Hwy
+0989	1	15 mpg City, 21 mpg Hwy
+0990	1	14 mpg City, 19 mpg Hwy
+0991	1	15 mpg City, 22 mpg Hwy
+0992	1	15 mpg City, 21 mpg Hwy
+0993	1	13 mpg City, 18 mpg Hwy
+0994	1	21 mpg City, 22 mpg Hwy
+0995	1	21 mpg City, 22 mpg Hwy
+0996	1	-
+0997	1	-
+0998	1	-
+0999	1	-
+1000	1	-
+1001	1	-
+1002	1	-
+1003	1	-
+1004	1	-
+1005	1	-
+1006	1	-
+1007	1	-
+1008	1	-
+1009	1	-
+1010	1	-
+1011	1	-
+1012	1	-
+1013	1	-
+1014	1	-
+1015	1	-
+1016	1	-
+1017	1	-
+1018	1	-
+1019	1	-
+1020	1	-
+1021	1	-
+1022	1	-
+1023	1	-
+1024	1	-
+1025	1	-
+1026	1	-
+1027	1	-
+1028	1	-
+1029	1	15 mpg City, 21 mpg Hwy
+1030	1	15 mpg City, 21 mpg Hwy
+1031	1	-
+1032	1	-
+1033	1	-
+1034	1	-
+1035	1	15 mpg City, 21 mpg Hwy
+1036	1	15 mpg City, 21 mpg Hwy
+1037	1	15 mpg City, 21 mpg Hwy
+1038	1	15 mpg City, 21 mpg Hwy
+1039	1	15 mpg City, 21 mpg Hwy
+1040	1	21 mpg City, 22 mpg Hwy
+1041	1	17 mpg City, 24 mpg Hwy
+1042	1	17 mpg City, 24 mpg Hwy
+1043	1	16 mpg City, 23 mpg Hwy
+1044	1	16 mpg City, 23 mpg Hwy
+1045	1	16 mpg City, 22 mpg Hwy
+1046	1	16 mpg City, 22 mpg Hwy
+1047	1	17 mpg City, 24 mpg Hwy
+1048	1	17 mpg City, 24 mpg Hwy
+1049	1	17 mpg City, 24 mpg Hwy
+1050	1	-
+1051	1	-
+1052	1	-
+1053	1	17 mpg City, 24 mpg Hwy
+1054	1	16 mpg City, 23 mpg Hwy
+1055	1	14 mpg City, 20 mpg Hwy
+1056	1	14 mpg City, 20 mpg Hwy
+1057	1	14 mpg City, 20 mpg Hwy
+1058	1	17 mpg City, 24 mpg Hwy
+1059	1	16 mpg City, 23 mpg Hwy
+1060	1	16 mpg City, 23 mpg Hwy
+1061	1	18 mpg City, 26 mpg Hwy
+1062	1	18 mpg City, 26 mpg Hwy
+1063	1	17 mpg City, 25 mpg Hwy
+1064	1	17 mpg City, 25 mpg Hwy
+1065	1	17 mpg City, 25 mpg Hwy
+1066	1	17 mpg City, 25 mpg Hwy
+1067	1	19 mpg City, 27 mpg Hwy
+1068	1	17 mpg City, 25 mpg Hwy
+1069	1	18 mpg City, 25 mpg Hwy
+1070	1	19 mpg City, 27 mpg Hwy
+1071	1	17 mpg City, 25 mpg Hwy
+1072	1	18 mpg City, 25 mpg Hwy
+1073	1	16 mpg City, 21 mpg Hwy
+1074	1	14 mpg City, 20 mpg Hwy
+1075	1	12 mpg City, 18 mpg Hwy
+1076	1	12 mpg City, 17 mpg Hwy
+1077	1	17 mpg City, 23 mpg Hwy
+1078	1	20 mpg City, 28 mpg Hwy
+1079	1	17 mpg City, 24 mpg Hwy
+1080	1	16 mpg City, 22 mpg Hwy
+1081	1	29 mpg City, 35 mpg Hwy
+1082	1	27 mpg City, 33 mpg Hwy
+1083	1	27 mpg City, 33 mpg Hwy
+1084	1	20 mpg City, 28 mpg Hwy
+1085	1	20 mpg City, 28 mpg Hwy
+1086	1	21 mpg City, 30 mpg Hwy
+1087	1	18 mpg City, 27 mpg Hwy
+1088	1	25 mpg City, 33 mpg Hwy
+1089	1	25 mpg City, 33 mpg Hwy
+1090	1	25 mpg City, 33 mpg Hwy
+1091	1	21 mpg City, 29 mpg Hwy
+1092	1	20 mpg City, 29 mpg Hwy
+1093	1	21 mpg City, 30 mpg Hwy
+1094	1	21 mpg City, 30 mpg Hwy
+1095	1	22 mpg City, 28 mpg Hwy
+1096	1	21 mpg City, 28 mpg Hwy
+1097	1	21 mpg City, 28 mpg Hwy
+1098	1	21 mpg City, 28 mpg Hwy
+1099	1	16 mpg City, 23 mpg Hwy
+1100	1	21 mpg City, 28 mpg Hwy
+1101	1	20 mpg City, 26 mpg Hwy
+1102	1	20 mpg City, 26 mpg Hwy
+1103	1	20 mpg City, 28 mpg Hwy
+1104	1	18 mpg City, 25 mpg Hwy
+1105	1	16 mpg City, 22 mpg Hwy
+1106	1	16 mpg City, 22 mpg Hwy
+1107	1	15 mpg City, 21 mpg Hwy
+1108	1	15 mpg City, 21 mpg Hwy
+1109	1	25 mpg City, 33 mpg Hwy
+1110	1	24 mpg City, 33 mpg Hwy
+1111	1	25 mpg City, 33 mpg Hwy
+1112	1	21 mpg City, 29 mpg Hwy
+1113	1	22 mpg City, 29 mpg Hwy
+1114	1	21 mpg City, 27 mpg Hwy
+1115	1	21 mpg City, 27 mpg Hwy
+1116	1	20 mpg City, 29 mpg Hwy
+1117	1	21 mpg City, 30 mpg Hwy
+1118	1	20 mpg City, 29 mpg Hwy
+1119	1	17 mpg City, 25 mpg Hwy
+1120	1	16 mpg City, 23 mpg Hwy
+1121	1	21 mpg City, 28 mpg Hwy
+1122	1	21 mpg City, 28 mpg Hwy
+1123	1	21 mpg City, 28 mpg Hwy
+1124	1	21 mpg City, 28 mpg Hwy
+1125	1	16 mpg City, 23 mpg Hwy
+1126	1	16 mpg City, 22 mpg Hwy
+1127	1	22 mpg City, 28 mpg Hwy
+1128	1	21 mpg City, 28 mpg Hwy
+1129	1	19 mpg City, 25 mpg Hwy
+1130	1	20 mpg City, 26 mpg Hwy
+1131	1	21 mpg City, 27 mpg Hwy
+1132	1	18 mpg City, 26 mpg Hwy
+1133	1	17 mpg City, 25 mpg Hwy
+1134	1	17 mpg City, 25 mpg Hwy
+1135	1	17 mpg City, 23 mpg Hwy
+1136	1	15 mpg City, 24 mpg Hwy
+1137	1	18 mpg City, 26 mpg Hwy
+1138	1	17 mpg City, 25 mpg Hwy
+1139	1	17 mpg City, 25 mpg Hwy
+1140	1	16 mpg City, 23 mpg Hwy
+1141	1	21 mpg City, 25 mpg Hwy
+1142	1	15 mpg City, 22 mpg Hwy
+1143	1	-
+1144	1	-
+1145	1	18 mpg City, 26 mpg Hwy
+1146	1	17 mpg City, 25 mpg Hwy
+1147	1	18 mpg City, 26 mpg Hwy
+1148	1	17 mpg City, 25 mpg Hwy
+1149	1	17 mpg City, 23 mpg Hwy
+1150	1	17 mpg City, 25 mpg Hwy
+1151	1	17 mpg City, 25 mpg Hwy
+1152	1	13 mpg City, 17 mpg Hwy
+1153	1	13 mpg City, 17 mpg Hwy
+1154	1	13 mpg City, 17 mpg Hwy
+1155	1	12 mpg City, 15 mpg Hwy
+1156	1	13 mpg City, 19 mpg Hwy
+1157	1	12 mpg City, 19 mpg Hwy
+1158	1	-
+1159	1	-
+1160	1	21 mpg City, 31 mpg Hwy
+1161	1	22 mpg City, 27 mpg Hwy
+1162	1	21 mpg City, 31 mpg Hwy
+1163	1	23 mpg City, 30 mpg Hwy
+1164	1	30 mpg City, 42 mpg Hwy
+1165	1	21 mpg City, 31 mpg Hwy
+1166	1	24 mpg City, 32 mpg Hwy
+1167	1	21 mpg City, 31 mpg Hwy
+1168	1	24 mpg City, 32 mpg Hwy
+1169	1	24 mpg City, 32 mpg Hwy
+1170	1	24 mpg City, 34 mpg Hwy
+1171	1	24 mpg City, 34 mpg Hwy
+1172	1	23 mpg City, 29 mpg Hwy
+1173	1	24 mpg City, 31 mpg Hwy
+1174	1	23 mpg City, 33 mpg Hwy
+1175	1	23 mpg City, 33 mpg Hwy
+1176	1	24 mpg City, 31 mpg Hwy
+1177	1	30 mpg City, 42 mpg Hwy
+1178	1	30 mpg City, 42 mpg Hwy
+1179	1	22 mpg City, 30 mpg Hwy
+1180	1	23 mpg City, 30 mpg Hwy
+1181	1	30 mpg City, 41 mpg Hwy
+1182	1	30 mpg City, 42 mpg Hwy
+1183	1	18 mpg City, 24 mpg Hwy
+1184	1	18 mpg City, 24 mpg Hwy
+1185	1	18 mpg City, 24 mpg Hwy
+1186	1	18 mpg City, 24 mpg Hwy
+1187	1	18 mpg City, 24 mpg Hwy
+1188	1	18 mpg City, 24 mpg Hwy
+1189	1	18 mpg City, 24 mpg Hwy
+1190	1	-
+1191	1	-
+1192	1	-
+1193	1	-
+1194	1	22 mpg City, 31 mpg Hwy
+1195	1	22 mpg City, 29 mpg Hwy
+1196	1	22 mpg City, 30 mpg Hwy
+1197	1	30 mpg City, 41 mpg Hwy
+1198	1	30 mpg City, 41 mpg Hwy
+1199	1	30 mpg City, 42 mpg Hwy
+1200	1	24 mpg City, 32 mpg Hwy
+1201	1	24 mpg City, 32 mpg Hwy
+1202	1	30 mpg City, 41 mpg Hwy
+1203	1	30 mpg City, 42 mpg Hwy
+1204	1	21 mpg City, 31 mpg Hwy
+1205	1	30 mpg City, 41 mpg Hwy
+1206	1	30 mpg City, 42 mpg Hwy
+1207	1	23 mpg City, 30 mpg Hwy
+1208	1	23 mpg City, 30 mpg Hwy
+1209	1	23 mpg City, 30 mpg Hwy
+1210	1	30 mpg City, 41 mpg Hwy
+1211	1	20 mpg City, 28 mpg Hwy
+1212	1	20 mpg City, 29 mpg Hwy
+1213	1	20 mpg City, 29 mpg Hwy
+1214	1	20 mpg City, 29 mpg Hwy
+1215	1	13 mpg City, 13 mpg Hwy
+1216	1	13 mpg City, 13 mpg Hwy
+1217	1	11 mpg City, 15 mpg Hwy
+1218	1	16 mpg City, 23 mpg Hwy
+1219	1	16 mpg City, 23 mpg Hwy
+1220	1	17 mpg City, 25 mpg Hwy
+1221	1	17 mpg City, 25 mpg Hwy
+1222	1	17 mpg City, 25 mpg Hwy
+1223	1	19 mpg City, 26 mpg Hwy
+1224	1	18 mpg City, 24 mpg Hwy
+1225	1	18 mpg City, 24 mpg Hwy
+1226	1	18 mpg City, 24 mpg Hwy
+1227	1	21 mpg City, 28 mpg Hwy
+1228	1	21 mpg City, 28 mpg Hwy
+1229	1	23 mpg City, 33 mpg Hwy
+1230	1	41 mpg City, 36 mpg Hwy
+1231	1	16 mpg City, 24 mpg Hwy
+1232	1	21 mpg City, 28 mpg Hwy
+1233	1	20 mpg City, 26 mpg Hwy
+1234	1	41 mpg City, 36 mpg Hwy
+1235	1	18 mpg City, 25 mpg Hwy
+1236	1	19 mpg City, 27 mpg Hwy
+1237	1	18 mpg City, 25 mpg Hwy
+1238	1	13 mpg City, 19 mpg Hwy
+1239	1	13 mpg City, 19 mpg Hwy
+1240	1	21 mpg City, 30 mpg Hwy
+1241	1	21 mpg City, 30 mpg Hwy
+1242	1	18 mpg City, 26 mpg Hwy
+1243	1	18 mpg City, 26 mpg Hwy
+1244	1	16 mpg City, 23 mpg Hwy
+1245	1	17 mpg City, 25 mpg Hwy
+1246	1	16 mpg City, 25 mpg Hwy
+1247	1	16 mpg City, 23 mpg Hwy
+1248	1	17 mpg City, 25 mpg Hwy
+1249	1	16 mpg City, 25 mpg Hwy
+1250	1	17 mpg City, 25 mpg Hwy
+1251	1	20 mpg City, 29 mpg Hwy
+1252	1	18 mpg City, 26 mpg Hwy
+1253	1	21 mpg City, 30 mpg Hwy
+1254	1	17 mpg City, 25 mpg Hwy
+1255	1	16 mpg City, 23 mpg Hwy
+1256	1	16 mpg City, 23 mpg Hwy
+1257	1	16 mpg City, 23 mpg Hwy
+1258	1	15 mpg City, 21 mpg Hwy
+1259	1	21 mpg City, 28 mpg Hwy
+1260	1	21 mpg City, 28 mpg Hwy
+1261	1	34 mpg City, 31 mpg Hwy
+1262	1	34 mpg City, 31 mpg Hwy
+1263	1	20 mpg City, 26 mpg Hwy
+1264	1	30 mpg City, 27 mpg Hwy
+1265	1	30 mpg City, 27 mpg Hwy
+1266	1	16 mpg City, 22 mpg Hwy
+1267	1	15 mpg City, 22 mpg Hwy
+1268	1	16 mpg City, 23 mpg Hwy
+1269	1	16 mpg City, 25 mpg Hwy
+1270	1	15 mpg City, 21 mpg Hwy
+1271	1	15 mpg City, 21 mpg Hwy
+1272	1	15 mpg City, 22 mpg Hwy
+1273	1	16 mpg City, 24 mpg Hwy
+1274	1	18 mpg City, 26 mpg Hwy
+1275	1	18 mpg City, 25 mpg Hwy
+1276	1	18 mpg City, 11 mpg Hwy
+1277	1	15 mpg City, 22 mpg Hwy
+1278	1	17 mpg City, 26 mpg Hwy
+1279	1	17 mpg City, 24 mpg Hwy
+1280	1	15 mpg City, 23 mpg Hwy
+1281	1	15 mpg City, 23 mpg Hwy
+1282	1	15 mpg City, 23 mpg Hwy
+1283	1	13 mpg City, 20 mpg Hwy
+1284	1	22 mpg City, 33 mpg Hwy
+1285	1	11 mpg City, 15 mpg Hwy
+1286	1	11 mpg City, 15 mpg Hwy
+1287	1	12 mpg City, 17 mpg Hwy
+1288	1	16 mpg City, 22 mpg Hwy
+1289	1	16 mpg City, 21 mpg Hwy
+1290	1	14 mpg City, 20 mpg Hwy
+1291	1	14 mpg City, 20 mpg Hwy
+1292	1	14 mpg City, 20 mpg Hwy
+1293	1	14 mpg City, 20 mpg Hwy
+1294	1	13 mpg City, 18 mpg Hwy
+1295	1	13 mpg City, 18 mpg Hwy
+1296	1	13 mpg City, 18 mpg Hwy
+1297	1	16 mpg City, 20 mpg Hwy
+1298	1	19 mpg City, 26 mpg Hwy
+1299	1	15 mpg City, 23 mpg Hwy
+1300	1	11 mpg City, 17 mpg Hwy
+1301	1	11 mpg City, 18 mpg Hwy
+1302	1	17 mpg City, 26 mpg Hwy
+1303	1	20 mpg City, 14 mpg Hwy
+1304	1	18 mpg City, 26 mpg Hwy
+1305	1	18 mpg City, 25 mpg Hwy
+1306	1	12 mpg City, 19 mpg Hwy
+1307	1	11 mpg City, 17 mpg Hwy
+1308	1	11 mpg City, 17 mpg Hwy
+1309	1	15 mpg City, 23 mpg Hwy
+1310	1	16 mpg City, 24 mpg Hwy
+1311	1	18 mpg City, 26 mpg Hwy
+1312	1	16 mpg City, 24 mpg Hwy
+1313	1	18 mpg City, 26 mpg Hwy
+1314	1	16 mpg City, 24 mpg Hwy
+1315	1	16 mpg City, 24 mpg Hwy
+1316	1	15 mpg City, 23 mpg Hwy
+1317	1	13 mpg City, 20 mpg Hwy
+1318	1	14 mpg City, 20 mpg Hwy
+1319	1	14 mpg City, 20 mpg Hwy
+1320	1	13 mpg City, 18 mpg Hwy
+1321	1	13 mpg City, 18 mpg Hwy
+1322	1	11 mpg City, 15 mpg Hwy
+1323	1	16 mpg City, 21 mpg Hwy
+1324	1	15 mpg City, 20 mpg Hwy
+1325	1	19 mpg City, 26 mpg Hwy
+1326	1	14 mpg City, 21 mpg Hwy
+1327	1	11 mpg City, 17 mpg Hwy
+1328	1	18 mpg City, 25 mpg Hwy
+1329	1	14 mpg City, 22 mpg Hwy
+1330	1	-
+1331	1	-
+1332	1	21 mpg City, 31 mpg Hwy
+1333	1	17 mpg City, 27 mpg Hwy
+1334	1	21 mpg City, 27 mpg Hwy
+1335	1	17 mpg City, 25 mpg Hwy
+1336	1	17 mpg City, 25 mpg Hwy
+1337	1	17 mpg City, 23 mpg Hwy
+1338	1	17 mpg City, 23 mpg Hwy
+1339	1	17 mpg City, 27 mpg Hwy
+1340	1	17 mpg City, 27 mpg Hwy
+1341	1	20 mpg City, 29 mpg Hwy
+1342	1	21 mpg City, 31 mpg Hwy
+1343	1	17 mpg City, 27 mpg Hwy
+1344	1	17 mpg City, 27 mpg Hwy
+1345	1	21 mpg City, 29 mpg Hwy
+1346	1	21 mpg City, 30 mpg Hwy
+1347	1	21 mpg City, 30 mpg Hwy
+1348	1	21 mpg City, 30 mpg Hwy
+1349	1	18 mpg City, 25 mpg Hwy
+1350	1	18 mpg City, 25 mpg Hwy
+1351	1	18 mpg City, 25 mpg Hwy
+1352	1	17 mpg City, 24 mpg Hwy
+1353	1	-
+1354	1	-
+1355	1	-
+1356	1	-
+1357	1	-
+1358	1	-
+1359	1	-
+1360	1	-
+1361	1	-
+1362	1	-
+1363	1	-
+1364	1	-
+1365	1	-
+1366	1	-
+1367	1	-
+1368	1	-
+1369	1	-
+1370	1	-
+1371	1	-
+1372	1	-
+1373	1	-
+1374	1	-
+1375	1	-
+1376	1	-
+1377	1	18 mpg City, 25 mpg Hwy
+1378	1	18 mpg City, 24 mpg Hwy
+1379	1	17 mpg City, 22 mpg Hwy
+1380	1	16 mpg City, 22 mpg Hwy
+1381	1	21 mpg City, 30 mpg Hwy
+1382	1	21 mpg City, 29 mpg Hwy
+1383	1	20 mpg City, 28 mpg Hwy
+1384	1	20 mpg City, 31 mpg Hwy
+1385	1	21 mpg City, 30 mpg Hwy
+1386	1	20 mpg City, 31 mpg Hwy
+1387	1	20 mpg City, 27 mpg Hwy
+1388	1	20 mpg City, 27 mpg Hwy
+1389	1	21 mpg City, 30 mpg Hwy
+1390	1	21 mpg City, 29 mpg Hwy
+1391	1	15 mpg City, 22 mpg Hwy
+1392	1	20 mpg City, 26 mpg Hwy
+1393	1	19 mpg City, 27 mpg Hwy
+1394	1	20 mpg City, 31 mpg Hwy
+1395	1	20 mpg City, 31 mpg Hwy
+1396	1	19 mpg City, 27 mpg Hwy
+1397	1	18 mpg City, 27 mpg Hwy
+1398	1	16 mpg City, 22 mpg Hwy
+1399	1	18 mpg City, 27 mpg Hwy
+1400	1	16 mpg City, 21 mpg Hwy
+1401	1	18 mpg City, 27 mpg Hwy
+1402	1	16 mpg City, 21 mpg Hwy
+1403	1	16 mpg City, 22 mpg Hwy
+1404	1	28 mpg City, 37 mpg Hwy
+1405	1	28 mpg City, 37 mpg Hwy
+1406	1	28 mpg City, 37 mpg Hwy
+1407	1	15 mpg City, 22 mpg Hwy
+1408	1	15 mpg City, 21 mpg Hwy
+1409	1	13 mpg City, 19 mpg Hwy
+1410	1	15 mpg City, 21 mpg Hwy
+1411	1	21 mpg City, 30 mpg Hwy
+1412	1	21 mpg City, 30 mpg Hwy
+1413	1	23 mpg City, 31 mpg Hwy
+1414	1	23 mpg City, 31 mpg Hwy
+1415	1	23 mpg City, 29 mpg Hwy
+1416	1	23 mpg City, 29 mpg Hwy
+1417	1	16 mpg City, 25 mpg Hwy
+1418	1	-
+1419	1	-
+1420	1	-
+1421	1	-
+1422	1	-
+1423	1	-
+1424	1	-
+1425	1	-
+1426	1	-
+1427	1	-
+1428	1	-
+1429	1	17 mpg City, 24 mpg Hwy
+1430	1	17 mpg City, 24 mpg Hwy
+1431	1	19 mpg City, 25 mpg Hwy
+1432	1	16 mpg City, 24 mpg Hwy
+1433	1	16 mpg City, 24 mpg Hwy
+1434	1	15 mpg City, 23 mpg Hwy
+1435	1	15 mpg City, 23 mpg Hwy
+1436	1	15 mpg City, 23 mpg Hwy
+1437	1	15 mpg City, 23 mpg Hwy
+1438	1	16 mpg City, 22 mpg Hwy
+1439	1	16 mpg City, 21 mpg Hwy
+1440	1	16 mpg City, 21 mpg Hwy
+1441	1	16 mpg City, 21 mpg Hwy
+1442	1	16 mpg City, 22 mpg Hwy
+1443	1	16 mpg City, 21 mpg Hwy
+1444	1	16 mpg City, 21 mpg Hwy
+1445	1	16 mpg City, 21 mpg Hwy
+1446	1	17 mpg City, 24 mpg Hwy
+1447	1	17 mpg City, 24 mpg Hwy
+1448	1	21 mpg City, 30 mpg Hwy
+1449	1	21 mpg City, 30 mpg Hwy
+1450	1	23 mpg City, 31 mpg Hwy
+1451	1	23 mpg City, 29 mpg Hwy
+1452	1	23 mpg City, 29 mpg Hwy
+1453	1	17 mpg City, 25 mpg Hwy
+1454	1	16 mpg City, 25 mpg Hwy
+1455	1	18 mpg City, 26 mpg Hwy
+1456	1	17 mpg City, 25 mpg Hwy
+1457	1	17 mpg City, 23 mpg Hwy
+1458	1	17 mpg City, 23 mpg Hwy
+1459	1	16 mpg City, 23 mpg Hwy
+1460	1	15 mpg City, 20 mpg Hwy
+1461	1	14 mpg City, 18 mpg Hwy
+1462	1	15 mpg City, 20 mpg Hwy
+1463	1	16 mpg City, 23 mpg Hwy
+1464	1	17 mpg City, 24 mpg Hwy
+1465	1	15 mpg City, 23 mpg Hwy
+1466	1	15 mpg City, 23 mpg Hwy
+1467	1	15 mpg City, 21 mpg Hwy
+1468	1	16 mpg City, 22 mpg Hwy
+1469	1	14 mpg City, 20 mpg Hwy
+1470	1	14 mpg City, 20 mpg Hwy
+1471	1	13 mpg City, 18 mpg Hwy
+1472	1	13 mpg City, 18 mpg Hwy
+1473	1	14 mpg City, 19 mpg Hwy
+1474	1	14 mpg City, 20 mpg Hwy
+1475	1	14 mpg City, 19 mpg Hwy
+1476	1	14 mpg City, 19 mpg Hwy
+1477	1	14 mpg City, 19 mpg Hwy
+1478	1	14 mpg City, 20 mpg Hwy
+1479	1	13 mpg City, 18 mpg Hwy
+1480	1	13 mpg City, 18 mpg Hwy
+1481	1	13 mpg City, 18 mpg Hwy
+1482	1	13 mpg City, 18 mpg Hwy
+1483	1	13 mpg City, 18 mpg Hwy
+1484	1	25 mpg City, 35 mpg Hwy
+1485	1	-
+1486	1	-
+1487	1	-
+1488	1	-
+1489	1	-
+1490	1	-
+1491	1	-
+1492	1	-
+1493	1	-
+1494	1	-
+1495	1	-
+1496	1	-
+1497	1	-
+1498	1	-
+1499	1	-
+1500	1	-
+1501	1	-
+1502	1	-
+1503	1	-
+1504	1	-
+1505	1	13 mpg City, 22 mpg Hwy
+1506	1	13 mpg City, 22 mpg Hwy
+1507	1	17 mpg City, 24 mpg Hwy
+1508	1	17 mpg City, 24 mpg Hwy
+1509	1	16 mpg City, 23 mpg Hwy
+1510	1	21 mpg City, 30 mpg Hwy
+1511	1	21 mpg City, 30 mpg Hwy
+1512	1	22 mpg City, 28 mpg Hwy
+1513	1	21 mpg City, 28 mpg Hwy
+1514	1	21 mpg City, 28 mpg Hwy
+1515	1	23 mpg City, 30 mpg Hwy
+1516	1	22 mpg City, 30 mpg Hwy
+1517	1	21 mpg City, 27 mpg Hwy
+1518	1	21 mpg City, 27 mpg Hwy
+1519	1	22 mpg City, 30 mpg Hwy
+1520	1	22 mpg City, 30 mpg Hwy
+1521	1	21 mpg City, 29 mpg Hwy
+1522	1	21 mpg City, 29 mpg Hwy
+1523	1	21 mpg City, 29 mpg Hwy
+1524	1	21 mpg City, 31 mpg Hwy
+1525	1	21 mpg City, 31 mpg Hwy
+1526	1	21 mpg City, 29 mpg Hwy
+1527	1	17 mpg City, 27 mpg Hwy
+1528	1	17 mpg City, 24 mpg Hwy
+1529	1	20 mpg City, 27 mpg Hwy
+1530	1	18 mpg City, 23 mpg Hwy
+1531	1	17 mpg City, 25 mpg Hwy
+1532	1	17 mpg City, 25 mpg Hwy
+1533	1	16 mpg City, 22 mpg Hwy
+1534	1	12 mpg City, 19 mpg Hwy
+1535	1	13 mpg City, 21 mpg Hwy
+1536	1	12 mpg City, 19 mpg Hwy
+1537	1	13 mpg City, 19 mpg Hwy
+1538	1	11 mpg City, 20 mpg Hwy
+1539	1	13 mpg City, 21 mpg Hwy
+1540	1	18 mpg City, 27 mpg Hwy
+1541	1	18 mpg City, 27 mpg Hwy
+1542	1	18 mpg City, 28 mpg Hwy
+1543	1	17 mpg City, 26 mpg Hwy
+1544	1	14 mpg City, 22 mpg Hwy
+1545	1	16 mpg City, 24 mpg Hwy
+1546	1	16 mpg City, 24 mpg Hwy
+1547	1	21 mpg City, 29 mpg Hwy
+1548	1	21 mpg City, 29 mpg Hwy
+1549	1	21 mpg City, 29 mpg Hwy
+1550	1	22 mpg City, 28 mpg Hwy
+1551	1	22 mpg City, 28 mpg Hwy
+1552	1	30 mpg City, 42 mpg Hwy
+1553	1	23 mpg City, 30 mpg Hwy
+1554	1	21 mpg City, 27 mpg Hwy
+1555	1	21 mpg City, 27 mpg Hwy
+1556	1	21 mpg City, 27 mpg Hwy
+1557	1	-
+1558	1	17 mpg City, 26 mpg Hwy
+1559	1	17 mpg City, 26 mpg Hwy
+1560	1	23 mpg City, 30 mpg Hwy
+1561	1	20 mpg City, 26 mpg Hwy
+1562	1	22 mpg City, 30 mpg Hwy
+1563	1	22 mpg City, 30 mpg Hwy
+1564	1	21 mpg City, 27 mpg Hwy
+1565	1	21 mpg City, 27 mpg Hwy
+1566	1	21 mpg City, 27 mpg Hwy
+1567	1	18 mpg City, 28 mpg Hwy
+1568	1	18 mpg City, 26 mpg Hwy
+1569	1	16 mpg City, 23 mpg Hwy
+1570	1	18 mpg City, 23 mpg Hwy
+1571	1	18 mpg City, 23 mpg Hwy
+1572	1	18 mpg City, 23 mpg Hwy
+1573	1	14 mpg City, 19 mpg Hwy
+1574	1	14 mpg City, 19 mpg Hwy
+1575	1	17 mpg City, 25 mpg Hwy
+1576	1	12 mpg City, 20 mpg Hwy
+1577	1	13 mpg City, 18 mpg Hwy
+1578	1	18 mpg City, 28 mpg Hwy
+1579	1	18 mpg City, 28 mpg Hwy
+1580	1	14 mpg City, 22 mpg Hwy
+1581	1	14 mpg City, 22 mpg Hwy
+1582	1	14 mpg City, 19 mpg Hwy
+1583	1	22 mpg City, 27 mpg Hwy
+1584	1	22 mpg City, 27 mpg Hwy
+1585	1	16 mpg City, 21 mpg Hwy
+1586	1	16 mpg City, 21 mpg Hwy
+1587	1	16 mpg City, 21 mpg Hwy
+1588	1	21 mpg City, 29 mpg Hwy
+1589	1	21 mpg City, 29 mpg Hwy
+1590	1	21 mpg City, 29 mpg Hwy
+1591	1	21 mpg City, 29 mpg Hwy
+1592	1	21 mpg City, 29 mpg Hwy
+1593	1	17 mpg City, 24 mpg Hwy
+1594	1	17 mpg City, 24 mpg Hwy
+1595	1	17 mpg City, 24 mpg Hwy
+1596	1	16 mpg City, 23 mpg Hwy
+1597	1	17 mpg City, 24 mpg Hwy
+1598	1	16 mpg City, 23 mpg Hwy
+1599	1	18 mpg City, 24 mpg Hwy
+1600	1	18 mpg City, 25 mpg Hwy
+1601	1	18 mpg City, 24 mpg Hwy
+1602	1	17 mpg City, 23 mpg Hwy
+1603	1	16 mpg City, 21 mpg Hwy
+1604	1	15 mpg City, 20 mpg Hwy
+1605	1	10 mpg City, 16 mpg Hwy
+1606	1	10 mpg City, 16 mpg Hwy
+1607	1	10 mpg City, 16 mpg Hwy
+1608	1	10 mpg City, 16 mpg Hwy
+1609	1	10 mpg City, 16 mpg Hwy
+1610	1	10 mpg City, 16 mpg Hwy
+1611	1	10 mpg City, 16 mpg Hwy
+1612	1	10 mpg City, 16 mpg Hwy
+1613	1	13 mpg City, 17 mpg Hwy
+1614	1	10 mpg City, 16 mpg Hwy
+1615	1	11 mpg City, 17 mpg Hwy
+1616	1	11 mpg City, 16 mpg Hwy
+1617	1	13 mpg City, 17 mpg Hwy
+1618	1	11 mpg City, 16 mpg Hwy
+1619	1	-
+1620	1	11 mpg City, 16 mpg Hwy
+1621	1	15 mpg City, 18 mpg Hwy
+1622	1	14 mpg City, 18 mpg Hwy
+1623	1	15 mpg City, 20 mpg Hwy
+1624	1	14 mpg City, 18 mpg Hwy
+1625	1	13 mpg City, 18 mpg Hwy
+1626	1	13 mpg City, 18 mpg Hwy
+1627	1	14 mpg City, 18 mpg Hwy
+1628	1	14 mpg City, 18 mpg Hwy
+1629	1	15 mpg City, 21 mpg Hwy
+1630	1	15 mpg City, 21 mpg Hwy
+1631	1	13 mpg City, 18 mpg Hwy
+1632	1	15 mpg City, 21 mpg Hwy
+1633	1	14 mpg City, 18 mpg Hwy
+1634	1	13 mpg City, 18 mpg Hwy
+1635	1	13 mpg City, 18 mpg Hwy
+1636	1	20 mpg City, 23 mpg Hwy
+1637	1	-
+1638	1	-
+1639	1	-
+1640	1	-
+1641	1	-
+1642	1	-
+1643	1	-
+1644	1	-
+1645	1	-
+1646	1	-
+1647	1	-
+1648	1	-
+1649	1	-
+1650	1	-
+1651	1	-
+1652	1	-
+1653	1	-
+1654	1	-
+1655	1	-
+1656	1	-
+1657	1	-
+1658	1	-
+1659	1	-
+1660	1	-
+1661	1	-
+1662	1	-
+1663	1	-
+1664	1	-
+1665	1	-
+1666	1	-
+1667	1	-
+1668	1	-
+1669	1	-
+1670	1	-
+1671	1	-
+1672	1	-
+1673	1	-
+1674	1	-
+1675	1	-
+1676	1	-
+1677	1	-
+1678	1	-
+1679	1	-
+1680	1	-
+1681	1	-
+1682	1	-
+1683	1	22 mpg City, 32 mpg Hwy
+1684	1	22 mpg City, 32 mpg Hwy
+1685	1	22 mpg City, 32 mpg Hwy
+1686	1	20 mpg City, 29 mpg Hwy
+1687	1	20 mpg City, 29 mpg Hwy
+1688	1	14 mpg City, 18 mpg Hwy
+1689	1	15 mpg City, 21 mpg Hwy
+1690	1	15 mpg City, 21 mpg Hwy
+1691	1	13 mpg City, 18 mpg Hwy
+1692	1	20 mpg City, 23 mpg Hwy
+1693	1	20 mpg City, 23 mpg Hwy
+1694	1	20 mpg City, 23 mpg Hwy
+1695	1	15 mpg City, 21 mpg Hwy
+1696	1	15 mpg City, 21 mpg Hwy
+1697	1	13 mpg City, 18 mpg Hwy
+1698	1	10 mpg City, 16 mpg Hwy
+1699	1	17 mpg City, 24 mpg Hwy
+1700	1	17 mpg City, 24 mpg Hwy
+1701	1	16 mpg City, 23 mpg Hwy
+1702	1	18 mpg City, 25 mpg Hwy
+1703	1	18 mpg City, 24 mpg Hwy
+1704	1	18 mpg City, 25 mpg Hwy
+1705	1	18 mpg City, 24 mpg Hwy
+1706	1	17 mpg City, 23 mpg Hwy
+1707	1	18 mpg City, 25 mpg Hwy
+1708	1	16 mpg City, 21 mpg Hwy
+1709	1	-
+1710	1	-
+1711	1	-
+1712	1	-
+1713	1	-
+1714	1	-
+1715	1	-
+1716	1	-
+1717	1	13 mpg City, 17 mpg Hwy
+1718	1	13 mpg City, 17 mpg Hwy
+1719	1	-
+1720	1	-
+1721	1	-
+1722	1	13 mpg City, 17 mpg Hwy
+1723	1	13 mpg City, 17 mpg Hwy
+1724	1	-
+1725	1	-
+1726	1	-
+1727	1	-
+1728	1	-
+1729	1	-
+1730	1	-
+1731	1	15 mpg City, 20 mpg Hwy
+1732	1	15 mpg City, 20 mpg Hwy
+1733	1	15 mpg City, 21 mpg Hwy
+1734	1	13 mpg City, 18 mpg Hwy
+1735	1	13 mpg City, 18 mpg Hwy
+1736	1	15 mpg City, 21 mpg Hwy
+1737	1	15 mpg City, 21 mpg Hwy
+1738	1	14 mpg City, 19 mpg Hwy
+1739	1	15 mpg City, 22 mpg Hwy
+1740	1	15 mpg City, 21 mpg Hwy
+1741	1	13 mpg City, 18 mpg Hwy
+1742	1	13 mpg City, 18 mpg Hwy
+1743	1	13 mpg City, 18 mpg Hwy
+1744	1	13 mpg City, 19 mpg Hwy
+1745	1	12 mpg City, 19 mpg Hwy
+1746	1	21 mpg City, 22 mpg Hwy
+1747	1	21 mpg City, 22 mpg Hwy
+1748	1	-
+1749	1	-
+1750	1	-
+1751	1	-
+1752	1	-
+1753	1	-
+1754	1	-
+1755	1	-
+1756	1	-
+1757	1	-
+1758	1	-
+1759	1	-
+1760	1	-
+1761	1	-
+1762	1	-
+1763	1	-
+1764	1	-
+1765	1	-
+1766	1	-
+1767	1	-
+1768	1	-
+1769	1	-
+1770	1	-
+1771	1	-
+1772	1	-
+1773	1	-
+1774	1	22 mpg City, 32 mpg Hwy
+1775	1	22 mpg City, 32 mpg Hwy
+1776	1	22 mpg City, 32 mpg Hwy
+1777	1	20 mpg City, 29 mpg Hwy
+1778	1	20 mpg City, 29 mpg Hwy
+1779	1	15 mpg City, 21 mpg Hwy
+1780	1	15 mpg City, 21 mpg Hwy
+1781	1	13 mpg City, 20 mpg Hwy
+1782	1	21 mpg City, 22 mpg Hwy
+1783	1	15 mpg City, mpg Hwy
+1784	1	26 mpg City, 36 mpg Hwy
+1785	1	-
+1786	1	-
+1787	1	-
+1788	1	-
+1789	1	-
+1790	1	-
+1791	1	-
+1792	1	-
+1793	1	-
+1794	1	-
+1795	1	-
+1796	1	25 mpg City, 34 mpg Hwy
+1797	1	22 mpg City, 32 mpg Hwy
+1798	1	22 mpg City, 32 mpg Hwy
+1799	1	20 mpg City, 28 mpg Hwy
+1800	1	27 mpg City, 36 mpg Hwy
+1801	1	27 mpg City, 36 mpg Hwy
+1802	1	27 mpg City, 36 mpg Hwy
+1803	1	17 mpg City, 23 mpg Hwy
+1804	1	17 mpg City, 23 mpg Hwy
+1805	1	21 mpg City, 29 mpg Hwy
+1806	1	21 mpg City, 27 mpg Hwy
+1807	1	20 mpg City, 26 mpg Hwy
+1808	1	20 mpg City, 26 mpg Hwy
+1809	1	19 mpg City, 25 mpg Hwy
+1810	1	24 mpg City, 30 mpg Hwy
+1811	1	24 mpg City, 30 mpg Hwy
+1812	1	21 mpg City, 29 mpg Hwy
+1813	1	22 mpg City, 31 mpg Hwy
+1814	1	21 mpg City, 28 mpg Hwy
+1815	1	22 mpg City, 32 mpg Hwy
+1816	1	23 mpg City, 31 mpg Hwy
+1817	1	25 mpg City, 34 mpg Hwy
+1818	1	25 mpg City, 34 mpg Hwy
+1819	1	25 mpg City, 34 mpg Hwy
+1820	1	22 mpg City, 32 mpg Hwy
+1821	1	23 mpg City, 31 mpg Hwy
+1822	1	22 mpg City, 32 mpg Hwy
+1823	1	22 mpg City, 32 mpg Hwy
+1824	1	20 mpg City, 28 mpg Hwy
+1825	1	20 mpg City, 28 mpg Hwy
+1826	1	-
+1827	1	-
+1828	1	-
+1829	1	-
+1830	1	28 mpg City, 34 mpg Hwy
+1831	1	27 mpg City, 36 mpg Hwy
+1832	1	28 mpg City, 34 mpg Hwy
+1833	1	28 mpg City, 34 mpg Hwy
+1834	1	17 mpg City, 23 mpg Hwy
+1835	1	17 mpg City, 23 mpg Hwy
+1836	1	24 mpg City, 30 mpg Hwy
+1837	1	24 mpg City, 30 mpg Hwy
+1838	1	24 mpg City, 30 mpg Hwy
+1839	1	24 mpg City, 30 mpg Hwy
+1840	1	20 mpg City, 25 mpg Hwy
+1841	1	18 mpg City, 23 mpg Hwy
+1842	1	27 mpg City, 35 mpg Hwy
+1843	1	27 mpg City, 36 mpg Hwy
+1844	1	26 mpg City, 32 mpg Hwy
+1845	1	25 mpg City, 31 mpg Hwy
+1846	1	28 mpg City, 36 mpg Hwy
+1847	1	26 mpg City, 34 mpg Hwy
+1848	1	25 mpg City, 33 mpg Hwy
+1849	1	17 mpg City, 25 mpg Hwy
+1850	1	18 mpg City, 28 mpg Hwy
+1851	1	23 mpg City, 31 mpg Hwy
+1852	1	22 mpg City, 28 mpg Hwy
+1853	1	27 mpg City, 33 mpg Hwy
+1854	1	27 mpg City, 33 mpg Hwy
+1855	1	27 mpg City, 33 mpg Hwy
+1856	1	22 mpg City, 28 mpg Hwy
+1857	1	27 mpg City, 33 mpg Hwy
+1858	1	21 mpg City, 26 mpg Hwy
+1859	1	21 mpg City, 26 mpg Hwy
+1860	1	21 mpg City, 26 mpg Hwy
+1861	1	21 mpg City, 26 mpg Hwy
+1862	1	-
+1863	1	-
+1864	1	-
+1865	1	-
+1866	1	-
+1867	1	-
+1868	1	-
+1869	1	-
+1870	1	-
+1871	1	18 mpg City, 25 mpg Hwy
+1872	1	34 mpg City, 31 mpg Hwy
+1873	1	22 mpg City, 28 mpg Hwy
+1874	1	22 mpg City, 28 mpg Hwy
+1875	1	20 mpg City, 26 mpg Hwy
+1876	1	22 mpg City, 28 mpg Hwy
+1877	1	12 mpg City, 17 mpg Hwy
+1878	1	12 mpg City, 17 mpg Hwy
+1879	1	14 mpg City, 20 mpg Hwy
+1880	1	14 mpg City, 20 mpg Hwy
+1881	1	14 mpg City, 20 mpg Hwy
+1882	1	14 mpg City, 20 mpg Hwy
+1883	1	12 mpg City, 17 mpg Hwy
+1884	1	12 mpg City, 17 mpg Hwy
+1885	1	14 mpg City, 20 mpg Hwy
+1886	1	14 mpg City, 20 mpg Hwy
+1887	1	13 mpg City, 19 mpg Hwy
+1888	1	14 mpg City, 20 mpg Hwy
+1889	1	13 mpg City, 19 mpg Hwy
+1890	1	13 mpg City, 19 mpg Hwy
+1891	1	14 mpg City, 20 mpg Hwy
+1892	1	13 mpg City, 19 mpg Hwy
+1893	1	13 mpg City, 19 mpg Hwy
+1894	1	15 mpg City, 19 mpg Hwy
+1895	1	15 mpg City, 19 mpg Hwy
+1896	1	14 mpg City, 18 mpg Hwy
+1897	1	14 mpg City, 18 mpg Hwy
+1898	1	15 mpg City, 19 mpg Hwy
+1899	1	14 mpg City, 18 mpg Hwy
+1900	1	14 mpg City, 18 mpg Hwy
+1901	1	14 mpg City, 18 mpg Hwy
+1902	1	14 mpg City, 18 mpg Hwy
+1903	1	14 mpg City, 20 mpg Hwy
+1904	1	14 mpg City, 18 mpg Hwy
+1905	1	14 mpg City, 20 mpg Hwy
+1906	1	15 mpg City, 19 mpg Hwy
+1907	1	15 mpg City, 21 mpg Hwy
+1908	1	15 mpg City, 21 mpg Hwy
+1909	1	14 mpg City, 18 mpg Hwy
+1910	1	14 mpg City, 18 mpg Hwy
+1911	1	14 mpg City, 18 mpg Hwy
+1912	1	14 mpg City, 20 mpg Hwy
+1913	1	14 mpg City, 20 mpg Hwy
+1914	1	14 mpg City, 20 mpg Hwy
+1915	1	15 mpg City, 21 mpg Hwy
+1916	1	15 mpg City, 21 mpg Hwy
+1917	1	14 mpg City, 20 mpg Hwy
+1918	1	15 mpg City, 19 mpg Hwy
+1919	1	15 mpg City, 19 mpg Hwy
+1920	1	15 mpg City, 21 mpg Hwy
+1921	1	24 mpg City, 35 mpg Hwy
+1922	1	24 mpg City, 35 mpg Hwy
+1923	1	41 mpg City, 36 mpg Hwy
+1924	1	17 mpg City, 24 mpg Hwy
+1925	1	18 mpg City, 26 mpg Hwy
+1926	1	18 mpg City, 26 mpg Hwy
+1927	1	18 mpg City, 26 mpg Hwy
+1928	1	16 mpg City, 24 mpg Hwy
+1929	1	22 mpg City, 27 mpg Hwy
+1930	1	22 mpg City, 27 mpg Hwy
+1931	1	15 mpg City, 21 mpg Hwy
+1932	1	15 mpg City, 21 mpg Hwy
+1933	1	-
+1934	1	-
+1935	1	-
+1936	1	-
+1937	1	-
+1938	1	-
+1939	1	-
+1940	1	-
+1941	1	-
+1942	1	-
+1943	1	-
+1944	1	-
+1945	1	-
+1946	1	-
+1947	1	-
+1948	1	-
+1949	1	-
+1950	1	-
+1951	1	-
+1952	1	-
+1953	1	-
+1954	1	-
+1955	1	-
+1956	1	-
+1957	1	-
+1958	1	-
+1959	1	-
+1960	1	-
+1961	1	-
+1962	1	-
+1963	1	-
+1964	1	-
+1965	1	-
+1966	1	-
+1967	1	-
+1968	1	-
+1969	1	-
+1970	1	-
+1971	1	-
+1972	1	18 mpg City, 28 mpg Hwy
+1973	1	17 mpg City, 25 mpg Hwy
+1974	1	17 mpg City, 25 mpg Hwy
+1975	1	22 mpg City, 25 mpg Hwy
+1976	1	18 mpg City, 28 mpg Hwy
+1977	1	20 mpg City, 28 mpg Hwy
+1978	1	18 mpg City, 28 mpg Hwy
+1979	1	18 mpg City, 26 mpg Hwy
+1980	1	19 mpg City, 26 mpg Hwy
+1981	1	17 mpg City, 25 mpg Hwy
+1982	1	18 mpg City, 28 mpg Hwy
+1983	1	19 mpg City, 28 mpg Hwy
+1984	1	23 mpg City, 36 mpg Hwy
+1985	1	17 mpg City, 25 mpg Hwy
+1986	1	15 mpg City, 22 mpg Hwy
+1987	1	19 mpg City, 29 mpg Hwy
+1988	1	20 mpg City, 30 mpg Hwy
+1989	1	19 mpg City, 27 mpg Hwy
+1990	1	15 mpg City, 22 mpg Hwy
+1991	1	17 mpg City, 24 mpg Hwy
+1992	1	17 mpg City, 25 mpg Hwy
+1993	1	14 mpg City, 20 mpg Hwy
+1994	1	14 mpg City, 20 mpg Hwy
+1995	1	13 mpg City, 20 mpg Hwy
+1996	1	14 mpg City, 20 mpg Hwy
+1997	1	12 mpg City, 17 mpg Hwy
+1998	1	14 mpg City, 20 mpg Hwy
+1999	1	17 mpg City, 19 mpg Hwy
