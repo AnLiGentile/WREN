@@ -7,7 +7,6 @@ import java.io.PrintWriter;
 import java.util.Map.Entry;
 import java.util.SortedMap;
 
-
 /**
  * @author annalisa
  *
@@ -18,20 +17,26 @@ public class XpathBuilder {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
+		String experimentName = "testExperiment";
+		String containerFolder = "intermediateProcessingResults";
 		String domain = "book";
 		String website = "book-booksamillion-2000";
 
-		
+		String inFolder = "./temp/pagexpath/testExperiment/" + domain
+				+ File.separator + website; // html pages represented as a set
+											// of xpath-value
 
-		String inFolder = "./temp/pagexpath/testExperiment/"+domain+File.separator+website; // html pages represented as a set of
-											// xpath-value
-		
-		String gazFolder = "./resources/gazetteers/gazWithCardinality/"+domain;
-		
-		String outputFolder = "./temp/"+domain+File.separator+website+File.separator;
-		
-		String xpathFolder = outputFolder+"xpath/"; // where candidate xpaths are
-													// saved
+		String gazFolder = "./resources/gazetteers/gazWithCardinality/"
+				+ domain;
+
+		String outputFolder = "./temp/" + containerFolder + File.separator
+				+ experimentName + File.separator + domain + File.separator
+				+ website + File.separator;
+
+		String xpathFolder = outputFolder + "xpath/"; // where candidate xpaths
+														// are
+														// saved
 		new File(xpathFolder).mkdirs();
 
 		File gf = new File(gazFolder);
@@ -42,12 +47,13 @@ public class XpathBuilder {
 						g.getName().lastIndexOf(".txt"));
 
 				CandidateXpathGenerator.generateCandidatedAnnotations(inFolder,
-						gaz, outputFolder+"rP"+File.separator + att);
-				RemoveBoilerplateFromPages.removeBoilerplate(outputFolder+"rP"+File.separator
-						+ att, outputFolder+"rPNoBoilerp"+File.separator + att);
-				// TODO this is assuming the attribute always has cardinality 1
+						gaz, outputFolder + "rP" + File.separator + att);
+				RemoveBoilerplateFromPages.removeBoilerplate(outputFolder
+						+ "rP" + File.separator + att, outputFolder
+						+ "rPNoBoilerp" + File.separator + att);
+				// TODO this is assuming the attribute always has cardinality >1
 				SortedMap<String, Double> x = BuildValuesMap.rankXpath(
-						outputFolder+"rPNoBoilerp"+File.separator + att, 1);
+						outputFolder + "rPNoBoilerp" + File.separator + att, 10);
 
 				System.out.println("**************************");
 				System.out.println("**************************");

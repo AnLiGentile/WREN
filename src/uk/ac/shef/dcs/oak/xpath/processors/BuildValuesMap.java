@@ -107,24 +107,6 @@ public class BuildValuesMap {
 				}
 				xps = sortMap(xps);
 
-				// if (folder.getName().equals("genre")){
-				// System.out.println(folder.getAbsolutePath()+"********* all genre*********");
-				// System.out.println(xps);
-				//
-				// }
-				// xps.firstKey()
-				// if (xps.firstKey()!=null){
-				// String k = xps.firstKey();
-				// try{
-				// double v = xps.get(k);
-				// }catch (Exception e){
-				// e.printStackTrace();
-				// System.err.println(xps);
-				// }
-				// System.out.println(f.getName()+" "+lines+" "+
-				// " "+xps.firstKey());
-				//
-				// }
 
 				// if there is a predoninant value in the page, keep the xpath,
 				// otherwise do not consider results from the page
