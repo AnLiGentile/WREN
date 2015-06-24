@@ -48,12 +48,14 @@ The folder [resources](./resources) contains:
 The folder [experimentResults](./experimentResults) is the default location where the method saves experimental results.
 
 ### Workflow ###
+
+##### Input
 Input is provided as follows:
 - a folder D which represents the domain and contains subfolders d<sub>i</sub> containing a set of homogeneous *entity-centric* webpages; each webpage is a single html file
 - *for test purposes* we provide example files for the book [book](./resources/datasets/swde-17477/testset/book) domain;
 the subfolders [book-booksamillion-2000](./resources/datasets/swde-17477/testset/book/book-booksamillion-2000) and [book-christianbook-2000](./resources/datasets/swde-17477/testset/book/book-christianbook-2000) contain 2000 pages each, describing books, respectively from http://www.booksamillion.com/ and http://www.christianbook.com/ websites.
 
-#### Page pre-processing ####
+##### Page pre-processing
 
 The original webpages are transformed in an internal xpath-value representation where:
 - we extract all text nodes for each page
@@ -61,8 +63,8 @@ The original webpages are transformed in an internal xpath-value representation 
 - the internal xpath-value representation of pages can be obtained using methods provided in the class [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java)
 - *for test purposes* the main method in [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java) will produce the xpath-value representation of [book](./resources/datasets/swde-17477/testset/book) and save it in the [temp](./temp) folder.
 
-#### Candidate patterns for entity attributes ####
+##### Candidate patterns for entity attributes
 
-#### Boilerplate removal ####
+##### Boilerplate removal
 
-#### Pattern ranking ####
+##### Pattern ranking
