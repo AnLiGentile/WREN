@@ -12,14 +12,19 @@
 
 ### Introduction ###
 
-This projects provides methods to learn website wrappers.
+This project provides methods to learn website wrappers.
 The assumptions are:
 - we have a given Knowledge base K (e.g. DBpedia)
 - we want to extract instances of a particular concept C and its attributes (as defined in K)
-- there is a fixed domain D (e.g. Book) D ={d_1 … d_n} where each d_i is a set of homogeneous *entity-centric* webpages i.e.:
--- each webpage in d_i belongs to the same website (and share a common template)
--- each webpage in d_i describes one entity e of type C
+- there is a fixed domain D (e.g. Book) D ={d<sub>1</sub> … d<sub>n</sub>} where each d<sub>i</sub> is a set of homogeneous *entity-centric* webpages i.e.:
+-- each webpage in d<sub>i</sub> belongs to the same website (and share a common template)
+-- each webpage in d<sub>i</sub> describes one entity e of type C
 
+The method takes as input a set of homogeneous *entity-centric* webpages d<sub>i</sub> describing entities of type C; for each attribute to extract the method takes as input a gazetteer with possible values for the attribute, obtained from K.
+Each gazetteer can be constructed with varying degrees of complexity, from simple SPARQL query, to more complex ones, can be cleaned with outlier detection strategies etc. In this project the gazetteers are assumed given; facilities to generate gazetteers will be released separately.
+The method generates:
+- a set of xpath extractors (the cardinality of the set can be 0, 1 or multiple)
+- results of the extraction performed on d<sub>i</sub> applying the xpath extractors.
 
 A very short presentation can be found [here](http://www.slideshare.net/AnnaGentile/mining-entities-from-the-web) 
 
@@ -43,6 +48,7 @@ The folder [resources](./resources) contains:
 The folder [experimentResults](./experimentResults) is the default location where the method saves experimental results.
 
 ### Workflow ###
+
 
 ### Page pre-processing ###
 
