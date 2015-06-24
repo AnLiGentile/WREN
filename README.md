@@ -5,10 +5,11 @@
 - [Introduction](#introduction)
 - [Resources](#resources)
 - [Workflow](#workflow)
-- [Page pre-processing](#page-pre-processing)
-- [Candidate patterns for entity attributes](#candidate-patterns-for-entity-attributes)
-- [Boilerplate removal](#boilerplate-removal)
-- [Pattern ranking](#pattern-ranking)
+-- [Input](#input)
+-- [Page pre-processing](#page-pre-processing)
+-- [Candidate patterns for entity attributes](#candidate-patterns-for-entity-attributes)
+-- [Boilerplate removal](#boilerplate-removal)
+-- [Pattern ranking](#pattern-ranking)
 
 ### Introduction ###
 
