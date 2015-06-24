@@ -53,17 +53,16 @@ Input is provided as follows:
 - *for test purposes* we provide example files for the book [book](./resources/datasets/swde-17477/testset/book) domain;
 the subfolders [book-booksamillion-2000](./resources/datasets/swde-17477/testset/book/book-booksamillion-2000) and [book-christianbook-2000](./resources/datasets/swde-17477/testset/book/book-christianbook-2000) contain 2000 pages each, describing books, respectively from http://www.booksamillion.com/ and http://www.christianbook.com/ websites.
 
+#### Page pre-processing ####
+
 The original webpages are transformed in an internal xpath-value representation where:
 - we extract all text nodes for each page
 - we save each page as the collection of its text nodes, as pairs of *xpath expression to reach the node* - *text content of the node*
 - the internal xpath-value representation of pages can be obtained using methods provided in the class [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java)
 - *for test purposes* the main method in [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java) will produce the xpath-value representation of [book](./resources/datasets/swde-17477/testset/book) and save it in the [temp](./temp) folder.
 
+#### Candidate patterns for entity attributes ####
 
-### Page pre-processing ###
+#### Boilerplate removal ####
 
-### Candidate patterns for entity attributes ###
-
-### Boilerplate removal ###
-
-### Pattern ranking ###
+#### Pattern ranking ####
