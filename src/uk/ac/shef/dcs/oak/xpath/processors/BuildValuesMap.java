@@ -3,10 +3,7 @@ package uk.ac.shef.dcs.oak.xpath.processors;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -14,8 +11,6 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.SortedMap;
 import java.util.TreeMap;
-
-import org.apache.commons.io.FileUtils;
 
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
 

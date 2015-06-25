@@ -3,7 +3,6 @@ package uk.ac.shef.dcs.oak.rexi;
 import java.io.File;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.SortedMap;
@@ -12,7 +11,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-import org.apache.commons.lang3.tuple.Pair;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -39,18 +37,23 @@ public class REXIController {
     private static final Logger LOGGER = LoggerFactory.getLogger(REXIController.class);
 
     public static void main(String[] args) {
-        REXIController rexi = new REXIController();
+        ExecutorService executor = Executors.newFixedThreadPool(NUMBER_OF_THREADS);
+        try {
+            REXIController rexi = new REXIController(executor);
 
-        Set<Property> properties = new HashSet<Property>();
-        properties.add(new Property("http://example.org/author", "author"));
+            Set<Property> properties = new HashSet<Property>();
+            properties.add(new Property("http://example.org/author", "author"));
 
-        rexi.run(new File("resources/datasets/swde-17477/testset/book"), "book", properties);
+            rexi.run(new File("temp/pagexpath/testExperiment/book"), "book", properties);
+        } finally {
+            executor.shutdown();
+        }
     }
 
     private ExecutorService executor;
 
-    public REXIController() {
-        executor = Executors.newFixedThreadPool(NUMBER_OF_THREADS);
+    public REXIController(ExecutorService executor) {
+        this.executor = executor;
     }
 
     /**
@@ -66,7 +69,7 @@ public class REXIController {
      */
     public void run(File inputFolder, String concept, Set<Property> properties) {
         /*
-         * TODO 3. collect one gazetteer of each p_i in P by looking at all
+         * 3. collect one gazetteer of each p_i in P by looking at all
          * occurrences of concept A in KB both in subj or obj
          */
         Map<Property, Gazetteer> gazetteerMapping = loadGazetteers(properties, concept);
@@ -164,8 +167,8 @@ public class REXIController {
         XPathGenerator generator;
         for (Property property : gazetteerMapping.keySet()) {
             generator = new GenerateAllXpath(concept, domain_i, inputFolder.getAbsolutePath(),
-                    INTERMEDIATE_RESULTS_FOLDER + concept + File.separator + domain_i, GAZETTEERS_FOLDER + concept
-                            + File.separator + property.getLabel() + ".txt", property.getLabel());
+                    INTERMEDIATE_RESULTS_FOLDER + concept + File.separator + domain_i + File.separator,
+                    gazetteerMapping.get(property), property.getLabel());
             generator = new LggXPathGeneratorDecorator(generator);
             threadMapping.put(property, executor.submit(new XPathGeneration(generator)));
         }
@@ -184,13 +187,13 @@ public class REXIController {
     private void applyXPaths(Map<Property, SortedMap<String, Double>> xpaths) {
         // TODO Auto-generated method stub
 
-        // Let's just pring them...
+        // Let's just print them...
         SortedMap<String, Double> paths;
         for (Property property : xpaths.keySet()) {
             System.out.println("***** Property: " + property.getLabel());
             paths = xpaths.get(property);
-            for (String path : paths.keySet()) {
-                System.out.println(path + " " + paths.get(path));
+            for (Map.Entry<String, Double> e : paths.entrySet()) {
+                System.out.println(e.getKey() + " " + e.getValue());
             }
         }
     }

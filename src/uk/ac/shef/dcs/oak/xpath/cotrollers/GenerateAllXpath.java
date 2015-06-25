@@ -4,12 +4,10 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.List;
-import java.util.SortedMap;
 import java.util.Map.Entry;
+import java.util.SortedMap;
 
-import org.apache.commons.lang3.tuple.Pair;
-
+import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.xpath.processors.BuildValuesMap;
 import uk.ac.shef.dcs.oak.xpath.processors.CandidateXpathGenerator;
 import uk.ac.shef.dcs.oak.xpath.processors.RemoveBoilerplateFromPages;
@@ -25,7 +23,7 @@ public class GenerateAllXpath implements XPathGenerator {
 	String domain_i;
 	String domain_iPagesFolder;
 	String domain_iIntermediateResultsFolder;
-	String gazetteerPath;
+	Gazetteer gazetteer;
 	String attributeName;
 
 	@Override
@@ -40,10 +38,10 @@ public class GenerateAllXpath implements XPathGenerator {
 		new File(rPFolder).mkdirs();
 
 		CandidateXpathGenerator.generateCandidatedAnnotations(
-				this.domain_iPagesFolder, this.gazetteerPath, rPFolder);
+				this.domain_iPagesFolder, this.gazetteer.getWords(), rPFolder);
 
 		String rPNoBoilerpFolder = this.domain_iIntermediateResultsFolder
-				+ "rP" + File.separator + this.attributeName;
+				+ "rPNoBoilerp" + File.separator + this.attributeName;
 		new File(rPNoBoilerpFolder).mkdirs();
 
 		RemoveBoilerplateFromPages.removeBoilerplate(rPFolder,
@@ -58,18 +56,19 @@ public class GenerateAllXpath implements XPathGenerator {
 						+ File.separator + this.attributeName, 10);
 
 		// TODO subsitute with l4j debug msg
-		System.out.println("**************************");
-		System.out.println("**************************");
-		System.out.println("**************************");
-		System.out.println("**************************");
+        // System.out.println("**************************");
+        // System.out.println("**************************");
+        // System.out.println("**************************");
+        // System.out.println("**************************");
 		PrintWriter out;
 
 		try {
+	        new File(this.domain_iIntermediateResultsFolder + "xpath").mkdirs();
 			out = new PrintWriter(new FileWriter(
 					this.domain_iIntermediateResultsFolder + "xpath"
 							+ File.separator + this.attributeName + ".txt"));
 			for (Entry<String, Double> e : x.entrySet()) {
-				System.out.println(e.getKey() + " " + e.getValue());
+//				System.out.println(e.getKey() + " " + e.getValue());
 				out.println(e.getKey() + " " + e.getValue());
 
 			}
@@ -85,14 +84,14 @@ public class GenerateAllXpath implements XPathGenerator {
 
 	public GenerateAllXpath(String domain, String domain_i,
 			String domain_iPagesFolder,
-			String domain_iIntermediateResultsFolder, String gazetteerPath,
+			String domain_iIntermediateResultsFolder, Gazetteer gazetteer,
 			String attributeName) {
 		super();
 		this.domain = domain;
 		this.domain_i = domain_i;
 		this.domain_iPagesFolder = domain_iPagesFolder;
 		this.domain_iIntermediateResultsFolder = domain_iIntermediateResultsFolder;
-		this.gazetteerPath = gazetteerPath;
+		this.gazetteer = gazetteer;
 		this.attributeName = attributeName;
 	}
 

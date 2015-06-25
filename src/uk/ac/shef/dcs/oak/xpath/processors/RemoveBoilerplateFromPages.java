@@ -19,87 +19,86 @@ import org.apache.commons.io.FileUtils;
  */
 public class RemoveBoilerplateFromPages {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		String infile = "./reducedPages";
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        String infile = "./reducedPages";
 
-		removeBoilerplate(infile, "./reducedPagesWithoutBoilerplate/");
-	}
+        removeBoilerplate(infile, "./reducedPagesWithoutBoilerplate/");
+    }
 
-	public static void removeBoilerplate(String infolder, String outFolder) {
+    public static void removeBoilerplate(String infolder, String outFolder) {
 
-		PrintWriter out1;
+        PrintWriter out1;
 
-		File folder = new File(infolder);
-		new File(outFolder).mkdirs();
+        File folder = new File(infolder);
+        new File(outFolder).mkdirs();
 
-		Map<String, Set<String>> xp = new HashMap<String, Set<String>>();
+        Map<String, Set<String>> xp = new HashMap<String, Set<String>>();
 
-		for (File f : folder.listFiles()) {
+        for (File f : folder.listFiles()) {
 
-			BufferedReader br;
+            BufferedReader br;
 
-			try {
+            try {
 
-				br = new BufferedReader(new FileReader(f));
+                br = new BufferedReader(new FileReader(f));
 
-				int lines = 0;
+                int lines = 0;
 
-				String nextLine;
+                String nextLine;
 
-				while ((nextLine = br.readLine()) != null) {
-					if (!nextLine.equals("")) {
-						lines++;
-						String t[] = nextLine.split("\t");
-						if (!xp.containsKey(t[0])) {
-							xp.put(t[0], new HashSet<String>());
-							// out1.println(t[0] + "\t"+t[1]);
-						}
-						xp.get(t[0]).add(t[1]);
+                while ((nextLine = br.readLine()) != null) {
+                    if (!nextLine.equals("")) {
+                        lines++;
+                        String t[] = nextLine.split("\t");
+                        if (!xp.containsKey(t[0])) {
+                            xp.put(t[0], new HashSet<String>());
+                            // out1.println(t[0] + "\t"+t[1]);
+                        }
+                        xp.get(t[0]).add(t[1]);
 
-					}
-				}
-				System.out.println(f.getName() + " " + lines);
+                    }
+                }
+                // System.out.println(f.getName() + " " + lines);
 
-				br.close();
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
+                br.close();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
 
-		}
+        }
 
-		for (File f : folder.listFiles()) {
+        for (File f : folder.listFiles()) {
 
-			BufferedReader br;
+            BufferedReader br;
 
-			try {
-				out1 = new PrintWriter(new FileWriter(outFolder
-						+ File.separator + f.getName()));
+            try {
+                out1 = new PrintWriter(new FileWriter(outFolder + File.separator + f.getName()));
 
-				br = new BufferedReader(new FileReader(f));
+                br = new BufferedReader(new FileReader(f));
 
-				String nextLine;
+                String nextLine;
 
-				while ((nextLine = br.readLine()) != null) {
-					if (!nextLine.equals("")) {
-						String t[] = nextLine.split("\t");
-						if (xp.get(t[0]).size() > 1) {
-							out1.println(t[0] + "\t" + t[1]);
-						}
+                while ((nextLine = br.readLine()) != null) {
+                    if (!nextLine.equals("")) {
+                        String t[] = nextLine.split("\t");
+                        if (xp.get(t[0]).size() > 1) {
+                            out1.println(t[0] + "\t" + t[1]);
+                        }
 
-					}
-				}
-				br.close();
-				out1.close();
+                    }
+                }
+                br.close();
+                out1.close();
 
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
 
-		}
-	}
+        }
+    }
 }
