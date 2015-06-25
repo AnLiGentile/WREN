@@ -13,7 +13,15 @@ public class GenerateAllXpath implements XPathGenerator {
 
 	@Override
 	public List<Pair<String, Double>> getXPaths() {
-		// TODO Auto-generated method stub
+		// TODO start from full pages in xpath-value representation
+		
+		// TODO obtain candidates using gazetteers
+		
+		// TODO rank candidates using /src/uk/ac/shef/dcs/oak/xpath/processors/BuildValuesMap.java
+		
+		
+		
+		
 		return null;
 	}
 

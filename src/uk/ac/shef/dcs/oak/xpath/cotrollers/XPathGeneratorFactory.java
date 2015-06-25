@@ -6,7 +6,7 @@ import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.rexi.Property;
 
 
-
+@Deprecated
 public class XPathGeneratorFactory {
 
     private String intermediateResultFolder;
