@@ -6,5 +6,5 @@ Qiang Hao, Rui Cai, Yanwei Pang, and Lei Zhang. [From One Tree to a Forest: a Un
 
 The complete dataset with ground-truth information is publicly available at http://swde.codeplex.com/.
 
-In this folder we replicate a small portion of the dataset to facilitate a quick-start with the using this project.
-
+The folder [groundtruth](./groundtruth) contains the correct anwsers for the whole dataset.
+The folder [testset](./testset) contains only a small portion of the entire test set for testing reasons, to facilitate a quick-start with the using this project.
