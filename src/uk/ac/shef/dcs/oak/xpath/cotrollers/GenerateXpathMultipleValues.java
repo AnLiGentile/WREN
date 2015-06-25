@@ -34,6 +34,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.operations.SetOperations;
 import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
@@ -89,6 +90,11 @@ public class GenerateXpathMultipleValues extends Thread {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+
+	public GenerateXpathMultipleValues(File inputFolder, String concept,
+			Gazetteer gazetteer, String intermediateResultFolder) {
+		// TODO Annalisa to fill
 	}
 
 	private void close() {

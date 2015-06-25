@@ -28,6 +28,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.operations.SetOperations;
 import uk.ac.shef.dcs.oak.operations.TextOperations;
 import uk.ac.shef.dcs.oak.operations.ValueComparator;
@@ -38,7 +39,7 @@ import uk.ac.shef.dcs.oak.util.HtmlDocument;
  * @author annalisa
  *
  */
-public class GenerateXpathSingle extends Thread {
+public class GenerateXpathSingle extends Thread implements XPathGenerator {
 
 	private static Logger l4j = Logger.getLogger(GenerateXpathSingle.class);
 
@@ -87,6 +88,12 @@ public class GenerateXpathSingle extends Thread {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+
+	public GenerateXpathSingle(File inputFolder, String concept,
+			Gazetteer gazetteer, String intermediateResultFolder) {
+
+		//TODO Annalisa to fill
 	}
 
 	private void close() {
@@ -591,6 +598,13 @@ public class GenerateXpathSingle extends Thread {
 				attribute, repetitions);
 
 	}
+	
+	
+	
+	
+	
+	
+	
 
 	public static void genereteXpath(String domain, String gazFolder,
 			String resFolder, String attribute, int repetitions) {
@@ -959,5 +973,11 @@ public class GenerateXpathSingle extends Thread {
 		SortedMap<String, Double> sorted_map = new TreeMap<String, Double>(bvc);
 		sorted_map.putAll(map);
 		return sorted_map;
+	}
+
+	@Override
+	public List<Pair<String, Double>> getXPaths() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }
