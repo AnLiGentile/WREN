@@ -5,6 +5,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 import org.apache.commons.lang3.tuple.Pair;
 import org.slf4j.Logger;
@@ -12,7 +16,7 @@ import org.slf4j.LoggerFactory;
 
 import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGenerator;
-import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGeneratorFactory;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.decorator.LggXPathGeneratorDecorator;
 
 /**
  * FIXME PLEASE RENAME ME AND MY PACKAGE!!!
@@ -29,10 +33,17 @@ public class REXIController {
     private static final String PREPROCESSED_HTML_FILES_FOLDER_NAME = "html";
     private static final String XPATH_FILES_FOLDER_NAME = "xpath";
 
+    private static final int NUMBER_OF_THREADS = 5;
+
     private static final Logger LOGGER = LoggerFactory.getLogger(REXIController.class);
 
     public static void main(String[] args) {
+    }
 
+    private ExecutorService executor;
+
+    public REXIController() {
+        executor = Executors.newFixedThreadPool(NUMBER_OF_THREADS);
     }
 
     /**
@@ -87,21 +98,6 @@ public class REXIController {
          * I would put this in the extraction step
          */
         Map<Property, List<Pair<String, Double>>> xpaths = determineXPaths(domainFolder, concept, gazetteerMapping);
-
-        /*
-         * 6. xpath re-writing The current implementation uses explicit xpaths
-         * expression, without any predicate or special operators; one novelty
-         * direction includes work on rewriting the xpath; also a novel
-         * contribution could be: depending on the output of step (4) we learn
-         * different xpath extractors
-         */
-        /*
-         * 7. @LB @AN: LGG for each d_i the LGG step takes as input the set of
-         * scored xpath from (6) and returns the set of correct extractors (set
-         * can have cardinality 0, 1 or multiple) we can potentially add
-         * heuristics
-         */
-        callLGG(xpaths);
         /*
          * 8. @RU @ALG extraction We apply the extractors returned by (7) to all
          * pages in d_i and create a an attribute representation for each w_i in
@@ -140,36 +136,43 @@ public class REXIController {
 
     private Map<Property, List<Pair<String, Double>>> determineXPaths(File inputFolder, String concept,
             Map<Property, Gazetteer> gazetteerMapping) {
-        XPathGeneratorFactory factory = new XPathGeneratorFactory(TEMP_FOLDER + concept + File.separator
-                + INTERMEDIATE_RESULTS_FOLDER);
-        Map<Property, Thread> threadMapping = new HashMap<Property, Thread>();
-        Thread t;
+        /*
+         * 6. xpath re-writing The current implementation uses explicit xpaths
+         * expression, without any predicate or special operators; one novelty
+         * direction includes work on rewriting the xpath; also a novel
+         * contribution could be: depending on the output of step (4) we learn
+         * different xpath extractors
+         * 
+         * This could be done by another decorator
+         */
+        /*
+         * 7. @LB @AN: LGG for each d_i the LGG step takes as input the set of
+         * scored xpath from (6) and returns the set of correct extractors (set
+         * can have cardinality 0, 1 or multiple) we can potentially add
+         * heuristics
+         */
+        Map<Property, Future<List<Pair<String, Double>>>> threadMapping = new HashMap<Property, Future<List<Pair<String, Double>>>>();
+        XPathGenerator generator;
         for (Property property : gazetteerMapping.keySet()) {
-            t = factory.createGeneratorThread(inputFolder, concept, property, gazetteerMapping.get(property));
-            t.start();
-            threadMapping.put(property, t);
+            generator = null; // TODO
+            generator = new LggXPathGeneratorDecorator(generator);
+            threadMapping.put(property, executor.submit(new XPathGeneration(generator)));
         }
         Map<Property, List<Pair<String, Double>>> xPaths = new HashMap<Property, List<Pair<String, Double>>>();
         for (Property property : threadMapping.keySet()) {
-            t = threadMapping.get(property);
             try {
-                t.join();
-                xPaths.put(property, ((XPathGenerator) t).getXPaths());
-            } catch (InterruptedException e) {
-                LOGGER.error("Got an exception while waiting for a x path generating thread.", e);
+                xPaths.put(property, threadMapping.get(property).get());
+            } catch (InterruptedException | ExecutionException e) {
+                LOGGER.error("Got an exception while trying to execute the x path generation.", e);
             }
-            threadMapping.put(property, t);
         }
+
         return xPaths;
-    }
-
-    private void callLGG(Map<Property, List<Pair<String, Double>>> xpaths) {
-        // TODO Auto-generated method stub
-
     }
 
     private void applyXPaths(Map<Property, List<Pair<String, Double>>> xpaths) {
         // TODO Auto-generated method stub
 
     }
+
 }
