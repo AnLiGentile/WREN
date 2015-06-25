@@ -14,6 +14,14 @@
 
 	</properties>
 
+	<repositories>
+		<!-- Let's use a local repository for the local libraries of this project -->
+		<repository>
+			<id>local repository</id>
+			<url>file://${project.basedir}/repository</url>
+		</repository>
+	</repositories>
+
 
 	<build>
 		<sourceDirectory>src</sourceDirectory>
@@ -56,12 +64,19 @@
 					</execution>
 				</executions>
 			</plugin>
-			
+
 		</plugins>
 	</build>
 
 
 	<dependencies>
+
+		<!-- REX -->
+		<dependency>
+			<groupId>org.aksw</groupId>
+			<artifactId>REX</artifactId>
+			<version>1.0</version>
+		</dependency>
 
 		<!-- Logging -->
 		<dependency>
@@ -77,7 +92,7 @@
 			<artifactId>commons-math3</artifactId>
 			<version>3.2</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
@@ -91,9 +106,9 @@
 			<artifactId>apache-any23-core</artifactId>
 			<version>1.1</version>
 		</dependency>
-		
+
 		<!-- htmlunit -->
-		
+
 		<dependency>
 			<groupId>net.sourceforge.htmlunit</groupId>
 			<artifactId>htmlunit</artifactId>
