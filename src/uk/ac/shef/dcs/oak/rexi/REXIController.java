@@ -22,7 +22,7 @@ import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGeneratorFactory;
  */
 public class REXIController {
 
-    private static final String GAZETTEERS_FOLDER = "resources/gazetteers/gazWithCardinality";
+    private static final String GAZETTEERS_FOLDER = "resources/gazetteers/gazWithCardinality/";
 
     private static final String TEMP_FOLDER = "temp/";
     private static final String INTERMEDIATE_RESULTS_FOLDER = "intermediate/";
@@ -32,7 +32,7 @@ public class REXIController {
     private static final Logger LOGGER = LoggerFactory.getLogger(REXIController.class);
 
     public static void main(String[] args) {
-        
+
     }
 
     /**
@@ -51,8 +51,18 @@ public class REXIController {
          * TODO 3. collect one gazetteer of each p_i in P by looking at all
          * occurrences of concept A in KB both in subj or obj
          */
-        Map<Property, Gazetteer> gazetteerMapping = loadGazetteers(properties);
+        Map<Property, Gazetteer> gazetteerMapping = loadGazetteers(properties, concept);
 
+        // for every domain d_i inside D
+        for (File domainFolder : inputFolder.listFiles()) {
+            if (domainFolder.isDirectory()) {
+                run(domainFolder, concept, properties, gazetteerMapping);
+            }
+        }
+    }
+
+    private void run(File domainFolder, String concept, Set<Property> properties,
+            Map<Property, Gazetteer> gazetteerMapping) {
         /*
          * XXX LATER 4. learning automaton for each p_i at this step we know if:
          * the attribute we want to extract is a “label-like” attribute (mostly
@@ -76,7 +86,7 @@ public class REXIController {
          * provisional URI for each entity represented by each w_i; for clarity
          * I would put this in the extraction step
          */
-        Map<Property, List<Pair<String, Double>>> xpaths = determineXPaths(inputFolder, concept, gazetteerMapping);
+        Map<Property, List<Pair<String, Double>>> xpaths = determineXPaths(domainFolder, concept, gazetteerMapping);
 
         /*
          * 6. xpath re-writing The current implementation uses explicit xpaths
@@ -117,16 +127,15 @@ public class REXIController {
         /*
          * 11. fact checking (optional)
          */
-
     }
 
-    private Map<Property, Gazetteer> loadGazetteers(Set<Property> properties) {
+    private Map<Property, Gazetteer> loadGazetteers(Set<Property> properties, String concept) {
         Map<Property, Gazetteer> gazetteerMapping = new HashMap<Property, Gazetteer>();
         for (Property property : properties) {
-//            Gazetteer gazetteer = new Gazetteer(wordFilePath);
-//            gazetteerMapping.put(arg0, arg1)
+            Gazetteer gazetteer = new Gazetteer(GAZETTEERS_FOLDER + concept + File.separator + property.getLabel());
+            gazetteerMapping.put(property, gazetteer);
         }
-        return null;
+        return gazetteerMapping;
     }
 
     private Map<Property, List<Pair<String, Double>>> determineXPaths(File inputFolder, String concept,
