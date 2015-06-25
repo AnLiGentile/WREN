@@ -5,6 +5,8 @@ import java.io.File;
 import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.rexi.Property;
 
+
+
 public class XPathGeneratorFactory {
 
     private String intermediateResultFolder;
@@ -14,6 +16,7 @@ public class XPathGeneratorFactory {
     }
 
     public Thread createGeneratorThread(File inputFolder, String concept, Property property, Gazetteer gazetteer) {
+    	//TODO this is to check, leave as is for now
         if (property.hasMultipleValues()) {
             return new GenerateXpathMultipleValues(inputFolder, concept, gazetteer, intermediateResultFolder);
         } else {

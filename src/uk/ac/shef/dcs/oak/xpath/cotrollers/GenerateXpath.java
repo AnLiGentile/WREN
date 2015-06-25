@@ -16,6 +16,8 @@ import org.w3c.dom.NodeList;
  * @author annalisa
  *
  */
+@Deprecated 
+// to be substituted by the new controller
 public class GenerateXpath extends Thread {
 
 	private static Logger l4j = Logger.getLogger(GenerateXpath.class);
