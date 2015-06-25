@@ -1,4 +1,5 @@
 /target/
+/reducedPages/
 # ignore eclipse files
 .settings
 .classpath
