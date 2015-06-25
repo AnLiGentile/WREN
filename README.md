@@ -1,8 +1,10 @@
-# LODIE_WI
+# WREN
 
 ## Table of contents ##
 
 * [Introduction](#introduction)
+  * [LODIE_WI](#lodie_wi)
+  * [REX](#rex)
 * [Resources](#resources)
 * [Workflow](#workflow)
   * [Input](#input)
@@ -13,7 +15,11 @@
 
 ### Introduction ###
 
-This project provides methods to learn website wrappers.
+This project is a joint effort to combine technologies from [LODIE_WI](#lodie_wi) and [REX](#rex).
+
+##### LODIE_WI
+LODIE_WI is the Wrapper Induction component from the [LODIE](http://oak.dcs.shef.ac.uk/lodie/) project.
+LODIE_WI provides methods to learn website wrappers.
 The assumptions are:
 - we have a given Knowledge base K (e.g. DBpedia)
 - we want to extract instances of a particular concept C and its attributes (as defined in K)
@@ -39,6 +45,9 @@ Relevant papers:
 - **ISWC 2014**. Anna Lisa Gentile and Suvodeep Mazumdar (2014). [User driven Information Extraction with LODIE](http://ceur-ws.org/Vol-1272/paper_112.pdf). Proceedings of the ISWC 2014 Posters & Demonstrations Track a track within the 13th International Semantic Web Conference (ISWC 2014), 385-388.
 
 You can also view a less than two minutes [demo video](http://staffwww.dcs.shef.ac.uk/people/A.L.Gentile/demo/iswc2014.html).
+
+##### REX
+
 
 ### Resources ###
 The folder [resources](./resources) contains:
