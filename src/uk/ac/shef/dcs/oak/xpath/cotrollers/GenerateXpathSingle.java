@@ -976,7 +976,7 @@ public class GenerateXpathSingle extends Thread implements XPathGenerator {
 	}
 
 	@Override
-	public List<Pair<String, Double>> getXPaths() {
+	public SortedMap<String, Double> getXPaths() {
 		// TODO Auto-generated method stub
 		return null;
 	}

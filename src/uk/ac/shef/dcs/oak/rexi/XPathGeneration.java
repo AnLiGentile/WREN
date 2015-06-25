@@ -1,9 +1,7 @@
 package uk.ac.shef.dcs.oak.rexi;
 
-import java.util.List;
+import java.util.SortedMap;
 import java.util.concurrent.Callable;
-
-import org.apache.commons.lang3.tuple.Pair;
 
 import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGenerator;
 
@@ -14,7 +12,7 @@ import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGenerator;
  * @author Michael R&ouml;der (roeder@informatik.uni-leipzig.de)
  *
  */
-public class XPathGeneration implements Callable<List<Pair<String, Double>>> {
+public class XPathGeneration implements Callable<SortedMap<String, Double>> {
 
     private XPathGenerator generator;
 
@@ -24,7 +22,7 @@ public class XPathGeneration implements Callable<List<Pair<String, Double>>> {
     }
 
     @Override
-    public List<Pair<String, Double>> call() throws Exception {
+    public SortedMap<String, Double> call() throws Exception {
         return generator.getXPaths();
     }
 

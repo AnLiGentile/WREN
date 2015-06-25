@@ -2,9 +2,11 @@ package uk.ac.shef.dcs.oak.rexi;
 
 import java.io.File;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.SortedMap;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -15,6 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import uk.ac.shef.dcs.oak.operations.Gazetteer;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.GenerateAllXpath;
 import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGenerator;
 import uk.ac.shef.dcs.oak.xpath.cotrollers.decorator.LggXPathGeneratorDecorator;
 
@@ -29,15 +32,19 @@ public class REXIController {
     private static final String GAZETTEERS_FOLDER = "resources/gazetteers/gazWithCardinality/";
 
     private static final String TEMP_FOLDER = "temp/";
-    private static final String INTERMEDIATE_RESULTS_FOLDER = "intermediate/";
-    private static final String PREPROCESSED_HTML_FILES_FOLDER_NAME = "html";
-    private static final String XPATH_FILES_FOLDER_NAME = "xpath";
+    private static final String INTERMEDIATE_RESULTS_FOLDER = TEMP_FOLDER + "intermediate/";
 
     private static final int NUMBER_OF_THREADS = 5;
 
     private static final Logger LOGGER = LoggerFactory.getLogger(REXIController.class);
 
     public static void main(String[] args) {
+        REXIController rexi = new REXIController();
+
+        Set<Property> properties = new HashSet<Property>();
+        properties.add(new Property("http://example.org/author", "author"));
+
+        rexi.run(new File("resources/datasets/swde-17477/testset/book"), "book", properties);
     }
 
     private ExecutorService executor;
@@ -72,7 +79,7 @@ public class REXIController {
         }
     }
 
-    private void run(File domainFolder, String concept, Set<Property> properties,
+    private void run(File domain_iFolder, String concept, Set<Property> properties,
             Map<Property, Gazetteer> gazetteerMapping) {
         /*
          * XXX LATER 4. learning automaton for each p_i at this step we know if:
@@ -97,7 +104,8 @@ public class REXIController {
          * provisional URI for each entity represented by each w_i; for clarity
          * I would put this in the extraction step
          */
-        Map<Property, List<Pair<String, Double>>> xpaths = determineXPaths(domainFolder, concept, gazetteerMapping);
+        Map<Property, SortedMap<String, Double>> xpaths = determineXPaths(domain_iFolder, concept,
+                domain_iFolder.getName(), gazetteerMapping);
         /*
          * 8. @RU @ALG extraction We apply the extractors returned by (7) to all
          * pages in d_i and create a an attribute representation for each w_i in
@@ -128,13 +136,14 @@ public class REXIController {
     private Map<Property, Gazetteer> loadGazetteers(Set<Property> properties, String concept) {
         Map<Property, Gazetteer> gazetteerMapping = new HashMap<Property, Gazetteer>();
         for (Property property : properties) {
-            Gazetteer gazetteer = new Gazetteer(GAZETTEERS_FOLDER + concept + File.separator + property.getLabel());
+            Gazetteer gazetteer = new Gazetteer(GAZETTEERS_FOLDER + concept + File.separator + property.getLabel()
+                    + ".txt");
             gazetteerMapping.put(property, gazetteer);
         }
         return gazetteerMapping;
     }
 
-    private Map<Property, List<Pair<String, Double>>> determineXPaths(File inputFolder, String concept,
+    private Map<Property, SortedMap<String, Double>> determineXPaths(File inputFolder, String concept, String domain_i,
             Map<Property, Gazetteer> gazetteerMapping) {
         /*
          * 6. xpath re-writing The current implementation uses explicit xpaths
@@ -151,14 +160,16 @@ public class REXIController {
          * can have cardinality 0, 1 or multiple) we can potentially add
          * heuristics
          */
-        Map<Property, Future<List<Pair<String, Double>>>> threadMapping = new HashMap<Property, Future<List<Pair<String, Double>>>>();
+        Map<Property, Future<SortedMap<String, Double>>> threadMapping = new HashMap<Property, Future<SortedMap<String, Double>>>();
         XPathGenerator generator;
         for (Property property : gazetteerMapping.keySet()) {
-            generator = null; // TODO
+            generator = new GenerateAllXpath(concept, domain_i, inputFolder.getAbsolutePath(),
+                    INTERMEDIATE_RESULTS_FOLDER + concept + File.separator + domain_i, GAZETTEERS_FOLDER + concept
+                            + File.separator + property.getLabel() + ".txt", property.getLabel());
             generator = new LggXPathGeneratorDecorator(generator);
             threadMapping.put(property, executor.submit(new XPathGeneration(generator)));
         }
-        Map<Property, List<Pair<String, Double>>> xPaths = new HashMap<Property, List<Pair<String, Double>>>();
+        Map<Property, SortedMap<String, Double>> xPaths = new HashMap<Property, SortedMap<String, Double>>();
         for (Property property : threadMapping.keySet()) {
             try {
                 xPaths.put(property, threadMapping.get(property).get());
@@ -170,9 +181,18 @@ public class REXIController {
         return xPaths;
     }
 
-    private void applyXPaths(Map<Property, List<Pair<String, Double>>> xpaths) {
+    private void applyXPaths(Map<Property, SortedMap<String, Double>> xpaths) {
         // TODO Auto-generated method stub
 
+        // Let's just pring them...
+        SortedMap<String, Double> paths;
+        for (Property property : xpaths.keySet()) {
+            System.out.println("***** Property: " + property.getLabel());
+            paths = xpaths.get(property);
+            for (String path : paths.keySet()) {
+                System.out.println(path + " " + paths.get(path));
+            }
+        }
     }
 
 }
