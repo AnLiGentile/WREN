@@ -1,4 +1,4 @@
-package uk.ac.shef.dcs.oak.xpath.components;
+package uk.ac.shef.dcs.oak.xpath.cotrollers;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,20 +11,14 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.Random;
 import java.util.Set;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
-import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathExpressionException;
-import javax.xml.xpath.XPathFactory;
 
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
@@ -44,13 +38,16 @@ import uk.ac.shef.dcs.oak.util.HtmlDocument;
  * @author annalisa
  *
  */
-public class GenerateXpathMultipleValues extends Thread {
+public class GenerateXpathSingle extends Thread {
 
-	private static Logger l4j = Logger
-			.getLogger(GenerateXpathMultipleValues.class);
+	private static Logger l4j = Logger.getLogger(GenerateXpathSingle.class);
 
 	private static Set<String> gaz;
 	PrintWriter out;
+
+	PrintWriter allXpathOutput;
+	PrintWriter matchingXpathOutput;
+
 	String outF;
 	File folder;
 	Map<String, Set<String>> xpathDensity;
@@ -76,13 +73,14 @@ public class GenerateXpathMultipleValues extends Thread {
 		this.winnerR = winnerR;
 	}
 
-	public GenerateXpathMultipleValues(File folder, String resFolder) {
+	public GenerateXpathSingle(File folder, String resFolder) {
 
 		try {
 
 			this.outF = resFolder + File.separator + folder.getName() + ".txt";
 			this.folder = folder;
 			this.out = new PrintWriter(new FileWriter(this.outF));
+
 			this.xpathDensity = new HashMap<String, Set<String>>();
 			this.pagesUsedForTraining = 0;
 			this.relaxedXpathMap = new HashMap<String, Set<String>>();
@@ -196,6 +194,10 @@ public class GenerateXpathMultipleValues extends Thread {
 
 					Map<String, String> m = getXpathForTextNodesFromPage(listPages
 							.get(i));
+					for (String k : m.keySet()) {
+						System.err.println(listPages.get(i).getName() + "\t"
+								+ k + "\t" + m.get(k));
+					}
 					// this.out.println(m);
 					for (String x : m.keySet()) {
 						String xp = x;
@@ -499,8 +501,8 @@ public class GenerateXpathMultipleValues extends Thread {
 		Map<String, Set<String>> mfmatch = filterXpath(mf, gaz);
 
 		// TODO switch line use use relax
-		Map<String, Set<String>> mr = this.relaxMap(mfmatch);
-		// Map<String, Set<String>> mr = mfmatch;
+		// Map<String, Set<String>> mr = this.relaxMap(mfmatch);
+		Map<String, Set<String>> mr = mfmatch;
 
 		l4j.info(mr);
 
@@ -572,6 +574,7 @@ public class GenerateXpathMultipleValues extends Thread {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
 		String domain = args[0];
 
 		String gazFolder = args[1];
@@ -584,7 +587,7 @@ public class GenerateXpathMultipleValues extends Thread {
 
 		int repetitions = 15;
 
-		GenerateXpathMultipleValues.genereteXpath(domain, gazFolder, resFolder,
+		GenerateXpathSingle.genereteXpath(domain, gazFolder, resFolder,
 				attribute, repetitions);
 
 	}
@@ -613,11 +616,12 @@ public class GenerateXpathMultipleValues extends Thread {
 
 				// if (firstGx.pagesUsedForTraining<folder.listFiles().length)
 				// {
-				GenerateXpathMultipleValues gxlist[] = new GenerateXpathMultipleValues[repetitions];
+
+				GenerateXpathSingle gxlist[] = new GenerateXpathSingle[repetitions];
 				for (int i = 0; i < repetitions; i++) {
 
-					GenerateXpathMultipleValues gx = new GenerateXpathMultipleValues(
-							folder, resFolder);
+					GenerateXpathSingle gx = new GenerateXpathSingle(folder,
+							resFolder);
 					Thread thread = new Thread(gx);
 					thread.setName(folder.getName());
 					gxlist[i] = gx;
@@ -752,15 +756,15 @@ public class GenerateXpathMultipleValues extends Thread {
 						}
 						// TODO relaxed solution
 
-						for (String s : gxlist[0].relaxedXpathMap.get(winnerR
-								.getKey())) {
-							// gx.out.println("xpath.get(file).add(\"" + s +
-							// "\");");
-							gxlist[0].out.println(s);
-						}
+						// for (String s :
+						// gxlist[0].relaxedXpathMap.get(winnerR.getKey())) {
+						// // gx.out.println("xpath.get(file).add(\"" + s +
+						// "\");");
+						// gxlist[0].out.println(s);
+						// }
 
 						// TODO just a quick fix to try non-relaxed solution
-						// gxlist[0].out.println(winnerR.getKey());
+						gxlist[0].out.println(winnerR.getKey());
 
 						gxlist[0].close();
 					} else {

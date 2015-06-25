@@ -9,7 +9,8 @@ import java.util.SortedMap;
 
 /**
  * @author annalisa
- *
+ * this is mainly a demonstration class
+ * for setting up experiments refer to uk.ac.shef.dcs.oak.xpath.controllers package
  */
 public class XpathBuilder {
 
