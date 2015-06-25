@@ -65,7 +65,22 @@ The original webpages are transformed in an internal xpath-value representation 
 - *for test purposes* the main method in [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java) will produce the xpath-value representation of [book](./resources/datasets/swde-17477/testset/book) and save it in the [temp](./temp) folder.
 
 ##### Candidate patterns for entity attributes
+Given:
+- a set of homogeneous *entity-centric* webpages d<sub>i</sub> in xpath-value representation
+- the attribute p<sub>j</sub> to extract and its relevant gazetter
+
+The method reduces each webpage to a set of xpath-value pairs, which are the candidate xpath extractors as found on the page.
+To create such set, the method matches all the values in the page against the provided gazetteers, and retains only the xpath-value pairs where the value is a strict match.
 
 ##### Boilerplate removal
+Given:
+- the set of candidate xpath-value pairs obtained in previous step, this method implements heuristics to remove spourions xpaths.
+
+This method is optionally applied.
 
 ##### Pattern ranking
+Given:
+- the candidate set of xpath-value pairs for all the pages from d<sub>i</sub>
+
+The method produces a ranke list of xpaths which are the extractors for attribute p<sub>j</sub> from pages in d<sub>i</sub>
+

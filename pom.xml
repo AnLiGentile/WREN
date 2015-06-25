@@ -46,7 +46,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>uk.ac.shef.dcs.oak.xpath.components.GenerateXpath</mainClass>
+							<mainClass>uk.ac.shef.dcs.oak.xpath.controllers.GenerateXpath</mainClass>
 							<!--mainClass>uk.ac.shef.dcs.oak.xpath.processors.ExtractValues</mainClass -->
 						</manifest>
 					</archive>
