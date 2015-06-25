@@ -9,9 +9,7 @@
 * [Workflow](#workflow)
   * [Input](#input)
   * [Page pre-processing](#page-pre-processing)
-  * [Candidate patterns for entity attributes](#candidate-patterns-for-entity-attributes)
-  * [Boilerplate removal](#boilerplate-removal)
-  * [Pattern ranking](#pattern-ranking)
+  * [Identifying extractors for each concept attribute](#identifying-extractors-for-each-concept-attribute)
 
 ### Introduction ###
 
@@ -73,7 +71,9 @@ The original webpages are transformed in an internal xpath-value representation 
 - the internal xpath-value representation of pages can be obtained using methods provided in the class [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java)
 - *for test purposes* the main method in [ReducePagesToXpath](./src/uk/ac/shef/dcs/oak/xpath/processors/ReducePagesToXpath.java) will produce the xpath-value representation of [book](./resources/datasets/swde-17477/testset/book) and save it in the [temp](./temp) folder.
 
-##### Candidate patterns for entity attributes
+##### Identifying extractors for each concept attribute
+
+###### Candidate patterns for entity attributes
 Given:
 - a set of homogeneous *entity-centric* webpages d<sub>i</sub> in xpath-value representation
 - the attribute p<sub>j</sub> to extract and its relevant gazetter
@@ -81,13 +81,13 @@ Given:
 The method reduces each webpage to a set of xpath-value pairs, which are the candidate xpath extractors as found on the page.
 To create such set, the method matches all the values in the page against the provided gazetteers, and retains only the xpath-value pairs where the value is a strict match.
 
-##### Boilerplate removal
+###### Boilerplate removal
 Given:
 - the set of candidate xpath-value pairs obtained in previous step, this method implements heuristics to remove spourions xpaths.
 
 This method is optionally applied.
 
-##### Pattern ranking
+###### Pattern ranking
 Given:
 - the candidate set of xpath-value pairs for all the pages from d<sub>i</sub>
 
