@@ -72,7 +72,7 @@
 	<dependencies>
 
 		<!-- REX -->
-		<dependency>
+ 		<dependency>
 			<groupId>org.aksw</groupId>
 			<artifactId>REX</artifactId>
 			<version>1.0</version>
