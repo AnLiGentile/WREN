@@ -31,13 +31,13 @@ public class CheckResultsAgainstGS {
 	private static String gazFolderCard = "./resources/gazetteers/gazWithCardinality/";
 
 	public double compare(String gsFile, String resultFile) {
-		LoadGS gs = new LoadGS(gsFile);
+		LoadSwdeGS gs = new LoadSwdeGS(gsFile);
 		HashMap<String, Set<String>> gsData = gs.getValues();
 
 		double accuracy = 0;
 		double accuracyPartial = 0;
 
-		LoadGS res = new LoadGS(resultFile);
+		LoadSwdeGS res = new LoadSwdeGS(resultFile);
 		HashMap<String, Set<String>> resData = res.getValues();
 
 		int gsCountPages = 0; // number of pages, 2000 or less
@@ -135,7 +135,7 @@ public class CheckResultsAgainstGS {
 	}
 
 	public double[] precRecall(String gsFile, String resultFile) {
-		LoadGS gs = new LoadGS(gsFile);
+		LoadSwdeGS gs = new LoadSwdeGS(gsFile);
 		HashMap<String, Set<String>> gsData = gs.getValues();
 
 		double[] precisionRecall = { 0, 0 };
@@ -143,7 +143,7 @@ public class CheckResultsAgainstGS {
 		double accuracy = 0;
 		double accuracyPartial = 0;
 
-		LoadGS res = new LoadGS(resultFile);
+		LoadSwdeGS res = new LoadSwdeGS(resultFile);
 		HashMap<String, Set<String>> resData = res.getValues();
 
 		int gsCountPages = 0; // number of pages, 2000 or less
@@ -256,7 +256,7 @@ public class CheckResultsAgainstGS {
 
 	public PrecisionRecall precRecallWithSingleValueExpected(String gsFile,
 			String resultFile) {
-		LoadGS gs = new LoadGS(gsFile);
+		LoadSwdeGS gs = new LoadSwdeGS(gsFile);
 		HashMap<String, Set<String>> gsData = gs.getValues();
 
 		// double [] precisionRecall={0,0};
@@ -267,7 +267,7 @@ public class CheckResultsAgainstGS {
 		double fn = 0; // false negatives: relevantDocumentCount -
 						// relevantResults
 
-		LoadGS res = new LoadGS(resultFile);
+		LoadSwdeGS res = new LoadSwdeGS(resultFile);
 		HashMap<String, Set<String>> resData = res.getValues();
 
 		int resCountTotal = 0; // total number of results from the method
@@ -327,7 +327,7 @@ public class CheckResultsAgainstGS {
 
 	public PrecisionRecall precRecallWithMultipleValueCheck(String gsFile,
 			String resultFile) {
-		LoadGS gs = new LoadGS(gsFile);
+		LoadSwdeGS gs = new LoadSwdeGS(gsFile);
 		HashMap<String, Set<String>> gsData = gs.getValues();
 
 		// double [] precisionRecall={0,0};
@@ -338,7 +338,7 @@ public class CheckResultsAgainstGS {
 		double fn = 0; // false negatives: relevantDocumentCount -
 						// relevantResults
 
-		LoadGS res = new LoadGS(resultFile);
+		LoadSwdeGS res = new LoadSwdeGS(resultFile);
 		HashMap<String, Set<String>> resData = res.getValues();
 
 		int resCountTotal = 0; // total number of results from the method
@@ -613,7 +613,7 @@ public class CheckResultsAgainstGS {
 
 	public HashMap<String, Set<String>> getResFromStrategy(String resultFile) {
 
-		LoadGS res = new LoadGS(resultFile);
+		LoadSwdeGS res = new LoadSwdeGS(resultFile);
 		HashMap<String, Set<String>> resData = res.getValues();
 
 		return resData;

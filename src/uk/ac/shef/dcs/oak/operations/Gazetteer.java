@@ -15,7 +15,7 @@ import java.util.Set;
 
 import org.apache.log4j.Logger;
 
-import uk.ac.shef.dcs.oak.xpath.scorer.LoadGS;
+import uk.ac.shef.dcs.oak.xpath.scorer.LoadSwdeGS;
 
 /**
  * @author annalisa Class to load a Gazeteer from a text file.
@@ -81,7 +81,7 @@ public class Gazetteer implements Serializable {
 			all.add(s.toLowerCase());
 		}
 
-		LoadGS fileGs = new LoadGS(goldStandardFile);
+		LoadSwdeGS fileGs = new LoadSwdeGS(goldStandardFile);
 
 		for (Set<String> s : fileGs.getValues().values()) {
 			for (String t : s) {
