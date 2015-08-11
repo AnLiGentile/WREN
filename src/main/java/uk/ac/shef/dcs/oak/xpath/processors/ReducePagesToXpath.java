@@ -2,10 +2,13 @@ package uk.ac.shef.dcs.oak.xpath.processors;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PrintWriter;
+import java.net.MalformedURLException;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -16,19 +19,29 @@ import java.util.Set;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathExpressionException;
 import javax.xml.xpath.XPathFactory;
 
+import model.Page;
+
+import org.aksw.rex.crawler.CrawlIndex;
+import org.apache.any23.extractor.html.TagSoupParser;
 import org.apache.commons.lang3.tuple.Pair;
 import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
+import org.xml.sax.SAXException;
 
 import uk.ac.shef.dcs.oak.operations.TextOperations;
+import uk.ac.shef.dcs.oak.util.CleanHtmlPAge;
 import uk.ac.shef.dcs.oak.util.DOMUtil;
 import uk.ac.shef.dcs.oak.util.HtmlDocument;
 
@@ -145,6 +158,55 @@ public class ReducePagesToXpath {
 		return xp;
 
 	}
+	
+	
+	/**
+	 * This function extract all nodes in a cached html document which match with
+	 * the class gazetter
+	 * 
+	 * @param doc
+	 *            the cached html page as Document
+	 * @return a map where the key is the xpath and the value is the value of
+	 *         the node identified from the xpath
+	 */
+	public static Map<String, String> getXpathForTextNodesFromPage(Document doc) {
+		Map<String, String> xp = new HashMap<String, String>();
+
+		long START = System.currentTimeMillis();
+
+		try {
+			NodeList nodesORG = findXpathNodeOnHtmlPage(doc, "//text()");
+
+			for (int i = 0; i < nodesORG.getLength(); i++) {
+				Node n = nodesORG.item(i);
+				String v = n.getNodeValue();
+				// I added this line to normalize the text, remove if causes
+				// issues
+				v = TextOperations.normalizeString(v);
+				if (v != null) {
+					if (v.length() > 1) {
+
+						String xpn = DOMUtil.getXPath(nodesORG.item(i));
+
+						// System.out.println("**getAnnotationsFromPage***matching node "
+						// + v.trim() + " " + xpn);
+						xp.put(xpn, v.trim());
+					}
+				}
+				// }
+			}
+
+		} catch (XPathExpressionException e) {
+			e.printStackTrace();
+		}
+
+		// } catch (IOException e) {
+		// e.printStackTrace();
+		// }
+
+		return xp;
+
+	}
 
 	public static void generateStructure(String folder, String outFolder) {
 
@@ -196,6 +258,88 @@ public class ReducePagesToXpath {
 		}
 
 	}
+	
+	
+	/**
+	 * reads pages from Lucene index
+	 * @param index
+	 * @param outFolder
+	 */
+	public static void generateStructure(CrawlIndex index, String outFolder) {
+
+
+		Set<Page> pages = index.getAllPages();
+		
+			System.out.print("generating xpath for " + index.getName());
+
+			for (Page p: pages) {
+				
+				InputStream streamDoc = CleanHtmlPAge.cleanHtmlDocument(p.getDocument());
+				Document d = extractDomForHtmlPage(streamDoc);
+				
+					Map<String, String> m = getXpathForTextNodesFromPage(d);
+
+					PrintWriter page = null;
+					new File(outFolder).mkdirs();
+
+					try {
+						String id = outFolder +  p.getTitle().substring(p.getTitle().lastIndexOf("/"));
+						page = new PrintWriter(new FileWriter(id));
+						SortedMap<String, String> sm = new TreeMap<String, String>();
+						sm.putAll(m);
+
+						for (Entry<String, String> e : sm.entrySet()) {
+							page.write(e.getKey() + "\t" + e.getValue() + "\n");
+						}
+						page.close();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+
+				
+			}
+
+			System.out.println();
+
+			System.out.println("page size = " + pages.size());
+
+			// }
+
+		
+
+	}
+	
+	 
+	  
+		private static Document extractDomForHtmlPage(InputStream inputStream) {
+			Document doc = null;
+			try {
+
+				TagSoupParser tsp = new TagSoupParser(inputStream, "utf-8");
+				doc = tsp.getDOM();
+				inputStream.close();
+
+				
+			} catch (MalformedURLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}finally{
+				if (inputStream!=null){
+					try {
+						inputStream.close();
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}
+			}
+
+			return doc;
+
+		}
 
 	public static Map<String, Set<String>> extractValues(String folder,
 			String xpath) throws XPathExpressionException {
@@ -426,7 +570,9 @@ public class ReducePagesToXpath {
 	 */
 	public static void main(String[] args) {
 
-		String domain = "./resources/datasets/swde-17477/testset/book";
+		
+		//read dataset from file system
+/*		String domain = "./resources/datasets/swde-17477/testset/book";
 
 		String resFolder = "./pagexpath/testExperiment/book/";
 
@@ -437,7 +583,18 @@ public class ReducePagesToXpath {
 						resFolder + f.getName() + File.separator);
 
 			}
-		}
+		}*/
+
+		
+		//read dataset from lucene index
+		String index = "./resources/datasets/REX/testset/espnfc-player-index";
+		String resFolderFromIndex = "./pagexpath/testExperiment/rex/";
+
+		CrawlIndex ci = new CrawlIndex(index);
+
+				ReducePagesToXpath.generateStructure(ci,
+						resFolderFromIndex + File.separator);
+
 
 	}
 

@@ -2,6 +2,7 @@ package uk.ac.shef.dcs.oak.util;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -15,7 +16,17 @@ import java.nio.charset.StandardCharsets;
 import java.util.LinkedList;
 import java.util.Queue;
 
+import javax.xml.transform.Result;
+import javax.xml.transform.Source;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.TransformerFactoryConfigurationError;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
 import org.apache.commons.io.IOUtils;
+import org.w3c.dom.Document;
 
 /**
  * @author annalisa
@@ -23,7 +34,7 @@ import org.apache.commons.io.IOUtils;
 public class CleanHtmlPAge {
 	
 	// convert InputStream to String and remove the DOCTYPE declaration
-	private static String getCleanHtmlString(InputStream is) {
+	public static String getCleanHtmlString(InputStream is) {
  
 		BufferedReader br = null;
 		StringBuilder sb = new StringBuilder();
@@ -54,6 +65,53 @@ public class CleanHtmlPAge {
  
 	}
  
+	// convert InputStream to String and remove the DOCTYPE declaration
+	private static String getCleanHtmlDocument(Document doc) {
+ 
+		
+		ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
+		Source xmlSource = new DOMSource(doc);
+		Result outputTarget = new StreamResult(outputStream);
+		BufferedReader br = null;
+		StringBuilder sb = new StringBuilder();
+		
+		try {
+			TransformerFactory.newInstance().newTransformer().transform(xmlSource, outputTarget);
+			InputStream is = new ByteArrayInputStream(outputStream.toByteArray());
+			 
+			String line;
+			try {
+	 
+				br = new BufferedReader(new InputStreamReader(is));
+				while ((line = br.readLine()) != null) {
+					if (!line.isEmpty()&!line.toUpperCase().startsWith("<!DOCTYPE"))
+					sb.append(line);
+				}
+	 
+			} catch (IOException e) {
+				e.printStackTrace();
+			} finally {
+				if (br != null) {
+					try {
+						br.close();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+				}
+			}
+		} catch (TransformerConfigurationException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} catch (TransformerException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} catch (TransformerFactoryConfigurationError e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		return sb.toString();
+ 	}
+	
 	private static String getHtmlString(InputStream is) {
 		 
 		BufferedReader br = null;
@@ -96,10 +154,17 @@ public class CleanHtmlPAge {
 		String s = getCleanHtmlString(inputStream);
 		InputStream is = getInputStream(s);
 		return is;
-		
-		
+
 	}
 
+	
+	public static InputStream cleanHtmlDocument (Document doc){
+		String s = getCleanHtmlDocument(doc);
+		InputStream is = getInputStream(s);
+		return is;
+
+	}
+	
 	public static void main (String[] args){
     	
     	

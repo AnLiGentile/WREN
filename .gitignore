@@ -1,5 +1,6 @@
 /target/
 /reducedPages/
+/pagexpath/
 # ignore eclipse files
 .settings
 .classpath
