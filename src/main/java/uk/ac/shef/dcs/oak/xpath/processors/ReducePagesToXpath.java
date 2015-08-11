@@ -623,8 +623,8 @@ public class ReducePagesToXpath {
 
 		
 		//read dataset from lucene index
-//		String index = "./resources/datasets/REX/testset/espnfc-player-index";
-		String index = "./resources/datasets/REX/testset/espnfc-team-index-new";
+		String index = "./resources/datasets/REX/testset/espnfc-player-index";
+//		String index = "./resources/datasets/REX/testset/espnfc-team-index-new";
 //		String index = "./resources/datasets/REX/testset/goodreads-author-index";
 //		String index = "./resources/datasets/REX/testset/goodreads-book-index";
 //		String index = "./resources/datasets/REX/testset/imdb-name-index";
