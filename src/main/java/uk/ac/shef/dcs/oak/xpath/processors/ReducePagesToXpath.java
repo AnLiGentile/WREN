@@ -283,7 +283,8 @@ public class ReducePagesToXpath {
 					new File(outFolder).mkdirs();
 
 					try {
-						String id = outFolder +  p.getTitle().substring(p.getTitle().lastIndexOf("/"));
+						String pageName = p.getTitle().endsWith("/")? p.getTitle().substring(0, p.getTitle().length()-1) :p.getTitle();
+						String id = outFolder +  pageName.substring(pageName.lastIndexOf("/"));
 						page = new PrintWriter(new FileWriter(id));
 						SortedMap<String, String> sm = new TreeMap<String, String>();
 						sm.putAll(m);
@@ -294,6 +295,7 @@ public class ReducePagesToXpath {
 						page.close();
 					} catch (IOException e) {
 						e.printStackTrace();
+						System.err.println(p.getTitle());
 					}
 
 				
@@ -587,8 +589,8 @@ public class ReducePagesToXpath {
 
 		
 		//read dataset from lucene index
-		String index = "./resources/datasets/REX/testset/espnfc-player-index";
-//		String index = "./resources/datasets/REX/testset/espnfc-team-index-new";
+//		String index = "./resources/datasets/REX/testset/espnfc-player-index";
+		String index = "./resources/datasets/REX/testset/espnfc-team-index-new";
 //		String index = "./resources/datasets/REX/testset/goodreads-author-index";
 //		String index = "./resources/datasets/REX/testset/goodreads-book-index";
 //		String index = "./resources/datasets/REX/testset/imdb-name-index";
