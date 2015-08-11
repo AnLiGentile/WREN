@@ -9,4 +9,4 @@ Converted datasets include:
   * [soccer](./soccer.zip)
   * [videogame](./videogame.zip)
 
-To convert additional datasets use the class uk.ac.shef.dcs.oak.xpath.processors.ReducePagesToXpath
+To convert additional datasets use the class [uk.ac.shef.dcs.oak.xpath.processors.ReducePagesToXpath](../)
