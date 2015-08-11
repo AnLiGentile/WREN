@@ -87,6 +87,7 @@ public class CleanHtmlPAge {
 					if (!line.isEmpty()&!line.toUpperCase().startsWith("<!DOCTYPE"))
 					sb.append(line);
 				}
+				is.close();
 	 
 			} catch (IOException e) {
 				e.printStackTrace();
@@ -109,6 +110,7 @@ public class CleanHtmlPAge {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
+		
 		return sb.toString();
  	}
 	

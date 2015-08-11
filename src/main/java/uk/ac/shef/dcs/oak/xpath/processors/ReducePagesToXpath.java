@@ -12,6 +12,7 @@ import java.net.MalformedURLException;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -268,23 +269,53 @@ public class ReducePagesToXpath {
 	public static void generateStructure(CrawlIndex index, String outFolder) {
 
 
-		Set<Page> pages = index.getAllPages();
 		
-			System.out.print("generating xpath for " + index.getName());
+		 File outFold = new File(outFolder);
+		 Set<String> processed = new HashSet<String>();
+		 if(outFold.exists()){
+			 File[] files = outFold.listFiles();
+			 for (File f:files){
+				 processed.add(f.getName());
+			 }
+		 }else{
+			 outFold.mkdirs();
+		 }
+ 
+		Set<Page> pages = index.getAllPages();
+			HashMap<String, Integer> ids = null;
+			try {
+				ids = index.getAllDocumentsIds();
+				System.out.println(ids.size()+" "+index.maxId() + " "+index.size());
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+
+			
+		System.out.print("generating xpath for " + index.getName());
+		System.out.println("already processed: "+processed.size() +processed);
 
 			for (Page p: pages) {
-				
+				String pid = ids.get(p.getTitle()).toString();
+				if(!processed.contains(pid))
+				{
 				InputStream streamDoc = CleanHtmlPAge.cleanHtmlDocument(p.getDocument());
 				Document d = extractDomForHtmlPage(streamDoc);
+				try {
+					streamDoc.close();
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
 				
 					Map<String, String> m = getXpathForTextNodesFromPage(d);
 
 					PrintWriter page = null;
-					new File(outFolder).mkdirs();
 
 					try {
-						String pageName = p.getTitle().endsWith("/")? p.getTitle().substring(0, p.getTitle().length()-1) :p.getTitle();
-						String id = outFolder +  pageName.substring(pageName.lastIndexOf("/"));
+//						String pageName = p.getTitle().endsWith("/")? p.getTitle().substring(0, p.getTitle().length()-1) :p.getTitle();
+//						String id = outFolder +  pageName.substring(pageName.lastIndexOf("/"));
+						String id = outFolder + ids.get(p.getTitle());
 						page = new PrintWriter(new FileWriter(id));
 						SortedMap<String, String> sm = new TreeMap<String, String>();
 						sm.putAll(m);
@@ -298,7 +329,9 @@ public class ReducePagesToXpath {
 						System.err.println(p.getTitle());
 					}
 
-				
+			}else{
+				System.err.println(" skipping "+ ids.get(p.getTitle()));
+			}
 			}
 
 			System.out.println();
@@ -312,6 +345,7 @@ public class ReducePagesToXpath {
 	}
 	
 	 
+	
 	  
 		private static Document extractDomForHtmlPage(InputStream inputStream) {
 			Document doc = null;
