@@ -614,8 +614,8 @@ public class ReducePagesToXpath {
 //		String dom = "job";
 //		String dom = "movie";
 //		String dom = "nbaplayer";
-		String dom = "restaurant";
-//		String dom = "university";
+//		String dom = "restaurant";
+		String dom = "university";
 
 		String domain = "/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/testSET/"+dom+"/";
 		String resFolder = "./resources/datasetsWithInternalXPathRepresentation/swde-17477/"+dom+"/";
