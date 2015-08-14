@@ -612,9 +612,9 @@ public class ReducePagesToXpath {
 //		String dom = "book";
 //		String dom = "camera";
 //		String dom = "job";
-		String dom = "movie";
+//		String dom = "movie";
 //		String dom = "nbaplayer";
-//		String dom = "restaurant";
+		String dom = "restaurant";
 //		String dom = "university";
 
 		String domain = "/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/testSET/"+dom+"/";
