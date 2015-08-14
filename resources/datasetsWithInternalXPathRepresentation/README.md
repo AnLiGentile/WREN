@@ -27,6 +27,4 @@ Converted datasets include:
   * [restaurant](./swde-17477/restaurant.7z)
   * [university](./swde-17477/university.7z)
 
-book.7z
-
 To convert additional datasets use the class uk.ac.shef.dcs.oak.xpath.processors.ReducePagesToXpath
