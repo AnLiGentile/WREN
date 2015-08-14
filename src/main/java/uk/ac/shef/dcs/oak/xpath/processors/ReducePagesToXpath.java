@@ -610,9 +610,9 @@ public class ReducePagesToXpath {
 		//read dataset from file system
 //		String dom = "auto";
 //		String dom = "book";
-		String dom = "camera";
+//		String dom = "camera";
 //		String dom = "job";
-//		String dom = "movie";
+		String dom = "movie";
 //		String dom = "nbaplayer";
 //		String dom = "restaurant";
 //		String dom = "university";
