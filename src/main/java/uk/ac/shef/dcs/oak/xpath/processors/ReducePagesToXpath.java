@@ -608,9 +608,17 @@ public class ReducePagesToXpath {
 
 		
 		//read dataset from file system
-/*		String domain = "./resources/datasets/swde-17477/testset/book";
+//		String dom = "auto";
+		String dom = "book";
+//		String dom = "camera";
+//		String dom = "job";
+//		String dom = "movie";
+//		String dom = "nbaplayer";
+//		String dom = "restaurant";
+//		String dom = "university";
 
-		String resFolder = "./pagexpath/testExperiment/book/";
+		String domain = "/Users/annalisa/Documents/CORPORAandDATASETS/swde-17477/testSET/"+dom+"/";
+		String resFolder = "./resources/datasetsWithInternalXPathRepresentation/swde-17477/"+dom+"/";
 
 		File d = new File(domain);
 		for (File f : d.listFiles()) {
@@ -619,10 +627,11 @@ public class ReducePagesToXpath {
 						resFolder + f.getName() + File.separator);
 
 			}
-		}*/
+		}
 
 		
 		//read dataset from lucene index
+		/*
 //		String index = "./resources/datasets/REX/testset/espnfc-player-index";
 //		String index = "./resources/datasets/REX/testset/espnfc-team-index-new";
 //		String index = "./resources/datasets/REX/testset/goodreads-author-index";
@@ -640,7 +649,7 @@ public class ReducePagesToXpath {
 				ReducePagesToXpath.generateStructure(ci,
 						resFolderFromIndex + File.separator);
 
-
+*/
 	}
 
 	// public static void genereteXpath(String domain, String gazFolder, String
