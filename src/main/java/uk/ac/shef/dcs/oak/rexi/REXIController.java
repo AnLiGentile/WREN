@@ -27,7 +27,7 @@ import uk.ac.shef.dcs.oak.xpath.cotrollers.decorator.LggXPathGeneratorDecorator;
  */
 public class REXIController {
 
-    private static final String GAZETTEERS_FOLDER = "resources/gazetteers/gazWithCardinality/";
+    protected static final String GAZETTEERS_FOLDER = "resources/gazetteers/gazWithCardinality/";
 
     private static final String TEMP_FOLDER = "temp/";
     private static final String INTERMEDIATE_RESULTS_FOLDER = TEMP_FOLDER + "intermediate/";
@@ -44,7 +44,7 @@ public class REXIController {
             Set<Property> properties = new HashSet<Property>();
             properties.add(new Property("http://example.org/author", "author"));
 
-            rexi.run(new File("temp/pagexpath/testExperiment/book"), "book", properties);
+            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/book"), "book", properties);
         } finally {
             executor.shutdown();
         }
@@ -136,7 +136,7 @@ public class REXIController {
          */
     }
 
-    private Map<Property, Gazetteer> loadGazetteers(Set<Property> properties, String concept) {
+    protected Map<Property, Gazetteer> loadGazetteers(Set<Property> properties, String concept) {
         Map<Property, Gazetteer> gazetteerMapping = new HashMap<Property, Gazetteer>();
         for (Property property : properties) {
             Gazetteer gazetteer = new Gazetteer(GAZETTEERS_FOLDER + concept + File.separator + property.getLabel()
@@ -146,7 +146,7 @@ public class REXIController {
         return gazetteerMapping;
     }
 
-    private Map<Property, SortedMap<String, Double>> determineXPaths(File inputFolder, String concept, String domain_i,
+    protected Map<Property, SortedMap<String, Double>> determineXPaths(File inputFolder, String concept, String domain_i,
             Map<Property, Gazetteer> gazetteerMapping) {
         /*
          * 6. xpath re-writing The current implementation uses explicit xpaths
@@ -184,7 +184,7 @@ public class REXIController {
         return xPaths;
     }
 
-    private void applyXPaths(Map<Property, SortedMap<String, Double>> xpaths) {
+    protected void applyXPaths(Map<Property, SortedMap<String, Double>> xpaths) {
         // TODO Auto-generated method stub
 
         // Let's just print them...
@@ -197,5 +197,7 @@ public class REXIController {
             }
         }
     }
+    
+    
 
 }
