@@ -517,6 +517,97 @@ public class ExtractValues {
 
 	}
 
+
+
+	// folder is the page as xpath-value
+	public static Map<String, Map<String, Map<String, Set<String>>>> buildXpathValueMapromCachedPages(
+			String folder, Map<String, Set<String>> xpath)
+			throws XPathExpressionException {
+
+		Map<String, Map<String, Map<String, Set<String>>>> attribute_xpath_results = new HashMap<String, Map<String, Map<String, Set<String>>>>();
+
+		Map<String, Map<String, Set<String>>> results = new HashMap<String, Map<String, Set<String>>>();
+		File f = new File(folder);
+
+		for (String att : xpath.keySet()) {
+			attribute_xpath_results.put(att,
+					new HashMap<String, Map<String, Set<String>>>());
+		}
+
+		if (f.isDirectory()) {
+			int c = 0;
+			System.out.print("extracting results for " + folder);
+
+			for (File file : f.listFiles()) {
+				String name = file.getName();
+				c++;
+				if (c % 100 == 0)
+					System.out.println();
+				System.out.print(".");
+
+				for (String k : xpath.keySet()) {
+					BufferedReader br;
+
+					try {
+
+						br = new BufferedReader(new FileReader(file));
+						String nextLine;
+
+						while ((nextLine = br.readLine()) != null) {
+							if (!nextLine.equals("")) {
+								String t[] = nextLine.split("\t");
+								if (xpath.get(k).contains(t[0])) {
+
+									// TODO save value
+									String v = TextOperations
+											.normalizeString(t[1]);
+									if (attribute_xpath_results.get(k)
+											.get(t[0]) == null) {
+										attribute_xpath_results
+												.get(k)
+												.put(t[0],
+														new HashMap<String, Set<String>>());
+									}
+
+									if (v != null) {
+										if (attribute_xpath_results.get(k)
+												.get(t[0]).get(name) == null) {
+											attribute_xpath_results
+													.get(k)
+													.get(t[0])
+													.put(name,
+															new HashSet<String>());
+										}
+										attribute_xpath_results.get(k)
+												.get(t[0]).get(name).add(v);
+
+									}
+
+								}
+
+							}
+						}
+
+						br.close();
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+
+				}
+			}
+
+		}
+
+		System.out.println("****finished extracting results*******");
+
+		
+		return attribute_xpath_results;
+
+	
+		
+	}
+			
 	// TODO folder is the page as xpath-value
 	public static Map<String, Map<String, Set<String>>> extractValuesFromCache(
 			String folder, Map<String, Set<String>> xpath, String gazFolder)

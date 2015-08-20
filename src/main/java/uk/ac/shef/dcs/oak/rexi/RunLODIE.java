@@ -4,6 +4,7 @@ import java.io.File;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.SortedMap;
 import java.util.concurrent.ExecutorService;
@@ -14,6 +15,7 @@ import javax.xml.xpath.XPathExpressionException;
 import model.ExtractedValue;
 import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.xpath.processors.ExtractValues;
+import uk.ac.shef.dcs.oak.xpath.processors.XpathOverlapCalculator;
 
 public class RunLODIE extends REXIController {
 
@@ -51,26 +53,31 @@ public class RunLODIE extends REXIController {
             paths = xpaths.get(property);
             xpath.put(property.getLabel(), new HashSet<String>());
             for (Map.Entry<String, Double> e : paths.entrySet()) {
-                System.out.println(e.getKey() + " " + e.getValue());
+//                System.out.println(e.getKey() + " " + e.getValue());
                 xpath.get(property.getLabel()).add(e.getKey());
             }
         }
         
-/*        try {
-			Map<String, Map<String, Set<String>>> res = ExtractValues.extractValuesFromCache(domain_iFolder.getAbsolutePath(), xpath, GAZETTEERS_FOLDER);
+        try {
+			Map<String, Map<String, Map<String, Set<String>>>> res = ExtractValues.buildXpathValueMapromCachedPages(domain_iFolder.getAbsolutePath(), xpath);
 			
 			// print results
 			if (res != null) {
-				for (String attribute : res.keySet()) {
+				for (Entry<String, Map<String, Map<String, Set<String>>>> attribute : res.entrySet()) {
 //					printAnnotations("./test/test/test", res.get(attribute),
 //							domain, website, attribute);
-					System.out.println(res.get(attribute));
+					 for (Entry<String, Map<String, Set<String>>> e : attribute.getValue().entrySet()){
+					System.out.println(e);
+					
+					 }
+						XpathOverlapCalculator c = new XpathOverlapCalculator(attribute.getValue());
+
 				}
 			}
 		} catch (XPathExpressionException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}*/
+		}
         
     }
     
