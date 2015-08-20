@@ -12,7 +12,6 @@ import java.util.concurrent.Executors;
 
 import javax.xml.xpath.XPathExpressionException;
 
-import model.ExtractedValue;
 import uk.ac.shef.dcs.oak.operations.Gazetteer;
 import uk.ac.shef.dcs.oak.xpath.processors.ExtractValues;
 import uk.ac.shef.dcs.oak.xpath.processors.XpathOverlapCalculator;
@@ -99,10 +98,7 @@ public class RunLODIE extends REXIController {
      */
     @Override
     public void run(File inputFolder, String concept, Set<Property> properties) {
-        /*
-         * 3. collect one gazetteer of each p_i in P by looking at all
-         * occurrences of concept A in KB both in subj or obj
-         */
+
         Map<Property, Gazetteer> gazetteerMapping = loadGazetteers(properties, concept);
 
         // for every domain d_i inside D
@@ -116,11 +112,36 @@ public class RunLODIE extends REXIController {
     private void runLODIE(File domain_iFolder, String concept, Set<Property> properties,
             Map<Property, Gazetteer> gazetteerMapping) {
         
+    	//coollect xpath
         Map<Property, SortedMap<String, Double>> xpaths = determineXPaths(domain_iFolder, concept,
                 domain_iFolder.getName(), gazetteerMapping);
 
         applyXPaths(xpaths, domain_iFolder);
 
     }
+    
+    private void runREX(File domain_iFolder, String concept, Set<Property> properties,
+            Map<Property, Gazetteer> gazetteerMapping) {
+        
+    	//coollect xpath
+        Map<Property, SortedMap<String, Double>> xpaths = determineXPaths(domain_iFolder, concept,
+                domain_iFolder.getName(), gazetteerMapping);
+
+        applyXPaths(xpaths, domain_iFolder);
+
+    }
+    
+    private void runWREN(File domain_iFolder, String concept, Set<Property> properties,
+            Map<Property, Gazetteer> gazetteerMapping) {
+        
+    	//coollect xpath
+        Map<Property, SortedMap<String, Double>> xpaths = determineXPaths(domain_iFolder, concept,
+                domain_iFolder.getName(), gazetteerMapping);
+
+        applyXPaths(xpaths, domain_iFolder);
+
+    }
+    
+    
 
 }

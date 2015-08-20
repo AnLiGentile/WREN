@@ -25,41 +25,24 @@ public class GenerateAllXpath implements XPathGenerator {
 	String domain_iIntermediateResultsFolder;
 	Gazetteer gazetteer;
 	String attributeName;
-
+	SortedMap<String, Double> rankedXpaths;
+	
+	
 	@Override
 	public SortedMap<String, Double> getXPaths() {
-		// this.domain_iIntermediateResultsFolder contains full pages in xpath-value representation
-
-		// **************************
-		// obtain candidates using gazetteers
-
-		String rPFolder = this.domain_iIntermediateResultsFolder + "rP"
-				+ File.separator + this.attributeName;
-		new File(rPFolder).mkdirs();
-
-		CandidateXpathGenerator.generateCandidatedAnnotations(
-				this.domain_iPagesFolder, this.gazetteer.getWords(), rPFolder);
-
-		String rPNoBoilerpFolder = this.domain_iIntermediateResultsFolder
-				+ "rPNoBoilerp" + File.separator + this.attributeName;
-		new File(rPNoBoilerpFolder).mkdirs();
-
-		RemoveBoilerplateFromPages.removeBoilerplate(rPFolder,
-				rPNoBoilerpFolder);
-
-		// **************************
-		// rank candidates
-
+		
+		if (rankedXpaths ==null)
+			buildRankedXpaths();
+		return rankedXpaths;
+	}
+	
+	public SortedMap<String, Double> buildRankedXpaths() {
+		
 		// TODO this is assuming the attribute always has cardinality >1
-		SortedMap<String, Double> x = BuildValuesMap.rankXpath(
+		rankedXpaths = BuildValuesMap.rankXpath(
 				this.domain_iIntermediateResultsFolder + "rPNoBoilerp"
 						+ File.separator + this.attributeName, 10);
 
-		// TODO subsitute with l4j debug msg
-        // System.out.println("**************************");
-        // System.out.println("**************************");
-        // System.out.println("**************************");
-        // System.out.println("**************************");
 		PrintWriter out;
 
 		try {
@@ -67,7 +50,7 @@ public class GenerateAllXpath implements XPathGenerator {
 			out = new PrintWriter(new FileWriter(
 					this.domain_iIntermediateResultsFolder + "xpath"
 							+ File.separator + this.attributeName + ".txt"));
-			for (Entry<String, Double> e : x.entrySet()) {
+			for (Entry<String, Double> e : rankedXpaths.entrySet()) {
 //				System.out.println(e.getKey() + " " + e.getValue());
 				out.println(e.getKey() + " " + e.getValue());
 
@@ -77,8 +60,29 @@ public class GenerateAllXpath implements XPathGenerator {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
+		return rankedXpaths;
+	}
 
-		return x;
+	private void preprocess() {
+		
+		//TODO if this exists already, load from file
+		String rPFolder = this.domain_iIntermediateResultsFolder + "rP"
+				+ File.separator + this.attributeName;
+		new File(rPFolder).mkdirs();
+		CandidateXpathGenerator.generateCandidatedAnnotations(
+				this.domain_iPagesFolder, this.gazetteer.getWords(), rPFolder);
+		
+		
+		//TODO if this exists already, load from file
+		String rPNoBoilerpFolder = this.domain_iIntermediateResultsFolder
+				+ "rPNoBoilerp" + File.separator + this.attributeName;
+		new File(rPNoBoilerpFolder).mkdirs();
+		RemoveBoilerplateFromPages.removeBoilerplate(rPFolder,
+				rPNoBoilerpFolder);
+
+		// **************************
+		// rank candidates
+
 
 	}
 
@@ -93,6 +97,7 @@ public class GenerateAllXpath implements XPathGenerator {
 		this.domain_iIntermediateResultsFolder = domain_iIntermediateResultsFolder;
 		this.gazetteer = gazetteer;
 		this.attributeName = attributeName;
+		preprocess();
 	}
 
 }
