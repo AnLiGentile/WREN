@@ -71,6 +71,11 @@ public class RunLODIE extends REXIController {
 					
 					 }
 						XpathOverlapCalculator c = new XpathOverlapCalculator(attribute.getValue());
+						for (int i =0; i <c.getOverlapMatrix().length; i++){
+							for (int j =0; j <c.getOverlapMatrix()[i].length; j++){
+							System.out.print(c.getOverlapMatrix()[i][j]+"\t");}
+							System.out.println();
+						}
 
 				}
 			}
