@@ -16,16 +16,31 @@ import uk.ac.shef.dcs.oak.xpath.processors.ExtractValues;
 
 public class CheckResultsAgainstGS {
 
+	/**
+	 * @param experimentName a name for the current experiment
+	 * @param annotationFolder folder containing extracted values. This folder contains as many subfolder as many strategies have been tested
+	 * @param gtFolder folder containing groundtruth values
+	 * @param resMultiple folder to save score report
+	 */
+	public CheckResultsAgainstGS(String experimentName,
+			String annotationFolder, String gtFolder, String resMultiple) {
+		super();
+		this.experimentName = experimentName;
+		this.annotationFolder = annotationFolder;
+		this.gtFolder = gtFolder;
+		this.resMultiple = resMultiple;
+	}
+
 	private static Logger l4j = Logger.getLogger(CheckResultsAgainstGS.class);
 
 	// TODO this are just for testing purposes
 	// add read from main args[]
-	private static String experimentName = "testExperiment";
+	private String experimentName = "testExperiment";
 	// this folder contains as many subfolder as many strategies have been
 	// tested
-	private static String annotationFolder = "./extractionResults/testExperiment";
-	private static String gtFolder = "./resources/datasets/swde-17477/groundtruth";
-	private static String resMultiple = "./experimentResults/" + experimentName
+	private String annotationFolder = "./extractionResults/testExperiment";
+	private String gtFolder = "./resources/datasets/swde-17477/groundtruth";
+	private String resMultiple = "./experimentResults/" + experimentName
 			+ File.separator;
 
 	private static String gazFolderCard = "./resources/gazetteers/gazWithCardinality/";
@@ -402,11 +417,22 @@ public class CheckResultsAgainstGS {
 	public static void main(String[] args) {
 
 		l4j.info("started");
-		CheckResultsAgainstGS cr = new CheckResultsAgainstGS();
+		
+		
+		// TODO this are just for testing purposes
+		String en = "testExperiment";
+		String af = "./temp/results";
+				
+		String gf = "./resources/datasets/swde-17477/groundtruth";
+		String r = "./temp/scores/" + en
+				+ File.separator;
+		
+		
+		CheckResultsAgainstGS cr = new CheckResultsAgainstGS(en,af,gf,r);
 
-		File gs = new File(gtFolder);
+		File gs = new File(cr.gtFolder);
 
-		File res = new File(annotationFolder);
+		File res = new File(cr.annotationFolder);
 
 		System.out.print("domain \t website \t attribute");
 
@@ -424,7 +450,7 @@ public class CheckResultsAgainstGS {
 			// outM = new PrintWriter(new FileWriter(resMultiple));
 
 			// new File(resSingle).mkdirs();
-			new File(resMultiple).mkdirs();
+			new File(cr.resMultiple).mkdirs();
 
 			for (File strategy : res.listFiles()) {
 				if (strategy.isDirectory()) {
@@ -433,7 +459,7 @@ public class CheckResultsAgainstGS {
 					// outS.put(strategyName, new PrintWriter(new
 					// FileWriter(resSingle+strategyName+".xls")));
 					outM.put(strategyName, new PrintWriter(new FileWriter(
-							resMultiple + strategyName + ".xls")));
+							cr.resMultiple + strategyName + ".xls")));
 					// outS.get(strategyName).print("domain \t website \t attribute \n"
 					// );
 					outM.get(strategyName).print(

@@ -298,8 +298,9 @@ public class ExtractValues {
 		if (res.isEmpty()) {
 			System.out.println("no results for " + resFolder);
 		} else {
+			String removeCArdRomWebsite = website.substring(0, website.lastIndexOf("-"));
 			printResutls(res, resultsFolder + File.separator
-					+ website + "-" + attribute + ".txt");
+					+ removeCArdRomWebsite + "-" + attribute + ".txt");
 		}
 
 	}
