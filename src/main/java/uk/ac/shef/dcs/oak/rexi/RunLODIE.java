@@ -35,19 +35,99 @@ public class RunLODIE extends REXIController {
 	}
 
 	public static void main(String[] args) {
-        ExecutorService executor = Executors.newFixedThreadPool(5);
-        try {
-        	RunLODIE rexi = new RunLODIE(executor, "book");
+//        ExecutorService executor = Executors.newFixedThreadPool(5);
+//        try {
+//        	RunLODIE rexi = new RunLODIE(executor, "book");
+//
+//            Set<Property> properties = new HashSet<Property>();
+//            properties.add(new Property("http://example.org/title", "title"));
+//            properties.add(new Property("http://example.org/author", "author"));
+//            properties.add(new Property("http://example.org/isbn_13", "isbn"));
+//            properties.add(new Property("http://example.org/publication_date", "publication_date"));
+//            properties.add(new Property("http://example.org/publisher", "publisher"));
+//
+//            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/book"), "book", properties);
+//            
+//            
+//        } finally {
+//            executor.shutdown();
+//        }
+		
+		
+//        ExecutorService executor = Executors.newFixedThreadPool(5);
+//        try {
+//        	RunLODIE rexi = new RunLODIE(executor, "restaurant");
+//
+//            Set<Property> properties = new HashSet<Property>();
+//            properties.add(new Property("http://example.org/address", "address"));
+//            properties.add(new Property("http://example.org/cuisine", "cuisine"));
+//            properties.add(new Property("http://example.org/name", "name"));
+////            properties.add(new Property("http://example.org/phone", "phone"));
+//
+//            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/restaurant"), "restaurant", properties);
+//            
+//            
+//        } finally {
+//            executor.shutdown();
+//        }
+    
 
-            Set<Property> properties = new HashSet<Property>();
-            properties.add(new Property("http://example.org/title", "title"));
-            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/book"), "book", properties);
-            
-            
-        } finally {
-            executor.shutdown();
-        }
-    }
+	
+//    ExecutorService executor = Executors.newFixedThreadPool(5);
+//    try {
+//    	RunLODIE rexi = new RunLODIE(executor, "movie");
+//
+//        Set<Property> properties = new HashSet<Property>();
+//        properties.add(new Property("http://example.org/title", "title"));
+//        properties.add(new Property("http://example.org/genre", "genre"));
+//        properties.add(new Property("http://example.org/mpaa_rating", "mpaa"));
+//        properties.add(new Property("http://example.org/director", "director"));
+//
+//        rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/movie"), "movie", properties);
+//        
+//        
+//    } finally {
+//        executor.shutdown();
+//    }
+		
+	    
+	    
+//	    ExecutorService executor = Executors.newFixedThreadPool(5);
+//	    try {
+//	    	RunLODIE rexi = new RunLODIE(executor, "nbaplayer");
+//
+//	        Set<Property> properties = new HashSet<Property>();
+//	        properties.add(new Property("http://example.org/name", "name"));
+//	        properties.add(new Property("http://example.org/team", "team"));
+//
+//	        rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/nbaplayer"), "nbaplayer", properties);
+//	        
+//	        
+//	    } finally {
+//	        executor.shutdown();
+//	    }
+	    
+      ExecutorService executor_university = Executors.newFixedThreadPool(5);
+      try {
+      	RunLODIE university = new RunLODIE(executor_university, "university");
+
+          Set<Property> properties = new HashSet<Property>();
+          properties.add(new Property("http://example.org/phone", "phone"));
+          properties.add(new Property("http://example.org/website", "website"));
+          properties.add(new Property("http://example.org/name", "name"));
+//          properties.add(new Property("http://example.org/phone", "phone"));
+
+          university.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/university"), "university", properties);
+          
+          
+      } finally {
+          executor_university.shutdown();
+      }
+  
+	    
+	    
+}
+
 
 	
     protected void applyXPaths(Map<Property, SortedMap<String, Double>> xpaths, File domain_iFolder) {
@@ -79,7 +159,7 @@ public class RunLODIE extends REXIController {
 							System.out.println(attribute.getKey());
 
 					System.out.println(e);
-					ExtractValues.printAnnotations(RESULTS_FOLDER, e.getValue(),
+					ExtractValues.printAnnotationsWREN(RESULTS_FOLDER, e.getValue(),
 							this.currentDomain, domain_iFolder.getName(), attribute.getKey());
 					 }
 					 //TODO write a class to show-case this better, with multiple candidates

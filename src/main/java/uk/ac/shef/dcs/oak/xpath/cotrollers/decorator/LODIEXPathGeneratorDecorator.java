@@ -18,6 +18,7 @@ public class LODIEXPathGeneratorDecorator extends AbstractXPathGeneratorDecorato
         // TODO run LODIE multi-template strategy
         
         SortedMap<String, Double> winners = new TreeMap<String, Double>();
+        if (!xpaths.isEmpty())
                 winners.put(xpaths.firstKey(), xpaths.get(xpaths.firstKey()));
                 // TODO having refactoring issues using old code. I need to re-implement the winners logic here
                 // for now I am only getting the first candidate

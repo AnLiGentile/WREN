@@ -283,6 +283,27 @@ public class ExtractValues {
 		}
 
 	}
+	
+	
+	public static void printAnnotationsWREN(String resFolder,
+			Map<String, Set<String>> res, String domain, String website,
+			String attribute) {
+		System.out.println("printing results in " + resFolder);
+
+		File resultsFolder = new File(resFolder+ File.separator + domain);
+
+		if (!resultsFolder.exists())
+			resultsFolder.mkdirs();
+
+		if (res.isEmpty()) {
+			System.out.println("no results for " + resFolder);
+		} else {
+			printResutls(res, resultsFolder + File.separator
+					+ website + "-" + attribute + ".txt");
+		}
+
+	}
+	
 
 	/**
 	 * private method to print a single file

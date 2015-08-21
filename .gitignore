@@ -1,8 +1,10 @@
 /target/
 /reducedPages/
 /pagexpath/
-/temp/
+/temp/intermediate/
 /temp/pagexpath/
+/temp/results/RunLODIE/
+
 # ignore eclipse files
 .settings
 .classpath
