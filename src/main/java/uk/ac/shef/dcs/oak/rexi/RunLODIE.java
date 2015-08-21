@@ -35,77 +35,77 @@ public class RunLODIE extends REXIController {
 	}
 
 	public static void main(String[] args) {
-//        ExecutorService executor = Executors.newFixedThreadPool(5);
-//        try {
-//        	RunLODIE rexi = new RunLODIE(executor, "book");
-//
-//            Set<Property> properties = new HashSet<Property>();
-//            properties.add(new Property("http://example.org/title", "title"));
-//            properties.add(new Property("http://example.org/author", "author"));
-//            properties.add(new Property("http://example.org/isbn_13", "isbn"));
-//            properties.add(new Property("http://example.org/publication_date", "publication_date"));
-//            properties.add(new Property("http://example.org/publisher", "publisher"));
-//
-//            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/book"), "book", properties);
-//            
-//            
-//        } finally {
-//            executor.shutdown();
-//        }
+        ExecutorService executor_book = Executors.newFixedThreadPool(5);
+        try {
+        	RunLODIE book = new RunLODIE(executor_book, "book");
+
+            Set<Property> properties = new HashSet<Property>();
+            properties.add(new Property("http://example.org/title", "title"));
+            properties.add(new Property("http://example.org/author", "author"));
+            properties.add(new Property("http://example.org/isbn_13", "isbn"));
+            properties.add(new Property("http://example.org/publication_date", "publication_date"));
+            properties.add(new Property("http://example.org/publisher", "publisher"));
+
+            book.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/book"), "book", properties);
+            
+            
+        } finally {
+            executor_book.shutdown();
+        }
 		
 		
-//        ExecutorService executor = Executors.newFixedThreadPool(5);
-//        try {
-//        	RunLODIE rexi = new RunLODIE(executor, "restaurant");
-//
-//            Set<Property> properties = new HashSet<Property>();
-//            properties.add(new Property("http://example.org/address", "address"));
-//            properties.add(new Property("http://example.org/cuisine", "cuisine"));
-//            properties.add(new Property("http://example.org/name", "name"));
-////            properties.add(new Property("http://example.org/phone", "phone"));
-//
-//            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/restaurant"), "restaurant", properties);
-//            
-//            
-//        } finally {
-//            executor.shutdown();
-//        }
+        ExecutorService executor_restaurant = Executors.newFixedThreadPool(5);
+        try {
+        	RunLODIE restaurant = new RunLODIE(executor_restaurant, "restaurant");
+
+            Set<Property> properties = new HashSet<Property>();
+            properties.add(new Property("http://example.org/address", "address"));
+            properties.add(new Property("http://example.org/cuisine", "cuisine"));
+            properties.add(new Property("http://example.org/name", "name"));
+//            properties.add(new Property("http://example.org/phone", "phone"));
+
+            restaurant.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/restaurant"), "restaurant", properties);
+            
+            
+        } finally {
+            executor_restaurant.shutdown();
+        }
     
 
 	
-//    ExecutorService executor = Executors.newFixedThreadPool(5);
-//    try {
-//    	RunLODIE rexi = new RunLODIE(executor, "movie");
-//
-//        Set<Property> properties = new HashSet<Property>();
-//        properties.add(new Property("http://example.org/title", "title"));
-//        properties.add(new Property("http://example.org/genre", "genre"));
-//        properties.add(new Property("http://example.org/mpaa_rating", "mpaa"));
-//        properties.add(new Property("http://example.org/director", "director"));
-//
-//        rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/movie"), "movie", properties);
-//        
-//        
-//    } finally {
-//        executor.shutdown();
-//    }
+    ExecutorService executor_movie = Executors.newFixedThreadPool(5);
+    try {
+    	RunLODIE movie = new RunLODIE(executor_movie, "movie");
+
+        Set<Property> properties = new HashSet<Property>();
+        properties.add(new Property("http://example.org/title", "title"));
+        properties.add(new Property("http://example.org/genre", "genre"));
+        properties.add(new Property("http://example.org/mpaa_rating", "mpaa"));
+        properties.add(new Property("http://example.org/director", "director"));
+
+        movie.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/movie"), "movie", properties);
+        
+        
+    } finally {
+        executor_movie.shutdown();
+    }
 		
 	    
 	    
-//	    ExecutorService executor = Executors.newFixedThreadPool(5);
-//	    try {
-//	    	RunLODIE rexi = new RunLODIE(executor, "nbaplayer");
-//
-//	        Set<Property> properties = new HashSet<Property>();
-//	        properties.add(new Property("http://example.org/name", "name"));
-//	        properties.add(new Property("http://example.org/team", "team"));
-//
-//	        rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/nbaplayer"), "nbaplayer", properties);
-//	        
-//	        
-//	    } finally {
-//	        executor.shutdown();
-//	    }
+	    ExecutorService executor_nbaplayer = Executors.newFixedThreadPool(5);
+	    try {
+	    	RunLODIE nbaplayer = new RunLODIE(executor_nbaplayer, "nbaplayer");
+
+	        Set<Property> properties = new HashSet<Property>();
+	        properties.add(new Property("http://example.org/name", "name"));
+	        properties.add(new Property("http://example.org/team", "team"));
+
+	        nbaplayer.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/nbaplayer"), "nbaplayer", properties);
+	        
+	        
+	    } finally {
+	        executor_nbaplayer.shutdown();
+	    }
 	    
       ExecutorService executor_university = Executors.newFixedThreadPool(5);
       try {
