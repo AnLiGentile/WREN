@@ -45,7 +45,7 @@ import uk.ac.shef.dcs.oak.util.HtmlDocument;
  * @author annalisa
  *
  */
-public class GenerateXpathMultipleValues extends Thread {
+public class GenerateXpathMultipleValues extends Thread implements XPathGenerator{
 
 	private static Logger l4j = Logger
 			.getLogger(GenerateXpathMultipleValues.class);
@@ -59,6 +59,34 @@ public class GenerateXpathMultipleValues extends Thread {
 	int pagesUsedForTraining;
 	Pair<String, Double> winnerR;
 
+	String domain;
+	String domain_i;
+	String domain_iPagesFolder;
+	String domain_iIntermediateResultsFolder;
+	Gazetteer gazetteer;
+	String attributeName;
+	SortedMap<String, Double> rankedXpaths;
+	
+	
+	
+	public GenerateXpathMultipleValues(String domain, String domain_i,
+			String domain_iPagesFolder,
+			String domain_iIntermediateResultsFolder, Gazetteer gazetteer,
+			String attributeName) {
+		super();
+		this.domain = domain;
+		this.domain_i = domain_i;
+		this.domain_iPagesFolder = domain_iPagesFolder;
+		this.domain_iIntermediateResultsFolder = domain_iIntermediateResultsFolder;
+		this.gazetteer = gazetteer;
+		this.attributeName = attributeName;
+		this.gaz = gazetteer.getWords();
+
+		
+		
+	}
+	
+	
 	boolean finished = false;
 
 	public boolean isFinished() {
@@ -595,6 +623,7 @@ public class GenerateXpathMultipleValues extends Thread {
 
 	}
 
+	
 	public static void genereteXpath(String domain, String gazFolder,
 			String resFolder, String attribute, int repetitions) {
 
@@ -806,6 +835,414 @@ public class GenerateXpathMultipleValues extends Thread {
 			}
 		}
 	}
+	
+	
+	public static void genereteXpath(String domain, Gazetteer gaz,
+			String resFolder, String attribute, int repetitions) {
+
+		resFolder = resFolder + File.separator + attribute;
+		File f = new File(domain);
+		new File(resFolder).mkdirs();
+		for (File folder : f.listFiles()) {
+			if (folder.isDirectory()) {
+				boolean reliable = true;
+
+				// GenerateXpath firstGx = new GenerateXpath(folder, resFolder);
+				// Thread thread1 = new Thread(firstGx);
+				// thread1.start();
+
+				// if (firstGx.pagesUsedForTraining<folder.listFiles().length)
+				// {
+				GenerateXpathMultipleValues gxlist[] = new GenerateXpathMultipleValues[repetitions];
+				for (int i = 0; i < repetitions; i++) {
+
+					GenerateXpathMultipleValues gx = new GenerateXpathMultipleValues(
+							folder, resFolder);
+					Thread thread = new Thread(gx);
+					thread.setName(folder.getName());
+					gxlist[i] = gx;
+					// gxlist.add(gx);
+					thread.start();
+
+					// Pair<String, Double> currentWinnerR =
+					// gx.generateWinner();
+					// gx.run();
+				}
+
+				//
+
+				for (int i = 0; i < repetitions; i++) {
+
+					try {
+						gxlist[i].join();
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+
+				}
+
+				// Iterator<GenerateXpath> it1 = gxlist.iterator();
+				// while(it1.hasNext()){
+				// Thread thread = new Thread(it1.next());
+				// thread.start();
+				// }
+
+				boolean allFinished = false;
+
+				while (!allFinished) {
+					allFinished = true;
+					// if (!firstGx.isFinished()){
+					// allFinished=false;
+					// System.out.println(firstGx +" is alive");
+					// }
+
+					for (int i = 0; i < gxlist.length; i++) {
+
+						if (!gxlist[i].isFinished()) {
+							allFinished = false;
+							break;
+						}
+					}
+					// System.out.println("Threads still running");
+
+					try {
+						Thread.sleep(1000);
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+
+				}
+
+				// Pair<String, Double> winnerR = firstGx.getWinnerR();
+
+				List<Double> scores = new ArrayList<Double>();
+				// scores[0] = winnerR.getValue();
+
+				Map<String, Double> win = new HashMap<String, Double>();
+				Map<String, Set<String>> winXP = new HashMap<String, Set<String>>();
+
+				for (int i = 0; i < gxlist.length; i++) {
+
+					Pair<String, Double> currentWinnerR = gxlist[i]
+							.getWinnerR();
+					if (currentWinnerR != null) {
+						if (win.get(currentWinnerR.getKey()) == null) {
+							win.put(currentWinnerR.getKey(),
+									currentWinnerR.getValue());
+							winXP.put(currentWinnerR.getKey(),
+									gxlist[i].relaxedXpathMap
+											.get(currentWinnerR.getKey()));
+
+						} else {
+							if (win.get(currentWinnerR.getKey()) < currentWinnerR
+									.getValue()) {
+								win.put(currentWinnerR.getKey(),
+										currentWinnerR.getValue());
+								winXP.put(currentWinnerR.getKey(),
+										gxlist[i].relaxedXpathMap
+												.get(currentWinnerR.getKey()));
+							}
+						}
+						scores.add(currentWinnerR.getValue());
+					}
+				}
+				Entry<String, Double> winnerR = null;
+				if (!win.isEmpty()) {
+					if (win.size() > 1) {
+						reliable = false;
+					} else {
+						winnerR = win.entrySet().iterator().next();
+					}
+				}
+				// }
+				if (reliable) {
+					if (winnerR != null) {
+						DescriptiveStatistics d = new DescriptiveStatistics();
+						for (double s : scores)
+							d.addValue(s);
+
+						System.out
+								.println("***************RELIABLE**************"
+										+ folder);
+						for (double ss : scores) {
+							System.out.print(ss + " ");
+						}
+						System.out.println();
+						System.out.println("mean: " + d.getMean() + " stDev: "
+								+ d.getStandardDeviation());
+						System.out
+								.println("*************************************"
+										+ winnerR);
+
+						System.out.println("Winner XPR \t" + winnerR);
+						System.out.println("Winner XP \t"
+								+ gxlist[0].relaxedXpathMap.get(winnerR
+										.getKey()));
+						for (double ss : scores) {
+							gxlist[0].out.print(ss + " ");
+						}
+						gxlist[0].out.println();
+						try {
+							gxlist[0].out.print("mean: " + d.getMean());
+							gxlist[0].out.println(" stDev: "
+									+ d.getStandardDeviation());
+						} catch (Exception e) {
+							System.err.println("cannot get mean and stdev for "
+									+ folder.getName());
+						}
+						// TODO relaxed solution
+
+						for (String s : gxlist[0].relaxedXpathMap.get(winnerR
+								.getKey())) {
+							// gx.out.println("xpath.get(file).add(\"" + s +
+							// "\");");
+							gxlist[0].out.println(s);
+						}
+
+						// TODO just a quick fix to try non-relaxed solution
+						// gxlist[0].out.println(winnerR.getKey());
+
+						gxlist[0].close();
+					} else {
+						gxlist[0].close();
+						new File(gxlist[0].outF).delete();
+
+					}
+				} else {
+					SortedMap<String, Double> sortwin = sortMap(win);
+
+					System.out
+							.println("***************UNRELIABLE************** "
+									+ folder);
+					gxlist[0].out
+							.println("***************UNRELIABLE**************");
+					System.out.println("******************");
+
+					for (Entry<String, Double> e : sortwin.entrySet()) {
+
+						System.out.println(e.getKey() + "\t" + e.getValue());
+						System.out.println(winXP.get(e.getKey()));
+
+						gxlist[0].out.print(e.getKey() + "\t" + e.getValue()
+								+ "\t");
+						gxlist[0].out.println(winXP.get(e.getKey()));
+
+					}
+					gxlist[0].out.close();
+					System.out.println("******************");
+
+					// for (int i=0; i<gxlist.length; i++){
+					// System.out.println(gxlist[i].getWinnerR());
+					// System.out.println(gxlist[i].relaxedXpathMap.get(gxlist[i].getWinnerR().getKey()));
+					//
+					// }
+				}
+			}
+		}
+	}
+
+	public static void genereteXpathforWREN(String domain, Gazetteer gaz,
+			String resFolder, String attribute, int repetitions) {
+
+		resFolder = resFolder + File.separator + attribute;
+		File folder = new File(domain);
+		new File(resFolder).mkdirs();
+			if (folder.isDirectory()) {
+				boolean reliable = true;
+
+				// GenerateXpath firstGx = new GenerateXpath(folder, resFolder);
+				// Thread thread1 = new Thread(firstGx);
+				// thread1.start();
+
+				// if (firstGx.pagesUsedForTraining<folder.listFiles().length)
+				// {
+				GenerateXpathMultipleValues gxlist[] = new GenerateXpathMultipleValues[repetitions];
+				for (int i = 0; i < repetitions; i++) {
+
+					GenerateXpathMultipleValues gx = new GenerateXpathMultipleValues(
+							folder, resFolder);
+					Thread thread = new Thread(gx);
+					thread.setName(folder.getName());
+					gxlist[i] = gx;
+					// gxlist.add(gx);
+					thread.start();
+
+					// Pair<String, Double> currentWinnerR =
+					// gx.generateWinner();
+					// gx.run();
+				}
+
+				//
+
+				for (int i = 0; i < repetitions; i++) {
+
+					try {
+						gxlist[i].join();
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+
+				}
+
+				// Iterator<GenerateXpath> it1 = gxlist.iterator();
+				// while(it1.hasNext()){
+				// Thread thread = new Thread(it1.next());
+				// thread.start();
+				// }
+
+				boolean allFinished = false;
+
+				while (!allFinished) {
+					allFinished = true;
+					// if (!firstGx.isFinished()){
+					// allFinished=false;
+					// System.out.println(firstGx +" is alive");
+					// }
+
+					for (int i = 0; i < gxlist.length; i++) {
+
+						if (!gxlist[i].isFinished()) {
+							allFinished = false;
+							break;
+						}
+					}
+					// System.out.println("Threads still running");
+
+					try {
+						Thread.sleep(1000);
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+
+				}
+
+				// Pair<String, Double> winnerR = firstGx.getWinnerR();
+
+				List<Double> scores = new ArrayList<Double>();
+				// scores[0] = winnerR.getValue();
+
+				Map<String, Double> win = new HashMap<String, Double>();
+				Map<String, Set<String>> winXP = new HashMap<String, Set<String>>();
+
+				for (int i = 0; i < gxlist.length; i++) {
+
+					Pair<String, Double> currentWinnerR = gxlist[i]
+							.getWinnerR();
+					if (currentWinnerR != null) {
+						if (win.get(currentWinnerR.getKey()) == null) {
+							win.put(currentWinnerR.getKey(),
+									currentWinnerR.getValue());
+							winXP.put(currentWinnerR.getKey(),
+									gxlist[i].relaxedXpathMap
+											.get(currentWinnerR.getKey()));
+
+						} else {
+							if (win.get(currentWinnerR.getKey()) < currentWinnerR
+									.getValue()) {
+								win.put(currentWinnerR.getKey(),
+										currentWinnerR.getValue());
+								winXP.put(currentWinnerR.getKey(),
+										gxlist[i].relaxedXpathMap
+												.get(currentWinnerR.getKey()));
+							}
+						}
+						scores.add(currentWinnerR.getValue());
+					}
+				}
+				Entry<String, Double> winnerR = null;
+				if (!win.isEmpty()) {
+					if (win.size() > 1) {
+						reliable = false;
+					} else {
+						winnerR = win.entrySet().iterator().next();
+					}
+				}
+				// }
+				if (reliable) {
+					if (winnerR != null) {
+						DescriptiveStatistics d = new DescriptiveStatistics();
+						for (double s : scores)
+							d.addValue(s);
+
+						System.out
+								.println("***************RELIABLE**************"
+										+ folder);
+						for (double ss : scores) {
+							System.out.print(ss + " ");
+						}
+						System.out.println();
+						System.out.println("mean: " + d.getMean() + " stDev: "
+								+ d.getStandardDeviation());
+						System.out
+								.println("*************************************"
+										+ winnerR);
+
+						System.out.println("Winner XPR \t" + winnerR);
+						System.out.println("Winner XP \t"
+								+ gxlist[0].relaxedXpathMap.get(winnerR
+										.getKey()));
+						for (double ss : scores) {
+							gxlist[0].out.print(ss + " ");
+						}
+						gxlist[0].out.println();
+						try {
+							gxlist[0].out.print("mean: " + d.getMean());
+							gxlist[0].out.println(" stDev: "
+									+ d.getStandardDeviation());
+						} catch (Exception e) {
+							System.err.println("cannot get mean and stdev for "
+									+ folder.getName());
+						}
+						// TODO relaxed solution
+
+						for (String s : gxlist[0].relaxedXpathMap.get(winnerR
+								.getKey())) {
+							// gx.out.println("xpath.get(file).add(\"" + s +
+							// "\");");
+							gxlist[0].out.println(s);
+						}
+
+						// TODO just a quick fix to try non-relaxed solution
+						// gxlist[0].out.println(winnerR.getKey());
+
+						gxlist[0].close();
+					} else {
+						gxlist[0].close();
+						new File(gxlist[0].outF).delete();
+
+					}
+				} else {
+					SortedMap<String, Double> sortwin = sortMap(win);
+
+					System.out
+							.println("***************UNRELIABLE************** "
+									+ folder);
+					gxlist[0].out
+							.println("***************UNRELIABLE**************");
+					System.out.println("******************");
+
+					for (Entry<String, Double> e : sortwin.entrySet()) {
+
+						System.out.println(e.getKey() + "\t" + e.getValue());
+						System.out.println(winXP.get(e.getKey()));
+
+						gxlist[0].out.print(e.getKey() + "\t" + e.getValue()
+								+ "\t");
+						gxlist[0].out.println(winXP.get(e.getKey()));
+
+					}
+					gxlist[0].out.close();
+					System.out.println("******************");
+
+					// for (int i=0; i<gxlist.length; i++){
+					// System.out.println(gxlist[i].getWinnerR());
+					// System.out.println(gxlist[i].relaxedXpathMap.get(gxlist[i].getWinnerR().getKey()));
+					//
+					// }
+				}
+			}
+
+	}
 
 	private static SortedMap<String, Double> pickCandidates(
 			Map<String, Set<String>> m, Set<String> words) {
@@ -961,5 +1398,16 @@ public class GenerateXpathMultipleValues extends Thread {
 		SortedMap<String, Double> sorted_map = new TreeMap<String, Double>(bvc);
 		sorted_map.putAll(map);
 		return sorted_map;
+	}
+
+	@Override
+	public SortedMap<String, Double> getXPaths() {
+		
+		if (rankedXpaths==null)
+			genereteXpathforWREN(domain_iPagesFolder, gazetteer, domain_iIntermediateResultsFolder
+					+ File.separator + "multiple" + File.separator + domain,
+					attributeName, 5);
+		
+		return rankedXpaths;
 	}
 }

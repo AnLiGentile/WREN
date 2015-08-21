@@ -29,12 +29,12 @@ public class REXIController {
 
     protected static final String GAZETTEERS_FOLDER = "resources/gazetteers/gazWithCardinality/";
 
-    private static final String TEMP_FOLDER = "temp/";
-    private static final String INTERMEDIATE_RESULTS_FOLDER = TEMP_FOLDER + "intermediate/";
+    protected static final String TEMP_FOLDER = "temp/";
+    protected static final String INTERMEDIATE_RESULTS_FOLDER = TEMP_FOLDER + "intermediate/";
 
-    private static final int NUMBER_OF_THREADS = 5;
+    protected static final int NUMBER_OF_THREADS = 5;
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(REXIController.class);
+    protected static final Logger LOGGER = LoggerFactory.getLogger(REXIController.class);
 
     public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(NUMBER_OF_THREADS);
@@ -50,7 +50,7 @@ public class REXIController {
         }
     }
 
-    private ExecutorService executor;
+    protected ExecutorService executor;
 
     public REXIController(ExecutorService executor) {
         this.executor = executor;

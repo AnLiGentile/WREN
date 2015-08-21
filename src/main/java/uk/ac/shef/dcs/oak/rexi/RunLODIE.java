@@ -7,12 +7,19 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 import java.util.SortedMap;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 import javax.xml.xpath.XPathExpressionException;
 
 import uk.ac.shef.dcs.oak.operations.Gazetteer;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.GenerateAllXpath;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.GenerateXpathMultipleValues;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.XPathGenerator;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.decorator.LODIEXPathGeneratorDecorator;
+import uk.ac.shef.dcs.oak.xpath.cotrollers.decorator.LggXPathGeneratorDecorator;
 import uk.ac.shef.dcs.oak.xpath.processors.ExtractValues;
 import uk.ac.shef.dcs.oak.xpath.processors.XpathOverlapCalculator;
 
@@ -120,28 +127,30 @@ public class RunLODIE extends REXIController {
 
     }
     
-    private void runREX(File domain_iFolder, String concept, Set<Property> properties,
+   
+    @Override
+    protected Map<Property, SortedMap<String, Double>> determineXPaths(File inputFolder, String concept, String domain_i,
             Map<Property, Gazetteer> gazetteerMapping) {
-        
-    	//coollect xpath
-        Map<Property, SortedMap<String, Double>> xpaths = determineXPaths(domain_iFolder, concept,
-                domain_iFolder.getName(), gazetteerMapping);
 
-        applyXPaths(xpaths, domain_iFolder);
+    	Map<Property, Future<SortedMap<String, Double>>> threadMapping = new HashMap<Property, Future<SortedMap<String, Double>>>();
+    	XPathGenerator generator;
+        for (Property property : gazetteerMapping.keySet()) {
+            generator = new GenerateAllXpath(concept, domain_i, inputFolder.getAbsolutePath(),
+                    INTERMEDIATE_RESULTS_FOLDER + concept + File.separator + domain_i + File.separator,
+                    gazetteerMapping.get(property), property.getLabel());
+            generator = new LODIEXPathGeneratorDecorator(generator);
+            threadMapping.put(property, executor.submit(new XPathGeneration(generator)));
+        }
+        Map<Property, SortedMap<String, Double>> xPaths = new HashMap<Property, SortedMap<String, Double>>();
+        for (Property property : threadMapping.keySet()) {
+            try {
+                xPaths.put(property, threadMapping.get(property).get());
+            } catch (InterruptedException | ExecutionException e) {
+                LOGGER.error("Got an exception while trying to execute the x path generation.", e);
+            }
+        }
 
+        return xPaths;
     }
-    
-    private void runWREN(File domain_iFolder, String concept, Set<Property> properties,
-            Map<Property, Gazetteer> gazetteerMapping) {
-        
-    	//coollect xpath
-        Map<Property, SortedMap<String, Double>> xpaths = determineXPaths(domain_iFolder, concept,
-                domain_iFolder.getName(), gazetteerMapping);
-
-        applyXPaths(xpaths, domain_iFolder);
-
-    }
-    
-    
 
 }
