@@ -31,6 +31,7 @@ public class REXIController {
 
     protected static final String TEMP_FOLDER = "temp/";
     protected static final String INTERMEDIATE_RESULTS_FOLDER = TEMP_FOLDER + "intermediate/";
+    protected String RESULTS_FOLDER;
 
     protected static final int NUMBER_OF_THREADS = 5;
 
@@ -53,6 +54,7 @@ public class REXIController {
     protected ExecutorService executor;
 
     public REXIController(ExecutorService executor) {
+    	this.RESULTS_FOLDER =  TEMP_FOLDER + "results/"+this.getClass().getSimpleName()+"/";
         this.executor = executor;
     }
 

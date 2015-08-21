@@ -16,6 +16,7 @@ public class LODIEXPathGeneratorDecorator extends AbstractXPathGeneratorDecorato
     public SortedMap<String, Double> getXPaths() {
         SortedMap<String, Double> xpaths = this.generator.getXPaths();
         // TODO run LODIE multi-template strategy
+        
         SortedMap<String, Double> winners = new TreeMap<String, Double>();
                 winners.put(xpaths.firstKey(), xpaths.get(xpaths.firstKey()));
                 // TODO having refactoring issues using old code. I need to re-implement the winners logic here

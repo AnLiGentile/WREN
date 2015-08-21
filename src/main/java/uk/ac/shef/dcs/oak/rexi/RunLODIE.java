@@ -24,20 +24,24 @@ import uk.ac.shef.dcs.oak.xpath.processors.ExtractValues;
 import uk.ac.shef.dcs.oak.xpath.processors.XpathOverlapCalculator;
 
 public class RunLODIE extends REXIController {
+	
+	String currentDomain;
+	
 
-    public RunLODIE(ExecutorService executor) {
+    public RunLODIE(ExecutorService executor, String string) {
 		super(executor);
+		this.currentDomain = string;
 		// TODO Auto-generated constructor stub
 	}
 
 	public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(5);
         try {
-        	RunLODIE rexi = new RunLODIE(executor);
+        	RunLODIE rexi = new RunLODIE(executor, "book");
 
             Set<Property> properties = new HashSet<Property>();
             properties.add(new Property("http://example.org/title", "title"));
-            rexi.run(new File("./pagexpath/testExperiment/book"), "book", properties);
+            rexi.run(new File("./resources/datasetsWithInternalXPathRepresentation/swde-17477/book"), "book", properties);
             
             
         } finally {
@@ -70,12 +74,15 @@ public class RunLODIE extends REXIController {
 			// print results
 			if (res != null) {
 				for (Entry<String, Map<String, Map<String, Set<String>>>> attribute : res.entrySet()) {
-//					printAnnotations("./test/test/test", res.get(attribute),
-//							domain, website, attribute);
+
 					 for (Entry<String, Map<String, Set<String>>> e : attribute.getValue().entrySet()){
+							System.out.println(attribute.getKey());
+
 					System.out.println(e);
-					
+					ExtractValues.printAnnotations(RESULTS_FOLDER, e.getValue(),
+							this.currentDomain, domain_iFolder.getName(), attribute.getKey());
 					 }
+					 //TODO write a class to show-case this better, with multiple candidates
 						XpathOverlapCalculator c = new XpathOverlapCalculator(attribute.getValue());
 						for (int i =0; i <c.getOverlapMatrix().length; i++){
 							for (int j =0; j <c.getOverlapMatrix()[i].length; j++){
