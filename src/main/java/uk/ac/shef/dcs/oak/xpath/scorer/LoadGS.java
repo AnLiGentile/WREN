@@ -5,7 +5,7 @@ import java.util.Set;
 
 public interface LoadGS {
 
-	public HashMap<String, Set<String>> getValues();
-	public Set<String> getAllValuesInGS();
+	public HashMap<String, Set<String>> getValues(String property);
+	public Set<String> getAllValuesInGS(String property);
 	
 }

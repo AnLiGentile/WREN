@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 
 import uk.ac.shef.dcs.oak.operations.TextOperations;
 
-public class LoadSwdeGS{
+public class LoadSwdeGS implements LoadGS {
 
 	private static Logger l4j = Logger.getLogger(LoadSwdeGS.class);
 
@@ -93,6 +93,11 @@ public class LoadSwdeGS{
 
 	}
 
+	
+	/* (non-Javadoc)
+	 * @see uk.ac.shef.dcs.oak.xpath.scorer.LoadGS#getAllValuesInGS(java.lang.String)
+	 * property can be null, is not used in this loader
+	 */
 	public Set<String> getAllValuesInGS() {
 		Set<String> ann = new HashSet<String>();
 		for (Entry<String, Set<String>> s : this.values.entrySet()) {
@@ -109,8 +114,19 @@ public class LoadSwdeGS{
 		LoadSwdeGS fileExt = new LoadSwdeGS(
 				"./resources/datasets/swde-17477/groundtruth/nbaplayer/nbaplayer-espn-weight.txt");
 
-		System.out.println(fileExt.getAllValuesInGS());
+		System.out.println(fileExt.getAllValuesInGS(""));
+		System.out.println(fileExt.getValues(""));
 
+	}
+
+	@Override
+	public HashMap<String, Set<String>> getValues(String property) {
+		return getValues();
+	}
+
+	@Override
+	public Set<String> getAllValuesInGS(String property) {
+		return getAllValuesInGS();
 	}
 
 }
